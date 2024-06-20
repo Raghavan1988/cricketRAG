@@ -24,7 +24,8 @@ player_files = get_player_files(player_directory)
 
 # Sidebar for player selection
 selected_file = st.sidebar.selectbox("Select a player file", player_files)
-
+def remove_extension(filename):
+    return filename.rsplit('.', 1)[0]
 # Remove the .txt extension to get the batsman's name
 BATSMAN_NAME = remove_extension(selected_file)
 
