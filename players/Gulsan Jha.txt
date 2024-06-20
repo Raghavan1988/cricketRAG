@@ -1,81 +1,201 @@
-Match: southafrica_1411166_1415731.json
+Match: all_games_1411166_1415731.json
 Balls faced: 1
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "This has come down to the wire!"}]This has come down to the wire!
-OUT! {"short": "run out", "long": "run out (\u2020de Kock/Klaasen)", "commentary": "Gulsan Jha run out (\u2020de Kock/Klaasen) 6 (6b 1x4 0x6 13m) SR: 100"}
-Is that a run out?! Quinton de Kock is all smiles! What a dramatic end this is. Jha can't get bat on the short ball but the batters take off for the single. QDK throws it and it deflects to Klaasen off Jha. Klaasen throws the stumps down at the non-striker's end and it's <b>heartbreak for Nepal!</b> Jha seemed to slow down just a tad in the end I think. He is on his haunches, hand on head. But it's celebrations for South Africa, who have again pulled out a win out of nowhere!
-<b>11.10pm</b> So that will be all from Kingstown today. In the end, Nepal were so close no matter how far, but in the end, that doesn't really matter as far as the <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/points-table-standings">points table</a> is concerned, unfortunately. They are officially knocked out as South Africa go to the next stage with a perfect record. There has been a lot of support for Nepal at the grounds, and there have been a lot of you in the comments section here, and I can only imagine the heartbreak, but the Nepal players can hold their heads high at having given a team like South Africa a right run for their money. Maybe the game against Bangladesh will give them a chance at getting a win over a Full Member nation for the first time. Time will tell. As for today, in other news, <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-vs-uganda-32nd-match-group-c-1415732/full-scorecard">New Zealand trounced Uganda</a> for their first win of the competition and earlier in the day, the USA-Ireland game got washed out in a <a href="https://www.espncricinfo.com/story/t20-world-cup-2024-pakistan-knocked-out-of-t20-world-cup-2024-in-first-round-1438718">knockout blow for Pakistan</a>. That will be all from us. On behalf of Madushka Balasuriya, whose <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-south-africa-31st-match-group-d-1415731/match-report">report</a> shall be up soon, Sudeep Poojari, this is Abhimanyu signing off! <b>11.05pm</b> Time for the presentation ceremony. <b>Aiden Markram</b>: "Very grateful to have got the win, we were not near our best tonight. Reflecting back on the game over the next few days, there will be a lot of learnings for us. We have a good pace attack and you want to back that. I thought if we got the ball in the right areas, it would be challenging for the batters. In hindsight, we should have picked another spinner. First and foremost, the way [Nepal] bowled it made it really tough for us. They put us under a lot of pressure. And maybe there was not enough conviction in our plans. [On moving from USA to West Indies] It has been a bit different, we spent the whole day almost doing nothing and there we'd be playing first thing in the morning. Moving forward some things may change. It's one of the big challenges of cricket, being open minded and adapting." <b>Rohit Paudel</b>: "I think I am very proud of the unit, especially the way we bowled and batted. When we saw the wicket yesterday, we thought it would be on the slower side. When we were bowling I thought the wicket was helping the spinners so we carried on with the spinners. I think we were very close but a little far. In crunch moments we did well, I thought we fought very good. If we get more exposure to games like this, we will be on the other side [of the result]. [On the fans] I want to thank the fans for the way they have been supporting us. They come a long way, in the rain and everything, they come to support us." <b>10.55pm</b> What. A. Match. Nepal were the better team in the first innings, with Bhurtel and Airee spinning a web around South Africa. Then the batters seemed to put them in control. But in the last three overs, South Africa hit back and hit back hard. Shamsi and Nortje picked three between them to leave Nepal in trouble. Sompal Kami's six in the penultimate over again got Nepal back in with a shout and when Gulsan Jha brought it down to two off two, it looked like history was there to be made. But in the end, South Africa held their nerves. A World Cup classic! Player of the match, <b>Tabraiz Shamsi</b>: "Definitely relived, we came in with the goal of making it four out of four in this stage. Anywhere we go in the Caribbean, I assume that there is going to be turn. Fast bowlers did a great job in New York, but slower bowlers will have to take on the mantle. [On Nepal] I think they were brilliant, they took full advantage of the conditions. Wicket got better in the second innings, but they played a beautiful game. The huge positive is that we've been put under pressure every game and we've stood up to it every time. When this team is rolling, everyone knows their roles." Sujoy : "Reminiscent of Bangladesh vs India in 2016. Nepal just couldn't hold their nerve like BD" StevO: "Good luck to any team playing Afghanistan on this wicket. Honestly the way they are playing with this assistance they are walking into the semi finals!" Australia are set to play them here! Tika Ram Basel: "Idk what to say, this is the game we could beat South Africa. Totally devastating! totally heartbroken and crying! Watching from Germany whole the night, now it's 5:00 AM. No Sleep. So so sad. Idk how can i forget this game? "
+
+[{"type": "HTML", "html": "Is that a run out?! Quinton de Kock is all smiles! What a dramatic end this is. Jha can't get bat on the short ball but the batters take off for the single. QDK throws it and it deflects to Klaasen off Jha. Klaasen throws the stumps down at the non-striker's end and it's <b>heartbreak for Nepal!</b> Jha seemed to slow down just a tad in the end I think. He is on his haunches, hand on head. But it's celebrations for South Africa, who have again pulled out a win out of nowhere!"}]Is that a run out?! Quinton de Kock is all smiles! What a dramatic end this is. Jha can't get bat on the short ball but the batters take off for the single. QDK throws it and it deflects to Klaasen off Jha. Klaasen throws the stumps down at the non-striker's end and it's <b>heartbreak for Nepal!</b> Jha seemed to slow down just a tad in the end I think. He is on his haunches, hand on head. But it's celebrations for South Africa, who have again pulled out a win out of nowhere!
+[{"type": "HTML", "html": "<b>11.10pm</b> So that will be all from Kingstown today. In the end, Nepal were so close no matter how far, but in the end, that doesn't really matter as far as the <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/points-table-standings\">points table</a> is concerned, unfortunately. They are officially knocked out as South Africa go to the next stage with a perfect record. There has been a lot of support for Nepal at the grounds, and there have been a lot of you in the comments section here, and I can only imagine the heartbreak, but the Nepal players can hold their heads high at having given a team like South Africa a right run for their money. Maybe the game against Bangladesh will give them a chance at getting a win over a Full Member nation for the first time. Time will tell. As for today, in other news, <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-vs-uganda-32nd-match-group-c-1415732/full-scorecard\">New Zealand trounced Uganda</a> for their first win of the competition and earlier in the day, the USA-Ireland game got washed out in a <a href=\"https://www.espncricinfo.com/story/t20-world-cup-2024-pakistan-knocked-out-of-t20-world-cup-2024-in-first-round-1438718\">knockout blow for Pakistan</a>. That will be all from us. On behalf of Madushka Balasuriya, whose <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-south-africa-31st-match-group-d-1415731/match-report\">report</a> shall be up soon, Sudeep Poojari, this is Abhimanyu signing off!"}, {"type": "HTML", "html": "<b>11.05pm</b> Time for the presentation ceremony."}, {"type": "HTML", "html": "<b>Aiden Markram</b>: \"Very grateful to have got the win, we were not near our best tonight. Reflecting back on the game over the next few days, there will be a lot of learnings for us. We have a good pace attack and you want to back that. I thought if we got the ball in the right areas, it would be challenging for the batters. In hindsight, we should have picked another spinner. First and foremost, the way [Nepal] bowled it made it really tough for us. They put us under a lot of pressure. And maybe there was not enough conviction in our plans. [On moving from USA to West Indies] It has been a bit different, we spent the whole day almost doing nothing and there we'd be playing first thing in the morning. Moving forward some things may change. It's one of the big challenges of cricket, being open minded and adapting.\""}, {"type": "HTML", "html": "<b>Rohit Paudel</b>: \"I think I am very proud of the unit, especially the way we bowled and batted. When we saw the wicket yesterday, we thought it would be on the slower side. When we were bowling I thought the wicket was helping the spinners so we carried on with the spinners. I think we were very close but a little far. In crunch moments we did well, I thought we fought very good. If we get more exposure to games like this, we will be on the other side [of the result]. [On the fans] I want to thank the fans for the way they have been supporting us. They come a long way, in the rain and everything, they come to support us.\""}, {"type": "HTML", "html": "<b>10.55pm</b> What. A. Match. Nepal were the better team in the first innings, with Bhurtel and Airee spinning a web around South Africa. Then the batters seemed to put them in control. But in the last three overs, South Africa hit back and hit back hard. Shamsi and Nortje picked three between them to leave Nepal in trouble. Sompal Kami's six in the penultimate over again got Nepal back in with a shout and when Gulsan Jha brought it down to two off two, it looked like history was there to be made. But in the end, South Africa held their nerves. A World Cup classic!"}, {"type": "HTML", "html": "Player of the match, <b>Tabraiz Shamsi</b>: \"Definitely relived, we came in with the goal of making it four out of four in this stage. Anywhere we go in the Caribbean, I assume that there is going to be turn. Fast bowlers did a great job in New York, but slower bowlers will have to take on the mantle. [On Nepal] I think they were brilliant, they took full advantage of the conditions. Wicket got better in the second innings, but they played a beautiful game. The huge positive is that we've been put under pressure every game and we've stood up to it every time. When this team is rolling, everyone knows their roles.\""}, {"type": "HTML", "html": "Sujoy : \"Reminiscent of Bangladesh vs India in 2016. Nepal just couldn't hold their nerve like BD\""}, {"type": "HTML", "html": "StevO: \"Good luck to any team playing Afghanistan on this wicket. Honestly the way they are playing with this assistance they are walking into the semi finals!\" Australia are set to play them here!"}, {"type": "HTML", "html": "Tika Ram Basel: \"Idk what to say, this is the game we could beat South Africa. Totally devastating! totally heartbroken and crying! Watching from Germany whole the night, now it's 5:00 AM. No Sleep. So so sad. Idk how can i forget this game? \""}]<b>11.10pm</b> So that will be all from Kingstown today. In the end, Nepal were so close no matter how far, but in the end, that doesn't really matter as far as the <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/points-table-standings">points table</a> is concerned, unfortunately. They are officially knocked out as South Africa go to the next stage with a perfect record. There has been a lot of support for Nepal at the grounds, and there have been a lot of you in the comments section here, and I can only imagine the heartbreak, but the Nepal players can hold their heads high at having given a team like South Africa a right run for their money. Maybe the game against Bangladesh will give them a chance at getting a win over a Full Member nation for the first time. Time will tell. As for today, in other news, <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-vs-uganda-32nd-match-group-c-1415732/full-scorecard">New Zealand trounced Uganda</a> for their first win of the competition and earlier in the day, the USA-Ireland game got washed out in a <a href="https://www.espncricinfo.com/story/t20-world-cup-2024-pakistan-knocked-out-of-t20-world-cup-2024-in-first-round-1438718">knockout blow for Pakistan</a>. That will be all from us. On behalf of Madushka Balasuriya, whose <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-south-africa-31st-match-group-d-1415731/match-report">report</a> shall be up soon, Sudeep Poojari, this is Abhimanyu signing off! <b>11.05pm</b> Time for the presentation ceremony. <b>Aiden Markram</b>: "Very grateful to have got the win, we were not near our best tonight. Reflecting back on the game over the next few days, there will be a lot of learnings for us. We have a good pace attack and you want to back that. I thought if we got the ball in the right areas, it would be challenging for the batters. In hindsight, we should have picked another spinner. First and foremost, the way [Nepal] bowled it made it really tough for us. They put us under a lot of pressure. And maybe there was not enough conviction in our plans. [On moving from USA to West Indies] It has been a bit different, we spent the whole day almost doing nothing and there we'd be playing first thing in the morning. Moving forward some things may change. It's one of the big challenges of cricket, being open minded and adapting." <b>Rohit Paudel</b>: "I think I am very proud of the unit, especially the way we bowled and batted. When we saw the wicket yesterday, we thought it would be on the slower side. When we were bowling I thought the wicket was helping the spinners so we carried on with the spinners. I think we were very close but a little far. In crunch moments we did well, I thought we fought very good. If we get more exposure to games like this, we will be on the other side [of the result]. [On the fans] I want to thank the fans for the way they have been supporting us. They come a long way, in the rain and everything, they come to support us." <b>10.55pm</b> What. A. Match. Nepal were the better team in the first innings, with Bhurtel and Airee spinning a web around South Africa. Then the batters seemed to put them in control. But in the last three overs, South Africa hit back and hit back hard. Shamsi and Nortje picked three between them to leave Nepal in trouble. Sompal Kami's six in the penultimate over again got Nepal back in with a shout and when Gulsan Jha brought it down to two off two, it looked like history was there to be made. But in the end, South Africa held their nerves. A World Cup classic! Player of the match, <b>Tabraiz Shamsi</b>: "Definitely relived, we came in with the goal of making it four out of four in this stage. Anywhere we go in the Caribbean, I assume that there is going to be turn. Fast bowlers did a great job in New York, but slower bowlers will have to take on the mantle. [On Nepal] I think they were brilliant, they took full advantage of the conditions. Wicket got better in the second innings, but they played a beautiful game. The huge positive is that we've been put under pressure every game and we've stood up to it every time. When this team is rolling, everyone knows their roles." Sujoy : "Reminiscent of Bangladesh vs India in 2016. Nepal just couldn't hold their nerve like BD" StevO: "Good luck to any team playing Afghanistan on this wicket. Honestly the way they are playing with this assistance they are walking into the semi finals!" Australia are set to play them here! Tika Ram Basel: "Idk what to say, this is the game we could beat South Africa. Totally devastating! totally heartbroken and crying! Watching from Germany whole the night, now it's 5:00 AM. No Sleep. So so sad. Idk how can i forget this game? "
+
 Balls faced: 2
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
-<b>Baartman bowls the dot!</b> Digs it in short and beats the attempted ramp! Two from one, and one for a Super Over!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b>Baartman bowls the dot!</b> Digs it in short and beats the attempted ramp! Two from one, and one for a Super Over!"}]<b>Baartman bowls the dot!</b> Digs it in short and beats the attempted ramp! Two from one, and one for a Super Over!
+
+
 Balls faced: 3
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: COVER_DRIVE
-run scored: 2
-Crashed through cover and they are just two away now! Length ball going across him, he backs away and slaps it away to deep cover's left. They get the brace.
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Crashed through cover and they are just two away now! Length ball going across him, he backs away and slaps it away to deep cover's left. They get the brace."}]Crashed through cover and they are just two away now! Length ball going across him, he backs away and slaps it away to deep cover's left. They get the brace.
+
+
 Balls faced: 4
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: COVER_DRIVE
-run scored: 4
-<b>Game on!</b> Cracking shot! Baartman goes for the wide yorker again, Jha has moved across the stumps and he carts it over cover. Deep point stood no chance. Four needed from three now!
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<b>Game on!</b> Cracking shot! Baartman goes for the wide yorker again, Jha has moved across the stumps and he carts it over cover. Deep point stood no chance. Four needed from three now!"}]<b>Game on!</b> Cracking shot! Baartman goes for the wide yorker again, Jha has moved across the stumps and he carts it over cover. Deep point stood no chance. Four needed from three now!
+
+
 Balls faced: 5
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
-Nails the wide yorker, inside the line, and Jha can't touch this either! Another dot from Baartman
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Nails the wide yorker, inside the line, and Jha can't touch this either! Another dot from Baartman"}]Nails the wide yorker, inside the line, and Jha can't touch this either! Another dot from Baartman
+
+
 Balls faced: 6
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "What a match this is! Eight needed off the last over! Gulsan Jha on strike. And he hasn't faced a single delivery yet! Baartman will look to close this out for South Africa"}]What a match this is! Eight needed off the last over! Gulsan Jha on strike. And he hasn't faced a single delivery yet! Baartman will look to close this out for South Africa
-Length ball on off angled across the left-handed batter, who looks to cut but can't make contact
+
+[{"type": "HTML", "html": "Length ball on off angled across the left-handed batter, who looks to cut but can't make contact"}]Length ball on off angled across the left-handed batter, who looks to cut but can't make contact
+
+
 Balls faced: 7
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "This has come down to the wire!"}]This has come down to the wire!
-OUT! {"short": "run out", "long": "run out (\u2020de Kock/Klaasen)", "commentary": "Gulsan Jha run out (\u2020de Kock/Klaasen) 6 (6b 1x4 0x6 13m) SR: 100"}
-Is that a run out?! Quinton de Kock is all smiles! What a dramatic end this is. Jha can't get bat on the short ball but the batters take off for the single. QDK throws it and it deflects to Klaasen off Jha. Klaasen throws the stumps down at the non-striker's end and it's <b>heartbreak for Nepal!</b> Jha seemed to slow down just a tad in the end I think. He is on his haunches, hand on head. But it's celebrations for South Africa, who have again pulled out a win out of nowhere!
-<b>11.10pm</b> So that will be all from Kingstown today. In the end, Nepal were so close no matter how far, but in the end, that doesn't really matter as far as the <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/points-table-standings">points table</a> is concerned, unfortunately. They are officially knocked out as South Africa go to the next stage with a perfect record. There has been a lot of support for Nepal at the grounds, and there have been a lot of you in the comments section here, and I can only imagine the heartbreak, but the Nepal players can hold their heads high at having given a team like South Africa a right run for their money. Maybe the game against Bangladesh will give them a chance at getting a win over a Full Member nation for the first time. Time will tell. As for today, in other news, <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-vs-uganda-32nd-match-group-c-1415732/full-scorecard">New Zealand trounced Uganda</a> for their first win of the competition and earlier in the day, the USA-Ireland game got washed out in a <a href="https://www.espncricinfo.com/story/t20-world-cup-2024-pakistan-knocked-out-of-t20-world-cup-2024-in-first-round-1438718">knockout blow for Pakistan</a>. That will be all from us. On behalf of Madushka Balasuriya, whose <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-south-africa-31st-match-group-d-1415731/match-report">report</a> shall be up soon, Sudeep Poojari, this is Abhimanyu signing off! <b>11.05pm</b> Time for the presentation ceremony. <b>Aiden Markram</b>: "Very grateful to have got the win, we were not near our best tonight. Reflecting back on the game over the next few days, there will be a lot of learnings for us. We have a good pace attack and you want to back that. I thought if we got the ball in the right areas, it would be challenging for the batters. In hindsight, we should have picked another spinner. First and foremost, the way [Nepal] bowled it made it really tough for us. They put us under a lot of pressure. And maybe there was not enough conviction in our plans. [On moving from USA to West Indies] It has been a bit different, we spent the whole day almost doing nothing and there we'd be playing first thing in the morning. Moving forward some things may change. It's one of the big challenges of cricket, being open minded and adapting." <b>Rohit Paudel</b>: "I think I am very proud of the unit, especially the way we bowled and batted. When we saw the wicket yesterday, we thought it would be on the slower side. When we were bowling I thought the wicket was helping the spinners so we carried on with the spinners. I think we were very close but a little far. In crunch moments we did well, I thought we fought very good. If we get more exposure to games like this, we will be on the other side [of the result]. [On the fans] I want to thank the fans for the way they have been supporting us. They come a long way, in the rain and everything, they come to support us." <b>10.55pm</b> What. A. Match. Nepal were the better team in the first innings, with Bhurtel and Airee spinning a web around South Africa. Then the batters seemed to put them in control. But in the last three overs, South Africa hit back and hit back hard. Shamsi and Nortje picked three between them to leave Nepal in trouble. Sompal Kami's six in the penultimate over again got Nepal back in with a shout and when Gulsan Jha brought it down to two off two, it looked like history was there to be made. But in the end, South Africa held their nerves. A World Cup classic! Player of the match, <b>Tabraiz Shamsi</b>: "Definitely relived, we came in with the goal of making it four out of four in this stage. Anywhere we go in the Caribbean, I assume that there is going to be turn. Fast bowlers did a great job in New York, but slower bowlers will have to take on the mantle. [On Nepal] I think they were brilliant, they took full advantage of the conditions. Wicket got better in the second innings, but they played a beautiful game. The huge positive is that we've been put under pressure every game and we've stood up to it every time. When this team is rolling, everyone knows their roles." Sujoy : "Reminiscent of Bangladesh vs India in 2016. Nepal just couldn't hold their nerve like BD" StevO: "Good luck to any team playing Afghanistan on this wicket. Honestly the way they are playing with this assistance they are walking into the semi finals!" Australia are set to play them here! Tika Ram Basel: "Idk what to say, this is the game we could beat South Africa. Totally devastating! totally heartbroken and crying! Watching from Germany whole the night, now it's 5:00 AM. No Sleep. So so sad. Idk how can i forget this game? "
+
+[{"type": "HTML", "html": "Is that a run out?! Quinton de Kock is all smiles! What a dramatic end this is. Jha can't get bat on the short ball but the batters take off for the single. QDK throws it and it deflects to Klaasen off Jha. Klaasen throws the stumps down at the non-striker's end and it's <b>heartbreak for Nepal!</b> Jha seemed to slow down just a tad in the end I think. He is on his haunches, hand on head. But it's celebrations for South Africa, who have again pulled out a win out of nowhere!"}]Is that a run out?! Quinton de Kock is all smiles! What a dramatic end this is. Jha can't get bat on the short ball but the batters take off for the single. QDK throws it and it deflects to Klaasen off Jha. Klaasen throws the stumps down at the non-striker's end and it's <b>heartbreak for Nepal!</b> Jha seemed to slow down just a tad in the end I think. He is on his haunches, hand on head. But it's celebrations for South Africa, who have again pulled out a win out of nowhere!
+[{"type": "HTML", "html": "<b>11.10pm</b> So that will be all from Kingstown today. In the end, Nepal were so close no matter how far, but in the end, that doesn't really matter as far as the <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/points-table-standings\">points table</a> is concerned, unfortunately. They are officially knocked out as South Africa go to the next stage with a perfect record. There has been a lot of support for Nepal at the grounds, and there have been a lot of you in the comments section here, and I can only imagine the heartbreak, but the Nepal players can hold their heads high at having given a team like South Africa a right run for their money. Maybe the game against Bangladesh will give them a chance at getting a win over a Full Member nation for the first time. Time will tell. As for today, in other news, <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-vs-uganda-32nd-match-group-c-1415732/full-scorecard\">New Zealand trounced Uganda</a> for their first win of the competition and earlier in the day, the USA-Ireland game got washed out in a <a href=\"https://www.espncricinfo.com/story/t20-world-cup-2024-pakistan-knocked-out-of-t20-world-cup-2024-in-first-round-1438718\">knockout blow for Pakistan</a>. That will be all from us. On behalf of Madushka Balasuriya, whose <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-south-africa-31st-match-group-d-1415731/match-report\">report</a> shall be up soon, Sudeep Poojari, this is Abhimanyu signing off!"}, {"type": "HTML", "html": "<b>11.05pm</b> Time for the presentation ceremony."}, {"type": "HTML", "html": "<b>Aiden Markram</b>: \"Very grateful to have got the win, we were not near our best tonight. Reflecting back on the game over the next few days, there will be a lot of learnings for us. We have a good pace attack and you want to back that. I thought if we got the ball in the right areas, it would be challenging for the batters. In hindsight, we should have picked another spinner. First and foremost, the way [Nepal] bowled it made it really tough for us. They put us under a lot of pressure. And maybe there was not enough conviction in our plans. [On moving from USA to West Indies] It has been a bit different, we spent the whole day almost doing nothing and there we'd be playing first thing in the morning. Moving forward some things may change. It's one of the big challenges of cricket, being open minded and adapting.\""}, {"type": "HTML", "html": "<b>Rohit Paudel</b>: \"I think I am very proud of the unit, especially the way we bowled and batted. When we saw the wicket yesterday, we thought it would be on the slower side. When we were bowling I thought the wicket was helping the spinners so we carried on with the spinners. I think we were very close but a little far. In crunch moments we did well, I thought we fought very good. If we get more exposure to games like this, we will be on the other side [of the result]. [On the fans] I want to thank the fans for the way they have been supporting us. They come a long way, in the rain and everything, they come to support us.\""}, {"type": "HTML", "html": "<b>10.55pm</b> What. A. Match. Nepal were the better team in the first innings, with Bhurtel and Airee spinning a web around South Africa. Then the batters seemed to put them in control. But in the last three overs, South Africa hit back and hit back hard. Shamsi and Nortje picked three between them to leave Nepal in trouble. Sompal Kami's six in the penultimate over again got Nepal back in with a shout and when Gulsan Jha brought it down to two off two, it looked like history was there to be made. But in the end, South Africa held their nerves. A World Cup classic!"}, {"type": "HTML", "html": "Player of the match, <b>Tabraiz Shamsi</b>: \"Definitely relived, we came in with the goal of making it four out of four in this stage. Anywhere we go in the Caribbean, I assume that there is going to be turn. Fast bowlers did a great job in New York, but slower bowlers will have to take on the mantle. [On Nepal] I think they were brilliant, they took full advantage of the conditions. Wicket got better in the second innings, but they played a beautiful game. The huge positive is that we've been put under pressure every game and we've stood up to it every time. When this team is rolling, everyone knows their roles.\""}, {"type": "HTML", "html": "Sujoy : \"Reminiscent of Bangladesh vs India in 2016. Nepal just couldn't hold their nerve like BD\""}, {"type": "HTML", "html": "StevO: \"Good luck to any team playing Afghanistan on this wicket. Honestly the way they are playing with this assistance they are walking into the semi finals!\" Australia are set to play them here!"}, {"type": "HTML", "html": "Tika Ram Basel: \"Idk what to say, this is the game we could beat South Africa. Totally devastating! totally heartbroken and crying! Watching from Germany whole the night, now it's 5:00 AM. No Sleep. So so sad. Idk how can i forget this game? \""}]<b>11.10pm</b> So that will be all from Kingstown today. In the end, Nepal were so close no matter how far, but in the end, that doesn't really matter as far as the <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/points-table-standings">points table</a> is concerned, unfortunately. They are officially knocked out as South Africa go to the next stage with a perfect record. There has been a lot of support for Nepal at the grounds, and there have been a lot of you in the comments section here, and I can only imagine the heartbreak, but the Nepal players can hold their heads high at having given a team like South Africa a right run for their money. Maybe the game against Bangladesh will give them a chance at getting a win over a Full Member nation for the first time. Time will tell. As for today, in other news, <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-vs-uganda-32nd-match-group-c-1415732/full-scorecard">New Zealand trounced Uganda</a> for their first win of the competition and earlier in the day, the USA-Ireland game got washed out in a <a href="https://www.espncricinfo.com/story/t20-world-cup-2024-pakistan-knocked-out-of-t20-world-cup-2024-in-first-round-1438718">knockout blow for Pakistan</a>. That will be all from us. On behalf of Madushka Balasuriya, whose <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-south-africa-31st-match-group-d-1415731/match-report">report</a> shall be up soon, Sudeep Poojari, this is Abhimanyu signing off! <b>11.05pm</b> Time for the presentation ceremony. <b>Aiden Markram</b>: "Very grateful to have got the win, we were not near our best tonight. Reflecting back on the game over the next few days, there will be a lot of learnings for us. We have a good pace attack and you want to back that. I thought if we got the ball in the right areas, it would be challenging for the batters. In hindsight, we should have picked another spinner. First and foremost, the way [Nepal] bowled it made it really tough for us. They put us under a lot of pressure. And maybe there was not enough conviction in our plans. [On moving from USA to West Indies] It has been a bit different, we spent the whole day almost doing nothing and there we'd be playing first thing in the morning. Moving forward some things may change. It's one of the big challenges of cricket, being open minded and adapting." <b>Rohit Paudel</b>: "I think I am very proud of the unit, especially the way we bowled and batted. When we saw the wicket yesterday, we thought it would be on the slower side. When we were bowling I thought the wicket was helping the spinners so we carried on with the spinners. I think we were very close but a little far. In crunch moments we did well, I thought we fought very good. If we get more exposure to games like this, we will be on the other side [of the result]. [On the fans] I want to thank the fans for the way they have been supporting us. They come a long way, in the rain and everything, they come to support us." <b>10.55pm</b> What. A. Match. Nepal were the better team in the first innings, with Bhurtel and Airee spinning a web around South Africa. Then the batters seemed to put them in control. But in the last three overs, South Africa hit back and hit back hard. Shamsi and Nortje picked three between them to leave Nepal in trouble. Sompal Kami's six in the penultimate over again got Nepal back in with a shout and when Gulsan Jha brought it down to two off two, it looked like history was there to be made. But in the end, South Africa held their nerves. A World Cup classic! Player of the match, <b>Tabraiz Shamsi</b>: "Definitely relived, we came in with the goal of making it four out of four in this stage. Anywhere we go in the Caribbean, I assume that there is going to be turn. Fast bowlers did a great job in New York, but slower bowlers will have to take on the mantle. [On Nepal] I think they were brilliant, they took full advantage of the conditions. Wicket got better in the second innings, but they played a beautiful game. The huge positive is that we've been put under pressure every game and we've stood up to it every time. When this team is rolling, everyone knows their roles." Sujoy : "Reminiscent of Bangladesh vs India in 2016. Nepal just couldn't hold their nerve like BD" StevO: "Good luck to any team playing Afghanistan on this wicket. Honestly the way they are playing with this assistance they are walking into the semi finals!" Australia are set to play them here! Tika Ram Basel: "Idk what to say, this is the game we could beat South Africa. Totally devastating! totally heartbroken and crying! Watching from Germany whole the night, now it's 5:00 AM. No Sleep. So so sad. Idk how can i forget this game? "
+
 Balls faced: 8
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
-<b>Baartman bowls the dot!</b> Digs it in short and beats the attempted ramp! Two from one, and one for a Super Over!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b>Baartman bowls the dot!</b> Digs it in short and beats the attempted ramp! Two from one, and one for a Super Over!"}]<b>Baartman bowls the dot!</b> Digs it in short and beats the attempted ramp! Two from one, and one for a Super Over!
+
+
 Balls faced: 9
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: COVER_DRIVE
-run scored: 2
-Crashed through cover and they are just two away now! Length ball going across him, he backs away and slaps it away to deep cover's left. They get the brace.
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Crashed through cover and they are just two away now! Length ball going across him, he backs away and slaps it away to deep cover's left. They get the brace."}]Crashed through cover and they are just two away now! Length ball going across him, he backs away and slaps it away to deep cover's left. They get the brace.
+
+
 Balls faced: 10
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: COVER_DRIVE
-run scored: 4
-<b>Game on!</b> Cracking shot! Baartman goes for the wide yorker again, Jha has moved across the stumps and he carts it over cover. Deep point stood no chance. Four needed from three now!
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<b>Game on!</b> Cracking shot! Baartman goes for the wide yorker again, Jha has moved across the stumps and he carts it over cover. Deep point stood no chance. Four needed from three now!"}]<b>Game on!</b> Cracking shot! Baartman goes for the wide yorker again, Jha has moved across the stumps and he carts it over cover. Deep point stood no chance. Four needed from three now!
+
+
 Balls faced: 11
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
-Nails the wide yorker, inside the line, and Jha can't touch this either! Another dot from Baartman
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Nails the wide yorker, inside the line, and Jha can't touch this either! Another dot from Baartman"}]Nails the wide yorker, inside the line, and Jha can't touch this either! Another dot from Baartman
+
+
 Balls faced: 12
 Bowler: Baartman
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "What a match this is! Eight needed off the last over! Gulsan Jha on strike. And he hasn't faced a single delivery yet! Baartman will look to close this out for South Africa"}]What a match this is! Eight needed off the last over! Gulsan Jha on strike. And he hasn't faced a single delivery yet! Baartman will look to close this out for South Africa
-Length ball on off angled across the left-handed batter, who looks to cut but can't make contact
+
+[{"type": "HTML", "html": "Length ball on off angled across the left-handed batter, who looks to cut but can't make contact"}]Length ball on off angled across the left-handed batter, who looks to cut but can't make contact
+
+
+
+Match: all_games_1411166_1415737.json
+Balls faced: 1
+Bowler: Mustafizur
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Skids off the surface and beats Jha for pace as he looks to cut"}]back of a length just outside off. Skids off the surface and beats Jha for pace as he looks to cut
+
+
+Balls faced: 2
+Bowler: Mustafizur
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Jha, who was on strike for the last ball of Nepal's game against South Africa, strides out. He will be out for redemption. Nepal need 29 off 20"}, {"type": "HTML", "html": "Jawad: \"I've got school in 5 hours and I'm staying up just hoping Bangladesh win. The nerves are getting higher and higher ball by ball.\""}]Jha, who was on strike for the last ball of Nepal's game against South Africa, strides out. He will be out for redemption. Nepal need 29 off 20 Jawad: "I've got school in 5 hours and I'm staying up just hoping Bangladesh win. The nerves are getting higher and higher ball by ball."
+
+[{"type": "HTML", "html": "<strong>oh!</strong> Length just outside off. Cuts back into Jha and he gets the faintest of inside-edges onto his pads"}]<strong>oh!</strong> Length just outside off. Cuts back into Jha and he gets the faintest of inside-edges onto his pads
+
+
+Balls faced: 3
+Bowler: Taskin
+Over: 18
+Shot: PULL
+Run scored: 0
+[{"type": "HTML", "html": "Kp: \"9.5 runs an over on this pitch can be a difficult task\" -- Especially with one over of Mustafizur left"}]Kp: "9.5 runs an over on this pitch can be a difficult task" -- Especially with one over of Mustafizur left
+
+[{"type": "HTML", "html": "<strong>tame dismissal, and there will be no redemption for Jha tonight!</strong> Hard length, slanted across the batter outside off. Jha has a massive swipe across the line but the ball gets onto him much quicker than he expects. Spoons it up off the splice and Hridoy, stationed very close at extra cover, does the rest!"}]<strong>tame dismissal, and there will be no redemption for Jha tonight!</strong> Hard length, slanted across the batter outside off. Jha has a massive swipe across the line but the ball gets onto him much quicker than he expects. Spoons it up off the splice and Hridoy, stationed very close at extra cover, does the rest!
+
+
+Balls faced: 4
+Bowler: Taskin
+Over: 18
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Whistles off the surface and Jha cannot lay bat on ball"}]back of a length just outside off. Whistles off the surface and Jha cannot lay bat on ball
+
+
+Balls faced: 5
+Bowler: Mustafizur
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Skids off the surface and beats Jha for pace as he looks to cut"}]back of a length just outside off. Skids off the surface and beats Jha for pace as he looks to cut
+
+
+Balls faced: 6
+Bowler: Mustafizur
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Jha, who was on strike for the last ball of Nepal's game against South Africa, strides out. He will be out for redemption. Nepal need 29 off 20"}, {"type": "HTML", "html": "Jawad: \"I've got school in 5 hours and I'm staying up just hoping Bangladesh win. The nerves are getting higher and higher ball by ball.\""}]Jha, who was on strike for the last ball of Nepal's game against South Africa, strides out. He will be out for redemption. Nepal need 29 off 20 Jawad: "I've got school in 5 hours and I'm staying up just hoping Bangladesh win. The nerves are getting higher and higher ball by ball."
+
+[{"type": "HTML", "html": "<strong>oh!</strong> Length just outside off. Cuts back into Jha and he gets the faintest of inside-edges onto his pads"}]<strong>oh!</strong> Length just outside off. Cuts back into Jha and he gets the faintest of inside-edges onto his pads
+
+
+Balls faced: 7
+Bowler: Taskin
+Over: 18
+Shot: PULL
+Run scored: 0
+[{"type": "HTML", "html": "Kp: \"9.5 runs an over on this pitch can be a difficult task\" -- Especially with one over of Mustafizur left"}]Kp: "9.5 runs an over on this pitch can be a difficult task" -- Especially with one over of Mustafizur left
+
+[{"type": "HTML", "html": "<strong>tame dismissal, and there will be no redemption for Jha tonight!</strong> Hard length, slanted across the batter outside off. Jha has a massive swipe across the line but the ball gets onto him much quicker than he expects. Spoons it up off the splice and Hridoy, stationed very close at extra cover, does the rest!"}]<strong>tame dismissal, and there will be no redemption for Jha tonight!</strong> Hard length, slanted across the batter outside off. Jha has a massive swipe across the line but the ball gets onto him much quicker than he expects. Spoons it up off the splice and Hridoy, stationed very close at extra cover, does the rest!
+
+
+Balls faced: 8
+Bowler: Taskin
+Over: 18
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Whistles off the surface and Jha cannot lay bat on ball"}]back of a length just outside off. Whistles off the surface and Jha cannot lay bat on ball

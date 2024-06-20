@@ -1,113 +1,3570 @@
-Match: southafrica_1411166_1415716.json
+Match: all_games_1377745_1377755.json
+Balls faced: 1
+Bowler: Netravalkar
+Over: 22
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Scott Edwards arrives with his side now under a healthy amount of pressure. USA's pace bowlers look like a different unit now that Ali Khan is in the lineup."}]Scott Edwards arrives with his side now under a healthy amount of pressure. USA's pace bowlers look like a different unit now that Ali Khan is in the lineup.
+
+[{"type": "HTML", "html": "fullish length on the legs, flicked through square leg for one."}]fullish length on the legs, flicked through square leg for one.
+
+
+Balls faced: 2
+Bowler: Kenjige
+Over: 23
+Shot: PADDLE_SWEEP
+Run scored: 1
+
+
+[{"type": "HTML", "html": "knee high full toss on fourth stump, Edwards shuffles across to play a delicate paddle sweep for one through fine leg."}]knee high full toss on fourth stump, Edwards shuffles across to play a delicate paddle sweep for one through fine leg.
+
+
+Balls faced: 3
+Bowler: Kenjige
+Over: 23
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length arm ball skids on from fifth stump and is jammed out very late to backward point."}]good length arm ball skids on from fifth stump and is jammed out very late to backward point.
+
+
+Balls faced: 4
+Bowler: Kenjige
+Over: 23
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on middle, defended to Kenjige."}]full on middle, defended to Kenjige.
+[{"type": "HTML", "html": "Shehroz: \"4 off 24 balls and then out, what sort of an innings was that ?\" The kind that won't be making it to de Leede's Instagram Stories later tonight."}]Shehroz: "4 off 24 balls and then out, what sort of an innings was that ?" The kind that won't be making it to de Leede's Instagram Stories later tonight.
+
+Balls faced: 5
+Bowler: Netravalkar
+Over: 22
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Scott Edwards arrives with his side now under a healthy amount of pressure. USA's pace bowlers look like a different unit now that Ali Khan is in the lineup."}]Scott Edwards arrives with his side now under a healthy amount of pressure. USA's pace bowlers look like a different unit now that Ali Khan is in the lineup.
+
+[{"type": "HTML", "html": "fullish length on the legs, flicked through square leg for one."}]fullish length on the legs, flicked through square leg for one.
+
+
+Balls faced: 6
+Bowler: Jasdeep
+Over: 24
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on off, pushed to cover for none."}]full on off, pushed to cover for none.
+
+
+Balls faced: 7
+Bowler: Jasdeep
+Over: 24
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on off stump, defended to cover."}]full on off stump, defended to cover.
+
+
+Balls faced: 8
+Bowler: Jasdeep
+Over: 24
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short on fourth stump, pulled through midwicket for a very long single. They turn back for two before deciding against it as Jones races in from the rope with a sharp relay."}]short on fourth stump, pulled through midwicket for a very long single. They turn back for two before deciding against it as Jones races in from the rope with a sharp relay.
+
+
+Balls faced: 9
+Bowler: Jasdeep
+Over: 24
+Shot: DEFENDED
+Run scored: 2
+[{"type": "HTML", "html": "Jessy Singh returns after a short two-over break from this end where Netravalkar came on and took the wicket of de Leede."}]Jessy Singh returns after a short two-over break from this end where Netravalkar came on and took the wicket of de Leede.
+
+[{"type": "HTML", "html": "back of a length on fifth stump, inside edge on a back foot punch is squirted past the stumps to deep fine leg for two."}]back of a length on fifth stump, inside edge on a back foot punch is squirted past the stumps to deep fine leg for two.
+
+
+Balls faced: 10
+Bowler: Kenjige
+Over: 23
+Shot: PADDLE_SWEEP
+Run scored: 1
+
+
+[{"type": "HTML", "html": "knee high full toss on fourth stump, Edwards shuffles across to play a delicate paddle sweep for one through fine leg."}]knee high full toss on fourth stump, Edwards shuffles across to play a delicate paddle sweep for one through fine leg.
+
+
+Balls faced: 11
+Bowler: Kenjige
+Over: 23
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length arm ball skids on from fifth stump and is jammed out very late to backward point."}]good length arm ball skids on from fifth stump and is jammed out very late to backward point.
+
+
+Balls faced: 12
+Bowler: Kenjige
+Over: 23
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on middle, defended to Kenjige."}]full on middle, defended to Kenjige.
+[{"type": "HTML", "html": "Shehroz: \"4 off 24 balls and then out, what sort of an innings was that ?\" The kind that won't be making it to de Leede's Instagram Stories later tonight."}]Shehroz: "4 off 24 balls and then out, what sort of an innings was that ?" The kind that won't be making it to de Leede's Instagram Stories later tonight.
+
+Balls faced: 13
+Bowler: Jasdeep
+Over: 24
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on off, pushed to cover for none."}]full on off, pushed to cover for none.
+
+
+Balls faced: 14
+Bowler: Jasdeep
+Over: 24
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on off stump, defended to cover."}]full on off stump, defended to cover.
+
+
+Balls faced: 15
+Bowler: Jasdeep
+Over: 24
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short on fourth stump, pulled through midwicket for a very long single. They turn back for two before deciding against it as Jones races in from the rope with a sharp relay."}]short on fourth stump, pulled through midwicket for a very long single. They turn back for two before deciding against it as Jones races in from the rope with a sharp relay.
+
+
+Balls faced: 16
+Bowler: Jasdeep
+Over: 24
+Shot: DEFENDED
+Run scored: 2
+[{"type": "HTML", "html": "Jessy Singh returns after a short two-over break from this end where Netravalkar came on and took the wicket of de Leede."}]Jessy Singh returns after a short two-over break from this end where Netravalkar came on and took the wicket of de Leede.
+
+[{"type": "HTML", "html": "back of a length on fifth stump, inside edge on a back foot punch is squirted past the stumps to deep fine leg for two."}]back of a length on fifth stump, inside edge on a back foot punch is squirted past the stumps to deep fine leg for two.
+
+
+Balls faced: 17
+Bowler: Jasdeep
+Over: 26
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length ball wide outside off, sliced to deep third for one."}]length ball wide outside off, sliced to deep third for one.
+
+
+Balls faced: 18
+Bowler: Patel
+Over: 27
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on fourth stump, another sweep to deep backward square leg and this time they can only manage one."}]full on fourth stump, another sweep to deep backward square leg and this time they can only manage one.
+
+
+Balls faced: 19
+Bowler: Patel
+Over: 27
+Shot: SWEEP_SHOT
+Run scored: 2
+
+
+[{"type": "HTML", "html": "low full toss on off, shuffles across and sweeps this behind square leg for two."}]low full toss on off, shuffles across and sweeps this behind square leg for two.
+
+
+Balls faced: 20
+Bowler: Patel
+Over: 27
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full on middle, flicked through vacant midwicket with perfect touch to collect two."}]full on middle, flicked through vacant midwicket with perfect touch to collect two.
+
+
+Balls faced: 21
+Bowler: Jasdeep
+Over: 26
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length ball wide outside off, sliced to deep third for one."}]length ball wide outside off, sliced to deep third for one.
+
+
+Balls faced: 22
+Bowler: Kenjige
+Over: 28
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball on middle, flicked through midwicket for one."}]good length ball on middle, flicked through midwicket for one.
+
+
+Balls faced: 23
+Bowler: Kenjige
+Over: 28
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Kenjige back again with 3 overs left."}]Kenjige back again with 3 overs left.
+
+[{"type": "HTML", "html": "good length ball on off, tap and run into vacant midwicket for one."}]good length ball on off, tap and run into vacant midwicket for one.
+
+
+Balls faced: 24
+Bowler: Patel
+Over: 27
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on fourth stump, another sweep to deep backward square leg and this time they can only manage one."}]full on fourth stump, another sweep to deep backward square leg and this time they can only manage one.
+
+
+Balls faced: 25
+Bowler: Patel
+Over: 27
+Shot: SWEEP_SHOT
+Run scored: 2
+
+
+[{"type": "HTML", "html": "low full toss on off, shuffles across and sweeps this behind square leg for two."}]low full toss on off, shuffles across and sweeps this behind square leg for two.
+
+
+Balls faced: 26
+Bowler: Patel
+Over: 27
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full on middle, flicked through vacant midwicket with perfect touch to collect two."}]full on middle, flicked through vacant midwicket with perfect touch to collect two.
+
+
+Balls faced: 27
+Bowler: Taylor
+Over: 29
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on off, flicked wide of Jones at midwicket for one."}]full on off, flicked wide of Jones at midwicket for one.
+
+
+Balls faced: 28
+Bowler: Taylor
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on fifth stump, Edwards tries to tap and run to cover but hits it too firmly to the fielder for none."}]full on fifth stump, Edwards tries to tap and run to cover but hits it too firmly to the fielder for none.
+
+
+Balls faced: 29
+Bowler: Taylor
+Over: 29
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball on fifth stump, shuffles across and flicks through square leg for one."}]good length ball on fifth stump, shuffles across and flicks through square leg for one.
+
+
+Balls faced: 30
+Bowler: Taylor
+Over: 29
+Shot: ON_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Steven Taylor finally enters the attack. He's been arguably USA's best bowler in the qualifier."}]Steven Taylor finally enters the attack. He's been arguably USA's best bowler in the qualifier.
+
+[{"type": "HTML", "html": "full on fifth stump, miscues a drive to mid-off for none."}]full on fifth stump, miscues a drive to mid-off for none.
+
+
+Balls faced: 31
+Bowler: Kenjige
+Over: 28
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball on middle, flicked through midwicket for one."}]good length ball on middle, flicked through midwicket for one.
+
+
+Balls faced: 32
+Bowler: Kenjige
+Over: 28
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Kenjige back again with 3 overs left."}]Kenjige back again with 3 overs left.
+
+[{"type": "HTML", "html": "good length ball on off, tap and run into vacant midwicket for one."}]good length ball on off, tap and run into vacant midwicket for one.
+
+
+Balls faced: 33
+Bowler: Patel
+Over: 30
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on fourth stump, pushed firmly straight to the sub Paradkar at mid-off, who kneels down and fumbles badly to turn a dot into a single."}]full on fourth stump, pushed firmly straight to the sub Paradkar at mid-off, who kneels down and fumbles badly to turn a dot into a single.
+
+
+Balls faced: 34
+Bowler: Patel
+Over: 30
+Shot: PADDLE_SWEEP
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on middle, Edwards sweeps this one-handed and gets glove on this past the stumps and keeper for a nervy single. Huge lbw shout is denied as it looked to come off the glove onto the toe before going past the stumps. Given as runs."}]full on middle, Edwards sweeps this one-handed and gets glove on this past the stumps and keeper for a nervy single. Huge lbw shout is denied as it looked to come off the glove onto the toe before going past the stumps. Given as runs.
+
+
+Balls faced: 35
+Bowler: Patel
+Over: 30
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "flighted on a fullish length on middle, pokes at this and a thick edge goes to point for none."}]flighted on a fullish length on middle, pokes at this and a thick edge goes to point for none.
+
+
+Balls faced: 36
+Bowler: Taylor
+Over: 29
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on off, flicked wide of Jones at midwicket for one."}]full on off, flicked wide of Jones at midwicket for one.
+
+
+Balls faced: 37
+Bowler: Taylor
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on fifth stump, Edwards tries to tap and run to cover but hits it too firmly to the fielder for none."}]full on fifth stump, Edwards tries to tap and run to cover but hits it too firmly to the fielder for none.
+
+
+Balls faced: 38
+Bowler: Taylor
+Over: 29
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball on fifth stump, shuffles across and flicks through square leg for one."}]good length ball on fifth stump, shuffles across and flicks through square leg for one.
+
+
+Balls faced: 39
+Bowler: Taylor
+Over: 29
+Shot: ON_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Steven Taylor finally enters the attack. He's been arguably USA's best bowler in the qualifier."}]Steven Taylor finally enters the attack. He's been arguably USA's best bowler in the qualifier.
+
+[{"type": "HTML", "html": "full on fifth stump, miscues a drive to mid-off for none."}]full on fifth stump, miscues a drive to mid-off for none.
+
+
+Balls faced: 40
+Bowler: Taylor
+Over: 31
+Shot: PADDLE_SWEEP
+Run scored: 1
+
+
+[{"type": "HTML", "html": "<b>nearly another chance! </b>Full on middle and leg, sweeps this in the air toward Modani at deep backward square leg, who is slow reacting coming off the rope and lets it drop in front of him for one."}]<b>nearly another chance! </b>Full on middle and leg, sweeps this in the air toward Modani at deep backward square leg, who is slow reacting coming off the rope and lets it drop in front of him for one.
+
+
+Balls faced: 41
+Bowler: Taylor
+Over: 31
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length ball on off, tapped to cover for a dot."}]good length ball on off, tapped to cover for a dot.
+
+
+Balls faced: 42
+Bowler: Patel
+Over: 30
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on fourth stump, pushed firmly straight to the sub Paradkar at mid-off, who kneels down and fumbles badly to turn a dot into a single."}]full on fourth stump, pushed firmly straight to the sub Paradkar at mid-off, who kneels down and fumbles badly to turn a dot into a single.
+
+
+Balls faced: 43
+Bowler: Patel
+Over: 30
+Shot: PADDLE_SWEEP
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on middle, Edwards sweeps this one-handed and gets glove on this past the stumps and keeper for a nervy single. Huge lbw shout is denied as it looked to come off the glove onto the toe before going past the stumps. Given as runs."}]full on middle, Edwards sweeps this one-handed and gets glove on this past the stumps and keeper for a nervy single. Huge lbw shout is denied as it looked to come off the glove onto the toe before going past the stumps. Given as runs.
+
+
+Balls faced: 44
+Bowler: Patel
+Over: 30
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "flighted on a fullish length on middle, pokes at this and a thick edge goes to point for none."}]flighted on a fullish length on middle, pokes at this and a thick edge goes to point for none.
+
+
+Balls faced: 45
+Bowler: Patel
+Over: 32
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball on the stumps, flicked into midwicket for one."}]good length ball on the stumps, flicked into midwicket for one.
+
+
+Balls faced: 46
+Bowler: Patel
+Over: 32
+Shot: PUSH
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full on the stumps, flicked through square leg for one, they take on Taylor coming in off the rope and it is justified as he misfields the collection to ensure a second is completed."}]full on the stumps, flicked through square leg for one, they take on Taylor coming in off the rope and it is justified as he misfields the collection to ensure a second is completed.
+
+
+Balls faced: 47
+Bowler: Taylor
+Over: 31
+Shot: PADDLE_SWEEP
+Run scored: 1
+
+
+[{"type": "HTML", "html": "<b>nearly another chance! </b>Full on middle and leg, sweeps this in the air toward Modani at deep backward square leg, who is slow reacting coming off the rope and lets it drop in front of him for one."}]<b>nearly another chance! </b>Full on middle and leg, sweeps this in the air toward Modani at deep backward square leg, who is slow reacting coming off the rope and lets it drop in front of him for one.
+
+
+Balls faced: 48
+Bowler: Taylor
+Over: 31
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length ball on off, tapped to cover for a dot."}]good length ball on off, tapped to cover for a dot.
+
+
+Balls faced: 49
+Bowler: Taylor
+Over: 33
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball on eighth stump, tapped behind point for one."}]good length ball on eighth stump, tapped behind point for one.
+
+
+Balls faced: 50
+Bowler: Taylor
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length ball on seventh stump defended for none."}]good length ball on seventh stump defended for none.
+
+
+Balls faced: 51
+Bowler: Patel
+Over: 32
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball on the stumps, flicked into midwicket for one."}]good length ball on the stumps, flicked into midwicket for one.
+
+
+Balls faced: 52
+Bowler: Patel
+Over: 32
+Shot: PUSH
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full on the stumps, flicked through square leg for one, they take on Taylor coming in off the rope and it is justified as he misfields the collection to ensure a second is completed."}]full on the stumps, flicked through square leg for one, they take on Taylor coming in off the rope and it is justified as he misfields the collection to ensure a second is completed.
+
+
+Balls faced: 53
+Bowler: Patel
+Over: 34
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on off, driven to Paradkar the sub at mid-off for one. They've been picking on him nonstop as a weak link."}]full on off, driven to Paradkar the sub at mid-off for one. They've been picking on him nonstop as a weak link.
+
+
+Balls faced: 54
+Bowler: Patel
+Over: 34
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on fifth stump, shuffles outside off to play another reverse paddle sweep that is missed off the gloves and dribbles for none."}]full on fifth stump, shuffles outside off to play another reverse paddle sweep that is missed off the gloves and dribbles for none.
+
+
+Balls faced: 55
+Bowler: Patel
+Over: 34
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on the stumps, flicked straight to midwicket for none."}]full on the stumps, flicked straight to midwicket for none.
+
+
+Balls faced: 56
+Bowler: Patel
+Over: 34
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on fourth stump, reverse paddle sweep goes straight to short third for none."}]full on fourth stump, reverse paddle sweep goes straight to short third for none.
+
+
+Balls faced: 57
+Bowler: Taylor
+Over: 33
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball on eighth stump, tapped behind point for one."}]good length ball on eighth stump, tapped behind point for one.
+
+
+Balls faced: 58
+Bowler: Taylor
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length ball on seventh stump defended for none."}]good length ball on seventh stump defended for none.
+
+
+Balls faced: 59
+Bowler: Kenjige
+Over: 35
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length delivery on off stump. Edwards works it into the leg side and ambles across to the other end"}]length delivery on off stump. Edwards works it into the leg side and ambles across to the other end
+
+
+Balls faced: 60
+Bowler: Kenjige
+Over: 35
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "very full delivery at the stumps. Edwards digs it out towards the bowler"}]very full delivery at the stumps. Edwards digs it out towards the bowler
+
+
+Balls faced: 61
+Bowler: Kenjige
+Over: 35
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Kenjige is back"}, {"type": "HTML", "html": "Thanks Peter. Netherland's game to lose again, after a brief wobble post the powerplay. Edwards and Nidamanuru have looked calm and composed, playing risk-free cricket for large parts and inching closer to the target. Do USA have an ace up their sleeve in what remains of this game?"}]Kenjige is back Thanks Peter. Netherland's game to lose again, after a brief wobble post the powerplay. Edwards and Nidamanuru have looked calm and composed, playing risk-free cricket for large parts and inching closer to the target. Do USA have an ace up their sleeve in what remains of this game?
+
+[{"type": "HTML", "html": "full delivery on middle and leg stump. Edwards lunges forward and nurdles it into the leg side for a single"}]full delivery on middle and leg stump. Edwards lunges forward and nurdles it into the leg side for a single
+
+
+Balls faced: 62
+Bowler: Patel
+Over: 34
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on off, driven to Paradkar the sub at mid-off for one. They've been picking on him nonstop as a weak link."}]full on off, driven to Paradkar the sub at mid-off for one. They've been picking on him nonstop as a weak link.
+
+
+Balls faced: 63
+Bowler: Patel
+Over: 34
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on fifth stump, shuffles outside off to play another reverse paddle sweep that is missed off the gloves and dribbles for none."}]full on fifth stump, shuffles outside off to play another reverse paddle sweep that is missed off the gloves and dribbles for none.
+
+
+Balls faced: 64
+Bowler: Patel
+Over: 34
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on the stumps, flicked straight to midwicket for none."}]full on the stumps, flicked straight to midwicket for none.
+
+
+Balls faced: 65
+Bowler: Patel
+Over: 34
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on fourth stump, reverse paddle sweep goes straight to short third for none."}]full on fourth stump, reverse paddle sweep goes straight to short third for none.
+
+
+Balls faced: 66
+Bowler: Patel
+Over: 36
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery just outside off stump. Edwards stabs it down the ground and hares across to the other end"}]back of a length delivery just outside off stump. Edwards stabs it down the ground and hares across to the other end
+
+
+Balls faced: 67
+Bowler: Patel
+Over: 36
+Shot: ON_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>shot!</strong> Full enough outside off stump and Edwards capitalizes! Gets to the pitch of the ball and caresses it past extra cover and mid off for four!"}]<strong>shot!</strong> Full enough outside off stump and Edwards capitalizes! Gets to the pitch of the ball and caresses it past extra cover and mid off for four!
+
+
+Balls faced: 68
+Bowler: Patel
+Over: 36
+Shot: FLICK
+Run scored: 0
+[{"type": "HTML", "html": "Patel to continue"}]Patel to continue
+
+[{"type": "HTML", "html": "length delivery on leg stump. Edwards does not get bat on it as the ball trickles off the pads towards short fine leg. A polite enquiry for an lbw but that was always going down leg"}]length delivery on leg stump. Edwards does not get bat on it as the ball trickles off the pads towards short fine leg. A polite enquiry for an lbw but that was always going down leg
+
+Legbyes: 1
+Balls faced: 69
+Bowler: Kenjige
+Over: 35
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length delivery on off stump. Edwards works it into the leg side and ambles across to the other end"}]length delivery on off stump. Edwards works it into the leg side and ambles across to the other end
+
+
+Balls faced: 70
+Bowler: Kenjige
+Over: 35
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "very full delivery at the stumps. Edwards digs it out towards the bowler"}]very full delivery at the stumps. Edwards digs it out towards the bowler
+
+
+Balls faced: 71
+Bowler: Kenjige
+Over: 35
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Kenjige is back"}, {"type": "HTML", "html": "Thanks Peter. Netherland's game to lose again, after a brief wobble post the powerplay. Edwards and Nidamanuru have looked calm and composed, playing risk-free cricket for large parts and inching closer to the target. Do USA have an ace up their sleeve in what remains of this game?"}]Kenjige is back Thanks Peter. Netherland's game to lose again, after a brief wobble post the powerplay. Edwards and Nidamanuru have looked calm and composed, playing risk-free cricket for large parts and inching closer to the target. Do USA have an ace up their sleeve in what remains of this game?
+
+[{"type": "HTML", "html": "full delivery on middle and leg stump. Edwards lunges forward and nurdles it into the leg side for a single"}]full delivery on middle and leg stump. Edwards lunges forward and nurdles it into the leg side for a single
+
+
+Balls faced: 72
+Bowler: Kenjige
+Over: 37
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tossed up on a length outside off stump. The ball grips and spins past Edwards' defensive prod"}]tossed up on a length outside off stump. The ball grips and spins past Edwards' defensive prod
+
+
+Balls faced: 73
+Bowler: Kenjige
+Over: 37
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full delivery just outside off stump. Edwards dangles his bat and squirts it off the inside half of the bat into the on side"}]full delivery just outside off stump. Edwards dangles his bat and squirts it off the inside half of the bat into the on side
+
+
+Balls faced: 74
+Bowler: Kenjige
+Over: 37
+Shot: REVERSE_SWEEP
+Run scored: 3
+
+
+[{"type": "HTML", "html": "full delivery on off stump. Edwards brings out the reverse sweep and helps it past short third man for three more runs"}]full delivery on off stump. Edwards brings out the reverse sweep and helps it past short third man for three more runs
+
+
+Balls faced: 75
+Bowler: Patel
+Over: 36
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery just outside off stump. Edwards stabs it down the ground and hares across to the other end"}]back of a length delivery just outside off stump. Edwards stabs it down the ground and hares across to the other end
+
+
+Balls faced: 76
+Bowler: Patel
+Over: 36
+Shot: ON_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>shot!</strong> Full enough outside off stump and Edwards capitalizes! Gets to the pitch of the ball and caresses it past extra cover and mid off for four!"}]<strong>shot!</strong> Full enough outside off stump and Edwards capitalizes! Gets to the pitch of the ball and caresses it past extra cover and mid off for four!
+
+
+Balls faced: 77
+Bowler: Patel
+Over: 36
+Shot: FLICK
+Run scored: 0
+[{"type": "HTML", "html": "Patel to continue"}]Patel to continue
+
+[{"type": "HTML", "html": "length delivery on leg stump. Edwards does not get bat on it as the ball trickles off the pads towards short fine leg. A polite enquiry for an lbw but that was always going down leg"}]length delivery on leg stump. Edwards does not get bat on it as the ball trickles off the pads towards short fine leg. A polite enquiry for an lbw but that was always going down leg
+
+Legbyes: 1
+Balls faced: 78
+Bowler: Patel
+Over: 38
+Shot: CUT_SHOT
+Run scored: 2
+
+
+[{"type": "HTML", "html": "back of a length delivery outside off stump. Edwards jabs it into the vast real estate on the off side and gets back comfortably for the second"}]back of a length delivery outside off stump. Edwards jabs it into the vast real estate on the off side and gets back comfortably for the second
+
+
+Balls faced: 79
+Bowler: Patel
+Over: 38
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full delivery outside off stump. Edwards drives it down the ground for one more run"}]full delivery outside off stump. Edwards drives it down the ground for one more run
+
+
+Balls faced: 80
+Bowler: Patel
+Over: 38
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery outside off. Edwards goes back and eases it down the ground"}]back of a length delivery outside off. Edwards goes back and eases it down the ground
+
+
+Balls faced: 81
+Bowler: Patel
+Over: 38
+Shot: REVERSE_SWEEP
+Run scored: 2
+
+
+[{"type": "HTML", "html": "length delivery outside off again. Edwards brings out the reverse sweep and dabs it past short third man for a brace"}]length delivery outside off again. Edwards brings out the reverse sweep and dabs it past short third man for a brace
+
+
+Balls faced: 82
+Bowler: Kenjige
+Over: 37
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tossed up on a length outside off stump. The ball grips and spins past Edwards' defensive prod"}]tossed up on a length outside off stump. The ball grips and spins past Edwards' defensive prod
+
+
+Balls faced: 83
+Bowler: Kenjige
+Over: 37
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full delivery just outside off stump. Edwards dangles his bat and squirts it off the inside half of the bat into the on side"}]full delivery just outside off stump. Edwards dangles his bat and squirts it off the inside half of the bat into the on side
+
+
+Balls faced: 84
+Bowler: Kenjige
+Over: 37
+Shot: REVERSE_SWEEP
+Run scored: 3
+
+
+[{"type": "HTML", "html": "full delivery on off stump. Edwards brings out the reverse sweep and helps it past short third man for three more runs"}]full delivery on off stump. Edwards brings out the reverse sweep and helps it past short third man for three more runs
+
+
+Balls faced: 85
+Bowler: Netravalkar
+Over: 39
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery outside off stump. Edwards uses the pace and runs it down to third man"}]back of a length delivery outside off stump. Edwards uses the pace and runs it down to third man
+
+
+Balls faced: 86
+Bowler: Netravalkar
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length delivery at the stumps. Edwards taps it into the on side"}]back of a length delivery at the stumps. Edwards taps it into the on side
+
+
+Balls faced: 87
+Bowler: Patel
+Over: 38
+Shot: CUT_SHOT
+Run scored: 2
+
+
+[{"type": "HTML", "html": "back of a length delivery outside off stump. Edwards jabs it into the vast real estate on the off side and gets back comfortably for the second"}]back of a length delivery outside off stump. Edwards jabs it into the vast real estate on the off side and gets back comfortably for the second
+
+
+Balls faced: 88
+Bowler: Patel
+Over: 38
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full delivery outside off stump. Edwards drives it down the ground for one more run"}]full delivery outside off stump. Edwards drives it down the ground for one more run
+
+
+Balls faced: 89
+Bowler: Patel
+Over: 38
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery outside off. Edwards goes back and eases it down the ground"}]back of a length delivery outside off. Edwards goes back and eases it down the ground
+
+
+Balls faced: 90
+Bowler: Patel
+Over: 38
+Shot: REVERSE_SWEEP
+Run scored: 2
+
+
+[{"type": "HTML", "html": "length delivery outside off again. Edwards brings out the reverse sweep and dabs it past short third man for a brace"}]length delivery outside off again. Edwards brings out the reverse sweep and dabs it past short third man for a brace
+
+
+Balls faced: 91
+Bowler: Patel
+Over: 40
+Shot: PULL
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Edwards gets to fifty!</strong> Another fractionally short delivery on middle and off stump. Edwards hops back and pummels it over mid wicket"}]<strong>Edwards gets to fifty!</strong> Another fractionally short delivery on middle and off stump. Edwards hops back and pummels it over mid wicket
+
+
+Balls faced: 92
+Bowler: Patel
+Over: 40
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "The shoulders are just starting to drop for USA"}]The shoulders are just starting to drop for USA
+
+[{"type": "HTML", "html": "full delivery outside off stump. Edwards comes forward and defends"}]full delivery outside off stump. Edwards comes forward and defends
+
+
+Balls faced: 93
+Bowler: Patel
+Over: 40
+Shot: PUSH
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full delivery outside off stump. Edwards nudges it past extra cover and the fielding is not great from USA, allowing Edwards to get back for the second. Substitute fielder Kyle Phillip with a particularly weak throw from the deep"}]full delivery outside off stump. Edwards nudges it past extra cover and the fielding is not great from USA, allowing Edwards to get back for the second. Substitute fielder Kyle Phillip with a particularly weak throw from the deep
+
+
+Balls faced: 94
+Bowler: Patel
+Over: 40
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length delivery outside off stump. Edwards hangs back and jabs it towards deep point for one"}]length delivery outside off stump. Edwards hangs back and jabs it towards deep point for one
+
+
+Balls faced: 95
+Bowler: Patel
+Over: 40
+Shot: PULL
+Run scored: 4
+[{"type": "HTML", "html": "Mandy: \"Any update on Ali Khan?\" -- Seems like he is still off the field. He has been off the field since his opening spell"}]Mandy: "Any update on Ali Khan?" -- Seems like he is still off the field. He has been off the field since his opening spell
+
+[{"type": "HTML", "html": "<strong>four more!</strong> Dragged down outside off stump. Edwards goes deep into his crease and belts it over mid on!"}]<strong>four more!</strong> Dragged down outside off stump. Edwards goes deep into his crease and belts it over mid on!
+
+
+Balls faced: 96
+Bowler: Netravalkar
+Over: 39
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery outside off stump. Edwards uses the pace and runs it down to third man"}]back of a length delivery outside off stump. Edwards uses the pace and runs it down to third man
+
+
+Balls faced: 97
+Bowler: Netravalkar
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length delivery at the stumps. Edwards taps it into the on side"}]back of a length delivery at the stumps. Edwards taps it into the on side
+
+
+Balls faced: 98
+Bowler: Netravalkar
+Over: 41
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery just outside off stump. Edwards guides it past backward point and this time, has to settle for the single"}]back of a length delivery just outside off stump. Edwards guides it past backward point and this time, has to settle for the single
+
+
+Balls faced: 99
+Bowler: Netravalkar
+Over: 41
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower delivery on a full length outside off stump. Edwards comes forward and dabs it towards backward point"}]slower delivery on a full length outside off stump. Edwards comes forward and dabs it towards backward point
+
+
+Balls faced: 100
+Bowler: Patel
+Over: 40
+Shot: PULL
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Edwards gets to fifty!</strong> Another fractionally short delivery on middle and off stump. Edwards hops back and pummels it over mid wicket"}]<strong>Edwards gets to fifty!</strong> Another fractionally short delivery on middle and off stump. Edwards hops back and pummels it over mid wicket
+
+
+Balls faced: 101
+Bowler: Patel
+Over: 40
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "The shoulders are just starting to drop for USA"}]The shoulders are just starting to drop for USA
+
+[{"type": "HTML", "html": "full delivery outside off stump. Edwards comes forward and defends"}]full delivery outside off stump. Edwards comes forward and defends
+
+
+Balls faced: 102
+Bowler: Patel
+Over: 40
+Shot: PUSH
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full delivery outside off stump. Edwards nudges it past extra cover and the fielding is not great from USA, allowing Edwards to get back for the second. Substitute fielder Kyle Phillip with a particularly weak throw from the deep"}]full delivery outside off stump. Edwards nudges it past extra cover and the fielding is not great from USA, allowing Edwards to get back for the second. Substitute fielder Kyle Phillip with a particularly weak throw from the deep
+
+
+Balls faced: 103
+Bowler: Patel
+Over: 40
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length delivery outside off stump. Edwards hangs back and jabs it towards deep point for one"}]length delivery outside off stump. Edwards hangs back and jabs it towards deep point for one
+
+
+Balls faced: 104
+Bowler: Patel
+Over: 40
+Shot: PULL
+Run scored: 4
+[{"type": "HTML", "html": "Mandy: \"Any update on Ali Khan?\" -- Seems like he is still off the field. He has been off the field since his opening spell"}]Mandy: "Any update on Ali Khan?" -- Seems like he is still off the field. He has been off the field since his opening spell
+
+[{"type": "HTML", "html": "<strong>four more!</strong> Dragged down outside off stump. Edwards goes deep into his crease and belts it over mid on!"}]<strong>four more!</strong> Dragged down outside off stump. Edwards goes deep into his crease and belts it over mid on!
+
+
+Balls faced: 105
+Bowler: Jasdeep
+Over: 42
+Shot: CUT_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Edwards continues on his merry way!</strong> Length delivery outside off stump. Edwards opens his bat face beautifully and creams it behind point for four!"}]<strong>Edwards continues on his merry way!</strong> Length delivery outside off stump. Edwards opens his bat face beautifully and creams it behind point for four!
+
+
+Balls faced: 106
+Bowler: Jasdeep
+Over: 42
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery outside off stump. Edwards jabs it into the off side and calls van Beek through, who makes it comfortably"}]back of a length delivery outside off stump. Edwards jabs it into the off side and calls van Beek through, who makes it comfortably
+
+
+Balls faced: 107
+Bowler: Jasdeep
+Over: 42
+Shot: STEERED
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>oh dear, the wheels have come off now!</strong> Back of a length delivery outside off stump. Edwards dabs it down to third man. The fielder, trying to prevent the single, makes a hash of it and ends up conceding a boundary!"}]<strong>oh dear, the wheels have come off now!</strong> Back of a length delivery outside off stump. Edwards dabs it down to third man. The fielder, trying to prevent the single, makes a hash of it and ends up conceding a boundary!
+
+
+Balls faced: 108
+Bowler: Netravalkar
+Over: 41
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery just outside off stump. Edwards guides it past backward point and this time, has to settle for the single"}]back of a length delivery just outside off stump. Edwards guides it past backward point and this time, has to settle for the single
+
+
+Balls faced: 109
+Bowler: Netravalkar
+Over: 41
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower delivery on a full length outside off stump. Edwards comes forward and dabs it towards backward point"}]slower delivery on a full length outside off stump. Edwards comes forward and dabs it towards backward point
+
+
+Balls faced: 110
+Bowler: Netravalkar
+Over: 43
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length delivery outside off stump again. Edwards keeps his bat face open and runs it down to third man"}]length delivery outside off stump again. Edwards keeps his bat face open and runs it down to third man
+
+
+Balls faced: 111
+Bowler: Netravalkar
+Over: 43
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length delivery outside off stump. Edwards waits for the ball to arrive before gliding it down to third man"}]length delivery outside off stump. Edwards waits for the ball to arrive before gliding it down to third man
+
+
+Balls faced: 112
+Bowler: Jasdeep
+Over: 42
+Shot: CUT_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Edwards continues on his merry way!</strong> Length delivery outside off stump. Edwards opens his bat face beautifully and creams it behind point for four!"}]<strong>Edwards continues on his merry way!</strong> Length delivery outside off stump. Edwards opens his bat face beautifully and creams it behind point for four!
+
+
+Balls faced: 113
+Bowler: Jasdeep
+Over: 42
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length delivery outside off stump. Edwards jabs it into the off side and calls van Beek through, who makes it comfortably"}]back of a length delivery outside off stump. Edwards jabs it into the off side and calls van Beek through, who makes it comfortably
+
+
+Balls faced: 114
+Bowler: Jasdeep
+Over: 42
+Shot: STEERED
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>oh dear, the wheels have come off now!</strong> Back of a length delivery outside off stump. Edwards dabs it down to third man. The fielder, trying to prevent the single, makes a hash of it and ends up conceding a boundary!"}]<strong>oh dear, the wheels have come off now!</strong> Back of a length delivery outside off stump. Edwards dabs it down to third man. The fielder, trying to prevent the single, makes a hash of it and ends up conceding a boundary!
+
+
+Balls faced: 115
+Bowler: Patel
+Over: 44
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>that will be that!</strong> Full and outside off stump. Edwards reaches out for it, gets down on one knee and razes it through square leg for four!"}]<strong>that will be that!</strong> Full and outside off stump. Edwards reaches out for it, gets down on one knee and razes it through square leg for four!
+[{"type": "HTML", "html": "<strong>4:37pm</strong> Right. That will be that from us for this game. Hope you enjoyed the coverage as much as we enjoyed bringing it to you. Until next time, this is me (Shashwat) signing off on behalf of Peter, Vairavan and everyone else at ESPNcricinfo! Goodbye and take care!"}, {"type": "HTML", "html": "<strong>Here is Scott Edwards, Netherlands captain, again:</strong> I think the way our bowlers came back after the last game was sensational. (On the toss) It is nice (to win it) because there is a bit (of help) early. After the first 10-15 overs, it flattens out. If you get by that period, you can still score quite a few runs. I think a lot of these guys have played games early in the morning. It is about being wary in the first few overs. You just got to find a way and then hopefully put up a big score. (On the conversations that happened during the run-chase) When we are out there, we are having conversations about how to get to the total. For all of us, it is about being busy and keeping things ticking."}, {"type": "HTML", "html": "<strong>Aaron Jones, USA captain:</strong> (On what they could have done different) I think we could have taken some more wickets early on, that would have put them under more pressure. (On the score and the numbers discussed) I think 250 is a challenging score on this wicket. I think it is a case of being selective. If the ball is in your area, you hit it away or you try to rotate strike. I think losing so many wickets so early - it is basically a carbon copy from the last game. If we had more wickets in hand, we could have scored 250 or more. Disappointed to lose so many wickets at the start. (On Ali) He should be okay. Quite a few of the guys have a bug right now. Our captain has been out for the last two games. Not much you can do about that. (On how he plans to keep the morale high) In cricket, you win some, you lose some. It is just about going back and coming back hard next game."}, {"type": "HTML", "html": "<strong>Here is Scott Edwards, speaking after receiving his Player of the Match award:</strong> (On his innings) Happy to get the win. Nice to fight back and get the first win on the board. When you get yourself in, especially in a low chase, someone has to try to be there at the end. I was just trying to be busy, hit the gaps and run hard. A few games under the belt helps, pretty comfortable with what my game is. When I get in, I try to hold the innings. (On separating captaincy, keeping and batting) Sometimes, when we get hit around the park, it gets difficult. When I am batting, I am batting. When I am keeping, I am keeping."}, {"type": "HTML", "html": "<strong>4:20pm</strong> That turned into a canter for the Netherlands in the end - just like many thought it would be at the half-way stage. They began the powerplay well but post it, it did look like they would lose their way. They lost three wickets for 20 runs and at that point, it felt that USA were turning the screw."}, {"type": "HTML", "html": "Once Edwards and Nidamanuru joined hands, though, that hope was extinguished. They ran USA ragged by converting ones into twos and by rotating strike regularly. That then led to boundary balls which both Nidamanuru and skipper Edwards put away. The former could not stay with his captain till the end but Edwards made sure the job was completed without any hiccups."}, {"type": "HTML", "html": "As for USA, well, they were hamstrung, with their strike bowler Ali Khan only bowling four overs and being off the field due to illness. Jessy, Kenjige and Netravalkar bowled with plenty of heart but looked exhausted by the end."}, {"type": "HTML", "html": "Their batting display also left plenty to be desired. They were perhaps too cautious and could not make the most of the death overs, hitting only a handful of boundaries. In the end, that proved pivotal as they just did not have enough runs on the board to play with."}]<strong>4:37pm</strong> Right. That will be that from us for this game. Hope you enjoyed the coverage as much as we enjoyed bringing it to you. Until next time, this is me (Shashwat) signing off on behalf of Peter, Vairavan and everyone else at ESPNcricinfo! Goodbye and take care! <strong>Here is Scott Edwards, Netherlands captain, again:</strong> I think the way our bowlers came back after the last game was sensational. (On the toss) It is nice (to win it) because there is a bit (of help) early. After the first 10-15 overs, it flattens out. If you get by that period, you can still score quite a few runs. I think a lot of these guys have played games early in the morning. It is about being wary in the first few overs. You just got to find a way and then hopefully put up a big score. (On the conversations that happened during the run-chase) When we are out there, we are having conversations about how to get to the total. For all of us, it is about being busy and keeping things ticking. <strong>Aaron Jones, USA captain:</strong> (On what they could have done different) I think we could have taken some more wickets early on, that would have put them under more pressure. (On the score and the numbers discussed) I think 250 is a challenging score on this wicket. I think it is a case of being selective. If the ball is in your area, you hit it away or you try to rotate strike. I think losing so many wickets so early - it is basically a carbon copy from the last game. If we had more wickets in hand, we could have scored 250 or more. Disappointed to lose so many wickets at the start. (On Ali) He should be okay. Quite a few of the guys have a bug right now. Our captain has been out for the last two games. Not much you can do about that. (On how he plans to keep the morale high) In cricket, you win some, you lose some. It is just about going back and coming back hard next game. <strong>Here is Scott Edwards, speaking after receiving his Player of the Match award:</strong> (On his innings) Happy to get the win. Nice to fight back and get the first win on the board. When you get yourself in, especially in a low chase, someone has to try to be there at the end. I was just trying to be busy, hit the gaps and run hard. A few games under the belt helps, pretty comfortable with what my game is. When I get in, I try to hold the innings. (On separating captaincy, keeping and batting) Sometimes, when we get hit around the park, it gets difficult. When I am batting, I am batting. When I am keeping, I am keeping. <strong>4:20pm</strong> That turned into a canter for the Netherlands in the end - just like many thought it would be at the half-way stage. They began the powerplay well but post it, it did look like they would lose their way. They lost three wickets for 20 runs and at that point, it felt that USA were turning the screw. Once Edwards and Nidamanuru joined hands, though, that hope was extinguished. They ran USA ragged by converting ones into twos and by rotating strike regularly. That then led to boundary balls which both Nidamanuru and skipper Edwards put away. The former could not stay with his captain till the end but Edwards made sure the job was completed without any hiccups. As for USA, well, they were hamstrung, with their strike bowler Ali Khan only bowling four overs and being off the field due to illness. Jessy, Kenjige and Netravalkar bowled with plenty of heart but looked exhausted by the end. Their batting display also left plenty to be desired. They were perhaps too cautious and could not make the most of the death overs, hitting only a handful of boundaries. In the end, that proved pivotal as they just did not have enough runs on the board to play with.
+
+Balls faced: 116
+Bowler: Patel
+Over: 44
+Shot: PADDLE_SWEEP
+Run scored: 0
+[{"type": "HTML", "html": "Right. Let's do this again. Can the Netherlands get the job done in this over?"}]Right. Let's do this again. Can the Netherlands get the job done in this over?
+
+[{"type": "HTML", "html": "very full delivery on middle and off stump. Edwards gets down on one knee and paddles it towards short fine leg"}]very full delivery on middle and off stump. Edwards gets down on one knee and paddles it towards short fine leg
+
+
+Balls faced: 117
+Bowler: Netravalkar
+Over: 43
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length delivery outside off stump again. Edwards keeps his bat face open and runs it down to third man"}]length delivery outside off stump again. Edwards keeps his bat face open and runs it down to third man
+
+
+Balls faced: 118
+Bowler: Netravalkar
+Over: 43
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length delivery outside off stump. Edwards waits for the ball to arrive before gliding it down to third man"}]length delivery outside off stump. Edwards waits for the ball to arrive before gliding it down to third man
+
+
+Balls faced: 119
+Bowler: Patel
+Over: 44
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>that will be that!</strong> Full and outside off stump. Edwards reaches out for it, gets down on one knee and razes it through square leg for four!"}]<strong>that will be that!</strong> Full and outside off stump. Edwards reaches out for it, gets down on one knee and razes it through square leg for four!
+[{"type": "HTML", "html": "<strong>4:37pm</strong> Right. That will be that from us for this game. Hope you enjoyed the coverage as much as we enjoyed bringing it to you. Until next time, this is me (Shashwat) signing off on behalf of Peter, Vairavan and everyone else at ESPNcricinfo! Goodbye and take care!"}, {"type": "HTML", "html": "<strong>Here is Scott Edwards, Netherlands captain, again:</strong> I think the way our bowlers came back after the last game was sensational. (On the toss) It is nice (to win it) because there is a bit (of help) early. After the first 10-15 overs, it flattens out. If you get by that period, you can still score quite a few runs. I think a lot of these guys have played games early in the morning. It is about being wary in the first few overs. You just got to find a way and then hopefully put up a big score. (On the conversations that happened during the run-chase) When we are out there, we are having conversations about how to get to the total. For all of us, it is about being busy and keeping things ticking."}, {"type": "HTML", "html": "<strong>Aaron Jones, USA captain:</strong> (On what they could have done different) I think we could have taken some more wickets early on, that would have put them under more pressure. (On the score and the numbers discussed) I think 250 is a challenging score on this wicket. I think it is a case of being selective. If the ball is in your area, you hit it away or you try to rotate strike. I think losing so many wickets so early - it is basically a carbon copy from the last game. If we had more wickets in hand, we could have scored 250 or more. Disappointed to lose so many wickets at the start. (On Ali) He should be okay. Quite a few of the guys have a bug right now. Our captain has been out for the last two games. Not much you can do about that. (On how he plans to keep the morale high) In cricket, you win some, you lose some. It is just about going back and coming back hard next game."}, {"type": "HTML", "html": "<strong>Here is Scott Edwards, speaking after receiving his Player of the Match award:</strong> (On his innings) Happy to get the win. Nice to fight back and get the first win on the board. When you get yourself in, especially in a low chase, someone has to try to be there at the end. I was just trying to be busy, hit the gaps and run hard. A few games under the belt helps, pretty comfortable with what my game is. When I get in, I try to hold the innings. (On separating captaincy, keeping and batting) Sometimes, when we get hit around the park, it gets difficult. When I am batting, I am batting. When I am keeping, I am keeping."}, {"type": "HTML", "html": "<strong>4:20pm</strong> That turned into a canter for the Netherlands in the end - just like many thought it would be at the half-way stage. They began the powerplay well but post it, it did look like they would lose their way. They lost three wickets for 20 runs and at that point, it felt that USA were turning the screw."}, {"type": "HTML", "html": "Once Edwards and Nidamanuru joined hands, though, that hope was extinguished. They ran USA ragged by converting ones into twos and by rotating strike regularly. That then led to boundary balls which both Nidamanuru and skipper Edwards put away. The former could not stay with his captain till the end but Edwards made sure the job was completed without any hiccups."}, {"type": "HTML", "html": "As for USA, well, they were hamstrung, with their strike bowler Ali Khan only bowling four overs and being off the field due to illness. Jessy, Kenjige and Netravalkar bowled with plenty of heart but looked exhausted by the end."}, {"type": "HTML", "html": "Their batting display also left plenty to be desired. They were perhaps too cautious and could not make the most of the death overs, hitting only a handful of boundaries. In the end, that proved pivotal as they just did not have enough runs on the board to play with."}]<strong>4:37pm</strong> Right. That will be that from us for this game. Hope you enjoyed the coverage as much as we enjoyed bringing it to you. Until next time, this is me (Shashwat) signing off on behalf of Peter, Vairavan and everyone else at ESPNcricinfo! Goodbye and take care! <strong>Here is Scott Edwards, Netherlands captain, again:</strong> I think the way our bowlers came back after the last game was sensational. (On the toss) It is nice (to win it) because there is a bit (of help) early. After the first 10-15 overs, it flattens out. If you get by that period, you can still score quite a few runs. I think a lot of these guys have played games early in the morning. It is about being wary in the first few overs. You just got to find a way and then hopefully put up a big score. (On the conversations that happened during the run-chase) When we are out there, we are having conversations about how to get to the total. For all of us, it is about being busy and keeping things ticking. <strong>Aaron Jones, USA captain:</strong> (On what they could have done different) I think we could have taken some more wickets early on, that would have put them under more pressure. (On the score and the numbers discussed) I think 250 is a challenging score on this wicket. I think it is a case of being selective. If the ball is in your area, you hit it away or you try to rotate strike. I think losing so many wickets so early - it is basically a carbon copy from the last game. If we had more wickets in hand, we could have scored 250 or more. Disappointed to lose so many wickets at the start. (On Ali) He should be okay. Quite a few of the guys have a bug right now. Our captain has been out for the last two games. Not much you can do about that. (On how he plans to keep the morale high) In cricket, you win some, you lose some. It is just about going back and coming back hard next game. <strong>Here is Scott Edwards, speaking after receiving his Player of the Match award:</strong> (On his innings) Happy to get the win. Nice to fight back and get the first win on the board. When you get yourself in, especially in a low chase, someone has to try to be there at the end. I was just trying to be busy, hit the gaps and run hard. A few games under the belt helps, pretty comfortable with what my game is. When I get in, I try to hold the innings. (On separating captaincy, keeping and batting) Sometimes, when we get hit around the park, it gets difficult. When I am batting, I am batting. When I am keeping, I am keeping. <strong>4:20pm</strong> That turned into a canter for the Netherlands in the end - just like many thought it would be at the half-way stage. They began the powerplay well but post it, it did look like they would lose their way. They lost three wickets for 20 runs and at that point, it felt that USA were turning the screw. Once Edwards and Nidamanuru joined hands, though, that hope was extinguished. They ran USA ragged by converting ones into twos and by rotating strike regularly. That then led to boundary balls which both Nidamanuru and skipper Edwards put away. The former could not stay with his captain till the end but Edwards made sure the job was completed without any hiccups. As for USA, well, they were hamstrung, with their strike bowler Ali Khan only bowling four overs and being off the field due to illness. Jessy, Kenjige and Netravalkar bowled with plenty of heart but looked exhausted by the end. Their batting display also left plenty to be desired. They were perhaps too cautious and could not make the most of the death overs, hitting only a handful of boundaries. In the end, that proved pivotal as they just did not have enough runs on the board to play with.
+
+Balls faced: 120
+Bowler: Patel
+Over: 44
+Shot: PADDLE_SWEEP
+Run scored: 0
+[{"type": "HTML", "html": "Right. Let's do this again. Can the Netherlands get the job done in this over?"}]Right. Let's do this again. Can the Netherlands get the job done in this over?
+
+[{"type": "HTML", "html": "very full delivery on middle and off stump. Edwards gets down on one knee and paddles it towards short fine leg"}]very full delivery on middle and off stump. Edwards gets down on one knee and paddles it towards short fine leg
+
+
+
+Match: all_games_1411166_1415716.json
 Balls faced: 1
 Bowler: Nortje
-Over:10
+Over: 10
 Shot: FLICK
-run scored: 1
-Clips the length ball to deep fine leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Clips the length ball to deep fine leg"}]Clips the length ball to deep fine leg
+
+
 Balls faced: 2
 Bowler: Nortje
-Over:10
+Over: 10
 Shot: DEFENDED
-run scored: 0
-Zips past the edge. Length just outside off, Edwards tried to push it towards cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Zips past the edge. Length just outside off, Edwards tried to push it towards cover"}]Zips past the edge. Length just outside off, Edwards tried to push it towards cover
+
+
 Balls faced: 3
 Bowler: Maharaj
-Over:11
+Over: 11
 Shot: ON_DRIVE
-run scored: 1
-slower again, and loopy and full on middle. Pushed to long-on
+Run scored: 1
+
+
+[{"type": "HTML", "html": "slower again, and loopy and full on middle. Pushed to long-on"}]slower again, and loopy and full on middle. Pushed to long-on
+
+
 Balls faced: 4
 Bowler: Maharaj
-Over:11
+Over: 11
 Shot: CUT_SHOT
-run scored: 1
-ohh, slower pace, and dipping on a full length on off. Poked behind wicket
+Run scored: 1
+
+
+[{"type": "HTML", "html": "ohh, slower pace, and dipping on a full length on off. Poked behind wicket"}]ohh, slower pace, and dipping on a full length on off. Poked behind wicket
+
+
 Balls faced: 5
 Bowler: Maharaj
-Over:11
+Over: 11
 Shot: REVERSE_SWEEP
-run scored: 0
-he squats to reverse sweep this low full toss, but finds short third
+Run scored: 0
+
+
+[{"type": "HTML", "html": "he squats to reverse sweep this low full toss, but finds short third"}]he squats to reverse sweep this low full toss, but finds short third
+
+
 Balls faced: 6
 Bowler: Maharaj
-Over:11
+Over: 11
 Shot: CUT_SHOT
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Maharaj will continue after the break"}, {"type": "HTML", "html": "Hello again, everyone. Where are Netherlands going? Our forecaster gives them only 117 from here."}]Maharaj will continue after the break Hello again, everyone. Where are Netherlands going? Our forecaster gives them only 117 from here.
-tossed up, and dipping on a full length wide outside off. Cut away with the turn to deep point
+
+[{"type": "HTML", "html": "tossed up, and dipping on a full length wide outside off. Cut away with the turn to deep point"}]tossed up, and dipping on a full length wide outside off. Cut away with the turn to deep point
+
+
 Balls faced: 7
 Bowler: Nortje
-Over:10
+Over: 10
 Shot: FLICK
-run scored: 1
-Clips the length ball to deep fine leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Clips the length ball to deep fine leg"}]Clips the length ball to deep fine leg
+
+
 Balls faced: 8
 Bowler: Nortje
-Over:10
+Over: 10
 Shot: DEFENDED
-run scored: 0
-Zips past the edge. Length just outside off, Edwards tried to push it towards cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Zips past the edge. Length just outside off, Edwards tried to push it towards cover"}]Zips past the edge. Length just outside off, Edwards tried to push it towards cover
+
+
 Balls faced: 9
 Bowler: Nortje
-Over:12
+Over: 12
 Shot: PUSH
-run scored: 0
-OUT! {"short": "run out", "long": "run out (Markram)", "commentary": "Scott Edwards run out (Markram) 10 (9b 0x4 1x6 8m) SR: 111.11"}
-a run-out opportunity at the non-striker's end! <b>Great agility by Markram</b>, and he finds Edwards short! Markram was placed a few steps close in at mid-on, and went low and dived forward to have a go at the stumps. He hit the top of the stumps, and found a diving Edwards clearly short. Edwards had earlier pushed a length ball towards mid-on with his bottom hand off
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a run-out opportunity at the non-striker's end! <b>Great agility by Markram</b>, and he finds Edwards short! Markram was placed a few steps close in at mid-on, and went low and dived forward to have a go at the stumps. He hit the top of the stumps, and found a diving Edwards clearly short. Edwards had earlier pushed a length ball towards mid-on with his bottom hand off"}]a run-out opportunity at the non-striker's end! <b>Great agility by Markram</b>, and he finds Edwards short! Markram was placed a few steps close in at mid-on, and went low and dived forward to have a go at the stumps. He hit the top of the stumps, and found a diving Edwards clearly short. Edwards had earlier pushed a length ball towards mid-on with his bottom hand off
+
+
 Balls faced: 10
 Bowler: Nortje
-Over:12
+Over: 12
 Shot: REVERSE_SCOOP
-run scored: 6
-<b>wow, reverse scooped for six!</b> Almost like a mirror image of Rishabh Pant. Edwards uses Nortje's pace to switch over and deposit this length ball angling into middle and leg over deep third
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<b>wow, reverse scooped for six!</b> Almost like a mirror image of Rishabh Pant. Edwards uses Nortje's pace to switch over and deposit this length ball angling into middle and leg over deep third"}]<b>wow, reverse scooped for six!</b> Almost like a mirror image of Rishabh Pant. Edwards uses Nortje's pace to switch over and deposit this length ball angling into middle and leg over deep third
+
+
 Balls faced: 11
 Bowler: Nortje
-Over:12
+Over: 12
 Shot: DAB
-run scored: 0
-on a length around fifth stump, and there is good bounce again. Dabbed to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on a length around fifth stump, and there is good bounce again. Dabbed to point"}]on a length around fifth stump, and there is good bounce again. Dabbed to point
+
+
 Balls faced: 12
 Bowler: Maharaj
-Over:11
+Over: 11
 Shot: ON_DRIVE
-run scored: 1
-slower again, and loopy and full on middle. Pushed to long-on
+Run scored: 1
+
+
+[{"type": "HTML", "html": "slower again, and loopy and full on middle. Pushed to long-on"}]slower again, and loopy and full on middle. Pushed to long-on
+
+
 Balls faced: 13
 Bowler: Maharaj
-Over:11
+Over: 11
 Shot: CUT_SHOT
-run scored: 1
-ohh, slower pace, and dipping on a full length on off. Poked behind wicket
+Run scored: 1
+
+
+[{"type": "HTML", "html": "ohh, slower pace, and dipping on a full length on off. Poked behind wicket"}]ohh, slower pace, and dipping on a full length on off. Poked behind wicket
+
+
 Balls faced: 14
 Bowler: Maharaj
-Over:11
+Over: 11
 Shot: REVERSE_SWEEP
-run scored: 0
-he squats to reverse sweep this low full toss, but finds short third
+Run scored: 0
+
+
+[{"type": "HTML", "html": "he squats to reverse sweep this low full toss, but finds short third"}]he squats to reverse sweep this low full toss, but finds short third
+
+
 Balls faced: 15
 Bowler: Maharaj
-Over:11
+Over: 11
 Shot: CUT_SHOT
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Maharaj will continue after the break"}, {"type": "HTML", "html": "Hello again, everyone. Where are Netherlands going? Our forecaster gives them only 117 from here."}]Maharaj will continue after the break Hello again, everyone. Where are Netherlands going? Our forecaster gives them only 117 from here.
-tossed up, and dipping on a full length wide outside off. Cut away with the turn to deep point
+
+[{"type": "HTML", "html": "tossed up, and dipping on a full length wide outside off. Cut away with the turn to deep point"}]tossed up, and dipping on a full length wide outside off. Cut away with the turn to deep point
+
+
 Balls faced: 16
 Bowler: Nortje
-Over:12
+Over: 12
 Shot: PUSH
-run scored: 0
-OUT! {"short": "run out", "long": "run out (Markram)", "commentary": "Scott Edwards run out (Markram) 10 (9b 0x4 1x6 8m) SR: 111.11"}
-a run-out opportunity at the non-striker's end! <b>Great agility by Markram</b>, and he finds Edwards short! Markram was placed a few steps close in at mid-on, and went low and dived forward to have a go at the stumps. He hit the top of the stumps, and found a diving Edwards clearly short. Edwards had earlier pushed a length ball towards mid-on with his bottom hand off
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a run-out opportunity at the non-striker's end! <b>Great agility by Markram</b>, and he finds Edwards short! Markram was placed a few steps close in at mid-on, and went low and dived forward to have a go at the stumps. He hit the top of the stumps, and found a diving Edwards clearly short. Edwards had earlier pushed a length ball towards mid-on with his bottom hand off"}]a run-out opportunity at the non-striker's end! <b>Great agility by Markram</b>, and he finds Edwards short! Markram was placed a few steps close in at mid-on, and went low and dived forward to have a go at the stumps. He hit the top of the stumps, and found a diving Edwards clearly short. Edwards had earlier pushed a length ball towards mid-on with his bottom hand off
+
+
 Balls faced: 17
 Bowler: Nortje
-Over:12
+Over: 12
 Shot: REVERSE_SCOOP
-run scored: 6
-<b>wow, reverse scooped for six!</b> Almost like a mirror image of Rishabh Pant. Edwards uses Nortje's pace to switch over and deposit this length ball angling into middle and leg over deep third
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<b>wow, reverse scooped for six!</b> Almost like a mirror image of Rishabh Pant. Edwards uses Nortje's pace to switch over and deposit this length ball angling into middle and leg over deep third"}]<b>wow, reverse scooped for six!</b> Almost like a mirror image of Rishabh Pant. Edwards uses Nortje's pace to switch over and deposit this length ball angling into middle and leg over deep third
+
+
 Balls faced: 18
 Bowler: Nortje
-Over:12
+Over: 12
 Shot: DAB
-run scored: 0
-on a length around fifth stump, and there is good bounce again. Dabbed to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on a length around fifth stump, and there is good bounce again. Dabbed to point"}]on a length around fifth stump, and there is good bounce again. Dabbed to point
+
+
+
+Match: all_games_1411166_1415727.json
+Balls faced: 1
+Bowler: Mahmudullah
+Over: 10
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Sweeps the full ball to deep-backward square leg"}]Sweeps the full ball to deep-backward square leg
+[{"type": "HTML", "html": "Devang: \"Shaping up to be a spicy encounter\""}, {"type": "HTML", "html": "\"Hey, espncricinfo! My prediction was bang in target!!\" Taking your word on it, Imti"}, {"type": "HTML", "html": "Drinks"}]Devang: "Shaping up to be a spicy encounter" "Hey, espncricinfo! My prediction was bang in target!!" Taking your word on it, Imti Drinks
+
+Balls faced: 2
+Bowler: Mahmudullah
+Over: 10
+Shot: CUT_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Takes a step to the left to manufacture room. Was a seam-up ball angling in on top of off, sat up enough for Edwards to carve it through cover"}]Takes a step to the left to manufacture room. Was a seam-up ball angling in on top of off, sat up enough for Edwards to carve it through cover
+
+
+Balls faced: 3
+Bowler: Mahmudullah
+Over: 10
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Punches the length ball just outside off to cover"}]Punches the length ball just outside off to cover
+
+
+Balls faced: 4
+Bowler: Tanzim Hasan Sakib
+Over: 11
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Quick single to the left of mid-off. Was a fullish ball that was punched off the front fot"}]Quick single to the left of mid-off. Was a fullish ball that was punched off the front fot
+
+
+Balls faced: 5
+Bowler: Tanzim Hasan Sakib
+Over: 11
+Shot: SQUARE_DRIVE
+Run scored: 4
+[{"type": "HTML", "html": "Netherlands need 86 off 60. Win predictor has NED 68.26% * BAN 31.74%, but I think it's the flipside. What about you?"}]Netherlands need 86 off 60. Win predictor has NED 68.26% * BAN 31.74%, but I think it's the flipside. What about you?
+
+[{"type": "HTML", "html": "Well, Netherlands will be through if Edwards times em like this. Waited for the length ball on fourth to go behind him and chops it, beats backward point and there's no one behind"}]Well, Netherlands will be through if Edwards times em like this. Waited for the length ball on fourth to go behind him and chops it, beats backward point and there's no one behind
+
+
+Balls faced: 6
+Bowler: Mahmudullah
+Over: 10
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Sweeps the full ball to deep-backward square leg"}]Sweeps the full ball to deep-backward square leg
+[{"type": "HTML", "html": "Devang: \"Shaping up to be a spicy encounter\""}, {"type": "HTML", "html": "\"Hey, espncricinfo! My prediction was bang in target!!\" Taking your word on it, Imti"}, {"type": "HTML", "html": "Drinks"}]Devang: "Shaping up to be a spicy encounter" "Hey, espncricinfo! My prediction was bang in target!!" Taking your word on it, Imti Drinks
+
+Balls faced: 7
+Bowler: Mahmudullah
+Over: 10
+Shot: CUT_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Takes a step to the left to manufacture room. Was a seam-up ball angling in on top of off, sat up enough for Edwards to carve it through cover"}]Takes a step to the left to manufacture room. Was a seam-up ball angling in on top of off, sat up enough for Edwards to carve it through cover
+
+
+Balls faced: 8
+Bowler: Mahmudullah
+Over: 10
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Punches the length ball just outside off to cover"}]Punches the length ball just outside off to cover
+
+
+Balls faced: 9
+Bowler: Rishad Hossain
+Over: 12
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Steals a single by pushing the fullish on off towards point and calling early"}]Steals a single by pushing the fullish on off towards point and calling early
+
+
+Balls faced: 10
+Bowler: Rishad Hossain
+Over: 12
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Big risk, no reward for Edwards. Goes square-on and tries to launch the reverse sweep with the spin on the length ball ripping outside off. Doesn't have the pace to work with or the timing"}]Big risk, no reward for Edwards. Goes square-on and tries to launch the reverse sweep with the spin on the length ball ripping outside off. Doesn't have the pace to work with or the timing
+
+
+Balls faced: 11
+Bowler: Rishad Hossain
+Over: 12
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "High-release on the legbreak. Looped over the eyeline, 90ks, around the stumps. Edwards makes room and drives straight to cover"}]High-release on the legbreak. Looped over the eyeline, 90ks, around the stumps. Edwards makes room and drives straight to cover
+
+
+Balls faced: 12
+Bowler: Tanzim Hasan Sakib
+Over: 11
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Quick single to the left of mid-off. Was a fullish ball that was punched off the front fot"}]Quick single to the left of mid-off. Was a fullish ball that was punched off the front fot
+
+
+Balls faced: 13
+Bowler: Tanzim Hasan Sakib
+Over: 11
+Shot: SQUARE_DRIVE
+Run scored: 4
+[{"type": "HTML", "html": "Netherlands need 86 off 60. Win predictor has NED 68.26% * BAN 31.74%, but I think it's the flipside. What about you?"}]Netherlands need 86 off 60. Win predictor has NED 68.26% * BAN 31.74%, but I think it's the flipside. What about you?
+
+[{"type": "HTML", "html": "Well, Netherlands will be through if Edwards times em like this. Waited for the length ball on fourth to go behind him and chops it, beats backward point and there's no one behind"}]Well, Netherlands will be through if Edwards times em like this. Waited for the length ball on fourth to go behind him and chops it, beats backward point and there's no one behind
+
+
+Balls faced: 14
+Bowler: Taskin
+Over: 13
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Crouches a bit and effectively sweeps a length ball from top of the pad. Gets it to deep-backward square leg, they thought of two but it's not on"}]Crouches a bit and effectively sweeps a length ball from top of the pad. Gets it to deep-backward square leg, they thought of two but it's not on
+
+
+Balls faced: 15
+Bowler: Taskin
+Over: 13
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Beaten on the cut. It's wide on a length and Edwards looked to go hard and square"}]Beaten on the cut. It's wide on a length and Edwards looked to go hard and square
+
+
+Balls faced: 16
+Bowler: Rishad Hossain
+Over: 12
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Steals a single by pushing the fullish on off towards point and calling early"}]Steals a single by pushing the fullish on off towards point and calling early
+
+
+Balls faced: 17
+Bowler: Rishad Hossain
+Over: 12
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Big risk, no reward for Edwards. Goes square-on and tries to launch the reverse sweep with the spin on the length ball ripping outside off. Doesn't have the pace to work with or the timing"}]Big risk, no reward for Edwards. Goes square-on and tries to launch the reverse sweep with the spin on the length ball ripping outside off. Doesn't have the pace to work with or the timing
+
+
+Balls faced: 18
+Bowler: Rishad Hossain
+Over: 12
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "High-release on the legbreak. Looped over the eyeline, 90ks, around the stumps. Edwards makes room and drives straight to cover"}]High-release on the legbreak. Looped over the eyeline, 90ks, around the stumps. Edwards makes room and drives straight to cover
+
+
+Balls faced: 19
+Bowler: Shakib
+Over: 14
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Length on leg, backs away again and cuts to long-off"}]Length on leg, backs away again and cuts to long-off
+[{"type": "HTML", "html": "Shakib giving the batter no time between balls there"}]Shakib giving the batter no time between balls there
+
+Balls faced: 20
+Bowler: Shakib
+Over: 14
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Backs away and cuts the length ball from leg stump, to cover"}]Backs away and cuts the length ball from leg stump, to cover
+
+
+Balls faced: 21
+Bowler: Shakib
+Over: 14
+Shot: SWEEP_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Spins away to beat the slog sweep. 82ks but this seemed slower. This was full, landed around off and got extra bounce to hit high on the pad"}]Spins away to beat the slog sweep. 82ks but this seemed slower. This was full, landed around off and got extra bounce to hit high on the pad
+
+
+Balls faced: 22
+Bowler: Shakib
+Over: 14
+Shot: PULL
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Pulls the length ball between midwicket and long-on well enough to pick up two. Netherlands bring up 100. Just 76ks"}]Pulls the length ball between midwicket and long-on well enough to pick up two. Netherlands bring up 100. Just 76ks
+
+
+Balls faced: 23
+Bowler: Shakib
+Over: 14
+Shot: SWEEP_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "Shakib returns from around"}]Shakib returns from around
+
+[{"type": "HTML", "html": "Length around off, beats the sweep. Appeal for lbw not given, impact might've been the issue"}]Length around off, beats the sweep. Appeal for lbw not given, impact might've been the issue
+
+
+Balls faced: 24
+Bowler: Taskin
+Over: 13
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Crouches a bit and effectively sweeps a length ball from top of the pad. Gets it to deep-backward square leg, they thought of two but it's not on"}]Crouches a bit and effectively sweeps a length ball from top of the pad. Gets it to deep-backward square leg, they thought of two but it's not on
+
+
+Balls faced: 25
+Bowler: Taskin
+Over: 13
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Beaten on the cut. It's wide on a length and Edwards looked to go hard and square"}]Beaten on the cut. It's wide on a length and Edwards looked to go hard and square
+
+
+Balls faced: 26
+Bowler: Rishad Hossain
+Over: 15
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Sweeps the full ball around the corner"}]Sweeps the full ball around the corner
+
+
+Balls faced: 27
+Bowler: Rishad Hossain
+Over: 15
+Shot: LEFT_ALONE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Goes across to fifth stump, gets inside the line of the length ball straightening. Hits it deep into the outfield and well to the left of deep fine leg. One-bounce four"}]Goes across to fifth stump, gets inside the line of the length ball straightening. Hits it deep into the outfield and well to the left of deep fine leg. One-bounce four
+
+
+Balls faced: 28
+Bowler: Rishad Hossain
+Over: 15
+Shot: COVER_DRIVE
+Run scored: 2
+[{"type": "HTML", "html": "Rishad"}]Rishad
+
+[{"type": "HTML", "html": "Wide ball sits up, Edwards went away and waited for the ball to reach the top of the bounce and cuts it hard through cover. Hridoy is the sweeper running to the right, dives full length to save two"}]Wide ball sits up, Edwards went away and waited for the ball to reach the top of the bounce and cuts it hard through cover. Hridoy is the sweeper running to the right, dives full length to save two
+
+
+Balls faced: 29
+Bowler: Shakib
+Over: 14
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Length on leg, backs away again and cuts to long-off"}]Length on leg, backs away again and cuts to long-off
+[{"type": "HTML", "html": "Shakib giving the batter no time between balls there"}]Shakib giving the batter no time between balls there
+
+Balls faced: 30
+Bowler: Shakib
+Over: 14
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Backs away and cuts the length ball from leg stump, to cover"}]Backs away and cuts the length ball from leg stump, to cover
+
+
+Balls faced: 31
+Bowler: Shakib
+Over: 14
+Shot: SWEEP_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Spins away to beat the slog sweep. 82ks but this seemed slower. This was full, landed around off and got extra bounce to hit high on the pad"}]Spins away to beat the slog sweep. 82ks but this seemed slower. This was full, landed around off and got extra bounce to hit high on the pad
+
+
+Balls faced: 32
+Bowler: Shakib
+Over: 14
+Shot: PULL
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Pulls the length ball between midwicket and long-on well enough to pick up two. Netherlands bring up 100. Just 76ks"}]Pulls the length ball between midwicket and long-on well enough to pick up two. Netherlands bring up 100. Just 76ks
+
+
+Balls faced: 33
+Bowler: Shakib
+Over: 14
+Shot: SWEEP_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "Shakib returns from around"}]Shakib returns from around
+
+[{"type": "HTML", "html": "Length around off, beats the sweep. Appeal for lbw not given, impact might've been the issue"}]Length around off, beats the sweep. Appeal for lbw not given, impact might've been the issue
+
+
+Balls faced: 34
+Bowler: Shakib
+Over: 16
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Shakib's towel falls off as he delivers the length ball outside off, Edwards makes room and cuts to deep point"}]Shakib's towel falls off as he delivers the length ball outside off, Edwards makes room and cuts to deep point
+[{"type": "HTML", "html": "Hassan: \"Engelbrecht & de Leede threw the match away from Netherlands. it's now Bangladesh game to lose \""}]Hassan: "Engelbrecht & de Leede threw the match away from Netherlands. it's now Bangladesh game to lose "
+
+Balls faced: 35
+Bowler: Shakib
+Over: 16
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Edwards goes for that reverse launch again, the full ball from around the wicket is darted outside off and beats bat"}]Edwards goes for that reverse launch again, the full ball from around the wicket is darted outside off and beats bat
+
+
+Balls faced: 36
+Bowler: Shakib
+Over: 16
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Full on fifth, makes room and tries to cuff it with a semi-horizontal bat. Bowler runs to the right and dives, can't stop it in time. Shakib unhappy, perhaps feels that the non-striker, running back to make his ground, was in the bowler's way. But the worry doesn't carry for long"}]Full on fifth, makes room and tries to cuff it with a semi-horizontal bat. Bowler runs to the right and dives, can't stop it in time. Shakib unhappy, perhaps feels that the non-striker, running back to make his ground, was in the bowler's way. But the worry doesn't carry for long
+
+
+Balls faced: 37
+Bowler: Shakib
+Over: 16
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Goes across first before getting back. punches it straight"}]Goes across first before getting back. punches it straight
+
+
+Balls faced: 38
+Bowler: Rishad Hossain
+Over: 15
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Sweeps the full ball around the corner"}]Sweeps the full ball around the corner
+
+
+Balls faced: 39
+Bowler: Rishad Hossain
+Over: 15
+Shot: LEFT_ALONE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Goes across to fifth stump, gets inside the line of the length ball straightening. Hits it deep into the outfield and well to the left of deep fine leg. One-bounce four"}]Goes across to fifth stump, gets inside the line of the length ball straightening. Hits it deep into the outfield and well to the left of deep fine leg. One-bounce four
+
+
+Balls faced: 40
+Bowler: Rishad Hossain
+Over: 15
+Shot: COVER_DRIVE
+Run scored: 2
+[{"type": "HTML", "html": "Rishad"}]Rishad
+
+[{"type": "HTML", "html": "Wide ball sits up, Edwards went away and waited for the ball to reach the top of the bounce and cuts it hard through cover. Hridoy is the sweeper running to the right, dives full length to save two"}]Wide ball sits up, Edwards went away and waited for the ball to reach the top of the bounce and cuts it hard through cover. Hridoy is the sweeper running to the right, dives full length to save two
+
+
+Balls faced: 41
+Bowler: Mustafizur
+Over: 17
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Edwards looks to cut the angle and go across the line but top edges it back onto shoulder and to third. Was a length ball that he tried to heave, got low but couldn't cope with the bounce"}]Edwards looks to cut the angle and go across the line but top edges it back onto shoulder and to third. Was a length ball that he tried to heave, got low but couldn't cope with the bounce
+
+
+Balls faced: 42
+Bowler: Mustafizur
+Over: 17
+Shot: SWEEP_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "The Fizz starts the death overs. 43 needed off 24"}]The Fizz starts the death overs. 43 needed off 24
+
+[{"type": "HTML", "html": "Edwards goes across and is beaten on the sweep. Fizz saw him and went really wide and fullish. Given wide by the ump. Was dicey with the batter's movements but oh well"}]Edwards goes across and is beaten on the sweep. Fizz saw him and went really wide and fullish. Given wide by the ump. Was dicey with the batter's movements but oh well
+
+Wide: 1
+Balls faced: 43
+Bowler: Shakib
+Over: 16
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Shakib's towel falls off as he delivers the length ball outside off, Edwards makes room and cuts to deep point"}]Shakib's towel falls off as he delivers the length ball outside off, Edwards makes room and cuts to deep point
+[{"type": "HTML", "html": "Hassan: \"Engelbrecht & de Leede threw the match away from Netherlands. it's now Bangladesh game to lose \""}]Hassan: "Engelbrecht & de Leede threw the match away from Netherlands. it's now Bangladesh game to lose "
+
+Balls faced: 44
+Bowler: Shakib
+Over: 16
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Edwards goes for that reverse launch again, the full ball from around the wicket is darted outside off and beats bat"}]Edwards goes for that reverse launch again, the full ball from around the wicket is darted outside off and beats bat
+
+
+Balls faced: 45
+Bowler: Shakib
+Over: 16
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Full on fifth, makes room and tries to cuff it with a semi-horizontal bat. Bowler runs to the right and dives, can't stop it in time. Shakib unhappy, perhaps feels that the non-striker, running back to make his ground, was in the bowler's way. But the worry doesn't carry for long"}]Full on fifth, makes room and tries to cuff it with a semi-horizontal bat. Bowler runs to the right and dives, can't stop it in time. Shakib unhappy, perhaps feels that the non-striker, running back to make his ground, was in the bowler's way. But the worry doesn't carry for long
+
+
+Balls faced: 46
+Bowler: Shakib
+Over: 16
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Goes across first before getting back. punches it straight"}]Goes across first before getting back. punches it straight
+
+
+Balls faced: 47
+Bowler: Mustafizur
+Over: 17
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Edwards looks to cut the angle and go across the line but top edges it back onto shoulder and to third. Was a length ball that he tried to heave, got low but couldn't cope with the bounce"}]Edwards looks to cut the angle and go across the line but top edges it back onto shoulder and to third. Was a length ball that he tried to heave, got low but couldn't cope with the bounce
+
+
+Balls faced: 48
+Bowler: Mustafizur
+Over: 17
+Shot: SWEEP_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "The Fizz starts the death overs. 43 needed off 24"}]The Fizz starts the death overs. 43 needed off 24
+
+[{"type": "HTML", "html": "Edwards goes across and is beaten on the sweep. Fizz saw him and went really wide and fullish. Given wide by the ump. Was dicey with the batter's movements but oh well"}]Edwards goes across and is beaten on the sweep. Fizz saw him and went really wide and fullish. Given wide by the ump. Was dicey with the batter's movements but oh well
+
+Wide: 1
+
+Match: all_games_1411166_1415738.json
+Balls faced: 1
+Bowler: Shanaka
+Over: 8
+Shot: PULL
+Run scored: 4
+
+
+[{"type": "HTML", "html": "short ball on off stump that sits up for Scott Edwards, who hangs back and smokes it through square leg for four. A shot of authority there."}]short ball on off stump that sits up for Scott Edwards, who hangs back and smokes it through square leg for four. A shot of authority there.
+
+
+Balls faced: 2
+Bowler: Shanaka
+Over: 8
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length ball wide of off, opens the face and runs it to deep third"}]back of a length ball wide of off, opens the face and runs it to deep third
+
+
+Balls faced: 3
+Bowler: Pathirana
+Over: 9
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full, swinging in to Edwards, hitting him on the toe. There's a long, pleading appeal from Pathirana, but it's turned down. Maybe going down leg."}]full, swinging in to Edwards, hitting him on the toe. There's a long, pleading appeal from Pathirana, but it's turned down. Maybe going down leg.
+
+
+Balls faced: 4
+Bowler: Pathirana
+Over: 9
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shortish ball outside off, slower one, with the fingers rolled over it. Edwards tries to pull but misses"}]shortish ball outside off, slower one, with the fingers rolled over it. Edwards tries to pull but misses
+
+
+Balls faced: 5
+Bowler: Shanaka
+Over: 8
+Shot: PULL
+Run scored: 4
+
+
+[{"type": "HTML", "html": "short ball on off stump that sits up for Scott Edwards, who hangs back and smokes it through square leg for four. A shot of authority there."}]short ball on off stump that sits up for Scott Edwards, who hangs back and smokes it through square leg for four. A shot of authority there.
+
+
+Balls faced: 6
+Bowler: Shanaka
+Over: 8
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length ball wide of off, opens the face and runs it to deep third"}]back of a length ball wide of off, opens the face and runs it to deep third
+
+
+Balls faced: 7
+Bowler: Pathirana
+Over: 9
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full, swinging in to Edwards, hitting him on the toe. There's a long, pleading appeal from Pathirana, but it's turned down. Maybe going down leg."}]full, swinging in to Edwards, hitting him on the toe. There's a long, pleading appeal from Pathirana, but it's turned down. Maybe going down leg.
+
+
+Balls faced: 8
+Bowler: Pathirana
+Over: 9
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shortish ball outside off, slower one, with the fingers rolled over it. Edwards tries to pull but misses"}]shortish ball outside off, slower one, with the fingers rolled over it. Edwards tries to pull but misses
+
+
+Balls faced: 9
+Bowler: Pathirana
+Over: 11
+Shot: PULL
+Run scored: 2
+
+
+[{"type": "HTML", "html": "shortish, on off stump, pulls this time, again through the square leg region"}]shortish, on off stump, pulls this time, again through the square leg region
+
+
+Balls faced: 10
+Bowler: Pathirana
+Over: 11
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full again, swinging in again, and though Edwards makes room on the off side, ends up clipping to leg again, and gets a couple to square leg"}]full again, swinging in again, and though Edwards makes room on the off side, ends up clipping to leg again, and gets a couple to square leg
+
+
+Balls faced: 11
+Bowler: Pathirana
+Over: 11
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "stump seeking yorker headed to the base of middle, clipped through square leg for a single"}]stump seeking yorker headed to the base of middle, clipped through square leg for a single
+
+
+Balls faced: 12
+Bowler: Pathirana
+Over: 11
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball, wide of off, Edwards thinks about throwing his bat at it and decides against last moment."}]length ball, wide of off, Edwards thinks about throwing his bat at it and decides against last moment.
+
+
+Balls faced: 13
+Bowler: Pathirana
+Over: 11
+Shot: CUT_SHOT
+Run scored: 2
+
+
+[{"type": "HTML", "html": "shortish, wide of the stumps, cut away straight of point and they take a couple"}]shortish, wide of the stumps, cut away straight of point and they take a couple
+
+
+Balls faced: 14
+Bowler: Pathirana
+Over: 11
+Shot: FLICK
+Run scored: 0
+[{"type": "HTML", "html": "Netherlands are definitely out of Super Eights contention, by the way.<strong> Bangladesh have beaten Nepal by 21 runs in St. Vincent, so they take the second qualification spot,</strong> alongside SA. A campaign of \"what ifs\" for the inexperienced Nepal side."}]Netherlands are definitely out of Super Eights contention, by the way.<strong> Bangladesh have beaten Nepal by 21 runs in St. Vincent, so they take the second qualification spot,</strong> alongside SA. A campaign of "what ifs" for the inexperienced Nepal side.
+
+[{"type": "HTML", "html": "full delivery, but narrowly down the leg side."}]full delivery, but narrowly down the leg side.
+
+Wide: 1
+Balls faced: 15
+Bowler: Hasaranga
+Over: 12
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "floated up on off, driven just wide enough of cover to steal a single"}]floated up on off, driven just wide enough of cover to steal a single
+
+
+Balls faced: 16
+Bowler: Hasaranga
+Over: 12
+Shot: PADDLE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "topspinner I think, slows it up and pitches it on the stumps, Edwards sweeps but can't connect. Going down leg"}]topspinner I think, slows it up and pitches it on the stumps, Edwards sweeps but can't connect. Going down leg
+
+
+Balls faced: 17
+Bowler: Hasaranga
+Over: 12
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly again, fast and just wide of off, Edwards plays at it and gets his inside edge beaten"}]googly again, fast and just wide of off, Edwards plays at it and gets his inside edge beaten
+
+
+Balls faced: 18
+Bowler: Pathirana
+Over: 11
+Shot: PULL
+Run scored: 2
+
+
+[{"type": "HTML", "html": "shortish, on off stump, pulls this time, again through the square leg region"}]shortish, on off stump, pulls this time, again through the square leg region
+
+
+Balls faced: 19
+Bowler: Pathirana
+Over: 11
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full again, swinging in again, and though Edwards makes room on the off side, ends up clipping to leg again, and gets a couple to square leg"}]full again, swinging in again, and though Edwards makes room on the off side, ends up clipping to leg again, and gets a couple to square leg
+
+
+Balls faced: 20
+Bowler: Pathirana
+Over: 11
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "stump seeking yorker headed to the base of middle, clipped through square leg for a single"}]stump seeking yorker headed to the base of middle, clipped through square leg for a single
+
+
+Balls faced: 21
+Bowler: Pathirana
+Over: 11
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball, wide of off, Edwards thinks about throwing his bat at it and decides against last moment."}]length ball, wide of off, Edwards thinks about throwing his bat at it and decides against last moment.
+
+
+Balls faced: 22
+Bowler: Pathirana
+Over: 11
+Shot: CUT_SHOT
+Run scored: 2
+
+
+[{"type": "HTML", "html": "shortish, wide of the stumps, cut away straight of point and they take a couple"}]shortish, wide of the stumps, cut away straight of point and they take a couple
+
+
+Balls faced: 23
+Bowler: Pathirana
+Over: 11
+Shot: FLICK
+Run scored: 0
+[{"type": "HTML", "html": "Netherlands are definitely out of Super Eights contention, by the way.<strong> Bangladesh have beaten Nepal by 21 runs in St. Vincent, so they take the second qualification spot,</strong> alongside SA. A campaign of \"what ifs\" for the inexperienced Nepal side."}]Netherlands are definitely out of Super Eights contention, by the way.<strong> Bangladesh have beaten Nepal by 21 runs in St. Vincent, so they take the second qualification spot,</strong> alongside SA. A campaign of "what ifs" for the inexperienced Nepal side.
+
+[{"type": "HTML", "html": "full delivery, but narrowly down the leg side."}]full delivery, but narrowly down the leg side.
+
+Wide: 1
+Balls faced: 24
+Bowler: Thushara
+Over: 13
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fullish on the stumps, flicked through square leg."}]fullish on the stumps, flicked through square leg.
+
+
+Balls faced: 25
+Bowler: Thushara
+Over: 13
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short, slower ball, wide of off. Edwards waits for it and chops it to deep point"}]short, slower ball, wide of off. Edwards waits for it and chops it to deep point
+
+
+Balls faced: 26
+Bowler: Thushara
+Over: 13
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball, on the stumps, defended back to the bowler after a shuffle down the pitch. Thushara picks it up and attempts to throw stumps down, but only hits Edwards in the body. Pretty good natured though."}]length ball, on the stumps, defended back to the bowler after a shuffle down the pitch. Thushara picks it up and attempts to throw stumps down, but only hits Edwards in the body. Pretty good natured though.
+
+
+Balls faced: 27
+Bowler: Hasaranga
+Over: 12
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "floated up on off, driven just wide enough of cover to steal a single"}]floated up on off, driven just wide enough of cover to steal a single
+
+
+Balls faced: 28
+Bowler: Hasaranga
+Over: 12
+Shot: PADDLE_SWEEP
+Run scored: 0
+
+
+[{"type": "HTML", "html": "topspinner I think, slows it up and pitches it on the stumps, Edwards sweeps but can't connect. Going down leg"}]topspinner I think, slows it up and pitches it on the stumps, Edwards sweeps but can't connect. Going down leg
+
+
+Balls faced: 29
+Bowler: Hasaranga
+Over: 12
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly again, fast and just wide of off, Edwards plays at it and gets his inside edge beaten"}]googly again, fast and just wide of off, Edwards plays at it and gets his inside edge beaten
+
+
+Balls faced: 30
+Bowler: Hasaranga
+Over: 14
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "tossed up on the stumps, driven to long on"}]tossed up on the stumps, driven to long on
+
+
+Balls faced: 31
+Bowler: Hasaranga
+Over: 14
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "backs off to make space, but Hasaranga follows him with a googly, and Edwards can only hit that back to the bowler"}]backs off to make space, but Hasaranga follows him with a googly, and Edwards can only hit that back to the bowler
+
+
+Balls faced: 32
+Bowler: Hasaranga
+Over: 14
+Shot: SWEEP_SHOT
+Run scored: 2
+
+
+[{"type": "HTML", "html": "tossed up just wide of off, swept hard along the ground square of deep midwicket"}]tossed up just wide of off, swept hard along the ground square of deep midwicket
+
+
+Balls faced: 33
+Bowler: Thushara
+Over: 13
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fullish on the stumps, flicked through square leg."}]fullish on the stumps, flicked through square leg.
+
+
+Balls faced: 34
+Bowler: Thushara
+Over: 13
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short, slower ball, wide of off. Edwards waits for it and chops it to deep point"}]short, slower ball, wide of off. Edwards waits for it and chops it to deep point
+
+
+Balls faced: 35
+Bowler: Thushara
+Over: 13
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball, on the stumps, defended back to the bowler after a shuffle down the pitch. Thushara picks it up and attempts to throw stumps down, but only hits Edwards in the body. Pretty good natured though."}]length ball, on the stumps, defended back to the bowler after a shuffle down the pitch. Thushara picks it up and attempts to throw stumps down, but only hits Edwards in the body. Pretty good natured though.
+
+
+Balls faced: 36
+Bowler: Pathirana
+Over: 15
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fullish ball on the stumps, clipped nicely through fine leg for a single"}]fullish ball on the stumps, clipped nicely through fine leg for a single
+
+
+Balls faced: 37
+Bowler: Hasaranga
+Over: 14
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "tossed up on the stumps, driven to long on"}]tossed up on the stumps, driven to long on
+
+
+Balls faced: 38
+Bowler: Hasaranga
+Over: 14
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "backs off to make space, but Hasaranga follows him with a googly, and Edwards can only hit that back to the bowler"}]backs off to make space, but Hasaranga follows him with a googly, and Edwards can only hit that back to the bowler
+
+
+Balls faced: 39
+Bowler: Hasaranga
+Over: 14
+Shot: SWEEP_SHOT
+Run scored: 2
+
+
+[{"type": "HTML", "html": "tossed up just wide of off, swept hard along the ground square of deep midwicket"}]tossed up just wide of off, swept hard along the ground square of deep midwicket
+
+
+Balls faced: 40
+Bowler: Theekshana
+Over: 16
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "flat outside off, played into the deep on the offisde"}]flat outside off, played into the deep on the offisde
+
+
+Balls faced: 41
+Bowler: Theekshana
+Over: 16
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+[{"type": "HTML", "html": "Shanaka has misjudged that one. This is slog swept from Edwards, with the wind. Shanaka would have been in the game had he read the ball's trajectory, but ends up only making a late charge at the ball at the deep midwicket boundary, and couldn't get a hand on it. Clears the boundary rope by about 50 centimetres."}]Shanaka has misjudged that one. This is slog swept from Edwards, with the wind. Shanaka would have been in the game had he read the ball's trajectory, but ends up only making a late charge at the ball at the deep midwicket boundary, and couldn't get a hand on it. Clears the boundary rope by about 50 centimetres.
+
+
+Balls faced: 42
+Bowler: Theekshana
+Over: 16
+Shot: REVERSE_SWEEP
+Run scored: 1
+
+
+[{"type": "HTML", "html": "offbreak again, which Edwards tries to reverse sweep but it goes off his under edge just past off stump and between Kusal Mendis' legs. They can take a run"}]offbreak again, which Edwards tries to reverse sweep but it goes off his under edge just past off stump and between Kusal Mendis' legs. They can take a run
+
+
+Balls faced: 43
+Bowler: Pathirana
+Over: 15
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fullish ball on the stumps, clipped nicely through fine leg for a single"}]fullish ball on the stumps, clipped nicely through fine leg for a single
+
+
+Balls faced: 44
+Bowler: Thushara
+Over: 17
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower bouncer, and that does it for Edwards. Nice bit of bowling from Thushara. This is dug into the pitch with fingers rolled over, and Edwards tries to pull, but is very early on the shot, and hives a nice catch midwicket, who takes it at chest height. Easy catch"}]slower bouncer, and that does it for Edwards. Nice bit of bowling from Thushara. This is dug into the pitch with fingers rolled over, and Edwards tries to pull, but is very early on the shot, and hives a nice catch midwicket, who takes it at chest height. Easy catch
+
+
+Balls faced: 45
+Bowler: Thushara
+Over: 17
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Not a lot for Netherlands to gain, but Edwards is playing a nice innings here. This is full, wide of off, and Edwards crashes his bat down on it and gets it to scream away behind square on the off side for four"}]Not a lot for Netherlands to gain, but Edwards is playing a nice innings here. This is full, wide of off, and Edwards crashes his bat down on it and gets it to scream away behind square on the off side for four
+
+
+Balls faced: 46
+Bowler: Theekshana
+Over: 16
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "flat outside off, played into the deep on the offisde"}]flat outside off, played into the deep on the offisde
+
+
+Balls faced: 47
+Bowler: Theekshana
+Over: 16
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+[{"type": "HTML", "html": "Shanaka has misjudged that one. This is slog swept from Edwards, with the wind. Shanaka would have been in the game had he read the ball's trajectory, but ends up only making a late charge at the ball at the deep midwicket boundary, and couldn't get a hand on it. Clears the boundary rope by about 50 centimetres."}]Shanaka has misjudged that one. This is slog swept from Edwards, with the wind. Shanaka would have been in the game had he read the ball's trajectory, but ends up only making a late charge at the ball at the deep midwicket boundary, and couldn't get a hand on it. Clears the boundary rope by about 50 centimetres.
+
+
+Balls faced: 48
+Bowler: Theekshana
+Over: 16
+Shot: REVERSE_SWEEP
+Run scored: 1
+
+
+[{"type": "HTML", "html": "offbreak again, which Edwards tries to reverse sweep but it goes off his under edge just past off stump and between Kusal Mendis' legs. They can take a run"}]offbreak again, which Edwards tries to reverse sweep but it goes off his under edge just past off stump and between Kusal Mendis' legs. They can take a run
+
+
+Balls faced: 49
+Bowler: Thushara
+Over: 17
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower bouncer, and that does it for Edwards. Nice bit of bowling from Thushara. This is dug into the pitch with fingers rolled over, and Edwards tries to pull, but is very early on the shot, and hives a nice catch midwicket, who takes it at chest height. Easy catch"}]slower bouncer, and that does it for Edwards. Nice bit of bowling from Thushara. This is dug into the pitch with fingers rolled over, and Edwards tries to pull, but is very early on the shot, and hives a nice catch midwicket, who takes it at chest height. Easy catch
+
+
+Balls faced: 50
+Bowler: Thushara
+Over: 17
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Not a lot for Netherlands to gain, but Edwards is playing a nice innings here. This is full, wide of off, and Edwards crashes his bat down on it and gets it to scream away behind square on the off side for four"}]Not a lot for Netherlands to gain, but Edwards is playing a nice innings here. This is full, wide of off, and Edwards crashes his bat down on it and gets it to scream away behind square on the off side for four
+
+
+
+Match: all_games_1428145_1428151.json
+Balls faced: 1
+Bowler: Main
+Over: 9
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Leask
+Over: 10
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Leask
+Over: 10
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 4
+Bowler: Leask
+Over: 10
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Leask
+Over: 10
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Leask
+Over: 10
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Main
+Over: 9
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Main
+Over: 11
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Main
+Over: 11
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Leask
+Over: 10
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Leask
+Over: 10
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 12
+Bowler: Leask
+Over: 10
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Leask
+Over: 10
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: Leask
+Over: 10
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Leask
+Over: 12
+Shot: REVERSE_SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Leask
+Over: 12
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Leask
+Over: 12
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Main
+Over: 11
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 19
+Bowler: Main
+Over: 11
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Currie
+Over: 13
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Currie
+Over: 13
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 22
+Bowler: Currie
+Over: 13
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Currie
+Over: 13
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Leask
+Over: 12
+Shot: REVERSE_SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 25
+Bowler: Leask
+Over: 12
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Leask
+Over: 12
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 27
+Bowler: Currie
+Over: 13
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 28
+Bowler: Currie
+Over: 13
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Currie
+Over: 13
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Currie
+Over: 13
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+
+Match: all_games_1428145_1428152.json
+Balls faced: 1
+Bowler: Campher
+Over: 13
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Campher
+Over: 13
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: White
+Over: 14
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 4
+Bowler: White
+Over: 14
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: White
+Over: 14
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Campher
+Over: 13
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Campher
+Over: 13
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: McCarthy
+Over: 15
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: White
+Over: 14
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 10
+Bowler: White
+Over: 14
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: White
+Over: 14
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Hand
+Over: 16
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Hand
+Over: 16
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: McCarthy
+Over: 15
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Hand
+Over: 16
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Hand
+Over: 16
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 19
+Bowler: Adair
+Over: 18
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 21
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 22
+Bowler: Adair
+Over: 18
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1428145_1428154.json
+Balls faced: 1
+Bowler: Currie
+Over: 3
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Sole
+Over: 4
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Currie
+Over: 3
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Currie
+Over: 5
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Currie
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Currie
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Sole
+Over: 4
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 9
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 0
+
+
+
+
+No Balls: 1
+Balls faced: 10
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 14
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 0
+
+
+
+
+No Balls: 1
+Balls faced: 15
+Bowler: Currie
+Over: 5
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Currie
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Currie
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Watt
+Over: 7
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 19
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 20
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 0
+
+
+
+
+No Balls: 1
+Balls faced: 21
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 25
+Bowler: Main
+Over: 6
+Shot: No Shot
+Run scored: 0
+
+
+
+
+No Balls: 1
+Balls faced: 26
+Bowler: Main
+Over: 8
+Shot: No Shot
+Run scored: 3
+
+
+
+
+
+Balls faced: 27
+Bowler: Main
+Over: 8
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Watt
+Over: 7
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 31
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 32
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 33
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: Main
+Over: 8
+Shot: No Shot
+Run scored: 3
+
+
+
+
+
+Balls faced: 35
+Bowler: Main
+Over: 8
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 36
+Bowler: Greaves
+Over: 10
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 37
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 38
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 39
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 40
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 41
+Bowler: Watt
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 42
+Bowler: Currie
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 43
+Bowler: Currie
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 44
+Bowler: Currie
+Over: 11
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 45
+Bowler: Currie
+Over: 11
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 46
+Bowler: Greaves
+Over: 10
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 47
+Bowler: Currie
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 48
+Bowler: Currie
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 49
+Bowler: Currie
+Over: 11
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 50
+Bowler: Currie
+Over: 11
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+
+Match: all_games_1428145_1428156.json
+Balls faced: 1
+Bowler: Young
+Over: 16
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Young
+Over: 16
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 5
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 6
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 7
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Young
+Over: 16
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Young
+Over: 16
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Adair
+Over: 18
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Adair
+Over: 18
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 14
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 15
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 16
+Bowler: Campher
+Over: 17
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Adair
+Over: 18
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Adair
+Over: 18
+Shot: No Shot
+Run scored: 0
