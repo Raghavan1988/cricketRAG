@@ -2,41 +2,49 @@ Match: all_games_1373558_1373579.json
 Balls faced: 1
 Bowler: Russell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Career-best T20i figures for Andre Russell. Adil Rashid to face his final ball of the evening"}]Career-best T20i figures for Andre Russell. Adil Rashid to face his final ball of the evening
+Career-best T20i figures for Andre Russell. Adil Rashid to face his final ball of the evening
 
-[{"type": "HTML", "html": "Another batter flummoxed by the slower delivery outside off, tries to hop into a cut but misjudges it completely"}]Another batter flummoxed by the slower delivery outside off, tries to hop into a cut but misjudges it completely
+Another batter flummoxed by the slower delivery outside off, tries to hop into a cut but misjudges it completely
 
 
 Balls faced: 2
 Bowler: Alzarri Joseph
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Timber!</strong> Joseph pitches one full and knocks out off stump as Rashid slogs agriculturally across the line"}]<strong>Timber!</strong> Joseph pitches one full and knocks out off stump as Rashid slogs agriculturally across the line
+Rashid is OUT! bowled
+ b Joseph
+Adil Rashid b Joseph 0 (2b 0x4 0x6 2m) SR: 0
+<strong>Timber!</strong> Joseph pitches one full and knocks out off stump as Rashid slogs agriculturally across the line
 
 
 Balls faced: 3
 Bowler: Russell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Career-best T20i figures for Andre Russell. Adil Rashid to face his final ball of the evening"}]Career-best T20i figures for Andre Russell. Adil Rashid to face his final ball of the evening
+Career-best T20i figures for Andre Russell. Adil Rashid to face his final ball of the evening
 
-[{"type": "HTML", "html": "Another batter flummoxed by the slower delivery outside off, tries to hop into a cut but misjudges it completely"}]Another batter flummoxed by the slower delivery outside off, tries to hop into a cut but misjudges it completely
+Another batter flummoxed by the slower delivery outside off, tries to hop into a cut but misjudges it completely
 
 
 Balls faced: 4
 Bowler: Alzarri Joseph
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Timber!</strong> Joseph pitches one full and knocks out off stump as Rashid slogs agriculturally across the line"}]<strong>Timber!</strong> Joseph pitches one full and knocks out off stump as Rashid slogs agriculturally across the line
+Rashid is OUT! bowled
+ b Joseph
+Adil Rashid b Joseph 0 (2b 0x4 0x6 2m) SR: 0
+<strong>Timber!</strong> Joseph pitches one full and knocks out off stump as Rashid slogs agriculturally across the line
 
 
 
@@ -44,19 +52,21 @@ Match: all_games_1373558_1373583.json
 Balls faced: 1
 Bowler: Russell
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Hat-trick ball"}]Hat-trick ball
+Hat-trick ball
 
-[{"type": "HTML", "html": "round the wicket again, good length, clipped to the on-side for the single"}]round the wicket again, good length, clipped to the on-side for the single
-[{"type": "HTML", "html": "Ali: \"Still not buying \"boredom, lack of interest, and clarity issue?\"\" Clarity yes, the rest, nope..."}]Ali: "Still not buying "boredom, lack of interest, and clarity issue?"" Clarity yes, the rest, nope...
+round the wicket again, good length, clipped to the on-side for the single
+Ali: "Still not buying "boredom, lack of interest, and clarity issue?"" Clarity yes, the rest, nope...
 
 Balls faced: 2
 Bowler: Russell
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Hat-trick ball"}]Hat-trick ball
+Hat-trick ball
 
-[{"type": "HTML", "html": "round the wicket again, good length, clipped to the on-side for the single"}]round the wicket again, good length, clipped to the on-side for the single
-[{"type": "HTML", "html": "Ali: \"Still not buying \"boredom, lack of interest, and clarity issue?\"\" Clarity yes, the rest, nope..."}]Ali: "Still not buying "boredom, lack of interest, and clarity issue?"" Clarity yes, the rest, nope...
+round the wicket again, good length, clipped to the on-side for the single
+Ali: "Still not buying "boredom, lack of interest, and clarity issue?"" Clarity yes, the rest, nope...

@@ -2,481 +2,533 @@ Match: all_games_1387592_1387601.json
 Balls faced: 1
 Bowler: Williams
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>off the mark in style!</strong> Width outside off and that is just what Samson is after. Does well to roll his wrists over it and keeps it down, cutting it fiercely past backward point for four!"}]<strong>off the mark in style!</strong> Width outside off and that is just what Samson is after. Does well to roll his wrists over it and keeps it down, cutting it fiercely past backward point for four!
+<strong>off the mark in style!</strong> Width outside off and that is just what Samson is after. Does well to roll his wrists over it and keeps it down, cutting it fiercely past backward point for four!
 
 
 Balls faced: 2
 Bowler: Williams
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish outside off. Samson gets a decent stride forward and defends"}]fullish outside off. Samson gets a decent stride forward and defends
+fullish outside off. Samson gets a decent stride forward and defends
 
 
 Balls faced: 3
 Bowler: Williams
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track but this is well down the leg side. Samson ducks under it and the umpire has no qualms in calling it a wide"}]banged into the track but this is well down the leg side. Samson ducks under it and the umpire has no qualms in calling it a wide
+banged into the track but this is well down the leg side. Samson ducks under it and the umpire has no qualms in calling it a wide
 
 Wide: 1
 Balls faced: 4
 Bowler: Williams
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and honing into off stump. Samson watches it till the last moment and meets it right under his eyes"}]back of a length and honing into off stump. Samson watches it till the last moment and meets it right under his eyes
+back of a length and honing into off stump. Samson watches it till the last moment and meets it right under his eyes
 
 
 Balls faced: 5
 Bowler: Williams
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Williams comes back over the wicket to the right-hander. A wide slip in place"}, {"type": "HTML", "html": "Samson walks in. The last time he batted for India in an ODI, <a href=\"https://www.espncricinfo.com/series/india-in-west-indies-2023-1381201/west-indies-vs-india-3rd-odi-1381216/full-scorecard\">he scored a half-century</a>"}]Williams comes back over the wicket to the right-hander. A wide slip in place Samson walks in. The last time he batted for India in an ODI, <a href="https://www.espncricinfo.com/series/india-in-west-indies-2023-1381201/west-indies-vs-india-3rd-odi-1381216/full-scorecard">he scored a half-century</a>
+Williams comes back over the wicket to the right-hander. A wide slip in place Samson walks in. The last time he batted for India in an ODI, <a href="https://www.espncricinfo.com/series/india-in-west-indies-2023-1381201/west-indies-vs-india-3rd-odi-1381216/full-scorecard">he scored a half-century</a>
 
-[{"type": "HTML", "html": "back of a length outside off and this zips through too. Samson does well to ride the bounce and fend it into the off side"}]back of a length outside off and this zips through too. Samson does well to ride the bounce and fend it into the off side
+back of a length outside off and this zips through too. Samson does well to ride the bounce and fend it into the off side
 
 
 Balls faced: 6
 Bowler: Markram
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on off stump. Samson hangs back and knocks it down to long on"}]back of a length on off stump. Samson hangs back and knocks it down to long on
+back of a length on off stump. Samson hangs back and knocks it down to long on
 
 
 Balls faced: 7
 Bowler: Markram
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short on leg stump. Samson goes deep into his crease and works it past mid wicket for a single"}]short on leg stump. Samson goes deep into his crease and works it past mid wicket for a single
+short on leg stump. Samson goes deep into his crease and works it past mid wicket for a single
 
 
 Balls faced: 8
 Bowler: Markram
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<strong>streaky!</strong> Given a bit of air on a length on middle and leg. Samson plays for the turn but the ball goes on with the angle. Kisses the outside edge and dribbles past short third. Samson gets a brace for his troubles"}]<strong>streaky!</strong> Given a bit of air on a length on middle and leg. Samson plays for the turn but the ball goes on with the angle. Kisses the outside edge and dribbles past short third. Samson gets a brace for his troubles
+<strong>streaky!</strong> Given a bit of air on a length on middle and leg. Samson plays for the turn but the ball goes on with the angle. Kisses the outside edge and dribbles past short third. Samson gets a brace for his troubles
 
 
 Balls faced: 9
 Bowler: Markram
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket to Samson, like he was to Rahul"}]Around the wicket to Samson, like he was to Rahul
+Around the wicket to Samson, like he was to Rahul
 
-[{"type": "HTML", "html": "floated up full outside off. Samson comes forward and pushes it down the ground"}]floated up full outside off. Samson comes forward and pushes it down the ground
+floated up full outside off. Samson comes forward and pushes it down the ground
 
 
 Balls faced: 10
 Bowler: Williams
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>off the mark in style!</strong> Width outside off and that is just what Samson is after. Does well to roll his wrists over it and keeps it down, cutting it fiercely past backward point for four!"}]<strong>off the mark in style!</strong> Width outside off and that is just what Samson is after. Does well to roll his wrists over it and keeps it down, cutting it fiercely past backward point for four!
+<strong>off the mark in style!</strong> Width outside off and that is just what Samson is after. Does well to roll his wrists over it and keeps it down, cutting it fiercely past backward point for four!
 
 
 Balls faced: 11
 Bowler: Williams
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish outside off. Samson gets a decent stride forward and defends"}]fullish outside off. Samson gets a decent stride forward and defends
+fullish outside off. Samson gets a decent stride forward and defends
 
 
 Balls faced: 12
 Bowler: Williams
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track but this is well down the leg side. Samson ducks under it and the umpire has no qualms in calling it a wide"}]banged into the track but this is well down the leg side. Samson ducks under it and the umpire has no qualms in calling it a wide
+banged into the track but this is well down the leg side. Samson ducks under it and the umpire has no qualms in calling it a wide
 
 Wide: 1
 Balls faced: 13
 Bowler: Williams
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and honing into off stump. Samson watches it till the last moment and meets it right under his eyes"}]back of a length and honing into off stump. Samson watches it till the last moment and meets it right under his eyes
+back of a length and honing into off stump. Samson watches it till the last moment and meets it right under his eyes
 
 
 Balls faced: 14
 Bowler: Williams
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Williams comes back over the wicket to the right-hander. A wide slip in place"}, {"type": "HTML", "html": "Samson walks in. The last time he batted for India in an ODI, <a href=\"https://www.espncricinfo.com/series/india-in-west-indies-2023-1381201/west-indies-vs-india-3rd-odi-1381216/full-scorecard\">he scored a half-century</a>"}]Williams comes back over the wicket to the right-hander. A wide slip in place Samson walks in. The last time he batted for India in an ODI, <a href="https://www.espncricinfo.com/series/india-in-west-indies-2023-1381201/west-indies-vs-india-3rd-odi-1381216/full-scorecard">he scored a half-century</a>
+Williams comes back over the wicket to the right-hander. A wide slip in place Samson walks in. The last time he batted for India in an ODI, <a href="https://www.espncricinfo.com/series/india-in-west-indies-2023-1381201/west-indies-vs-india-3rd-odi-1381216/full-scorecard">he scored a half-century</a>
 
-[{"type": "HTML", "html": "back of a length outside off and this zips through too. Samson does well to ride the bounce and fend it into the off side"}]back of a length outside off and this zips through too. Samson does well to ride the bounce and fend it into the off side
+back of a length outside off and this zips through too. Samson does well to ride the bounce and fend it into the off side
 
 
 Balls faced: 15
 Bowler: Maharaj
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off stump. Samson gets to the pitch of the ball and pushes it to long off"}]full on off stump. Samson gets to the pitch of the ball and pushes it to long off
+full on off stump. Samson gets to the pitch of the ball and pushes it to long off
 
 
 Balls faced: 16
 Bowler: Maharaj
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slanted into off stump and this one does not turn. Samson chunks it off the inside half of the bat into the on side"}]slanted into off stump and this one does not turn. Samson chunks it off the inside half of the bat into the on side
+slanted into off stump and this one does not turn. Samson chunks it off the inside half of the bat into the on side
 
 
 Balls faced: 17
 Bowler: Maharaj
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up again, slightly shorter outside off. Samson presses forward and defends"}]looped up again, slightly shorter outside off. Samson presses forward and defends
+looped up again, slightly shorter outside off. Samson presses forward and defends
 
 
 Balls faced: 18
 Bowler: Maharaj
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Spin from both ends now. Maharaj to bowl the 29th. Around the wicket to Samson. Maharaj might look for the ball that comes in with the arm and targets the pads"}]Spin from both ends now. Maharaj to bowl the 29th. Around the wicket to Samson. Maharaj might look for the ball that comes in with the arm and targets the pads
+Spin from both ends now. Maharaj to bowl the 29th. Around the wicket to Samson. Maharaj might look for the ball that comes in with the arm and targets the pads
 
-[{"type": "HTML", "html": "tossed up full outside off. Samson lunges forward and smothers it"}]tossed up full outside off. Samson lunges forward and smothers it
+tossed up full outside off. Samson lunges forward and smothers it
 
 
 Balls faced: 19
 Bowler: Markram
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on off stump. Samson hangs back and knocks it down to long on"}]back of a length on off stump. Samson hangs back and knocks it down to long on
+back of a length on off stump. Samson hangs back and knocks it down to long on
 
 
 Balls faced: 20
 Bowler: Markram
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short on leg stump. Samson goes deep into his crease and works it past mid wicket for a single"}]short on leg stump. Samson goes deep into his crease and works it past mid wicket for a single
+short on leg stump. Samson goes deep into his crease and works it past mid wicket for a single
 
 
 Balls faced: 21
 Bowler: Markram
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<strong>streaky!</strong> Given a bit of air on a length on middle and leg. Samson plays for the turn but the ball goes on with the angle. Kisses the outside edge and dribbles past short third. Samson gets a brace for his troubles"}]<strong>streaky!</strong> Given a bit of air on a length on middle and leg. Samson plays for the turn but the ball goes on with the angle. Kisses the outside edge and dribbles past short third. Samson gets a brace for his troubles
+<strong>streaky!</strong> Given a bit of air on a length on middle and leg. Samson plays for the turn but the ball goes on with the angle. Kisses the outside edge and dribbles past short third. Samson gets a brace for his troubles
 
 
 Balls faced: 22
 Bowler: Markram
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket to Samson, like he was to Rahul"}]Around the wicket to Samson, like he was to Rahul
+Around the wicket to Samson, like he was to Rahul
 
-[{"type": "HTML", "html": "floated up full outside off. Samson comes forward and pushes it down the ground"}]floated up full outside off. Samson comes forward and pushes it down the ground
+floated up full outside off. Samson comes forward and pushes it down the ground
 
 
 Balls faced: 23
 Bowler: Hendricks
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Samson hops up onto his toes and dabs it past backward point for one"}]back of a length outside off. Samson hops up onto his toes and dabs it past backward point for one
+back of a length outside off. Samson hops up onto his toes and dabs it past backward point for one
 
 
 Balls faced: 24
 Bowler: Hendricks
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on leg stump. Comes off a tad quicker than Samson expects and pings into his thigh pad"}]back of a length on leg stump. Comes off a tad quicker than Samson expects and pings into his thigh pad
+back of a length on leg stump. Comes off a tad quicker than Samson expects and pings into his thigh pad
 
 
 Balls faced: 25
 Bowler: Hendricks
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hendricks is back. Over the wicket to Samson"}, {"type": "HTML", "html": "A good period of play for South Africa. Just 17 runs off the last five overs, including the wicket of Sudharsan"}]Hendricks is back. Over the wicket to Samson A good period of play for South Africa. Just 17 runs off the last five overs, including the wicket of Sudharsan
+Hendricks is back. Over the wicket to Samson A good period of play for South Africa. Just 17 runs off the last five overs, including the wicket of Sudharsan
 
-[{"type": "HTML", "html": "fullish on middle and off. Angles away off the surface and Samson is a little squared up as he defends"}]fullish on middle and off. Angles away off the surface and Samson is a little squared up as he defends
+fullish on middle and off. Angles away off the surface and Samson is a little squared up as he defends
 
 
 Balls faced: 26
 Bowler: Maharaj
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off stump. Samson gets to the pitch of the ball and pushes it to long off"}]full on off stump. Samson gets to the pitch of the ball and pushes it to long off
+full on off stump. Samson gets to the pitch of the ball and pushes it to long off
 
 
 Balls faced: 27
 Bowler: Maharaj
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slanted into off stump and this one does not turn. Samson chunks it off the inside half of the bat into the on side"}]slanted into off stump and this one does not turn. Samson chunks it off the inside half of the bat into the on side
+slanted into off stump and this one does not turn. Samson chunks it off the inside half of the bat into the on side
 
 
 Balls faced: 28
 Bowler: Maharaj
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up again, slightly shorter outside off. Samson presses forward and defends"}]looped up again, slightly shorter outside off. Samson presses forward and defends
+looped up again, slightly shorter outside off. Samson presses forward and defends
 
 
 Balls faced: 29
 Bowler: Maharaj
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Spin from both ends now. Maharaj to bowl the 29th. Around the wicket to Samson. Maharaj might look for the ball that comes in with the arm and targets the pads"}]Spin from both ends now. Maharaj to bowl the 29th. Around the wicket to Samson. Maharaj might look for the ball that comes in with the arm and targets the pads
+Spin from both ends now. Maharaj to bowl the 29th. Around the wicket to Samson. Maharaj might look for the ball that comes in with the arm and targets the pads
 
-[{"type": "HTML", "html": "tossed up full outside off. Samson lunges forward and smothers it"}]tossed up full outside off. Samson lunges forward and smothers it
+tossed up full outside off. Samson lunges forward and smothers it
 
 
 Balls faced: 30
 Bowler: Maharaj
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Burger is loosening up"}]Burger is loosening up
+Burger is loosening up
 
-[{"type": "HTML", "html": "slightly flatter but similarly full outside off. Samson advances and pokes it past extra cover for a single"}]slightly flatter but similarly full outside off. Samson advances and pokes it past extra cover for a single
+slightly flatter but similarly full outside off. Samson advances and pokes it past extra cover for a single
 
 
 Balls faced: 31
 Bowler: Maharaj
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floated up full on off stump. Samson stretches forward and presents the full face of the bat"}]floated up full on off stump. Samson stretches forward and presents the full face of the bat
+floated up full on off stump. Samson stretches forward and presents the full face of the bat
 
 
 Balls faced: 32
 Bowler: Maharaj
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on middle and leg. Samson opts to stay back before tapping it to short mid wicket"}]length on middle and leg. Samson opts to stay back before tapping it to short mid wicket
+length on middle and leg. Samson opts to stay back before tapping it to short mid wicket
 
 
 Balls faced: 33
 Bowler: Maharaj
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off stump. Samson lunges forward and defends"}]full on off stump. Samson lunges forward and defends
+full on off stump. Samson lunges forward and defends
 
 
 Balls faced: 34
 Bowler: Hendricks
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Samson hops up onto his toes and dabs it past backward point for one"}]back of a length outside off. Samson hops up onto his toes and dabs it past backward point for one
+back of a length outside off. Samson hops up onto his toes and dabs it past backward point for one
 
 
 Balls faced: 35
 Bowler: Hendricks
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on leg stump. Comes off a tad quicker than Samson expects and pings into his thigh pad"}]back of a length on leg stump. Comes off a tad quicker than Samson expects and pings into his thigh pad
+back of a length on leg stump. Comes off a tad quicker than Samson expects and pings into his thigh pad
 
 
 Balls faced: 36
 Bowler: Hendricks
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hendricks is back. Over the wicket to Samson"}, {"type": "HTML", "html": "A good period of play for South Africa. Just 17 runs off the last five overs, including the wicket of Sudharsan"}]Hendricks is back. Over the wicket to Samson A good period of play for South Africa. Just 17 runs off the last five overs, including the wicket of Sudharsan
+Hendricks is back. Over the wicket to Samson A good period of play for South Africa. Just 17 runs off the last five overs, including the wicket of Sudharsan
 
-[{"type": "HTML", "html": "fullish on middle and off. Angles away off the surface and Samson is a little squared up as he defends"}]fullish on middle and off. Angles away off the surface and Samson is a little squared up as he defends
+fullish on middle and off. Angles away off the surface and Samson is a little squared up as he defends
 
 
 Balls faced: 37
 Bowler: Hendricks
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>chops it on! Samson falls!</strong> Length delivery angled across the batter just outside off. Samson has a flat-footed poke at it and does not show any real conviction. Might have been trying to steer it to third man but all he managed was an inside edge that rattled into the stumps. India in a spot of bother now!"}]<strong>chops it on! Samson falls!</strong> Length delivery angled across the batter just outside off. Samson has a flat-footed poke at it and does not show any real conviction. Might have been trying to steer it to third man but all he managed was an inside edge that rattled into the stumps. India in a spot of bother now!
-[{"type": "HTML", "html": "And that will be <b>drinks</b>. South Africa have come back strongly after the 68-run partnership between Rahul and Sudharsan. Axar is slotted in at 7, with one of Arshdeep or Kuldeep expected to bat at 8. If SA can get another quickly, they will really fancy their chances of bowling India out."}]And that will be <b>drinks</b>. South Africa have come back strongly after the 68-run partnership between Rahul and Sudharsan. Axar is slotted in at 7, with one of Arshdeep or Kuldeep expected to bat at 8. If SA can get another quickly, they will really fancy their chances of bowling India out.
+Samson is OUT! bowled
+ b Hendricks
+Sanju Samson b Hendricks 12 (23b 1x4 0x6 20m) SR: 52.17
+<strong>chops it on! Samson falls!</strong> Length delivery angled across the batter just outside off. Samson has a flat-footed poke at it and does not show any real conviction. Might have been trying to steer it to third man but all he managed was an inside edge that rattled into the stumps. India in a spot of bother now!
+And that will be <b>drinks</b>. South Africa have come back strongly after the 68-run partnership between Rahul and Sudharsan. Axar is slotted in at 7, with one of Arshdeep or Kuldeep expected to bat at 8. If SA can get another quickly, they will really fancy their chances of bowling India out.
 
 Balls faced: 38
 Bowler: Hendricks
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length again, seaming back in and cramping Samson for room. He fences it into the on side and Rahul is alert enough to sneak in a single"}]back of a length again, seaming back in and cramping Samson for room. He fences it into the on side and Rahul is alert enough to sneak in a single
+back of a length again, seaming back in and cramping Samson for room. He fences it into the on side and Rahul is alert enough to sneak in a single
 
 
 Balls faced: 39
 Bowler: Hendricks
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length on off. Seems to nip back in and tucks up Samson for room as he prods it towards the bowler"}]hard length on off. Seems to nip back in and tucks up Samson for room as he prods it towards the bowler
+hard length on off. Seems to nip back in and tucks up Samson for room as he prods it towards the bowler
 
 
 Balls faced: 40
 Bowler: Hendricks
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length outside off. Skids through and Samson, looking for the cut, is late on the stroke"}]back of a length outside off. Skids through and Samson, looking for the cut, is late on the stroke
+back of a length outside off. Skids through and Samson, looking for the cut, is late on the stroke
 
 
 Balls faced: 41
 Bowler: Maharaj
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Burger is loosening up"}]Burger is loosening up
+Burger is loosening up
 
-[{"type": "HTML", "html": "slightly flatter but similarly full outside off. Samson advances and pokes it past extra cover for a single"}]slightly flatter but similarly full outside off. Samson advances and pokes it past extra cover for a single
+slightly flatter but similarly full outside off. Samson advances and pokes it past extra cover for a single
 
 
 Balls faced: 42
 Bowler: Maharaj
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floated up full on off stump. Samson stretches forward and presents the full face of the bat"}]floated up full on off stump. Samson stretches forward and presents the full face of the bat
+floated up full on off stump. Samson stretches forward and presents the full face of the bat
 
 
 Balls faced: 43
 Bowler: Maharaj
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on middle and leg. Samson opts to stay back before tapping it to short mid wicket"}]length on middle and leg. Samson opts to stay back before tapping it to short mid wicket
+length on middle and leg. Samson opts to stay back before tapping it to short mid wicket
 
 
 Balls faced: 44
 Bowler: Maharaj
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off stump. Samson lunges forward and defends"}]full on off stump. Samson lunges forward and defends
+full on off stump. Samson lunges forward and defends
 
 
 Balls faced: 45
 Bowler: Hendricks
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>chops it on! Samson falls!</strong> Length delivery angled across the batter just outside off. Samson has a flat-footed poke at it and does not show any real conviction. Might have been trying to steer it to third man but all he managed was an inside edge that rattled into the stumps. India in a spot of bother now!"}]<strong>chops it on! Samson falls!</strong> Length delivery angled across the batter just outside off. Samson has a flat-footed poke at it and does not show any real conviction. Might have been trying to steer it to third man but all he managed was an inside edge that rattled into the stumps. India in a spot of bother now!
-[{"type": "HTML", "html": "And that will be <b>drinks</b>. South Africa have come back strongly after the 68-run partnership between Rahul and Sudharsan. Axar is slotted in at 7, with one of Arshdeep or Kuldeep expected to bat at 8. If SA can get another quickly, they will really fancy their chances of bowling India out."}]And that will be <b>drinks</b>. South Africa have come back strongly after the 68-run partnership between Rahul and Sudharsan. Axar is slotted in at 7, with one of Arshdeep or Kuldeep expected to bat at 8. If SA can get another quickly, they will really fancy their chances of bowling India out.
+Samson is OUT! bowled
+ b Hendricks
+Sanju Samson b Hendricks 12 (23b 1x4 0x6 20m) SR: 52.17
+<strong>chops it on! Samson falls!</strong> Length delivery angled across the batter just outside off. Samson has a flat-footed poke at it and does not show any real conviction. Might have been trying to steer it to third man but all he managed was an inside edge that rattled into the stumps. India in a spot of bother now!
+And that will be <b>drinks</b>. South Africa have come back strongly after the 68-run partnership between Rahul and Sudharsan. Axar is slotted in at 7, with one of Arshdeep or Kuldeep expected to bat at 8. If SA can get another quickly, they will really fancy their chances of bowling India out.
 
 Balls faced: 46
 Bowler: Hendricks
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length again, seaming back in and cramping Samson for room. He fences it into the on side and Rahul is alert enough to sneak in a single"}]back of a length again, seaming back in and cramping Samson for room. He fences it into the on side and Rahul is alert enough to sneak in a single
+back of a length again, seaming back in and cramping Samson for room. He fences it into the on side and Rahul is alert enough to sneak in a single
 
 
 Balls faced: 47
 Bowler: Hendricks
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length on off. Seems to nip back in and tucks up Samson for room as he prods it towards the bowler"}]hard length on off. Seems to nip back in and tucks up Samson for room as he prods it towards the bowler
+hard length on off. Seems to nip back in and tucks up Samson for room as he prods it towards the bowler
 
 
 Balls faced: 48
 Bowler: Hendricks
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length outside off. Skids through and Samson, looking for the cut, is late on the stroke"}]back of a length outside off. Skids through and Samson, looking for the cut, is late on the stroke
+back of a length outside off. Skids through and Samson, looking for the cut, is late on the stroke
 
 
 
@@ -484,2301 +536,2535 @@ Match: all_games_1387592_1387602.json
 Balls faced: 1
 Bowler: Burger
 Over: 5
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
-[{"type": "HTML", "html": "Sanju Samson comes in at No. 3. Second opportunity in the series for him. Can he make it count?"}]Sanju Samson comes in at No. 3. Second opportunity in the series for him. Can he make it count?
+Sanju Samson comes in at No. 3. Second opportunity in the series for him. Can he make it count?
 
-[{"type": "HTML", "html": "tucks it down to fine leg to get off the mark immediately"}]tucks it down to fine leg to get off the mark immediately
+tucks it down to fine leg to get off the mark immediately
 
 
 Balls faced: 2
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "taps it wide of cover for a single"}]taps it wide of cover for a single
+taps it wide of cover for a single
 
 
 Balls faced: 3
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Sid: \"The first opportunity for Samson? Last match he played at scored a meagre 5 runs doing no good to his contention.\" -- You sure he scored five?"}]Sid: "The first opportunity for Samson? Last match he played at scored a meagre 5 runs doing no good to his contention." -- You sure he scored five?
+Sid: "The first opportunity for Samson? Last match he played at scored a meagre 5 runs doing no good to his contention." -- You sure he scored five?
 
-[{"type": "HTML", "html": "nips back in from outside off, defended back"}]nips back in from outside off, defended back
-[{"type": "HTML", "html": "Vikas: \"No pressure but this might well be last opportunity Samson gets for quite a long time if he doesn't do well.\" -- That seems like serious pressure to me :)"}]Vikas: "No pressure but this might well be last opportunity Samson gets for quite a long time if he doesn't do well." -- That seems like serious pressure to me :)
+nips back in from outside off, defended back
+Vikas: "No pressure but this might well be last opportunity Samson gets for quite a long time if he doesn't do well." -- That seems like serious pressure to me :)
 
 Balls faced: 4
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets right on top of the bounce as he keeps that out"}]gets right on top of the bounce as he keeps that out
+gets right on top of the bounce as he keeps that out
 
 
 Balls faced: 5
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "five wides as this bouncer goes way over the keeper, forget the batter. Gift for India. Perhaps got a little carried away"}]five wides as this bouncer goes way over the keeper, forget the batter. Gift for India. Perhaps got a little carried away
+five wides as this bouncer goes way over the keeper, forget the batter. Gift for India. Perhaps got a little carried away
 
 Wide: 5
 Balls faced: 6
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stands besides the line and bunts this short of length ball into the off side"}]stands besides the line and bunts this short of length ball into the off side
+stands besides the line and bunts this short of length ball into the off side
 
 
 Balls faced: 7
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on middle, turned to the leg side with soft hands"}]length on middle, turned to the leg side with soft hands
+length on middle, turned to the leg side with soft hands
 
 
 Balls faced: 8
 Bowler: Burger
 Over: 5
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
-[{"type": "HTML", "html": "Sanju Samson comes in at No. 3. Second opportunity in the series for him. Can he make it count?"}]Sanju Samson comes in at No. 3. Second opportunity in the series for him. Can he make it count?
+Sanju Samson comes in at No. 3. Second opportunity in the series for him. Can he make it count?
 
-[{"type": "HTML", "html": "tucks it down to fine leg to get off the mark immediately"}]tucks it down to fine leg to get off the mark immediately
+tucks it down to fine leg to get off the mark immediately
 
 
 Balls faced: 9
 Bowler: Burger
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "lifter honed towards the rib-cage, Samson tucks this into the leg side, wide of the keeper, as they pick up a quick single"}]lifter honed towards the rib-cage, Samson tucks this into the leg side, wide of the keeper, as they pick up a quick single
+lifter honed towards the rib-cage, Samson tucks this into the leg side, wide of the keeper, as they pick up a quick single
 
 
 Balls faced: 10
 Bowler: Burger
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "looks to pull but ends up getting it fine, the ball races away to the fine leg boundary. Samson was inside the line and was in a good position to play the shot."}]looks to pull but ends up getting it fine, the ball races away to the fine leg boundary. Samson was inside the line and was in a good position to play the shot.
+looks to pull but ends up getting it fine, the ball races away to the fine leg boundary. Samson was inside the line and was in a good position to play the shot.
 
 
 Balls faced: 11
 Bowler: Burger
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tucks this length ball on middle and leg to short midwicket"}]tucks this length ball on middle and leg to short midwicket
+tucks this length ball on middle and leg to short midwicket
 
 
 Balls faced: 12
 Bowler: Burger
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "spongy bounce on offer again, Samson does well to loosen his bottom hand as he fends that"}]spongy bounce on offer again, Samson does well to loosen his bottom hand as he fends that
+spongy bounce on offer again, Samson does well to loosen his bottom hand as he fends that
 
 
 Balls faced: 13
 Bowler: Burger
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "runs it down to third man for a single"}]runs it down to third man for a single
+runs it down to third man for a single
 
 
 Balls faced: 14
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "taps it wide of cover for a single"}]taps it wide of cover for a single
+taps it wide of cover for a single
 
 
 Balls faced: 15
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Sid: \"The first opportunity for Samson? Last match he played at scored a meagre 5 runs doing no good to his contention.\" -- You sure he scored five?"}]Sid: "The first opportunity for Samson? Last match he played at scored a meagre 5 runs doing no good to his contention." -- You sure he scored five?
+Sid: "The first opportunity for Samson? Last match he played at scored a meagre 5 runs doing no good to his contention." -- You sure he scored five?
 
-[{"type": "HTML", "html": "nips back in from outside off, defended back"}]nips back in from outside off, defended back
-[{"type": "HTML", "html": "Vikas: \"No pressure but this might well be last opportunity Samson gets for quite a long time if he doesn't do well.\" -- That seems like serious pressure to me :)"}]Vikas: "No pressure but this might well be last opportunity Samson gets for quite a long time if he doesn't do well." -- That seems like serious pressure to me :)
+nips back in from outside off, defended back
+Vikas: "No pressure but this might well be last opportunity Samson gets for quite a long time if he doesn't do well." -- That seems like serious pressure to me :)
 
 Balls faced: 16
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets right on top of the bounce as he keeps that out"}]gets right on top of the bounce as he keeps that out
+gets right on top of the bounce as he keeps that out
 
 
 Balls faced: 17
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "five wides as this bouncer goes way over the keeper, forget the batter. Gift for India. Perhaps got a little carried away"}]five wides as this bouncer goes way over the keeper, forget the batter. Gift for India. Perhaps got a little carried away
+five wides as this bouncer goes way over the keeper, forget the batter. Gift for India. Perhaps got a little carried away
 
 Wide: 5
 Balls faced: 18
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stands besides the line and bunts this short of length ball into the off side"}]stands besides the line and bunts this short of length ball into the off side
+stands besides the line and bunts this short of length ball into the off side
 
 
 Balls faced: 19
 Bowler: Williams
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on middle, turned to the leg side with soft hands"}]length on middle, turned to the leg side with soft hands
+length on middle, turned to the leg side with soft hands
 
 
 Balls faced: 20
 Bowler: Hendricks
 Over: 8
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fends it with soft hands towards backward point"}]fends it with soft hands towards backward point
-[{"type": "HTML", "html": "Okay, so Sreshth is really in now, say hello to him."}]Okay, so Sreshth is really in now, say hello to him.
+fends it with soft hands towards backward point
+Okay, so Sreshth is really in now, say hello to him.
 
 Balls faced: 21
 Bowler: Hendricks
 Over: 8
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked wide of square leg for a single"}]tucked wide of square leg for a single
+tucked wide of square leg for a single
 
 
 Balls faced: 22
 Bowler: Hendricks
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Beauran Hendricks, the left-arm-seamer into the attack. Just the one slip for him"}]Beauran Hendricks, the left-arm-seamer into the attack. Just the one slip for him
+Beauran Hendricks, the left-arm-seamer into the attack. Just the one slip for him
 
-[{"type": "HTML", "html": "floats it full on off, defended back"}]floats it full on off, defended back
+floats it full on off, defended back
 
 
 Balls faced: 23
 Bowler: Burger
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "lifter honed towards the rib-cage, Samson tucks this into the leg side, wide of the keeper, as they pick up a quick single"}]lifter honed towards the rib-cage, Samson tucks this into the leg side, wide of the keeper, as they pick up a quick single
+lifter honed towards the rib-cage, Samson tucks this into the leg side, wide of the keeper, as they pick up a quick single
 
 
 Balls faced: 24
 Bowler: Burger
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "looks to pull but ends up getting it fine, the ball races away to the fine leg boundary. Samson was inside the line and was in a good position to play the shot."}]looks to pull but ends up getting it fine, the ball races away to the fine leg boundary. Samson was inside the line and was in a good position to play the shot.
+looks to pull but ends up getting it fine, the ball races away to the fine leg boundary. Samson was inside the line and was in a good position to play the shot.
 
 
 Balls faced: 25
 Bowler: Burger
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tucks this length ball on middle and leg to short midwicket"}]tucks this length ball on middle and leg to short midwicket
+tucks this length ball on middle and leg to short midwicket
 
 
 Balls faced: 26
 Bowler: Burger
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "spongy bounce on offer again, Samson does well to loosen his bottom hand as he fends that"}]spongy bounce on offer again, Samson does well to loosen his bottom hand as he fends that
+spongy bounce on offer again, Samson does well to loosen his bottom hand as he fends that
 
 
 Balls faced: 27
 Bowler: Burger
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "runs it down to third man for a single"}]runs it down to third man for a single
+runs it down to third man for a single
 
 
 Balls faced: 28
 Bowler: Williams
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball worked off his waist to square leg"}]good length ball worked off his waist to square leg
+good length ball worked off his waist to square leg
 
 
 Balls faced: 29
 Bowler: Williams
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Nurdled towards point"}]good length ball just outside off. Nurdled towards point
+good length ball just outside off. Nurdled towards point
 
 
 Balls faced: 30
 Bowler: Williams
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball skidding into him around off stump. Bunted away"}]full ball skidding into him around off stump. Bunted away
+full ball skidding into him around off stump. Bunted away
 
 
 Balls faced: 31
 Bowler: Williams
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller ball. Tucked off his legs to midwicket"}]fuller ball. Tucked off his legs to midwicket
+fuller ball. Tucked off his legs to midwicket
 
 
 Balls faced: 32
 Bowler: Hendricks
 Over: 8
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fends it with soft hands towards backward point"}]fends it with soft hands towards backward point
-[{"type": "HTML", "html": "Okay, so Sreshth is really in now, say hello to him."}]Okay, so Sreshth is really in now, say hello to him.
+fends it with soft hands towards backward point
+Okay, so Sreshth is really in now, say hello to him.
 
 Balls faced: 33
 Bowler: Hendricks
 Over: 8
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked wide of square leg for a single"}]tucked wide of square leg for a single
+tucked wide of square leg for a single
 
 
 Balls faced: 34
 Bowler: Hendricks
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Beauran Hendricks, the left-arm-seamer into the attack. Just the one slip for him"}]Beauran Hendricks, the left-arm-seamer into the attack. Just the one slip for him
+Beauran Hendricks, the left-arm-seamer into the attack. Just the one slip for him
 
-[{"type": "HTML", "html": "floats it full on off, defended back"}]floats it full on off, defended back
+floats it full on off, defended back
 
 
 Balls faced: 35
 Bowler: Hendricks
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball around off. Attempts to cut but the ball spits at Samson, surprising him. Hits him near the glove/handle, and rolls behind square"}]good length ball around off. Attempts to cut but the ball spits at Samson, surprising him. Hits him near the glove/handle, and rolls behind square
+good length ball around off. Attempts to cut but the ball spits at Samson, surprising him. Hits him near the glove/handle, and rolls behind square
 
 
 Balls faced: 36
 Bowler: Hendricks
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. Back-foot punch to mid off"}]full ball just outside off. Back-foot punch to mid off
+full ball just outside off. Back-foot punch to mid off
 
 
 Balls faced: 37
 Bowler: Hendricks
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Presses forward and defends"}]full ball on off. Presses forward and defends
+full ball on off. Presses forward and defends
 
 
 Balls faced: 38
 Bowler: Williams
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball worked off his waist to square leg"}]good length ball worked off his waist to square leg
+good length ball worked off his waist to square leg
 
 
 Balls faced: 39
 Bowler: Williams
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Nurdled towards point"}]good length ball just outside off. Nurdled towards point
+good length ball just outside off. Nurdled towards point
 
 
 Balls faced: 40
 Bowler: Williams
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball skidding into him around off stump. Bunted away"}]full ball skidding into him around off stump. Bunted away
+full ball skidding into him around off stump. Bunted away
 
 
 Balls faced: 41
 Bowler: Williams
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller ball. Tucked off his legs to midwicket"}]fuller ball. Tucked off his legs to midwicket
+fuller ball. Tucked off his legs to midwicket
 
 
 Balls faced: 42
 Bowler: Williams
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length ball outside off. Guided to deep third"}]short of length ball outside off. Guided to deep third
+short of length ball outside off. Guided to deep third
 
 
 Balls faced: 43
 Bowler: Williams
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length ball on a fourth-stump line. Sways away"}]short of length ball on a fourth-stump line. Sways away
+short of length ball on a fourth-stump line. Sways away
 
 
 Balls faced: 44
 Bowler: Hendricks
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball around off. Attempts to cut but the ball spits at Samson, surprising him. Hits him near the glove/handle, and rolls behind square"}]good length ball around off. Attempts to cut but the ball spits at Samson, surprising him. Hits him near the glove/handle, and rolls behind square
+good length ball around off. Attempts to cut but the ball spits at Samson, surprising him. Hits him near the glove/handle, and rolls behind square
 
 
 Balls faced: 45
 Bowler: Hendricks
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. Back-foot punch to mid off"}]full ball just outside off. Back-foot punch to mid off
+full ball just outside off. Back-foot punch to mid off
 
 
 Balls faced: 46
 Bowler: Hendricks
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Presses forward and defends"}]full ball on off. Presses forward and defends
+full ball on off. Presses forward and defends
 
 
 Balls faced: 47
 Bowler: Hendricks
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish ball tucked to midwicket for a quick run"}]fullish ball tucked to midwicket for a quick run
+fullish ball tucked to midwicket for a quick run
 
 
 Balls faced: 48
 Bowler: Hendricks
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "around the stumps. Full ball just outside off and driven along the carpet to extra cover. de Zorzi covers a lot of ground but eventually can't stop the ball from rolling over the line"}]around the stumps. Full ball just outside off and driven along the carpet to extra cover. de Zorzi covers a lot of ground but eventually can't stop the ball from rolling over the line
+around the stumps. Full ball just outside off and driven along the carpet to extra cover. de Zorzi covers a lot of ground but eventually can't stop the ball from rolling over the line
 
 
 Balls faced: 49
 Bowler: Hendricks
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full and wide. Slashed past backward point and there's some work for deep third to do"}]full and wide. Slashed past backward point and there's some work for deep third to do
+full and wide. Slashed past backward point and there's some work for deep third to do
 
 
 Balls faced: 50
 Bowler: Williams
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length ball outside off. Guided to deep third"}]short of length ball outside off. Guided to deep third
+short of length ball outside off. Guided to deep third
 
 
 Balls faced: 51
 Bowler: Williams
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length ball on a fourth-stump line. Sways away"}]short of length ball on a fourth-stump line. Sways away
+short of length ball on a fourth-stump line. Sways away
 
 
 Balls faced: 52
 Bowler: Williams
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length ball angling in. Confidently pulled... on the bounce to deep square leg"}]short of length ball angling in. Confidently pulled... on the bounce to deep square leg
+short of length ball angling in. Confidently pulled... on the bounce to deep square leg
 
 
 Balls faced: 53
 Bowler: Williams
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle. Guided to midwicket's left"}]full ball on middle. Guided to midwicket's left
-[{"type": "HTML", "html": "Pawan : \"Watching too many T20 made people impatient. It's ODI and the batsmen are building innings as required.\""}]Pawan : "Watching too many T20 made people impatient. It's ODI and the batsmen are building innings as required."
+full ball on middle. Guided to midwicket's left
+Pawan : "Watching too many T20 made people impatient. It's ODI and the batsmen are building innings as required."
 
 Balls faced: 54
 Bowler: Williams
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on leg. Worked to square leg"}]length ball on leg. Worked to square leg
+length ball on leg. Worked to square leg
 
 
 Balls faced: 55
 Bowler: Hendricks
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish ball tucked to midwicket for a quick run"}]fullish ball tucked to midwicket for a quick run
+fullish ball tucked to midwicket for a quick run
 
 
 Balls faced: 56
 Bowler: Hendricks
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "around the stumps. Full ball just outside off and driven along the carpet to extra cover. de Zorzi covers a lot of ground but eventually can't stop the ball from rolling over the line"}]around the stumps. Full ball just outside off and driven along the carpet to extra cover. de Zorzi covers a lot of ground but eventually can't stop the ball from rolling over the line
+around the stumps. Full ball just outside off and driven along the carpet to extra cover. de Zorzi covers a lot of ground but eventually can't stop the ball from rolling over the line
 
 
 Balls faced: 57
 Bowler: Hendricks
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full and wide. Slashed past backward point and there's some work for deep third to do"}]full and wide. Slashed past backward point and there's some work for deep third to do
+full and wide. Slashed past backward point and there's some work for deep third to do
 
 
 Balls faced: 58
 Bowler: Hendricks
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. Driven, but stopped inside the circle"}]full ball just outside off. Driven, but stopped inside the circle
-[{"type": "HTML", "html": "Saravanan: \"Samson is much better in ODIs than in T20s.Problem is nobody gave him a proper role nor backed him up. Rohit, VK are where they're now because of the MSD's backing\""}]Saravanan: "Samson is much better in ODIs than in T20s.Problem is nobody gave him a proper role nor backed him up. Rohit, VK are where they're now because of the MSD's backing"
+full ball just outside off. Driven, but stopped inside the circle
+Saravanan: "Samson is much better in ODIs than in T20s.Problem is nobody gave him a proper role nor backed him up. Rohit, VK are where they're now because of the MSD's backing"
 
 Balls faced: 59
 Bowler: Hendricks
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full ball on off. Presses forward, drives well, and relies on his timing to beat both mid on and mid off in the race"}]full ball on off. Presses forward, drives well, and relies on his timing to beat both mid on and mid off in the race
+full ball on off. Presses forward, drives well, and relies on his timing to beat both mid on and mid off in the race
 
 
 Balls faced: 60
 Bowler: Hendricks
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around off stump and he drives to mid-on"}]full ball around off stump and he drives to mid-on
+full ball around off stump and he drives to mid-on
 
 
 Balls faced: 61
 Bowler: Hendricks
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball wider outside off. Guided to deep third for one"}]length ball wider outside off. Guided to deep third for one
+length ball wider outside off. Guided to deep third for one
 
 
 Balls faced: 62
 Bowler: Williams
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length ball angling in. Confidently pulled... on the bounce to deep square leg"}]short of length ball angling in. Confidently pulled... on the bounce to deep square leg
+short of length ball angling in. Confidently pulled... on the bounce to deep square leg
 
 
 Balls faced: 63
 Bowler: Williams
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle. Guided to midwicket's left"}]full ball on middle. Guided to midwicket's left
-[{"type": "HTML", "html": "Pawan : \"Watching too many T20 made people impatient. It's ODI and the batsmen are building innings as required.\""}]Pawan : "Watching too many T20 made people impatient. It's ODI and the batsmen are building innings as required."
+full ball on middle. Guided to midwicket's left
+Pawan : "Watching too many T20 made people impatient. It's ODI and the batsmen are building innings as required."
 
 Balls faced: 64
 Bowler: Williams
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on leg. Worked to square leg"}]length ball on leg. Worked to square leg
+length ball on leg. Worked to square leg
 
 
 Balls faced: 65
 Bowler: Mulder
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball wider outside off. Gets forward to drive with the bat's open face. Guided to deep third"}]full ball wider outside off. Gets forward to drive with the bat's open face. Guided to deep third
+full ball wider outside off. Gets forward to drive with the bat's open face. Guided to deep third
 
 
 Balls faced: 66
 Bowler: Hendricks
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. Driven, but stopped inside the circle"}]full ball just outside off. Driven, but stopped inside the circle
-[{"type": "HTML", "html": "Saravanan: \"Samson is much better in ODIs than in T20s.Problem is nobody gave him a proper role nor backed him up. Rohit, VK are where they're now because of the MSD's backing\""}]Saravanan: "Samson is much better in ODIs than in T20s.Problem is nobody gave him a proper role nor backed him up. Rohit, VK are where they're now because of the MSD's backing"
+full ball just outside off. Driven, but stopped inside the circle
+Saravanan: "Samson is much better in ODIs than in T20s.Problem is nobody gave him a proper role nor backed him up. Rohit, VK are where they're now because of the MSD's backing"
 
 Balls faced: 67
 Bowler: Hendricks
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full ball on off. Presses forward, drives well, and relies on his timing to beat both mid on and mid off in the race"}]full ball on off. Presses forward, drives well, and relies on his timing to beat both mid on and mid off in the race
+full ball on off. Presses forward, drives well, and relies on his timing to beat both mid on and mid off in the race
 
 
 Balls faced: 68
 Bowler: Hendricks
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around off stump and he drives to mid-on"}]full ball around off stump and he drives to mid-on
+full ball around off stump and he drives to mid-on
 
 
 Balls faced: 69
 Bowler: Hendricks
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball wider outside off. Guided to deep third for one"}]length ball wider outside off. Guided to deep third for one
+length ball wider outside off. Guided to deep third for one
 
 
 Balls faced: 70
 Bowler: Maharaj
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on off. Turning away. Samson tentatively punches to long off"}]full ball on off. Turning away. Samson tentatively punches to long off
+full ball on off. Turning away. Samson tentatively punches to long off
 
 
 Balls faced: 71
 Bowler: Maharaj
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Presses forward and blocks."}]full ball on off. Presses forward and blocks.
+full ball on off. Presses forward and blocks.
 
 
 Balls faced: 72
 Bowler: Maharaj
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle. Samson comes charging down, staying on the leg side of the ball,  and then drives to deep extra cover"}]full ball on middle. Samson comes charging down, staying on the leg side of the ball,  and then drives to deep extra cover
+full ball on middle. Samson comes charging down, staying on the leg side of the ball,  and then drives to deep extra cover
 
 
 Balls faced: 73
 Bowler: Maharaj
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle and leg. Samson fends gently"}]full ball on middle and leg. Samson fends gently
+full ball on middle and leg. Samson fends gently
 
 
 Balls faced: 74
 Bowler: Mulder
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball wider outside off. Gets forward to drive with the bat's open face. Guided to deep third"}]full ball wider outside off. Gets forward to drive with the bat's open face. Guided to deep third
+full ball wider outside off. Gets forward to drive with the bat's open face. Guided to deep third
 
 
 Balls faced: 75
 Bowler: Mulder
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball driven away from his body to the deep"}]full ball driven away from his body to the deep
+full ball driven away from his body to the deep
 
 
 Balls faced: 76
 Bowler: Mulder
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg and he flicks it away to deep fine leg for a single"}]full on leg and he flicks it away to deep fine leg for a single
-[{"type": "HTML", "html": "Sachinvehale: \"Sanju Samson is the only IPL captain who has not been given the limelight that other captains have got. He deserves far more respect due to his abilities and attitude. really wish him to cash on international chances he gets and make it a long run career\""}]Sachinvehale: "Sanju Samson is the only IPL captain who has not been given the limelight that other captains have got. He deserves far more respect due to his abilities and attitude. really wish him to cash on international chances he gets and make it a long run career"
+full on leg and he flicks it away to deep fine leg for a single
+Sachinvehale: "Sanju Samson is the only IPL captain who has not been given the limelight that other captains have got. He deserves far more respect due to his abilities and attitude. really wish him to cash on international chances he gets and make it a long run career"
 
 Balls faced: 77
 Bowler: Mulder
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball tucked away to midwicket"}]good length ball tucked away to midwicket
+good length ball tucked away to midwicket
 
 
 Balls faced: 78
 Bowler: Maharaj
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on off. Turning away. Samson tentatively punches to long off"}]full ball on off. Turning away. Samson tentatively punches to long off
+full ball on off. Turning away. Samson tentatively punches to long off
 
 
 Balls faced: 79
 Bowler: Maharaj
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Presses forward and blocks."}]full ball on off. Presses forward and blocks.
+full ball on off. Presses forward and blocks.
 
 
 Balls faced: 80
 Bowler: Maharaj
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle. Samson comes charging down, staying on the leg side of the ball,  and then drives to deep extra cover"}]full ball on middle. Samson comes charging down, staying on the leg side of the ball,  and then drives to deep extra cover
+full ball on middle. Samson comes charging down, staying on the leg side of the ball,  and then drives to deep extra cover
 
 
 Balls faced: 81
 Bowler: Maharaj
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle and leg. Samson fends gently"}]full ball on middle and leg. Samson fends gently
+full ball on middle and leg. Samson fends gently
 
 
 Balls faced: 82
 Bowler: Maharaj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball just outside off. Bit of turn away. Pushed down the V to long off"}]length ball just outside off. Bit of turn away. Pushed down the V to long off
+length ball just outside off. Bit of turn away. Pushed down the V to long off
 
 
 Balls faced: 83
 Bowler: Maharaj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle. Skips down the ground, staying on the leg side of the ball. Caressed to deep extra cover"}]full ball on middle. Skips down the ground, staying on the leg side of the ball. Caressed to deep extra cover
+full ball on middle. Skips down the ground, staying on the leg side of the ball. Caressed to deep extra cover
 
 
 Balls faced: 84
 Bowler: Mulder
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball driven away from his body to the deep"}]full ball driven away from his body to the deep
+full ball driven away from his body to the deep
 
 
 Balls faced: 85
 Bowler: Mulder
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg and he flicks it away to deep fine leg for a single"}]full on leg and he flicks it away to deep fine leg for a single
-[{"type": "HTML", "html": "Sachinvehale: \"Sanju Samson is the only IPL captain who has not been given the limelight that other captains have got. He deserves far more respect due to his abilities and attitude. really wish him to cash on international chances he gets and make it a long run career\""}]Sachinvehale: "Sanju Samson is the only IPL captain who has not been given the limelight that other captains have got. He deserves far more respect due to his abilities and attitude. really wish him to cash on international chances he gets and make it a long run career"
+full on leg and he flicks it away to deep fine leg for a single
+Sachinvehale: "Sanju Samson is the only IPL captain who has not been given the limelight that other captains have got. He deserves far more respect due to his abilities and attitude. really wish him to cash on international chances he gets and make it a long run career"
 
 Balls faced: 86
 Bowler: Mulder
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball tucked away to midwicket"}]good length ball tucked away to midwicket
+good length ball tucked away to midwicket
 
 
 Balls faced: 87
 Bowler: Mulder
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle and leg. flicked to fine leg"}]full on middle and leg. flicked to fine leg
+full on middle and leg. flicked to fine leg
 
 
 Balls faced: 88
 Bowler: Mulder
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>team hundred.</b> This was a short ball that Samson pulled easily. Hit in front of square, beating both fielders on the leg-side fence"}]<B>team hundred.</b> This was a short ball that Samson pulled easily. Hit in front of square, beating both fielders on the leg-side fence
+<B>team hundred.</b> This was a short ball that Samson pulled easily. Hit in front of square, beating both fielders on the leg-side fence
 
 
 Balls faced: 89
 Bowler: Mulder
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. A tentative drive towards cover"}]full ball just outside off. A tentative drive towards cover
-[{"type": "HTML", "html": "Walt: \"Wow, that is incredibly poor from Curran. Think a 4 match ban is a bit too lenient, he should know better. The umpire is the ultimate authority, and to intimidate one like that? Really poor.\""}, {"type": "HTML", "html": "Andy D: \"No one in England is surprised by Tom Curran's behaviour. What is even worse is the Sydney Sixers appealing the decision after seeing that evidence.\""}]Walt: "Wow, that is incredibly poor from Curran. Think a 4 match ban is a bit too lenient, he should know better. The umpire is the ultimate authority, and to intimidate one like that? Really poor." Andy D: "No one in England is surprised by Tom Curran's behaviour. What is even worse is the Sydney Sixers appealing the decision after seeing that evidence."
+full ball just outside off. A tentative drive towards cover
+Walt: "Wow, that is incredibly poor from Curran. Think a 4 match ban is a bit too lenient, he should know better. The umpire is the ultimate authority, and to intimidate one like that? Really poor." Andy D: "No one in England is surprised by Tom Curran's behaviour. What is even worse is the Sydney Sixers appealing the decision after seeing that evidence."
 
 Balls faced: 90
 Bowler: Maharaj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball just outside off. Bit of turn away. Pushed down the V to long off"}]length ball just outside off. Bit of turn away. Pushed down the V to long off
+length ball just outside off. Bit of turn away. Pushed down the V to long off
 
 
 Balls faced: 91
 Bowler: Maharaj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle. Skips down the ground, staying on the leg side of the ball. Caressed to deep extra cover"}]full ball on middle. Skips down the ground, staying on the leg side of the ball. Caressed to deep extra cover
+full ball on middle. Skips down the ground, staying on the leg side of the ball. Caressed to deep extra cover
 
 
 Balls faced: 92
 Bowler: Mulder
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle and leg. flicked to fine leg"}]full on middle and leg. flicked to fine leg
+full on middle and leg. flicked to fine leg
 
 
 Balls faced: 93
 Bowler: Mulder
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>team hundred.</b> This was a short ball that Samson pulled easily. Hit in front of square, beating both fielders on the leg-side fence"}]<B>team hundred.</b> This was a short ball that Samson pulled easily. Hit in front of square, beating both fielders on the leg-side fence
+<B>team hundred.</b> This was a short ball that Samson pulled easily. Hit in front of square, beating both fielders on the leg-side fence
 
 
 Balls faced: 94
 Bowler: Mulder
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. A tentative drive towards cover"}]full ball just outside off. A tentative drive towards cover
-[{"type": "HTML", "html": "Walt: \"Wow, that is incredibly poor from Curran. Think a 4 match ban is a bit too lenient, he should know better. The umpire is the ultimate authority, and to intimidate one like that? Really poor.\""}, {"type": "HTML", "html": "Andy D: \"No one in England is surprised by Tom Curran's behaviour. What is even worse is the Sydney Sixers appealing the decision after seeing that evidence.\""}]Walt: "Wow, that is incredibly poor from Curran. Think a 4 match ban is a bit too lenient, he should know better. The umpire is the ultimate authority, and to intimidate one like that? Really poor." Andy D: "No one in England is surprised by Tom Curran's behaviour. What is even worse is the Sydney Sixers appealing the decision after seeing that evidence."
+full ball just outside off. A tentative drive towards cover
+Walt: "Wow, that is incredibly poor from Curran. Think a 4 match ban is a bit too lenient, he should know better. The umpire is the ultimate authority, and to intimidate one like that? Really poor." Andy D: "No one in England is surprised by Tom Curran's behaviour. What is even worse is the Sydney Sixers appealing the decision after seeing that evidence."
 
 Balls faced: 95
 Bowler: Mulder
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Nurdled to deep third"}]good length ball just outside off. Nurdled to deep third
+good length ball just outside off. Nurdled to deep third
 
 
 Balls faced: 96
 Bowler: Mulder
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Driven uppishly to cover"}]full ball outside off. Driven uppishly to cover
-[{"type": "HTML", "html": "Sidat: \"I think Sanju's strength of being so versatile and flexible has become his weakness which is why he is not a certainty in internationals. Sanju can play anywhere in the top 6 and hence, his constant moving of positions in games. What the coaching staff need to do is ask him to focus on a certain role which I believe is a middle order enforcer similar to Klaasen/Mitchell/Maxwell because he is such a good player of spin.\""}]Sidat: "I think Sanju's strength of being so versatile and flexible has become his weakness which is why he is not a certainty in internationals. Sanju can play anywhere in the top 6 and hence, his constant moving of positions in games. What the coaching staff need to do is ask him to focus on a certain role which I believe is a middle order enforcer similar to Klaasen/Mitchell/Maxwell because he is such a good player of spin."
+full ball outside off. Driven uppishly to cover
+Sidat: "I think Sanju's strength of being so versatile and flexible has become his weakness which is why he is not a certainty in internationals. Sanju can play anywhere in the top 6 and hence, his constant moving of positions in games. What the coaching staff need to do is ask him to focus on a certain role which I believe is a middle order enforcer similar to Klaasen/Mitchell/Maxwell because he is such a good player of spin."
 
 Balls faced: 97
 Bowler: Mulder
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Nurdled to deep third"}]good length ball just outside off. Nurdled to deep third
+good length ball just outside off. Nurdled to deep third
 
 
 Balls faced: 98
 Bowler: Mulder
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Driven uppishly to cover"}]full ball outside off. Driven uppishly to cover
-[{"type": "HTML", "html": "Sidat: \"I think Sanju's strength of being so versatile and flexible has become his weakness which is why he is not a certainty in internationals. Sanju can play anywhere in the top 6 and hence, his constant moving of positions in games. What the coaching staff need to do is ask him to focus on a certain role which I believe is a middle order enforcer similar to Klaasen/Mitchell/Maxwell because he is such a good player of spin.\""}]Sidat: "I think Sanju's strength of being so versatile and flexible has become his weakness which is why he is not a certainty in internationals. Sanju can play anywhere in the top 6 and hence, his constant moving of positions in games. What the coaching staff need to do is ask him to focus on a certain role which I believe is a middle order enforcer similar to Klaasen/Mitchell/Maxwell because he is such a good player of spin."
+full ball outside off. Driven uppishly to cover
+Sidat: "I think Sanju's strength of being so versatile and flexible has become his weakness which is why he is not a certainty in internationals. Sanju can play anywhere in the top 6 and hence, his constant moving of positions in games. What the coaching staff need to do is ask him to focus on a certain role which I believe is a middle order enforcer similar to Klaasen/Mitchell/Maxwell because he is such a good player of spin."
 
 Balls faced: 99
 Bowler: Burger
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball outside off. Samson wants to dab a late cut. Bottom-edged to deep third"}]length ball outside off. Samson wants to dab a late cut. Bottom-edged to deep third
+length ball outside off. Samson wants to dab a late cut. Bottom-edged to deep third
 
 
 Balls faced: 100
 Bowler: Burger
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. Guided towards backward point - can't beat the fielder"}]full ball just outside off. Guided towards backward point - can't beat the fielder
+full ball just outside off. Guided towards backward point - can't beat the fielder
 
 
 Balls faced: 101
 Bowler: Burger
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full from around the stumps. Just outside off, it lands. Driven through the square"}]full from around the stumps. Just outside off, it lands. Driven through the square
+full from around the stumps. Just outside off, it lands. Driven through the square
 
 
 Balls faced: 102
 Bowler: Maharaj
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "around the stumps to Samson. Length ball on off. Punched to long on"}]around the stumps to Samson. Length ball on off. Punched to long on
+around the stumps to Samson. Length ball on off. Punched to long on
 
 
 Balls faced: 103
 Bowler: Burger
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball outside off. Samson wants to dab a late cut. Bottom-edged to deep third"}]length ball outside off. Samson wants to dab a late cut. Bottom-edged to deep third
+length ball outside off. Samson wants to dab a late cut. Bottom-edged to deep third
 
 
 Balls faced: 104
 Bowler: Burger
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. Guided towards backward point - can't beat the fielder"}]full ball just outside off. Guided towards backward point - can't beat the fielder
+full ball just outside off. Guided towards backward point - can't beat the fielder
 
 
 Balls faced: 105
 Bowler: Burger
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full from around the stumps. Just outside off, it lands. Driven through the square"}]full from around the stumps. Just outside off, it lands. Driven through the square
+full from around the stumps. Just outside off, it lands. Driven through the square
 
 
 Balls faced: 106
 Bowler: Burger
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length ball. Pulled with the angle to deep backward square leg"}]short of length ball. Pulled with the angle to deep backward square leg
+short of length ball. Pulled with the angle to deep backward square leg
 
 
 Balls faced: 107
 Bowler: Burger
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball just outside off stump. Guided behind square to backward point"}]good length ball just outside off stump. Guided behind square to backward point
+good length ball just outside off stump. Guided behind square to backward point
 
 
 Balls faced: 108
 Bowler: Burger
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle. Defended inside out to the off side with cover cleaning up"}]full ball on middle. Defended inside out to the off side with cover cleaning up
+full ball on middle. Defended inside out to the off side with cover cleaning up
 
 
 Balls faced: 109
 Bowler: Maharaj
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "around the stumps to Samson. Length ball on off. Punched to long on"}]around the stumps to Samson. Length ball on off. Punched to long on
+around the stumps to Samson. Length ball on off. Punched to long on
 
 
 Balls faced: 110
 Bowler: Maharaj
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle. Comes down the ground and hits inside out to wide long off"}]full on middle. Comes down the ground and hits inside out to wide long off
+full on middle. Comes down the ground and hits inside out to wide long off
 
 
 Balls faced: 111
 Bowler: Maharaj
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off. Bit of turn away. Gently played back"}]full on off. Bit of turn away. Gently played back
+full on off. Bit of turn away. Gently played back
 
 
 Balls faced: 112
 Bowler: Maharaj
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off. Punched to long off"}]full on off. Punched to long off
+full on off. Punched to long off
 
 
 Balls faced: 113
 Bowler: Maharaj
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off. Guided to the leg side"}]full on off. Guided to the leg side
+full on off. Guided to the leg side
 
 
 Balls faced: 114
 Bowler: Burger
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length ball. Pulled with the angle to deep backward square leg"}]short of length ball. Pulled with the angle to deep backward square leg
+short of length ball. Pulled with the angle to deep backward square leg
 
 
 Balls faced: 115
 Bowler: Burger
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball just outside off stump. Guided behind square to backward point"}]good length ball just outside off stump. Guided behind square to backward point
+good length ball just outside off stump. Guided behind square to backward point
 
 
 Balls faced: 116
 Bowler: Burger
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle. Defended inside out to the off side with cover cleaning up"}]full ball on middle. Defended inside out to the off side with cover cleaning up
+full ball on middle. Defended inside out to the off side with cover cleaning up
 
 
 Balls faced: 117
 Bowler: Markram
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off stump. Poked to cover's right for a single"}]full on off stump. Poked to cover's right for a single
+full on off stump. Poked to cover's right for a single
 
 
 Balls faced: 118
 Bowler: Markram
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish on off. Stands tall and blocks to short cover"}]fullish on off. Stands tall and blocks to short cover
+fullish on off. Stands tall and blocks to short cover
 
 
 Balls faced: 119
 Bowler: Markram
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "spin from both ends."}]spin from both ends.
+spin from both ends.
 
-[{"type": "HTML", "html": "around the stumps. Full on leg and blocked first ball"}]around the stumps. Full on leg and blocked first ball
+around the stumps. Full on leg and blocked first ball
 
 
 Balls faced: 120
 Bowler: Maharaj
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle. Comes down the ground and hits inside out to wide long off"}]full on middle. Comes down the ground and hits inside out to wide long off
+full on middle. Comes down the ground and hits inside out to wide long off
 
 
 Balls faced: 121
 Bowler: Maharaj
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off. Bit of turn away. Gently played back"}]full on off. Bit of turn away. Gently played back
+full on off. Bit of turn away. Gently played back
 
 
 Balls faced: 122
 Bowler: Maharaj
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off. Punched to long off"}]full on off. Punched to long off
+full on off. Punched to long off
 
 
 Balls faced: 123
 Bowler: Maharaj
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off. Guided to the leg side"}]full on off. Guided to the leg side
+full on off. Guided to the leg side
 
 
 Balls faced: 124
 Bowler: Hendricks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Guided behind point"}]good length ball just outside off. Guided behind point
+good length ball just outside off. Guided behind point
 
 
 Balls faced: 125
 Bowler: Hendricks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball outside off. Guided to deep third and <B>that's Sanju Samson's fifty!</b>. Promoted, and he has delivered with three wickets falling relatively early for India"}]good length ball outside off. Guided to deep third and <B>that's Sanju Samson's fifty!</b>. Promoted, and he has delivered with three wickets falling relatively early for India
+good length ball outside off. Guided to deep third and <B>that's Sanju Samson's fifty!</b>. Promoted, and he has delivered with three wickets falling relatively early for India
 
 
 Balls faced: 126
 Bowler: Hendricks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off stump. Driven to cover"}]full ball outside off stump. Driven to cover
+full ball outside off stump. Driven to cover
 
 
 Balls faced: 127
 Bowler: Hendricks
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "overpitched on his toes and flicked to deep backward square leg for a couple. <B>Moves to 49</b>"}]overpitched on his toes and flicked to deep backward square leg for a couple. <B>Moves to 49</b>
+overpitched on his toes and flicked to deep backward square leg for a couple. <B>Moves to 49</b>
 
 
 Balls faced: 128
 Bowler: Hendricks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "around the stumps. Good length ball just outside off. Bottom-edged onto the pitch"}]around the stumps. Good length ball just outside off. Bottom-edged onto the pitch
-[{"type": "HTML", "html": "Piyush: \"With every dot ball, Tilak is digging a bigger hole from himself and is playing it right into the hands of SA! Just hope that this pressure doesn't result in the wicket of Samson. \""}]Piyush: "With every dot ball, Tilak is digging a bigger hole from himself and is playing it right into the hands of SA! Just hope that this pressure doesn't result in the wicket of Samson. "
+around the stumps. Good length ball just outside off. Bottom-edged onto the pitch
+Piyush: "With every dot ball, Tilak is digging a bigger hole from himself and is playing it right into the hands of SA! Just hope that this pressure doesn't result in the wicket of Samson. "
 
 Balls faced: 129
 Bowler: Markram
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off stump. Poked to cover's right for a single"}]full on off stump. Poked to cover's right for a single
+full on off stump. Poked to cover's right for a single
 
 
 Balls faced: 130
 Bowler: Markram
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish on off. Stands tall and blocks to short cover"}]fullish on off. Stands tall and blocks to short cover
+fullish on off. Stands tall and blocks to short cover
 
 
 Balls faced: 131
 Bowler: Markram
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "spin from both ends."}]spin from both ends.
+spin from both ends.
 
-[{"type": "HTML", "html": "around the stumps. Full on leg and blocked first ball"}]around the stumps. Full on leg and blocked first ball
+around the stumps. Full on leg and blocked first ball
 
 
 Balls faced: 132
 Bowler: Markram
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle. Turning in. Defended"}]full on middle. Turning in. Defended
-[{"type": "HTML", "html": "Milton D souza: \"What kind of batting from Tilak, can understand ball is coming slower to the bat but still don't think it is so difficult to rotate the strike. He is the someone needs desperate runs and with this approach, I think he is losing his spot\""}]Milton D souza: "What kind of batting from Tilak, can understand ball is coming slower to the bat but still don't think it is so difficult to rotate the strike. He is the someone needs desperate runs and with this approach, I think he is losing his spot"
+full on middle. Turning in. Defended
+Milton D souza: "What kind of batting from Tilak, can understand ball is coming slower to the bat but still don't think it is so difficult to rotate the strike. He is the someone needs desperate runs and with this approach, I think he is losing his spot"
 
 Balls faced: 133
 Bowler: Markram
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle. Turning in, clipped to square leg for a single"}]length ball on middle. Turning in, clipped to square leg for a single
+length ball on middle. Turning in, clipped to square leg for a single
 
 
 Balls faced: 134
 Bowler: Markram
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle. Turning in. Defended"}]full ball on middle. Turning in. Defended
+full ball on middle. Turning in. Defended
 
 
 Balls faced: 135
 Bowler: Hendricks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Guided behind point"}]good length ball just outside off. Guided behind point
+good length ball just outside off. Guided behind point
 
 
 Balls faced: 136
 Bowler: Hendricks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball outside off. Guided to deep third and <B>that's Sanju Samson's fifty!</b>. Promoted, and he has delivered with three wickets falling relatively early for India"}]good length ball outside off. Guided to deep third and <B>that's Sanju Samson's fifty!</b>. Promoted, and he has delivered with three wickets falling relatively early for India
+good length ball outside off. Guided to deep third and <B>that's Sanju Samson's fifty!</b>. Promoted, and he has delivered with three wickets falling relatively early for India
 
 
 Balls faced: 137
 Bowler: Hendricks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off stump. Driven to cover"}]full ball outside off stump. Driven to cover
+full ball outside off stump. Driven to cover
 
 
 Balls faced: 138
 Bowler: Hendricks
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "overpitched on his toes and flicked to deep backward square leg for a couple. <B>Moves to 49</b>"}]overpitched on his toes and flicked to deep backward square leg for a couple. <B>Moves to 49</b>
+overpitched on his toes and flicked to deep backward square leg for a couple. <B>Moves to 49</b>
 
 
 Balls faced: 139
 Bowler: Hendricks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "around the stumps. Good length ball just outside off. Bottom-edged onto the pitch"}]around the stumps. Good length ball just outside off. Bottom-edged onto the pitch
-[{"type": "HTML", "html": "Piyush: \"With every dot ball, Tilak is digging a bigger hole from himself and is playing it right into the hands of SA! Just hope that this pressure doesn't result in the wicket of Samson. \""}]Piyush: "With every dot ball, Tilak is digging a bigger hole from himself and is playing it right into the hands of SA! Just hope that this pressure doesn't result in the wicket of Samson. "
+around the stumps. Good length ball just outside off. Bottom-edged onto the pitch
+Piyush: "With every dot ball, Tilak is digging a bigger hole from himself and is playing it right into the hands of SA! Just hope that this pressure doesn't result in the wicket of Samson. "
 
 Balls faced: 140
 Bowler: Hendricks
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball just outside off. Mistimed drive down the ground but gets it past the stumps to mid on. They take off for a dangerous single, but the throw from mid-on was very awry. Otherwise, Samson was gone. Maharaj the fielder there"}]full ball just outside off. Mistimed drive down the ground but gets it past the stumps to mid on. They take off for a dangerous single, but the throw from mid-on was very awry. Otherwise, Samson was gone. Maharaj the fielder there
+full ball just outside off. Mistimed drive down the ground but gets it past the stumps to mid on. They take off for a dangerous single, but the throw from mid-on was very awry. Otherwise, Samson was gone. Maharaj the fielder there
 
 
 Balls faced: 141
 Bowler: Markram
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle. Turning in. Defended"}]full on middle. Turning in. Defended
-[{"type": "HTML", "html": "Milton D souza: \"What kind of batting from Tilak, can understand ball is coming slower to the bat but still don't think it is so difficult to rotate the strike. He is the someone needs desperate runs and with this approach, I think he is losing his spot\""}]Milton D souza: "What kind of batting from Tilak, can understand ball is coming slower to the bat but still don't think it is so difficult to rotate the strike. He is the someone needs desperate runs and with this approach, I think he is losing his spot"
+full on middle. Turning in. Defended
+Milton D souza: "What kind of batting from Tilak, can understand ball is coming slower to the bat but still don't think it is so difficult to rotate the strike. He is the someone needs desperate runs and with this approach, I think he is losing his spot"
 
 Balls faced: 142
 Bowler: Markram
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle. Turning in, clipped to square leg for a single"}]length ball on middle. Turning in, clipped to square leg for a single
+length ball on middle. Turning in, clipped to square leg for a single
 
 
 Balls faced: 143
 Bowler: Markram
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle. Turning in. Defended"}]full ball on middle. Turning in. Defended
+full ball on middle. Turning in. Defended
 
 
 Balls faced: 144
 Bowler: Markram
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on off. Samson loses his shape while playing a wild slog. Groans of \"ohh\" as the ball goes through midwicket region to the deep. That came off the toe-end"}]full ball on off. Samson loses his shape while playing a wild slog. Groans of "ohh" as the ball goes through midwicket region to the deep. That came off the toe-end
+full ball on off. Samson loses his shape while playing a wild slog. Groans of "ohh" as the ball goes through midwicket region to the deep. That came off the toe-end
 
 
 Balls faced: 145
 Bowler: Markram
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg. He comes skipping down the track before playing an inside out drive to cover"}]full on leg. He comes skipping down the track before playing an inside out drive to cover
+full on leg. He comes skipping down the track before playing an inside out drive to cover
 
 
 Balls faced: 146
 Bowler: Markram
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drives this full ball to cover"}]drives this full ball to cover
+drives this full ball to cover
 
 
 Balls faced: 147
 Bowler: Markram
 Over: 31
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball outside leg stump. Clipped to midwicket"}]length ball outside leg stump. Clipped to midwicket
+length ball outside leg stump. Clipped to midwicket
 
 
 Balls faced: 148
 Bowler: Hendricks
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball just outside off. Mistimed drive down the ground but gets it past the stumps to mid on. They take off for a dangerous single, but the throw from mid-on was very awry. Otherwise, Samson was gone. Maharaj the fielder there"}]full ball just outside off. Mistimed drive down the ground but gets it past the stumps to mid on. They take off for a dangerous single, but the throw from mid-on was very awry. Otherwise, Samson was gone. Maharaj the fielder there
+full ball just outside off. Mistimed drive down the ground but gets it past the stumps to mid on. They take off for a dangerous single, but the throw from mid-on was very awry. Otherwise, Samson was gone. Maharaj the fielder there
 
 
 Balls faced: 149
 Bowler: Mulder
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball around off. Clipped to midwicket"}]fullish ball around off. Clipped to midwicket
+fullish ball around off. Clipped to midwicket
 
 
 Balls faced: 150
 Bowler: Mulder
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Clipped to midwicket"}]full ball on off. Clipped to midwicket
+full ball on off. Clipped to midwicket
 
 
 Balls faced: 151
 Bowler: Mulder
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Guided to deep third for a single"}]good length ball just outside off. Guided to deep third for a single
-[{"type": "HTML", "html": "Sumit: \"The dot ball pressure clearly getting to Sanju here..\""}]Sumit: "The dot ball pressure clearly getting to Sanju here.."
+good length ball just outside off. Guided to deep third for a single
+Sumit: "The dot ball pressure clearly getting to Sanju here.."
 
 Balls faced: 152
 Bowler: Mulder
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball outside off. Samson tries to club it over cover but flies off the bat's outside half. Very nearly taken at deep third but falls a few metres short of de Zorzi"}]full ball outside off. Samson tries to club it over cover but flies off the bat's outside half. Very nearly taken at deep third but falls a few metres short of de Zorzi
+full ball outside off. Samson tries to club it over cover but flies off the bat's outside half. Very nearly taken at deep third but falls a few metres short of de Zorzi
 
 
 Balls faced: 153
 Bowler: Markram
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on off. Samson loses his shape while playing a wild slog. Groans of \"ohh\" as the ball goes through midwicket region to the deep. That came off the toe-end"}]full ball on off. Samson loses his shape while playing a wild slog. Groans of "ohh" as the ball goes through midwicket region to the deep. That came off the toe-end
+full ball on off. Samson loses his shape while playing a wild slog. Groans of "ohh" as the ball goes through midwicket region to the deep. That came off the toe-end
 
 
 Balls faced: 154
 Bowler: Markram
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg. He comes skipping down the track before playing an inside out drive to cover"}]full on leg. He comes skipping down the track before playing an inside out drive to cover
+full on leg. He comes skipping down the track before playing an inside out drive to cover
 
 
 Balls faced: 155
 Bowler: Markram
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drives this full ball to cover"}]drives this full ball to cover
+drives this full ball to cover
 
 
 Balls faced: 156
 Bowler: Markram
 Over: 31
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball outside leg stump. Clipped to midwicket"}]length ball outside leg stump. Clipped to midwicket
+length ball outside leg stump. Clipped to midwicket
 
 
 Balls faced: 157
 Bowler: Markram
 Over: 33
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "skiddy ball. Length ball on middle. Samson swipes this to deep square leg"}]skiddy ball. Length ball on middle. Samson swipes this to deep square leg
-[{"type": "HTML", "html": "ashish: \"@Sidat - Tilak or others don't need to worry about what we expect. Our expectations are only here or on social media. Their real expectation comes within the team and inside the dressing room. If that is being handled, they don't even need to worry about the outside noise.\""}]ashish: "@Sidat - Tilak or others don't need to worry about what we expect. Our expectations are only here or on social media. Their real expectation comes within the team and inside the dressing room. If that is being handled, they don't even need to worry about the outside noise."
+skiddy ball. Length ball on middle. Samson swipes this to deep square leg
+ashish: "@Sidat - Tilak or others don't need to worry about what we expect. Our expectations are only here or on social media. Their real expectation comes within the team and inside the dressing room. If that is being handled, they don't even need to worry about the outside noise."
 
 Balls faced: 158
 Bowler: Markram
 Over: 33
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball around leg. He stays in his crease and hammers it to deep square leg, where two fielders converge"}]full ball around leg. He stays in his crease and hammers it to deep square leg, where two fielders converge
+full ball around leg. He stays in his crease and hammers it to deep square leg, where two fielders converge
 
 
 Balls faced: 159
 Bowler: Markram
 Over: 33
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside leg. Tries the reverse sweep. Misses it. Gentle appeal for stumped, but nope"}]full ball outside leg. Tries the reverse sweep. Misses it. Gentle appeal for stumped, but nope
+full ball outside leg. Tries the reverse sweep. Misses it. Gentle appeal for stumped, but nope
 
 
 Balls faced: 160
 Bowler: Mulder
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball around off. Clipped to midwicket"}]fullish ball around off. Clipped to midwicket
+fullish ball around off. Clipped to midwicket
 
 
 Balls faced: 161
 Bowler: Mulder
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Clipped to midwicket"}]full ball on off. Clipped to midwicket
+full ball on off. Clipped to midwicket
 
 
 Balls faced: 162
 Bowler: Mulder
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Guided to deep third for a single"}]good length ball just outside off. Guided to deep third for a single
-[{"type": "HTML", "html": "Sumit: \"The dot ball pressure clearly getting to Sanju here..\""}]Sumit: "The dot ball pressure clearly getting to Sanju here.."
+good length ball just outside off. Guided to deep third for a single
+Sumit: "The dot ball pressure clearly getting to Sanju here.."
 
 Balls faced: 163
 Bowler: Mulder
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball outside off. Samson tries to club it over cover but flies off the bat's outside half. Very nearly taken at deep third but falls a few metres short of de Zorzi"}]full ball outside off. Samson tries to club it over cover but flies off the bat's outside half. Very nearly taken at deep third but falls a few metres short of de Zorzi
+full ball outside off. Samson tries to club it over cover but flies off the bat's outside half. Very nearly taken at deep third but falls a few metres short of de Zorzi
 
 
 Balls faced: 164
 Bowler: Mulder
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Guided to deep third for a single"}]good length ball just outside off. Guided to deep third for a single
+good length ball just outside off. Guided to deep third for a single
 
 
 Balls faced: 165
 Bowler: Mulder
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball outside off. Cut to deep point, past the infielder"}]good length ball outside off. Cut to deep point, past the infielder
+good length ball outside off. Cut to deep point, past the infielder
 
 
 Balls faced: 166
 Bowler: Markram
 Over: 33
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "skiddy ball. Length ball on middle. Samson swipes this to deep square leg"}]skiddy ball. Length ball on middle. Samson swipes this to deep square leg
-[{"type": "HTML", "html": "ashish: \"@Sidat - Tilak or others don't need to worry about what we expect. Our expectations are only here or on social media. Their real expectation comes within the team and inside the dressing room. If that is being handled, they don't even need to worry about the outside noise.\""}]ashish: "@Sidat - Tilak or others don't need to worry about what we expect. Our expectations are only here or on social media. Their real expectation comes within the team and inside the dressing room. If that is being handled, they don't even need to worry about the outside noise."
+skiddy ball. Length ball on middle. Samson swipes this to deep square leg
+ashish: "@Sidat - Tilak or others don't need to worry about what we expect. Our expectations are only here or on social media. Their real expectation comes within the team and inside the dressing room. If that is being handled, they don't even need to worry about the outside noise."
 
 Balls faced: 167
 Bowler: Markram
 Over: 33
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball around leg. He stays in his crease and hammers it to deep square leg, where two fielders converge"}]full ball around leg. He stays in his crease and hammers it to deep square leg, where two fielders converge
+full ball around leg. He stays in his crease and hammers it to deep square leg, where two fielders converge
 
 
 Balls faced: 168
 Bowler: Markram
 Over: 33
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside leg. Tries the reverse sweep. Misses it. Gentle appeal for stumped, but nope"}]full ball outside leg. Tries the reverse sweep. Misses it. Gentle appeal for stumped, but nope
+full ball outside leg. Tries the reverse sweep. Misses it. Gentle appeal for stumped, but nope
 
 
 Balls faced: 169
 Bowler: Markram
 Over: 35
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on leg. Samson goes deep and tries to hoick it over deep square leg. Ends up hitting it very nearly straight to the fielder!"}]full ball on leg. Samson goes deep and tries to hoick it over deep square leg. Ends up hitting it very nearly straight to the fielder!
+full ball on leg. Samson goes deep and tries to hoick it over deep square leg. Ends up hitting it very nearly straight to the fielder!
 
 
 Balls faced: 170
 Bowler: Markram
 Over: 35
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wild ball, and he's lucky that's gone for a dot. Half-tracker way outside leg. Samson swipes it fine to try and beat short fine leg but Beuran Hendricks did well to cover the space"}]wild ball, and he's lucky that's gone for a dot. Half-tracker way outside leg. Samson swipes it fine to try and beat short fine leg but Beuran Hendricks did well to cover the space
+wild ball, and he's lucky that's gone for a dot. Half-tracker way outside leg. Samson swipes it fine to try and beat short fine leg but Beuran Hendricks did well to cover the space
 
 
 Balls faced: 171
 Bowler: Markram
 Over: 35
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle and leg. Clipped to square leg where three fielders converge"}]full ball on middle and leg. Clipped to square leg where three fielders converge
+full ball on middle and leg. Clipped to square leg where three fielders converge
 
 
 Balls faced: 172
 Bowler: Markram
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. Lazy shot offered, trying to punch away from his body. Inside edge onto his pad before rolling away"}]full ball just outside off. Lazy shot offered, trying to punch away from his body. Inside edge onto his pad before rolling away
+full ball just outside off. Lazy shot offered, trying to punch away from his body. Inside edge onto his pad before rolling away
 
 
 Balls faced: 173
 Bowler: Mulder
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Guided to deep third for a single"}]good length ball just outside off. Guided to deep third for a single
+good length ball just outside off. Guided to deep third for a single
 
 
 Balls faced: 174
 Bowler: Mulder
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball outside off. Cut to deep point, past the infielder"}]good length ball outside off. Cut to deep point, past the infielder
+good length ball outside off. Cut to deep point, past the infielder
 
 
 Balls faced: 175
 Bowler: Mulder
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball on off. Tapped towards midwicket but can't pinch a single"}]fullish ball on off. Tapped towards midwicket but can't pinch a single
+fullish ball on off. Tapped towards midwicket but can't pinch a single
 
 
 Balls faced: 176
 Bowler: Mulder
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball driven away from his body to the deep"}]full ball driven away from his body to the deep
+full ball driven away from his body to the deep
 
 
 Balls faced: 177
 Bowler: Markram
 Over: 35
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on leg. Samson goes deep and tries to hoick it over deep square leg. Ends up hitting it very nearly straight to the fielder!"}]full ball on leg. Samson goes deep and tries to hoick it over deep square leg. Ends up hitting it very nearly straight to the fielder!
+full ball on leg. Samson goes deep and tries to hoick it over deep square leg. Ends up hitting it very nearly straight to the fielder!
 
 
 Balls faced: 178
 Bowler: Markram
 Over: 35
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wild ball, and he's lucky that's gone for a dot. Half-tracker way outside leg. Samson swipes it fine to try and beat short fine leg but Beuran Hendricks did well to cover the space"}]wild ball, and he's lucky that's gone for a dot. Half-tracker way outside leg. Samson swipes it fine to try and beat short fine leg but Beuran Hendricks did well to cover the space
+wild ball, and he's lucky that's gone for a dot. Half-tracker way outside leg. Samson swipes it fine to try and beat short fine leg but Beuran Hendricks did well to cover the space
 
 
 Balls faced: 179
 Bowler: Markram
 Over: 35
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle and leg. Clipped to square leg where three fielders converge"}]full ball on middle and leg. Clipped to square leg where three fielders converge
+full ball on middle and leg. Clipped to square leg where three fielders converge
 
 
 Balls faced: 180
 Bowler: Markram
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball just outside off. Lazy shot offered, trying to punch away from his body. Inside edge onto his pad before rolling away"}]full ball just outside off. Lazy shot offered, trying to punch away from his body. Inside edge onto his pad before rolling away
+full ball just outside off. Lazy shot offered, trying to punch away from his body. Inside edge onto his pad before rolling away
 
 
 Balls faced: 181
 Bowler: Williams
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 3
 
 
-[{"type": "HTML", "html": "good length ball outside off. Guides it beautifully past backward point, forcing Maharaj to chase from short third. Does well in the end!"}]good length ball outside off. Guides it beautifully past backward point, forcing Maharaj to chase from short third. Does well in the end!
+good length ball outside off. Guides it beautifully past backward point, forcing Maharaj to chase from short third. Does well in the end!
 
 
 Balls faced: 182
 Bowler: Williams
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "good length ball outside off. Samson stays in his crease and flat-bats a pull in front of square. Muscled for four!"}]good length ball outside off. Samson stays in his crease and flat-bats a pull in front of square. Muscled for four!
+good length ball outside off. Samson stays in his crease and flat-bats a pull in front of square. Muscled for four!
 
 
 Balls faced: 183
 Bowler: Mulder
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball on off. Tapped towards midwicket but can't pinch a single"}]fullish ball on off. Tapped towards midwicket but can't pinch a single
+fullish ball on off. Tapped towards midwicket but can't pinch a single
 
 
 Balls faced: 184
 Bowler: Mulder
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball driven away from his body to the deep"}]full ball driven away from his body to the deep
+full ball driven away from his body to the deep
 
 
 Balls faced: 185
 Bowler: Maharaj
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "delightful! When Sanju strikes that cleanly over cover, you know he's in great nick. Steps out, gets leg side of the ball and lofts him imperiously."}]delightful! When Sanju strikes that cleanly over cover, you know he's in great nick. Steps out, gets leg side of the ball and lofts him imperiously.
+delightful! When Sanju strikes that cleanly over cover, you know he's in great nick. Steps out, gets leg side of the ball and lofts him imperiously.
 
 
 Balls faced: 186
 Bowler: Maharaj
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drifts in a length ball on middle, defended back down the pitch"}]drifts in a length ball on middle, defended back down the pitch
+drifts in a length ball on middle, defended back down the pitch
 
 
 Balls faced: 187
 Bowler: Maharaj
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "steps out and drives this full toss inside-out to deep cover"}]steps out and drives this full toss inside-out to deep cover
+steps out and drives this full toss inside-out to deep cover
 
 
 Balls faced: 188
 Bowler: Williams
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 3
 
 
-[{"type": "HTML", "html": "good length ball outside off. Guides it beautifully past backward point, forcing Maharaj to chase from short third. Does well in the end!"}]good length ball outside off. Guides it beautifully past backward point, forcing Maharaj to chase from short third. Does well in the end!
+good length ball outside off. Guides it beautifully past backward point, forcing Maharaj to chase from short third. Does well in the end!
 
 
 Balls faced: 189
 Bowler: Williams
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "good length ball outside off. Samson stays in his crease and flat-bats a pull in front of square. Muscled for four!"}]good length ball outside off. Samson stays in his crease and flat-bats a pull in front of square. Muscled for four!
+good length ball outside off. Samson stays in his crease and flat-bats a pull in front of square. Muscled for four!
 
 
 Balls faced: 190
 Bowler: Williams
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "whips this up and over the infield to deep square. Williams will feel he got away with one"}]whips this up and over the infield to deep square. Williams will feel he got away with one
+whips this up and over the infield to deep square. Williams will feel he got away with one
 
 
 Balls faced: 191
 Bowler: Williams
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>clears deep midwicket!</strong> Samson used the depth of the crease to get into position and walloped this pull over the ropes. It was the longer boundary but the confidence showed as he took him on. It's also a no-ball which means Sanju gets a free-hit as well"}]<strong>clears deep midwicket!</strong> Samson used the depth of the crease to get into position and walloped this pull over the ropes. It was the longer boundary but the confidence showed as he took him on. It's also a no-ball which means Sanju gets a free-hit as well
+<strong>clears deep midwicket!</strong> Samson used the depth of the crease to get into position and walloped this pull over the ropes. It was the longer boundary but the confidence showed as he took him on. It's also a no-ball which means Sanju gets a free-hit as well
 
 No Balls: 1
 Balls faced: 192
 Bowler: Maharaj
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "delightful! When Sanju strikes that cleanly over cover, you know he's in great nick. Steps out, gets leg side of the ball and lofts him imperiously."}]delightful! When Sanju strikes that cleanly over cover, you know he's in great nick. Steps out, gets leg side of the ball and lofts him imperiously.
+delightful! When Sanju strikes that cleanly over cover, you know he's in great nick. Steps out, gets leg side of the ball and lofts him imperiously.
 
 
 Balls faced: 193
 Bowler: Maharaj
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drifts in a length ball on middle, defended back down the pitch"}]drifts in a length ball on middle, defended back down the pitch
+drifts in a length ball on middle, defended back down the pitch
 
 
 Balls faced: 194
 Bowler: Maharaj
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "steps out and drives this full toss inside-out to deep cover"}]steps out and drives this full toss inside-out to deep cover
+steps out and drives this full toss inside-out to deep cover
 
 
 Balls faced: 195
 Bowler: Maharaj
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "exposes all three stumps to try and cut, the ball stops on him as he shapes to cut, in the end Sanju manages to get some bat on it and they take a single."}]exposes all three stumps to try and cut, the ball stops on him as he shapes to cut, in the end Sanju manages to get some bat on it and they take a single.
-[{"type": "HTML", "html": "Raj: \"Good old ODI innings progression this. Consolidate till 40th over and then go guns blazing in the last 10.\" -- In all fairness, conditions haven't been easy. They were a tad slow in the middle overs but are making up for it. Tilak has recovered superbly."}]Raj: "Good old ODI innings progression this. Consolidate till 40th over and then go guns blazing in the last 10." -- In all fairness, conditions haven't been easy. They were a tad slow in the middle overs but are making up for it. Tilak has recovered superbly.
+exposes all three stumps to try and cut, the ball stops on him as he shapes to cut, in the end Sanju manages to get some bat on it and they take a single.
+Raj: "Good old ODI innings progression this. Consolidate till 40th over and then go guns blazing in the last 10." -- In all fairness, conditions haven't been easy. They were a tad slow in the middle overs but are making up for it. Tilak has recovered superbly.
 
 Balls faced: 196
 Bowler: Maharaj
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Rahul Vijay: \"It felt real good when you used \"Sanju\" for the description of 38.4. Why are cricketers name always mentioned in second name rather than first name in score boards etc?\""}]Rahul Vijay: "It felt real good when you used "Sanju" for the description of 38.4. Why are cricketers name always mentioned in second name rather than first name in score boards etc?"
+Rahul Vijay: "It felt real good when you used "Sanju" for the description of 38.4. Why are cricketers name always mentioned in second name rather than first name in score boards etc?"
 
-[{"type": "HTML", "html": "lucky not to chip that back to the bowler. Almost, almost. The ball dipped on him"}]lucky not to chip that back to the bowler. Almost, almost. The ball dipped on him
+lucky not to chip that back to the bowler. Almost, almost. The ball dipped on him
 
 
 Balls faced: 197
 Bowler: Maharaj
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "punched to long-off as they jog the single"}]punched to long-off as they jog the single
+punched to long-off as they jog the single
 
 
 Balls faced: 198
 Bowler: Maharaj
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sees Sanju give him the charge and fires it in, he readjusts to punch it to long-off"}]sees Sanju give him the charge and fires it in, he readjusts to punch it to long-off
+sees Sanju give him the charge and fires it in, he readjusts to punch it to long-off
 
 
 Balls faced: 199
 Bowler: Williams
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "whips this up and over the infield to deep square. Williams will feel he got away with one"}]whips this up and over the infield to deep square. Williams will feel he got away with one
+whips this up and over the infield to deep square. Williams will feel he got away with one
 
 
 Balls faced: 200
 Bowler: Williams
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>clears deep midwicket!</strong> Samson used the depth of the crease to get into position and walloped this pull over the ropes. It was the longer boundary but the confidence showed as he took him on. It's also a no-ball which means Sanju gets a free-hit as well"}]<strong>clears deep midwicket!</strong> Samson used the depth of the crease to get into position and walloped this pull over the ropes. It was the longer boundary but the confidence showed as he took him on. It's also a no-ball which means Sanju gets a free-hit as well
+<strong>clears deep midwicket!</strong> Samson used the depth of the crease to get into position and walloped this pull over the ropes. It was the longer boundary but the confidence showed as he took him on. It's also a no-ball which means Sanju gets a free-hit as well
 
 No Balls: 1
 Balls faced: 201
 Bowler: Burger
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "helps this slower bouncer down to long leg"}]helps this slower bouncer down to long leg
+helps this slower bouncer down to long leg
 
 
 Balls faced: 202
 Bowler: Burger
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "This is Sanju's ODI best yet"}]This is Sanju's ODI best yet
+This is Sanju's ODI best yet
 
-[{"type": "HTML", "html": "worked off his hip towards deep midwicket, super running that"}]worked off his hip towards deep midwicket, super running that
+worked off his hip towards deep midwicket, super running that
 
 
 Balls faced: 203
 Bowler: Burger
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Burger back into the attack from around the stumps"}]Burger back into the attack from around the stumps
+Burger back into the attack from around the stumps
 
-[{"type": "HTML", "html": "<strong>he has walloped that into the grassbanks!</strong> What a way to get into the 90s. Short, Sanju is ready when it arrives as he swivels back and muscles the pull over deep midwicket. Crrrrrracking hit!"}]<strong>he has walloped that into the grassbanks!</strong> What a way to get into the 90s. Short, Sanju is ready when it arrives as he swivels back and muscles the pull over deep midwicket. Crrrrrracking hit!
+<strong>he has walloped that into the grassbanks!</strong> What a way to get into the 90s. Short, Sanju is ready when it arrives as he swivels back and muscles the pull over deep midwicket. Crrrrrracking hit!
 
 
 Balls faced: 204
 Bowler: Maharaj
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "exposes all three stumps to try and cut, the ball stops on him as he shapes to cut, in the end Sanju manages to get some bat on it and they take a single."}]exposes all three stumps to try and cut, the ball stops on him as he shapes to cut, in the end Sanju manages to get some bat on it and they take a single.
-[{"type": "HTML", "html": "Raj: \"Good old ODI innings progression this. Consolidate till 40th over and then go guns blazing in the last 10.\" -- In all fairness, conditions haven't been easy. They were a tad slow in the middle overs but are making up for it. Tilak has recovered superbly."}]Raj: "Good old ODI innings progression this. Consolidate till 40th over and then go guns blazing in the last 10." -- In all fairness, conditions haven't been easy. They were a tad slow in the middle overs but are making up for it. Tilak has recovered superbly.
+exposes all three stumps to try and cut, the ball stops on him as he shapes to cut, in the end Sanju manages to get some bat on it and they take a single.
+Raj: "Good old ODI innings progression this. Consolidate till 40th over and then go guns blazing in the last 10." -- In all fairness, conditions haven't been easy. They were a tad slow in the middle overs but are making up for it. Tilak has recovered superbly.
 
 Balls faced: 205
 Bowler: Maharaj
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Rahul Vijay: \"It felt real good when you used \"Sanju\" for the description of 38.4. Why are cricketers name always mentioned in second name rather than first name in score boards etc?\""}]Rahul Vijay: "It felt real good when you used "Sanju" for the description of 38.4. Why are cricketers name always mentioned in second name rather than first name in score boards etc?"
+Rahul Vijay: "It felt real good when you used "Sanju" for the description of 38.4. Why are cricketers name always mentioned in second name rather than first name in score boards etc?"
 
-[{"type": "HTML", "html": "lucky not to chip that back to the bowler. Almost, almost. The ball dipped on him"}]lucky not to chip that back to the bowler. Almost, almost. The ball dipped on him
+lucky not to chip that back to the bowler. Almost, almost. The ball dipped on him
 
 
 Balls faced: 206
 Bowler: Maharaj
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "punched to long-off as they jog the single"}]punched to long-off as they jog the single
+punched to long-off as they jog the single
 
 
 Balls faced: 207
 Bowler: Maharaj
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sees Sanju give him the charge and fires it in, he readjusts to punch it to long-off"}]sees Sanju give him the charge and fires it in, he readjusts to punch it to long-off
+sees Sanju give him the charge and fires it in, he readjusts to punch it to long-off
 
 
 Balls faced: 208
 Bowler: Maharaj
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "eased to long off for a single"}]eased to long off for a single
+eased to long off for a single
 
 
 Balls faced: 209
 Bowler: Burger
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "helps this slower bouncer down to long leg"}]helps this slower bouncer down to long leg
+helps this slower bouncer down to long leg
 
 
 Balls faced: 210
 Bowler: Burger
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "This is Sanju's ODI best yet"}]This is Sanju's ODI best yet
+This is Sanju's ODI best yet
 
-[{"type": "HTML", "html": "worked off his hip towards deep midwicket, super running that"}]worked off his hip towards deep midwicket, super running that
+worked off his hip towards deep midwicket, super running that
 
 
 Balls faced: 211
 Bowler: Burger
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Burger back into the attack from around the stumps"}]Burger back into the attack from around the stumps
+Burger back into the attack from around the stumps
 
-[{"type": "HTML", "html": "<strong>he has walloped that into the grassbanks!</strong> What a way to get into the 90s. Short, Sanju is ready when it arrives as he swivels back and muscles the pull over deep midwicket. Crrrrrracking hit!"}]<strong>he has walloped that into the grassbanks!</strong> What a way to get into the 90s. Short, Sanju is ready when it arrives as he swivels back and muscles the pull over deep midwicket. Crrrrrracking hit!
+<strong>he has walloped that into the grassbanks!</strong> What a way to get into the 90s. Short, Sanju is ready when it arrives as he swivels back and muscles the pull over deep midwicket. Crrrrrracking hit!
 
 
 Balls faced: 212
 Bowler: Burger
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "works it down to long leg"}]works it down to long leg
+works it down to long leg
 
 
 Balls faced: 213
 Bowler: Burger
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length delivery from around the stumps, Sanju stands tall and defends"}]short of length delivery from around the stumps, Sanju stands tall and defends
+short of length delivery from around the stumps, Sanju stands tall and defends
 
 
 Balls faced: 214
 Bowler: Maharaj
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "eased to long off for a single"}]eased to long off for a single
+eased to long off for a single
 
 
 Balls faced: 215
 Bowler: Maharaj
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "eased to long-off, <strong>brings up his maiden international hundred!</strong> For long, he has thrilled and frustrated fans and everyone in Indian cricket with equal measure. Nearly nine years after he made his international debut, Sanju finally has a century. It's been an excellent one too. Weathered the early burst, ensured India didn't collapse at the top and has slowly expanded his range to play some wonderful shots."}]eased to long-off, <strong>brings up his maiden international hundred!</strong> For long, he has thrilled and frustrated fans and everyone in Indian cricket with equal measure. Nearly nine years after he made his international debut, Sanju finally has a century. It's been an excellent one too. Weathered the early burst, ensured India didn't collapse at the top and has slowly expanded his range to play some wonderful shots.
+eased to long-off, <strong>brings up his maiden international hundred!</strong> For long, he has thrilled and frustrated fans and everyone in Indian cricket with equal measure. Nearly nine years after he made his international debut, Sanju finally has a century. It's been an excellent one too. Weathered the early burst, ensured India didn't collapse at the top and has slowly expanded his range to play some wonderful shots.
 
 
 Balls faced: 216
 Bowler: Maharaj
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "steps out and bunts it down the ground for a single"}]steps out and bunts it down the ground for a single
+steps out and bunts it down the ground for a single
 
 
 Balls faced: 217
 Bowler: Maharaj
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "squeezed to cover for a quick single, moves to 98"}]squeezed to cover for a quick single, moves to 98
+squeezed to cover for a quick single, moves to 98
 
 
 Balls faced: 218
 Bowler: Burger
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "works it down to long leg"}]works it down to long leg
+works it down to long leg
 
 
 Balls faced: 219
 Bowler: Burger
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length delivery from around the stumps, Sanju stands tall and defends"}]short of length delivery from around the stumps, Sanju stands tall and defends
+short of length delivery from around the stumps, Sanju stands tall and defends
 
 
 Balls faced: 220
 Bowler: Hendricks
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>he has muscles that over deep midwicket!</strong> Slower delivery, short of length and well outside off, Sanju set himself up superbly. Held his shape and walloped it as it arrived. Clean strike. <strong>Just like wowwwwww</strong>"}]<strong>he has muscles that over deep midwicket!</strong> Slower delivery, short of length and well outside off, Sanju set himself up superbly. Held his shape and walloped it as it arrived. Clean strike. <strong>Just like wowwwwww</strong>
+<strong>he has muscles that over deep midwicket!</strong> Slower delivery, short of length and well outside off, Sanju set himself up superbly. Held his shape and walloped it as it arrived. Clean strike. <strong>Just like wowwwwww</strong>
 
 
 Balls faced: 221
 Bowler: Hendricks
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "works it across the line to the man coming in from long on"}]works it across the line to the man coming in from long on
+works it across the line to the man coming in from long on
 
 
 Balls faced: 222
 Bowler: Hendricks
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "clubs the pull to deep midwicket"}]clubs the pull to deep midwicket
+clubs the pull to deep midwicket
 
 
 Balls faced: 223
 Bowler: Maharaj
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "eased to long-off, <strong>brings up his maiden international hundred!</strong> For long, he has thrilled and frustrated fans and everyone in Indian cricket with equal measure. Nearly nine years after he made his international debut, Sanju finally has a century. It's been an excellent one too. Weathered the early burst, ensured India didn't collapse at the top and has slowly expanded his range to play some wonderful shots."}]eased to long-off, <strong>brings up his maiden international hundred!</strong> For long, he has thrilled and frustrated fans and everyone in Indian cricket with equal measure. Nearly nine years after he made his international debut, Sanju finally has a century. It's been an excellent one too. Weathered the early burst, ensured India didn't collapse at the top and has slowly expanded his range to play some wonderful shots.
+eased to long-off, <strong>brings up his maiden international hundred!</strong> For long, he has thrilled and frustrated fans and everyone in Indian cricket with equal measure. Nearly nine years after he made his international debut, Sanju finally has a century. It's been an excellent one too. Weathered the early burst, ensured India didn't collapse at the top and has slowly expanded his range to play some wonderful shots.
 
 
 Balls faced: 224
 Bowler: Maharaj
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "steps out and bunts it down the ground for a single"}]steps out and bunts it down the ground for a single
+steps out and bunts it down the ground for a single
 
 
 Balls faced: 225
 Bowler: Maharaj
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "squeezed to cover for a quick single, moves to 98"}]squeezed to cover for a quick single, moves to 98
+squeezed to cover for a quick single, moves to 98
 
 
 Balls faced: 226
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "that's the end of that! Sanju knew the moment he made contact that he'd mistimed it. Looking to belt that down the ground but ends up slicing it off the toe-end to cover at the edge of the ring. <strong>South Africans stand up to applaud a terrific knock.</strong>"}]that's the end of that! Sanju knew the moment he made contact that he'd mistimed it. Looking to belt that down the ground but ends up slicing it off the toe-end to cover at the edge of the ring. <strong>South Africans stand up to applaud a terrific knock.</strong>
+Samson is OUT! caught
+c RR Hendricks b Williams
+Sanju Samson c RR Hendricks b Williams 108 (114b 6x4 3x6 167m) SR: 94.73
+that's the end of that! Sanju knew the moment he made contact that he'd mistimed it. Looking to belt that down the ground but ends up slicing it off the toe-end to cover at the edge of the ring. <strong>South Africans stand up to applaud a terrific knock.</strong>
 
 
 Balls faced: 227
 Bowler: Hendricks
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>he has muscles that over deep midwicket!</strong> Slower delivery, short of length and well outside off, Sanju set himself up superbly. Held his shape and walloped it as it arrived. Clean strike. <strong>Just like wowwwwww</strong>"}]<strong>he has muscles that over deep midwicket!</strong> Slower delivery, short of length and well outside off, Sanju set himself up superbly. Held his shape and walloped it as it arrived. Clean strike. <strong>Just like wowwwwww</strong>
+<strong>he has muscles that over deep midwicket!</strong> Slower delivery, short of length and well outside off, Sanju set himself up superbly. Held his shape and walloped it as it arrived. Clean strike. <strong>Just like wowwwwww</strong>
 
 
 Balls faced: 228
 Bowler: Hendricks
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "works it across the line to the man coming in from long on"}]works it across the line to the man coming in from long on
+works it across the line to the man coming in from long on
 
 
 Balls faced: 229
 Bowler: Hendricks
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "clubs the pull to deep midwicket"}]clubs the pull to deep midwicket
+clubs the pull to deep midwicket
 
 
 Balls faced: 230
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "that's the end of that! Sanju knew the moment he made contact that he'd mistimed it. Looking to belt that down the ground but ends up slicing it off the toe-end to cover at the edge of the ring. <strong>South Africans stand up to applaud a terrific knock.</strong>"}]that's the end of that! Sanju knew the moment he made contact that he'd mistimed it. Looking to belt that down the ground but ends up slicing it off the toe-end to cover at the edge of the ring. <strong>South Africans stand up to applaud a terrific knock.</strong>
+Samson is OUT! caught
+c RR Hendricks b Williams
+Sanju Samson c RR Hendricks b Williams 108 (114b 6x4 3x6 167m) SR: 94.73
+that's the end of that! Sanju knew the moment he made contact that he'd mistimed it. Looking to belt that down the ground but ends up slicing it off the toe-end to cover at the edge of the ring. <strong>South Africans stand up to applaud a terrific knock.</strong>
 
 
 
@@ -2786,21 +3072,27 @@ Match: all_games_1389384_1389398.json
 Balls faced: 1
 Bowler: Fareed Ahmad
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "another c Nabi b Fareed entry in the book. Samson has repeated the Kohli dismissal. Not a single sighter to get used to a pitch that has taken three powerplay wickets. Swings hard at a shortish ball, which again seems to stick in the surface, and takes the top edge for Nabi to take at cover"}]another c Nabi b Fareed entry in the book. Samson has repeated the Kohli dismissal. Not a single sighter to get used to a pitch that has taken three powerplay wickets. Swings hard at a shortish ball, which again seems to stick in the surface, and takes the top edge for Nabi to take at cover
+Samson is OUT! caught
+c Mohammad Nabi b Fareed Ahmad
+Sanju Samson c Mohammad Nabi b Fareed Ahmad 0 (1b 0x4 0x6 2m) SR: 0
+another c Nabi b Fareed entry in the book. Samson has repeated the Kohli dismissal. Not a single sighter to get used to a pitch that has taken three powerplay wickets. Swings hard at a shortish ball, which again seems to stick in the surface, and takes the top edge for Nabi to take at cover
 
 
 Balls faced: 2
 Bowler: Fareed Ahmad
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "another c Nabi b Fareed entry in the book. Samson has repeated the Kohli dismissal. Not a single sighter to get used to a pitch that has taken three powerplay wickets. Swings hard at a shortish ball, which again seems to stick in the surface, and takes the top edge for Nabi to take at cover"}]another c Nabi b Fareed entry in the book. Samson has repeated the Kohli dismissal. Not a single sighter to get used to a pitch that has taken three powerplay wickets. Swings hard at a shortish ball, which again seems to stick in the surface, and takes the top edge for Nabi to take at cover
+Samson is OUT! caught
+c Mohammad Nabi b Fareed Ahmad
+Sanju Samson c Mohammad Nabi b Fareed Ahmad 0 (1b 0x4 0x6 2m) SR: 0
+another c Nabi b Fareed entry in the book. Samson has repeated the Kohli dismissal. Not a single sighter to get used to a pitch that has taken three powerplay wickets. Swings hard at a shortish ball, which again seems to stick in the surface, and takes the top edge for Nabi to take at cover
 
 
 
@@ -2808,160 +3100,180 @@ Match: all_games_1434088_1434105.json
 Balls faced: 1
 Bowler: Mahedi Hasan
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
-[{"type": "HTML", "html": "Stays over the wicket to Samson"}]Stays over the wicket to Samson
+Stays over the wicket to Samson
 
-[{"type": "HTML", "html": "angled in on a length on middle and leg. Samson eases it down to long on and gets off the mark"}]angled in on a length on middle and leg. Samson eases it down to long on and gets off the mark
+angled in on a length on middle and leg. Samson eases it down to long on and gets off the mark
 
 
 Balls faced: 2
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
-[{"type": "HTML", "html": "The outfield has been just a little scrappy so far. A couple of throws have thrown up puffs of dust or sand"}]The outfield has been just a little scrappy so far. A couple of throws have thrown up puffs of dust or sand
-
-[{"type": "HTML", "html": "<strong>huge appeal and given! Samson cannot make his chance count!</strong> Fullish and curving into Samson from middle stump. Samson falls over a touch and then plays all around it. Gets pinned on the front pad and umpire Paul Reiffel raises his finger. Not the start Samson or India would have wanted!"}]<strong>huge appeal and given! Samson cannot make his chance count!</strong> Fullish and curving into Samson from middle stump. Samson falls over a touch and then plays all around it. Gets pinned on the front pad and umpire Paul Reiffel raises his finger. Not the start Samson or India would have wanted!
+The outfield has been just a little scrappy so far. A couple of throws have thrown up puffs of dust or sand
+Samson is OUT! lbw
+lbw b Shoriful Islam
+Sanju Samson lbw b Shoriful Islam 1 (6b 0x4 0x6) SR: 16.66
+<strong>huge appeal and given! Samson cannot make his chance count!</strong> Fullish and curving into Samson from middle stump. Samson falls over a touch and then plays all around it. Gets pinned on the front pad and umpire Paul Reiffel raises his finger. Not the start Samson or India would have wanted!
 
 
 Balls faced: 3
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide outside off. No timing on that again and Samson clinks it towards mid off"}]full and wide outside off. No timing on that again and Samson clinks it towards mid off
+full and wide outside off. No timing on that again and Samson clinks it towards mid off
 
 
 Balls faced: 4
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on the pads. Samson helps it round the corner and fails to beat short fine leg for the second time this over"}]length ball on the pads. Samson helps it round the corner and fails to beat short fine leg for the second time this over
+length ball on the pads. Samson helps it round the corner and fails to beat short fine leg for the second time this over
 
 
 Balls faced: 5
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>oh dear!</strong> Back of a length delivery that swings away down leg. Samson does not get bat on it and the keeper cannot get to it either. Five wides to get the boundary-count going!"}]<strong>oh dear!</strong> Back of a length delivery that swings away down leg. Samson does not get bat on it and the keeper cannot get to it either. Five wides to get the boundary-count going!
+<strong>oh dear!</strong> Back of a length delivery that swings away down leg. Samson does not get bat on it and the keeper cannot get to it either. Five wides to get the boundary-count going!
 
 Wide: 5
 Balls faced: 6
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length delivery pushed across the batter outside off. Just inside the tramlines and not called a wide this time as Samson lets it go"}]length delivery pushed across the batter outside off. Just inside the tramlines and not called a wide this time as Samson lets it go
+length delivery pushed across the batter outside off. Just inside the tramlines and not called a wide this time as Samson lets it go
 
 
 Balls faced: 7
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets a bit of in-swing but this is on the pads. Samson, though, glances it straight to short fine leg. He will feel he missed out there"}]gets a bit of in-swing but this is on the pads. Samson, though, glances it straight to short fine leg. He will feel he missed out there
+gets a bit of in-swing but this is on the pads. Samson, though, glances it straight to short fine leg. He will feel he missed out there
 
 
 Balls faced: 8
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
-[{"type": "HTML", "html": "Shoriful to share the new ball. Can he get the ball to swing back into the right-handers?"}, {"type": "HTML", "html": "ShahSafeer: \"Does this move of sending Sanju Samson as opener suggest Virat will open the innings with Rohit? \" -- Too early to say. What is certain is that India do not seem averse to trying things out"}]Shoriful to share the new ball. Can he get the ball to swing back into the right-handers? ShahSafeer: "Does this move of sending Sanju Samson as opener suggest Virat will open the innings with Rohit? " -- Too early to say. What is certain is that India do not seem averse to trying things out
+Shoriful to share the new ball. Can he get the ball to swing back into the right-handers? ShahSafeer: "Does this move of sending Sanju Samson as opener suggest Virat will open the innings with Rohit? " -- Too early to say. What is certain is that India do not seem averse to trying things out
 
-[{"type": "HTML", "html": "length delivery angled across the batter way outside off. Left alone by Samson and called a wide"}]length delivery angled across the batter way outside off. Left alone by Samson and called a wide
+length delivery angled across the batter way outside off. Left alone by Samson and called a wide
 
 Wide: 1
 Balls faced: 9
 Bowler: Mahedi Hasan
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
-[{"type": "HTML", "html": "Stays over the wicket to Samson"}]Stays over the wicket to Samson
+Stays over the wicket to Samson
 
-[{"type": "HTML", "html": "angled in on a length on middle and leg. Samson eases it down to long on and gets off the mark"}]angled in on a length on middle and leg. Samson eases it down to long on and gets off the mark
+angled in on a length on middle and leg. Samson eases it down to long on and gets off the mark
 
 
 Balls faced: 10
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
-[{"type": "HTML", "html": "The outfield has been just a little scrappy so far. A couple of throws have thrown up puffs of dust or sand"}]The outfield has been just a little scrappy so far. A couple of throws have thrown up puffs of dust or sand
-
-[{"type": "HTML", "html": "<strong>huge appeal and given! Samson cannot make his chance count!</strong> Fullish and curving into Samson from middle stump. Samson falls over a touch and then plays all around it. Gets pinned on the front pad and umpire Paul Reiffel raises his finger. Not the start Samson or India would have wanted!"}]<strong>huge appeal and given! Samson cannot make his chance count!</strong> Fullish and curving into Samson from middle stump. Samson falls over a touch and then plays all around it. Gets pinned on the front pad and umpire Paul Reiffel raises his finger. Not the start Samson or India would have wanted!
+The outfield has been just a little scrappy so far. A couple of throws have thrown up puffs of dust or sand
+Samson is OUT! lbw
+lbw b Shoriful Islam
+Sanju Samson lbw b Shoriful Islam 1 (6b 0x4 0x6) SR: 16.66
+<strong>huge appeal and given! Samson cannot make his chance count!</strong> Fullish and curving into Samson from middle stump. Samson falls over a touch and then plays all around it. Gets pinned on the front pad and umpire Paul Reiffel raises his finger. Not the start Samson or India would have wanted!
 
 
 Balls faced: 11
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide outside off. No timing on that again and Samson clinks it towards mid off"}]full and wide outside off. No timing on that again and Samson clinks it towards mid off
+full and wide outside off. No timing on that again and Samson clinks it towards mid off
 
 
 Balls faced: 12
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on the pads. Samson helps it round the corner and fails to beat short fine leg for the second time this over"}]length ball on the pads. Samson helps it round the corner and fails to beat short fine leg for the second time this over
+length ball on the pads. Samson helps it round the corner and fails to beat short fine leg for the second time this over
 
 
 Balls faced: 13
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>oh dear!</strong> Back of a length delivery that swings away down leg. Samson does not get bat on it and the keeper cannot get to it either. Five wides to get the boundary-count going!"}]<strong>oh dear!</strong> Back of a length delivery that swings away down leg. Samson does not get bat on it and the keeper cannot get to it either. Five wides to get the boundary-count going!
+<strong>oh dear!</strong> Back of a length delivery that swings away down leg. Samson does not get bat on it and the keeper cannot get to it either. Five wides to get the boundary-count going!
 
 Wide: 5
 Balls faced: 14
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length delivery pushed across the batter outside off. Just inside the tramlines and not called a wide this time as Samson lets it go"}]length delivery pushed across the batter outside off. Just inside the tramlines and not called a wide this time as Samson lets it go
+length delivery pushed across the batter outside off. Just inside the tramlines and not called a wide this time as Samson lets it go
 
 
 Balls faced: 15
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets a bit of in-swing but this is on the pads. Samson, though, glances it straight to short fine leg. He will feel he missed out there"}]gets a bit of in-swing but this is on the pads. Samson, though, glances it straight to short fine leg. He will feel he missed out there
+gets a bit of in-swing but this is on the pads. Samson, though, glances it straight to short fine leg. He will feel he missed out there
 
 
 Balls faced: 16
 Bowler: Shoriful Islam
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
-[{"type": "HTML", "html": "Shoriful to share the new ball. Can he get the ball to swing back into the right-handers?"}, {"type": "HTML", "html": "ShahSafeer: \"Does this move of sending Sanju Samson as opener suggest Virat will open the innings with Rohit? \" -- Too early to say. What is certain is that India do not seem averse to trying things out"}]Shoriful to share the new ball. Can he get the ball to swing back into the right-handers? ShahSafeer: "Does this move of sending Sanju Samson as opener suggest Virat will open the innings with Rohit? " -- Too early to say. What is certain is that India do not seem averse to trying things out
+Shoriful to share the new ball. Can he get the ball to swing back into the right-handers? ShahSafeer: "Does this move of sending Sanju Samson as opener suggest Virat will open the innings with Rohit? " -- Too early to say. What is certain is that India do not seem averse to trying things out
 
-[{"type": "HTML", "html": "length delivery angled across the batter way outside off. Left alone by Samson and called a wide"}]length delivery angled across the batter way outside off. Left alone by Samson and called a wide
+length delivery angled across the batter way outside off. Left alone by Samson and called a wide
 
 Wide: 1

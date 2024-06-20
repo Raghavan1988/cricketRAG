@@ -2,58 +2,68 @@ Match: all_games_1411166_1415720.json
 Balls faced: 1
 Bowler: Wheal
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>full and wide, boshed down the ground... straight to long-off!</b> Rafiullah clearly understood his brief but slices across it slightly aiming an almighty slog. Picks out Sharif for a straightforward catch a few yards in"}]<b>full and wide, boshed down the ground... straight to long-off!</b> Rafiullah clearly understood his brief but slices across it slightly aiming an almighty slog. Picks out Sharif for a straightforward catch a few yards in
+Rafiullah is OUT! caught
+c Sharif b Wheal
+Rafiullah c Sharif b Wheal 0 (3b 0x4 0x6 2m) SR: 0
+<b>full and wide, boshed down the ground... straight to long-off!</b> Rafiullah clearly understood his brief but slices across it slightly aiming an almighty slog. Picks out Sharif for a straightforward catch a few yards in
 
 
 Balls faced: 2
 Bowler: Wheal
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes pace on this time, 131kph/81mph and beats another almighty swing"}]goes pace on this time, 131kph/81mph and beats another almighty swing
+goes pace on this time, 131kph/81mph and beats another almighty swing
 
 
 Balls faced: 3
 Bowler: Wheal
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball in the channel, swing and a miss from Rafiullah"}]slower ball in the channel, swing and a miss from Rafiullah
+slower ball in the channel, swing and a miss from Rafiullah
 
 
 Balls faced: 4
 Bowler: Wheal
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>full and wide, boshed down the ground... straight to long-off!</b> Rafiullah clearly understood his brief but slices across it slightly aiming an almighty slog. Picks out Sharif for a straightforward catch a few yards in"}]<b>full and wide, boshed down the ground... straight to long-off!</b> Rafiullah clearly understood his brief but slices across it slightly aiming an almighty slog. Picks out Sharif for a straightforward catch a few yards in
+Rafiullah is OUT! caught
+c Sharif b Wheal
+Rafiullah c Sharif b Wheal 0 (3b 0x4 0x6 2m) SR: 0
+<b>full and wide, boshed down the ground... straight to long-off!</b> Rafiullah clearly understood his brief but slices across it slightly aiming an almighty slog. Picks out Sharif for a straightforward catch a few yards in
 
 
 Balls faced: 5
 Bowler: Wheal
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes pace on this time, 131kph/81mph and beats another almighty swing"}]goes pace on this time, 131kph/81mph and beats another almighty swing
+goes pace on this time, 131kph/81mph and beats another almighty swing
 
 
 Balls faced: 6
 Bowler: Wheal
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball in the channel, swing and a miss from Rafiullah"}]slower ball in the channel, swing and a miss from Rafiullah
+slower ball in the channel, swing and a miss from Rafiullah

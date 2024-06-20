@@ -2,81 +2,93 @@ Match: all_games_1411166_1415715.json
 Balls faced: 1
 Bowler: Pathirana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, chopped to backward point. Good over from Pathirana"}]Length ball outside off, chopped to backward point. Good over from Pathirana
+Length ball outside off, chopped to backward point. Good over from Pathirana
 
 
 Balls faced: 2
 Bowler: Pathirana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Here's Rishad. He can bat!"}]Here's Rishad. He can bat!
+Here's Rishad. He can bat!
 
-[{"type": "HTML", "html": "<strong>Almost picks out mid-off!</strong> Length ball outside off, Rishad looks to muscle it over cover but miscues it. The ball pops up and mid-off is running to his left, but it lands safe"}]<strong>Almost picks out mid-off!</strong> Length ball outside off, Rishad looks to muscle it over cover but miscues it. The ball pops up and mid-off is running to his left, but it lands safe
+<strong>Almost picks out mid-off!</strong> Length ball outside off, Rishad looks to muscle it over cover but miscues it. The ball pops up and mid-off is running to his left, but it lands safe
 
 
 Balls faced: 3
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Through him!</b> Thushara gets his third. Rishad looks to come down the track and misses, and loses his stumps! Thushare goes full length around middle, not quite in the slot, and Rishad was looking to back away and hit it over cover. But he is cleaned up, and Sri Lanka smell an opening!"}]<b>Through him!</b> Thushara gets his third. Rishad looks to come down the track and misses, and loses his stumps! Thushare goes full length around middle, not quite in the slot, and Rishad was looking to back away and hit it over cover. But he is cleaned up, and Sri Lanka smell an opening!
+Rishad Hossain is OUT! bowled
+ b Thushara
+Rishad Hossain b Thushara 1 (3b 0x4 0x6 6m) SR: 33.33
+<b>Through him!</b> Thushara gets his third. Rishad looks to come down the track and misses, and loses his stumps! Thushare goes full length around middle, not quite in the slot, and Rishad was looking to back away and hit it over cover. But he is cleaned up, and Sri Lanka smell an opening!
 
 
 Balls faced: 4
 Bowler: Thushara
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bouncer outside off, Rishad looks to ramp but can't connect. And the umpire brings his arms up to signal a wide"}]Bouncer outside off, Rishad looks to ramp but can't connect. And the umpire brings his arms up to signal a wide
+Bouncer outside off, Rishad looks to ramp but can't connect. And the umpire brings his arms up to signal a wide
 
 Wide: 1
 Balls faced: 5
 Bowler: Pathirana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, chopped to backward point. Good over from Pathirana"}]Length ball outside off, chopped to backward point. Good over from Pathirana
+Length ball outside off, chopped to backward point. Good over from Pathirana
 
 
 Balls faced: 6
 Bowler: Pathirana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Here's Rishad. He can bat!"}]Here's Rishad. He can bat!
+Here's Rishad. He can bat!
 
-[{"type": "HTML", "html": "<strong>Almost picks out mid-off!</strong> Length ball outside off, Rishad looks to muscle it over cover but miscues it. The ball pops up and mid-off is running to his left, but it lands safe"}]<strong>Almost picks out mid-off!</strong> Length ball outside off, Rishad looks to muscle it over cover but miscues it. The ball pops up and mid-off is running to his left, but it lands safe
+<strong>Almost picks out mid-off!</strong> Length ball outside off, Rishad looks to muscle it over cover but miscues it. The ball pops up and mid-off is running to his left, but it lands safe
 
 
 Balls faced: 7
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Through him!</b> Thushara gets his third. Rishad looks to come down the track and misses, and loses his stumps! Thushare goes full length around middle, not quite in the slot, and Rishad was looking to back away and hit it over cover. But he is cleaned up, and Sri Lanka smell an opening!"}]<b>Through him!</b> Thushara gets his third. Rishad looks to come down the track and misses, and loses his stumps! Thushare goes full length around middle, not quite in the slot, and Rishad was looking to back away and hit it over cover. But he is cleaned up, and Sri Lanka smell an opening!
+Rishad Hossain is OUT! bowled
+ b Thushara
+Rishad Hossain b Thushara 1 (3b 0x4 0x6 6m) SR: 33.33
+<b>Through him!</b> Thushara gets his third. Rishad looks to come down the track and misses, and loses his stumps! Thushare goes full length around middle, not quite in the slot, and Rishad was looking to back away and hit it over cover. But he is cleaned up, and Sri Lanka smell an opening!
 
 
 Balls faced: 8
 Bowler: Thushara
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bouncer outside off, Rishad looks to ramp but can't connect. And the umpire brings his arms up to signal a wide"}]Bouncer outside off, Rishad looks to ramp but can't connect. And the umpire brings his arms up to signal a wide
+Bouncer outside off, Rishad looks to ramp but can't connect. And the umpire brings his arms up to signal a wide
 
 Wide: 1
 
@@ -84,21 +96,23 @@ Match: all_games_1411166_1415721.json
 Balls faced: 1
 Bowler: Maharaj
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Close lbw call. Not given, Maharaj signals for it right away, batters run a single to short third. He went across early, back foot well outside off off stump and front leg outside leg, he tried to smack it across the line - go over midwicket but missed the slog sweep. <strong>Impact the only issue here for SA and it is outside off</strong>."}]Close lbw call. Not given, Maharaj signals for it right away, batters run a single to short third. He went across early, back foot well outside off off stump and front leg outside leg, he tried to smack it across the line - go over midwicket but missed the slog sweep. <strong>Impact the only issue here for SA and it is outside off</strong>.
+Close lbw call. Not given, Maharaj signals for it right away, batters run a single to short third. He went across early, back foot well outside off off stump and front leg outside leg, he tried to smack it across the line - go over midwicket but missed the slog sweep. <strong>Impact the only issue here for SA and it is outside off</strong>.
 
 Legbyes: 1
 Balls faced: 2
 Bowler: Maharaj
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Close lbw call. Not given, Maharaj signals for it right away, batters run a single to short third. He went across early, back foot well outside off off stump and front leg outside leg, he tried to smack it across the line - go over midwicket but missed the slog sweep. <strong>Impact the only issue here for SA and it is outside off</strong>."}]Close lbw call. Not given, Maharaj signals for it right away, batters run a single to short third. He went across early, back foot well outside off off stump and front leg outside leg, he tried to smack it across the line - go over midwicket but missed the slog sweep. <strong>Impact the only issue here for SA and it is outside off</strong>.
+Close lbw call. Not given, Maharaj signals for it right away, batters run a single to short third. He went across early, back foot well outside off off stump and front leg outside leg, he tried to smack it across the line - go over midwicket but missed the slog sweep. <strong>Impact the only issue here for SA and it is outside off</strong>.
 
 Legbyes: 1
 
@@ -106,141 +120,159 @@ Match: all_games_1411166_1415737.json
 Balls faced: 1
 Bowler: Lamichhane
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Rishad joins Jaker. He has a half-century in T20Is"}]Rishad joins Jaker. He has a half-century in T20Is
+Rishad joins Jaker. He has a half-century in T20Is
 
-[{"type": "HTML", "html": "full on middle and leg. Rishad has a swing at it and chunks it off the inside half of the bat towards deep square leg"}]full on middle and leg. Rishad has a swing at it and chunks it off the inside half of the bat towards deep square leg
+full on middle and leg. Rishad has a swing at it and chunks it off the inside half of the bat towards deep square leg
 
 
 Balls faced: 2
 Bowler: Bhurtel
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floated up nicely on a full length outside off. Rishad has a wild slog across the line and misses. The keeper fumbles too and Bangladesh sneak in a bye"}]floated up nicely on a full length outside off. Rishad has a wild slog across the line and misses. The keeper fumbles too and Bangladesh sneak in a bye
+floated up nicely on a full length outside off. Rishad has a wild slog across the line and misses. The keeper fumbles too and Bangladesh sneak in a bye
 
 Byes: 1
 Balls faced: 3
 Bowler: Lamichhane
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Rishad joins Jaker. He has a half-century in T20Is"}]Rishad joins Jaker. He has a half-century in T20Is
+Rishad joins Jaker. He has a half-century in T20Is
 
-[{"type": "HTML", "html": "full on middle and leg. Rishad has a swing at it and chunks it off the inside half of the bat towards deep square leg"}]full on middle and leg. Rishad has a swing at it and chunks it off the inside half of the bat towards deep square leg
+full on middle and leg. Rishad has a swing at it and chunks it off the inside half of the bat towards deep square leg
 
 
 Balls faced: 4
 Bowler: Bhurtel
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floated up nicely on a full length outside off. Rishad has a wild slog across the line and misses. The keeper fumbles too and Bangladesh sneak in a bye"}]floated up nicely on a full length outside off. Rishad has a wild slog across the line and misses. The keeper fumbles too and Bangladesh sneak in a bye
+floated up nicely on a full length outside off. Rishad has a wild slog across the line and misses. The keeper fumbles too and Bangladesh sneak in a bye
 
 Byes: 1
 Balls faced: 5
 Bowler: Bhurtel
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slow and short outside off. Rishad goes back and eases it to deep cover point"}]slow and short outside off. Rishad goes back and eases it to deep cover point
-[{"type": "HTML", "html": "Rishad has looked quite assured so far, at least in this over"}]Rishad has looked quite assured so far, at least in this over
+slow and short outside off. Rishad goes back and eases it to deep cover point
+Rishad has looked quite assured so far, at least in this over
 
 Balls faced: 6
 Bowler: Bhurtel
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in very full outside off after seeing Rishad advance. He squeezes it out towards backward point and Taskin scampers through for the single"}]fired in very full outside off after seeing Rishad advance. He squeezes it out towards backward point and Taskin scampers through for the single
+fired in very full outside off after seeing Rishad advance. He squeezes it out towards backward point and Taskin scampers through for the single
 
 
 Balls faced: 7
 Bowler: Bhurtel
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>four more!</b>! Tossed up fuller outside off. Rishad gets down on one knee and pummels it to deep mid wicket's right. Runs are flowing for Bangladesh now!"}]<b>four more!</b>! Tossed up fuller outside off. Rishad gets down on one knee and pummels it to deep mid wicket's right. Runs are flowing for Bangladesh now!
+<b>four more!</b>! Tossed up fuller outside off. Rishad gets down on one knee and pummels it to deep mid wicket's right. Runs are flowing for Bangladesh now!
 
 
 Balls faced: 8
 Bowler: Bhurtel
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Lamichhane is the second-fastest to 100 T20I wickets, only behind a certain Rashid Khan"}]Lamichhane is the second-fastest to 100 T20I wickets, only behind a certain Rashid Khan
+Lamichhane is the second-fastest to 100 T20I wickets, only behind a certain Rashid Khan
 
-[{"type": "HTML", "html": "<strong>just clears the fence!</strong> Dragged down on off. Rishad sits deep in his crease and biffs it towards deep mid wicket. The fielder leaps into the air, trying to parry it back into play but fails to do so. Full marks for the effort, though, but six vital runs for Rishad and Bangladesh!"}]<strong>just clears the fence!</strong> Dragged down on off. Rishad sits deep in his crease and biffs it towards deep mid wicket. The fielder leaps into the air, trying to parry it back into play but fails to do so. Full marks for the effort, though, but six vital runs for Rishad and Bangladesh!
+<strong>just clears the fence!</strong> Dragged down on off. Rishad sits deep in his crease and biffs it towards deep mid wicket. The fielder leaps into the air, trying to parry it back into play but fails to do so. Full marks for the effort, though, but six vital runs for Rishad and Bangladesh!
 
 
 Balls faced: 9
 Bowler: Airee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Airee is back. Around the wicket to Rishad"}]Airee is back. Around the wicket to Rishad
-
-[{"type": "HTML", "html": "<strong>straight to long off!</strong> Darted in full outside off, and Rishad's eyes light up. He tries to pound it over long off but cannot get under it enough. Picks out the sweeper to perfection, and Nepal are elated. Rishad departs for 13, and Bangladesh are staring down the barrel!"}]<strong>straight to long off!</strong> Darted in full outside off, and Rishad's eyes light up. He tries to pound it over long off but cannot get under it enough. Picks out the sweeper to perfection, and Nepal are elated. Rishad departs for 13, and Bangladesh are staring down the barrel!
+Airee is back. Around the wicket to Rishad
+Rishad Hossain is OUT! caught
+c Sah b Airee
+Rishad Hossain c Sah b Airee 13 (7b 1x4 1x6) SR: 185.71
+<strong>straight to long off!</strong> Darted in full outside off, and Rishad's eyes light up. He tries to pound it over long off but cannot get under it enough. Picks out the sweeper to perfection, and Nepal are elated. Rishad departs for 13, and Bangladesh are staring down the barrel!
 
 
 Balls faced: 10
 Bowler: Bhurtel
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slow and short outside off. Rishad goes back and eases it to deep cover point"}]slow and short outside off. Rishad goes back and eases it to deep cover point
-[{"type": "HTML", "html": "Rishad has looked quite assured so far, at least in this over"}]Rishad has looked quite assured so far, at least in this over
+slow and short outside off. Rishad goes back and eases it to deep cover point
+Rishad has looked quite assured so far, at least in this over
 
 Balls faced: 11
 Bowler: Bhurtel
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in very full outside off after seeing Rishad advance. He squeezes it out towards backward point and Taskin scampers through for the single"}]fired in very full outside off after seeing Rishad advance. He squeezes it out towards backward point and Taskin scampers through for the single
+fired in very full outside off after seeing Rishad advance. He squeezes it out towards backward point and Taskin scampers through for the single
 
 
 Balls faced: 12
 Bowler: Bhurtel
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>four more!</b>! Tossed up fuller outside off. Rishad gets down on one knee and pummels it to deep mid wicket's right. Runs are flowing for Bangladesh now!"}]<b>four more!</b>! Tossed up fuller outside off. Rishad gets down on one knee and pummels it to deep mid wicket's right. Runs are flowing for Bangladesh now!
+<b>four more!</b>! Tossed up fuller outside off. Rishad gets down on one knee and pummels it to deep mid wicket's right. Runs are flowing for Bangladesh now!
 
 
 Balls faced: 13
 Bowler: Bhurtel
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Lamichhane is the second-fastest to 100 T20I wickets, only behind a certain Rashid Khan"}]Lamichhane is the second-fastest to 100 T20I wickets, only behind a certain Rashid Khan
+Lamichhane is the second-fastest to 100 T20I wickets, only behind a certain Rashid Khan
 
-[{"type": "HTML", "html": "<strong>just clears the fence!</strong> Dragged down on off. Rishad sits deep in his crease and biffs it towards deep mid wicket. The fielder leaps into the air, trying to parry it back into play but fails to do so. Full marks for the effort, though, but six vital runs for Rishad and Bangladesh!"}]<strong>just clears the fence!</strong> Dragged down on off. Rishad sits deep in his crease and biffs it towards deep mid wicket. The fielder leaps into the air, trying to parry it back into play but fails to do so. Full marks for the effort, though, but six vital runs for Rishad and Bangladesh!
+<strong>just clears the fence!</strong> Dragged down on off. Rishad sits deep in his crease and biffs it towards deep mid wicket. The fielder leaps into the air, trying to parry it back into play but fails to do so. Full marks for the effort, though, but six vital runs for Rishad and Bangladesh!
 
 
 Balls faced: 14
 Bowler: Airee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Airee is back. Around the wicket to Rishad"}]Airee is back. Around the wicket to Rishad
-
-[{"type": "HTML", "html": "<strong>straight to long off!</strong> Darted in full outside off, and Rishad's eyes light up. He tries to pound it over long off but cannot get under it enough. Picks out the sweeper to perfection, and Nepal are elated. Rishad departs for 13, and Bangladesh are staring down the barrel!"}]<strong>straight to long off!</strong> Darted in full outside off, and Rishad's eyes light up. He tries to pound it over long off but cannot get under it enough. Picks out the sweeper to perfection, and Nepal are elated. Rishad departs for 13, and Bangladesh are staring down the barrel!
+Airee is back. Around the wicket to Rishad
+Rishad Hossain is OUT! caught
+c Sah b Airee
+Rishad Hossain c Sah b Airee 13 (7b 1x4 1x6) SR: 185.71
+<strong>straight to long off!</strong> Darted in full outside off, and Rishad's eyes light up. He tries to pound it over long off but cannot get under it enough. Picks out the sweeper to perfection, and Nepal are elated. Rishad departs for 13, and Bangladesh are staring down the barrel!
 
 
 
@@ -248,41 +280,49 @@ Match: all_games_1419819_1419824.json
 Balls faced: 1
 Bowler: Fernando
 Over: 18
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Pathirana who went off the field for treatment is back on the field. He will very likely bowl the last over."}, {"type": "HTML", "html": "Faysal: \"Jaker Ali faced around 75-80 balls between 16-20 overs in the recently concluded BPL and scored at a strike rate of over 170\""}]Pathirana who went off the field for treatment is back on the field. He will very likely bowl the last over. Faysal: "Jaker Ali faced around 75-80 balls between 16-20 overs in the recently concluded BPL and scored at a strike rate of over 170"
+Pathirana who went off the field for treatment is back on the field. He will very likely bowl the last over. Faysal: "Jaker Ali faced around 75-80 balls between 16-20 overs in the recently concluded BPL and scored at a strike rate of over 170"
 
-[{"type": "HTML", "html": "short of a length cutter, looks to work it onside but can't get it away"}]short of a length cutter, looks to work it onside but can't get it away
+short of a length cutter, looks to work it onside but can't get it away
 
 
 Balls faced: 2
 Bowler: Fernando
 Over: 18
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Pathirana who went off the field for treatment is back on the field. He will very likely bowl the last over."}, {"type": "HTML", "html": "Faysal: \"Jaker Ali faced around 75-80 balls between 16-20 overs in the recently concluded BPL and scored at a strike rate of over 170\""}]Pathirana who went off the field for treatment is back on the field. He will very likely bowl the last over. Faysal: "Jaker Ali faced around 75-80 balls between 16-20 overs in the recently concluded BPL and scored at a strike rate of over 170"
+Pathirana who went off the field for treatment is back on the field. He will very likely bowl the last over. Faysal: "Jaker Ali faced around 75-80 balls between 16-20 overs in the recently concluded BPL and scored at a strike rate of over 170"
 
-[{"type": "HTML", "html": "short of a length cutter, looks to work it onside but can't get it away"}]short of a length cutter, looks to work it onside but can't get it away
+short of a length cutter, looks to work it onside but can't get it away
 
 
 Balls faced: 3
 Bowler: Shanaka
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Rishad has one job here, just get Jaker on strike. Sri Lanka penalised for a slow over rate, Shanaka to bowl with five in the circle."}]Rishad has one job here, just get Jaker on strike. Sri Lanka penalised for a slow over rate, Shanaka to bowl with five in the circle.
-
-[{"type": "HTML", "html": "<B>Rishad goes for the glory and only finds mid-off!</b> Wide yorker-cum-low-full-toss, Rishad reaches for it and gets a toe-end on the drive. Asalanka scrambles to his left and takes a good catch"}]<B>Rishad goes for the glory and only finds mid-off!</b> Wide yorker-cum-low-full-toss, Rishad reaches for it and gets a toe-end on the drive. Asalanka scrambles to his left and takes a good catch
+Rishad has one job here, just get Jaker on strike. Sri Lanka penalised for a slow over rate, Shanaka to bowl with five in the circle.
+Rishad Hossain is OUT! caught
+c Asalanka b Shanaka
+Rishad Hossain c Asalanka b Shanaka 0 (2b 0x4 0x6 8m) SR: 0
+<B>Rishad goes for the glory and only finds mid-off!</b> Wide yorker-cum-low-full-toss, Rishad reaches for it and gets a toe-end on the drive. Asalanka scrambles to his left and takes a good catch
 
 
 Balls faced: 4
 Bowler: Shanaka
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Rishad has one job here, just get Jaker on strike. Sri Lanka penalised for a slow over rate, Shanaka to bowl with five in the circle."}]Rishad has one job here, just get Jaker on strike. Sri Lanka penalised for a slow over rate, Shanaka to bowl with five in the circle.
-
-[{"type": "HTML", "html": "<B>Rishad goes for the glory and only finds mid-off!</b> Wide yorker-cum-low-full-toss, Rishad reaches for it and gets a toe-end on the drive. Asalanka scrambles to his left and takes a good catch"}]<B>Rishad goes for the glory and only finds mid-off!</b> Wide yorker-cum-low-full-toss, Rishad reaches for it and gets a toe-end on the drive. Asalanka scrambles to his left and takes a good catch
+Rishad has one job here, just get Jaker on strike. Sri Lanka penalised for a slow over rate, Shanaka to bowl with five in the circle.
+Rishad Hossain is OUT! caught
+c Asalanka b Shanaka
+Rishad Hossain c Asalanka b Shanaka 0 (2b 0x4 0x6 8m) SR: 0
+<B>Rishad goes for the glory and only finds mid-off!</b> Wide yorker-cum-low-full-toss, Rishad reaches for it and gets a toe-end on the drive. Asalanka scrambles to his left and takes a good catch
 
 
 
@@ -290,641 +330,709 @@ Match: all_games_1419819_1419826.json
 Balls faced: 1
 Bowler: Hasaranga
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flat again, on the stumps, hits to midwicket and there's a single"}]flat again, on the stumps, hits to midwicket and there's a single
+flat again, on the stumps, hits to midwicket and there's a single
 
 
 Balls faced: 2
 Bowler: Hasaranga
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, faster legbreak outside off, Rishad pokes his bat at it and misses. There's a stumping appeal but Kusal doesn't even have the ball in his gloves when the wickets are broken"}]flatter, faster legbreak outside off, Rishad pokes his bat at it and misses. There's a stumping appeal but Kusal doesn't even have the ball in his gloves when the wickets are broken
+flatter, faster legbreak outside off, Rishad pokes his bat at it and misses. There's a stumping appeal but Kusal doesn't even have the ball in his gloves when the wickets are broken
 
 
 Balls faced: 3
 Bowler: Hasaranga
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 3
 
 
-[{"type": "HTML", "html": "tossed up on the stumps, Rishad plays a sweep and gets and under edge that takes the ball fine down the leg side. Would have got four but for an excellent diving save from Binura Fernando down there. Clearly there is energy running through this SL side at the moment."}]tossed up on the stumps, Rishad plays a sweep and gets and under edge that takes the ball fine down the leg side. Would have got four but for an excellent diving save from Binura Fernando down there. Clearly there is energy running through this SL side at the moment.
+tossed up on the stumps, Rishad plays a sweep and gets and under edge that takes the ball fine down the leg side. Would have got four but for an excellent diving save from Binura Fernando down there. Clearly there is energy running through this SL side at the moment.
 
 
 Balls faced: 4
 Bowler: Hasaranga
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Rishad's the new batter."}]Rishad's the new batter.
+Rishad's the new batter.
 
-[{"type": "HTML", "html": "legbreak to start. Hits the pad, and there's an appeal, but that's obviously sliding dwn leg"}]legbreak to start. Hits the pad, and there's an appeal, but that's obviously sliding dwn leg
+legbreak to start. Hits the pad, and there's an appeal, but that's obviously sliding dwn leg
 
 
 Balls faced: 5
 Bowler: Thushara
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower one again, full toss on off stump, flicked to deep square for a single"}]slower one again, full toss on off stump, flicked to deep square for a single
-[{"type": "HTML", "html": "Here's Madushka to take you through to the end of the game."}]Here's Madushka to take you through to the end of the game.
+slower one again, full toss on off stump, flicked to deep square for a single
+Here's Madushka to take you through to the end of the game.
 
 Balls faced: 6
 Bowler: Thushara
 Over: 10
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one, slung down the leg side."}]slower one, slung down the leg side.
+slower one, slung down the leg side.
 
 Wide: 1
 Balls faced: 7
 Bowler: Thushara
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full again, swinging away again, but not as viciously. Dug out towards mid wicket and they scamper through. Hasaranga throws down the stumps, but Rishad is in by a distance"}]full again, swinging away again, but not as viciously. Dug out towards mid wicket and they scamper through. Hasaranga throws down the stumps, but Rishad is in by a distance
+full again, swinging away again, but not as viciously. Dug out towards mid wicket and they scamper through. Hasaranga throws down the stumps, but Rishad is in by a distance
 
 
 Balls faced: 8
 Bowler: Thushara
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Here's Thushara! Hold on to your butts."}]Here's Thushara! Hold on to your butts.
+Here's Thushara! Hold on to your butts.
 
-[{"type": "HTML", "html": "leading edge, and is that caught? Sadeera at short cover seems unconvinced. Either way, it's very close. This is full again, swinging away from the right hander again, and as Rishad tries to turn this to leg it takes the leading edge and flies off towards Sadeera who definitely intercepts it before it hits the turf, but maybe he doesn't have enough fingers underneath it, and it hits ground. Yep, that's what the third umpire thinks as well. Not out."}]leading edge, and is that caught? Sadeera at short cover seems unconvinced. Either way, it's very close. This is full again, swinging away from the right hander again, and as Rishad tries to turn this to leg it takes the leading edge and flies off towards Sadeera who definitely intercepts it before it hits the turf, but maybe he doesn't have enough fingers underneath it, and it hits ground. Yep, that's what the third umpire thinks as well. Not out.
+leading edge, and is that caught? Sadeera at short cover seems unconvinced. Either way, it's very close. This is full again, swinging away from the right hander again, and as Rishad tries to turn this to leg it takes the leading edge and flies off towards Sadeera who definitely intercepts it before it hits the turf, but maybe he doesn't have enough fingers underneath it, and it hits ground. Yep, that's what the third umpire thinks as well. Not out.
 
 
 Balls faced: 9
 Bowler: Hasaranga
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flat again, on the stumps, hits to midwicket and there's a single"}]flat again, on the stumps, hits to midwicket and there's a single
+flat again, on the stumps, hits to midwicket and there's a single
 
 
 Balls faced: 10
 Bowler: Hasaranga
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, faster legbreak outside off, Rishad pokes his bat at it and misses. There's a stumping appeal but Kusal doesn't even have the ball in his gloves when the wickets are broken"}]flatter, faster legbreak outside off, Rishad pokes his bat at it and misses. There's a stumping appeal but Kusal doesn't even have the ball in his gloves when the wickets are broken
+flatter, faster legbreak outside off, Rishad pokes his bat at it and misses. There's a stumping appeal but Kusal doesn't even have the ball in his gloves when the wickets are broken
 
 
 Balls faced: 11
 Bowler: Hasaranga
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 3
 
 
-[{"type": "HTML", "html": "tossed up on the stumps, Rishad plays a sweep and gets and under edge that takes the ball fine down the leg side. Would have got four but for an excellent diving save from Binura Fernando down there. Clearly there is energy running through this SL side at the moment."}]tossed up on the stumps, Rishad plays a sweep and gets and under edge that takes the ball fine down the leg side. Would have got four but for an excellent diving save from Binura Fernando down there. Clearly there is energy running through this SL side at the moment.
+tossed up on the stumps, Rishad plays a sweep and gets and under edge that takes the ball fine down the leg side. Would have got four but for an excellent diving save from Binura Fernando down there. Clearly there is energy running through this SL side at the moment.
 
 
 Balls faced: 12
 Bowler: Hasaranga
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Rishad's the new batter."}]Rishad's the new batter.
+Rishad's the new batter.
 
-[{"type": "HTML", "html": "legbreak to start. Hits the pad, and there's an appeal, but that's obviously sliding dwn leg"}]legbreak to start. Hits the pad, and there's an appeal, but that's obviously sliding dwn leg
+legbreak to start. Hits the pad, and there's an appeal, but that's obviously sliding dwn leg
 
 
 Balls faced: 13
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another slog sweep, but this time doesn't time it. Goes along the ground to deep midwicket"}]another slog sweep, but this time doesn't time it. Goes along the ground to deep midwicket
+another slog sweep, but this time doesn't time it. Goes along the ground to deep midwicket
 
 
 Balls faced: 14
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clears deep midwicket now!</b> Rishad giving his fellow leggie some stick here. Hasaranga tosses it up again, and he just hoicks this slog sweep over the man on the ropes"}]<B>Clears deep midwicket now!</b> Rishad giving his fellow leggie some stick here. Hasaranga tosses it up again, and he just hoicks this slog sweep over the man on the ropes
+<B>Clears deep midwicket now!</b> Rishad giving his fellow leggie some stick here. Hasaranga tosses it up again, and he just hoicks this slog sweep over the man on the ropes
 
 
 Balls faced: 15
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clean as a whistle!</b> Tossed up on the stumps, clears the front leg and launches this down the ground, all the way. <B>Fifty up for Bangladesh</b>"}]<B>Clean as a whistle!</b> Tossed up on the stumps, clears the front leg and launches this down the ground, all the way. <B>Fifty up for Bangladesh</b>
+<B>Clean as a whistle!</b> Tossed up on the stumps, clears the front leg and launches this down the ground, all the way. <B>Fifty up for Bangladesh</b>
 
 
 Balls faced: 16
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up outside off, gets on one knee and drags this to deep square leg"}]tossed up outside off, gets on one knee and drags this to deep square leg
+tossed up outside off, gets on one knee and drags this to deep square leg
 
 
 Balls faced: 17
 Bowler: Hasaranga
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Anuk: \"Today Thushara bowling like Isuru Udana. Very difficult to bat on.\" --- This might be the greatest compliment Udana has/will ever receive. Posting here purely for posterity."}, {"type": "HTML", "html": "Beastmaster: \"What are Thushara's speeds? Is he better than Matheesha? Are they that different? Better control? Sorry, can't watch now, hence the questions\" --- He's a fair bit slower actually, but shorter and skiddier. Generally bowls around mid to high 130s."}, {"type": "HTML", "html": "Cheers Fidel. Though how much of this game is left really? Bangladesh with the steepest of hills to climb here after Thushara's demolition job."}]Anuk: "Today Thushara bowling like Isuru Udana. Very difficult to bat on." --- This might be the greatest compliment Udana has/will ever receive. Posting here purely for posterity. Beastmaster: "What are Thushara's speeds? Is he better than Matheesha? Are they that different? Better control? Sorry, can't watch now, hence the questions" --- He's a fair bit slower actually, but shorter and skiddier. Generally bowls around mid to high 130s. Cheers Fidel. Though how much of this game is left really? Bangladesh with the steepest of hills to climb here after Thushara's demolition job.
+Anuk: "Today Thushara bowling like Isuru Udana. Very difficult to bat on." --- This might be the greatest compliment Udana has/will ever receive. Posting here purely for posterity. Beastmaster: "What are Thushara's speeds? Is he better than Matheesha? Are they that different? Better control? Sorry, can't watch now, hence the questions" --- He's a fair bit slower actually, but shorter and skiddier. Generally bowls around mid to high 130s. Cheers Fidel. Though how much of this game is left really? Bangladesh with the steepest of hills to climb here after Thushara's demolition job.
 
-[{"type": "HTML", "html": "length ball, slides on to the pads. Can't get it away"}]length ball, slides on to the pads. Can't get it away
+length ball, slides on to the pads. Can't get it away
 
 
 Balls faced: 18
 Bowler: Thushara
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower one again, full toss on off stump, flicked to deep square for a single"}]slower one again, full toss on off stump, flicked to deep square for a single
-[{"type": "HTML", "html": "Here's Madushka to take you through to the end of the game."}]Here's Madushka to take you through to the end of the game.
+slower one again, full toss on off stump, flicked to deep square for a single
+Here's Madushka to take you through to the end of the game.
 
 Balls faced: 19
 Bowler: Thushara
 Over: 10
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one, slung down the leg side."}]slower one, slung down the leg side.
+slower one, slung down the leg side.
 
 Wide: 1
 Balls faced: 20
 Bowler: Thushara
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full again, swinging away again, but not as viciously. Dug out towards mid wicket and they scamper through. Hasaranga throws down the stumps, but Rishad is in by a distance"}]full again, swinging away again, but not as viciously. Dug out towards mid wicket and they scamper through. Hasaranga throws down the stumps, but Rishad is in by a distance
+full again, swinging away again, but not as viciously. Dug out towards mid wicket and they scamper through. Hasaranga throws down the stumps, but Rishad is in by a distance
 
 
 Balls faced: 21
 Bowler: Thushara
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Here's Thushara! Hold on to your butts."}]Here's Thushara! Hold on to your butts.
+Here's Thushara! Hold on to your butts.
 
-[{"type": "HTML", "html": "leading edge, and is that caught? Sadeera at short cover seems unconvinced. Either way, it's very close. This is full again, swinging away from the right hander again, and as Rishad tries to turn this to leg it takes the leading edge and flies off towards Sadeera who definitely intercepts it before it hits the turf, but maybe he doesn't have enough fingers underneath it, and it hits ground. Yep, that's what the third umpire thinks as well. Not out."}]leading edge, and is that caught? Sadeera at short cover seems unconvinced. Either way, it's very close. This is full again, swinging away from the right hander again, and as Rishad tries to turn this to leg it takes the leading edge and flies off towards Sadeera who definitely intercepts it before it hits the turf, but maybe he doesn't have enough fingers underneath it, and it hits ground. Yep, that's what the third umpire thinks as well. Not out.
+leading edge, and is that caught? Sadeera at short cover seems unconvinced. Either way, it's very close. This is full again, swinging away from the right hander again, and as Rishad tries to turn this to leg it takes the leading edge and flies off towards Sadeera who definitely intercepts it before it hits the turf, but maybe he doesn't have enough fingers underneath it, and it hits ground. Yep, that's what the third umpire thinks as well. Not out.
 
 
 Balls faced: 22
 Bowler: Theekshana
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Rishad continues his lovely little cameo!</b> This is a more conventional sweep, takes it from a length and sends it soaring over deep square leg. Connected with this sweetly"}]<B>Rishad continues his lovely little cameo!</b> This is a more conventional sweep, takes it from a length and sends it soaring over deep square leg. Connected with this sweetly
+<B>Rishad continues his lovely little cameo!</b> This is a more conventional sweep, takes it from a length and sends it soaring over deep square leg. Connected with this sweetly
 
 
 Balls faced: 23
 Bowler: Theekshana
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Brilliant work at backward point! Good length, chopped off the back foot, but DDS dives to his right to save thes ingle"}]Brilliant work at backward point! Good length, chopped off the back foot, but DDS dives to his right to save thes ingle
+Brilliant work at backward point! Good length, chopped off the back foot, but DDS dives to his right to save thes ingle
 
 
 Balls faced: 24
 Bowler: Theekshana
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Yorks him, all Rishad can too is block this out"}]Yorks him, all Rishad can too is block this out
+Yorks him, all Rishad can too is block this out
 
 
 Balls faced: 25
 Bowler: Theekshana
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes for the big slog sweep over deep midwicket again, but misses all ends up. Misses off stump just too"}]goes for the big slog sweep over deep midwicket again, but misses all ends up. Misses off stump just too
+goes for the big slog sweep over deep midwicket again, but misses all ends up. Misses off stump just too
 
 Byes: 1
 Balls faced: 26
 Bowler: Theekshana
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length on off, pushed through at 95kph. Squares him as he looks to defend. Poked away to point"}]good length on off, pushed through at 95kph. Squares him as he looks to defend. Poked away to point
+good length on off, pushed through at 95kph. Squares him as he looks to defend. Poked away to point
 
 
 Balls faced: 27
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another slog sweep, but this time doesn't time it. Goes along the ground to deep midwicket"}]another slog sweep, but this time doesn't time it. Goes along the ground to deep midwicket
+another slog sweep, but this time doesn't time it. Goes along the ground to deep midwicket
 
 
 Balls faced: 28
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clears deep midwicket now!</b> Rishad giving his fellow leggie some stick here. Hasaranga tosses it up again, and he just hoicks this slog sweep over the man on the ropes"}]<B>Clears deep midwicket now!</b> Rishad giving his fellow leggie some stick here. Hasaranga tosses it up again, and he just hoicks this slog sweep over the man on the ropes
+<B>Clears deep midwicket now!</b> Rishad giving his fellow leggie some stick here. Hasaranga tosses it up again, and he just hoicks this slog sweep over the man on the ropes
 
 
 Balls faced: 29
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clean as a whistle!</b> Tossed up on the stumps, clears the front leg and launches this down the ground, all the way. <B>Fifty up for Bangladesh</b>"}]<B>Clean as a whistle!</b> Tossed up on the stumps, clears the front leg and launches this down the ground, all the way. <B>Fifty up for Bangladesh</b>
+<B>Clean as a whistle!</b> Tossed up on the stumps, clears the front leg and launches this down the ground, all the way. <B>Fifty up for Bangladesh</b>
 
 
 Balls faced: 30
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up outside off, gets on one knee and drags this to deep square leg"}]tossed up outside off, gets on one knee and drags this to deep square leg
+tossed up outside off, gets on one knee and drags this to deep square leg
 
 
 Balls faced: 31
 Bowler: Hasaranga
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Anuk: \"Today Thushara bowling like Isuru Udana. Very difficult to bat on.\" --- This might be the greatest compliment Udana has/will ever receive. Posting here purely for posterity."}, {"type": "HTML", "html": "Beastmaster: \"What are Thushara's speeds? Is he better than Matheesha? Are they that different? Better control? Sorry, can't watch now, hence the questions\" --- He's a fair bit slower actually, but shorter and skiddier. Generally bowls around mid to high 130s."}, {"type": "HTML", "html": "Cheers Fidel. Though how much of this game is left really? Bangladesh with the steepest of hills to climb here after Thushara's demolition job."}]Anuk: "Today Thushara bowling like Isuru Udana. Very difficult to bat on." --- This might be the greatest compliment Udana has/will ever receive. Posting here purely for posterity. Beastmaster: "What are Thushara's speeds? Is he better than Matheesha? Are they that different? Better control? Sorry, can't watch now, hence the questions" --- He's a fair bit slower actually, but shorter and skiddier. Generally bowls around mid to high 130s. Cheers Fidel. Though how much of this game is left really? Bangladesh with the steepest of hills to climb here after Thushara's demolition job.
+Anuk: "Today Thushara bowling like Isuru Udana. Very difficult to bat on." --- This might be the greatest compliment Udana has/will ever receive. Posting here purely for posterity. Beastmaster: "What are Thushara's speeds? Is he better than Matheesha? Are they that different? Better control? Sorry, can't watch now, hence the questions" --- He's a fair bit slower actually, but shorter and skiddier. Generally bowls around mid to high 130s. Cheers Fidel. Though how much of this game is left really? Bangladesh with the steepest of hills to climb here after Thushara's demolition job.
 
-[{"type": "HTML", "html": "length ball, slides on to the pads. Can't get it away"}]length ball, slides on to the pads. Can't get it away
+length ball, slides on to the pads. Can't get it away
 
 
 Balls faced: 32
 Bowler: Theekshana
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Rishad continues his lovely little cameo!</b> This is a more conventional sweep, takes it from a length and sends it soaring over deep square leg. Connected with this sweetly"}]<B>Rishad continues his lovely little cameo!</b> This is a more conventional sweep, takes it from a length and sends it soaring over deep square leg. Connected with this sweetly
+<B>Rishad continues his lovely little cameo!</b> This is a more conventional sweep, takes it from a length and sends it soaring over deep square leg. Connected with this sweetly
 
 
 Balls faced: 33
 Bowler: Theekshana
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Brilliant work at backward point! Good length, chopped off the back foot, but DDS dives to his right to save thes ingle"}]Brilliant work at backward point! Good length, chopped off the back foot, but DDS dives to his right to save thes ingle
+Brilliant work at backward point! Good length, chopped off the back foot, but DDS dives to his right to save thes ingle
 
 
 Balls faced: 34
 Bowler: Theekshana
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Yorks him, all Rishad can too is block this out"}]Yorks him, all Rishad can too is block this out
+Yorks him, all Rishad can too is block this out
 
 
 Balls faced: 35
 Bowler: Theekshana
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes for the big slog sweep over deep midwicket again, but misses all ends up. Misses off stump just too"}]goes for the big slog sweep over deep midwicket again, but misses all ends up. Misses off stump just too
+goes for the big slog sweep over deep midwicket again, but misses all ends up. Misses off stump just too
 
 Byes: 1
 Balls faced: 36
 Bowler: Theekshana
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length on off, pushed through at 95kph. Squares him as he looks to defend. Poked away to point"}]good length on off, pushed through at 95kph. Squares him as he looks to defend. Poked away to point
+good length on off, pushed through at 95kph. Squares him as he looks to defend. Poked away to point
 
 
 Balls faced: 37
 Bowler: Hasaranga
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Akindu: \"Chameera, Pathirana, Binura, Thushara, Pathirana, madushanka, madushan, Lahiru And only 3 slots. I am NOT envious of the SL selectors\""}]Akindu: "Chameera, Pathirana, Binura, Thushara, Pathirana, madushanka, madushan, Lahiru And only 3 slots. I am NOT envious of the SL selectors"
+Akindu: "Chameera, Pathirana, Binura, Thushara, Pathirana, madushanka, madushan, Lahiru And only 3 slots. I am NOT envious of the SL selectors"
 
-[{"type": "HTML", "html": "length on the stumps, tucked towards square leg"}]length on the stumps, tucked towards square leg
+length on the stumps, tucked towards square leg
 
 
 Balls faced: 38
 Bowler: Theekshana
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Carbon copy! 100 up for Bangladesh!</b> The crowd has woken from its slumber! Again just gets under it perfectly and just annihilates this over cow corner. Incredible ball striking"}]<B>Carbon copy! 100 up for Bangladesh!</b> The crowd has woken from its slumber! Again just gets under it perfectly and just annihilates this over cow corner. Incredible ball striking
+<B>Carbon copy! 100 up for Bangladesh!</b> The crowd has woken from its slumber! Again just gets under it perfectly and just annihilates this over cow corner. Incredible ball striking
 
 
 Balls faced: 39
 Bowler: Theekshana
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Gets a hold of this though!</b> Rishad opts to go for his favoured cow corner, and he has absolutely pummelled this"}]<B>Gets a hold of this though!</b> Rishad opts to go for his favoured cow corner, and he has absolutely pummelled this
+<B>Gets a hold of this though!</b> Rishad opts to go for his favoured cow corner, and he has absolutely pummelled this
 
 
 Balls faced: 40
 Bowler: Theekshana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Swing and a miss! Carrom ball and Rishad makes room, looking to smoke this down the ground but this turns past the outside edge"}]Swing and a miss! Carrom ball and Rishad makes room, looking to smoke this down the ground but this turns past the outside edge
+Swing and a miss! Carrom ball and Rishad makes room, looking to smoke this down the ground but this turns past the outside edge
 
 
 Balls faced: 41
 Bowler: Theekshana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Leading edge on the bounce to short third, Rishad is deceived by the turn here as he looks to play it onside"}]Leading edge on the bounce to short third, Rishad is deceived by the turn here as he looks to play it onside
+Leading edge on the bounce to short third, Rishad is deceived by the turn here as he looks to play it onside
 
 
 Balls faced: 42
 Bowler: Theekshana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Scorching!</b> Gets right under this and Rishad has disappeared this ball over cow corner, what a hit and what a cameo from Rishad"}]<B>Scorching!</b> Gets right under this and Rishad has disappeared this ball over cow corner, what a hit and what a cameo from Rishad
+<B>Scorching!</b> Gets right under this and Rishad has disappeared this ball over cow corner, what a hit and what a cameo from Rishad
 
 
 Balls faced: 43
 Bowler: Theekshana
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length on off, defended"}]good length on off, defended
+good length on off, defended
 
 
 Balls faced: 44
 Bowler: Hasaranga
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Akindu: \"Chameera, Pathirana, Binura, Thushara, Pathirana, madushanka, madushan, Lahiru And only 3 slots. I am NOT envious of the SL selectors\""}]Akindu: "Chameera, Pathirana, Binura, Thushara, Pathirana, madushanka, madushan, Lahiru And only 3 slots. I am NOT envious of the SL selectors"
+Akindu: "Chameera, Pathirana, Binura, Thushara, Pathirana, madushanka, madushan, Lahiru And only 3 slots. I am NOT envious of the SL selectors"
 
-[{"type": "HTML", "html": "length on the stumps, tucked towards square leg"}]length on the stumps, tucked towards square leg
+length on the stumps, tucked towards square leg
 
 
 Balls faced: 45
 Bowler: Fernando
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Rishad's fifty has no boundaries, just sixes."}]Rishad's fifty has no boundaries, just sixes.
+Rishad's fifty has no boundaries, just sixes.
 
-[{"type": "HTML", "html": "good length angled away from off, swings and gets and under edge to the keeper. They run a single anyway"}]good length angled away from off, swings and gets and under edge to the keeper. They run a single anyway
+good length angled away from off, swings and gets and under edge to the keeper. They run a single anyway
 
 
 Balls faced: 46
 Bowler: Fernando
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide, but too wide. Wide call as Rishad swings and misses"}]full and wide, but too wide. Wide call as Rishad swings and misses
+full and wide, but too wide. Wide call as Rishad swings and misses
 
 Wide: 1
 Balls faced: 47
 Bowler: Fernando
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Rishad you beauty! Fifty up for the young man!</b> Walks across the crease for this slower one, rocks back and pulls it miles over deep square leg"}]<B>Rishad you beauty! Fifty up for the young man!</b> Walks across the crease for this slower one, rocks back and pulls it miles over deep square leg
+<B>Rishad you beauty! Fifty up for the young man!</b> Walks across the crease for this slower one, rocks back and pulls it miles over deep square leg
 
 
 Balls faced: 48
 Bowler: Fernando
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "65 off the last 32 for Bangladesh!"}]65 off the last 32 for Bangladesh!
+65 off the last 32 for Bangladesh!
 
-[{"type": "HTML", "html": "Swing and a miss! Rishad charges, but Binura sees him coming and bowls this cutter wider of off"}]Swing and a miss! Rishad charges, but Binura sees him coming and bowls this cutter wider of off
+Swing and a miss! Rishad charges, but Binura sees him coming and bowls this cutter wider of off
 
 
 Balls faced: 49
 Bowler: Theekshana
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Carbon copy! 100 up for Bangladesh!</b> The crowd has woken from its slumber! Again just gets under it perfectly and just annihilates this over cow corner. Incredible ball striking"}]<B>Carbon copy! 100 up for Bangladesh!</b> The crowd has woken from its slumber! Again just gets under it perfectly and just annihilates this over cow corner. Incredible ball striking
+<B>Carbon copy! 100 up for Bangladesh!</b> The crowd has woken from its slumber! Again just gets under it perfectly and just annihilates this over cow corner. Incredible ball striking
 
 
 Balls faced: 50
 Bowler: Theekshana
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Gets a hold of this though!</b> Rishad opts to go for his favoured cow corner, and he has absolutely pummelled this"}]<B>Gets a hold of this though!</b> Rishad opts to go for his favoured cow corner, and he has absolutely pummelled this
+<B>Gets a hold of this though!</b> Rishad opts to go for his favoured cow corner, and he has absolutely pummelled this
 
 
 Balls faced: 51
 Bowler: Theekshana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Swing and a miss! Carrom ball and Rishad makes room, looking to smoke this down the ground but this turns past the outside edge"}]Swing and a miss! Carrom ball and Rishad makes room, looking to smoke this down the ground but this turns past the outside edge
+Swing and a miss! Carrom ball and Rishad makes room, looking to smoke this down the ground but this turns past the outside edge
 
 
 Balls faced: 52
 Bowler: Theekshana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Leading edge on the bounce to short third, Rishad is deceived by the turn here as he looks to play it onside"}]Leading edge on the bounce to short third, Rishad is deceived by the turn here as he looks to play it onside
+Leading edge on the bounce to short third, Rishad is deceived by the turn here as he looks to play it onside
 
 
 Balls faced: 53
 Bowler: Theekshana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Scorching!</b> Gets right under this and Rishad has disappeared this ball over cow corner, what a hit and what a cameo from Rishad"}]<B>Scorching!</b> Gets right under this and Rishad has disappeared this ball over cow corner, what a hit and what a cameo from Rishad
+<B>Scorching!</b> Gets right under this and Rishad has disappeared this ball over cow corner, what a hit and what a cameo from Rishad
 
 
 Balls faced: 54
 Bowler: Theekshana
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length on off, defended"}]good length on off, defended
+good length on off, defended
 
 
 Balls faced: 55
 Bowler: Theekshana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>And Rishad's resistance comes to an end!</b> The entire stadium applauds as he walks off. This was a good length just outside off, Rishad looks to drag this to his favoured cow corner, but ends up top edging it near the bottom of the bat. It goes straight up in the air towards mid-off, where Sadeera hustles around and completes a very good take"}]<B>And Rishad's resistance comes to an end!</b> The entire stadium applauds as he walks off. This was a good length just outside off, Rishad looks to drag this to his favoured cow corner, but ends up top edging it near the bottom of the bat. It goes straight up in the air towards mid-off, where Sadeera hustles around and completes a very good take
+Rishad Hossain is OUT! caught
+c Samarawickrama b Theekshana
+Rishad Hossain c Samarawickrama b Theekshana 53 (30b 0x4 7x6) SR: 176.66
+<B>And Rishad's resistance comes to an end!</b> The entire stadium applauds as he walks off. This was a good length just outside off, Rishad looks to drag this to his favoured cow corner, but ends up top edging it near the bottom of the bat. It goes straight up in the air towards mid-off, where Sadeera hustles around and completes a very good take
 
 
 Balls faced: 56
 Bowler: Theekshana
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, drilled straighter right at the man at long-off"}]full on off, drilled straighter right at the man at long-off
+full on off, drilled straighter right at the man at long-off
 
 
 Balls faced: 57
 Bowler: Theekshana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Walt: \"Grandstand finish in store? Would be one heck of a win! \""}]Walt: "Grandstand finish in store? Would be one heck of a win! "
+Walt: "Grandstand finish in store? Would be one heck of a win! "
 
-[{"type": "HTML", "html": "tossed up on off, cracked straight to extra cover. Either side of the man at that would have been four"}]tossed up on off, cracked straight to extra cover. Either side of the man at that would have been four
+tossed up on off, cracked straight to extra cover. Either side of the man at that would have been four
 
 
 Balls faced: 58
 Bowler: Fernando
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Rishad's fifty has no boundaries, just sixes."}]Rishad's fifty has no boundaries, just sixes.
+Rishad's fifty has no boundaries, just sixes.
 
-[{"type": "HTML", "html": "good length angled away from off, swings and gets and under edge to the keeper. They run a single anyway"}]good length angled away from off, swings and gets and under edge to the keeper. They run a single anyway
+good length angled away from off, swings and gets and under edge to the keeper. They run a single anyway
 
 
 Balls faced: 59
 Bowler: Fernando
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide, but too wide. Wide call as Rishad swings and misses"}]full and wide, but too wide. Wide call as Rishad swings and misses
+full and wide, but too wide. Wide call as Rishad swings and misses
 
 Wide: 1
 Balls faced: 60
 Bowler: Fernando
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Rishad you beauty! Fifty up for the young man!</b> Walks across the crease for this slower one, rocks back and pulls it miles over deep square leg"}]<B>Rishad you beauty! Fifty up for the young man!</b> Walks across the crease for this slower one, rocks back and pulls it miles over deep square leg
+<B>Rishad you beauty! Fifty up for the young man!</b> Walks across the crease for this slower one, rocks back and pulls it miles over deep square leg
 
 
 Balls faced: 61
 Bowler: Fernando
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "65 off the last 32 for Bangladesh!"}]65 off the last 32 for Bangladesh!
+65 off the last 32 for Bangladesh!
 
-[{"type": "HTML", "html": "Swing and a miss! Rishad charges, but Binura sees him coming and bowls this cutter wider of off"}]Swing and a miss! Rishad charges, but Binura sees him coming and bowls this cutter wider of off
+Swing and a miss! Rishad charges, but Binura sees him coming and bowls this cutter wider of off
 
 
 Balls faced: 62
 Bowler: Theekshana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>And Rishad's resistance comes to an end!</b> The entire stadium applauds as he walks off. This was a good length just outside off, Rishad looks to drag this to his favoured cow corner, but ends up top edging it near the bottom of the bat. It goes straight up in the air towards mid-off, where Sadeera hustles around and completes a very good take"}]<B>And Rishad's resistance comes to an end!</b> The entire stadium applauds as he walks off. This was a good length just outside off, Rishad looks to drag this to his favoured cow corner, but ends up top edging it near the bottom of the bat. It goes straight up in the air towards mid-off, where Sadeera hustles around and completes a very good take
+Rishad Hossain is OUT! caught
+c Samarawickrama b Theekshana
+Rishad Hossain c Samarawickrama b Theekshana 53 (30b 0x4 7x6) SR: 176.66
+<B>And Rishad's resistance comes to an end!</b> The entire stadium applauds as he walks off. This was a good length just outside off, Rishad looks to drag this to his favoured cow corner, but ends up top edging it near the bottom of the bat. It goes straight up in the air towards mid-off, where Sadeera hustles around and completes a very good take
 
 
 Balls faced: 63
 Bowler: Theekshana
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, drilled straighter right at the man at long-off"}]full on off, drilled straighter right at the man at long-off
+full on off, drilled straighter right at the man at long-off
 
 
 Balls faced: 64
 Bowler: Theekshana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Walt: \"Grandstand finish in store? Would be one heck of a win! \""}]Walt: "Grandstand finish in store? Would be one heck of a win! "
+Walt: "Grandstand finish in store? Would be one heck of a win! "
 
-[{"type": "HTML", "html": "tossed up on off, cracked straight to extra cover. Either side of the man at that would have been four"}]tossed up on off, cracked straight to extra cover. Either side of the man at that would have been four
+tossed up on off, cracked straight to extra cover. Either side of the man at that would have been four
 
 
 
@@ -932,361 +1040,397 @@ Match: all_games_1419819_1419829.json
 Balls faced: 1
 Bowler: Hasaranga
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length ball on the stumps, defends back to the bowler"}]Good length ball on the stumps, defends back to the bowler
+Good length ball on the stumps, defends back to the bowler
 
 
 Balls faced: 2
 Bowler: Hasaranga
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Another six!</strong> Flighted slot delivery, Rishad swings it away to the vacant mid wicket region, just over the boundary ropes"}]<strong>Another six!</strong> Flighted slot delivery, Rishad swings it away to the vacant mid wicket region, just over the boundary ropes
+<strong>Another six!</strong> Flighted slot delivery, Rishad swings it away to the vacant mid wicket region, just over the boundary ropes
 
 
 Balls faced: 3
 Bowler: Hasaranga
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Overpitched delivery on the stumps, whacked through mid on past the fielder for another boundary"}]Overpitched delivery on the stumps, whacked through mid on past the fielder for another boundary
+Overpitched delivery on the stumps, whacked through mid on past the fielder for another boundary
 
 
 Balls faced: 4
 Bowler: Hasaranga
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length ball on middle-leg, Rishad tries to defend and gets beaten by the googly, loud appeal but the umpire is not interested. Kusal takes the <strong>review</strong>. Replay confirms no bat involved, pitching and impact are red but wickets hitting is umpire's call. Rishad survives"}]Good length ball on middle-leg, Rishad tries to defend and gets beaten by the googly, loud appeal but the umpire is not interested. Kusal takes the <strong>review</strong>. Replay confirms no bat involved, pitching and impact are red but wickets hitting is umpire's call. Rishad survives
+Good length ball on middle-leg, Rishad tries to defend and gets beaten by the googly, loud appeal but the umpire is not interested. Kusal takes the <strong>review</strong>. Replay confirms no bat involved, pitching and impact are red but wickets hitting is umpire's call. Rishad survives
 
 
 Balls faced: 5
 Bowler: Hasaranga
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
-[{"type": "HTML", "html": "Rishad is the new batter"}]Rishad is the new batter
+Rishad is the new batter
 
-[{"type": "HTML", "html": "Tossed up delivery in the slot, Rishad slog sweeps it high over the square leg fence to pick up a maximum off his first ball"}]Tossed up delivery in the slot, Rishad slog sweeps it high over the square leg fence to pick up a maximum off his first ball
+Tossed up delivery in the slot, Rishad slog sweeps it high over the square leg fence to pick up a maximum off his first ball
 
 
 Balls faced: 6
 Bowler: Lahiru Kumara
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short pitched delivery down the legside, Rishad guides it to the fine leg region, Wellalage covers the ground and dives to his right, saved three valuable runs"}]Short pitched delivery down the legside, Rishad guides it to the fine leg region, Wellalage covers the ground and dives to his right, saved three valuable runs
+Short pitched delivery down the legside, Rishad guides it to the fine leg region, Wellalage covers the ground and dives to his right, saved three valuable runs
 
 
 Balls faced: 7
 Bowler: Lahiru Kumara
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Low full-toss outside off, struck it straight to the short extra cover fielder"}]Low full-toss outside off, struck it straight to the short extra cover fielder
+Low full-toss outside off, struck it straight to the short extra cover fielder
 
 
 Balls faced: 8
 Bowler: Lahiru Kumara
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length ball on the stumps, Rishad forced it to the onside for a quick single"}]Back of a length ball on the stumps, Rishad forced it to the onside for a quick single
+Back of a length ball on the stumps, Rishad forced it to the onside for a quick single
 
 
 Balls faced: 9
 Bowler: Hasaranga
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length ball on the stumps, defends back to the bowler"}]Good length ball on the stumps, defends back to the bowler
+Good length ball on the stumps, defends back to the bowler
 
 
 Balls faced: 10
 Bowler: Hasaranga
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Another six!</strong> Flighted slot delivery, Rishad swings it away to the vacant mid wicket region, just over the boundary ropes"}]<strong>Another six!</strong> Flighted slot delivery, Rishad swings it away to the vacant mid wicket region, just over the boundary ropes
+<strong>Another six!</strong> Flighted slot delivery, Rishad swings it away to the vacant mid wicket region, just over the boundary ropes
 
 
 Balls faced: 11
 Bowler: Hasaranga
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Overpitched delivery on the stumps, whacked through mid on past the fielder for another boundary"}]Overpitched delivery on the stumps, whacked through mid on past the fielder for another boundary
+Overpitched delivery on the stumps, whacked through mid on past the fielder for another boundary
 
 
 Balls faced: 12
 Bowler: Hasaranga
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length ball on middle-leg, Rishad tries to defend and gets beaten by the googly, loud appeal but the umpire is not interested. Kusal takes the <strong>review</strong>. Replay confirms no bat involved, pitching and impact are red but wickets hitting is umpire's call. Rishad survives"}]Good length ball on middle-leg, Rishad tries to defend and gets beaten by the googly, loud appeal but the umpire is not interested. Kusal takes the <strong>review</strong>. Replay confirms no bat involved, pitching and impact are red but wickets hitting is umpire's call. Rishad survives
+Good length ball on middle-leg, Rishad tries to defend and gets beaten by the googly, loud appeal but the umpire is not interested. Kusal takes the <strong>review</strong>. Replay confirms no bat involved, pitching and impact are red but wickets hitting is umpire's call. Rishad survives
 
 
 Balls faced: 13
 Bowler: Hasaranga
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
-[{"type": "HTML", "html": "Rishad is the new batter"}]Rishad is the new batter
+Rishad is the new batter
 
-[{"type": "HTML", "html": "Tossed up delivery in the slot, Rishad slog sweeps it high over the square leg fence to pick up a maximum off his first ball"}]Tossed up delivery in the slot, Rishad slog sweeps it high over the square leg fence to pick up a maximum off his first ball
+Tossed up delivery in the slot, Rishad slog sweeps it high over the square leg fence to pick up a maximum off his first ball
 
 
 Balls faced: 14
 Bowler: Theekshana
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller length on the stumps, driven to extra cover"}]Fuller length on the stumps, driven to extra cover
+Fuller length on the stumps, driven to extra cover
 
 
 Balls faced: 15
 Bowler: Theekshana
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Fuller length ball wide outside off, Rishad heaves it straight over the bowler's head, did not connect it well and just falls short of Wellalage at the long on region, fumbles and the ball runs to the boundary ropes"}]Fuller length ball wide outside off, Rishad heaves it straight over the bowler's head, did not connect it well and just falls short of Wellalage at the long on region, fumbles and the ball runs to the boundary ropes
+Fuller length ball wide outside off, Rishad heaves it straight over the bowler's head, did not connect it well and just falls short of Wellalage at the long on region, fumbles and the ball runs to the boundary ropes
 
 
 Balls faced: 16
 Bowler: Theekshana
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fullish delivery on the stumps, driven straight down the ground to long on"}]Fullish delivery on the stumps, driven straight down the ground to long on
+Fullish delivery on the stumps, driven straight down the ground to long on
 
 
 Balls faced: 17
 Bowler: Theekshana
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Theekshana comes in to bowl"}]Theekshana comes in to bowl
+Theekshana comes in to bowl
 
-[{"type": "HTML", "html": "Length ball outside off, attempts to poke through the offside, beats the outside edge"}]Length ball outside off, attempts to poke through the offside, beats the outside edge
+Length ball outside off, attempts to poke through the offside, beats the outside edge
 
 
 Balls faced: 18
 Bowler: Lahiru Kumara
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short pitched delivery down the legside, Rishad guides it to the fine leg region, Wellalage covers the ground and dives to his right, saved three valuable runs"}]Short pitched delivery down the legside, Rishad guides it to the fine leg region, Wellalage covers the ground and dives to his right, saved three valuable runs
+Short pitched delivery down the legside, Rishad guides it to the fine leg region, Wellalage covers the ground and dives to his right, saved three valuable runs
 
 
 Balls faced: 19
 Bowler: Lahiru Kumara
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Low full-toss outside off, struck it straight to the short extra cover fielder"}]Low full-toss outside off, struck it straight to the short extra cover fielder
+Low full-toss outside off, struck it straight to the short extra cover fielder
 
 
 Balls faced: 20
 Bowler: Lahiru Kumara
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length ball on the stumps, Rishad forced it to the onside for a quick single"}]Back of a length ball on the stumps, Rishad forced it to the onside for a quick single
+Back of a length ball on the stumps, Rishad forced it to the onside for a quick single
 
 
 Balls faced: 21
 Bowler: Hasaranga
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish length on the stumps, driven back to the bowler"}]Fullish length on the stumps, driven back to the bowler
-[{"type": "HTML", "html": "Tareq: \"Incredible! Who expected Rishad to do the hard hands among all these top players around him?\""}]Tareq: "Incredible! Who expected Rishad to do the hard hands among all these top players around him?"
+Fullish length on the stumps, driven back to the bowler
+Tareq: "Incredible! Who expected Rishad to do the hard hands among all these top players around him?"
 
 Balls faced: 22
 Bowler: Hasaranga
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Similar delivery, similar result! Slot delivery and Rishad picked it up over the vacant mid wicket region"}]Similar delivery, similar result! Slot delivery and Rishad picked it up over the vacant mid wicket region
+Similar delivery, similar result! Slot delivery and Rishad picked it up over the vacant mid wicket region
 
 
 Balls faced: 23
 Bowler: Hasaranga
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Slot delivery, Rishad hammers it over the mid wicket region. What's happening here!"}]Slot delivery, Rishad hammers it over the mid wicket region. What's happening here!
+Slot delivery, Rishad hammers it over the mid wicket region. What's happening here!
 
 
 Balls faced: 24
 Bowler: Hasaranga
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Length ball outside off, rocks back and bludgeons it through the covers, misfielding and another boundary"}]Length ball outside off, rocks back and bludgeons it through the covers, misfielding and another boundary
+Length ball outside off, rocks back and bludgeons it through the covers, misfielding and another boundary
 
 
 Balls faced: 25
 Bowler: Hasaranga
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Another maximum!</strong> Length ball on the stumps, Rishad smokes it high over the mid wicket fence again!"}]<strong>Another maximum!</strong> Length ball on the stumps, Rishad smokes it high over the mid wicket fence again!
+<strong>Another maximum!</strong> Length ball on the stumps, Rishad smokes it high over the mid wicket fence again!
 
 
 Balls faced: 26
 Bowler: Hasaranga
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>It's a biggie!!!</strong> Tossed up delivery in the slot, Rishad goes down on one knee and slog sweeps it high over the cow corner fence"}]<strong>It's a biggie!!!</strong> Tossed up delivery in the slot, Rishad goes down on one knee and slog sweeps it high over the cow corner fence
+<strong>It's a biggie!!!</strong> Tossed up delivery in the slot, Rishad goes down on one knee and slog sweeps it high over the cow corner fence
 
 
 Balls faced: 27
 Bowler: Theekshana
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller length on the stumps, driven to extra cover"}]Fuller length on the stumps, driven to extra cover
+Fuller length on the stumps, driven to extra cover
 
 
 Balls faced: 28
 Bowler: Theekshana
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Fuller length ball wide outside off, Rishad heaves it straight over the bowler's head, did not connect it well and just falls short of Wellalage at the long on region, fumbles and the ball runs to the boundary ropes"}]Fuller length ball wide outside off, Rishad heaves it straight over the bowler's head, did not connect it well and just falls short of Wellalage at the long on region, fumbles and the ball runs to the boundary ropes
+Fuller length ball wide outside off, Rishad heaves it straight over the bowler's head, did not connect it well and just falls short of Wellalage at the long on region, fumbles and the ball runs to the boundary ropes
 
 
 Balls faced: 29
 Bowler: Theekshana
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fullish delivery on the stumps, driven straight down the ground to long on"}]Fullish delivery on the stumps, driven straight down the ground to long on
+Fullish delivery on the stumps, driven straight down the ground to long on
 
 
 Balls faced: 30
 Bowler: Theekshana
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Theekshana comes in to bowl"}]Theekshana comes in to bowl
+Theekshana comes in to bowl
 
-[{"type": "HTML", "html": "Length ball outside off, attempts to poke through the offside, beats the outside edge"}]Length ball outside off, attempts to poke through the offside, beats the outside edge
+Length ball outside off, attempts to poke through the offside, beats the outside edge
 
 
 Balls faced: 31
 Bowler: Hasaranga
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish length on the stumps, driven back to the bowler"}]Fullish length on the stumps, driven back to the bowler
-[{"type": "HTML", "html": "Tareq: \"Incredible! Who expected Rishad to do the hard hands among all these top players around him?\""}]Tareq: "Incredible! Who expected Rishad to do the hard hands among all these top players around him?"
+Fullish length on the stumps, driven back to the bowler
+Tareq: "Incredible! Who expected Rishad to do the hard hands among all these top players around him?"
 
 Balls faced: 32
 Bowler: Hasaranga
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Similar delivery, similar result! Slot delivery and Rishad picked it up over the vacant mid wicket region"}]Similar delivery, similar result! Slot delivery and Rishad picked it up over the vacant mid wicket region
+Similar delivery, similar result! Slot delivery and Rishad picked it up over the vacant mid wicket region
 
 
 Balls faced: 33
 Bowler: Hasaranga
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Slot delivery, Rishad hammers it over the mid wicket region. What's happening here!"}]Slot delivery, Rishad hammers it over the mid wicket region. What's happening here!
+Slot delivery, Rishad hammers it over the mid wicket region. What's happening here!
 
 
 Balls faced: 34
 Bowler: Hasaranga
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Length ball outside off, rocks back and bludgeons it through the covers, misfielding and another boundary"}]Length ball outside off, rocks back and bludgeons it through the covers, misfielding and another boundary
+Length ball outside off, rocks back and bludgeons it through the covers, misfielding and another boundary
 
 
 Balls faced: 35
 Bowler: Hasaranga
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Another maximum!</strong> Length ball on the stumps, Rishad smokes it high over the mid wicket fence again!"}]<strong>Another maximum!</strong> Length ball on the stumps, Rishad smokes it high over the mid wicket fence again!
+<strong>Another maximum!</strong> Length ball on the stumps, Rishad smokes it high over the mid wicket fence again!
 
 
 Balls faced: 36
 Bowler: Hasaranga
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>It's a biggie!!!</strong> Tossed up delivery in the slot, Rishad goes down on one knee and slog sweeps it high over the cow corner fence"}]<strong>It's a biggie!!!</strong> Tossed up delivery in the slot, Rishad goes down on one knee and slog sweeps it high over the cow corner fence
+<strong>It's a biggie!!!</strong> Tossed up delivery in the slot, Rishad goes down on one knee and slog sweeps it high over the cow corner fence
 
 
 
@@ -1294,81 +1438,89 @@ Match: all_games_1425117_1425128.json
 Balls faced: 1
 Bowler: Muzarabani
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Rishad in"}]Rishad in
+Rishad in
 
-[{"type": "HTML", "html": "Overpitched ball outside off, moves away to make room, dabs it to short third man fielder"}]Overpitched ball outside off, moves away to make room, dabs it to short third man fielder
+Overpitched ball outside off, moves away to make room, dabs it to short third man fielder
 
 
 Balls faced: 2
 Bowler: M Faraz Akram
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and wide outside off, Rishad tries to clear the in-field but misses the length of the ball"}]Full and wide outside off, Rishad tries to clear the in-field but misses the length of the ball
-[{"type": "HTML", "html": "Zimbabwe had a strong start to the game once more but was unable to sustain it. Towhid Hridoy and Jaker Ali took control of the match when Tanzid Tamim departed, hitting some beautiful shots all over the field. Hridoy scored his first T20I fifty, but Jaker Ali was only six runs short of his second fifty. With two yorker deliveries in the penultimate over--possibly the two best deliveries of the series so far--the outstanding Muzarabani dismissed both batsmen. Muzarabani bowled incredibly well, taking three wickets with just 14 runs conceded. The other bowlers didn't help each other out and were a little expensive. Join us for the run chase after a brief break."}, {"type": "HTML", "html": "Sahriar : \"From BPL/international matches, Jaker Ali seems to try too many things when he is sent earlier (And is really good at slog overs). And seeing how Rishad plays spin, if their position is swapped- then I feel Bangladesh could maximize the output from resource available.\""}, {"type": "HTML", "html": "<strong>Zimbabwe requires 166 runs to win the match</strong>"}]Zimbabwe had a strong start to the game once more but was unable to sustain it. Towhid Hridoy and Jaker Ali took control of the match when Tanzid Tamim departed, hitting some beautiful shots all over the field. Hridoy scored his first T20I fifty, but Jaker Ali was only six runs short of his second fifty. With two yorker deliveries in the penultimate over--possibly the two best deliveries of the series so far--the outstanding Muzarabani dismissed both batsmen. Muzarabani bowled incredibly well, taking three wickets with just 14 runs conceded. The other bowlers didn't help each other out and were a little expensive. Join us for the run chase after a brief break. Sahriar : "From BPL/international matches, Jaker Ali seems to try too many things when he is sent earlier (And is really good at slog overs). And seeing how Rishad plays spin, if their position is swapped- then I feel Bangladesh could maximize the output from resource available." <strong>Zimbabwe requires 166 runs to win the match</strong>
+Full and wide outside off, Rishad tries to clear the in-field but misses the length of the ball
+Zimbabwe had a strong start to the game once more but was unable to sustain it. Towhid Hridoy and Jaker Ali took control of the match when Tanzid Tamim departed, hitting some beautiful shots all over the field. Hridoy scored his first T20I fifty, but Jaker Ali was only six runs short of his second fifty. With two yorker deliveries in the penultimate over--possibly the two best deliveries of the series so far--the outstanding Muzarabani dismissed both batsmen. Muzarabani bowled incredibly well, taking three wickets with just 14 runs conceded. The other bowlers didn't help each other out and were a little expensive. Join us for the run chase after a brief break. Sahriar : "From BPL/international matches, Jaker Ali seems to try too many things when he is sent earlier (And is really good at slog overs). And seeing how Rishad plays spin, if their position is swapped- then I feel Bangladesh could maximize the output from resource available." <strong>Zimbabwe requires 166 runs to win the match</strong>
 
 Balls faced: 3
 Bowler: M Faraz Akram
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower delivery on the pads, mistimes and hits it to deep square leg"}]Slower delivery on the pads, mistimes and hits it to deep square leg
+Slower delivery on the pads, mistimes and hits it to deep square leg
 
 
 Balls faced: 4
 Bowler: M Faraz Akram
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Overpitched ball wide outside the off stump, Riyad opens the face of the bat and smashes it aerially over the extra cover, one bounce and on to the fence"}]Overpitched ball wide outside the off stump, Riyad opens the face of the bat and smashes it aerially over the extra cover, one bounce and on to the fence
+Overpitched ball wide outside the off stump, Riyad opens the face of the bat and smashes it aerially over the extra cover, one bounce and on to the fence
 
 
 Balls faced: 5
 Bowler: Muzarabani
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Rishad in"}]Rishad in
+Rishad in
 
-[{"type": "HTML", "html": "Overpitched ball outside off, moves away to make room, dabs it to short third man fielder"}]Overpitched ball outside off, moves away to make room, dabs it to short third man fielder
+Overpitched ball outside off, moves away to make room, dabs it to short third man fielder
 
 
 Balls faced: 6
 Bowler: M Faraz Akram
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and wide outside off, Rishad tries to clear the in-field but misses the length of the ball"}]Full and wide outside off, Rishad tries to clear the in-field but misses the length of the ball
-[{"type": "HTML", "html": "Zimbabwe had a strong start to the game once more but was unable to sustain it. Towhid Hridoy and Jaker Ali took control of the match when Tanzid Tamim departed, hitting some beautiful shots all over the field. Hridoy scored his first T20I fifty, but Jaker Ali was only six runs short of his second fifty. With two yorker deliveries in the penultimate over--possibly the two best deliveries of the series so far--the outstanding Muzarabani dismissed both batsmen. Muzarabani bowled incredibly well, taking three wickets with just 14 runs conceded. The other bowlers didn't help each other out and were a little expensive. Join us for the run chase after a brief break."}, {"type": "HTML", "html": "Sahriar : \"From BPL/international matches, Jaker Ali seems to try too many things when he is sent earlier (And is really good at slog overs). And seeing how Rishad plays spin, if their position is swapped- then I feel Bangladesh could maximize the output from resource available.\""}, {"type": "HTML", "html": "<strong>Zimbabwe requires 166 runs to win the match</strong>"}]Zimbabwe had a strong start to the game once more but was unable to sustain it. Towhid Hridoy and Jaker Ali took control of the match when Tanzid Tamim departed, hitting some beautiful shots all over the field. Hridoy scored his first T20I fifty, but Jaker Ali was only six runs short of his second fifty. With two yorker deliveries in the penultimate over--possibly the two best deliveries of the series so far--the outstanding Muzarabani dismissed both batsmen. Muzarabani bowled incredibly well, taking three wickets with just 14 runs conceded. The other bowlers didn't help each other out and were a little expensive. Join us for the run chase after a brief break. Sahriar : "From BPL/international matches, Jaker Ali seems to try too many things when he is sent earlier (And is really good at slog overs). And seeing how Rishad plays spin, if their position is swapped- then I feel Bangladesh could maximize the output from resource available." <strong>Zimbabwe requires 166 runs to win the match</strong>
+Full and wide outside off, Rishad tries to clear the in-field but misses the length of the ball
+Zimbabwe had a strong start to the game once more but was unable to sustain it. Towhid Hridoy and Jaker Ali took control of the match when Tanzid Tamim departed, hitting some beautiful shots all over the field. Hridoy scored his first T20I fifty, but Jaker Ali was only six runs short of his second fifty. With two yorker deliveries in the penultimate over--possibly the two best deliveries of the series so far--the outstanding Muzarabani dismissed both batsmen. Muzarabani bowled incredibly well, taking three wickets with just 14 runs conceded. The other bowlers didn't help each other out and were a little expensive. Join us for the run chase after a brief break. Sahriar : "From BPL/international matches, Jaker Ali seems to try too many things when he is sent earlier (And is really good at slog overs). And seeing how Rishad plays spin, if their position is swapped- then I feel Bangladesh could maximize the output from resource available." <strong>Zimbabwe requires 166 runs to win the match</strong>
 
 Balls faced: 7
 Bowler: M Faraz Akram
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower delivery on the pads, mistimes and hits it to deep square leg"}]Slower delivery on the pads, mistimes and hits it to deep square leg
+Slower delivery on the pads, mistimes and hits it to deep square leg
 
 
 Balls faced: 8
 Bowler: M Faraz Akram
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Overpitched ball wide outside the off stump, Riyad opens the face of the bat and smashes it aerially over the extra cover, one bounce and on to the fence"}]Overpitched ball wide outside the off stump, Riyad opens the face of the bat and smashes it aerially over the extra cover, one bounce and on to the fence
+Overpitched ball wide outside the off stump, Riyad opens the face of the bat and smashes it aerially over the extra cover, one bounce and on to the fence
 
 
 
@@ -1376,81 +1528,93 @@ Match: all_games_1425117_1425129.json
 Balls faced: 1
 Bowler: Masakadza
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short of a length ball on the fourth stump, hangs back and turns it through the mid wicket region"}]Short of a length ball on the fourth stump, hangs back and turns it through the mid wicket region
+Short of a length ball on the fourth stump, hangs back and turns it through the mid wicket region
 
 
 Balls faced: 2
 Bowler: Masakadza
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length ball on the pads, tucked away through the onside for a single"}]Back of a length ball on the pads, tucked away through the onside for a single
+Back of a length ball on the pads, tucked away through the onside for a single
 
 
 Balls faced: 3
 Bowler: Masakadza
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short of a length ball on the fourth stump, hangs back and turns it through the mid wicket region"}]Short of a length ball on the fourth stump, hangs back and turns it through the mid wicket region
+Short of a length ball on the fourth stump, hangs back and turns it through the mid wicket region
 
 
 Balls faced: 4
 Bowler: Masakadza
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length ball on the pads, tucked away through the onside for a single"}]Back of a length ball on the pads, tucked away through the onside for a single
+Back of a length ball on the pads, tucked away through the onside for a single
 
 
 Balls faced: 5
 Bowler: Jongwe
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Sandshoe crusher! </strong> Brilliant yorker delivery on the stumps, Rishad hangs back and tries to shovel it to the onside, beaten by the pace. In celebration, Jongwe takes off his shoe and uses it as a phone while holding it to his ears."}]<strong>Sandshoe crusher! </strong> Brilliant yorker delivery on the stumps, Rishad hangs back and tries to shovel it to the onside, beaten by the pace. In celebration, Jongwe takes off his shoe and uses it as a phone while holding it to his ears.
+Rishad Hossain is OUT! bowled
+ b Jongwe
+Rishad Hossain b Jongwe 2 (4b 0x4 0x6 11m) SR: 50
+<strong>Sandshoe crusher! </strong> Brilliant yorker delivery on the stumps, Rishad hangs back and tries to shovel it to the onside, beaten by the pace. In celebration, Jongwe takes off his shoe and uses it as a phone while holding it to his ears.
 
 
 Balls faced: 6
 Bowler: Jongwe
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of a length ball on the fourth stump, Rishad charges down the ground and swings wildly, misses the line of the ball"}]Back of a length ball on the fourth stump, Rishad charges down the ground and swings wildly, misses the line of the ball
+Back of a length ball on the fourth stump, Rishad charges down the ground and swings wildly, misses the line of the ball
 
 
 Balls faced: 7
 Bowler: Jongwe
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Sandshoe crusher! </strong> Brilliant yorker delivery on the stumps, Rishad hangs back and tries to shovel it to the onside, beaten by the pace. In celebration, Jongwe takes off his shoe and uses it as a phone while holding it to his ears."}]<strong>Sandshoe crusher! </strong> Brilliant yorker delivery on the stumps, Rishad hangs back and tries to shovel it to the onside, beaten by the pace. In celebration, Jongwe takes off his shoe and uses it as a phone while holding it to his ears.
+Rishad Hossain is OUT! bowled
+ b Jongwe
+Rishad Hossain b Jongwe 2 (4b 0x4 0x6 11m) SR: 50
+<strong>Sandshoe crusher! </strong> Brilliant yorker delivery on the stumps, Rishad hangs back and tries to shovel it to the onside, beaten by the pace. In celebration, Jongwe takes off his shoe and uses it as a phone while holding it to his ears.
 
 
 Balls faced: 8
 Bowler: Jongwe
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of a length ball on the fourth stump, Rishad charges down the ground and swings wildly, misses the line of the ball"}]Back of a length ball on the fourth stump, Rishad charges down the ground and swings wildly, misses the line of the ball
+Back of a length ball on the fourth stump, Rishad charges down the ground and swings wildly, misses the line of the ball
 
 
 
@@ -1458,101 +1622,115 @@ Match: all_games_1425119_1425132.json
 Balls faced: 1
 Bowler: Ali Khan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Shot! </strong> Slot delivery around off, Rishad stands tall and hammers it straight over mid off for a much needed boundary!"}]<strong>Shot! </strong> Slot delivery around off, Rishad stands tall and hammers it straight over mid off for a much needed boundary!
+<strong>Shot! </strong> Slot delivery around off, Rishad stands tall and hammers it straight over mid off for a much needed boundary!
 
 
 Balls faced: 2
 Bowler: Ali Khan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Azweer : \"Ali Khan picks both Shakib and Sakib in same over.\""}]Azweer : "Ali Khan picks both Shakib and Sakib in same over."
+Azweer : "Ali Khan picks both Shakib and Sakib in same over."
 
-[{"type": "HTML", "html": "Overpitched ball on the stumps, driven straight to extra cover"}]Overpitched ball on the stumps, driven straight to extra cover
+Overpitched ball on the stumps, driven straight to extra cover
 
 
 Balls faced: 3
 Bowler: Netravalkar
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Overpitched and wide outside off, Rishad moves forward and turns it to low full-toss, slices straight to deep extra cover"}]Overpitched and wide outside off, Rishad moves forward and turns it to low full-toss, slices straight to deep extra cover
+Overpitched and wide outside off, Rishad moves forward and turns it to low full-toss, slices straight to deep extra cover
 
 
 Balls faced: 4
 Bowler: Ali Khan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Shot! </strong> Slot delivery around off, Rishad stands tall and hammers it straight over mid off for a much needed boundary!"}]<strong>Shot! </strong> Slot delivery around off, Rishad stands tall and hammers it straight over mid off for a much needed boundary!
+<strong>Shot! </strong> Slot delivery around off, Rishad stands tall and hammers it straight over mid off for a much needed boundary!
 
 
 Balls faced: 5
 Bowler: Ali Khan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Azweer : \"Ali Khan picks both Shakib and Sakib in same over.\""}]Azweer : "Ali Khan picks both Shakib and Sakib in same over."
+Azweer : "Ali Khan picks both Shakib and Sakib in same over."
 
-[{"type": "HTML", "html": "Overpitched ball on the stumps, driven straight to extra cover"}]Overpitched ball on the stumps, driven straight to extra cover
+Overpitched ball on the stumps, driven straight to extra cover
 
 
 Balls faced: 6
 Bowler: Ali Khan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: No Shot
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Nicked and gone! </strong> Fuller length wide outside off, shuffles across and plays the ramp scoop, inside edges straight back to the USA skipper Monank Patel"}]<strong>Nicked and gone! </strong> Fuller length wide outside off, shuffles across and plays the ramp scoop, inside edges straight back to the USA skipper Monank Patel
-[{"type": "HTML", "html": "The USA is ahead 2-0 in the three-match series against Bangladesh. We are really delighted that you could be here. Make sure you catch the series' third and last Twenty20 International at Prairie View, Houston, on May 25 at the same time. On behalf of Ranjith and the whole team, here is Rashad bidding everyone farewell until then. Good night."}, {"type": "HTML", "html": "Aks: \"Celebrations on from Fremont San Francisco California ... Yeeey boys ... Bring it on home team\""}, {"type": "HTML", "html": "<strong>Monank Patel:</strong> \"Our bowlers did really good and we played with a fighting attitude. I am really proud of the boys. I think the way our bowlers bowled in the powerplay and especially in the last five overs, we used the condition really well and they got the wickets at the right time. I think if we win (on Saturday) and get the confidence leading to the World Cup, it will definitely help us.\""}, {"type": "HTML", "html": "<strong>Najmul Hossain Shanto: </strong> \"I think it's very disappointing for us. We lost wickets I think in almost every overs in the middle. That is the main point I think we lost the match. (Preparation for the World Cup) Yes we didn't play very well to be honest. But I think it is a very good opportunity to have another match and execute our plans. I hope we can play some good cricket in the next match. I think it's not the problem with the skill. We should change our mentality and mindset. We didn't do well in the last two matches.\""}, {"type": "HTML", "html": "<strong>Player of the Match Ali Khan: </strong> \"I think it was a low scoring game and the wicket slowed down later in the innings. But a lot of credit goes to the bowlers. They really put in the effort and bringing their A-Game and try to restrict the Bangladeshi batters back. We took wickets on the crucial stages and that put the pressure back on the Bangladeshi batters. And a lot of credit goes to Saurabh as well. The way he bowled the 19th over, I think he gave away only 2-3 runs and picked up a wicket. Good over for him and that gave me more runs to defend and win the game in the end. (Last over plan) Mindset was to get the wicket. It's just one wicket to win. It's not like they have 3-4 wickets in hand. My plan was to back myself, back my strengths and try to get the wicket earlier. I tried the bouncer and the full option but they put the pressure back on me. Then I went back to my strength on full deliveries and thank God Alhamdulillah (Praise to The Almighty) I got the wicket. (Bouncer delivery) It was the last wicket and tailenders were batting. Just a thought that we bowl the short ball and sky it against the wind. We had the field set up for it. But it was a controlled shot in the gap and went for four so credit goes to the batter (Rishad). But then I came back to my strength and got the wicket.\""}, {"type": "HTML", "html": "<strong>Presentation Ceremony: </strong>"}, {"type": "HTML", "html": "Faizan Ahmed : \"@Praneeth: I just checked the profile of all USA players and found that not even half of half had played for India Under-19 team. Correct your facts bro.\""}, {"type": "HTML", "html": "In Houston, Texas, at the Prairie View Cricket Complex, history has been made once more. Against Bangladesh, the host team came out on top in the series. Yet again, Bangladesh's top order faltered, with Soumya going for a golden duck. After a little while, Tanzid also left on an inexpensive score. Following that, Hridoy and skipper Shanto were able to create a partnership, and they geared up for the run chase. However, Shanto's suicidal run-out blunder between himself and Hridoy cost him his wicket. Mahmudullah and Hridoy also quickly chipped away their wickets. With Shakib Al Hasan picking up few boundaries, Bangladesh still had a glimmer of hope. However, they collapsed when they lost consecutive wickets of Jaker Ali and Shakib Al Hasan. All but Jasdeep and Harmeet bowled brilliantly for the USA throughout the innings. Over the innings, the other bowlers maintained a precise line and length. A few of excellent catches were made by the fielding unit, including a well-executed catch by Harmeet and a one-handed blinder by Netravalkar. Monank made a terrific fielding placement that limited the area available to the batters from Bangladesh. The USA players' collective effort was accumulating dot balls, and Bangladesh once more buckled under pressure. To put the United States back in the game, Netravalkar, Van Schalkwyk, and Ali Khan bowled effectively in the final overs while maintaining composure."}, {"type": "HTML", "html": "Azweer : \"Many Congratulations USA... Much more to come... Extremely delighted to see you win the series...\""}, {"type": "HTML", "html": "<strong>USA won the match by 6 runs</strong>"}]The USA is ahead 2-0 in the three-match series against Bangladesh. We are really delighted that you could be here. Make sure you catch the series' third and last Twenty20 International at Prairie View, Houston, on May 25 at the same time. On behalf of Ranjith and the whole team, here is Rashad bidding everyone farewell until then. Good night. Aks: "Celebrations on from Fremont San Francisco California ... Yeeey boys ... Bring it on home team" <strong>Monank Patel:</strong> "Our bowlers did really good and we played with a fighting attitude. I am really proud of the boys. I think the way our bowlers bowled in the powerplay and especially in the last five overs, we used the condition really well and they got the wickets at the right time. I think if we win (on Saturday) and get the confidence leading to the World Cup, it will definitely help us." <strong>Najmul Hossain Shanto: </strong> "I think it's very disappointing for us. We lost wickets I think in almost every overs in the middle. That is the main point I think we lost the match. (Preparation for the World Cup) Yes we didn't play very well to be honest. But I think it is a very good opportunity to have another match and execute our plans. I hope we can play some good cricket in the next match. I think it's not the problem with the skill. We should change our mentality and mindset. We didn't do well in the last two matches." <strong>Player of the Match Ali Khan: </strong> "I think it was a low scoring game and the wicket slowed down later in the innings. But a lot of credit goes to the bowlers. They really put in the effort and bringing their A-Game and try to restrict the Bangladeshi batters back. We took wickets on the crucial stages and that put the pressure back on the Bangladeshi batters. And a lot of credit goes to Saurabh as well. The way he bowled the 19th over, I think he gave away only 2-3 runs and picked up a wicket. Good over for him and that gave me more runs to defend and win the game in the end. (Last over plan) Mindset was to get the wicket. It's just one wicket to win. It's not like they have 3-4 wickets in hand. My plan was to back myself, back my strengths and try to get the wicket earlier. I tried the bouncer and the full option but they put the pressure back on me. Then I went back to my strength on full deliveries and thank God Alhamdulillah (Praise to The Almighty) I got the wicket. (Bouncer delivery) It was the last wicket and tailenders were batting. Just a thought that we bowl the short ball and sky it against the wind. We had the field set up for it. But it was a controlled shot in the gap and went for four so credit goes to the batter (Rishad). But then I came back to my strength and got the wicket." <strong>Presentation Ceremony: </strong> Faizan Ahmed : "@Praneeth: I just checked the profile of all USA players and found that not even half of half had played for India Under-19 team. Correct your facts bro." In Houston, Texas, at the Prairie View Cricket Complex, history has been made once more. Against Bangladesh, the host team came out on top in the series. Yet again, Bangladesh's top order faltered, with Soumya going for a golden duck. After a little while, Tanzid also left on an inexpensive score. Following that, Hridoy and skipper Shanto were able to create a partnership, and they geared up for the run chase. However, Shanto's suicidal run-out blunder between himself and Hridoy cost him his wicket. Mahmudullah and Hridoy also quickly chipped away their wickets. With Shakib Al Hasan picking up few boundaries, Bangladesh still had a glimmer of hope. However, they collapsed when they lost consecutive wickets of Jaker Ali and Shakib Al Hasan. All but Jasdeep and Harmeet bowled brilliantly for the USA throughout the innings. Over the innings, the other bowlers maintained a precise line and length. A few of excellent catches were made by the fielding unit, including a well-executed catch by Harmeet and a one-handed blinder by Netravalkar. Monank made a terrific fielding placement that limited the area available to the batters from Bangladesh. The USA players' collective effort was accumulating dot balls, and Bangladesh once more buckled under pressure. To put the United States back in the game, Netravalkar, Van Schalkwyk, and Ali Khan bowled effectively in the final overs while maintaining composure. Azweer : "Many Congratulations USA... Much more to come... Extremely delighted to see you win the series..." <strong>USA won the match by 6 runs</strong>
+Rishad Hossain is OUT! caught
+c †Patel b Ali Khan
+Rishad Hossain c †Patel b Ali Khan 9 (5b 2x4 0x6) SR: 180
+<strong>Nicked and gone! </strong> Fuller length wide outside off, shuffles across and plays the ramp scoop, inside edges straight back to the USA skipper Monank Patel
+The USA is ahead 2-0 in the three-match series against Bangladesh. We are really delighted that you could be here. Make sure you catch the series' third and last Twenty20 International at Prairie View, Houston, on May 25 at the same time. On behalf of Ranjith and the whole team, here is Rashad bidding everyone farewell until then. Good night. Aks: "Celebrations on from Fremont San Francisco California ... Yeeey boys ... Bring it on home team" <strong>Monank Patel:</strong> "Our bowlers did really good and we played with a fighting attitude. I am really proud of the boys. I think the way our bowlers bowled in the powerplay and especially in the last five overs, we used the condition really well and they got the wickets at the right time. I think if we win (on Saturday) and get the confidence leading to the World Cup, it will definitely help us." <strong>Najmul Hossain Shanto: </strong> "I think it's very disappointing for us. We lost wickets I think in almost every overs in the middle. That is the main point I think we lost the match. (Preparation for the World Cup) Yes we didn't play very well to be honest. But I think it is a very good opportunity to have another match and execute our plans. I hope we can play some good cricket in the next match. I think it's not the problem with the skill. We should change our mentality and mindset. We didn't do well in the last two matches." <strong>Player of the Match Ali Khan: </strong> "I think it was a low scoring game and the wicket slowed down later in the innings. But a lot of credit goes to the bowlers. They really put in the effort and bringing their A-Game and try to restrict the Bangladeshi batters back. We took wickets on the crucial stages and that put the pressure back on the Bangladeshi batters. And a lot of credit goes to Saurabh as well. The way he bowled the 19th over, I think he gave away only 2-3 runs and picked up a wicket. Good over for him and that gave me more runs to defend and win the game in the end. (Last over plan) Mindset was to get the wicket. It's just one wicket to win. It's not like they have 3-4 wickets in hand. My plan was to back myself, back my strengths and try to get the wicket earlier. I tried the bouncer and the full option but they put the pressure back on me. Then I went back to my strength on full deliveries and thank God Alhamdulillah (Praise to The Almighty) I got the wicket. (Bouncer delivery) It was the last wicket and tailenders were batting. Just a thought that we bowl the short ball and sky it against the wind. We had the field set up for it. But it was a controlled shot in the gap and went for four so credit goes to the batter (Rishad). But then I came back to my strength and got the wicket." <strong>Presentation Ceremony: </strong> Faizan Ahmed : "@Praneeth: I just checked the profile of all USA players and found that not even half of half had played for India Under-19 team. Correct your facts bro." In Houston, Texas, at the Prairie View Cricket Complex, history has been made once more. Against Bangladesh, the host team came out on top in the series. Yet again, Bangladesh's top order faltered, with Soumya going for a golden duck. After a little while, Tanzid also left on an inexpensive score. Following that, Hridoy and skipper Shanto were able to create a partnership, and they geared up for the run chase. However, Shanto's suicidal run-out blunder between himself and Hridoy cost him his wicket. Mahmudullah and Hridoy also quickly chipped away their wickets. With Shakib Al Hasan picking up few boundaries, Bangladesh still had a glimmer of hope. However, they collapsed when they lost consecutive wickets of Jaker Ali and Shakib Al Hasan. All but Jasdeep and Harmeet bowled brilliantly for the USA throughout the innings. Over the innings, the other bowlers maintained a precise line and length. A few of excellent catches were made by the fielding unit, including a well-executed catch by Harmeet and a one-handed blinder by Netravalkar. Monank made a terrific fielding placement that limited the area available to the batters from Bangladesh. The USA players' collective effort was accumulating dot balls, and Bangladesh once more buckled under pressure. To put the United States back in the game, Netravalkar, Van Schalkwyk, and Ali Khan bowled effectively in the final overs while maintaining composure. Azweer : "Many Congratulations USA... Much more to come... Extremely delighted to see you win the series..." <strong>USA won the match by 6 runs</strong>
 
 Balls faced: 7
 Bowler: Ali Khan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
-[{"type": "HTML", "html": "Rishad vs Ali Khan now"}]Rishad vs Ali Khan now
+Rishad vs Ali Khan now
 
-[{"type": "HTML", "html": "Short pitched ball on the stumps, Rishad swings his bat at it and skies it high to the long on region, Nitish Kumar misjudged the flight of the ball near the long on ropes, could not reach the ball, one bounce and over the ropes"}]Short pitched ball on the stumps, Rishad swings his bat at it and skies it high to the long on region, Nitish Kumar misjudged the flight of the ball near the long on ropes, could not reach the ball, one bounce and over the ropes
+Short pitched ball on the stumps, Rishad swings his bat at it and skies it high to the long on region, Nitish Kumar misjudged the flight of the ball near the long on ropes, could not reach the ball, one bounce and over the ropes
 
 
 Balls faced: 8
 Bowler: Netravalkar
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Overpitched and wide outside off, Rishad moves forward and turns it to low full-toss, slices straight to deep extra cover"}]Overpitched and wide outside off, Rishad moves forward and turns it to low full-toss, slices straight to deep extra cover
+Overpitched and wide outside off, Rishad moves forward and turns it to low full-toss, slices straight to deep extra cover
 
 
 Balls faced: 9
 Bowler: Ali Khan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: No Shot
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Nicked and gone! </strong> Fuller length wide outside off, shuffles across and plays the ramp scoop, inside edges straight back to the USA skipper Monank Patel"}]<strong>Nicked and gone! </strong> Fuller length wide outside off, shuffles across and plays the ramp scoop, inside edges straight back to the USA skipper Monank Patel
-[{"type": "HTML", "html": "The USA is ahead 2-0 in the three-match series against Bangladesh. We are really delighted that you could be here. Make sure you catch the series' third and last Twenty20 International at Prairie View, Houston, on May 25 at the same time. On behalf of Ranjith and the whole team, here is Rashad bidding everyone farewell until then. Good night."}, {"type": "HTML", "html": "Aks: \"Celebrations on from Fremont San Francisco California ... Yeeey boys ... Bring it on home team\""}, {"type": "HTML", "html": "<strong>Monank Patel:</strong> \"Our bowlers did really good and we played with a fighting attitude. I am really proud of the boys. I think the way our bowlers bowled in the powerplay and especially in the last five overs, we used the condition really well and they got the wickets at the right time. I think if we win (on Saturday) and get the confidence leading to the World Cup, it will definitely help us.\""}, {"type": "HTML", "html": "<strong>Najmul Hossain Shanto: </strong> \"I think it's very disappointing for us. We lost wickets I think in almost every overs in the middle. That is the main point I think we lost the match. (Preparation for the World Cup) Yes we didn't play very well to be honest. But I think it is a very good opportunity to have another match and execute our plans. I hope we can play some good cricket in the next match. I think it's not the problem with the skill. We should change our mentality and mindset. We didn't do well in the last two matches.\""}, {"type": "HTML", "html": "<strong>Player of the Match Ali Khan: </strong> \"I think it was a low scoring game and the wicket slowed down later in the innings. But a lot of credit goes to the bowlers. They really put in the effort and bringing their A-Game and try to restrict the Bangladeshi batters back. We took wickets on the crucial stages and that put the pressure back on the Bangladeshi batters. And a lot of credit goes to Saurabh as well. The way he bowled the 19th over, I think he gave away only 2-3 runs and picked up a wicket. Good over for him and that gave me more runs to defend and win the game in the end. (Last over plan) Mindset was to get the wicket. It's just one wicket to win. It's not like they have 3-4 wickets in hand. My plan was to back myself, back my strengths and try to get the wicket earlier. I tried the bouncer and the full option but they put the pressure back on me. Then I went back to my strength on full deliveries and thank God Alhamdulillah (Praise to The Almighty) I got the wicket. (Bouncer delivery) It was the last wicket and tailenders were batting. Just a thought that we bowl the short ball and sky it against the wind. We had the field set up for it. But it was a controlled shot in the gap and went for four so credit goes to the batter (Rishad). But then I came back to my strength and got the wicket.\""}, {"type": "HTML", "html": "<strong>Presentation Ceremony: </strong>"}, {"type": "HTML", "html": "Faizan Ahmed : \"@Praneeth: I just checked the profile of all USA players and found that not even half of half had played for India Under-19 team. Correct your facts bro.\""}, {"type": "HTML", "html": "In Houston, Texas, at the Prairie View Cricket Complex, history has been made once more. Against Bangladesh, the host team came out on top in the series. Yet again, Bangladesh's top order faltered, with Soumya going for a golden duck. After a little while, Tanzid also left on an inexpensive score. Following that, Hridoy and skipper Shanto were able to create a partnership, and they geared up for the run chase. However, Shanto's suicidal run-out blunder between himself and Hridoy cost him his wicket. Mahmudullah and Hridoy also quickly chipped away their wickets. With Shakib Al Hasan picking up few boundaries, Bangladesh still had a glimmer of hope. However, they collapsed when they lost consecutive wickets of Jaker Ali and Shakib Al Hasan. All but Jasdeep and Harmeet bowled brilliantly for the USA throughout the innings. Over the innings, the other bowlers maintained a precise line and length. A few of excellent catches were made by the fielding unit, including a well-executed catch by Harmeet and a one-handed blinder by Netravalkar. Monank made a terrific fielding placement that limited the area available to the batters from Bangladesh. The USA players' collective effort was accumulating dot balls, and Bangladesh once more buckled under pressure. To put the United States back in the game, Netravalkar, Van Schalkwyk, and Ali Khan bowled effectively in the final overs while maintaining composure."}, {"type": "HTML", "html": "Azweer : \"Many Congratulations USA... Much more to come... Extremely delighted to see you win the series...\""}, {"type": "HTML", "html": "<strong>USA won the match by 6 runs</strong>"}]The USA is ahead 2-0 in the three-match series against Bangladesh. We are really delighted that you could be here. Make sure you catch the series' third and last Twenty20 International at Prairie View, Houston, on May 25 at the same time. On behalf of Ranjith and the whole team, here is Rashad bidding everyone farewell until then. Good night. Aks: "Celebrations on from Fremont San Francisco California ... Yeeey boys ... Bring it on home team" <strong>Monank Patel:</strong> "Our bowlers did really good and we played with a fighting attitude. I am really proud of the boys. I think the way our bowlers bowled in the powerplay and especially in the last five overs, we used the condition really well and they got the wickets at the right time. I think if we win (on Saturday) and get the confidence leading to the World Cup, it will definitely help us." <strong>Najmul Hossain Shanto: </strong> "I think it's very disappointing for us. We lost wickets I think in almost every overs in the middle. That is the main point I think we lost the match. (Preparation for the World Cup) Yes we didn't play very well to be honest. But I think it is a very good opportunity to have another match and execute our plans. I hope we can play some good cricket in the next match. I think it's not the problem with the skill. We should change our mentality and mindset. We didn't do well in the last two matches." <strong>Player of the Match Ali Khan: </strong> "I think it was a low scoring game and the wicket slowed down later in the innings. But a lot of credit goes to the bowlers. They really put in the effort and bringing their A-Game and try to restrict the Bangladeshi batters back. We took wickets on the crucial stages and that put the pressure back on the Bangladeshi batters. And a lot of credit goes to Saurabh as well. The way he bowled the 19th over, I think he gave away only 2-3 runs and picked up a wicket. Good over for him and that gave me more runs to defend and win the game in the end. (Last over plan) Mindset was to get the wicket. It's just one wicket to win. It's not like they have 3-4 wickets in hand. My plan was to back myself, back my strengths and try to get the wicket earlier. I tried the bouncer and the full option but they put the pressure back on me. Then I went back to my strength on full deliveries and thank God Alhamdulillah (Praise to The Almighty) I got the wicket. (Bouncer delivery) It was the last wicket and tailenders were batting. Just a thought that we bowl the short ball and sky it against the wind. We had the field set up for it. But it was a controlled shot in the gap and went for four so credit goes to the batter (Rishad). But then I came back to my strength and got the wicket." <strong>Presentation Ceremony: </strong> Faizan Ahmed : "@Praneeth: I just checked the profile of all USA players and found that not even half of half had played for India Under-19 team. Correct your facts bro." In Houston, Texas, at the Prairie View Cricket Complex, history has been made once more. Against Bangladesh, the host team came out on top in the series. Yet again, Bangladesh's top order faltered, with Soumya going for a golden duck. After a little while, Tanzid also left on an inexpensive score. Following that, Hridoy and skipper Shanto were able to create a partnership, and they geared up for the run chase. However, Shanto's suicidal run-out blunder between himself and Hridoy cost him his wicket. Mahmudullah and Hridoy also quickly chipped away their wickets. With Shakib Al Hasan picking up few boundaries, Bangladesh still had a glimmer of hope. However, they collapsed when they lost consecutive wickets of Jaker Ali and Shakib Al Hasan. All but Jasdeep and Harmeet bowled brilliantly for the USA throughout the innings. Over the innings, the other bowlers maintained a precise line and length. A few of excellent catches were made by the fielding unit, including a well-executed catch by Harmeet and a one-handed blinder by Netravalkar. Monank made a terrific fielding placement that limited the area available to the batters from Bangladesh. The USA players' collective effort was accumulating dot balls, and Bangladesh once more buckled under pressure. To put the United States back in the game, Netravalkar, Van Schalkwyk, and Ali Khan bowled effectively in the final overs while maintaining composure. Azweer : "Many Congratulations USA... Much more to come... Extremely delighted to see you win the series..." <strong>USA won the match by 6 runs</strong>
+Rishad Hossain is OUT! caught
+c †Patel b Ali Khan
+Rishad Hossain c †Patel b Ali Khan 9 (5b 2x4 0x6) SR: 180
+<strong>Nicked and gone! </strong> Fuller length wide outside off, shuffles across and plays the ramp scoop, inside edges straight back to the USA skipper Monank Patel
+The USA is ahead 2-0 in the three-match series against Bangladesh. We are really delighted that you could be here. Make sure you catch the series' third and last Twenty20 International at Prairie View, Houston, on May 25 at the same time. On behalf of Ranjith and the whole team, here is Rashad bidding everyone farewell until then. Good night. Aks: "Celebrations on from Fremont San Francisco California ... Yeeey boys ... Bring it on home team" <strong>Monank Patel:</strong> "Our bowlers did really good and we played with a fighting attitude. I am really proud of the boys. I think the way our bowlers bowled in the powerplay and especially in the last five overs, we used the condition really well and they got the wickets at the right time. I think if we win (on Saturday) and get the confidence leading to the World Cup, it will definitely help us." <strong>Najmul Hossain Shanto: </strong> "I think it's very disappointing for us. We lost wickets I think in almost every overs in the middle. That is the main point I think we lost the match. (Preparation for the World Cup) Yes we didn't play very well to be honest. But I think it is a very good opportunity to have another match and execute our plans. I hope we can play some good cricket in the next match. I think it's not the problem with the skill. We should change our mentality and mindset. We didn't do well in the last two matches." <strong>Player of the Match Ali Khan: </strong> "I think it was a low scoring game and the wicket slowed down later in the innings. But a lot of credit goes to the bowlers. They really put in the effort and bringing their A-Game and try to restrict the Bangladeshi batters back. We took wickets on the crucial stages and that put the pressure back on the Bangladeshi batters. And a lot of credit goes to Saurabh as well. The way he bowled the 19th over, I think he gave away only 2-3 runs and picked up a wicket. Good over for him and that gave me more runs to defend and win the game in the end. (Last over plan) Mindset was to get the wicket. It's just one wicket to win. It's not like they have 3-4 wickets in hand. My plan was to back myself, back my strengths and try to get the wicket earlier. I tried the bouncer and the full option but they put the pressure back on me. Then I went back to my strength on full deliveries and thank God Alhamdulillah (Praise to The Almighty) I got the wicket. (Bouncer delivery) It was the last wicket and tailenders were batting. Just a thought that we bowl the short ball and sky it against the wind. We had the field set up for it. But it was a controlled shot in the gap and went for four so credit goes to the batter (Rishad). But then I came back to my strength and got the wicket." <strong>Presentation Ceremony: </strong> Faizan Ahmed : "@Praneeth: I just checked the profile of all USA players and found that not even half of half had played for India Under-19 team. Correct your facts bro." In Houston, Texas, at the Prairie View Cricket Complex, history has been made once more. Against Bangladesh, the host team came out on top in the series. Yet again, Bangladesh's top order faltered, with Soumya going for a golden duck. After a little while, Tanzid also left on an inexpensive score. Following that, Hridoy and skipper Shanto were able to create a partnership, and they geared up for the run chase. However, Shanto's suicidal run-out blunder between himself and Hridoy cost him his wicket. Mahmudullah and Hridoy also quickly chipped away their wickets. With Shakib Al Hasan picking up few boundaries, Bangladesh still had a glimmer of hope. However, they collapsed when they lost consecutive wickets of Jaker Ali and Shakib Al Hasan. All but Jasdeep and Harmeet bowled brilliantly for the USA throughout the innings. Over the innings, the other bowlers maintained a precise line and length. A few of excellent catches were made by the fielding unit, including a well-executed catch by Harmeet and a one-handed blinder by Netravalkar. Monank made a terrific fielding placement that limited the area available to the batters from Bangladesh. The USA players' collective effort was accumulating dot balls, and Bangladesh once more buckled under pressure. To put the United States back in the game, Netravalkar, Van Schalkwyk, and Ali Khan bowled effectively in the final overs while maintaining composure. Azweer : "Many Congratulations USA... Much more to come... Extremely delighted to see you win the series..." <strong>USA won the match by 6 runs</strong>
 
 Balls faced: 10
 Bowler: Ali Khan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
-[{"type": "HTML", "html": "Rishad vs Ali Khan now"}]Rishad vs Ali Khan now
+Rishad vs Ali Khan now
 
-[{"type": "HTML", "html": "Short pitched ball on the stumps, Rishad swings his bat at it and skies it high to the long on region, Nitish Kumar misjudged the flight of the ball near the long on ropes, could not reach the ball, one bounce and over the ropes"}]Short pitched ball on the stumps, Rishad swings his bat at it and skies it high to the long on region, Nitish Kumar misjudged the flight of the ball near the long on ropes, could not reach the ball, one bounce and over the ropes
+Short pitched ball on the stumps, Rishad swings his bat at it and skies it high to the long on region, Nitish Kumar misjudged the flight of the ball near the long on ropes, could not reach the ball, one bounce and over the ropes
 
 
 
@@ -1560,98 +1738,112 @@ Match: all_games_1434088_1434105.json
 Balls faced: 1
 Bowler: Bumrah
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length on middle and leg. Whistles off the surface and Rishad, trying to use the pace and play it behind point, is beaten for pace"}]hard length on middle and leg. Whistles off the surface and Rishad, trying to use the pace and play it behind point, is beaten for pace
+hard length on middle and leg. Whistles off the surface and Rishad, trying to use the pace and play it behind point, is beaten for pace
 
 
 Balls faced: 2
 Bowler: Bumrah
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slanted into the stumps again. Rishad makes room and drills it towards mid off for a single"}]slanted into the stumps again. Rishad makes room and drills it towards mid off for a single
+slanted into the stumps again. Rishad makes room and drills it towards mid off for a single
 
 
 Balls faced: 3
 Bowler: Bumrah
 Over: 19
+ 
 Shot: No Shot
 Run scored: 4
-[{"type": "HTML", "html": "Looks like Rishad has walked in, with Mahmudullah retiring out"}]Looks like Rishad has walked in, with Mahmudullah retiring out
+Looks like Rishad has walked in, with Mahmudullah retiring out
 
-[{"type": "HTML", "html": "<strong>cleverly done!</strong> Bumrah goes for the wide yorker but Rishad has an answer for it. Opens his bat face and steers it fine past the keeper!"}]<strong>cleverly done!</strong> Bumrah goes for the wide yorker but Rishad has an answer for it. Opens his bat face and steers it fine past the keeper!
+<strong>cleverly done!</strong> Bumrah goes for the wide yorker but Rishad has an answer for it. Opens his bat face and steers it fine past the keeper!
 
 
 Balls faced: 4
 Bowler: Dube
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Dube gets a wicket!</strong> Slower ball on a full length outside leg. Rishad has a swing at it because, well, why not. Does not come to grips with the change in pace and miscues it. Axar comes running in from long on and seems to misjudge it initially. Holds his nerve in the end, though, and snaffles up a smart overhead catch!"}]<strong>Dube gets a wicket!</strong> Slower ball on a full length outside leg. Rishad has a swing at it because, well, why not. Does not come to grips with the change in pace and miscues it. Axar comes running in from long on and seems to misjudge it initially. Holds his nerve in the end, though, and snaffles up a smart overhead catch!
+Rishad Hossain is OUT! caught
+c Patel b Dube
+Rishad Hossain c Patel b Dube 5 (5b 1x4 0x6) SR: 100
+<strong>Dube gets a wicket!</strong> Slower ball on a full length outside leg. Rishad has a swing at it because, well, why not. Does not come to grips with the change in pace and miscues it. Axar comes running in from long on and seems to misjudge it initially. Holds his nerve in the end, though, and snaffles up a smart overhead catch!
 
 
 Balls faced: 5
 Bowler: Dube
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Rishad backs away and aims for the moon. Only swats away a few flies in the process"}]back of a length just outside off. Rishad backs away and aims for the moon. Only swats away a few flies in the process
+back of a length just outside off. Rishad backs away and aims for the moon. Only swats away a few flies in the process
 
 
 Balls faced: 6
 Bowler: Bumrah
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length on middle and leg. Whistles off the surface and Rishad, trying to use the pace and play it behind point, is beaten for pace"}]hard length on middle and leg. Whistles off the surface and Rishad, trying to use the pace and play it behind point, is beaten for pace
+hard length on middle and leg. Whistles off the surface and Rishad, trying to use the pace and play it behind point, is beaten for pace
 
 
 Balls faced: 7
 Bowler: Bumrah
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slanted into the stumps again. Rishad makes room and drills it towards mid off for a single"}]slanted into the stumps again. Rishad makes room and drills it towards mid off for a single
+slanted into the stumps again. Rishad makes room and drills it towards mid off for a single
 
 
 Balls faced: 8
 Bowler: Bumrah
 Over: 19
+ 
 Shot: No Shot
 Run scored: 4
-[{"type": "HTML", "html": "Looks like Rishad has walked in, with Mahmudullah retiring out"}]Looks like Rishad has walked in, with Mahmudullah retiring out
+Looks like Rishad has walked in, with Mahmudullah retiring out
 
-[{"type": "HTML", "html": "<strong>cleverly done!</strong> Bumrah goes for the wide yorker but Rishad has an answer for it. Opens his bat face and steers it fine past the keeper!"}]<strong>cleverly done!</strong> Bumrah goes for the wide yorker but Rishad has an answer for it. Opens his bat face and steers it fine past the keeper!
+<strong>cleverly done!</strong> Bumrah goes for the wide yorker but Rishad has an answer for it. Opens his bat face and steers it fine past the keeper!
 
 
 Balls faced: 9
 Bowler: Dube
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Dube gets a wicket!</strong> Slower ball on a full length outside leg. Rishad has a swing at it because, well, why not. Does not come to grips with the change in pace and miscues it. Axar comes running in from long on and seems to misjudge it initially. Holds his nerve in the end, though, and snaffles up a smart overhead catch!"}]<strong>Dube gets a wicket!</strong> Slower ball on a full length outside leg. Rishad has a swing at it because, well, why not. Does not come to grips with the change in pace and miscues it. Axar comes running in from long on and seems to misjudge it initially. Holds his nerve in the end, though, and snaffles up a smart overhead catch!
+Rishad Hossain is OUT! caught
+c Patel b Dube
+Rishad Hossain c Patel b Dube 5 (5b 1x4 0x6) SR: 100
+<strong>Dube gets a wicket!</strong> Slower ball on a full length outside leg. Rishad has a swing at it because, well, why not. Does not come to grips with the change in pace and miscues it. Axar comes running in from long on and seems to misjudge it initially. Holds his nerve in the end, though, and snaffles up a smart overhead catch!
 
 
 Balls faced: 10
 Bowler: Dube
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Rishad backs away and aims for the moon. Only swats away a few flies in the process"}]back of a length just outside off. Rishad backs away and aims for the moon. Only swats away a few flies in the process
+back of a length just outside off. Rishad backs away and aims for the moon. Only swats away a few flies in the process

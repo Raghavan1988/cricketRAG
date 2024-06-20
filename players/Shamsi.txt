@@ -2,91 +2,100 @@ Match: all_games_1367856_1384438.json
 Balls faced: 1
 Bowler: Cummins
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a straight full toss, defended"}]a straight full toss, defended
-[{"type": "HTML", "html": "David Miller's century is the 39th of this tournament, the most in an edition of <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;groupby=series;orderby=hundreds;template=results;trophy=12;type=batting\">men's ODI World Cup, surpassing 38 in 2015.</a>"}]David Miller's century is the 39th of this tournament, the most in an edition of <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;groupby=series;orderby=hundreds;template=results;trophy=12;type=batting">men's ODI World Cup, surpassing 38 in 2015.</a>
+a straight full toss, defended
+David Miller's century is the 39th of this tournament, the most in an edition of <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;groupby=series;orderby=hundreds;template=results;trophy=12;type=batting">men's ODI World Cup, surpassing 38 in 2015.</a>
 
 Balls faced: 2
 Bowler: Cummins
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a nasty short ball hammers into the gloves as he fends it away"}]a nasty short ball hammers into the gloves as he fends it away
+a nasty short ball hammers into the gloves as he fends it away
 
 
 Balls faced: 3
 Bowler: Cummins
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nearly cleans him up! Plays over a very full delivery that scoots past off stump"}]nearly cleans him up! Plays over a very full delivery that scoots past off stump
+nearly cleans him up! Plays over a very full delivery that scoots past off stump
 
 
 Balls faced: 4
 Bowler: Cummins
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a sharp bouncer, ducks underneath at the last moment..135kph"}]a sharp bouncer, ducks underneath at the last moment..135kph
-[{"type": "HTML", "html": "From Sampath: David Miller - first to score a century while batting at No.6 or lower in an <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?batting_positionmin1=6;batting_positionval1=batting_position;class=2;filter=advanced;final_type=1;final_type=2;final_type=3;final_type=4;final_type=5;orderby=batted_score;template=results;trophy=12;type=batting;view=innings\">ODI World Cup knockout.</a>"}]From Sampath: David Miller - first to score a century while batting at No.6 or lower in an <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?batting_positionmin1=6;batting_positionval1=batting_position;class=2;filter=advanced;final_type=1;final_type=2;final_type=3;final_type=4;final_type=5;orderby=batted_score;template=results;trophy=12;type=batting;view=innings">ODI World Cup knockout.</a>
+a sharp bouncer, ducks underneath at the last moment..135kph
+From Sampath: David Miller - first to score a century while batting at No.6 or lower in an <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?batting_positionmin1=6;batting_positionval1=batting_position;class=2;filter=advanced;final_type=1;final_type=2;final_type=3;final_type=4;final_type=5;orderby=batted_score;template=results;trophy=12;type=batting;view=innings">ODI World Cup knockout.</a>
 
 Balls faced: 5
 Bowler: Cummins
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a straight full toss, defended"}]a straight full toss, defended
-[{"type": "HTML", "html": "David Miller's century is the 39th of this tournament, the most in an edition of <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;groupby=series;orderby=hundreds;template=results;trophy=12;type=batting\">men's ODI World Cup, surpassing 38 in 2015.</a>"}]David Miller's century is the 39th of this tournament, the most in an edition of <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;groupby=series;orderby=hundreds;template=results;trophy=12;type=batting">men's ODI World Cup, surpassing 38 in 2015.</a>
+a straight full toss, defended
+David Miller's century is the 39th of this tournament, the most in an edition of <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;groupby=series;orderby=hundreds;template=results;trophy=12;type=batting">men's ODI World Cup, surpassing 38 in 2015.</a>
 
 Balls faced: 6
 Bowler: Cummins
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a nasty short ball hammers into the gloves as he fends it away"}]a nasty short ball hammers into the gloves as he fends it away
+a nasty short ball hammers into the gloves as he fends it away
 
 
 Balls faced: 7
 Bowler: Cummins
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nearly cleans him up! Plays over a very full delivery that scoots past off stump"}]nearly cleans him up! Plays over a very full delivery that scoots past off stump
+nearly cleans him up! Plays over a very full delivery that scoots past off stump
 
 
 Balls faced: 8
 Bowler: Cummins
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a sharp bouncer, ducks underneath at the last moment..135kph"}]a sharp bouncer, ducks underneath at the last moment..135kph
-[{"type": "HTML", "html": "From Sampath: David Miller - first to score a century while batting at No.6 or lower in an <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?batting_positionmin1=6;batting_positionval1=batting_position;class=2;filter=advanced;final_type=1;final_type=2;final_type=3;final_type=4;final_type=5;orderby=batted_score;template=results;trophy=12;type=batting;view=innings\">ODI World Cup knockout.</a>"}]From Sampath: David Miller - first to score a century while batting at No.6 or lower in an <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?batting_positionmin1=6;batting_positionval1=batting_position;class=2;filter=advanced;final_type=1;final_type=2;final_type=3;final_type=4;final_type=5;orderby=batted_score;template=results;trophy=12;type=batting;view=innings">ODI World Cup knockout.</a>
+a sharp bouncer, ducks underneath at the last moment..135kph
+From Sampath: David Miller - first to score a century while batting at No.6 or lower in an <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?batting_positionmin1=6;batting_positionval1=batting_position;class=2;filter=advanced;final_type=1;final_type=2;final_type=3;final_type=4;final_type=5;orderby=batted_score;template=results;trophy=12;type=batting;view=innings">ODI World Cup knockout.</a>
 
 Balls faced: 9
 Bowler: Cummins
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "backs away outside leg, manages to play a short ball down by his feet"}]backs away outside leg, manages to play a short ball down by his feet
+backs away outside leg, manages to play a short ball down by his feet
 
 
 
@@ -94,21 +103,23 @@ Match: all_games_1387592_1387599.json
 Balls faced: 1
 Bowler: Kuldeep
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Kuldeep looking to complete a five-for. He has Tabraiz Shamsi in his sights"}]Kuldeep looking to complete a five-for. He has Tabraiz Shamsi in his sights
+Kuldeep looking to complete a five-for. He has Tabraiz Shamsi in his sights
 
-[{"type": "HTML", "html": "bowls a wrong'un, on a length, worked into the leg side for one"}]bowls a wrong'un, on a length, worked into the leg side for one
+bowls a wrong'un, on a length, worked into the leg side for one
 
 
 Balls faced: 2
 Bowler: Kuldeep
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Kuldeep looking to complete a five-for. He has Tabraiz Shamsi in his sights"}]Kuldeep looking to complete a five-for. He has Tabraiz Shamsi in his sights
+Kuldeep looking to complete a five-for. He has Tabraiz Shamsi in his sights
 
-[{"type": "HTML", "html": "bowls a wrong'un, on a length, worked into the leg side for one"}]bowls a wrong'un, on a length, worked into the leg side for one
+bowls a wrong'un, on a length, worked into the leg side for one
 
 
 
@@ -116,178 +127,196 @@ Match: all_games_1387592_1387600.json
 Balls faced: 1
 Bowler: Arshdeep Singh
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>Arshdeep bowls out, finishes with 5-37</b>. This was a short length ball from around the stumps that Shamsi ducked under"}]<B>Arshdeep bowls out, finishes with 5-37</b>. This was a short length ball from around the stumps that Shamsi ducked under
+<B>Arshdeep bowls out, finishes with 5-37</b>. This was a short length ball from around the stumps that Shamsi ducked under
 
 
 Balls faced: 2
 Bowler: Arshdeep Singh
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball on off. Shamsi walks in and looks to play aggressively. Slices it over backward point and deep third has to run around. Shamsi calls for two and gets two"}]full ball on off. Shamsi walks in and looks to play aggressively. Slices it over backward point and deep third has to run around. Shamsi calls for two and gets two
+full ball on off. Shamsi walks in and looks to play aggressively. Slices it over backward point and deep third has to run around. Shamsi calls for two and gets two
 
 
 Balls faced: 3
 Bowler: Arshdeep Singh
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length ball on middle and off. Shamsi lets the ball get to him before guiding one from near his face to deep third"}]short of length ball on middle and off. Shamsi lets the ball get to him before guiding one from near his face to deep third
-[{"type": "HTML", "html": "<B>Stat alert:</b> South Africa's lowest total at home is 118 (also vs India, in Centurion 2018)"}]<B>Stat alert:</b> South Africa's lowest total at home is 118 (also vs India, in Centurion 2018)
+short of length ball on middle and off. Shamsi lets the ball get to him before guiding one from near his face to deep third
+<B>Stat alert:</b> South Africa's lowest total at home is 118 (also vs India, in Centurion 2018)
 
 Balls faced: 4
 Bowler: Arshdeep Singh
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Angling across. Shamsi tries to loft him over mid off. Misses"}]full ball on off. Angling across. Shamsi tries to loft him over mid off. Misses
+full ball on off. Angling across. Shamsi tries to loft him over mid off. Misses
 
 
 Balls faced: 5
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle and leg. Shamsi swings across the line but misses. Rahul collects and appeals for caught-behind. Valiant shout"}]full ball on middle and leg. Shamsi swings across the line but misses. Rahul collects and appeals for caught-behind. Valiant shout
-[{"type": "HTML", "html": "Renjith : \"Tail enders like pace, bring back kuldeep.\""}]Renjith : "Tail enders like pace, bring back kuldeep."
+full ball on middle and leg. Shamsi swings across the line but misses. Rahul collects and appeals for caught-behind. Valiant shout
+Renjith : "Tail enders like pace, bring back kuldeep."
 
 Balls faced: 6
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>boundarrrrrrry!</b> Full ball on off. Shamsi goes for a shot straight back but the edge <B>sends it over first slip instead.</b> Nobody complaining in the crowd"}]<B>boundarrrrrrry!</b> Full ball on off. Shamsi goes for a shot straight back but the edge <B>sends it over first slip instead.</b> Nobody complaining in the crowd
+<B>boundarrrrrrry!</b> Full ball on off. Shamsi goes for a shot straight back but the edge <B>sends it over first slip instead.</b> Nobody complaining in the crowd
 
 
 Balls faced: 7
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around off stump. Tries to repeat that flick over the leg side. This time he misses"}]full ball around off stump. Tries to repeat that flick over the leg side. This time he misses
+full ball around off stump. Tries to repeat that flick over the leg side. This time he misses
 
 Wide: 1
 Balls faced: 8
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "entertainment for the fans! Full on off and the No. 11 uses his wrists to clip this over backward square leg!"}]entertainment for the fans! Full on off and the No. 11 uses his wrists to clip this over backward square leg!
+entertainment for the fans! Full on off and the No. 11 uses his wrists to clip this over backward square leg!
 
 
 Balls faced: 9
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball on off. Shamsi tried to smack it over mid on but misses it altogether. He's very lucky the off stump is still standing up"}]fullish ball on off. Shamsi tried to smack it over mid on but misses it altogether. He's very lucky the off stump is still standing up
+fullish ball on off. Shamsi tried to smack it over mid on but misses it altogether. He's very lucky the off stump is still standing up
 
 
 Balls faced: 10
 Bowler: Arshdeep Singh
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>Arshdeep bowls out, finishes with 5-37</b>. This was a short length ball from around the stumps that Shamsi ducked under"}]<B>Arshdeep bowls out, finishes with 5-37</b>. This was a short length ball from around the stumps that Shamsi ducked under
+<B>Arshdeep bowls out, finishes with 5-37</b>. This was a short length ball from around the stumps that Shamsi ducked under
 
 
 Balls faced: 11
 Bowler: Arshdeep Singh
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball on off. Shamsi walks in and looks to play aggressively. Slices it over backward point and deep third has to run around. Shamsi calls for two and gets two"}]full ball on off. Shamsi walks in and looks to play aggressively. Slices it over backward point and deep third has to run around. Shamsi calls for two and gets two
+full ball on off. Shamsi walks in and looks to play aggressively. Slices it over backward point and deep third has to run around. Shamsi calls for two and gets two
 
 
 Balls faced: 12
 Bowler: Arshdeep Singh
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length ball on middle and off. Shamsi lets the ball get to him before guiding one from near his face to deep third"}]short of length ball on middle and off. Shamsi lets the ball get to him before guiding one from near his face to deep third
-[{"type": "HTML", "html": "<B>Stat alert:</b> South Africa's lowest total at home is 118 (also vs India, in Centurion 2018)"}]<B>Stat alert:</b> South Africa's lowest total at home is 118 (also vs India, in Centurion 2018)
+short of length ball on middle and off. Shamsi lets the ball get to him before guiding one from near his face to deep third
+<B>Stat alert:</b> South Africa's lowest total at home is 118 (also vs India, in Centurion 2018)
 
 Balls faced: 13
 Bowler: Arshdeep Singh
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Angling across. Shamsi tries to loft him over mid off. Misses"}]full ball on off. Angling across. Shamsi tries to loft him over mid off. Misses
+full ball on off. Angling across. Shamsi tries to loft him over mid off. Misses
 
 
 Balls faced: 14
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle and leg. Shamsi swings across the line but misses. Rahul collects and appeals for caught-behind. Valiant shout"}]full ball on middle and leg. Shamsi swings across the line but misses. Rahul collects and appeals for caught-behind. Valiant shout
-[{"type": "HTML", "html": "Renjith : \"Tail enders like pace, bring back kuldeep.\""}]Renjith : "Tail enders like pace, bring back kuldeep."
+full ball on middle and leg. Shamsi swings across the line but misses. Rahul collects and appeals for caught-behind. Valiant shout
+Renjith : "Tail enders like pace, bring back kuldeep."
 
 Balls faced: 15
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>boundarrrrrrry!</b> Full ball on off. Shamsi goes for a shot straight back but the edge <B>sends it over first slip instead.</b> Nobody complaining in the crowd"}]<B>boundarrrrrrry!</b> Full ball on off. Shamsi goes for a shot straight back but the edge <B>sends it over first slip instead.</b> Nobody complaining in the crowd
+<B>boundarrrrrrry!</b> Full ball on off. Shamsi goes for a shot straight back but the edge <B>sends it over first slip instead.</b> Nobody complaining in the crowd
 
 
 Balls faced: 16
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around off stump. Tries to repeat that flick over the leg side. This time he misses"}]full ball around off stump. Tries to repeat that flick over the leg side. This time he misses
+full ball around off stump. Tries to repeat that flick over the leg side. This time he misses
 
 Wide: 1
 Balls faced: 17
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "entertainment for the fans! Full on off and the No. 11 uses his wrists to clip this over backward square leg!"}]entertainment for the fans! Full on off and the No. 11 uses his wrists to clip this over backward square leg!
+entertainment for the fans! Full on off and the No. 11 uses his wrists to clip this over backward square leg!
 
 
 Balls faced: 18
 Bowler: Avesh Khan
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball on off. Shamsi tried to smack it over mid on but misses it altogether. He's very lucky the off stump is still standing up"}]fullish ball on off. Shamsi tried to smack it over mid on but misses it altogether. He's very lucky the off stump is still standing up
+fullish ball on off. Shamsi tried to smack it over mid on but misses it altogether. He's very lucky the off stump is still standing up

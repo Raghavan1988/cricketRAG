@@ -2,86 +2,95 @@ Match: all_games_1367856_1384433.json
 Balls faced: 1
 Bowler: Ngidi
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short outside off. Rashid gets onto the back foot and cuts it straight to backward point"}]short outside off. Rashid gets onto the back foot and cuts it straight to backward point
+short outside off. Rashid gets onto the back foot and cuts it straight to backward point
 
 
 Balls faced: 2
 Bowler: Ngidi
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Rashid joins Omarzai"}]Rashid joins Omarzai
+Rashid joins Omarzai
 
-[{"type": "HTML", "html": "full and wide outside off. Rashid laces his cover drive but cannot get it past the fielder at short extra cover"}]full and wide outside off. Rashid laces his cover drive but cannot get it past the fielder at short extra cover
+full and wide outside off. Rashid laces his cover drive but cannot get it past the fielder at short extra cover
 
 
 Balls faced: 3
 Bowler: Coetzee
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Venkat: \"Some 10 overs back, I made a prediction that AFG will be bowled for a score less than 200. But not published.\" -- Better late than never..."}]Venkat: "Some 10 overs back, I made a prediction that AFG will be bowled for a score less than 200. But not published." -- Better late than never...
+Venkat: "Some 10 overs back, I made a prediction that AFG will be bowled for a score less than 200. But not published." -- Better late than never...
 
-[{"type": "HTML", "html": "length on off stump. Rashid presses half forward and defends"}]length on off stump. Rashid presses half forward and defends
-[{"type": "HTML", "html": "And that will be <strong>drinks.</strong> South Africa well in control and Afghanistan will need these two to stitch together a substantial partnership to get back in the game. Can they do it? Can they get past the 200-run mark? Here is Sreshth again"}]And that will be <strong>drinks.</strong> South Africa well in control and Afghanistan will need these two to stitch together a substantial partnership to get back in the game. Can they do it? Can they get past the 200-run mark? Here is Sreshth again
+length on off stump. Rashid presses half forward and defends
+And that will be <strong>drinks.</strong> South Africa well in control and Afghanistan will need these two to stitch together a substantial partnership to get back in the game. Can they do it? Can they get past the 200-run mark? Here is Sreshth again
 
 Balls faced: 4
 Bowler: Coetzee
 Over: 29
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short delivery that slides well down the leg side. Coetzee will have to reload that one"}]short delivery that slides well down the leg side. Coetzee will have to reload that one
+short delivery that slides well down the leg side. Coetzee will have to reload that one
 
 Wide: 1
 Balls faced: 5
 Bowler: Coetzee
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Rashid waits in his crease and dabs it down to third man to get off the mark"}]back of a length just outside off. Rashid waits in his crease and dabs it down to third man to get off the mark
+back of a length just outside off. Rashid waits in his crease and dabs it down to third man to get off the mark
 
 
 Balls faced: 6
 Bowler: Ngidi
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short outside off. Rashid gets onto the back foot and cuts it straight to backward point"}]short outside off. Rashid gets onto the back foot and cuts it straight to backward point
+short outside off. Rashid gets onto the back foot and cuts it straight to backward point
 
 
 Balls faced: 7
 Bowler: Ngidi
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Rashid joins Omarzai"}]Rashid joins Omarzai
+Rashid joins Omarzai
 
-[{"type": "HTML", "html": "full and wide outside off. Rashid laces his cover drive but cannot get it past the fielder at short extra cover"}]full and wide outside off. Rashid laces his cover drive but cannot get it past the fielder at short extra cover
+full and wide outside off. Rashid laces his cover drive but cannot get it past the fielder at short extra cover
 
 
 Balls faced: 8
 Bowler: Ngidi
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball aimed at the stumps. Worked to square leg"}]length ball aimed at the stumps. Worked to square leg
+length ball aimed at the stumps. Worked to square leg
 
 
 Balls faced: 9
 Bowler: Ngidi
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -92,66 +101,73 @@ Run scored: 0
 Balls faced: 10
 Bowler: Coetzee
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Venkat: \"Some 10 overs back, I made a prediction that AFG will be bowled for a score less than 200. But not published.\" -- Better late than never..."}]Venkat: "Some 10 overs back, I made a prediction that AFG will be bowled for a score less than 200. But not published." -- Better late than never...
+Venkat: "Some 10 overs back, I made a prediction that AFG will be bowled for a score less than 200. But not published." -- Better late than never...
 
-[{"type": "HTML", "html": "length on off stump. Rashid presses half forward and defends"}]length on off stump. Rashid presses half forward and defends
-[{"type": "HTML", "html": "And that will be <strong>drinks.</strong> South Africa well in control and Afghanistan will need these two to stitch together a substantial partnership to get back in the game. Can they do it? Can they get past the 200-run mark? Here is Sreshth again"}]And that will be <strong>drinks.</strong> South Africa well in control and Afghanistan will need these two to stitch together a substantial partnership to get back in the game. Can they do it? Can they get past the 200-run mark? Here is Sreshth again
+length on off stump. Rashid presses half forward and defends
+And that will be <strong>drinks.</strong> South Africa well in control and Afghanistan will need these two to stitch together a substantial partnership to get back in the game. Can they do it? Can they get past the 200-run mark? Here is Sreshth again
 
 Balls faced: 11
 Bowler: Coetzee
 Over: 29
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short delivery that slides well down the leg side. Coetzee will have to reload that one"}]short delivery that slides well down the leg side. Coetzee will have to reload that one
+short delivery that slides well down the leg side. Coetzee will have to reload that one
 
 Wide: 1
 Balls faced: 12
 Bowler: Coetzee
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Rashid waits in his crease and dabs it down to third man to get off the mark"}]back of a length just outside off. Rashid waits in his crease and dabs it down to third man to get off the mark
+back of a length just outside off. Rashid waits in his crease and dabs it down to third man to get off the mark
 
 
 Balls faced: 13
 Bowler: Coetzee
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball gently dabbed to deep third"}]length ball gently dabbed to deep third
+length ball gently dabbed to deep third
 
 
 Balls faced: 14
 Bowler: Coetzee
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on a fourth stump line. Guided to deep third"}]back of a length on a fourth stump line. Guided to deep third
+back of a length on a fourth stump line. Guided to deep third
 
 
 Balls faced: 15
 Bowler: Ngidi
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball aimed at the stumps. Worked to square leg"}]length ball aimed at the stumps. Worked to square leg
+length ball aimed at the stumps. Worked to square leg
 
 
 Balls faced: 16
 Bowler: Ngidi
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -162,461 +178,511 @@ Run scored: 0
 Balls faced: 17
 Bowler: Coetzee
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball gently dabbed to deep third"}]length ball gently dabbed to deep third
+length ball gently dabbed to deep third
 
 
 Balls faced: 18
 Bowler: Coetzee
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on a fourth stump line. Guided to deep third"}]back of a length on a fourth stump line. Guided to deep third
+back of a length on a fourth stump line. Guided to deep third
 
 
 Balls faced: 19
 Bowler: Maharaj
 Over: 33
+Pitch Line: DOWN_LEG Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up, lands outside leg. Caressed to long off"}]tossed up, lands outside leg. Caressed to long off
+tossed up, lands outside leg. Caressed to long off
 
 
 Balls faced: 20
 Bowler: Maharaj
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full around off. Defends"}]full around off. Defends
+full around off. Defends
 
 
 Balls faced: 21
 Bowler: Maharaj
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "length ball sliding in. Flicked to deep backward square leg"}]length ball sliding in. Flicked to deep backward square leg
+length ball sliding in. Flicked to deep backward square leg
 
 
 Balls faced: 22
 Bowler: Maharaj
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on leg. Defended to the on side"}]full on leg. Defended to the on side
+full on leg. Defended to the on side
 
 
 Balls faced: 23
 Bowler: Maharaj
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off. Defended off the back foot"}]length ball on off. Defended off the back foot
+length ball on off. Defended off the back foot
 
 
 Balls faced: 24
 Bowler: Rabada
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling in. Clipped off his waist to deep square leg"}]length ball angling in. Clipped off his waist to deep square leg
+length ball angling in. Clipped off his waist to deep square leg
 
 
 Balls faced: 25
 Bowler: Rabada
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full around leg. Rashid attempts a flick, misses, and they go up for lbw. Turned down but <strong>Rabada has convinced Bavuma to review. </strong>. No edge... and tracker is missing leg."}]full around leg. Rashid attempts a flick, misses, and they go up for lbw. Turned down but <strong>Rabada has convinced Bavuma to review. </strong>. No edge... and tracker is missing leg.
+full around leg. Rashid attempts a flick, misses, and they go up for lbw. Turned down but <strong>Rabada has convinced Bavuma to review. </strong>. No edge... and tracker is missing leg.
 
 
 Balls faced: 26
 Bowler: Rabada
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball flayed off the back foot to deep point"}]good length ball flayed off the back foot to deep point
+good length ball flayed off the back foot to deep point
 
 
 Balls faced: 27
 Bowler: Rabada
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "partnership of 30*"}]partnership of 30*
+partnership of 30*
 
-[{"type": "HTML", "html": "tried to drive but can't time as desired. Rashid looks disappointed"}]tried to drive but can't time as desired. Rashid looks disappointed
+tried to drive but can't time as desired. Rashid looks disappointed
 
 
 Balls faced: 28
 Bowler: Maharaj
 Over: 33
+Pitch Line: DOWN_LEG Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up, lands outside leg. Caressed to long off"}]tossed up, lands outside leg. Caressed to long off
+tossed up, lands outside leg. Caressed to long off
 
 
 Balls faced: 29
 Bowler: Maharaj
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full around off. Defends"}]full around off. Defends
+full around off. Defends
 
 
 Balls faced: 30
 Bowler: Maharaj
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "length ball sliding in. Flicked to deep backward square leg"}]length ball sliding in. Flicked to deep backward square leg
+length ball sliding in. Flicked to deep backward square leg
 
 
 Balls faced: 31
 Bowler: Maharaj
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on leg. Defended to the on side"}]full on leg. Defended to the on side
+full on leg. Defended to the on side
 
 
 Balls faced: 32
 Bowler: Maharaj
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off. Defended off the back foot"}]length ball on off. Defended off the back foot
+length ball on off. Defended off the back foot
 
 
 Balls faced: 33
 Bowler: Maharaj
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg. Clears the front leg and punches to long on"}]full on leg. Clears the front leg and punches to long on
+full on leg. Clears the front leg and punches to long on
 
 
 Balls faced: 34
 Bowler: Maharaj
 Over: 35
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on leg. Swept with intent but stopped at short fine leg"}]full on leg. Swept with intent but stopped at short fine leg
+full on leg. Swept with intent but stopped at short fine leg
 
 
 Balls faced: 35
 Bowler: Maharaj
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle. Big stride forward and blocked"}]full on middle. Big stride forward and blocked
+full on middle. Big stride forward and blocked
 
 
 Balls faced: 36
 Bowler: Rabada
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling in. Clipped off his waist to deep square leg"}]length ball angling in. Clipped off his waist to deep square leg
+length ball angling in. Clipped off his waist to deep square leg
 
 
 Balls faced: 37
 Bowler: Rabada
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full around leg. Rashid attempts a flick, misses, and they go up for lbw. Turned down but <strong>Rabada has convinced Bavuma to review. </strong>. No edge... and tracker is missing leg."}]full around leg. Rashid attempts a flick, misses, and they go up for lbw. Turned down but <strong>Rabada has convinced Bavuma to review. </strong>. No edge... and tracker is missing leg.
+full around leg. Rashid attempts a flick, misses, and they go up for lbw. Turned down but <strong>Rabada has convinced Bavuma to review. </strong>. No edge... and tracker is missing leg.
 
 
 Balls faced: 38
 Bowler: Rabada
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball flayed off the back foot to deep point"}]good length ball flayed off the back foot to deep point
+good length ball flayed off the back foot to deep point
 
 
 Balls faced: 39
 Bowler: Rabada
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "partnership of 30*"}]partnership of 30*
+partnership of 30*
 
-[{"type": "HTML", "html": "tried to drive but can't time as desired. Rashid looks disappointed"}]tried to drive but can't time as desired. Rashid looks disappointed
+tried to drive but can't time as desired. Rashid looks disappointed
 
 
 Balls faced: 40
 Bowler: Phehlukwayo
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball gently dabbed to cover for a very quick single"}]length ball gently dabbed to cover for a very quick single
+length ball gently dabbed to cover for a very quick single
 
 
 Balls faced: 41
 Bowler: Phehlukwayo
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pace off. Length ball outside off. Cut square"}]pace off. Length ball outside off. Cut square
+pace off. Length ball outside off. Cut square
 
 
 Balls faced: 42
 Bowler: Phehlukwayo
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "blocked to the off side"}]blocked to the off side
+blocked to the off side
 
 
 Balls faced: 43
 Bowler: Phehlukwayo
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball outside off and cut to point"}]length ball outside off and cut to point
+length ball outside off and cut to point
 
 
 Balls faced: 44
 Bowler: Maharaj
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg. Clears the front leg and punches to long on"}]full on leg. Clears the front leg and punches to long on
+full on leg. Clears the front leg and punches to long on
 
 
 Balls faced: 45
 Bowler: Maharaj
 Over: 35
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on leg. Swept with intent but stopped at short fine leg"}]full on leg. Swept with intent but stopped at short fine leg
+full on leg. Swept with intent but stopped at short fine leg
 
 
 Balls faced: 46
 Bowler: Maharaj
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle. Big stride forward and blocked"}]full on middle. Big stride forward and blocked
+full on middle. Big stride forward and blocked
 
 
 Balls faced: 47
 Bowler: Maharaj
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle. Attempts the sweep. Nicked onto his body"}]full on middle. Attempts the sweep. Nicked onto his body
-[{"type": "HTML", "html": "Rakesh Prattipa: \"Azmatullah , Rachin , Madhushanka. The finds of the tournament. \""}]Rakesh Prattipa: "Azmatullah , Rachin , Madhushanka. The finds of the tournament. "
+full on middle. Attempts the sweep. Nicked onto his body
+Rakesh Prattipa: "Azmatullah , Rachin , Madhushanka. The finds of the tournament. "
 
 Balls faced: 48
 Bowler: Maharaj
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around off. Turning away. Driven to cover"}]full ball around off. Turning away. Driven to cover
+full ball around off. Turning away. Driven to cover
 
 
 Balls faced: 49
 Bowler: Maharaj
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, clipped to short fine leg"}]full on middle, clipped to short fine leg
+full on middle, clipped to short fine leg
 
 
 Balls faced: 50
 Bowler: Maharaj
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball sliding in. Makes room and cuts to the deep"}]length ball sliding in. Makes room and cuts to the deep
+length ball sliding in. Makes room and cuts to the deep
 
 
 Balls faced: 51
 Bowler: Phehlukwayo
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball gently dabbed to cover for a very quick single"}]length ball gently dabbed to cover for a very quick single
+length ball gently dabbed to cover for a very quick single
 
 
 Balls faced: 52
 Bowler: Phehlukwayo
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pace off. Length ball outside off. Cut square"}]pace off. Length ball outside off. Cut square
+pace off. Length ball outside off. Cut square
 
 
 Balls faced: 53
 Bowler: Phehlukwayo
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "blocked to the off side"}]blocked to the off side
+blocked to the off side
 
 
 Balls faced: 54
 Bowler: Phehlukwayo
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball outside off and cut to point"}]length ball outside off and cut to point
+length ball outside off and cut to point
 
 
 Balls faced: 55
 Bowler: Phehlukwayo
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "short ball rising up. Doesn't stop Rashid from pulling, but this has taken an edge to de Kock. That's his fifth catch!"}]short ball rising up. Doesn't stop Rashid from pulling, but this has taken an edge to de Kock. That's his fifth catch!
+Rashid Khan is OUT! caught
+c †de Kock b Phehlukwayo
+Rashid Khan c †de Kock b Phehlukwayo 14 (30b 0x4 0x6 42m) SR: 46.66
+short ball rising up. Doesn't stop Rashid from pulling, but this has taken an edge to de Kock. That's his fifth catch!
 
 
 Balls faced: 56
 Bowler: Phehlukwayo
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off and driven to mid off. Rashid running to the danger end calls for the single. Aware Bavuma is slow so takes him on"}]full on off and driven to mid off. Rashid running to the danger end calls for the single. Aware Bavuma is slow so takes him on
+full on off and driven to mid off. Rashid running to the danger end calls for the single. Aware Bavuma is slow so takes him on
 
 
 Balls faced: 57
 Bowler: Maharaj
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle. Attempts the sweep. Nicked onto his body"}]full on middle. Attempts the sweep. Nicked onto his body
-[{"type": "HTML", "html": "Rakesh Prattipa: \"Azmatullah , Rachin , Madhushanka. The finds of the tournament. \""}]Rakesh Prattipa: "Azmatullah , Rachin , Madhushanka. The finds of the tournament. "
+full on middle. Attempts the sweep. Nicked onto his body
+Rakesh Prattipa: "Azmatullah , Rachin , Madhushanka. The finds of the tournament. "
 
 Balls faced: 58
 Bowler: Maharaj
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around off. Turning away. Driven to cover"}]full ball around off. Turning away. Driven to cover
+full ball around off. Turning away. Driven to cover
 
 
 Balls faced: 59
 Bowler: Maharaj
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, clipped to short fine leg"}]full on middle, clipped to short fine leg
+full on middle, clipped to short fine leg
 
 
 Balls faced: 60
 Bowler: Maharaj
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball sliding in. Makes room and cuts to the deep"}]length ball sliding in. Makes room and cuts to the deep
+length ball sliding in. Makes room and cuts to the deep
 
 
 Balls faced: 61
 Bowler: Phehlukwayo
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "short ball rising up. Doesn't stop Rashid from pulling, but this has taken an edge to de Kock. That's his fifth catch!"}]short ball rising up. Doesn't stop Rashid from pulling, but this has taken an edge to de Kock. That's his fifth catch!
+Rashid Khan is OUT! caught
+c †de Kock b Phehlukwayo
+Rashid Khan c †de Kock b Phehlukwayo 14 (30b 0x4 0x6 42m) SR: 46.66
+short ball rising up. Doesn't stop Rashid from pulling, but this has taken an edge to de Kock. That's his fifth catch!
 
 
 Balls faced: 62
 Bowler: Phehlukwayo
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off and driven to mid off. Rashid running to the danger end calls for the single. Aware Bavuma is slow so takes him on"}]full on off and driven to mid off. Rashid running to the danger end calls for the single. Aware Bavuma is slow so takes him on
+full on off and driven to mid off. Rashid running to the danger end calls for the single. Aware Bavuma is slow so takes him on
 
 
 
@@ -624,123 +690,139 @@ Match: all_games_1411166_1415705.json
 Balls faced: 1
 Bowler: Kyewuta
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
-[{"type": "HTML", "html": "Captain Rashid out to face the last ball. Can he finish with a flourish?"}]Captain Rashid out to face the last ball. Can he finish with a flourish?
+Captain Rashid out to face the last ball. Can he finish with a flourish?
 
-[{"type": "HTML", "html": "short and wide outside off. Rashid reaches out for it and cuts it towards deep cover point. A brace to end the innings"}]short and wide outside off. Rashid reaches out for it and cuts it towards deep cover point. A brace to end the innings
-[{"type": "HTML", "html": "Sowmya : \"An amazing come back from Uganda. At one point it seemed 224-240 was easily possible \""}, {"type": "HTML", "html": "<strong>10:11pm</strong> An innings of two halves really. In the first half, Afghanistan were rollicking along, with Gurbaz and Ibrahim putting the Ugandan bowlers to the sword. Both of them registered fifties and put together the second-highest opening stand ever in T20 World Cup cricket. Both, though, fell close to each other and that triggered a significant slow-down. Only 27 runs came off the last five overs and they failed to hit a boundary in the last six (scoring 31 and losing five wickets), which means they have ended up well short of what seemed certain at one point."}, {"type": "HTML", "html": "Lots of credit for the slow-down has to be given to Uganda too. Post the drinks break, they recalibrated their plans, bowling tighter to the stumps and not giving the batters any width. Masaba led that turnaround and was the pick of the bowling bunch, bagging a couple of wickets along the way. Kyewuta also popped up with two scalps, with Ramjani removing Gurbaz."}, {"type": "HTML", "html": "This may still be a tall order for Uganda, given Afghanistan's bowling might. But they are definitely chasing a much lower total than it seemed at the 14-over mark. Join us in a bit for the run-chase!"}, {"type": "HTML", "html": "<b>Ibrahim Zadran:</b> (On his form in the last few months) I am trying to keep it very simple. I don't try to think a lot. I am working hard, I want to be a great cricketer and want to enjoy my cricket. (On if the six was his favourite shot tonight) I think so, I middled it and I enjoyed that shot a lot. (On partnership with Gurbaz) If you look at our partnership, we have been playing together (for a long time). We have good communication and we know each other's game, and try to keep it simple. Me and Gurbaz were discussing to not go from the first ball. Check what the bowlers are doing and what ends they are bowling from."}]Sowmya : "An amazing come back from Uganda. At one point it seemed 224-240 was easily possible " <strong>10:11pm</strong> An innings of two halves really. In the first half, Afghanistan were rollicking along, with Gurbaz and Ibrahim putting the Ugandan bowlers to the sword. Both of them registered fifties and put together the second-highest opening stand ever in T20 World Cup cricket. Both, though, fell close to each other and that triggered a significant slow-down. Only 27 runs came off the last five overs and they failed to hit a boundary in the last six (scoring 31 and losing five wickets), which means they have ended up well short of what seemed certain at one point. Lots of credit for the slow-down has to be given to Uganda too. Post the drinks break, they recalibrated their plans, bowling tighter to the stumps and not giving the batters any width. Masaba led that turnaround and was the pick of the bowling bunch, bagging a couple of wickets along the way. Kyewuta also popped up with two scalps, with Ramjani removing Gurbaz. This may still be a tall order for Uganda, given Afghanistan's bowling might. But they are definitely chasing a much lower total than it seemed at the 14-over mark. Join us in a bit for the run-chase! <b>Ibrahim Zadran:</b> (On his form in the last few months) I am trying to keep it very simple. I don't try to think a lot. I am working hard, I want to be a great cricketer and want to enjoy my cricket. (On if the six was his favourite shot tonight) I think so, I middled it and I enjoyed that shot a lot. (On partnership with Gurbaz) If you look at our partnership, we have been playing together (for a long time). We have good communication and we know each other's game, and try to keep it simple. Me and Gurbaz were discussing to not go from the first ball. Check what the bowlers are doing and what ends they are bowling from.
+short and wide outside off. Rashid reaches out for it and cuts it towards deep cover point. A brace to end the innings
+Sowmya : "An amazing come back from Uganda. At one point it seemed 224-240 was easily possible " <strong>10:11pm</strong> An innings of two halves really. In the first half, Afghanistan were rollicking along, with Gurbaz and Ibrahim putting the Ugandan bowlers to the sword. Both of them registered fifties and put together the second-highest opening stand ever in T20 World Cup cricket. Both, though, fell close to each other and that triggered a significant slow-down. Only 27 runs came off the last five overs and they failed to hit a boundary in the last six (scoring 31 and losing five wickets), which means they have ended up well short of what seemed certain at one point. Lots of credit for the slow-down has to be given to Uganda too. Post the drinks break, they recalibrated their plans, bowling tighter to the stumps and not giving the batters any width. Masaba led that turnaround and was the pick of the bowling bunch, bagging a couple of wickets along the way. Kyewuta also popped up with two scalps, with Ramjani removing Gurbaz. This may still be a tall order for Uganda, given Afghanistan's bowling might. But they are definitely chasing a much lower total than it seemed at the 14-over mark. Join us in a bit for the run-chase! <b>Ibrahim Zadran:</b> (On his form in the last few months) I am trying to keep it very simple. I don't try to think a lot. I am working hard, I want to be a great cricketer and want to enjoy my cricket. (On if the six was his favourite shot tonight) I think so, I middled it and I enjoyed that shot a lot. (On partnership with Gurbaz) If you look at our partnership, we have been playing together (for a long time). We have good communication and we know each other's game, and try to keep it simple. Me and Gurbaz were discussing to not go from the first ball. Check what the bowlers are doing and what ends they are bowling from.
 
 Balls faced: 2
 Bowler: Kyewuta
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
-[{"type": "HTML", "html": "Captain Rashid out to face the last ball. Can he finish with a flourish?"}]Captain Rashid out to face the last ball. Can he finish with a flourish?
+Captain Rashid out to face the last ball. Can he finish with a flourish?
 
-[{"type": "HTML", "html": "short and wide outside off. Rashid reaches out for it and cuts it towards deep cover point. A brace to end the innings"}]short and wide outside off. Rashid reaches out for it and cuts it towards deep cover point. A brace to end the innings
-[{"type": "HTML", "html": "Sowmya : \"An amazing come back from Uganda. At one point it seemed 224-240 was easily possible \""}, {"type": "HTML", "html": "<strong>10:11pm</strong> An innings of two halves really. In the first half, Afghanistan were rollicking along, with Gurbaz and Ibrahim putting the Ugandan bowlers to the sword. Both of them registered fifties and put together the second-highest opening stand ever in T20 World Cup cricket. Both, though, fell close to each other and that triggered a significant slow-down. Only 27 runs came off the last five overs and they failed to hit a boundary in the last six (scoring 31 and losing five wickets), which means they have ended up well short of what seemed certain at one point."}, {"type": "HTML", "html": "Lots of credit for the slow-down has to be given to Uganda too. Post the drinks break, they recalibrated their plans, bowling tighter to the stumps and not giving the batters any width. Masaba led that turnaround and was the pick of the bowling bunch, bagging a couple of wickets along the way. Kyewuta also popped up with two scalps, with Ramjani removing Gurbaz."}, {"type": "HTML", "html": "This may still be a tall order for Uganda, given Afghanistan's bowling might. But they are definitely chasing a much lower total than it seemed at the 14-over mark. Join us in a bit for the run-chase!"}, {"type": "HTML", "html": "<b>Ibrahim Zadran:</b> (On his form in the last few months) I am trying to keep it very simple. I don't try to think a lot. I am working hard, I want to be a great cricketer and want to enjoy my cricket. (On if the six was his favourite shot tonight) I think so, I middled it and I enjoyed that shot a lot. (On partnership with Gurbaz) If you look at our partnership, we have been playing together (for a long time). We have good communication and we know each other's game, and try to keep it simple. Me and Gurbaz were discussing to not go from the first ball. Check what the bowlers are doing and what ends they are bowling from."}]Sowmya : "An amazing come back from Uganda. At one point it seemed 224-240 was easily possible " <strong>10:11pm</strong> An innings of two halves really. In the first half, Afghanistan were rollicking along, with Gurbaz and Ibrahim putting the Ugandan bowlers to the sword. Both of them registered fifties and put together the second-highest opening stand ever in T20 World Cup cricket. Both, though, fell close to each other and that triggered a significant slow-down. Only 27 runs came off the last five overs and they failed to hit a boundary in the last six (scoring 31 and losing five wickets), which means they have ended up well short of what seemed certain at one point. Lots of credit for the slow-down has to be given to Uganda too. Post the drinks break, they recalibrated their plans, bowling tighter to the stumps and not giving the batters any width. Masaba led that turnaround and was the pick of the bowling bunch, bagging a couple of wickets along the way. Kyewuta also popped up with two scalps, with Ramjani removing Gurbaz. This may still be a tall order for Uganda, given Afghanistan's bowling might. But they are definitely chasing a much lower total than it seemed at the 14-over mark. Join us in a bit for the run-chase! <b>Ibrahim Zadran:</b> (On his form in the last few months) I am trying to keep it very simple. I don't try to think a lot. I am working hard, I want to be a great cricketer and want to enjoy my cricket. (On if the six was his favourite shot tonight) I think so, I middled it and I enjoyed that shot a lot. (On partnership with Gurbaz) If you look at our partnership, we have been playing together (for a long time). We have good communication and we know each other's game, and try to keep it simple. Me and Gurbaz were discussing to not go from the first ball. Check what the bowlers are doing and what ends they are bowling from.
+short and wide outside off. Rashid reaches out for it and cuts it towards deep cover point. A brace to end the innings
+Sowmya : "An amazing come back from Uganda. At one point it seemed 224-240 was easily possible " <strong>10:11pm</strong> An innings of two halves really. In the first half, Afghanistan were rollicking along, with Gurbaz and Ibrahim putting the Ugandan bowlers to the sword. Both of them registered fifties and put together the second-highest opening stand ever in T20 World Cup cricket. Both, though, fell close to each other and that triggered a significant slow-down. Only 27 runs came off the last five overs and they failed to hit a boundary in the last six (scoring 31 and losing five wickets), which means they have ended up well short of what seemed certain at one point. Lots of credit for the slow-down has to be given to Uganda too. Post the drinks break, they recalibrated their plans, bowling tighter to the stumps and not giving the batters any width. Masaba led that turnaround and was the pick of the bowling bunch, bagging a couple of wickets along the way. Kyewuta also popped up with two scalps, with Ramjani removing Gurbaz. This may still be a tall order for Uganda, given Afghanistan's bowling might. But they are definitely chasing a much lower total than it seemed at the 14-over mark. Join us in a bit for the run-chase! <b>Ibrahim Zadran:</b> (On his form in the last few months) I am trying to keep it very simple. I don't try to think a lot. I am working hard, I want to be a great cricketer and want to enjoy my cricket. (On if the six was his favourite shot tonight) I think so, I middled it and I enjoyed that shot a lot. (On partnership with Gurbaz) If you look at our partnership, we have been playing together (for a long time). We have good communication and we know each other's game, and try to keep it simple. Me and Gurbaz were discussing to not go from the first ball. Check what the bowlers are doing and what ends they are bowling from.
 
 
 Match: all_games_1411166_1415714.json
 Balls faced: 1
 Bowler: Ferguson
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide outside off. Rashid has another swish at it but is just a little late on the stroke this time. A fresh-air shot"}]short and wide outside off. Rashid has another swish at it but is just a little late on the stroke this time. A fresh-air shot
+short and wide outside off. Rashid has another swish at it but is just a little late on the stroke this time. A fresh-air shot
 
 
 Balls faced: 2
 Bowler: Ferguson
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "A batting promotion for skipper Rashid Khan"}]A batting promotion for skipper Rashid Khan
+A batting promotion for skipper Rashid Khan
 
-[{"type": "HTML", "html": "<strong>flies away for four!</strong> Sharp shortish delivery outside off. Rashid throws the kitchen sink at it and slashes it away fine past the keeper!"}]<strong>flies away for four!</strong> Sharp shortish delivery outside off. Rashid throws the kitchen sink at it and slashes it away fine past the keeper!
+<strong>flies away for four!</strong> Sharp shortish delivery outside off. Rashid throws the kitchen sink at it and slashes it away fine past the keeper!
 
 
 Balls faced: 3
 Bowler: Mitchell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower full delivery outside off. Rashid, because of how slow it is, cannot get the timing he is after and shanks it to long on"}]slower full delivery outside off. Rashid, because of how slow it is, cannot get the timing he is after and shanks it to long on
+slower full delivery outside off. Rashid, because of how slow it is, cannot get the timing he is after and shanks it to long on
 
 
 Balls faced: 4
 Bowler: Mitchell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another off-pace delivery into the track on middle and leg. Rashid waits an eternity for it before swiping it off the top edge into his helmet"}]another off-pace delivery into the track on middle and leg. Rashid waits an eternity for it before swiping it off the top edge into his helmet
-[{"type": "HTML", "html": "Rashid looks fine as the physio comes out and performs the mandatory concussion test"}]Rashid looks fine as the physio comes out and performs the mandatory concussion test
+another off-pace delivery into the track on middle and leg. Rashid waits an eternity for it before swiping it off the top edge into his helmet
+Rashid looks fine as the physio comes out and performs the mandatory concussion test
 
 Balls faced: 5
 Bowler: Ferguson
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide outside off. Rashid has another swish at it but is just a little late on the stroke this time. A fresh-air shot"}]short and wide outside off. Rashid has another swish at it but is just a little late on the stroke this time. A fresh-air shot
+short and wide outside off. Rashid has another swish at it but is just a little late on the stroke this time. A fresh-air shot
 
 
 Balls faced: 6
 Bowler: Ferguson
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "A batting promotion for skipper Rashid Khan"}]A batting promotion for skipper Rashid Khan
+A batting promotion for skipper Rashid Khan
 
-[{"type": "HTML", "html": "<strong>flies away for four!</strong> Sharp shortish delivery outside off. Rashid throws the kitchen sink at it and slashes it away fine past the keeper!"}]<strong>flies away for four!</strong> Sharp shortish delivery outside off. Rashid throws the kitchen sink at it and slashes it away fine past the keeper!
+<strong>flies away for four!</strong> Sharp shortish delivery outside off. Rashid throws the kitchen sink at it and slashes it away fine past the keeper!
 
 
 Balls faced: 7
 Bowler: Boult
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Boult to bowl the final over. How many can Afghanistan get? Can Boult keep them down to under 165? Over the wicket"}]Boult to bowl the final over. How many can Afghanistan get? Can Boult keep them down to under 165? Over the wicket
-
-[{"type": "HTML", "html": "<strong>Rashid sacrifices his wicket!</strong> Nails the yorker outside off first up. Rashid cannot jam his bat down in time. Gurbaz is hell-bent on regaining strike and almost runs past Rashid before the Afghanistan skipper decides to sacrifice himself to keep the set batter on strike. Easy relay to Boult and he takes off the bails at the bowler's end!"}]<strong>Rashid sacrifices his wicket!</strong> Nails the yorker outside off first up. Rashid cannot jam his bat down in time. Gurbaz is hell-bent on regaining strike and almost runs past Rashid before the Afghanistan skipper decides to sacrifice himself to keep the set batter on strike. Easy relay to Boult and he takes off the bails at the bowler's end!
+Boult to bowl the final over. How many can Afghanistan get? Can Boult keep them down to under 165? Over the wicket
+Rashid Khan is OUT! run out
+run out (†Conway/Boult)
+Rashid Khan run out (†Conway/Boult) 6 (5b 1x4 0x6 8m) SR: 120
+<strong>Rashid sacrifices his wicket!</strong> Nails the yorker outside off first up. Rashid cannot jam his bat down in time. Gurbaz is hell-bent on regaining strike and almost runs past Rashid before the Afghanistan skipper decides to sacrifice himself to keep the set batter on strike. Easy relay to Boult and he takes off the bails at the bowler's end!
 
 
 Balls faced: 8
 Bowler: Mitchell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower full delivery outside off. Rashid, because of how slow it is, cannot get the timing he is after and shanks it to long on"}]slower full delivery outside off. Rashid, because of how slow it is, cannot get the timing he is after and shanks it to long on
+slower full delivery outside off. Rashid, because of how slow it is, cannot get the timing he is after and shanks it to long on
 
 
 Balls faced: 9
 Bowler: Mitchell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another off-pace delivery into the track on middle and leg. Rashid waits an eternity for it before swiping it off the top edge into his helmet"}]another off-pace delivery into the track on middle and leg. Rashid waits an eternity for it before swiping it off the top edge into his helmet
-[{"type": "HTML", "html": "Rashid looks fine as the physio comes out and performs the mandatory concussion test"}]Rashid looks fine as the physio comes out and performs the mandatory concussion test
+another off-pace delivery into the track on middle and leg. Rashid waits an eternity for it before swiping it off the top edge into his helmet
+Rashid looks fine as the physio comes out and performs the mandatory concussion test
 
 Balls faced: 10
 Bowler: Boult
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Boult to bowl the final over. How many can Afghanistan get? Can Boult keep them down to under 165? Over the wicket"}]Boult to bowl the final over. How many can Afghanistan get? Can Boult keep them down to under 165? Over the wicket
-
-[{"type": "HTML", "html": "<strong>Rashid sacrifices his wicket!</strong> Nails the yorker outside off first up. Rashid cannot jam his bat down in time. Gurbaz is hell-bent on regaining strike and almost runs past Rashid before the Afghanistan skipper decides to sacrifice himself to keep the set batter on strike. Easy relay to Boult and he takes off the bails at the bowler's end!"}]<strong>Rashid sacrifices his wicket!</strong> Nails the yorker outside off first up. Rashid cannot jam his bat down in time. Gurbaz is hell-bent on regaining strike and almost runs past Rashid before the Afghanistan skipper decides to sacrifice himself to keep the set batter on strike. Easy relay to Boult and he takes off the bails at the bowler's end!
+Boult to bowl the final over. How many can Afghanistan get? Can Boult keep them down to under 165? Over the wicket
+Rashid Khan is OUT! run out
+run out (†Conway/Boult)
+Rashid Khan run out (†Conway/Boult) 6 (5b 1x4 0x6 8m) SR: 120
+<strong>Rashid sacrifices his wicket!</strong> Nails the yorker outside off first up. Rashid cannot jam his bat down in time. Gurbaz is hell-bent on regaining strike and almost runs past Rashid before the Afghanistan skipper decides to sacrifice himself to keep the set batter on strike. Easy relay to Boult and he takes off the bails at the bowler's end!
 
 
 
@@ -748,221 +830,251 @@ Match: all_games_1411166_1415740.json
 Balls faced: 1
 Bowler: Hosein
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball cut away to backward point. <B>Akeal finishes with 4-1-21-2</b>"}]length ball cut away to backward point. <B>Akeal finishes with 4-1-21-2</b>
-[{"type": "HTML", "html": "Munsaf : \"This is windies World Cup to loose. They really are making up for their absence in 2023 50 over world cup\""}]Munsaf : "This is windies World Cup to loose. They really are making up for their absence in 2023 50 over world cup"
+length ball cut away to backward point. <B>Akeal finishes with 4-1-21-2</b>
+Munsaf : "This is windies World Cup to loose. They really are making up for their absence in 2023 50 over world cup"
 
 Balls faced: 2
 Bowler: Hosein
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>unforced error!</b> Full ball around off. Rashid gently taps it towards backward point and Janat is off the blocks quickly in search of a single. Rashid takes a step but turns Janat down because the single is unlikely. However, Janat has over-committed and he is too slow to turn around and return. King carefully lobs it to Hosein, and the bails are quickly dislodged at the bowler's end"}]<B>unforced error!</b> Full ball around off. Rashid gently taps it towards backward point and Janat is off the blocks quickly in search of a single. Rashid takes a step but turns Janat down because the single is unlikely. However, Janat has over-committed and he is too slow to turn around and return. King carefully lobs it to Hosein, and the bails are quickly dislodged at the bowler's end
+Rashid Khan is OUT! run out
+run out (King/Hosein)
+Karim Janat run out (King/Hosein) 14 (9b 0x4 1x6 14m) SR: 155.55
+<B>unforced error!</b> Full ball around off. Rashid gently taps it towards backward point and Janat is off the blocks quickly in search of a single. Rashid takes a step but turns Janat down because the single is unlikely. However, Janat has over-committed and he is too slow to turn around and return. King carefully lobs it to Hosein, and the bails are quickly dislodged at the bowler's end
 
 
 Balls faced: 3
 Bowler: Hosein
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "arm ball. Good length outside off. Cut towards backward point where an acrobatic effort saves runs"}]arm ball. Good length outside off. Cut towards backward point where an acrobatic effort saves runs
+arm ball. Good length outside off. Cut towards backward point where an acrobatic effort saves runs
 
 
 Balls faced: 4
 Bowler: Russell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pace-off delivery, fullish just outside off. Gently tapped towards the off side for a single"}]pace-off delivery, fullish just outside off. Gently tapped towards the off side for a single
+pace-off delivery, fullish just outside off. Gently tapped towards the off side for a single
 
 
 Balls faced: 5
 Bowler: Russell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, full on middle and leg. Rashid clears the front leg and attempts a big shot down the V, but mistimed towards long on"}]slower ball, full on middle and leg. Rashid clears the front leg and attempts a big shot down the V, but mistimed towards long on
+slower ball, full on middle and leg. Rashid clears the front leg and attempts a big shot down the V, but mistimed towards long on
 
 
 Balls faced: 6
 Bowler: Russell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Russell returns, and starts with a slot ball just outside off. Rashid doesn't need a second invite as he scythes his bat to send the ball over cover for a one-bounce four"}]Russell returns, and starts with a slot ball just outside off. Rashid doesn't need a second invite as he scythes his bat to send the ball over cover for a one-bounce four
+Russell returns, and starts with a slot ball just outside off. Rashid doesn't need a second invite as he scythes his bat to send the ball over cover for a one-bounce four
 
 
 Balls faced: 7
 Bowler: Hosein
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball cut away to backward point. <B>Akeal finishes with 4-1-21-2</b>"}]length ball cut away to backward point. <B>Akeal finishes with 4-1-21-2</b>
-[{"type": "HTML", "html": "Munsaf : \"This is windies World Cup to loose. They really are making up for their absence in 2023 50 over world cup\""}]Munsaf : "This is windies World Cup to loose. They really are making up for their absence in 2023 50 over world cup"
+length ball cut away to backward point. <B>Akeal finishes with 4-1-21-2</b>
+Munsaf : "This is windies World Cup to loose. They really are making up for their absence in 2023 50 over world cup"
 
 Balls faced: 8
 Bowler: Hosein
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>unforced error!</b> Full ball around off. Rashid gently taps it towards backward point and Janat is off the blocks quickly in search of a single. Rashid takes a step but turns Janat down because the single is unlikely. However, Janat has over-committed and he is too slow to turn around and return. King carefully lobs it to Hosein, and the bails are quickly dislodged at the bowler's end"}]<B>unforced error!</b> Full ball around off. Rashid gently taps it towards backward point and Janat is off the blocks quickly in search of a single. Rashid takes a step but turns Janat down because the single is unlikely. However, Janat has over-committed and he is too slow to turn around and return. King carefully lobs it to Hosein, and the bails are quickly dislodged at the bowler's end
+Rashid Khan is OUT! run out
+run out (King/Hosein)
+Karim Janat run out (King/Hosein) 14 (9b 0x4 1x6 14m) SR: 155.55
+<B>unforced error!</b> Full ball around off. Rashid gently taps it towards backward point and Janat is off the blocks quickly in search of a single. Rashid takes a step but turns Janat down because the single is unlikely. However, Janat has over-committed and he is too slow to turn around and return. King carefully lobs it to Hosein, and the bails are quickly dislodged at the bowler's end
 
 
 Balls faced: 9
 Bowler: Hosein
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "arm ball. Good length outside off. Cut towards backward point where an acrobatic effort saves runs"}]arm ball. Good length outside off. Cut towards backward point where an acrobatic effort saves runs
+arm ball. Good length outside off. Cut towards backward point where an acrobatic effort saves runs
 
 
 Balls faced: 10
 Bowler: Russell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pace-off delivery, fullish just outside off. Gently tapped towards the off side for a single"}]pace-off delivery, fullish just outside off. Gently tapped towards the off side for a single
+pace-off delivery, fullish just outside off. Gently tapped towards the off side for a single
 
 
 Balls faced: 11
 Bowler: Russell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, full on middle and leg. Rashid clears the front leg and attempts a big shot down the V, but mistimed towards long on"}]slower ball, full on middle and leg. Rashid clears the front leg and attempts a big shot down the V, but mistimed towards long on
+slower ball, full on middle and leg. Rashid clears the front leg and attempts a big shot down the V, but mistimed towards long on
 
 
 Balls faced: 12
 Bowler: Russell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Russell returns, and starts with a slot ball just outside off. Rashid doesn't need a second invite as he scythes his bat to send the ball over cover for a one-bounce four"}]Russell returns, and starts with a slot ball just outside off. Rashid doesn't need a second invite as he scythes his bat to send the ball over cover for a one-bounce four
+Russell returns, and starts with a slot ball just outside off. Rashid doesn't need a second invite as he scythes his bat to send the ball over cover for a one-bounce four
 
 
 Balls faced: 13
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball around off. Rashid is a tad late on his attempted pull, and mistimed to deep midwicket"}]length ball around off. Rashid is a tad late on his attempted pull, and mistimed to deep midwicket
+length ball around off. Rashid is a tad late on his attempted pull, and mistimed to deep midwicket
 
 
 Balls faced: 14
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>hits Rashid on the body</b> as he ducks to this short ball that didn't bounce as much. Ball dribbles away  to Pooran"}]<B>hits Rashid on the body</b> as he ducks to this short ball that didn't bounce as much. Ball dribbles away  to Pooran
+<B>hits Rashid on the body</b> as he ducks to this short ball that didn't bounce as much. Ball dribbles away  to Pooran
 
 
 Balls faced: 15
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
-[{"type": "HTML", "html": "Alzarri."}]Alzarri.
+Alzarri.
 
-[{"type": "HTML", "html": "<B>over the keeper for four!</b> Short ball around off. Rashid swings his bat like a ninja and gets something - enough - off his bat to get it for four. Batter and bowler share a smile"}]<B>over the keeper for four!</b> Short ball around off. Rashid swings his bat like a ninja and gets something - enough - off his bat to get it for four. Batter and bowler share a smile
+<B>over the keeper for four!</b> Short ball around off. Rashid swings his bat like a ninja and gets something - enough - off his bat to get it for four. Batter and bowler share a smile
 
 
 Balls faced: 16
 Bowler: Russell
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>game, set, match. West Indies win by 104 runs.</b> Full ball around off, and Rashid tried to helicopter a six down the ground. But he ends up slicing it, and Powell at long off takes a tricky catch. West Indies finish as Group C toppers, while Afghanistan finish second. Not that it matters for the Super Eight, but definitely does for bragging rights and team morale."}]<B>game, set, match. West Indies win by 104 runs.</b> Full ball around off, and Rashid tried to helicopter a six down the ground. But he ends up slicing it, and Powell at long off takes a tricky catch. West Indies finish as Group C toppers, while Afghanistan finish second. Not that it matters for the Super Eight, but definitely does for bragging rights and team morale.
-[{"type": "HTML", "html": "Well, that's all from us. The Group Stage is done and dusted. The next time we meet, it will be the Super Eight stage, and South Africa v USA will kick that off in about 36 hours. Thank you for your company. Take care!"}, {"type": "HTML", "html": "<B>12.05am</b> Stick around for the presentation. We'll hear from the two captains soon.<BR><BR><B>Rashid Khan:</b> The way they batted, scoring around 90 runs in the powerplay, it is tough to come back from that. But in the middle overs we did well and it was good to restrict them under 200. But this game is good to understand mindset and strategy. Hope to not repeat. (Learnings) Good for us to keep it simple and not experiment. Better to stick with strengths on wickets like these than try too much. Hope to do better when it comes to similar pitches. (Big loss will affect Afghanistan?) Don't think so. We've achieved what we wanted - to get Super Eight. The different pitches coming up... we'll adjust to them. Good learning this loss happened at this stage, not in a do-or-die game. We take the positives with us, like fielding, middle-overs bowling and Noor's spell.\"<BR><BR><B>Rovman Powell:</b> (On eight straight wins) Shows hard work is paying off. (Motivation) The guys were excited to come here. We knew here will be one of the better wickets of the competition. After Guyana and Trinidad, the batters wanted to come here and get runs. (Pooran) I think it is on the back of hard work. He has had a very good 12 months. Good to see him score runs not only in franchise cricket but also for WI. (McCoy's bowling today) When I was bowling, I was telling him that we now have a headache [when it comes to selection]. We are playing in the West Indies, and it is our responsibility to make full use of home conditions. (Home fans) When we started the journey, we were 8th or 9th in the world. Now we are around 3rd in the world, and when you do well, the fans start believing. Guyana was lovely, Trinidad was a packed house, and to see the support St Lucia has given, it is amazing. (Sammy, head coach) I extend my thanks to him and our management. I have started as a young captain, but they have given me what I want. It has been a driving force in my success as a captain and in them believing in me as a leader.\""}, {"type": "HTML", "html": "A reminder that today's result made no difference to the Super Eight line-ups because pre-seeding by the ICC had determined it already. Group 1 will have Afghanistan, India, Australia and Bangladesh. Group 2 will have the two co-hosts West Indies and USA, and with them South Africa and England."}, {"type": "HTML", "html": "<B>11.40pm</b> Once Afghanistan began the second innings conceding a wicket-maiden over courtesy Akeal Hosein's drifting deliveries, the chase appeared very tough. It only got tougher when Afghanistan slipped from 45 for 1 to 59 for 4 in the space of two overs just after the powerplay ended. Obed McCoy then got stuck in with a searing three-over spell of 3 for 14, complementing the spinners Hosein and Gudakesh Motie spectacularly, and the other pacers picked off the tail to complete an all-round dominating show.<BR><BR>But don't forget the men who set up the game for West indies. Johnson Charles (43), Shai Hope (25) and Rovman Powell (26) got important runs, and played the perfect role as second-fiddle to Nicholas Pooran. Pooran smacked the tournament's highest individual score and led West Indies to the tournament's highest team total, and it was only a run-out that could stop him from getting to a ton. His 98 included eight sixes, and that has helped him go past Chris Gayle (124 sixes) as West Indies' most decorated T20I six-hitter. That's quite the achievement for the man who is still only 28.<BR><BR><B>Pooran is also the Player of the Match</b>. He talks about the ebb and flow of his innings, here are some highlights from his quotes (not verbatim): \"I had to see the conditions early and take responsibility. In West Indies people want fours and sixes but you can't do that everytime, but when conditions allow, you should capitalise. We wanted to be consistent as a team from 12-14 months ago.\""}]Well, that's all from us. The Group Stage is done and dusted. The next time we meet, it will be the Super Eight stage, and South Africa v USA will kick that off in about 36 hours. Thank you for your company. Take care! <B>12.05am</b> Stick around for the presentation. We'll hear from the two captains soon.<BR><BR><B>Rashid Khan:</b> The way they batted, scoring around 90 runs in the powerplay, it is tough to come back from that. But in the middle overs we did well and it was good to restrict them under 200. But this game is good to understand mindset and strategy. Hope to not repeat. (Learnings) Good for us to keep it simple and not experiment. Better to stick with strengths on wickets like these than try too much. Hope to do better when it comes to similar pitches. (Big loss will affect Afghanistan?) Don't think so. We've achieved what we wanted - to get Super Eight. The different pitches coming up... we'll adjust to them. Good learning this loss happened at this stage, not in a do-or-die game. We take the positives with us, like fielding, middle-overs bowling and Noor's spell."<BR><BR><B>Rovman Powell:</b> (On eight straight wins) Shows hard work is paying off. (Motivation) The guys were excited to come here. We knew here will be one of the better wickets of the competition. After Guyana and Trinidad, the batters wanted to come here and get runs. (Pooran) I think it is on the back of hard work. He has had a very good 12 months. Good to see him score runs not only in franchise cricket but also for WI. (McCoy's bowling today) When I was bowling, I was telling him that we now have a headache [when it comes to selection]. We are playing in the West Indies, and it is our responsibility to make full use of home conditions. (Home fans) When we started the journey, we were 8th or 9th in the world. Now we are around 3rd in the world, and when you do well, the fans start believing. Guyana was lovely, Trinidad was a packed house, and to see the support St Lucia has given, it is amazing. (Sammy, head coach) I extend my thanks to him and our management. I have started as a young captain, but they have given me what I want. It has been a driving force in my success as a captain and in them believing in me as a leader." A reminder that today's result made no difference to the Super Eight line-ups because pre-seeding by the ICC had determined it already. Group 1 will have Afghanistan, India, Australia and Bangladesh. Group 2 will have the two co-hosts West Indies and USA, and with them South Africa and England. <B>11.40pm</b> Once Afghanistan began the second innings conceding a wicket-maiden over courtesy Akeal Hosein's drifting deliveries, the chase appeared very tough. It only got tougher when Afghanistan slipped from 45 for 1 to 59 for 4 in the space of two overs just after the powerplay ended. Obed McCoy then got stuck in with a searing three-over spell of 3 for 14, complementing the spinners Hosein and Gudakesh Motie spectacularly, and the other pacers picked off the tail to complete an all-round dominating show.<BR><BR>But don't forget the men who set up the game for West indies. Johnson Charles (43), Shai Hope (25) and Rovman Powell (26) got important runs, and played the perfect role as second-fiddle to Nicholas Pooran. Pooran smacked the tournament's highest individual score and led West Indies to the tournament's highest team total, and it was only a run-out that could stop him from getting to a ton. His 98 included eight sixes, and that has helped him go past Chris Gayle (124 sixes) as West Indies' most decorated T20I six-hitter. That's quite the achievement for the man who is still only 28.<BR><BR><B>Pooran is also the Player of the Match</b>. He talks about the ebb and flow of his innings, here are some highlights from his quotes (not verbatim): "I had to see the conditions early and take responsibility. In West Indies people want fours and sixes but you can't do that everytime, but when conditions allow, you should capitalise. We wanted to be consistent as a team from 12-14 months ago."
+Rashid Khan is OUT! caught
+c Powell b Russell
+Rashid Khan c Powell b Russell 18 (11b 2x4 1x6 18m) SR: 163.63
+<B>game, set, match. West Indies win by 104 runs.</b> Full ball around off, and Rashid tried to helicopter a six down the ground. But he ends up slicing it, and Powell at long off takes a tricky catch. West Indies finish as Group C toppers, while Afghanistan finish second. Not that it matters for the Super Eight, but definitely does for bragging rights and team morale.
+Well, that's all from us. The Group Stage is done and dusted. The next time we meet, it will be the Super Eight stage, and South Africa v USA will kick that off in about 36 hours. Thank you for your company. Take care! <B>12.05am</b> Stick around for the presentation. We'll hear from the two captains soon.<BR><BR><B>Rashid Khan:</b> The way they batted, scoring around 90 runs in the powerplay, it is tough to come back from that. But in the middle overs we did well and it was good to restrict them under 200. But this game is good to understand mindset and strategy. Hope to not repeat. (Learnings) Good for us to keep it simple and not experiment. Better to stick with strengths on wickets like these than try too much. Hope to do better when it comes to similar pitches. (Big loss will affect Afghanistan?) Don't think so. We've achieved what we wanted - to get Super Eight. The different pitches coming up... we'll adjust to them. Good learning this loss happened at this stage, not in a do-or-die game. We take the positives with us, like fielding, middle-overs bowling and Noor's spell."<BR><BR><B>Rovman Powell:</b> (On eight straight wins) Shows hard work is paying off. (Motivation) The guys were excited to come here. We knew here will be one of the better wickets of the competition. After Guyana and Trinidad, the batters wanted to come here and get runs. (Pooran) I think it is on the back of hard work. He has had a very good 12 months. Good to see him score runs not only in franchise cricket but also for WI. (McCoy's bowling today) When I was bowling, I was telling him that we now have a headache [when it comes to selection]. We are playing in the West Indies, and it is our responsibility to make full use of home conditions. (Home fans) When we started the journey, we were 8th or 9th in the world. Now we are around 3rd in the world, and when you do well, the fans start believing. Guyana was lovely, Trinidad was a packed house, and to see the support St Lucia has given, it is amazing. (Sammy, head coach) I extend my thanks to him and our management. I have started as a young captain, but they have given me what I want. It has been a driving force in my success as a captain and in them believing in me as a leader." A reminder that today's result made no difference to the Super Eight line-ups because pre-seeding by the ICC had determined it already. Group 1 will have Afghanistan, India, Australia and Bangladesh. Group 2 will have the two co-hosts West Indies and USA, and with them South Africa and England. <B>11.40pm</b> Once Afghanistan began the second innings conceding a wicket-maiden over courtesy Akeal Hosein's drifting deliveries, the chase appeared very tough. It only got tougher when Afghanistan slipped from 45 for 1 to 59 for 4 in the space of two overs just after the powerplay ended. Obed McCoy then got stuck in with a searing three-over spell of 3 for 14, complementing the spinners Hosein and Gudakesh Motie spectacularly, and the other pacers picked off the tail to complete an all-round dominating show.<BR><BR>But don't forget the men who set up the game for West indies. Johnson Charles (43), Shai Hope (25) and Rovman Powell (26) got important runs, and played the perfect role as second-fiddle to Nicholas Pooran. Pooran smacked the tournament's highest individual score and led West Indies to the tournament's highest team total, and it was only a run-out that could stop him from getting to a ton. His 98 included eight sixes, and that has helped him go past Chris Gayle (124 sixes) as West Indies' most decorated T20I six-hitter. That's quite the achievement for the man who is still only 28.<BR><BR><B>Pooran is also the Player of the Match</b>. He talks about the ebb and flow of his innings, here are some highlights from his quotes (not verbatim): "I had to see the conditions early and take responsibility. In West Indies people want fours and sixes but you can't do that everytime, but when conditions allow, you should capitalise. We wanted to be consistent as a team from 12-14 months ago."
 
 Balls faced: 17
 Bowler: Russell
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Rashid won't go down without putting up a fight!</b> Always intent on hitting the big shots, and he does so against Russell now. Short ball around off and crunched over deep midwicket"}]<B>Rashid won't go down without putting up a fight!</b> Always intent on hitting the big shots, and he does so against Russell now. Short ball around off and crunched over deep midwicket
+<B>Rashid won't go down without putting up a fight!</b> Always intent on hitting the big shots, and he does so against Russell now. Short ball around off and crunched over deep midwicket
 
 
 Balls faced: 18
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball around off. Rashid is a tad late on his attempted pull, and mistimed to deep midwicket"}]length ball around off. Rashid is a tad late on his attempted pull, and mistimed to deep midwicket
+length ball around off. Rashid is a tad late on his attempted pull, and mistimed to deep midwicket
 
 
 Balls faced: 19
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>hits Rashid on the body</b> as he ducks to this short ball that didn't bounce as much. Ball dribbles away  to Pooran"}]<B>hits Rashid on the body</b> as he ducks to this short ball that didn't bounce as much. Ball dribbles away  to Pooran
+<B>hits Rashid on the body</b> as he ducks to this short ball that didn't bounce as much. Ball dribbles away  to Pooran
 
 
 Balls faced: 20
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
-[{"type": "HTML", "html": "Alzarri."}]Alzarri.
+Alzarri.
 
-[{"type": "HTML", "html": "<B>over the keeper for four!</b> Short ball around off. Rashid swings his bat like a ninja and gets something - enough - off his bat to get it for four. Batter and bowler share a smile"}]<B>over the keeper for four!</b> Short ball around off. Rashid swings his bat like a ninja and gets something - enough - off his bat to get it for four. Batter and bowler share a smile
+<B>over the keeper for four!</b> Short ball around off. Rashid swings his bat like a ninja and gets something - enough - off his bat to get it for four. Batter and bowler share a smile
 
 
 Balls faced: 21
 Bowler: Russell
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>game, set, match. West Indies win by 104 runs.</b> Full ball around off, and Rashid tried to helicopter a six down the ground. But he ends up slicing it, and Powell at long off takes a tricky catch. West Indies finish as Group C toppers, while Afghanistan finish second. Not that it matters for the Super Eight, but definitely does for bragging rights and team morale."}]<B>game, set, match. West Indies win by 104 runs.</b> Full ball around off, and Rashid tried to helicopter a six down the ground. But he ends up slicing it, and Powell at long off takes a tricky catch. West Indies finish as Group C toppers, while Afghanistan finish second. Not that it matters for the Super Eight, but definitely does for bragging rights and team morale.
-[{"type": "HTML", "html": "Well, that's all from us. The Group Stage is done and dusted. The next time we meet, it will be the Super Eight stage, and South Africa v USA will kick that off in about 36 hours. Thank you for your company. Take care!"}, {"type": "HTML", "html": "<B>12.05am</b> Stick around for the presentation. We'll hear from the two captains soon.<BR><BR><B>Rashid Khan:</b> The way they batted, scoring around 90 runs in the powerplay, it is tough to come back from that. But in the middle overs we did well and it was good to restrict them under 200. But this game is good to understand mindset and strategy. Hope to not repeat. (Learnings) Good for us to keep it simple and not experiment. Better to stick with strengths on wickets like these than try too much. Hope to do better when it comes to similar pitches. (Big loss will affect Afghanistan?) Don't think so. We've achieved what we wanted - to get Super Eight. The different pitches coming up... we'll adjust to them. Good learning this loss happened at this stage, not in a do-or-die game. We take the positives with us, like fielding, middle-overs bowling and Noor's spell.\"<BR><BR><B>Rovman Powell:</b> (On eight straight wins) Shows hard work is paying off. (Motivation) The guys were excited to come here. We knew here will be one of the better wickets of the competition. After Guyana and Trinidad, the batters wanted to come here and get runs. (Pooran) I think it is on the back of hard work. He has had a very good 12 months. Good to see him score runs not only in franchise cricket but also for WI. (McCoy's bowling today) When I was bowling, I was telling him that we now have a headache [when it comes to selection]. We are playing in the West Indies, and it is our responsibility to make full use of home conditions. (Home fans) When we started the journey, we were 8th or 9th in the world. Now we are around 3rd in the world, and when you do well, the fans start believing. Guyana was lovely, Trinidad was a packed house, and to see the support St Lucia has given, it is amazing. (Sammy, head coach) I extend my thanks to him and our management. I have started as a young captain, but they have given me what I want. It has been a driving force in my success as a captain and in them believing in me as a leader.\""}, {"type": "HTML", "html": "A reminder that today's result made no difference to the Super Eight line-ups because pre-seeding by the ICC had determined it already. Group 1 will have Afghanistan, India, Australia and Bangladesh. Group 2 will have the two co-hosts West Indies and USA, and with them South Africa and England."}, {"type": "HTML", "html": "<B>11.40pm</b> Once Afghanistan began the second innings conceding a wicket-maiden over courtesy Akeal Hosein's drifting deliveries, the chase appeared very tough. It only got tougher when Afghanistan slipped from 45 for 1 to 59 for 4 in the space of two overs just after the powerplay ended. Obed McCoy then got stuck in with a searing three-over spell of 3 for 14, complementing the spinners Hosein and Gudakesh Motie spectacularly, and the other pacers picked off the tail to complete an all-round dominating show.<BR><BR>But don't forget the men who set up the game for West indies. Johnson Charles (43), Shai Hope (25) and Rovman Powell (26) got important runs, and played the perfect role as second-fiddle to Nicholas Pooran. Pooran smacked the tournament's highest individual score and led West Indies to the tournament's highest team total, and it was only a run-out that could stop him from getting to a ton. His 98 included eight sixes, and that has helped him go past Chris Gayle (124 sixes) as West Indies' most decorated T20I six-hitter. That's quite the achievement for the man who is still only 28.<BR><BR><B>Pooran is also the Player of the Match</b>. He talks about the ebb and flow of his innings, here are some highlights from his quotes (not verbatim): \"I had to see the conditions early and take responsibility. In West Indies people want fours and sixes but you can't do that everytime, but when conditions allow, you should capitalise. We wanted to be consistent as a team from 12-14 months ago.\""}]Well, that's all from us. The Group Stage is done and dusted. The next time we meet, it will be the Super Eight stage, and South Africa v USA will kick that off in about 36 hours. Thank you for your company. Take care! <B>12.05am</b> Stick around for the presentation. We'll hear from the two captains soon.<BR><BR><B>Rashid Khan:</b> The way they batted, scoring around 90 runs in the powerplay, it is tough to come back from that. But in the middle overs we did well and it was good to restrict them under 200. But this game is good to understand mindset and strategy. Hope to not repeat. (Learnings) Good for us to keep it simple and not experiment. Better to stick with strengths on wickets like these than try too much. Hope to do better when it comes to similar pitches. (Big loss will affect Afghanistan?) Don't think so. We've achieved what we wanted - to get Super Eight. The different pitches coming up... we'll adjust to them. Good learning this loss happened at this stage, not in a do-or-die game. We take the positives with us, like fielding, middle-overs bowling and Noor's spell."<BR><BR><B>Rovman Powell:</b> (On eight straight wins) Shows hard work is paying off. (Motivation) The guys were excited to come here. We knew here will be one of the better wickets of the competition. After Guyana and Trinidad, the batters wanted to come here and get runs. (Pooran) I think it is on the back of hard work. He has had a very good 12 months. Good to see him score runs not only in franchise cricket but also for WI. (McCoy's bowling today) When I was bowling, I was telling him that we now have a headache [when it comes to selection]. We are playing in the West Indies, and it is our responsibility to make full use of home conditions. (Home fans) When we started the journey, we were 8th or 9th in the world. Now we are around 3rd in the world, and when you do well, the fans start believing. Guyana was lovely, Trinidad was a packed house, and to see the support St Lucia has given, it is amazing. (Sammy, head coach) I extend my thanks to him and our management. I have started as a young captain, but they have given me what I want. It has been a driving force in my success as a captain and in them believing in me as a leader." A reminder that today's result made no difference to the Super Eight line-ups because pre-seeding by the ICC had determined it already. Group 1 will have Afghanistan, India, Australia and Bangladesh. Group 2 will have the two co-hosts West Indies and USA, and with them South Africa and England. <B>11.40pm</b> Once Afghanistan began the second innings conceding a wicket-maiden over courtesy Akeal Hosein's drifting deliveries, the chase appeared very tough. It only got tougher when Afghanistan slipped from 45 for 1 to 59 for 4 in the space of two overs just after the powerplay ended. Obed McCoy then got stuck in with a searing three-over spell of 3 for 14, complementing the spinners Hosein and Gudakesh Motie spectacularly, and the other pacers picked off the tail to complete an all-round dominating show.<BR><BR>But don't forget the men who set up the game for West indies. Johnson Charles (43), Shai Hope (25) and Rovman Powell (26) got important runs, and played the perfect role as second-fiddle to Nicholas Pooran. Pooran smacked the tournament's highest individual score and led West Indies to the tournament's highest team total, and it was only a run-out that could stop him from getting to a ton. His 98 included eight sixes, and that has helped him go past Chris Gayle (124 sixes) as West Indies' most decorated T20I six-hitter. That's quite the achievement for the man who is still only 28.<BR><BR><B>Pooran is also the Player of the Match</b>. He talks about the ebb and flow of his innings, here are some highlights from his quotes (not verbatim): "I had to see the conditions early and take responsibility. In West Indies people want fours and sixes but you can't do that everytime, but when conditions allow, you should capitalise. We wanted to be consistent as a team from 12-14 months ago."
+Rashid Khan is OUT! caught
+c Powell b Russell
+Rashid Khan c Powell b Russell 18 (11b 2x4 1x6 18m) SR: 163.63
+<B>game, set, match. West Indies win by 104 runs.</b> Full ball around off, and Rashid tried to helicopter a six down the ground. But he ends up slicing it, and Powell at long off takes a tricky catch. West Indies finish as Group C toppers, while Afghanistan finish second. Not that it matters for the Super Eight, but definitely does for bragging rights and team morale.
+Well, that's all from us. The Group Stage is done and dusted. The next time we meet, it will be the Super Eight stage, and South Africa v USA will kick that off in about 36 hours. Thank you for your company. Take care! <B>12.05am</b> Stick around for the presentation. We'll hear from the two captains soon.<BR><BR><B>Rashid Khan:</b> The way they batted, scoring around 90 runs in the powerplay, it is tough to come back from that. But in the middle overs we did well and it was good to restrict them under 200. But this game is good to understand mindset and strategy. Hope to not repeat. (Learnings) Good for us to keep it simple and not experiment. Better to stick with strengths on wickets like these than try too much. Hope to do better when it comes to similar pitches. (Big loss will affect Afghanistan?) Don't think so. We've achieved what we wanted - to get Super Eight. The different pitches coming up... we'll adjust to them. Good learning this loss happened at this stage, not in a do-or-die game. We take the positives with us, like fielding, middle-overs bowling and Noor's spell."<BR><BR><B>Rovman Powell:</b> (On eight straight wins) Shows hard work is paying off. (Motivation) The guys were excited to come here. We knew here will be one of the better wickets of the competition. After Guyana and Trinidad, the batters wanted to come here and get runs. (Pooran) I think it is on the back of hard work. He has had a very good 12 months. Good to see him score runs not only in franchise cricket but also for WI. (McCoy's bowling today) When I was bowling, I was telling him that we now have a headache [when it comes to selection]. We are playing in the West Indies, and it is our responsibility to make full use of home conditions. (Home fans) When we started the journey, we were 8th or 9th in the world. Now we are around 3rd in the world, and when you do well, the fans start believing. Guyana was lovely, Trinidad was a packed house, and to see the support St Lucia has given, it is amazing. (Sammy, head coach) I extend my thanks to him and our management. I have started as a young captain, but they have given me what I want. It has been a driving force in my success as a captain and in them believing in me as a leader." A reminder that today's result made no difference to the Super Eight line-ups because pre-seeding by the ICC had determined it already. Group 1 will have Afghanistan, India, Australia and Bangladesh. Group 2 will have the two co-hosts West Indies and USA, and with them South Africa and England. <B>11.40pm</b> Once Afghanistan began the second innings conceding a wicket-maiden over courtesy Akeal Hosein's drifting deliveries, the chase appeared very tough. It only got tougher when Afghanistan slipped from 45 for 1 to 59 for 4 in the space of two overs just after the powerplay ended. Obed McCoy then got stuck in with a searing three-over spell of 3 for 14, complementing the spinners Hosein and Gudakesh Motie spectacularly, and the other pacers picked off the tail to complete an all-round dominating show.<BR><BR>But don't forget the men who set up the game for West indies. Johnson Charles (43), Shai Hope (25) and Rovman Powell (26) got important runs, and played the perfect role as second-fiddle to Nicholas Pooran. Pooran smacked the tournament's highest individual score and led West Indies to the tournament's highest team total, and it was only a run-out that could stop him from getting to a ton. His 98 included eight sixes, and that has helped him go past Chris Gayle (124 sixes) as West Indies' most decorated T20I six-hitter. That's quite the achievement for the man who is still only 28.<BR><BR><B>Pooran is also the Player of the Match</b>. He talks about the ebb and flow of his innings, here are some highlights from his quotes (not verbatim): "I had to see the conditions early and take responsibility. In West Indies people want fours and sixes but you can't do that everytime, but when conditions allow, you should capitalise. We wanted to be consistent as a team from 12-14 months ago."
 
 Balls faced: 22
 Bowler: Russell
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Rashid won't go down without putting up a fight!</b> Always intent on hitting the big shots, and he does so against Russell now. Short ball around off and crunched over deep midwicket"}]<B>Rashid won't go down without putting up a fight!</b> Always intent on hitting the big shots, and he does so against Russell now. Short ball around off and crunched over deep midwicket
+<B>Rashid won't go down without putting up a fight!</b> Always intent on hitting the big shots, and he does so against Russell now. Short ball around off and crunched over deep midwicket
 
 
 
@@ -970,221 +1082,247 @@ Match: all_games_1416063_1416084.json
 Balls faced: 1
 Bowler: Delany
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "this dips on to a length on leg, and is whipped to deep backward square"}]this dips on to a length on leg, and is whipped to deep backward square
+this dips on to a length on leg, and is whipped to deep backward square
 
 
 Balls faced: 2
 Bowler: Delany
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Rashid facing his first ball"}]Rashid facing his first ball
+Rashid facing his first ball
 
-[{"type": "HTML", "html": "this skids through off a length around off, and is punched to cover"}]this skids through off a length around off, and is punched to cover
-[{"type": "HTML", "html": "Ningen: \"C'mon, that was not a no ball!\" --- Yeah, that's what I felt too, but White has more than made up for it"}]Ningen: "C'mon, that was not a no ball!" --- Yeah, that's what I felt too, but White has more than made up for it
+this skids through off a length around off, and is punched to cover
+Ningen: "C'mon, that was not a no ball!" --- Yeah, that's what I felt too, but White has more than made up for it
 
 Balls faced: 3
 Bowler: White
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and tossed up on middle and off. Driven to long-off"}]full and tossed up on middle and off. Driven to long-off
+full and tossed up on middle and off. Driven to long-off
 
 
 Balls faced: 4
 Bowler: White
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes full and wide of off, and Rashid lets it go. Wide called"}]goes full and wide of off, and Rashid lets it go. Wide called
+goes full and wide of off, and Rashid lets it go. Wide called
 
 Wide: 1
 Balls faced: 5
 Bowler: White
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and skidding through just outside off. Pushed to cover"}]full and skidding through just outside off. Pushed to cover
+full and skidding through just outside off. Pushed to cover
 
 
 Balls faced: 6
 Bowler: White
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "skips down, and crashes this length ball around off to long-off"}]skips down, and crashes this length ball around off to long-off
+skips down, and crashes this length ball around off to long-off
 
 
 Balls faced: 7
 Bowler: White
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hat-trick ball"}]Hat-trick ball
+Hat-trick ball
 
-[{"type": "HTML", "html": "the keeper is up in celebration... but it is given not out! Full and flat just outside off, as Rashid looked to poke but was beaten"}]the keeper is up in celebration... but it is given not out! Full and flat just outside off, as Rashid looked to poke but was beaten
+the keeper is up in celebration... but it is given not out! Full and flat just outside off, as Rashid looked to poke but was beaten
 
 
 Balls faced: 8
 Bowler: Delany
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "this dips on to a length on leg, and is whipped to deep backward square"}]this dips on to a length on leg, and is whipped to deep backward square
+this dips on to a length on leg, and is whipped to deep backward square
 
 
 Balls faced: 9
 Bowler: Delany
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Rashid facing his first ball"}]Rashid facing his first ball
+Rashid facing his first ball
 
-[{"type": "HTML", "html": "this skids through off a length around off, and is punched to cover"}]this skids through off a length around off, and is punched to cover
-[{"type": "HTML", "html": "Ningen: \"C'mon, that was not a no ball!\" --- Yeah, that's what I felt too, but White has more than made up for it"}]Ningen: "C'mon, that was not a no ball!" --- Yeah, that's what I felt too, but White has more than made up for it
+this skids through off a length around off, and is punched to cover
+Ningen: "C'mon, that was not a no ball!" --- Yeah, that's what I felt too, but White has more than made up for it
 
 Balls faced: 10
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length on off, and straightening too. Pushed to deep third after playing late"}]on a length on off, and straightening too. Pushed to deep third after playing late
+on a length on off, and straightening too. Pushed to deep third after playing late
 
 
 Balls faced: 11
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short delivery on off, and that was pulled very forcefully towards deep midwicket"}]short delivery on off, and that was pulled very forcefully towards deep midwicket
+short delivery on off, and that was pulled very forcefully towards deep midwicket
 
 
 Balls faced: 12
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "McCarthy back"}]McCarthy back
+McCarthy back
 
-[{"type": "HTML", "html": "bowls a yorker-length ball a bit wide of off. Driven hard to extra cover"}]bowls a yorker-length ball a bit wide of off. Driven hard to extra cover
+bowls a yorker-length ball a bit wide of off. Driven hard to extra cover
 
 
 Balls faced: 13
 Bowler: White
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and tossed up on middle and off. Driven to long-off"}]full and tossed up on middle and off. Driven to long-off
+full and tossed up on middle and off. Driven to long-off
 
 
 Balls faced: 14
 Bowler: White
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes full and wide of off, and Rashid lets it go. Wide called"}]goes full and wide of off, and Rashid lets it go. Wide called
+goes full and wide of off, and Rashid lets it go. Wide called
 
 Wide: 1
 Balls faced: 15
 Bowler: White
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and skidding through just outside off. Pushed to cover"}]full and skidding through just outside off. Pushed to cover
+full and skidding through just outside off. Pushed to cover
 
 
 Balls faced: 16
 Bowler: White
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "skips down, and crashes this length ball around off to long-off"}]skips down, and crashes this length ball around off to long-off
+skips down, and crashes this length ball around off to long-off
 
 
 Balls faced: 17
 Bowler: White
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hat-trick ball"}]Hat-trick ball
+Hat-trick ball
 
-[{"type": "HTML", "html": "the keeper is up in celebration... but it is given not out! Full and flat just outside off, as Rashid looked to poke but was beaten"}]the keeper is up in celebration... but it is given not out! Full and flat just outside off, as Rashid looked to poke but was beaten
+the keeper is up in celebration... but it is given not out! Full and flat just outside off, as Rashid looked to poke but was beaten
 
 
 Balls faced: 18
 Bowler: Little
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Little back, from around"}]Little back, from around
-
-[{"type": "HTML", "html": "taken by long-on moving to his left! Little angled this in, and the ball ended up being a dipping full toss just outside off. Rashid lofted from deep in the crease, but couldn't get it away, with Tector moving to his left in time, and taking it in front of his chest"}]taken by long-on moving to his left! Little angled this in, and the ball ended up being a dipping full toss just outside off. Rashid lofted from deep in the crease, but couldn't get it away, with Tector moving to his left in time, and taking it in front of his chest
+Little back, from around
+Rashid Khan is OUT! caught
+c Tector b Little
+Rashid Khan c Tector b Little 5 (10b 0x4 0x6 16m) SR: 50
+taken by long-on moving to his left! Little angled this in, and the ball ended up being a dipping full toss just outside off. Rashid lofted from deep in the crease, but couldn't get it away, with Tector moving to his left in time, and taking it in front of his chest
 
 
 Balls faced: 19
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length on off, and straightening too. Pushed to deep third after playing late"}]on a length on off, and straightening too. Pushed to deep third after playing late
+on a length on off, and straightening too. Pushed to deep third after playing late
 
 
 Balls faced: 20
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short delivery on off, and that was pulled very forcefully towards deep midwicket"}]short delivery on off, and that was pulled very forcefully towards deep midwicket
+short delivery on off, and that was pulled very forcefully towards deep midwicket
 
 
 Balls faced: 21
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "McCarthy back"}]McCarthy back
+McCarthy back
 
-[{"type": "HTML", "html": "bowls a yorker-length ball a bit wide of off. Driven hard to extra cover"}]bowls a yorker-length ball a bit wide of off. Driven hard to extra cover
+bowls a yorker-length ball a bit wide of off. Driven hard to extra cover
 
 
 Balls faced: 22
 Bowler: Little
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Little back, from around"}]Little back, from around
-
-[{"type": "HTML", "html": "taken by long-on moving to his left! Little angled this in, and the ball ended up being a dipping full toss just outside off. Rashid lofted from deep in the crease, but couldn't get it away, with Tector moving to his left in time, and taking it in front of his chest"}]taken by long-on moving to his left! Little angled this in, and the ball ended up being a dipping full toss just outside off. Rashid lofted from deep in the crease, but couldn't get it away, with Tector moving to his left in time, and taking it in front of his chest
+Little back, from around
+Rashid Khan is OUT! caught
+c Tector b Little
+Rashid Khan c Tector b Little 5 (10b 0x4 0x6 16m) SR: 50
+taken by long-on moving to his left! Little angled this in, and the ball ended up being a dipping full toss just outside off. Rashid lofted from deep in the crease, but couldn't get it away, with Tector moving to his left in time, and taking it in front of his chest
 
 
 
@@ -1192,301 +1330,335 @@ Match: all_games_1416063_1416085.json
 Balls faced: 1
 Bowler: Adair
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on fifth stump, and tapped behind point"}]short of a length on fifth stump, and tapped behind point
+short of a length on fifth stump, and tapped behind point
 
 
 Balls faced: 2
 Bowler: Adair
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Rashid"}]Rashid
+Rashid
 
-[{"type": "HTML", "html": "crashed to deep backward point! Gets a length delivery, which is a bit wide of off, and Rashid rams it through to beat deep third to his right"}]crashed to deep backward point! Gets a length delivery, which is a bit wide of off, and Rashid rams it through to beat deep third to his right
+crashed to deep backward point! Gets a length delivery, which is a bit wide of off, and Rashid rams it through to beat deep third to his right
 
 
 Balls faced: 3
 Bowler: McCarthy
 Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>the no-look six!</strong> It goes smashing over the Sachin Tendulkar Stand. A full toss dipping on middle and leg, and swiped over while looking down on the pitch"}]<strong>the no-look six!</strong> It goes smashing over the Sachin Tendulkar Stand. A full toss dipping on middle and leg, and swiped over while looking down on the pitch
+<strong>the no-look six!</strong> It goes smashing over the Sachin Tendulkar Stand. A full toss dipping on middle and leg, and swiped over while looking down on the pitch
 
 
 Balls faced: 4
 Bowler: McCarthy
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another wide. He tries the one-handed swipe and misses this short ball which is bowled at a change of pace, and on leg. It angles down further, and is called wide"}]another wide. He tries the one-handed swipe and misses this short ball which is bowled at a change of pace, and on leg. It angles down further, and is called wide
+another wide. He tries the one-handed swipe and misses this short ball which is bowled at a change of pace, and on leg. It angles down further, and is called wide
 
 Wide: 1
 Balls faced: 5
 Bowler: McCarthy
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "excellent shot! He gives himself room and jumps down the pitch of this shortish length in the channel, and swats it wide of long-off"}]excellent shot! He gives himself room and jumps down the pitch of this shortish length in the channel, and swats it wide of long-off
+excellent shot! He gives himself room and jumps down the pitch of this shortish length in the channel, and swats it wide of long-off
 
 
 Balls faced: 6
 Bowler: McCarthy
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length in the channel. He tries to ramp, but the ball is too high, and is called wide"}]short of a length in the channel. He tries to ramp, but the ball is too high, and is called wide
+short of a length in the channel. He tries to ramp, but the ball is too high, and is called wide
 
 Wide: 1
 Balls faced: 7
 Bowler: McCarthy
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length just outside off, and pushed towards extra cover"}]short of a length just outside off, and pushed towards extra cover
+short of a length just outside off, and pushed towards extra cover
 
 
 Balls faced: 8
 Bowler: Adair
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on fifth stump, and tapped behind point"}]short of a length on fifth stump, and tapped behind point
+short of a length on fifth stump, and tapped behind point
 
 
 Balls faced: 9
 Bowler: Adair
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Rashid"}]Rashid
+Rashid
 
-[{"type": "HTML", "html": "crashed to deep backward point! Gets a length delivery, which is a bit wide of off, and Rashid rams it through to beat deep third to his right"}]crashed to deep backward point! Gets a length delivery, which is a bit wide of off, and Rashid rams it through to beat deep third to his right
+crashed to deep backward point! Gets a length delivery, which is a bit wide of off, and Rashid rams it through to beat deep third to his right
 
 
 Balls faced: 10
 Bowler: Adair
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Around the wicket"}]Around the wicket
+Around the wicket
 
-[{"type": "HTML", "html": "quite full on his pads, and clipped hard towards deep midwicket"}]quite full on his pads, and clipped hard towards deep midwicket
+quite full on his pads, and clipped hard towards deep midwicket
 
 
 Balls faced: 11
 Bowler: Adair
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good comeback. Bowls a yorker in the channel, which Rashid looks to jam but is beaten"}]good comeback. Bowls a yorker in the channel, which Rashid looks to jam but is beaten
+good comeback. Bowls a yorker in the channel, which Rashid looks to jam but is beaten
 
 
 Balls faced: 12
 Bowler: Adair
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "a high full toss, and four more! It is not called an above-waist no-ball, and Rashid isn't entirely pleased. It was a slower ball, and was dipping to barely end on par of his waist around sixth stump. Swatted wide of long-off"}]a high full toss, and four more! It is not called an above-waist no-ball, and Rashid isn't entirely pleased. It was a slower ball, and was dipping to barely end on par of his waist around sixth stump. Swatted wide of long-off
+a high full toss, and four more! It is not called an above-waist no-ball, and Rashid isn't entirely pleased. It was a slower ball, and was dipping to barely end on par of his waist around sixth stump. Swatted wide of long-off
 
 
 Balls faced: 13
 Bowler: McCarthy
 Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>the no-look six!</strong> It goes smashing over the Sachin Tendulkar Stand. A full toss dipping on middle and leg, and swiped over while looking down on the pitch"}]<strong>the no-look six!</strong> It goes smashing over the Sachin Tendulkar Stand. A full toss dipping on middle and leg, and swiped over while looking down on the pitch
+<strong>the no-look six!</strong> It goes smashing over the Sachin Tendulkar Stand. A full toss dipping on middle and leg, and swiped over while looking down on the pitch
 
 
 Balls faced: 14
 Bowler: McCarthy
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another wide. He tries the one-handed swipe and misses this short ball which is bowled at a change of pace, and on leg. It angles down further, and is called wide"}]another wide. He tries the one-handed swipe and misses this short ball which is bowled at a change of pace, and on leg. It angles down further, and is called wide
+another wide. He tries the one-handed swipe and misses this short ball which is bowled at a change of pace, and on leg. It angles down further, and is called wide
 
 Wide: 1
 Balls faced: 15
 Bowler: McCarthy
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "excellent shot! He gives himself room and jumps down the pitch of this shortish length in the channel, and swats it wide of long-off"}]excellent shot! He gives himself room and jumps down the pitch of this shortish length in the channel, and swats it wide of long-off
+excellent shot! He gives himself room and jumps down the pitch of this shortish length in the channel, and swats it wide of long-off
 
 
 Balls faced: 16
 Bowler: McCarthy
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length in the channel. He tries to ramp, but the ball is too high, and is called wide"}]short of a length in the channel. He tries to ramp, but the ball is too high, and is called wide
+short of a length in the channel. He tries to ramp, but the ball is too high, and is called wide
 
 Wide: 1
 Balls faced: 17
 Bowler: McCarthy
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length just outside off, and pushed towards extra cover"}]short of a length just outside off, and pushed towards extra cover
+short of a length just outside off, and pushed towards extra cover
 
 
 Balls faced: 18
 Bowler: McCarthy
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "well taken by Adair! He was placed at short third, but kept his eyes all along on the ball, even as he had to move across to his right. McCarthy went on a length, and pretty wide of off, as Rashid now tried the helicopter shot but the ball came off the outside half of the bat"}]well taken by Adair! He was placed at short third, but kept his eyes all along on the ball, even as he had to move across to his right. McCarthy went on a length, and pretty wide of off, as Rashid now tried the helicopter shot but the ball came off the outside half of the bat
+Rashid Khan is OUT! caught
+c Adair b McCarthy
+Rashid Khan c Adair b McCarthy 25 (12b 3x4 1x6 18m) SR: 208.33
+well taken by Adair! He was placed at short third, but kept his eyes all along on the ball, even as he had to move across to his right. McCarthy went on a length, and pretty wide of off, as Rashid now tried the helicopter shot but the ball came off the outside half of the bat
 
 
 Balls faced: 19
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets across, and McCarthy bowls so wide of off that it lands just inside the pitch. Left alone, and called wide"}]gets across, and McCarthy bowls so wide of off that it lands just inside the pitch. Left alone, and called wide
+gets across, and McCarthy bowls so wide of off that it lands just inside the pitch. Left alone, and called wide
 
 Wide: 1
 Balls faced: 20
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "the ball lands just wide of the hands of Campher, who was running behind and across, while keeping an eye on the ball. It was bowled short and wide of off, as Rashid hacked but got it off the top half of the bat"}]the ball lands just wide of the hands of Campher, who was running behind and across, while keeping an eye on the ball. It was bowled short and wide of off, as Rashid hacked but got it off the top half of the bat
+the ball lands just wide of the hands of Campher, who was running behind and across, while keeping an eye on the ball. It was bowled short and wide of off, as Rashid hacked but got it off the top half of the bat
 
 
 Balls faced: 21
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full toss a bit wide of off, and slashed hard to deep point"}]full toss a bit wide of off, and slashed hard to deep point
+full toss a bit wide of off, and slashed hard to deep point
 
 
 Balls faced: 22
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "struck outside off, and the lbw appeal is turned down. Rashid is standing deep in the crease to try and play that snake shot off this length ball outside off, but is beaten"}]struck outside off, and the lbw appeal is turned down. Rashid is standing deep in the crease to try and play that snake shot off this length ball outside off, but is beaten
+struck outside off, and the lbw appeal is turned down. Rashid is standing deep in the crease to try and play that snake shot off this length ball outside off, but is beaten
 
 
 Balls faced: 23
 Bowler: Adair
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Around the wicket"}]Around the wicket
+Around the wicket
 
-[{"type": "HTML", "html": "quite full on his pads, and clipped hard towards deep midwicket"}]quite full on his pads, and clipped hard towards deep midwicket
+quite full on his pads, and clipped hard towards deep midwicket
 
 
 Balls faced: 24
 Bowler: Adair
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good comeback. Bowls a yorker in the channel, which Rashid looks to jam but is beaten"}]good comeback. Bowls a yorker in the channel, which Rashid looks to jam but is beaten
+good comeback. Bowls a yorker in the channel, which Rashid looks to jam but is beaten
 
 
 Balls faced: 25
 Bowler: Adair
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "a high full toss, and four more! It is not called an above-waist no-ball, and Rashid isn't entirely pleased. It was a slower ball, and was dipping to barely end on par of his waist around sixth stump. Swatted wide of long-off"}]a high full toss, and four more! It is not called an above-waist no-ball, and Rashid isn't entirely pleased. It was a slower ball, and was dipping to barely end on par of his waist around sixth stump. Swatted wide of long-off
+a high full toss, and four more! It is not called an above-waist no-ball, and Rashid isn't entirely pleased. It was a slower ball, and was dipping to barely end on par of his waist around sixth stump. Swatted wide of long-off
 
 
 Balls faced: 26
 Bowler: McCarthy
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "well taken by Adair! He was placed at short third, but kept his eyes all along on the ball, even as he had to move across to his right. McCarthy went on a length, and pretty wide of off, as Rashid now tried the helicopter shot but the ball came off the outside half of the bat"}]well taken by Adair! He was placed at short third, but kept his eyes all along on the ball, even as he had to move across to his right. McCarthy went on a length, and pretty wide of off, as Rashid now tried the helicopter shot but the ball came off the outside half of the bat
+Rashid Khan is OUT! caught
+c Adair b McCarthy
+Rashid Khan c Adair b McCarthy 25 (12b 3x4 1x6 18m) SR: 208.33
+well taken by Adair! He was placed at short third, but kept his eyes all along on the ball, even as he had to move across to his right. McCarthy went on a length, and pretty wide of off, as Rashid now tried the helicopter shot but the ball came off the outside half of the bat
 
 
 Balls faced: 27
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets across, and McCarthy bowls so wide of off that it lands just inside the pitch. Left alone, and called wide"}]gets across, and McCarthy bowls so wide of off that it lands just inside the pitch. Left alone, and called wide
+gets across, and McCarthy bowls so wide of off that it lands just inside the pitch. Left alone, and called wide
 
 Wide: 1
 Balls faced: 28
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "the ball lands just wide of the hands of Campher, who was running behind and across, while keeping an eye on the ball. It was bowled short and wide of off, as Rashid hacked but got it off the top half of the bat"}]the ball lands just wide of the hands of Campher, who was running behind and across, while keeping an eye on the ball. It was bowled short and wide of off, as Rashid hacked but got it off the top half of the bat
+the ball lands just wide of the hands of Campher, who was running behind and across, while keeping an eye on the ball. It was bowled short and wide of off, as Rashid hacked but got it off the top half of the bat
 
 
 Balls faced: 29
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full toss a bit wide of off, and slashed hard to deep point"}]full toss a bit wide of off, and slashed hard to deep point
+full toss a bit wide of off, and slashed hard to deep point
 
 
 Balls faced: 30
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "struck outside off, and the lbw appeal is turned down. Rashid is standing deep in the crease to try and play that snake shot off this length ball outside off, but is beaten"}]struck outside off, and the lbw appeal is turned down. Rashid is standing deep in the crease to try and play that snake shot off this length ball outside off, but is beaten
+struck outside off, and the lbw appeal is turned down. Rashid is standing deep in the crease to try and play that snake shot off this length ball outside off, but is beaten
 
 
 
@@ -1494,121 +1666,137 @@ Match: all_games_1416063_1416086.json
 Balls faced: 1
 Bowler: Little
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Rashid promoted"}]Rashid promoted
+Rashid promoted
 
-[{"type": "HTML", "html": "quite full and angled into off. Driven to long-off"}]quite full and angled into off. Driven to long-off
+quite full and angled into off. Driven to long-off
 
 
 Balls faced: 2
 Bowler: Adair
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker length on off, as he opens the face of the bat to guide to deep third"}]yorker length on off, as he opens the face of the bat to guide to deep third
+yorker length on off, as he opens the face of the bat to guide to deep third
 
 
 Balls faced: 3
 Bowler: Adair
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this is well bowled. Fires a yorker in the channel, as Rashid looked to flat-bat it but missed"}]this is well bowled. Fires a yorker in the channel, as Rashid looked to flat-bat it but missed
+this is well bowled. Fires a yorker in the channel, as Rashid looked to flat-bat it but missed
 
 
 Balls faced: 4
 Bowler: Adair
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "From around"}]From around
+From around
 
-[{"type": "HTML", "html": "bowls a ball that lands wide of off, and also almost beyond the pitch. Left alone, and called wide"}]bowls a ball that lands wide of off, and also almost beyond the pitch. Left alone, and called wide
+bowls a ball that lands wide of off, and also almost beyond the pitch. Left alone, and called wide
 
 Wide: 1
 Balls faced: 5
 Bowler: Little
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Rashid promoted"}]Rashid promoted
+Rashid promoted
 
-[{"type": "HTML", "html": "quite full and angled into off. Driven to long-off"}]quite full and angled into off. Driven to long-off
+quite full and angled into off. Driven to long-off
 
 
 Balls faced: 6
 Bowler: McCarthy
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Eliza: \"That is Zadran's top score in T20Is. Well played, sir!\""}]Eliza: "That is Zadran's top score in T20Is. Well played, sir!"
-
-[{"type": "HTML", "html": "<strong>finds deep midwicket!</strong> Taken with a reverse cup just above his head. Another shirt delivery from McCarthy, even as this one was a slower ball on middle-and-off line, thus not entirely allowing Rashid the room to swing. Ireland nipping Afghanistan's momentum each time Ibrahim takes them ahead"}]<strong>finds deep midwicket!</strong> Taken with a reverse cup just above his head. Another shirt delivery from McCarthy, even as this one was a slower ball on middle-and-off line, thus not entirely allowing Rashid the room to swing. Ireland nipping Afghanistan's momentum each time Ibrahim takes them ahead
+Eliza: "That is Zadran's top score in T20Is. Well played, sir!"
+Rashid Khan is OUT! caught
+c Campher b McCarthy
+Rashid Khan c Campher b McCarthy 3 (5b 0x4 0x6 13m) SR: 60
+<strong>finds deep midwicket!</strong> Taken with a reverse cup just above his head. Another shirt delivery from McCarthy, even as this one was a slower ball on middle-and-off line, thus not entirely allowing Rashid the room to swing. Ireland nipping Afghanistan's momentum each time Ibrahim takes them ahead
 
 
 Balls faced: 7
 Bowler: McCarthy
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length, and pulled off the toe end of the bat to mid-off"}]short of a length, and pulled off the toe end of the bat to mid-off
+short of a length, and pulled off the toe end of the bat to mid-off
 
 
 Balls faced: 8
 Bowler: Adair
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker length on off, as he opens the face of the bat to guide to deep third"}]yorker length on off, as he opens the face of the bat to guide to deep third
+yorker length on off, as he opens the face of the bat to guide to deep third
 
 
 Balls faced: 9
 Bowler: Adair
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this is well bowled. Fires a yorker in the channel, as Rashid looked to flat-bat it but missed"}]this is well bowled. Fires a yorker in the channel, as Rashid looked to flat-bat it but missed
+this is well bowled. Fires a yorker in the channel, as Rashid looked to flat-bat it but missed
 
 
 Balls faced: 10
 Bowler: Adair
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "From around"}]From around
+From around
 
-[{"type": "HTML", "html": "bowls a ball that lands wide of off, and also almost beyond the pitch. Left alone, and called wide"}]bowls a ball that lands wide of off, and also almost beyond the pitch. Left alone, and called wide
+bowls a ball that lands wide of off, and also almost beyond the pitch. Left alone, and called wide
 
 Wide: 1
 Balls faced: 11
 Bowler: McCarthy
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Eliza: \"That is Zadran's top score in T20Is. Well played, sir!\""}]Eliza: "That is Zadran's top score in T20Is. Well played, sir!"
-
-[{"type": "HTML", "html": "<strong>finds deep midwicket!</strong> Taken with a reverse cup just above his head. Another shirt delivery from McCarthy, even as this one was a slower ball on middle-and-off line, thus not entirely allowing Rashid the room to swing. Ireland nipping Afghanistan's momentum each time Ibrahim takes them ahead"}]<strong>finds deep midwicket!</strong> Taken with a reverse cup just above his head. Another shirt delivery from McCarthy, even as this one was a slower ball on middle-and-off line, thus not entirely allowing Rashid the room to swing. Ireland nipping Afghanistan's momentum each time Ibrahim takes them ahead
+Eliza: "That is Zadran's top score in T20Is. Well played, sir!"
+Rashid Khan is OUT! caught
+c Campher b McCarthy
+Rashid Khan c Campher b McCarthy 3 (5b 0x4 0x6 13m) SR: 60
+<strong>finds deep midwicket!</strong> Taken with a reverse cup just above his head. Another shirt delivery from McCarthy, even as this one was a slower ball on middle-and-off line, thus not entirely allowing Rashid the room to swing. Ireland nipping Afghanistan's momentum each time Ibrahim takes them ahead
 
 
 Balls faced: 12
 Bowler: McCarthy
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length, and pulled off the toe end of the bat to mid-off"}]short of a length, and pulled off the toe end of the bat to mid-off
+short of a length, and pulled off the toe end of the bat to mid-off
 
 
 
@@ -1616,6 +1804,7 @@ Match: all_games_1434088_1434104.json
 Balls faced: 1
 Bowler: Wheal
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1626,16 +1815,20 @@ Run scored: 1
 Balls faced: 2
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
+Rashid Khan is OUT! bowled
+ b Sole
+Rashid Khan b Sole 15 (7b 2x4 1x6) SR: 214.28
 
-
-[{"type": "HTML", "html": "Match State: Innings Break"}]Match State: Innings Break
+Match State: Innings Break
 
 Balls faced: 3
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1646,6 +1839,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1656,6 +1850,7 @@ Run scored: 4
 Balls faced: 5
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1666,6 +1861,7 @@ Run scored: 4
 Balls faced: 6
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1676,6 +1872,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -1686,6 +1883,7 @@ Run scored: 6
 Balls faced: 8
 Bowler: Wheal
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1696,16 +1894,20 @@ Run scored: 1
 Balls faced: 9
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
+Rashid Khan is OUT! bowled
+ b Sole
+Rashid Khan b Sole 15 (7b 2x4 1x6) SR: 214.28
 
-
-[{"type": "HTML", "html": "Match State: Innings Break"}]Match State: Innings Break
+Match State: Innings Break
 
 Balls faced: 10
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1716,6 +1918,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1726,6 +1929,7 @@ Run scored: 4
 Balls faced: 12
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1736,6 +1940,7 @@ Run scored: 4
 Balls faced: 13
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1746,5 +1951,6 @@ Run scored: 0
 Balls faced: 14
 Bowler: Sole
 Over: 20
+ 
 Shot: No Shot
 Run scored: 6

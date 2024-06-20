@@ -2,6 +2,7 @@ Match: all_games_1375837_1415302.json
 Balls faced: 1
 Bowler: Roach
 Over: 32
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Roach
 Over: 32
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -22,16 +24,20 @@ Run scored: 0
 Balls faced: 3
 Bowler: Alzarri Joseph
 Over: 33
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Scott is OUT! caught
+c Athanaze b AS Joseph
+Liam Scott c Athanaze b AS Joseph 0 (5b 0x4 0x6) SR: 0
 
 
 
 Balls faced: 4
 Bowler: Alzarri Joseph
 Over: 33
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -42,6 +48,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Alzarri Joseph
 Over: 33
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -52,6 +59,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Roach
 Over: 32
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -62,6 +70,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Roach
 Over: 32
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -72,16 +81,20 @@ Run scored: 0
 Balls faced: 8
 Bowler: Alzarri Joseph
 Over: 33
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Scott is OUT! caught
+c Athanaze b Joseph
+Liam Scott c Athanaze b Joseph 0 (5b 0x4 0x6) SR: 0
 
 
 
 Balls faced: 9
 Bowler: Alzarri Joseph
 Over: 33
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -92,5 +105,6 @@ Run scored: 0
 Balls faced: 10
 Bowler: Alzarri Joseph
 Over: 33
+ 
 Shot: No Shot
 Run scored: 0

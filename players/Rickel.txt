@@ -2,141 +2,159 @@ Match: all_games_1433350_1433362.json
 Balls faced: 1
 Bowler: Forde
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length delivery angling in, pushed to cover for a run"}]Length delivery angling in, pushed to cover for a run
-[{"type": "HTML", "html": "Good start from the West Indies here."}]Good start from the West Indies here.
+Length delivery angling in, pushed to cover for a run
+Good start from the West Indies here.
 
 Balls faced: 2
 Bowler: Forde
 Over: 1
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Excellent running. Length delivery on middle and leg, taps it away to midwicket for a couple of runs"}]Excellent running. Length delivery on middle and leg, taps it away to midwicket for a couple of runs
+Excellent running. Length delivery on middle and leg, taps it away to midwicket for a couple of runs
 
 
 Balls faced: 3
 Bowler: Forde
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length delivery on the stumps, pushed to point"}]Length delivery on the stumps, pushed to point
+Length delivery on the stumps, pushed to point
 
 
 Balls faced: 4
 Bowler: Forde
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "debutant Rickelton comes in at No.3"}]debutant Rickelton comes in at No.3
+debutant Rickelton comes in at No.3
 
-[{"type": "HTML", "html": "Gets off the mark. Full length ball outside off, punches off towards covers"}]Gets off the mark. Full length ball outside off, punches off towards covers
+Gets off the mark. Full length ball outside off, punches off towards covers
 
 
 Balls faced: 5
 Bowler: Chase
 Over: 2
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Slip comes back"}]Slip comes back
-
-[{"type": "HTML", "html": "<b>West Indies are celebrating!</b> Is Rickelton out? Full length delivery pitched outside leg, there little bit of turn, he moves away and back to push forward. Misses. Keeper collects it quickly and removes the bails. <b>Rickelton is just short of the crease!</b> Oh, you poor thing."}]<b>West Indies are celebrating!</b> Is Rickelton out? Full length delivery pitched outside leg, there little bit of turn, he moves away and back to push forward. Misses. Keeper collects it quickly and removes the bails. <b>Rickelton is just short of the crease!</b> Oh, you poor thing.
+Slip comes back
+Rickel is OUT! stumped
+st †Fletcher b Chase
+Ryan Rickelton st †Fletcher b Chase 6 (7b 0x4 0x6 6m) SR: 85.71
+<b>West Indies are celebrating!</b> Is Rickelton out? Full length delivery pitched outside leg, there little bit of turn, he moves away and back to push forward. Misses. Keeper collects it quickly and removes the bails. <b>Rickelton is just short of the crease!</b> Oh, you poor thing.
 
 
 Balls faced: 6
 Bowler: Chase
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller outside leg, he shuffles across and push to right of Chase. He puts in a dive but can't get hold of it"}]Fuller outside leg, he shuffles across and push to right of Chase. He puts in a dive but can't get hold of it
+Fuller outside leg, he shuffles across and push to right of Chase. He puts in a dive but can't get hold of it
 
 
 Balls faced: 7
 Bowler: Chase
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Chase in to the chase. One slip"}]Chase in to the chase. One slip
+Chase in to the chase. One slip
 
-[{"type": "HTML", "html": "Full on middle, goes back and knocks it to bowler"}]Full on middle, goes back and knocks it to bowler
+Full on middle, goes back and knocks it to bowler
 
 
 Balls faced: 8
 Bowler: Forde
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length delivery angling in, pushed to cover for a run"}]Length delivery angling in, pushed to cover for a run
-[{"type": "HTML", "html": "Good start from the West Indies here."}]Good start from the West Indies here.
+Length delivery angling in, pushed to cover for a run
+Good start from the West Indies here.
 
 Balls faced: 9
 Bowler: Forde
 Over: 1
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Excellent running. Length delivery on middle and leg, taps it away to midwicket for a couple of runs"}]Excellent running. Length delivery on middle and leg, taps it away to midwicket for a couple of runs
+Excellent running. Length delivery on middle and leg, taps it away to midwicket for a couple of runs
 
 
 Balls faced: 10
 Bowler: Forde
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length delivery on the stumps, pushed to point"}]Length delivery on the stumps, pushed to point
+Length delivery on the stumps, pushed to point
 
 
 Balls faced: 11
 Bowler: Forde
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "debutant Rickelton comes in at No.3"}]debutant Rickelton comes in at No.3
+debutant Rickelton comes in at No.3
 
-[{"type": "HTML", "html": "Gets off the mark. Full length ball outside off, punches off towards covers"}]Gets off the mark. Full length ball outside off, punches off towards covers
+Gets off the mark. Full length ball outside off, punches off towards covers
 
 
 Balls faced: 12
 Bowler: Chase
 Over: 2
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Slip comes back"}]Slip comes back
-
-[{"type": "HTML", "html": "<b>West Indies are celebrating!</b> Is Rickelton out? Full length delivery pitched outside leg, there little bit of turn, he moves away and back to push forward. Misses. Keeper collects it quickly and removes the bails. <b>Rickelton is just short of the crease!</b> Oh, you poor thing."}]<b>West Indies are celebrating!</b> Is Rickelton out? Full length delivery pitched outside leg, there little bit of turn, he moves away and back to push forward. Misses. Keeper collects it quickly and removes the bails. <b>Rickelton is just short of the crease!</b> Oh, you poor thing.
+Slip comes back
+Rickel is OUT! stumped
+st †Fletcher b Chase
+Ryan Rickelton st †Fletcher b Chase 6 (7b 0x4 0x6 6m) SR: 85.71
+<b>West Indies are celebrating!</b> Is Rickelton out? Full length delivery pitched outside leg, there little bit of turn, he moves away and back to push forward. Misses. Keeper collects it quickly and removes the bails. <b>Rickelton is just short of the crease!</b> Oh, you poor thing.
 
 
 Balls faced: 13
 Bowler: Chase
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller outside leg, he shuffles across and push to right of Chase. He puts in a dive but can't get hold of it"}]Fuller outside leg, he shuffles across and push to right of Chase. He puts in a dive but can't get hold of it
+Fuller outside leg, he shuffles across and push to right of Chase. He puts in a dive but can't get hold of it
 
 
 Balls faced: 14
 Bowler: Chase
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Chase in to the chase. One slip"}]Chase in to the chase. One slip
+Chase in to the chase. One slip
 
-[{"type": "HTML", "html": "Full on middle, goes back and knocks it to bowler"}]Full on middle, goes back and knocks it to bowler
+Full on middle, goes back and knocks it to bowler
 
 
 
@@ -144,341 +162,379 @@ Match: all_games_1433350_1433363.json
 Balls faced: 1
 Bowler: Chase
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Rickelton facing his first ball. Chase from around the stumps."}]Rickelton facing his first ball. Chase from around the stumps.
+Rickelton facing his first ball. Chase from around the stumps.
 
-[{"type": "HTML", "html": "shorter side of a length on middle and leg, and nudged to deep midwicket"}]shorter side of a length on middle and leg, and nudged to deep midwicket
+shorter side of a length on middle and leg, and nudged to deep midwicket
 
 
 Balls faced: 2
 Bowler: Hosein
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball just outside off, with a hint of turn back in. Thumped to long-off"}]length ball just outside off, with a hint of turn back in. Thumped to long-off
+length ball just outside off, with a hint of turn back in. Thumped to long-off
 
 
 Balls faced: 3
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Free hit"}]Free hit
+Free hit
 
-[{"type": "HTML", "html": "a swat over extra cover! Shorter side of a length, and wide of off, as Rickelton reached out and lofted for four"}]a swat over extra cover! Shorter side of a length, and wide of off, as Rickelton reached out and lofted for four
+a swat over extra cover! Shorter side of a length, and wide of off, as Rickelton reached out and lofted for four
 
 
 Balls faced: 4
 Bowler: Hosein
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Hosein will continue after going for 22 in his first over. From around to Rickelton."}]Hosein will continue after going for 22 in his first over. From around to Rickelton.
+Hosein will continue after going for 22 in his first over. From around to Rickelton.
 
-[{"type": "HTML", "html": "on a length on his pads, and clipped to deep midwicket"}]on a length on his pads, and clipped to deep midwicket
+on a length on his pads, and clipped to deep midwicket
 
 
 Balls faced: 5
 Bowler: Chase
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Rickelton facing his first ball. Chase from around the stumps."}]Rickelton facing his first ball. Chase from around the stumps.
+Rickelton facing his first ball. Chase from around the stumps.
 
-[{"type": "HTML", "html": "shorter side of a length on middle and leg, and nudged to deep midwicket"}]shorter side of a length on middle and leg, and nudged to deep midwicket
+shorter side of a length on middle and leg, and nudged to deep midwicket
 
 
 Balls faced: 6
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "ahh, outside edge but four! Rickelton seemed to be surprised by the bounce there, even as he closed the face of the bat to try and clip this fullish ball outside off to the leg side. But the ball took the outside edge, and dribbled away"}]ahh, outside edge but four! Rickelton seemed to be surprised by the bounce there, even as he closed the face of the bat to try and clip this fullish ball outside off to the leg side. But the ball took the outside edge, and dribbled away
+ahh, outside edge but four! Rickelton seemed to be surprised by the bounce there, even as he closed the face of the bat to try and clip this fullish ball outside off to the leg side. But the ball took the outside edge, and dribbled away
 
 
 Balls faced: 7
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and dipping on middle. Pushed to long-on"}]full and dipping on middle. Pushed to long-on
+full and dipping on middle. Pushed to long-on
 
 
 Balls faced: 8
 Bowler: Hosein
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball just outside off, with a hint of turn back in. Thumped to long-off"}]length ball just outside off, with a hint of turn back in. Thumped to long-off
+length ball just outside off, with a hint of turn back in. Thumped to long-off
 
 
 Balls faced: 9
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Free hit"}]Free hit
+Free hit
 
-[{"type": "HTML", "html": "a swat over extra cover! Shorter side of a length, and wide of off, as Rickelton reached out and lofted for four"}]a swat over extra cover! Shorter side of a length, and wide of off, as Rickelton reached out and lofted for four
+a swat over extra cover! Shorter side of a length, and wide of off, as Rickelton reached out and lofted for four
 
 
 Balls faced: 10
 Bowler: Hosein
 Over: 7
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Hosein will continue after going for 22 in his first over. From around to Rickelton."}]Hosein will continue after going for 22 in his first over. From around to Rickelton.
+Hosein will continue after going for 22 in his first over. From around to Rickelton.
 
-[{"type": "HTML", "html": "on a length on his pads, and clipped to deep midwicket"}]on a length on his pads, and clipped to deep midwicket
+on a length on his pads, and clipped to deep midwicket
 
 
 Balls faced: 11
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "much fuller on the stumps, and quicker at 101kph. Flayed to deep-backward square off the inside half of the bat"}]much fuller on the stumps, and quicker at 101kph. Flayed to deep-backward square off the inside half of the bat
+much fuller on the stumps, and quicker at 101kph. Flayed to deep-backward square off the inside half of the bat
 
 
 Balls faced: 12
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short in length, and slapped back to the bowler's right"}]short in length, and slapped back to the bowler's right
+short in length, and slapped back to the bowler's right
 
 
 Balls faced: 13
 Bowler: Motie
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "From over to Rickelton"}]From over to Rickelton
+From over to Rickelton
 
-[{"type": "HTML", "html": "fullish ball turning into middle and leg, and tucked towards deep midwicket for two quick runs"}]fullish ball turning into middle and leg, and tucked towards deep midwicket for two quick runs
+fullish ball turning into middle and leg, and tucked towards deep midwicket for two quick runs
 
 
 Balls faced: 14
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "ahh, outside edge but four! Rickelton seemed to be surprised by the bounce there, even as he closed the face of the bat to try and clip this fullish ball outside off to the leg side. But the ball took the outside edge, and dribbled away"}]ahh, outside edge but four! Rickelton seemed to be surprised by the bounce there, even as he closed the face of the bat to try and clip this fullish ball outside off to the leg side. But the ball took the outside edge, and dribbled away
+ahh, outside edge but four! Rickelton seemed to be surprised by the bounce there, even as he closed the face of the bat to try and clip this fullish ball outside off to the leg side. But the ball took the outside edge, and dribbled away
 
 
 Balls faced: 15
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and dipping on middle. Pushed to long-on"}]full and dipping on middle. Pushed to long-on
+full and dipping on middle. Pushed to long-on
 
 
 Balls faced: 16
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and angled into off. Driven to long-off"}]full and angled into off. Driven to long-off
+full and angled into off. Driven to long-off
 
 
 Balls faced: 17
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length just outside off, and pulled hard to deep square leg"}]short of a length just outside off, and pulled hard to deep square leg
+short of a length just outside off, and pulled hard to deep square leg
 
 
 Balls faced: 18
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "much fuller on the stumps, and quicker at 101kph. Flayed to deep-backward square off the inside half of the bat"}]much fuller on the stumps, and quicker at 101kph. Flayed to deep-backward square off the inside half of the bat
+much fuller on the stumps, and quicker at 101kph. Flayed to deep-backward square off the inside half of the bat
 
 
 Balls faced: 19
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short in length, and slapped back to the bowler's right"}]short in length, and slapped back to the bowler's right
+short in length, and slapped back to the bowler's right
 
 
 Balls faced: 20
 Bowler: Motie
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "From over to Rickelton"}]From over to Rickelton
+From over to Rickelton
 
-[{"type": "HTML", "html": "fullish ball turning into middle and leg, and tucked towards deep midwicket for two quick runs"}]fullish ball turning into middle and leg, and tucked towards deep midwicket for two quick runs
+fullish ball turning into middle and leg, and tucked towards deep midwicket for two quick runs
 
 
 Balls faced: 21
 Bowler: Motie
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around leg stump. Misses the sweep and the leg bye is collected with the ball squirting away to short fine leg"}]full ball around leg stump. Misses the sweep and the leg bye is collected with the ball squirting away to short fine leg
+full ball around leg stump. Misses the sweep and the leg bye is collected with the ball squirting away to short fine leg
 
 Legbyes: 1
 Balls faced: 22
 Bowler: Motie
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball outside off, quicker delivery. Tries to cut but gets a <B>bottom edge</b> however the keeper can't grab this tough chance. <B>Dropped</b>"}]length ball outside off, quicker delivery. Tries to cut but gets a <B>bottom edge</b> however the keeper can't grab this tough chance. <B>Dropped</b>
+length ball outside off, quicker delivery. Tries to cut but gets a <B>bottom edge</b> however the keeper can't grab this tough chance. <B>Dropped</b>
 
 
 Balls faced: 23
 Bowler: Motie
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flat-bats a shot to long off for one"}]flat-bats a shot to long off for one
+flat-bats a shot to long off for one
 
 
 Balls faced: 24
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and angled into off. Driven to long-off"}]full and angled into off. Driven to long-off
+full and angled into off. Driven to long-off
 
 
 Balls faced: 25
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length just outside off, and pulled hard to deep square leg"}]short of a length just outside off, and pulled hard to deep square leg
+short of a length just outside off, and pulled hard to deep square leg
 
 
 Balls faced: 26
 Bowler: Shepherd
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "short and wide. Rickelton tries to slap it over point but ends up scooping a shot high up for cover to get under it. WI are fighting back with every over!"}]short and wide. Rickelton tries to slap it over point but ends up scooping a shot high up for cover to get under it. WI are fighting back with every over!
+Rickel is OUT! caught
+c Mayers b Shepherd
+Ryan Rickelton c Mayers b Shepherd 19 (17b 2x4 0x6 29m) SR: 111.76
+short and wide. Rickelton tries to slap it over point but ends up scooping a shot high up for cover to get under it. WI are fighting back with every over!
 
 
 Balls faced: 27
 Bowler: Shepherd
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "around the stumps, and lands a yorker around leg stump. Misses the swipe across the line and the ball hits his boot. They scurry across for a leg bye"}]around the stumps, and lands a yorker around leg stump. Misses the swipe across the line and the ball hits his boot. They scurry across for a leg bye
+around the stumps, and lands a yorker around leg stump. Misses the swipe across the line and the ball hits his boot. They scurry across for a leg bye
 
 Legbyes: 1
 Balls faced: 28
 Bowler: Shepherd
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length ball outside off stump. Slapped to mid off for a single"}]back of a length ball outside off stump. Slapped to mid off for a single
+back of a length ball outside off stump. Slapped to mid off for a single
 
 
 Balls faced: 29
 Bowler: Motie
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around leg stump. Misses the sweep and the leg bye is collected with the ball squirting away to short fine leg"}]full ball around leg stump. Misses the sweep and the leg bye is collected with the ball squirting away to short fine leg
+full ball around leg stump. Misses the sweep and the leg bye is collected with the ball squirting away to short fine leg
 
 Legbyes: 1
 Balls faced: 30
 Bowler: Motie
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball outside off, quicker delivery. Tries to cut but gets a <B>bottom edge</b> however the keeper can't grab this tough chance. <B>Dropped</b>"}]length ball outside off, quicker delivery. Tries to cut but gets a <B>bottom edge</b> however the keeper can't grab this tough chance. <B>Dropped</b>
+length ball outside off, quicker delivery. Tries to cut but gets a <B>bottom edge</b> however the keeper can't grab this tough chance. <B>Dropped</b>
 
 
 Balls faced: 31
 Bowler: Motie
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flat-bats a shot to long off for one"}]flat-bats a shot to long off for one
+flat-bats a shot to long off for one
 
 
 Balls faced: 32
 Bowler: Shepherd
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "short and wide. Rickelton tries to slap it over point but ends up scooping a shot high up for cover to get under it. WI are fighting back with every over!"}]short and wide. Rickelton tries to slap it over point but ends up scooping a shot high up for cover to get under it. WI are fighting back with every over!
+Rickel is OUT! caught
+c Mayers b Shepherd
+Ryan Rickelton c Mayers b Shepherd 19 (17b 2x4 0x6 29m) SR: 111.76
+short and wide. Rickelton tries to slap it over point but ends up scooping a shot high up for cover to get under it. WI are fighting back with every over!
 
 
 Balls faced: 33
 Bowler: Shepherd
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "around the stumps, and lands a yorker around leg stump. Misses the swipe across the line and the ball hits his boot. They scurry across for a leg bye"}]around the stumps, and lands a yorker around leg stump. Misses the swipe across the line and the ball hits his boot. They scurry across for a leg bye
+around the stumps, and lands a yorker around leg stump. Misses the swipe across the line and the ball hits his boot. They scurry across for a leg bye
 
 Legbyes: 1
 Balls faced: 34
 Bowler: Shepherd
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length ball outside off stump. Slapped to mid off for a single"}]back of a length ball outside off stump. Slapped to mid off for a single
+back of a length ball outside off stump. Slapped to mid off for a single
 
 
 
@@ -486,278 +542,310 @@ Match: all_games_1433350_1433364.json
 Balls faced: 1
 Bowler: Shamar Joseph
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length, and just outside off this time. Nudged towards midwicket for a quick single"}]on a length, and just outside off this time. Nudged towards midwicket for a quick single
+on a length, and just outside off this time. Nudged towards midwicket for a quick single
 
 
 Balls faced: 2
 Bowler: Shamar Joseph
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this is fullish again, but on off. Pushed to cover after leaning forward"}]this is fullish again, but on off. Pushed to cover after leaning forward
+this is fullish again, but on off. Pushed to cover after leaning forward
 
 
 Balls faced: 3
 Bowler: Shamar Joseph
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Rickelton at No. 3. Joseph from around."}]Rickelton at No. 3. Joseph from around.
+Rickelton at No. 3. Joseph from around.
 
-[{"type": "HTML", "html": "ahh, beaten first ball! He angles this in, and bowls on the fuller side of a length while going a bit wide of off. Rickelton drives away from his body without any foot movement, and is beaten"}]ahh, beaten first ball! He angles this in, and bowls on the fuller side of a length while going a bit wide of off. Rickelton drives away from his body without any foot movement, and is beaten
+ahh, beaten first ball! He angles this in, and bowls on the fuller side of a length while going a bit wide of off. Rickelton drives away from his body without any foot movement, and is beaten
 
 
 Balls faced: 4
 Bowler: Hosein
 Over: 3
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "again makes room, and again Hosein bowls on a length outside leg. Nudged to long-on again, too"}]again makes room, and again Hosein bowls on a length outside leg. Nudged to long-on again, too
+again makes room, and again Hosein bowls on a length outside leg. Nudged to long-on again, too
 
 
 Balls faced: 5
 Bowler: Hosein
 Over: 3
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Rambo Singh: \"How has Jamaica's crowd been for this series?\" --- They haven't really filled the seats up, but whatever number has turned up has still ensured to make their presence felt by the honking of the vuvuzelas"}]Rambo Singh: "How has Jamaica's crowd been for this series?" --- They haven't really filled the seats up, but whatever number has turned up has still ensured to make their presence felt by the honking of the vuvuzelas
+Rambo Singh: "How has Jamaica's crowd been for this series?" --- They haven't really filled the seats up, but whatever number has turned up has still ensured to make their presence felt by the honking of the vuvuzelas
 
-[{"type": "HTML", "html": "backs away, and Hosein follows by tossing it up and bowling full outside leg. Pushed down to long-on"}]backs away, and Hosein follows by tossing it up and bowling full outside leg. Pushed down to long-on
+backs away, and Hosein follows by tossing it up and bowling full outside leg. Pushed down to long-on
 
 
 Balls faced: 6
 Bowler: Shamar Joseph
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length, and just outside off this time. Nudged towards midwicket for a quick single"}]on a length, and just outside off this time. Nudged towards midwicket for a quick single
+on a length, and just outside off this time. Nudged towards midwicket for a quick single
 
 
 Balls faced: 7
 Bowler: Shamar Joseph
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this is fullish again, but on off. Pushed to cover after leaning forward"}]this is fullish again, but on off. Pushed to cover after leaning forward
+this is fullish again, but on off. Pushed to cover after leaning forward
 
 
 Balls faced: 8
 Bowler: Shamar Joseph
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Rickelton at No. 3. Joseph from around."}]Rickelton at No. 3. Joseph from around.
+Rickelton at No. 3. Joseph from around.
 
-[{"type": "HTML", "html": "ahh, beaten first ball! He angles this in, and bowls on the fuller side of a length while going a bit wide of off. Rickelton drives away from his body without any foot movement, and is beaten"}]ahh, beaten first ball! He angles this in, and bowls on the fuller side of a length while going a bit wide of off. Rickelton drives away from his body without any foot movement, and is beaten
+ahh, beaten first ball! He angles this in, and bowls on the fuller side of a length while going a bit wide of off. Rickelton drives away from his body without any foot movement, and is beaten
 
 
 Balls faced: 9
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full on middle and off, and whipped towards deep square leg"}]very full on middle and off, and whipped towards deep square leg
+very full on middle and off, and whipped towards deep square leg
 
 
 Balls faced: 10
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "another full toss, and this is drilled! Rickelton drives between the stumps and the non-striker, as this low full toss is angled into off by Joseph"}]another full toss, and this is drilled! Rickelton drives between the stumps and the non-striker, as this low full toss is angled into off by Joseph
+another full toss, and this is drilled! Rickelton drives between the stumps and the non-striker, as this low full toss is angled into off by Joseph
 
 
 Balls faced: 11
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Rickelton backs away, and Joseph ends up bowling a high-ish full toss on the stumps. But it is driven right towards cover"}]Rickelton backs away, and Joseph ends up bowling a high-ish full toss on the stumps. But it is driven right towards cover
+Rickelton backs away, and Joseph ends up bowling a high-ish full toss on the stumps. But it is driven right towards cover
 
 
 Balls faced: 12
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a short of a length on middle and off at 145kph, and swatted back to the bowler"}]on a short of a length on middle and off at 145kph, and swatted back to the bowler
+on a short of a length on middle and off at 145kph, and swatted back to the bowler
 
 
 Balls faced: 13
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "swung away to deep square leg! Walsh from deep-backward square runs to his right, but is beaten. Joseph bowled on a short of a length, and angled this in, as Rickelton pulled from middle and leg"}]swung away to deep square leg! Walsh from deep-backward square runs to his right, but is beaten. Joseph bowled on a short of a length, and angled this in, as Rickelton pulled from middle and leg
+swung away to deep square leg! Walsh from deep-backward square runs to his right, but is beaten. Joseph bowled on a short of a length, and angled this in, as Rickelton pulled from middle and leg
 
 
 Balls faced: 14
 Bowler: Hosein
 Over: 3
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "again makes room, and again Hosein bowls on a length outside leg. Nudged to long-on again, too"}]again makes room, and again Hosein bowls on a length outside leg. Nudged to long-on again, too
+again makes room, and again Hosein bowls on a length outside leg. Nudged to long-on again, too
 
 
 Balls faced: 15
 Bowler: Hosein
 Over: 3
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Rambo Singh: \"How has Jamaica's crowd been for this series?\" --- They haven't really filled the seats up, but whatever number has turned up has still ensured to make their presence felt by the honking of the vuvuzelas"}]Rambo Singh: "How has Jamaica's crowd been for this series?" --- They haven't really filled the seats up, but whatever number has turned up has still ensured to make their presence felt by the honking of the vuvuzelas
+Rambo Singh: "How has Jamaica's crowd been for this series?" --- They haven't really filled the seats up, but whatever number has turned up has still ensured to make their presence felt by the honking of the vuvuzelas
 
-[{"type": "HTML", "html": "backs away, and Hosein follows by tossing it up and bowling full outside leg. Pushed down to long-on"}]backs away, and Hosein follows by tossing it up and bowling full outside leg. Pushed down to long-on
+backs away, and Hosein follows by tossing it up and bowling full outside leg. Pushed down to long-on
 
 
 Balls faced: 16
 Bowler: Allen
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "now barely short of midwicket! De Kock slog sweeps this full ball around middle and off, as McCoy dives to his left, but the ball is just short"}]now barely short of midwicket! De Kock slog sweeps this full ball around middle and off, as McCoy dives to his left, but the ball is just short
+now barely short of midwicket! De Kock slog sweeps this full ball around middle and off, as McCoy dives to his left, but the ball is just short
 
 
 Balls faced: 17
 Bowler: Allen
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "From around now"}]From around now
+From around now
 
-[{"type": "HTML", "html": "on a length around off, and slapped towards cover"}]on a length around off, and slapped towards cover
+on a length around off, and slapped towards cover
 
 
 Balls faced: 18
 Bowler: Allen
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Allen replaces Hosein. From over the stumps."}]Allen replaces Hosein. From over the stumps.
+Allen replaces Hosein. From over the stumps.
 
-[{"type": "HTML", "html": "swatted to deep cover! Backs away early, and Allen bowled short and just outside off. The ball turns in towards the stumps, and Rickelton rams that in the gap"}]swatted to deep cover! Backs away early, and Allen bowled short and just outside off. The ball turns in towards the stumps, and Rickelton rams that in the gap
+swatted to deep cover! Backs away early, and Allen bowled short and just outside off. The ball turns in towards the stumps, and Rickelton rams that in the gap
 
 
 Balls faced: 19
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full on middle and off, and whipped towards deep square leg"}]very full on middle and off, and whipped towards deep square leg
+very full on middle and off, and whipped towards deep square leg
 
 
 Balls faced: 20
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "another full toss, and this is drilled! Rickelton drives between the stumps and the non-striker, as this low full toss is angled into off by Joseph"}]another full toss, and this is drilled! Rickelton drives between the stumps and the non-striker, as this low full toss is angled into off by Joseph
+another full toss, and this is drilled! Rickelton drives between the stumps and the non-striker, as this low full toss is angled into off by Joseph
 
 
 Balls faced: 21
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Rickelton backs away, and Joseph ends up bowling a high-ish full toss on the stumps. But it is driven right towards cover"}]Rickelton backs away, and Joseph ends up bowling a high-ish full toss on the stumps. But it is driven right towards cover
+Rickelton backs away, and Joseph ends up bowling a high-ish full toss on the stumps. But it is driven right towards cover
 
 
 Balls faced: 22
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a short of a length on middle and off at 145kph, and swatted back to the bowler"}]on a short of a length on middle and off at 145kph, and swatted back to the bowler
+on a short of a length on middle and off at 145kph, and swatted back to the bowler
 
 
 Balls faced: 23
 Bowler: Shamar Joseph
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "swung away to deep square leg! Walsh from deep-backward square runs to his right, but is beaten. Joseph bowled on a short of a length, and angled this in, as Rickelton pulled from middle and leg"}]swung away to deep square leg! Walsh from deep-backward square runs to his right, but is beaten. Joseph bowled on a short of a length, and angled this in, as Rickelton pulled from middle and leg
+swung away to deep square leg! Walsh from deep-backward square runs to his right, but is beaten. Joseph bowled on a short of a length, and angled this in, as Rickelton pulled from middle and leg
 
 
 Balls faced: 24
 Bowler: McCoy
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "a little tickle behind, and Rickelton falls! The slower ball comes into play already for McCoy. He angled this in from over the wicket, and bowled on a length a bit wide of off. His fingers were rolled over the ball, which shaped to move back in, even as there was some extra bounce. Rickelton half-closed the face of the bat to perhaps try and turn in to the leg side, but was beaten by the lack of pace and the bounce"}]a little tickle behind, and Rickelton falls! The slower ball comes into play already for McCoy. He angled this in from over the wicket, and bowled on a length a bit wide of off. His fingers were rolled over the ball, which shaped to move back in, even as there was some extra bounce. Rickelton half-closed the face of the bat to perhaps try and turn in to the leg side, but was beaten by the lack of pace and the bounce
+Rickel is OUT! caught
+c †Fletcher b McCoy
+Ryan Rickelton c †Fletcher b McCoy 18 (14b 3x4 0x6 18m) SR: 128.57
+a little tickle behind, and Rickelton falls! The slower ball comes into play already for McCoy. He angled this in from over the wicket, and bowled on a length a bit wide of off. His fingers were rolled over the ball, which shaped to move back in, even as there was some extra bounce. Rickelton half-closed the face of the bat to perhaps try and turn in to the leg side, but was beaten by the lack of pace and the bounce
 
 
 Balls faced: 25
 Bowler: Allen
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "now barely short of midwicket! De Kock slog sweeps this full ball around middle and off, as McCoy dives to his left, but the ball is just short"}]now barely short of midwicket! De Kock slog sweeps this full ball around middle and off, as McCoy dives to his left, but the ball is just short
+now barely short of midwicket! De Kock slog sweeps this full ball around middle and off, as McCoy dives to his left, but the ball is just short
 
 
 Balls faced: 26
 Bowler: Allen
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "From around now"}]From around now
+From around now
 
-[{"type": "HTML", "html": "on a length around off, and slapped towards cover"}]on a length around off, and slapped towards cover
+on a length around off, and slapped towards cover
 
 
 Balls faced: 27
 Bowler: Allen
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Allen replaces Hosein. From over the stumps."}]Allen replaces Hosein. From over the stumps.
+Allen replaces Hosein. From over the stumps.
 
-[{"type": "HTML", "html": "swatted to deep cover! Backs away early, and Allen bowled short and just outside off. The ball turns in towards the stumps, and Rickelton rams that in the gap"}]swatted to deep cover! Backs away early, and Allen bowled short and just outside off. The ball turns in towards the stumps, and Rickelton rams that in the gap
+swatted to deep cover! Backs away early, and Allen bowled short and just outside off. The ball turns in towards the stumps, and Rickelton rams that in the gap
 
 
 Balls faced: 28
 Bowler: McCoy
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "a little tickle behind, and Rickelton falls! The slower ball comes into play already for McCoy. He angled this in from over the wicket, and bowled on a length a bit wide of off. His fingers were rolled over the ball, which shaped to move back in, even as there was some extra bounce. Rickelton half-closed the face of the bat to perhaps try and turn in to the leg side, but was beaten by the lack of pace and the bounce"}]a little tickle behind, and Rickelton falls! The slower ball comes into play already for McCoy. He angled this in from over the wicket, and bowled on a length a bit wide of off. His fingers were rolled over the ball, which shaped to move back in, even as there was some extra bounce. Rickelton half-closed the face of the bat to perhaps try and turn in to the leg side, but was beaten by the lack of pace and the bounce
+Rickel is OUT! caught
+c †Fletcher b McCoy
+Ryan Rickelton c †Fletcher b McCoy 18 (14b 3x4 0x6 18m) SR: 128.57
+a little tickle behind, and Rickelton falls! The slower ball comes into play already for McCoy. He angled this in from over the wicket, and bowled on a length a bit wide of off. His fingers were rolled over the ball, which shaped to move back in, even as there was some extra bounce. Rickelton half-closed the face of the bat to perhaps try and turn in to the leg side, but was beaten by the lack of pace and the bounce

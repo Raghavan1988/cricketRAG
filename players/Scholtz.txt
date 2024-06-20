@@ -2,81 +2,89 @@ Match: all_games_1411166_1415712.json
 Balls faced: 1
 Bowler: Currie
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length, Scholtz plays this with his weight back, dabbing into the covers and pinching a single"}]Back of a length, Scholtz plays this with his weight back, dabbing into the covers and pinching a single
+Back of a length, Scholtz plays this with his weight back, dabbing into the covers and pinching a single
 
 
 Balls faced: 2
 Bowler: Wheal
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Short and slow again, hacked out to midwicket and they do get a couple. And now it has started raining as both sets of players make their way off the field. Hard rain, too, with the covers coming on."}]Short and slow again, hacked out to midwicket and they do get a couple. And now it has started raining as both sets of players make their way off the field. Hard rain, too, with the covers coming on.
-[{"type": "HTML", "html": "<B>4.42pm:</b> Happily that squawly shower has blown through, and we should be able to resume shortly."}, {"type": "HTML", "html": "<b>4.40pm:</b> The big covers are now on. Zane Green (28 off 27) says the wicket was two-paced but is happy with what the team managed to cobble together: \"We feel good about it after the wickets in the Powerplay. It was a great innings from the captain Gerhard Erasmus. His intensity batting on the wicket, he made sure the bad balls had to be put away. He was very positive.\""}, {"type": "HTML", "html": "MikeB: \"Decent death bowling effort from Scotland, arresting the momentum just a Namibia were starting to get going. Hope they don't get foiled by the rain again!\""}, {"type": "HTML", "html": "<b>4.33pm:</b> Well, it's a competitive score after a pretty average start from Namibia. <strong>Scotland need 156 to win</strong>"}]<B>4.42pm:</b> Happily that squawly shower has blown through, and we should be able to resume shortly. <b>4.40pm:</b> The big covers are now on. Zane Green (28 off 27) says the wicket was two-paced but is happy with what the team managed to cobble together: "We feel good about it after the wickets in the Powerplay. It was a great innings from the captain Gerhard Erasmus. His intensity batting on the wicket, he made sure the bad balls had to be put away. He was very positive." MikeB: "Decent death bowling effort from Scotland, arresting the momentum just a Namibia were starting to get going. Hope they don't get foiled by the rain again!" <b>4.33pm:</b> Well, it's a competitive score after a pretty average start from Namibia. <strong>Scotland need 156 to win</strong>
+Short and slow again, hacked out to midwicket and they do get a couple. And now it has started raining as both sets of players make their way off the field. Hard rain, too, with the covers coming on.
+<B>4.42pm:</b> Happily that squawly shower has blown through, and we should be able to resume shortly. <b>4.40pm:</b> The big covers are now on. Zane Green (28 off 27) says the wicket was two-paced but is happy with what the team managed to cobble together: "We feel good about it after the wickets in the Powerplay. It was a great innings from the captain Gerhard Erasmus. His intensity batting on the wicket, he made sure the bad balls had to be put away. He was very positive." MikeB: "Decent death bowling effort from Scotland, arresting the momentum just a Namibia were starting to get going. Hope they don't get foiled by the rain again!" <b>4.33pm:</b> Well, it's a competitive score after a pretty average start from Namibia. <strong>Scotland need 156 to win</strong>
 
 Balls faced: 3
 Bowler: Wheal
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Into the pitch, off cutter, pulled to square leg and two scampered... and it's eventually confirmed as two as it looked like Scholtz' bat was jammed before it could break the line. But he's good"}]Into the pitch, off cutter, pulled to square leg and two scampered... and it's eventually confirmed as two as it looked like Scholtz' bat was jammed before it could break the line. But he's good
+Into the pitch, off cutter, pulled to square leg and two scampered... and it's eventually confirmed as two as it looked like Scholtz' bat was jammed before it could break the line. But he's good
 
 
 Balls faced: 4
 Bowler: Wheal
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full, straight, just short of a yorker length and punched down the ground, beyond the grasp of Wheal"}]Full, straight, just short of a yorker length and punched down the ground, beyond the grasp of Wheal
+Full, straight, just short of a yorker length and punched down the ground, beyond the grasp of Wheal
 
 
 Balls faced: 5
 Bowler: Currie
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length, Scholtz plays this with his weight back, dabbing into the covers and pinching a single"}]Back of a length, Scholtz plays this with his weight back, dabbing into the covers and pinching a single
+Back of a length, Scholtz plays this with his weight back, dabbing into the covers and pinching a single
 
 
 Balls faced: 6
 Bowler: Wheal
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Short and slow again, hacked out to midwicket and they do get a couple. And now it has started raining as both sets of players make their way off the field. Hard rain, too, with the covers coming on."}]Short and slow again, hacked out to midwicket and they do get a couple. And now it has started raining as both sets of players make their way off the field. Hard rain, too, with the covers coming on.
-[{"type": "HTML", "html": "<B>4.42pm:</b> Happily that squawly shower has blown through, and we should be able to resume shortly."}, {"type": "HTML", "html": "<b>4.40pm:</b> The big covers are now on. Zane Green (28 off 27) says the wicket was two-paced but is happy with what the team managed to cobble together: \"We feel good about it after the wickets in the Powerplay. It was a great innings from the captain Gerhard Erasmus. His intensity batting on the wicket, he made sure the bad balls had to be put away. He was very positive.\""}, {"type": "HTML", "html": "MikeB: \"Decent death bowling effort from Scotland, arresting the momentum just a Namibia were starting to get going. Hope they don't get foiled by the rain again!\""}, {"type": "HTML", "html": "<b>4.33pm:</b> Well, it's a competitive score after a pretty average start from Namibia. <strong>Scotland need 156 to win</strong>"}]<B>4.42pm:</b> Happily that squawly shower has blown through, and we should be able to resume shortly. <b>4.40pm:</b> The big covers are now on. Zane Green (28 off 27) says the wicket was two-paced but is happy with what the team managed to cobble together: "We feel good about it after the wickets in the Powerplay. It was a great innings from the captain Gerhard Erasmus. His intensity batting on the wicket, he made sure the bad balls had to be put away. He was very positive." MikeB: "Decent death bowling effort from Scotland, arresting the momentum just a Namibia were starting to get going. Hope they don't get foiled by the rain again!" <b>4.33pm:</b> Well, it's a competitive score after a pretty average start from Namibia. <strong>Scotland need 156 to win</strong>
+Short and slow again, hacked out to midwicket and they do get a couple. And now it has started raining as both sets of players make their way off the field. Hard rain, too, with the covers coming on.
+<B>4.42pm:</b> Happily that squawly shower has blown through, and we should be able to resume shortly. <b>4.40pm:</b> The big covers are now on. Zane Green (28 off 27) says the wicket was two-paced but is happy with what the team managed to cobble together: "We feel good about it after the wickets in the Powerplay. It was a great innings from the captain Gerhard Erasmus. His intensity batting on the wicket, he made sure the bad balls had to be put away. He was very positive." MikeB: "Decent death bowling effort from Scotland, arresting the momentum just a Namibia were starting to get going. Hope they don't get foiled by the rain again!" <b>4.33pm:</b> Well, it's a competitive score after a pretty average start from Namibia. <strong>Scotland need 156 to win</strong>
 
 Balls faced: 7
 Bowler: Wheal
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Into the pitch, off cutter, pulled to square leg and two scampered... and it's eventually confirmed as two as it looked like Scholtz' bat was jammed before it could break the line. But he's good"}]Into the pitch, off cutter, pulled to square leg and two scampered... and it's eventually confirmed as two as it looked like Scholtz' bat was jammed before it could break the line. But he's good
+Into the pitch, off cutter, pulled to square leg and two scampered... and it's eventually confirmed as two as it looked like Scholtz' bat was jammed before it could break the line. But he's good
 
 
 Balls faced: 8
 Bowler: Wheal
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full, straight, just short of a yorker length and punched down the ground, beyond the grasp of Wheal"}]Full, straight, just short of a yorker length and punched down the ground, beyond the grasp of Wheal
+Full, straight, just short of a yorker length and punched down the ground, beyond the grasp of Wheal
 
 
 
@@ -84,38 +92,46 @@ Match: all_games_1411166_1415724.json
 Balls faced: 1
 Bowler: Zampa
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>finishes his spell with an absolute ripper!</strong> Beautifully-disguised googly on a length outside off. Drops on the batter late and zings back in off the surface. Scholtz does not read it and has a huge waft at it. Leaves a gap between bat and pad and the ball sneaks through, crashing into off stump!"}]<strong>finishes his spell with an absolute ripper!</strong> Beautifully-disguised googly on a length outside off. Drops on the batter late and zings back in off the surface. Scholtz does not read it and has a huge waft at it. Leaves a gap between bat and pad and the ball sneaks through, crashing into off stump!
-[{"type": "HTML", "html": "Zampa becomes the first Australian men's cricketer to take 100 wickets in T20I cricket, which further adorns a sensational spell"}]Zampa becomes the first Australian men's cricketer to take 100 wickets in T20I cricket, which further adorns a sensational spell
+Scholtz is OUT! bowled
+ b Zampa
+Bernard Scholtz b Zampa 0 (2b 0x4 0x6 1m) SR: 0
+<strong>finishes his spell with an absolute ripper!</strong> Beautifully-disguised googly on a length outside off. Drops on the batter late and zings back in off the surface. Scholtz does not read it and has a huge waft at it. Leaves a gap between bat and pad and the ball sneaks through, crashing into off stump!
+Zampa becomes the first Australian men's cricketer to take 100 wickets in T20I cricket, which further adorns a sensational spell
 
 Balls faced: 2
 Bowler: Zampa
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Scholtz to try his luck with the bat now"}]Scholtz to try his luck with the bat now
+Scholtz to try his luck with the bat now
 
-[{"type": "HTML", "html": "floated up full just outside off. Scholtz presses forward and stabs it towards short mid wicket"}]floated up full just outside off. Scholtz presses forward and stabs it towards short mid wicket
+floated up full just outside off. Scholtz presses forward and stabs it towards short mid wicket
 
 
 Balls faced: 3
 Bowler: Zampa
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>finishes his spell with an absolute ripper!</strong> Beautifully-disguised googly on a length outside off. Drops on the batter late and zings back in off the surface. Scholtz does not read it and has a huge waft at it. Leaves a gap between bat and pad and the ball sneaks through, crashing into off stump!"}]<strong>finishes his spell with an absolute ripper!</strong> Beautifully-disguised googly on a length outside off. Drops on the batter late and zings back in off the surface. Scholtz does not read it and has a huge waft at it. Leaves a gap between bat and pad and the ball sneaks through, crashing into off stump!
-[{"type": "HTML", "html": "Zampa becomes the first Australian men's cricketer to take 100 wickets in T20I cricket, which further adorns a sensational spell"}]Zampa becomes the first Australian men's cricketer to take 100 wickets in T20I cricket, which further adorns a sensational spell
+Scholtz is OUT! bowled
+ b Zampa
+Bernard Scholtz b Zampa 0 (2b 0x4 0x6 1m) SR: 0
+<strong>finishes his spell with an absolute ripper!</strong> Beautifully-disguised googly on a length outside off. Drops on the batter late and zings back in off the surface. Scholtz does not read it and has a huge waft at it. Leaves a gap between bat and pad and the ball sneaks through, crashing into off stump!
+Zampa becomes the first Australian men's cricketer to take 100 wickets in T20I cricket, which further adorns a sensational spell
 
 Balls faced: 4
 Bowler: Zampa
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Scholtz to try his luck with the bat now"}]Scholtz to try his luck with the bat now
+Scholtz to try his luck with the bat now
 
-[{"type": "HTML", "html": "floated up full just outside off. Scholtz presses forward and stabs it towards short mid wicket"}]floated up full just outside off. Scholtz presses forward and stabs it towards short mid wicket
+floated up full just outside off. Scholtz presses forward and stabs it towards short mid wicket

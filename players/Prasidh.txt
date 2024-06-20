@@ -2,58 +2,72 @@ Match: all_games_1387592_1387604.json
 Balls faced: 1
 Bowler: Rabada
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Mukesh Kumar"}]Mukesh Kumar
-
-[{"type": "HTML", "html": "<b>It's all over. India have lost their last six wickets without adding another run</b>. Full outside off. Mukesh hangs his bat out, gets an outside edge and Markram from second slip pouches another, diving across to his left and getting both hands to it"}]<b>It's all over. India have lost their last six wickets without adding another run</b>. Full outside off. Mukesh hangs his bat out, gets an outside edge and Markram from second slip pouches another, diving across to his left and getting both hands to it
-[{"type": "HTML", "html": "ROhit: \"6 ducks in India's scorecard. Certainly a record?\" --- Yes, <a href=\"https://www.espncricinfo.com/records/most-ducks-in-an-innings-283040\">the joint-most</a>"}, {"type": "HTML", "html": "<b>3.58pm</b> Just 11 deliveries ago, India were 153 for 4 with a lead of 98. Ngidi, who had leaked 30 from five overs until then, changed the complexion with a three-wicket maiden. Kohli watched all that from the non-striker's end. On the second ball of the next over, he too departed, with Rabada inducing an outside edge. Siraj was run-out two balls later, and Rabada wrapped up the innings with the subsequent delivery. It's the first ever instance of six wickets falling on the same score in a Test, says Sampath. The first two innings lasted only 349 balls, <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;groupby=match;innings_number=1;innings_number=2;orderby=balls;orderbyad=reverse;qualmin1=2;qualval1=team_innings;size=200;template=results;type=team\">the second-fewest</a> ever in Test cricket."}]ROhit: "6 ducks in India's scorecard. Certainly a record?" --- Yes, <a href="https://www.espncricinfo.com/records/most-ducks-in-an-innings-283040">the joint-most</a> <b>3.58pm</b> Just 11 deliveries ago, India were 153 for 4 with a lead of 98. Ngidi, who had leaked 30 from five overs until then, changed the complexion with a three-wicket maiden. Kohli watched all that from the non-striker's end. On the second ball of the next over, he too departed, with Rabada inducing an outside edge. Siraj was run-out two balls later, and Rabada wrapped up the innings with the subsequent delivery. It's the first ever instance of six wickets falling on the same score in a Test, says Sampath. The first two innings lasted only 349 balls, <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;groupby=match;innings_number=1;innings_number=2;orderby=balls;orderbyad=reverse;qualmin1=2;qualval1=team_innings;size=200;template=results;type=team">the second-fewest</a> ever in Test cricket.
+Mukesh Kumar
+Prasidh is OUT! caught
+c Markram b Rabada
+Prasidh Krishna c Markram b Rabada 0 (3b 0x4 0x6 8m) SR: 0
+<b>It's all over. India have lost their last six wickets without adding another run</b>. Full outside off. Mukesh hangs his bat out, gets an outside edge and Markram from second slip pouches another, diving across to his left and getting both hands to it
+ROhit: "6 ducks in India's scorecard. Certainly a record?" --- Yes, <a href="https://www.espncricinfo.com/records/most-ducks-in-an-innings-283040">the joint-most</a> <b>3.58pm</b> Just 11 deliveries ago, India were 153 for 4 with a lead of 98. Ngidi, who had leaked 30 from five overs until then, changed the complexion with a three-wicket maiden. Kohli watched all that from the non-striker's end. On the second ball of the next over, he too departed, with Rabada inducing an outside edge. Siraj was run-out two balls later, and Rabada wrapped up the innings with the subsequent delivery. It's the first ever instance of six wickets falling on the same score in a Test, says Sampath. The first two innings lasted only 349 balls, <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;groupby=match;innings_number=1;innings_number=2;orderby=balls;orderbyad=reverse;qualmin1=2;qualval1=team_innings;size=200;template=results;type=team">the second-fewest</a> ever in Test cricket.
 
 Balls faced: 2
 Bowler: Rabada
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Chaos. Chaos. A run-out now.</b> A full ball around off. Prasidh pushes it towards mid-on. Siraj sets off for a single but Burger from short midwicket intercepts the ball. Prasidh sends Siraj back but it's of no use. Burger takes a few steps towards the stumps and flicks the ball onto them to find Siraj short"}]<b>Chaos. Chaos. A run-out now.</b> A full ball around off. Prasidh pushes it towards mid-on. Siraj sets off for a single but Burger from short midwicket intercepts the ball. Prasidh sends Siraj back but it's of no use. Burger takes a few steps towards the stumps and flicks the ball onto them to find Siraj short
+Prasidh is OUT! run out
+run out (Burger)
+Mohammed Siraj run out (Burger) 0 (1b 0x4 0x6 12m) SR: 0
+<b>Chaos. Chaos. A run-out now.</b> A full ball around off. Prasidh pushes it towards mid-on. Siraj sets off for a single but Burger from short midwicket intercepts the ball. Prasidh sends Siraj back but it's of no use. Burger takes a few steps towards the stumps and flicks the ball onto them to find Siraj short
 
 
 Balls faced: 3
 Bowler: Rabada
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Prasidh. Three slips, gully and short leg"}]Prasidh. Three slips, gully and short leg
+Prasidh. Three slips, gully and short leg
 
-[{"type": "HTML", "html": "full outside off. Steered towards backward point"}]full outside off. Steered towards backward point
+full outside off. Steered towards backward point
 
 
 Balls faced: 4
 Bowler: Rabada
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Mukesh Kumar"}]Mukesh Kumar
-
-[{"type": "HTML", "html": "<b>It's all over. India have lost their last six wickets without adding another run</b>. Full outside off. Mukesh hangs his bat out, gets an outside edge and Markram from second slip pouches another, diving across to his left and getting both hands to it"}]<b>It's all over. India have lost their last six wickets without adding another run</b>. Full outside off. Mukesh hangs his bat out, gets an outside edge and Markram from second slip pouches another, diving across to his left and getting both hands to it
-[{"type": "HTML", "html": "ROhit: \"6 ducks in India's scorecard. Certainly a record?\" --- Yes, <a href=\"https://www.espncricinfo.com/records/most-ducks-in-an-innings-283040\">the joint-most</a>"}, {"type": "HTML", "html": "<b>3.58pm</b> Just 11 deliveries ago, India were 153 for 4 with a lead of 98. Ngidi, who had leaked 30 from five overs until then, changed the complexion with a three-wicket maiden. Kohli watched all that from the non-striker's end. On the second ball of the next over, he too departed, with Rabada inducing an outside edge. Siraj was run-out two balls later, and Rabada wrapped up the innings with the subsequent delivery. It's the first ever instance of six wickets falling on the same score in a Test, says Sampath. The first two innings lasted only 349 balls, <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;groupby=match;innings_number=1;innings_number=2;orderby=balls;orderbyad=reverse;qualmin1=2;qualval1=team_innings;size=200;template=results;type=team\">the second-fewest</a> ever in Test cricket."}]ROhit: "6 ducks in India's scorecard. Certainly a record?" --- Yes, <a href="https://www.espncricinfo.com/records/most-ducks-in-an-innings-283040">the joint-most</a> <b>3.58pm</b> Just 11 deliveries ago, India were 153 for 4 with a lead of 98. Ngidi, who had leaked 30 from five overs until then, changed the complexion with a three-wicket maiden. Kohli watched all that from the non-striker's end. On the second ball of the next over, he too departed, with Rabada inducing an outside edge. Siraj was run-out two balls later, and Rabada wrapped up the innings with the subsequent delivery. It's the first ever instance of six wickets falling on the same score in a Test, says Sampath. The first two innings lasted only 349 balls, <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;groupby=match;innings_number=1;innings_number=2;orderby=balls;orderbyad=reverse;qualmin1=2;qualval1=team_innings;size=200;template=results;type=team">the second-fewest</a> ever in Test cricket.
+Mukesh Kumar
+Prasidh is OUT! caught
+c Markram b Rabada
+Prasidh Krishna c Markram b Rabada 0 (3b 0x4 0x6 8m) SR: 0
+<b>It's all over. India have lost their last six wickets without adding another run</b>. Full outside off. Mukesh hangs his bat out, gets an outside edge and Markram from second slip pouches another, diving across to his left and getting both hands to it
+ROhit: "6 ducks in India's scorecard. Certainly a record?" --- Yes, <a href="https://www.espncricinfo.com/records/most-ducks-in-an-innings-283040">the joint-most</a> <b>3.58pm</b> Just 11 deliveries ago, India were 153 for 4 with a lead of 98. Ngidi, who had leaked 30 from five overs until then, changed the complexion with a three-wicket maiden. Kohli watched all that from the non-striker's end. On the second ball of the next over, he too departed, with Rabada inducing an outside edge. Siraj was run-out two balls later, and Rabada wrapped up the innings with the subsequent delivery. It's the first ever instance of six wickets falling on the same score in a Test, says Sampath. The first two innings lasted only 349 balls, <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;groupby=match;innings_number=1;innings_number=2;orderby=balls;orderbyad=reverse;qualmin1=2;qualval1=team_innings;size=200;template=results;type=team">the second-fewest</a> ever in Test cricket.
 
 Balls faced: 5
 Bowler: Rabada
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Chaos. Chaos. A run-out now.</b> A full ball around off. Prasidh pushes it towards mid-on. Siraj sets off for a single but Burger from short midwicket intercepts the ball. Prasidh sends Siraj back but it's of no use. Burger takes a few steps towards the stumps and flicks the ball onto them to find Siraj short"}]<b>Chaos. Chaos. A run-out now.</b> A full ball around off. Prasidh pushes it towards mid-on. Siraj sets off for a single but Burger from short midwicket intercepts the ball. Prasidh sends Siraj back but it's of no use. Burger takes a few steps towards the stumps and flicks the ball onto them to find Siraj short
+Prasidh is OUT! run out
+run out (Burger)
+Mohammed Siraj run out (Burger) 0 (1b 0x4 0x6 12m) SR: 0
+<b>Chaos. Chaos. A run-out now.</b> A full ball around off. Prasidh pushes it towards mid-on. Siraj sets off for a single but Burger from short midwicket intercepts the ball. Prasidh sends Siraj back but it's of no use. Burger takes a few steps towards the stumps and flicks the ball onto them to find Siraj short
 
 
 Balls faced: 6
 Bowler: Rabada
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Prasidh. Three slips, gully and short leg"}]Prasidh. Three slips, gully and short leg
+Prasidh. Three slips, gully and short leg
 
-[{"type": "HTML", "html": "full outside off. Steered towards backward point"}]full outside off. Steered towards backward point
+full outside off. Steered towards backward point

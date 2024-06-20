@@ -2,6 +2,7 @@ Match: all_games_1377745_1377777.json
 Balls faced: 1
 Bowler: Netravalkar
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Netravalkar
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Netravalkar
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Netravalkar
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Netravalkar
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Ali Khan
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
@@ -72,6 +79,7 @@ Run scored: 2
 Balls faced: 8
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
@@ -82,6 +90,7 @@ Run scored: 4
 Balls faced: 9
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -112,6 +123,7 @@ Run scored: 4
 Balls faced: 12
 Bowler: Netravalkar
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -122,6 +134,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Netravalkar
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -132,6 +145,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Netravalkar
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -142,6 +156,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Netravalkar
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -152,6 +167,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Netravalkar
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -162,6 +178,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -172,6 +189,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Ali Khan
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
@@ -182,6 +200,7 @@ Run scored: 2
 Balls faced: 19
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
@@ -192,6 +211,7 @@ Run scored: 4
 Balls faced: 20
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -212,6 +233,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Ali Khan
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -222,6 +244,7 @@ Run scored: 4
 Balls faced: 23
 Bowler: Ali Khan
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -232,6 +255,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -242,6 +266,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -252,6 +277,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -262,6 +288,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
@@ -272,6 +299,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
@@ -282,6 +310,7 @@ Run scored: 2
 Balls faced: 29
 Bowler: Netravalkar
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -292,6 +321,7 @@ Run scored: 1
 Balls faced: 30
 Bowler: Netravalkar
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -302,6 +332,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Netravalkar
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -312,6 +343,7 @@ Run scored: 2
 Balls faced: 32
 Bowler: Ali Khan
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -322,6 +354,7 @@ Run scored: 0
 Balls faced: 33
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -332,6 +365,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -342,6 +376,7 @@ Run scored: 0
 Balls faced: 35
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -352,6 +387,7 @@ Run scored: 0
 Balls faced: 36
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
@@ -362,6 +398,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: Ali Khan
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
@@ -372,6 +409,7 @@ Run scored: 2
 Balls faced: 38
 Bowler: Ali Khan
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -382,6 +420,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Ali Khan
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -392,6 +431,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: Ali Khan
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
@@ -402,6 +442,7 @@ Run scored: 0
 Balls faced: 41
 Bowler: Ali Khan
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
@@ -412,6 +453,7 @@ Run scored: 0
 Balls faced: 42
 Bowler: Ali Khan
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -422,6 +464,7 @@ Run scored: 0
 Balls faced: 43
 Bowler: Ali Khan
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -432,6 +475,7 @@ Run scored: 0
 Balls faced: 44
 Bowler: Netravalkar
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -442,6 +486,7 @@ Run scored: 1
 Balls faced: 45
 Bowler: Netravalkar
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -452,6 +497,7 @@ Run scored: 0
 Balls faced: 46
 Bowler: Netravalkar
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -462,6 +508,7 @@ Run scored: 2
 Balls faced: 47
 Bowler: Netravalkar
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -472,6 +519,7 @@ Run scored: 0
 Balls faced: 48
 Bowler: Netravalkar
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -482,6 +530,7 @@ Run scored: 0
 Balls faced: 49
 Bowler: Netravalkar
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -492,6 +541,7 @@ Run scored: 0
 Balls faced: 50
 Bowler: Netravalkar
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -502,6 +552,7 @@ Run scored: 0
 Balls faced: 51
 Bowler: Netravalkar
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 4
 
@@ -512,6 +563,7 @@ Run scored: 4
 Balls faced: 52
 Bowler: Ali Khan
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -522,6 +574,7 @@ Run scored: 0
 Balls faced: 53
 Bowler: Ali Khan
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -532,6 +585,7 @@ Run scored: 0
 Balls faced: 54
 Bowler: Ali Khan
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
@@ -542,6 +596,7 @@ Run scored: 0
 Balls faced: 55
 Bowler: Ali Khan
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
@@ -552,6 +607,7 @@ Run scored: 0
 Balls faced: 56
 Bowler: Ali Khan
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -562,6 +618,7 @@ Run scored: 0
 Balls faced: 57
 Bowler: Ali Khan
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -572,6 +629,7 @@ Run scored: 0
 Balls faced: 58
 Bowler: Ali Khan
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -582,6 +640,7 @@ Run scored: 0
 Balls faced: 59
 Bowler: Ali Khan
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -592,6 +651,7 @@ Run scored: 0
 Balls faced: 60
 Bowler: Ali Khan
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -602,6 +662,7 @@ Run scored: 1
 Balls faced: 61
 Bowler: Netravalkar
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -612,6 +673,7 @@ Run scored: 0
 Balls faced: 62
 Bowler: Netravalkar
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -622,6 +684,7 @@ Run scored: 0
 Balls faced: 63
 Bowler: Netravalkar
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -632,6 +695,7 @@ Run scored: 0
 Balls faced: 64
 Bowler: Netravalkar
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -642,6 +706,7 @@ Run scored: 0
 Balls faced: 65
 Bowler: Netravalkar
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 4
 
@@ -652,6 +717,7 @@ Run scored: 4
 Balls faced: 66
 Bowler: Jasdeep
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -662,6 +728,7 @@ Run scored: 1
 Balls faced: 67
 Bowler: Jasdeep
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -672,6 +739,7 @@ Run scored: 0
 Balls faced: 68
 Bowler: Jasdeep
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -682,6 +750,7 @@ Run scored: 0
 Balls faced: 69
 Bowler: Ali Khan
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -692,6 +761,7 @@ Run scored: 0
 Balls faced: 70
 Bowler: Ali Khan
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -702,6 +772,7 @@ Run scored: 0
 Balls faced: 71
 Bowler: Ali Khan
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -712,6 +783,7 @@ Run scored: 1
 Balls faced: 72
 Bowler: Ali Khan
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
@@ -722,6 +794,7 @@ Run scored: 2
 Balls faced: 73
 Bowler: Ali Khan
 Over: 10
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -732,6 +805,7 @@ Wide: 1
 Balls faced: 74
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -742,6 +816,7 @@ Run scored: 0
 Balls faced: 75
 Bowler: Ali Khan
 Over: 10
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -752,6 +827,7 @@ Wide: 1
 Balls faced: 76
 Bowler: Ali Khan
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -762,6 +838,7 @@ Wide: 1
 Balls faced: 77
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -772,6 +849,7 @@ Run scored: 0
 Balls faced: 78
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -782,6 +860,7 @@ Run scored: 0
 Balls faced: 79
 Bowler: Ali Khan
 Over: 10
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -792,6 +871,7 @@ Wide: 1
 Balls faced: 80
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
@@ -802,6 +882,7 @@ Run scored: 0
 Balls faced: 81
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -812,6 +893,7 @@ Run scored: 4
 Balls faced: 82
 Bowler: Jasdeep
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -822,6 +904,7 @@ Run scored: 1
 Balls faced: 83
 Bowler: Jasdeep
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -832,6 +915,7 @@ Run scored: 0
 Balls faced: 84
 Bowler: Jasdeep
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -842,6 +926,7 @@ Run scored: 0
 Balls faced: 85
 Bowler: Jasdeep
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -852,6 +937,7 @@ Run scored: 1
 Balls faced: 86
 Bowler: Jasdeep
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -862,6 +948,7 @@ Run scored: 0
 Balls faced: 87
 Bowler: Ali Khan
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
@@ -872,6 +959,7 @@ Run scored: 2
 Balls faced: 88
 Bowler: Ali Khan
 Over: 10
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -882,6 +970,7 @@ Wide: 1
 Balls faced: 89
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -892,6 +981,7 @@ Run scored: 0
 Balls faced: 90
 Bowler: Ali Khan
 Over: 10
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -902,6 +992,7 @@ Wide: 1
 Balls faced: 91
 Bowler: Ali Khan
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -912,6 +1003,7 @@ Wide: 1
 Balls faced: 92
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -922,6 +1014,7 @@ Run scored: 0
 Balls faced: 93
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -932,6 +1025,7 @@ Run scored: 0
 Balls faced: 94
 Bowler: Ali Khan
 Over: 10
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -942,6 +1036,7 @@ Wide: 1
 Balls faced: 95
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
@@ -952,6 +1047,7 @@ Run scored: 0
 Balls faced: 96
 Bowler: Ali Khan
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -962,6 +1058,7 @@ Run scored: 4
 Balls faced: 97
 Bowler: Patel
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -972,6 +1069,7 @@ Run scored: 0
 Balls faced: 98
 Bowler: Patel
 Over: 12
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -982,6 +1080,7 @@ Run scored: 1
 Balls faced: 99
 Bowler: Jasdeep
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -992,6 +1091,7 @@ Run scored: 1
 Balls faced: 100
 Bowler: Jasdeep
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -1002,6 +1102,7 @@ Run scored: 0
 Balls faced: 101
 Bowler: Jasdeep
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -1012,6 +1113,7 @@ Legbyes: 1
 Balls faced: 102
 Bowler: Jasdeep
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1022,6 +1124,7 @@ Run scored: 0
 Balls faced: 103
 Bowler: Patel
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1032,6 +1135,7 @@ Run scored: 0
 Balls faced: 104
 Bowler: Patel
 Over: 12
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1042,6 +1146,7 @@ Run scored: 1
 Balls faced: 105
 Bowler: Patel
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1052,6 +1157,7 @@ Run scored: 1
 Balls faced: 106
 Bowler: Patel
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -1062,6 +1168,7 @@ Wide: 1
 Balls faced: 107
 Bowler: Jasdeep
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -1072,6 +1179,7 @@ Legbyes: 1
 Balls faced: 108
 Bowler: Jasdeep
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1082,6 +1190,7 @@ Run scored: 0
 Balls faced: 109
 Bowler: Jasdeep
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1092,6 +1201,7 @@ Run scored: 0
 Balls faced: 110
 Bowler: Jasdeep
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -1102,6 +1212,7 @@ Run scored: 0
 Balls faced: 111
 Bowler: Jasdeep
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
@@ -1112,6 +1223,7 @@ Run scored: 4
 Balls faced: 112
 Bowler: Jasdeep
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
@@ -1122,6 +1234,7 @@ Run scored: 1
 Balls faced: 113
 Bowler: Jasdeep
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -1132,6 +1245,7 @@ Run scored: 0
 Balls faced: 114
 Bowler: Patel
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1142,6 +1256,7 @@ Run scored: 1
 Balls faced: 115
 Bowler: Patel
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -1152,6 +1267,7 @@ Wide: 1
 Balls faced: 116
 Bowler: Patel
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1162,6 +1278,7 @@ Run scored: 1
 Balls faced: 117
 Bowler: Jasdeep
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1172,6 +1289,7 @@ Run scored: 0
 Balls faced: 118
 Bowler: Jasdeep
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -1182,6 +1300,7 @@ Run scored: 0
 Balls faced: 119
 Bowler: Jasdeep
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
@@ -1192,6 +1311,7 @@ Run scored: 4
 Balls faced: 120
 Bowler: Jasdeep
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
@@ -1202,6 +1322,7 @@ Run scored: 1
 Balls faced: 121
 Bowler: Jasdeep
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -1212,6 +1333,7 @@ Run scored: 0
 Balls faced: 122
 Bowler: Kenjige
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -1222,6 +1344,7 @@ Run scored: 0
 Balls faced: 123
 Bowler: Kenjige
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -1232,6 +1355,7 @@ Run scored: 0
 Balls faced: 124
 Bowler: Kenjige
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1242,6 +1366,7 @@ Run scored: 1
 Balls faced: 125
 Bowler: Patel
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1252,6 +1377,7 @@ Run scored: 1
 Balls faced: 126
 Bowler: Kenjige
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -1262,6 +1388,7 @@ Run scored: 0
 Balls faced: 127
 Bowler: Kenjige
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -1272,6 +1399,7 @@ Run scored: 0
 Balls faced: 128
 Bowler: Kenjige
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1282,6 +1410,7 @@ Run scored: 1
 Balls faced: 129
 Bowler: Kenjige
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1292,6 +1421,7 @@ Run scored: 1
 Balls faced: 130
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 4
 
@@ -1302,6 +1432,7 @@ Run scored: 4
 Balls faced: 131
 Bowler: Patel
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -1312,6 +1443,7 @@ Run scored: 0
 Balls faced: 132
 Bowler: Patel
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
@@ -1322,6 +1454,7 @@ Run scored: 6
 Balls faced: 133
 Bowler: Patel
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
@@ -1332,6 +1465,7 @@ Run scored: 0
 Balls faced: 134
 Bowler: Patel
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1342,6 +1476,7 @@ Run scored: 0
 Balls faced: 135
 Bowler: Patel
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1352,6 +1487,7 @@ Legbyes: 1
 Balls faced: 136
 Bowler: Kenjige
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1362,6 +1498,7 @@ Run scored: 1
 Balls faced: 137
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 4
 
@@ -1372,6 +1509,7 @@ Run scored: 4
 Balls faced: 138
 Bowler: Patel
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -1382,6 +1520,7 @@ Run scored: 0
 Balls faced: 139
 Bowler: Patel
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
@@ -1392,6 +1531,7 @@ Run scored: 6
 Balls faced: 140
 Bowler: Patel
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
@@ -1402,6 +1542,7 @@ Run scored: 0
 Balls faced: 141
 Bowler: Patel
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1412,6 +1553,7 @@ Run scored: 0
 Balls faced: 142
 Bowler: Patel
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1422,6 +1564,7 @@ Legbyes: 1
 Balls faced: 143
 Bowler: Patel
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1432,6 +1575,7 @@ Run scored: 1
 Balls faced: 144
 Bowler: Patel
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1442,6 +1586,7 @@ Run scored: 1
 Balls faced: 145
 Bowler: Patel
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -1452,16 +1597,20 @@ Run scored: 0
 Balls faced: 146
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
+Sharma is OUT! caught
+c & b Kenjige
+Aryansh Sharma c & b Kenjige 57 (72b 6x4 2x6 98m) SR: 79.16
 
 
 
 Balls faced: 147
 Bowler: Kenjige
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
@@ -1472,6 +1621,7 @@ Run scored: 6
 Balls faced: 148
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1482,6 +1632,7 @@ Run scored: 0
 Balls faced: 149
 Bowler: Patel
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1492,6 +1643,7 @@ Run scored: 1
 Balls faced: 150
 Bowler: Patel
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1502,6 +1654,7 @@ Run scored: 1
 Balls faced: 151
 Bowler: Patel
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -1512,16 +1665,20 @@ Run scored: 0
 Balls faced: 152
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
+Sharma is OUT! caught
+c & b Kenjige
+Aryansh Sharma c & b Kenjige 57 (72b 6x4 2x6 98m) SR: 79.16
 
 
 
 Balls faced: 153
 Bowler: Kenjige
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
@@ -1532,6 +1689,7 @@ Run scored: 6
 Balls faced: 154
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1544,81 +1702,93 @@ Match: all_games_1387592_1387598.json
 Balls faced: 1
 Bowler: Shamsi
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Jitesh Sharma comes in now."}]Jitesh Sharma comes in now.
+Jitesh Sharma comes in now.
 
-[{"type": "HTML", "html": "Slower through the air on off stump, he defends and gets a thick inside-edge onto his pad"}]Slower through the air on off stump, he defends and gets a thick inside-edge onto his pad
-[{"type": "HTML", "html": "Time for another break"}, {"type": "HTML", "html": "Hari: \"The difference in batting positions could be the reason why SKY performs better in T20s than ODIs. Also, he likes pace on the ball which is usually something that he doesn't get in ODIs due to spinners operating in tandem.\""}, {"type": "HTML", "html": "Nikhil : \"We sent a young and courageous team to the first T20 WC and hit gold. We need to do the same thing again, let Kohli and Rohit rest. \""}]Time for another break Hari: "The difference in batting positions could be the reason why SKY performs better in T20s than ODIs. Also, he likes pace on the ball which is usually something that he doesn't get in ODIs due to spinners operating in tandem." Nikhil : "We sent a young and courageous team to the first T20 WC and hit gold. We need to do the same thing again, let Kohli and Rohit rest. "
+Slower through the air on off stump, he defends and gets a thick inside-edge onto his pad
+Time for another break Hari: "The difference in batting positions could be the reason why SKY performs better in T20s than ODIs. Also, he likes pace on the ball which is usually something that he doesn't get in ODIs due to spinners operating in tandem." Nikhil : "We sent a young and courageous team to the first T20 WC and hit gold. We need to do the same thing again, let Kohli and Rohit rest. "
 
 Balls faced: 2
 Bowler: Williams
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on off stump, he pushes to the off side and sets off for a quick run"}]Length on off stump, he pushes to the off side and sets off for a quick run
+Length on off stump, he pushes to the off side and sets off for a quick run
 
 
 Balls faced: 3
 Bowler: Williams
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length with the line down leg, called a wide. Oh, hang on, South Africa have taken a review there. Wasn't any sound and UltraEdge confirms there was daylight between bat and ball. Review wasted."}]On a length with the line down leg, called a wide. Oh, hang on, South Africa have taken a review there. Wasn't any sound and UltraEdge confirms there was daylight between bat and ball. Review wasted.
+On a length with the line down leg, called a wide. Oh, hang on, South Africa have taken a review there. Wasn't any sound and UltraEdge confirms there was daylight between bat and ball. Review wasted.
 
 Wide: 1
 Balls faced: 4
 Bowler: Shamsi
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Jitesh Sharma comes in now."}]Jitesh Sharma comes in now.
+Jitesh Sharma comes in now.
 
-[{"type": "HTML", "html": "Slower through the air on off stump, he defends and gets a thick inside-edge onto his pad"}]Slower through the air on off stump, he defends and gets a thick inside-edge onto his pad
-[{"type": "HTML", "html": "Time for another break"}, {"type": "HTML", "html": "Hari: \"The difference in batting positions could be the reason why SKY performs better in T20s than ODIs. Also, he likes pace on the ball which is usually something that he doesn't get in ODIs due to spinners operating in tandem.\""}, {"type": "HTML", "html": "Nikhil : \"We sent a young and courageous team to the first T20 WC and hit gold. We need to do the same thing again, let Kohli and Rohit rest. \""}]Time for another break Hari: "The difference in batting positions could be the reason why SKY performs better in T20s than ODIs. Also, he likes pace on the ball which is usually something that he doesn't get in ODIs due to spinners operating in tandem." Nikhil : "We sent a young and courageous team to the first T20 WC and hit gold. We need to do the same thing again, let Kohli and Rohit rest. "
+Slower through the air on off stump, he defends and gets a thick inside-edge onto his pad
+Time for another break Hari: "The difference in batting positions could be the reason why SKY performs better in T20s than ODIs. Also, he likes pace on the ball which is usually something that he doesn't get in ODIs due to spinners operating in tandem." Nikhil : "We sent a young and courageous team to the first T20 WC and hit gold. We need to do the same thing again, let Kohli and Rohit rest. "
 
 Balls faced: 5
 Bowler: Markram
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket"}]Around the wicket
-
-[{"type": "HTML", "html": "Holes out to deep midwicket. Jitesh takes a chance but doesn't come off this time around. Dances down the track but Markram keeps his length back. Jitesh goes through with the shot and doesn't connect cleanly. Stubbs makes no mistake running across from deep midwicket"}]Holes out to deep midwicket. Jitesh takes a chance but doesn't come off this time around. Dances down the track but Markram keeps his length back. Jitesh goes through with the shot and doesn't connect cleanly. Stubbs makes no mistake running across from deep midwicket
+Around the wicket
+Sharma is OUT! caught
+c Stubbs b Markram
+Jitesh Sharma c Stubbs b Markram 1 (3b 0x4 0x6 7m) SR: 33.33
+Holes out to deep midwicket. Jitesh takes a chance but doesn't come off this time around. Dances down the track but Markram keeps his length back. Jitesh goes through with the shot and doesn't connect cleanly. Stubbs makes no mistake running across from deep midwicket
 
 
 Balls faced: 6
 Bowler: Williams
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on off stump, he pushes to the off side and sets off for a quick run"}]Length on off stump, he pushes to the off side and sets off for a quick run
+Length on off stump, he pushes to the off side and sets off for a quick run
 
 
 Balls faced: 7
 Bowler: Williams
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length with the line down leg, called a wide. Oh, hang on, South Africa have taken a review there. Wasn't any sound and UltraEdge confirms there was daylight between bat and ball. Review wasted."}]On a length with the line down leg, called a wide. Oh, hang on, South Africa have taken a review there. Wasn't any sound and UltraEdge confirms there was daylight between bat and ball. Review wasted.
+On a length with the line down leg, called a wide. Oh, hang on, South Africa have taken a review there. Wasn't any sound and UltraEdge confirms there was daylight between bat and ball. Review wasted.
 
 Wide: 1
 Balls faced: 8
 Bowler: Markram
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket"}]Around the wicket
-
-[{"type": "HTML", "html": "Holes out to deep midwicket. Jitesh takes a chance but doesn't come off this time around. Dances down the track but Markram keeps his length back. Jitesh goes through with the shot and doesn't connect cleanly. Stubbs makes no mistake running across from deep midwicket"}]Holes out to deep midwicket. Jitesh takes a chance but doesn't come off this time around. Dances down the track but Markram keeps his length back. Jitesh goes through with the shot and doesn't connect cleanly. Stubbs makes no mistake running across from deep midwicket
+Around the wicket
+Sharma is OUT! caught
+c Stubbs b Markram
+Jitesh Sharma c Stubbs b Markram 1 (3b 0x4 0x6 7m) SR: 33.33
+Holes out to deep midwicket. Jitesh takes a chance but doesn't come off this time around. Dances down the track but Markram keeps his length back. Jitesh goes through with the shot and doesn't connect cleanly. Stubbs makes no mistake running across from deep midwicket
 
 
 
@@ -1626,81 +1796,93 @@ Match: all_games_1387592_1387599.json
 Balls faced: 1
 Bowler: Burger
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide yorker, maybe a low full toss, driven with an open face to deep point. Oh they didn't take the single. SKY to keep strike at the start of the final over"}]wide yorker, maybe a low full toss, driven with an open face to deep point. Oh they didn't take the single. SKY to keep strike at the start of the final over
-[{"type": "HTML", "html": "South Africa won't mind the death overs so far. Just 32 off three overs"}]South Africa won't mind the death overs so far. Just 32 off three overs
+wide yorker, maybe a low full toss, driven with an open face to deep point. Oh they didn't take the single. SKY to keep strike at the start of the final over
+South Africa won't mind the death overs so far. Just 32 off three overs
 
 Balls faced: 2
 Bowler: Burger
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "goes wide outside off again, but has bowled this full. And even though Sharma is sweeping himself off his feet, he has managed to drill it wide of extra cover for four"}]goes wide outside off again, but has bowled this full. And even though Sharma is sweeping himself off his feet, he has managed to drill it wide of extra cover for four
+goes wide outside off again, but has bowled this full. And even though Sharma is sweeping himself off his feet, he has managed to drill it wide of extra cover for four
 
 
 Balls faced: 3
 Bowler: Burger
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Jitesh Sharma in with nine balls left in the innings. Around the wicket"}]Jitesh Sharma in with nine balls left in the innings. Around the wicket
+Jitesh Sharma in with nine balls left in the innings. Around the wicket
 
-[{"type": "HTML", "html": "slower ball, wide length ball, and precision there to stay just inside the tram line and beat his shot"}]slower ball, wide length ball, and precision there to stay just inside the tram line and beat his shot
+slower ball, wide length ball, and precision there to stay just inside the tram line and beat his shot
 
 
 Balls faced: 4
 Bowler: Williams
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "he has been hit-wicket. In the last over, Jitesh went deep into his crease to create the length to drive. He tries it again, manages to loft what would have been a yorker over mid-off, but in the process his heel has stepped on the wicket. The leg bail falls off"}]he has been hit-wicket. In the last over, Jitesh went deep into his crease to create the length to drive. He tries it again, manages to loft what would have been a yorker over mid-off, but in the process his heel has stepped on the wicket. The leg bail falls off
+Sharma is OUT! hit wicket
+hit wicket b Williams
+Jitesh Sharma hit wicket b Williams 4 (4b 1x4 0x6 10m) SR: 100
+he has been hit-wicket. In the last over, Jitesh went deep into his crease to create the length to drive. He tries it again, manages to loft what would have been a yorker over mid-off, but in the process his heel has stepped on the wicket. The leg bail falls off
 
 
 Balls faced: 5
 Bowler: Burger
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide yorker, maybe a low full toss, driven with an open face to deep point. Oh they didn't take the single. SKY to keep strike at the start of the final over"}]wide yorker, maybe a low full toss, driven with an open face to deep point. Oh they didn't take the single. SKY to keep strike at the start of the final over
-[{"type": "HTML", "html": "South Africa won't mind the death overs so far. Just 32 off three overs"}]South Africa won't mind the death overs so far. Just 32 off three overs
+wide yorker, maybe a low full toss, driven with an open face to deep point. Oh they didn't take the single. SKY to keep strike at the start of the final over
+South Africa won't mind the death overs so far. Just 32 off three overs
 
 Balls faced: 6
 Bowler: Burger
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "goes wide outside off again, but has bowled this full. And even though Sharma is sweeping himself off his feet, he has managed to drill it wide of extra cover for four"}]goes wide outside off again, but has bowled this full. And even though Sharma is sweeping himself off his feet, he has managed to drill it wide of extra cover for four
+goes wide outside off again, but has bowled this full. And even though Sharma is sweeping himself off his feet, he has managed to drill it wide of extra cover for four
 
 
 Balls faced: 7
 Bowler: Burger
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Jitesh Sharma in with nine balls left in the innings. Around the wicket"}]Jitesh Sharma in with nine balls left in the innings. Around the wicket
+Jitesh Sharma in with nine balls left in the innings. Around the wicket
 
-[{"type": "HTML", "html": "slower ball, wide length ball, and precision there to stay just inside the tram line and beat his shot"}]slower ball, wide length ball, and precision there to stay just inside the tram line and beat his shot
+slower ball, wide length ball, and precision there to stay just inside the tram line and beat his shot
 
 
 Balls faced: 8
 Bowler: Williams
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "he has been hit-wicket. In the last over, Jitesh went deep into his crease to create the length to drive. He tries it again, manages to loft what would have been a yorker over mid-off, but in the process his heel has stepped on the wicket. The leg bail falls off"}]he has been hit-wicket. In the last over, Jitesh went deep into his crease to create the length to drive. He tries it again, manages to loft what would have been a yorker over mid-off, but in the process his heel has stepped on the wicket. The leg bail falls off
+Sharma is OUT! hit wicket
+hit wicket b Williams
+Jitesh Sharma hit wicket b Williams 4 (4b 1x4 0x6 10m) SR: 100
+he has been hit-wicket. In the last over, Jitesh went deep into his crease to create the length to drive. He tries it again, manages to loft what would have been a yorker over mid-off, but in the process his heel has stepped on the wicket. The leg bail falls off
 
 
 
@@ -1708,401 +1890,445 @@ Match: all_games_1389384_1389396.json
 Balls faced: 1
 Bowler: Azmatullah
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball around off. Jitesh guides it to deep third and gets off the mark"}]good length ball around off. Jitesh guides it to deep third and gets off the mark
+good length ball around off. Jitesh guides it to deep third and gets off the mark
 
 
 Balls faced: 2
 Bowler: Naveen-ul-Haq
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle and Jitesh flicks it off his pads to deep square leg"}]full ball on middle and Jitesh flicks it off his pads to deep square leg
+full ball on middle and Jitesh flicks it off his pads to deep square leg
 
 
 Balls faced: 3
 Bowler: Naveen-ul-Haq
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "misses out. Length ball outside off and Jitesh has a chance to hit it through the off side. But misses"}]misses out. Length ball outside off and Jitesh has a chance to hit it through the off side. But misses
-[{"type": "HTML", "html": "Vijay: \"India should not always take cover under \"inexperienced side\" when it loses. This is the next gen. They need to step up very soon as many biggies will fade away very soon.\""}]Vijay: "India should not always take cover under "inexperienced side" when it loses. This is the next gen. They need to step up very soon as many biggies will fade away very soon."
+misses out. Length ball outside off and Jitesh has a chance to hit it through the off side. But misses
+Vijay: "India should not always take cover under "inexperienced side" when it loses. This is the next gen. They need to step up very soon as many biggies will fade away very soon."
 
 Balls faced: 4
 Bowler: Naveen-ul-Haq
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: HOOK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>first boundary for Jitesh on his IPL home ground.</b> This was a short ball around off. Spongy bounce and Jitesh pulls in such a way that it is hit very fine to the fine-leg boundary."}]<B>first boundary for Jitesh on his IPL home ground.</b> This was a short ball around off. Spongy bounce and Jitesh pulls in such a way that it is hit very fine to the fine-leg boundary.
+<B>first boundary for Jitesh on his IPL home ground.</b> This was a short ball around off. Spongy bounce and Jitesh pulls in such a way that it is hit very fine to the fine-leg boundary.
 
 
 Balls faced: 5
 Bowler: Azmatullah
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball around off. Jitesh guides it to deep third and gets off the mark"}]good length ball around off. Jitesh guides it to deep third and gets off the mark
+good length ball around off. Jitesh guides it to deep third and gets off the mark
 
 
 Balls faced: 6
 Bowler: Azmatullah
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "tries the slower ball wide yorker but ends up bowling a full toss. Jitesh reaches out and puts all his power behind the shot to slice the ball over the infielders on the off side"}]tries the slower ball wide yorker but ends up bowling a full toss. Jitesh reaches out and puts all his power behind the shot to slice the ball over the infielders on the off side
-[{"type": "HTML", "html": "Meanwhile, the Indian women's hockey team have a big week ahead of them in Ranchi as they look to qualify for the Paris Olympics. <a href=\"https://www.espn.in/field-hockey/story/_/id/39284594/india-olympic-women-hockey-team-qualifiers-fixtures-format-squad-players\" target=\"_blank\"> Here's a look </a> at their chances and the players to watch out for."}]Meanwhile, the Indian women's hockey team have a big week ahead of them in Ranchi as they look to qualify for the Paris Olympics. <a href="https://www.espn.in/field-hockey/story/_/id/39284594/india-olympic-women-hockey-team-qualifiers-fixtures-format-squad-players" target="_blank"> Here's a look </a> at their chances and the players to watch out for.
+tries the slower ball wide yorker but ends up bowling a full toss. Jitesh reaches out and puts all his power behind the shot to slice the ball over the infielders on the off side
+Meanwhile, the Indian women's hockey team have a big week ahead of them in Ranchi as they look to qualify for the Paris Olympics. <a href="https://www.espn.in/field-hockey/story/_/id/39284594/india-olympic-women-hockey-team-qualifiers-fixtures-format-squad-players" target="_blank"> Here's a look </a> at their chances and the players to watch out for.
 
 Balls faced: 7
 Bowler: Azmatullah
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball that doesn't bounce as much. Jitesh taps it gently to midwicket where there's a big gap with the fielders on the boundary line"}]good length ball that doesn't bounce as much. Jitesh taps it gently to midwicket where there's a big gap with the fielders on the boundary line
-[{"type": "HTML", "html": "AJ: \"Very intrigued to see how Dube performs in this series. He showed in the last IPL how well he could smack the ball out of the ground. If all goes well, then India can have a handy all-rounder to take with them to the Windies this summer.\""}]AJ: "Very intrigued to see how Dube performs in this series. He showed in the last IPL how well he could smack the ball out of the ground. If all goes well, then India can have a handy all-rounder to take with them to the Windies this summer."
+good length ball that doesn't bounce as much. Jitesh taps it gently to midwicket where there's a big gap with the fielders on the boundary line
+AJ: "Very intrigued to see how Dube performs in this series. He showed in the last IPL how well he could smack the ball out of the ground. If all goes well, then India can have a handy all-rounder to take with them to the Windies this summer."
 
 Balls faced: 8
 Bowler: Azmatullah
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball around off. He can only tap it back to the bowler on this occasion"}]good length ball around off. He can only tap it back to the bowler on this occasion
+good length ball around off. He can only tap it back to the bowler on this occasion
 
 
 Balls faced: 9
 Bowler: Naveen-ul-Haq
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle and Jitesh flicks it off his pads to deep square leg"}]full ball on middle and Jitesh flicks it off his pads to deep square leg
+full ball on middle and Jitesh flicks it off his pads to deep square leg
 
 
 Balls faced: 10
 Bowler: Naveen-ul-Haq
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "misses out. Length ball outside off and Jitesh has a chance to hit it through the off side. But misses"}]misses out. Length ball outside off and Jitesh has a chance to hit it through the off side. But misses
-[{"type": "HTML", "html": "Vijay: \"India should not always take cover under \"inexperienced side\" when it loses. This is the next gen. They need to step up very soon as many biggies will fade away very soon.\""}]Vijay: "India should not always take cover under "inexperienced side" when it loses. This is the next gen. They need to step up very soon as many biggies will fade away very soon."
+misses out. Length ball outside off and Jitesh has a chance to hit it through the off side. But misses
+Vijay: "India should not always take cover under "inexperienced side" when it loses. This is the next gen. They need to step up very soon as many biggies will fade away very soon."
 
 Balls faced: 11
 Bowler: Naveen-ul-Haq
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: HOOK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>first boundary for Jitesh on his IPL home ground.</b> This was a short ball around off. Spongy bounce and Jitesh pulls in such a way that it is hit very fine to the fine-leg boundary."}]<B>first boundary for Jitesh on his IPL home ground.</b> This was a short ball around off. Spongy bounce and Jitesh pulls in such a way that it is hit very fine to the fine-leg boundary.
+<B>first boundary for Jitesh on his IPL home ground.</b> This was a short ball around off. Spongy bounce and Jitesh pulls in such a way that it is hit very fine to the fine-leg boundary.
 
 
 Balls faced: 12
 Bowler: Gulbadin
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "he'll keep the strike with that single"}]he'll keep the strike with that single
+he'll keep the strike with that single
 
 
 Balls faced: 13
 Bowler: Gulbadin
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<B>Surely it is a catch? Nooo!</b> Slower ball just outside off. Jitesh tries to club it over the off side but ends up slicing the shot after being deceived. Janat runs in from deep extra cover but then stops running and the ball ends up bouncing just in front of him. Did well to recover and stop the four but that's a chance gone."}]<B>Surely it is a catch? Nooo!</b> Slower ball just outside off. Jitesh tries to club it over the off side but ends up slicing the shot after being deceived. Janat runs in from deep extra cover but then stops running and the ball ends up bouncing just in front of him. Did well to recover and stop the four but that's a chance gone.
+<B>Surely it is a catch? Nooo!</b> Slower ball just outside off. Jitesh tries to club it over the off side but ends up slicing the shot after being deceived. Janat runs in from deep extra cover but then stops running and the ball ends up bouncing just in front of him. Did well to recover and stop the four but that's a chance gone.
 
 
 Balls faced: 14
 Bowler: Gulbadin
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full and wide ball. Jitesh meets the ball while it is on the rise, and he slaps it in front of square, beating deep extra cover too. Met the ball in front of his body, and the fast hand-speed ensured the shot went in front of square, away from the outfielder"}]full and wide ball. Jitesh meets the ball while it is on the rise, and he slaps it in front of square, beating deep extra cover too. Met the ball in front of his body, and the fast hand-speed ensured the shot went in front of square, away from the outfielder
+full and wide ball. Jitesh meets the ball while it is on the rise, and he slaps it in front of square, beating deep extra cover too. Met the ball in front of his body, and the fast hand-speed ensured the shot went in front of square, away from the outfielder
 
 
 Balls faced: 15
 Bowler: Gulbadin
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Lots of fans out here tonight, despite the chilly weather."}]Lots of fans out here tonight, despite the chilly weather.
+Lots of fans out here tonight, despite the chilly weather.
 
-[{"type": "HTML", "html": "back of the hand slower ball again. This one is full and wide. Jitesh mistimes a drive by playing a shot too early"}]back of the hand slower ball again. This one is full and wide. Jitesh mistimes a drive by playing a shot too early
+back of the hand slower ball again. This one is full and wide. Jitesh mistimes a drive by playing a shot too early
 
 
 Balls faced: 16
 Bowler: Azmatullah
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "tries the slower ball wide yorker but ends up bowling a full toss. Jitesh reaches out and puts all his power behind the shot to slice the ball over the infielders on the off side"}]tries the slower ball wide yorker but ends up bowling a full toss. Jitesh reaches out and puts all his power behind the shot to slice the ball over the infielders on the off side
-[{"type": "HTML", "html": "Meanwhile, the Indian women's hockey team have a big week ahead of them in Ranchi as they look to qualify for the Paris Olympics. <a href=\"https://www.espn.in/field-hockey/story/_/id/39284594/india-olympic-women-hockey-team-qualifiers-fixtures-format-squad-players\" target=\"_blank\"> Here's a look </a> at their chances and the players to watch out for."}]Meanwhile, the Indian women's hockey team have a big week ahead of them in Ranchi as they look to qualify for the Paris Olympics. <a href="https://www.espn.in/field-hockey/story/_/id/39284594/india-olympic-women-hockey-team-qualifiers-fixtures-format-squad-players" target="_blank"> Here's a look </a> at their chances and the players to watch out for.
+tries the slower ball wide yorker but ends up bowling a full toss. Jitesh reaches out and puts all his power behind the shot to slice the ball over the infielders on the off side
+Meanwhile, the Indian women's hockey team have a big week ahead of them in Ranchi as they look to qualify for the Paris Olympics. <a href="https://www.espn.in/field-hockey/story/_/id/39284594/india-olympic-women-hockey-team-qualifiers-fixtures-format-squad-players" target="_blank"> Here's a look </a> at their chances and the players to watch out for.
 
 Balls faced: 17
 Bowler: Azmatullah
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball that doesn't bounce as much. Jitesh taps it gently to midwicket where there's a big gap with the fielders on the boundary line"}]good length ball that doesn't bounce as much. Jitesh taps it gently to midwicket where there's a big gap with the fielders on the boundary line
-[{"type": "HTML", "html": "AJ: \"Very intrigued to see how Dube performs in this series. He showed in the last IPL how well he could smack the ball out of the ground. If all goes well, then India can have a handy all-rounder to take with them to the Windies this summer.\""}]AJ: "Very intrigued to see how Dube performs in this series. He showed in the last IPL how well he could smack the ball out of the ground. If all goes well, then India can have a handy all-rounder to take with them to the Windies this summer."
+good length ball that doesn't bounce as much. Jitesh taps it gently to midwicket where there's a big gap with the fielders on the boundary line
+AJ: "Very intrigued to see how Dube performs in this series. He showed in the last IPL how well he could smack the ball out of the ground. If all goes well, then India can have a handy all-rounder to take with them to the Windies this summer."
 
 Balls faced: 18
 Bowler: Azmatullah
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball around off. He can only tap it back to the bowler on this occasion"}]good length ball around off. He can only tap it back to the bowler on this occasion
+good length ball around off. He can only tap it back to the bowler on this occasion
 
 
 Balls faced: 19
 Bowler: Azmatullah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball just outside off. Tries to drag a leg-side shot from outside off stump and ends up getting a thin inside edge. On the bounce to the keeper"}]length ball just outside off. Tries to drag a leg-side shot from outside off stump and ends up getting a thin inside edge. On the bounce to the keeper
+length ball just outside off. Tries to drag a leg-side shot from outside off stump and ends up getting a thin inside edge. On the bounce to the keeper
 
 
 Balls faced: 20
 Bowler: Azmatullah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball around off stump. Driven inside out to cover"}]full ball around off stump. Driven inside out to cover
+full ball around off stump. Driven inside out to cover
 
 
 Balls faced: 21
 Bowler: Azmatullah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball on off. Gently worked to the big gap at square leg with the fielders on the boundary line. Enough time to return for the second - smart cricket from Jitesh there"}]full ball on off. Gently worked to the big gap at square leg with the fielders on the boundary line. Enough time to return for the second - smart cricket from Jitesh there
+full ball on off. Gently worked to the big gap at square leg with the fielders on the boundary line. Enough time to return for the second - smart cricket from Jitesh there
 
 
 Balls faced: 22
 Bowler: Azmatullah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<B>lands between deep square leg and deep midwicket this time!</b> Jitesh tries to mow a shot through the leg side but didn't get the distance. Only the height, and he's lucky that fell where nobody was present"}]<B>lands between deep square leg and deep midwicket this time!</b> Jitesh tries to mow a shot through the leg side but didn't get the distance. Only the height, and he's lucky that fell where nobody was present
+<B>lands between deep square leg and deep midwicket this time!</b> Jitesh tries to mow a shot through the leg side but didn't get the distance. Only the height, and he's lucky that fell where nobody was present
 
 
 Balls faced: 23
 Bowler: Azmatullah
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>another misfield for Janat, and that's four more for Jitesh.</b> This was a length ball on off with some extra bounce. Jitesh rode the bounce and flicked it behind square, playing the shot from well inside his crease. Janat seemed to have covered the ground but ended up parrying his attempt into the boundary"}]<B>another misfield for Janat, and that's four more for Jitesh.</b> This was a length ball on off with some extra bounce. Jitesh rode the bounce and flicked it behind square, playing the shot from well inside his crease. Janat seemed to have covered the ground but ended up parrying his attempt into the boundary
+<B>another misfield for Janat, and that's four more for Jitesh.</b> This was a length ball on off with some extra bounce. Jitesh rode the bounce and flicked it behind square, playing the shot from well inside his crease. Janat seemed to have covered the ground but ended up parrying his attempt into the boundary
 
 
 Balls faced: 24
 Bowler: Gulbadin
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "he'll keep the strike with that single"}]he'll keep the strike with that single
+he'll keep the strike with that single
 
 
 Balls faced: 25
 Bowler: Gulbadin
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<B>Surely it is a catch? Nooo!</b> Slower ball just outside off. Jitesh tries to club it over the off side but ends up slicing the shot after being deceived. Janat runs in from deep extra cover but then stops running and the ball ends up bouncing just in front of him. Did well to recover and stop the four but that's a chance gone."}]<B>Surely it is a catch? Nooo!</b> Slower ball just outside off. Jitesh tries to club it over the off side but ends up slicing the shot after being deceived. Janat runs in from deep extra cover but then stops running and the ball ends up bouncing just in front of him. Did well to recover and stop the four but that's a chance gone.
+<B>Surely it is a catch? Nooo!</b> Slower ball just outside off. Jitesh tries to club it over the off side but ends up slicing the shot after being deceived. Janat runs in from deep extra cover but then stops running and the ball ends up bouncing just in front of him. Did well to recover and stop the four but that's a chance gone.
 
 
 Balls faced: 26
 Bowler: Gulbadin
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full and wide ball. Jitesh meets the ball while it is on the rise, and he slaps it in front of square, beating deep extra cover too. Met the ball in front of his body, and the fast hand-speed ensured the shot went in front of square, away from the outfielder"}]full and wide ball. Jitesh meets the ball while it is on the rise, and he slaps it in front of square, beating deep extra cover too. Met the ball in front of his body, and the fast hand-speed ensured the shot went in front of square, away from the outfielder
+full and wide ball. Jitesh meets the ball while it is on the rise, and he slaps it in front of square, beating deep extra cover too. Met the ball in front of his body, and the fast hand-speed ensured the shot went in front of square, away from the outfielder
 
 
 Balls faced: 27
 Bowler: Gulbadin
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Lots of fans out here tonight, despite the chilly weather."}]Lots of fans out here tonight, despite the chilly weather.
+Lots of fans out here tonight, despite the chilly weather.
 
-[{"type": "HTML", "html": "back of the hand slower ball again. This one is full and wide. Jitesh mistimes a drive by playing a shot too early"}]back of the hand slower ball again. This one is full and wide. Jitesh mistimes a drive by playing a shot too early
+back of the hand slower ball again. This one is full and wide. Jitesh mistimes a drive by playing a shot too early
 
 
 Balls faced: 28
 Bowler: Mujeeb
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Mujeeb does get the breakthrough!</b> That's why Ibrahim brought Mujeeb back. This was a length ball sliding into the batter while also getting big on him. Jitesh tried to use his bottom hand to lift it over the non-striker's head for a six at long on, but this time it doesn't have the distance. Gone after a useful 31 in 20 balls"}]<B>Mujeeb does get the breakthrough!</b> That's why Ibrahim brought Mujeeb back. This was a length ball sliding into the batter while also getting big on him. Jitesh tried to use his bottom hand to lift it over the non-striker's head for a six at long on, but this time it doesn't have the distance. Gone after a useful 31 in 20 balls
+Sharma is OUT! caught
+c Ibrahim Zadran b Mujeeb Ur Rahman
+Jitesh Sharma c Ibrahim Zadran b Mujeeb Ur Rahman 31 (20b 5x4 0x6 21m) SR: 155
+<B>Mujeeb does get the breakthrough!</b> That's why Ibrahim brought Mujeeb back. This was a length ball sliding into the batter while also getting big on him. Jitesh tried to use his bottom hand to lift it over the non-striker's head for a six at long on, but this time it doesn't have the distance. Gone after a useful 31 in 20 balls
 
 
 Balls faced: 29
 Bowler: Mujeeb
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "can't get a single"}]can't get a single
+can't get a single
 
 
 Balls faced: 30
 Bowler: Mujeeb
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "overpitched on middle and leg. Jitesh goes for a slog sweep and even though the timing isn't great, there's enough in the swing of his bat to send it to long leg for four"}]overpitched on middle and leg. Jitesh goes for a slog sweep and even though the timing isn't great, there's enough in the swing of his bat to send it to long leg for four
+overpitched on middle and leg. Jitesh goes for a slog sweep and even though the timing isn't great, there's enough in the swing of his bat to send it to long leg for four
 
 
 Balls faced: 31
 Bowler: Mujeeb
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "over the stumps to Jitesh."}]over the stumps to Jitesh.
+over the stumps to Jitesh.
 
-[{"type": "HTML", "html": "half-tracker angling into his body. Jitesh tries to hook it over the leg side but the ball hits his body instead."}]half-tracker angling into his body. Jitesh tries to hook it over the leg side but the ball hits his body instead.
+half-tracker angling into his body. Jitesh tries to hook it over the leg side but the ball hits his body instead.
 
 
 Balls faced: 32
 Bowler: Azmatullah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball just outside off. Tries to drag a leg-side shot from outside off stump and ends up getting a thin inside edge. On the bounce to the keeper"}]length ball just outside off. Tries to drag a leg-side shot from outside off stump and ends up getting a thin inside edge. On the bounce to the keeper
+length ball just outside off. Tries to drag a leg-side shot from outside off stump and ends up getting a thin inside edge. On the bounce to the keeper
 
 
 Balls faced: 33
 Bowler: Azmatullah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball around off stump. Driven inside out to cover"}]full ball around off stump. Driven inside out to cover
+full ball around off stump. Driven inside out to cover
 
 
 Balls faced: 34
 Bowler: Azmatullah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball on off. Gently worked to the big gap at square leg with the fielders on the boundary line. Enough time to return for the second - smart cricket from Jitesh there"}]full ball on off. Gently worked to the big gap at square leg with the fielders on the boundary line. Enough time to return for the second - smart cricket from Jitesh there
+full ball on off. Gently worked to the big gap at square leg with the fielders on the boundary line. Enough time to return for the second - smart cricket from Jitesh there
 
 
 Balls faced: 35
 Bowler: Azmatullah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<B>lands between deep square leg and deep midwicket this time!</b> Jitesh tries to mow a shot through the leg side but didn't get the distance. Only the height, and he's lucky that fell where nobody was present"}]<B>lands between deep square leg and deep midwicket this time!</b> Jitesh tries to mow a shot through the leg side but didn't get the distance. Only the height, and he's lucky that fell where nobody was present
+<B>lands between deep square leg and deep midwicket this time!</b> Jitesh tries to mow a shot through the leg side but didn't get the distance. Only the height, and he's lucky that fell where nobody was present
 
 
 Balls faced: 36
 Bowler: Azmatullah
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>another misfield for Janat, and that's four more for Jitesh.</b> This was a length ball on off with some extra bounce. Jitesh rode the bounce and flicked it behind square, playing the shot from well inside his crease. Janat seemed to have covered the ground but ended up parrying his attempt into the boundary"}]<B>another misfield for Janat, and that's four more for Jitesh.</b> This was a length ball on off with some extra bounce. Jitesh rode the bounce and flicked it behind square, playing the shot from well inside his crease. Janat seemed to have covered the ground but ended up parrying his attempt into the boundary
+<B>another misfield for Janat, and that's four more for Jitesh.</b> This was a length ball on off with some extra bounce. Jitesh rode the bounce and flicked it behind square, playing the shot from well inside his crease. Janat seemed to have covered the ground but ended up parrying his attempt into the boundary
 
 
 Balls faced: 37
 Bowler: Mujeeb
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Mujeeb does get the breakthrough!</b> That's why Ibrahim brought Mujeeb back. This was a length ball sliding into the batter while also getting big on him. Jitesh tried to use his bottom hand to lift it over the non-striker's head for a six at long on, but this time it doesn't have the distance. Gone after a useful 31 in 20 balls"}]<B>Mujeeb does get the breakthrough!</b> That's why Ibrahim brought Mujeeb back. This was a length ball sliding into the batter while also getting big on him. Jitesh tried to use his bottom hand to lift it over the non-striker's head for a six at long on, but this time it doesn't have the distance. Gone after a useful 31 in 20 balls
+Sharma is OUT! caught
+c Ibrahim Zadran b Mujeeb Ur Rahman
+Jitesh Sharma c Ibrahim Zadran b Mujeeb Ur Rahman 31 (20b 5x4 0x6 21m) SR: 155
+<B>Mujeeb does get the breakthrough!</b> That's why Ibrahim brought Mujeeb back. This was a length ball sliding into the batter while also getting big on him. Jitesh tried to use his bottom hand to lift it over the non-striker's head for a six at long on, but this time it doesn't have the distance. Gone after a useful 31 in 20 balls
 
 
 Balls faced: 38
 Bowler: Mujeeb
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "can't get a single"}]can't get a single
+can't get a single
 
 
 Balls faced: 39
 Bowler: Mujeeb
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "overpitched on middle and leg. Jitesh goes for a slog sweep and even though the timing isn't great, there's enough in the swing of his bat to send it to long leg for four"}]overpitched on middle and leg. Jitesh goes for a slog sweep and even though the timing isn't great, there's enough in the swing of his bat to send it to long leg for four
+overpitched on middle and leg. Jitesh goes for a slog sweep and even though the timing isn't great, there's enough in the swing of his bat to send it to long leg for four
 
 
 Balls faced: 40
 Bowler: Mujeeb
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "over the stumps to Jitesh."}]over the stumps to Jitesh.
+over the stumps to Jitesh.
 
-[{"type": "HTML", "html": "half-tracker angling into his body. Jitesh tries to hook it over the leg side but the ball hits his body instead."}]half-tracker angling into his body. Jitesh tries to hook it over the leg side but the ball hits his body instead.
+half-tracker angling into his body. Jitesh tries to hook it over the leg side but the ball hits his body instead.
 
 
 
@@ -2110,48 +2336,57 @@ Match: all_games_1389384_1389397.json
 Balls faced: 1
 Bowler: Karim Janat
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "taken at mid-off! Jitesh falls with victory in sight, and with a lot of time left. This short-of-a-length ball again seemed to have skidded through on to off stump, taking the higher side of Jitesh's bat, as he looked to swat this back. Nabi got a comfortable catch in the end, as Janat struck again"}]taken at mid-off! Jitesh falls with victory in sight, and with a lot of time left. This short-of-a-length ball again seemed to have skidded through on to off stump, taking the higher side of Jitesh's bat, as he looked to swat this back. Nabi got a comfortable catch in the end, as Janat struck again
+Sharma is OUT! caught
+c Mohammad Nabi b Karim Janat
+Jitesh Sharma c Mohammad Nabi b Karim Janat 0 (2b 0x4 0x6 2m) SR: 0
+taken at mid-off! Jitesh falls with victory in sight, and with a lot of time left. This short-of-a-length ball again seemed to have skidded through on to off stump, taking the higher side of Jitesh's bat, as he looked to swat this back. Nabi got a comfortable catch in the end, as Janat struck again
 
 
 Balls faced: 2
 Bowler: Karim Janat
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Jitesh"}]Jitesh
+Jitesh
 
-[{"type": "HTML", "html": "a confident appeal for lbw by Janat, but not given. And this time they don't review. Bowled on a short of a length, and beaten for pace as Jitesh looked to pull but the ball hit him high on middle stump, and dribbled away to deep third"}]a confident appeal for lbw by Janat, but not given. And this time they don't review. Bowled on a short of a length, and beaten for pace as Jitesh looked to pull but the ball hit him high on middle stump, and dribbled away to deep third
-[{"type": "HTML", "html": "Naresh: \"Disappointing!! Shivam is hitting only fours now\""}]Naresh: "Disappointing!! Shivam is hitting only fours now"
+a confident appeal for lbw by Janat, but not given. And this time they don't review. Bowled on a short of a length, and beaten for pace as Jitesh looked to pull but the ball hit him high on middle stump, and dribbled away to deep third
+Naresh: "Disappointing!! Shivam is hitting only fours now"
 Legbyes: 1
 Balls faced: 3
 Bowler: Karim Janat
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "taken at mid-off! Jitesh falls with victory in sight, and with a lot of time left. This short-of-a-length ball again seemed to have skidded through on to off stump, taking the higher side of Jitesh's bat, as he looked to swat this back. Nabi got a comfortable catch in the end, as Janat struck again"}]taken at mid-off! Jitesh falls with victory in sight, and with a lot of time left. This short-of-a-length ball again seemed to have skidded through on to off stump, taking the higher side of Jitesh's bat, as he looked to swat this back. Nabi got a comfortable catch in the end, as Janat struck again
+Sharma is OUT! caught
+c Mohammad Nabi b Karim Janat
+Jitesh Sharma c Mohammad Nabi b Karim Janat 0 (2b 0x4 0x6 2m) SR: 0
+taken at mid-off! Jitesh falls with victory in sight, and with a lot of time left. This short-of-a-length ball again seemed to have skidded through on to off stump, taking the higher side of Jitesh's bat, as he looked to swat this back. Nabi got a comfortable catch in the end, as Janat struck again
 
 
 Balls faced: 4
 Bowler: Karim Janat
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Jitesh"}]Jitesh
+Jitesh
 
-[{"type": "HTML", "html": "a confident appeal for lbw by Janat, but not given. And this time they don't review. Bowled on a short of a length, and beaten for pace as Jitesh looked to pull but the ball hit him high on middle stump, and dribbled away to deep third"}]a confident appeal for lbw by Janat, but not given. And this time they don't review. Bowled on a short of a length, and beaten for pace as Jitesh looked to pull but the ball hit him high on middle stump, and dribbled away to deep third
-[{"type": "HTML", "html": "Naresh: \"Disappointing!! Shivam is hitting only fours now\""}]Naresh: "Disappointing!! Shivam is hitting only fours now"
+a confident appeal for lbw by Janat, but not given. And this time they don't review. Bowled on a short of a length, and beaten for pace as Jitesh looked to pull but the ball hit him high on middle stump, and dribbled away to deep third
+Naresh: "Disappointing!! Shivam is hitting only fours now"
 Legbyes: 1
 
 Match: all_games_1407043_1407107.json
 Balls faced: 1
 Bowler: Ngarava
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2162,6 +2397,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Ngarava
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2172,6 +2408,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Ngarava
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2182,6 +2419,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Ngarava
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2192,6 +2430,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2202,6 +2441,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2212,6 +2452,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -2222,6 +2463,7 @@ Run scored: 2
 Balls faced: 8
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2232,6 +2474,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2242,6 +2485,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2252,6 +2496,7 @@ Legbyes: 1
 Balls faced: 11
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2262,6 +2507,7 @@ Wide: 1
 Balls faced: 12
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2272,6 +2518,7 @@ Legbyes: 1
 Balls faced: 13
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2282,6 +2529,7 @@ Wide: 1
 Balls faced: 14
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2292,6 +2540,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2302,6 +2551,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2312,6 +2562,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -2322,6 +2573,7 @@ Run scored: 2
 Balls faced: 18
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2332,6 +2584,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Muzarabani
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2342,6 +2595,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2352,6 +2606,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2362,6 +2617,7 @@ Run scored: 4
 Balls faced: 22
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2372,6 +2628,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2382,6 +2639,7 @@ Run scored: 4
 Balls faced: 24
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2392,6 +2650,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2402,6 +2661,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2412,6 +2672,7 @@ Legbyes: 1
 Balls faced: 27
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2422,6 +2683,7 @@ Wide: 1
 Balls faced: 28
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2432,6 +2694,7 @@ Legbyes: 1
 Balls faced: 29
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2442,6 +2705,7 @@ Wide: 1
 Balls faced: 30
 Bowler: Ngarava
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2452,6 +2716,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Madhevere
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2462,6 +2727,7 @@ Run scored: 1
 Balls faced: 32
 Bowler: Madhevere
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2472,6 +2738,7 @@ Run scored: 1
 Balls faced: 33
 Bowler: Madhevere
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2482,6 +2749,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2492,6 +2760,7 @@ Run scored: 1
 Balls faced: 35
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2502,6 +2771,7 @@ Run scored: 4
 Balls faced: 36
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2512,6 +2782,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2522,6 +2793,7 @@ Run scored: 4
 Balls faced: 38
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2532,6 +2804,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Mumba
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2542,6 +2815,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2552,6 +2826,7 @@ Legbyes: 1
 Balls faced: 41
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2562,6 +2837,7 @@ Run scored: 0
 Balls faced: 42
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2572,6 +2848,7 @@ Run scored: 0
 Balls faced: 43
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2582,6 +2859,7 @@ Run scored: 0
 Balls faced: 44
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -2592,6 +2870,7 @@ Run scored: 2
 Balls faced: 45
 Bowler: Madhevere
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2602,6 +2881,7 @@ Run scored: 1
 Balls faced: 46
 Bowler: Madhevere
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2612,6 +2892,7 @@ Run scored: 1
 Balls faced: 47
 Bowler: Madhevere
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2622,6 +2903,7 @@ Run scored: 0
 Balls faced: 48
 Bowler: Madhevere
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2632,6 +2914,7 @@ Run scored: 0
 Balls faced: 49
 Bowler: Madhevere
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2642,6 +2925,7 @@ Run scored: 1
 Balls faced: 50
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2652,6 +2936,7 @@ Legbyes: 1
 Balls faced: 51
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2662,6 +2947,7 @@ Run scored: 0
 Balls faced: 52
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2672,6 +2958,7 @@ Run scored: 0
 Balls faced: 53
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2682,6 +2969,7 @@ Run scored: 0
 Balls faced: 54
 Bowler: Mumba
 Over: 8
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -2692,6 +2980,7 @@ Run scored: 2
 Balls faced: 55
 Bowler: Raza
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2702,6 +2991,7 @@ Run scored: 0
 Balls faced: 56
 Bowler: Raza
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2712,6 +3002,7 @@ Run scored: 1
 Balls faced: 57
 Bowler: Raza
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2722,6 +3013,7 @@ Run scored: 0
 Balls faced: 58
 Bowler: Raza
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2732,6 +3024,7 @@ Run scored: 0
 Balls faced: 59
 Bowler: Madhevere
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2742,6 +3035,7 @@ Run scored: 0
 Balls faced: 60
 Bowler: Madhevere
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2752,6 +3046,7 @@ Run scored: 1
 Balls faced: 61
 Bowler: Madhevere
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2762,6 +3057,7 @@ Run scored: 1
 Balls faced: 62
 Bowler: Madhevere
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2772,6 +3068,7 @@ Run scored: 1
 Balls faced: 63
 Bowler: Raza
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2782,6 +3079,7 @@ Run scored: 0
 Balls faced: 64
 Bowler: Raza
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2792,6 +3090,7 @@ Run scored: 1
 Balls faced: 65
 Bowler: Raza
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2802,6 +3101,7 @@ Run scored: 0
 Balls faced: 66
 Bowler: Raza
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2812,16 +3112,20 @@ Run scored: 0
 Balls faced: 67
 Bowler: Raza
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Sharma is OUT! stumped
+st †Madande b Sikandar Raza
+Pushkar Sharma st †Madande b Sikandar Raza 21 (33b 2x4 0x6) SR: 63.63
 
 
 
 Balls faced: 68
 Bowler: Madhevere
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2832,6 +3136,7 @@ Run scored: 1
 Balls faced: 69
 Bowler: Madhevere
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2842,5 +3147,10 @@ Run scored: 1
 Balls faced: 70
 Bowler: Raza
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
+
+Sharma is OUT! stumped
+st †Madande b Sikandar Raza
+Pushkar Sharma st †Madande b Sikandar Raza 21 (33b 2x4 0x6) SR: 63.63

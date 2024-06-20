@@ -2,41 +2,49 @@ Match: all_games_1408099_1408107.json
 Balls faced: 1
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Two wickets in three balls for Little.</strong> On a length with some shape away from the left-hander. He pushes at it, no feet whatsoever, as the ball catches the outside edge and the wicketkeeper takes a regulation catch to his left. Shumba's vigil lasts all of two balls."}]<strong>Two wickets in three balls for Little.</strong> On a length with some shape away from the left-hander. He pushes at it, no feet whatsoever, as the ball catches the outside edge and the wicketkeeper takes a regulation catch to his left. Shumba's vigil lasts all of two balls.
+Shumba is OUT! caught
+c †Tucker b Little
+Milton Shumba c †Tucker b Little 0 (2b 0x4 0x6 1m) SR: 0
+<strong>Two wickets in three balls for Little.</strong> On a length with some shape away from the left-hander. He pushes at it, no feet whatsoever, as the ball catches the outside edge and the wicketkeeper takes a regulation catch to his left. Shumba's vigil lasts all of two balls.
 
 
 Balls faced: 2
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Milton Shumba in at No.3. Little is over the wicket, two slips for the left-hander"}]Milton Shumba in at No.3. Little is over the wicket, two slips for the left-hander
+Milton Shumba in at No.3. Little is over the wicket, two slips for the left-hander
 
-[{"type": "HTML", "html": "Length ball outside off, he punches towards point"}]Length ball outside off, he punches towards point
+Length ball outside off, he punches towards point
 
 
 Balls faced: 3
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Two wickets in three balls for Little.</strong> On a length with some shape away from the left-hander. He pushes at it, no feet whatsoever, as the ball catches the outside edge and the wicketkeeper takes a regulation catch to his left. Shumba's vigil lasts all of two balls."}]<strong>Two wickets in three balls for Little.</strong> On a length with some shape away from the left-hander. He pushes at it, no feet whatsoever, as the ball catches the outside edge and the wicketkeeper takes a regulation catch to his left. Shumba's vigil lasts all of two balls.
+Shumba is OUT! caught
+c †Tucker b Little
+Milton Shumba c †Tucker b Little 0 (2b 0x4 0x6 1m) SR: 0
+<strong>Two wickets in three balls for Little.</strong> On a length with some shape away from the left-hander. He pushes at it, no feet whatsoever, as the ball catches the outside edge and the wicketkeeper takes a regulation catch to his left. Shumba's vigil lasts all of two balls.
 
 
 Balls faced: 4
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Milton Shumba in at No.3. Little is over the wicket, two slips for the left-hander"}]Milton Shumba in at No.3. Little is over the wicket, two slips for the left-hander
+Milton Shumba in at No.3. Little is over the wicket, two slips for the left-hander
 
-[{"type": "HTML", "html": "Length ball outside off, he punches towards point"}]Length ball outside off, he punches towards point
+Length ball outside off, he punches towards point
 
 
 
@@ -44,61 +52,67 @@ Match: all_games_1412536_1412539.json
 Balls faced: 1
 Bowler: Madushanka
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Looks to negate the swing by moving across. Shumba gets squared up a bit but manages to work the full ball back to the bowler"}]Looks to negate the swing by moving across. Shumba gets squared up a bit but manages to work the full ball back to the bowler
-[{"type": "HTML", "html": "Groundstaff have now gathered around boundary, holding the covers. Rain around the corner?"}]Groundstaff have now gathered around boundary, holding the covers. Rain around the corner?
+Looks to negate the swing by moving across. Shumba gets squared up a bit but manages to work the full ball back to the bowler
+Groundstaff have now gathered around boundary, holding the covers. Rain around the corner?
 
 Balls faced: 2
 Bowler: Chameera
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pitched right up, Shumba connected with the cover drive but it was intercepted swiftly by the fielder"}]Pitched right up, Shumba connected with the cover drive but it was intercepted swiftly by the fielder
-[{"type": "HTML", "html": "<strong>9:17pm</strong> That is that, the game has officially been called off. A frustrating finish in the end. Sri Lanka will take heart from the fact that their vice captain made an excellent century and that their new-ball bowling was on point. Zimbabwe had their moments but couldn't build on promising positions. They will have a chance to make amends in a couple of days. See you then. Check out <a href=\"https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-1st-odi-1412539/match-report\">Sreshth's match report</a> which should be updated soon. Ranjith P and Sudeep Poojari have been our scorers. Thanks for joining. Goodnight from all of us."}, {"type": "HTML", "html": "<b>8:40pm</b> News coming in is that it's still raining at R. Premadasa Stadium. The cut-off time will be 10:10pm."}, {"type": "HTML", "html": "Kishkindha: \"What's the minimum number of overs required to be bowled at this stage to constitute a game?\" 20"}, {"type": "HTML", "html": "Rachit-77 : \"Think Zimbabwe would be very happy side due to this rain stoppage..\" Potentially. They might even be benefited by a shortened game given there was a good chance they'd get blown away by the new ball."}, {"type": "HTML", "html": "<strong>8pm</strong> No official updates yet, so we await."}, {"type": "HTML", "html": "Prabath Perera: \"if any desert at the world needs the rain , you can simply send an invite to Sri Lankan cricket team to play a match. you will get the rain!!!\""}, {"type": "HTML", "html": "rachit-77 : \"Any news about the cut-off time...???\" Nope, but it's been close to an hour since the interruption. Generally, that's when overs start getting reduced, 4.2 minutes for each over."}, {"type": "HTML", "html": "Sanjeewa: \"Rain stopped in Kandana but still lightning. Hope the rain will get cleared soon in Colombo as well\""}, {"type": "TWITTER", "url": "https://twitter.com/RoshanCricket/status/1743635683154006415"}, {"type": "HTML", "html": "<strong>7:09pm</strong> The stumps are being pulled out, we have a rain interruption. Roshan Abeysinghe says the umps might be worried by the lightning as well. The groundsman are covering the ground quickly. It's a steady drizzle for now. The BBC forecast has the chances of rain in the 30-to-50-percent range rain for the next couple of hours. Let's hope it isn't as bad and that the weather clears up and we get a full game."}, {"type": "HTML", "html": "Shamlan Malik : \" I am at the stadium and it's raining heavily with lightning. I don't foresee any play for at least the next hour. \""}, {"type": "HTML", "html": "Thilini comments a couple minutes later that \"The rain seems to be slowing down slightly about 10km away from the stadium. \""}, {"type": "HTML", "html": "Hasith: \"Just 2.5 Km away from the ground still just a drizzle\" This is the closest there is to an update at 7:28pm"}, {"type": "HTML", "html": "Kevin: \"On top of Arachige's offspins, both Liyanage and Asalanka have been accumulating a heavy bowling workload in domestic tournaments over the past few weeks, so technically 5 spin options for KM to choose from\" They have Indeed bowled quite a bit. A reduced game might make it easier, as will the two early wickets."}, {"type": "HTML", "html": "Sanjeewa: \"It's pouring in Kandana 15 KM away from Colombo. So this can be be the last over of the match\""}]<strong>9:17pm</strong> That is that, the game has officially been called off. A frustrating finish in the end. Sri Lanka will take heart from the fact that their vice captain made an excellent century and that their new-ball bowling was on point. Zimbabwe had their moments but couldn't build on promising positions. They will have a chance to make amends in a couple of days. See you then. Check out <a href="https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-1st-odi-1412539/match-report">Sreshth's match report</a> which should be updated soon. Ranjith P and Sudeep Poojari have been our scorers. Thanks for joining. Goodnight from all of us. <b>8:40pm</b> News coming in is that it's still raining at R. Premadasa Stadium. The cut-off time will be 10:10pm. Kishkindha: "What's the minimum number of overs required to be bowled at this stage to constitute a game?" 20 Rachit-77 : "Think Zimbabwe would be very happy side due to this rain stoppage.." Potentially. They might even be benefited by a shortened game given there was a good chance they'd get blown away by the new ball. <strong>8pm</strong> No official updates yet, so we await. Prabath Perera: "if any desert at the world needs the rain , you can simply send an invite to Sri Lankan cricket team to play a match. you will get the rain!!!" rachit-77 : "Any news about the cut-off time...???" Nope, but it's been close to an hour since the interruption. Generally, that's when overs start getting reduced, 4.2 minutes for each over. Sanjeewa: "Rain stopped in Kandana but still lightning. Hope the rain will get cleared soon in Colombo as well" <strong>7:09pm</strong> The stumps are being pulled out, we have a rain interruption. Roshan Abeysinghe says the umps might be worried by the lightning as well. The groundsman are covering the ground quickly. It's a steady drizzle for now. The BBC forecast has the chances of rain in the 30-to-50-percent range rain for the next couple of hours. Let's hope it isn't as bad and that the weather clears up and we get a full game. Shamlan Malik : " I am at the stadium and it's raining heavily with lightning. I don't foresee any play for at least the next hour. " Thilini comments a couple minutes later that "The rain seems to be slowing down slightly about 10km away from the stadium. " Hasith: "Just 2.5 Km away from the ground still just a drizzle" This is the closest there is to an update at 7:28pm Kevin: "On top of Arachige's offspins, both Liyanage and Asalanka have been accumulating a heavy bowling workload in domestic tournaments over the past few weeks, so technically 5 spin options for KM to choose from" They have Indeed bowled quite a bit. A reduced game might make it easier, as will the two early wickets. Sanjeewa: "It's pouring in Kandana 15 KM away from Colombo. So this can be be the last over of the match"
+Pitched right up, Shumba connected with the cover drive but it was intercepted swiftly by the fielder
+<strong>9:17pm</strong> That is that, the game has officially been called off. A frustrating finish in the end. Sri Lanka will take heart from the fact that their vice captain made an excellent century and that their new-ball bowling was on point. Zimbabwe had their moments but couldn't build on promising positions. They will have a chance to make amends in a couple of days. See you then. Check out <a href="https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-1st-odi-1412539/match-report">Sreshth's match report</a> which should be updated soon. Ranjith P and Sudeep Poojari have been our scorers. Thanks for joining. Goodnight from all of us. <b>8:40pm</b> News coming in is that it's still raining at R. Premadasa Stadium. The cut-off time will be 10:10pm. Kishkindha: "What's the minimum number of overs required to be bowled at this stage to constitute a game?" 20 Rachit-77 : "Think Zimbabwe would be very happy side due to this rain stoppage.." Potentially. They might even be benefited by a shortened game given there was a good chance they'd get blown away by the new ball. <strong>8pm</strong> No official updates yet, so we await. Prabath Perera: "if any desert at the world needs the rain , you can simply send an invite to Sri Lankan cricket team to play a match. you will get the rain!!!" rachit-77 : "Any news about the cut-off time...???" Nope, but it's been close to an hour since the interruption. Generally, that's when overs start getting reduced, 4.2 minutes for each over. Sanjeewa: "Rain stopped in Kandana but still lightning. Hope the rain will get cleared soon in Colombo as well" <strong>7:09pm</strong> The stumps are being pulled out, we have a rain interruption. Roshan Abeysinghe says the umps might be worried by the lightning as well. The groundsman are covering the ground quickly. It's a steady drizzle for now. The BBC forecast has the chances of rain in the 30-to-50-percent range rain for the next couple of hours. Let's hope it isn't as bad and that the weather clears up and we get a full game. Shamlan Malik : " I am at the stadium and it's raining heavily with lightning. I don't foresee any play for at least the next hour. " Thilini comments a couple minutes later that "The rain seems to be slowing down slightly about 10km away from the stadium. " Hasith: "Just 2.5 Km away from the ground still just a drizzle" This is the closest there is to an update at 7:28pm Kevin: "On top of Arachige's offspins, both Liyanage and Asalanka have been accumulating a heavy bowling workload in domestic tournaments over the past few weeks, so technically 5 spin options for KM to choose from" They have Indeed bowled quite a bit. A reduced game might make it easier, as will the two early wickets. Sanjeewa: "It's pouring in Kandana 15 KM away from Colombo. So this can be be the last over of the match"
 
 Balls faced: 3
 Bowler: Chameera
 Over: 4
+Pitch Line: DOWN_LEG Length: FULL
 Shot: PUSH
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Nudged to midwicket, they push the fielder, whose throws if off-target leading to an overthrow"}]Nudged to midwicket, they push the fielder, whose throws if off-target leading to an overthrow
+Nudged to midwicket, they push the fielder, whose throws if off-target leading to an overthrow
 
 
 Balls faced: 4
 Bowler: Madushanka
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Looks to negate the swing by moving across. Shumba gets squared up a bit but manages to work the full ball back to the bowler"}]Looks to negate the swing by moving across. Shumba gets squared up a bit but manages to work the full ball back to the bowler
-[{"type": "HTML", "html": "Groundstaff have now gathered around boundary, holding the covers. Rain around the corner?"}]Groundstaff have now gathered around boundary, holding the covers. Rain around the corner?
+Looks to negate the swing by moving across. Shumba gets squared up a bit but manages to work the full ball back to the bowler
+Groundstaff have now gathered around boundary, holding the covers. Rain around the corner?
 
 Balls faced: 5
 Bowler: Chameera
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pitched right up, Shumba connected with the cover drive but it was intercepted swiftly by the fielder"}]Pitched right up, Shumba connected with the cover drive but it was intercepted swiftly by the fielder
-[{"type": "HTML", "html": "<strong>9:17pm</strong> That is that, the game has officially been called off. A frustrating finish in the end. Sri Lanka will take heart from the fact that their vice captain made an excellent century and that their new-ball bowling was on point. Zimbabwe had their moments but couldn't build on promising positions. They will have a chance to make amends in a couple of days. See you then. Check out <a href=\"https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-1st-odi-1412539/match-report\">Sreshth's match report</a> which should be updated soon. Ranjith P and Sudeep Poojari have been our scorers. Thanks for joining. Goodnight from all of us."}, {"type": "HTML", "html": "<b>8:40pm</b> News coming in is that it's still raining at R. Premadasa Stadium. The cut-off time will be 10:10pm."}, {"type": "HTML", "html": "Kishkindha: \"What's the minimum number of overs required to be bowled at this stage to constitute a game?\" 20"}, {"type": "HTML", "html": "Rachit-77 : \"Think Zimbabwe would be very happy side due to this rain stoppage..\" Potentially. They might even be benefited by a shortened game given there was a good chance they'd get blown away by the new ball."}, {"type": "HTML", "html": "<strong>8pm</strong> No official updates yet, so we await."}, {"type": "HTML", "html": "Prabath Perera: \"if any desert at the world needs the rain , you can simply send an invite to Sri Lankan cricket team to play a match. you will get the rain!!!\""}, {"type": "HTML", "html": "rachit-77 : \"Any news about the cut-off time...???\" Nope, but it's been close to an hour since the interruption. Generally, that's when overs start getting reduced, 4.2 minutes for each over."}, {"type": "HTML", "html": "Sanjeewa: \"Rain stopped in Kandana but still lightning. Hope the rain will get cleared soon in Colombo as well\""}, {"type": "TWITTER", "url": "https://twitter.com/RoshanCricket/status/1743635683154006415"}, {"type": "HTML", "html": "<strong>7:09pm</strong> The stumps are being pulled out, we have a rain interruption. Roshan Abeysinghe says the umps might be worried by the lightning as well. The groundsman are covering the ground quickly. It's a steady drizzle for now. The BBC forecast has the chances of rain in the 30-to-50-percent range rain for the next couple of hours. Let's hope it isn't as bad and that the weather clears up and we get a full game."}, {"type": "HTML", "html": "Shamlan Malik : \" I am at the stadium and it's raining heavily with lightning. I don't foresee any play for at least the next hour. \""}, {"type": "HTML", "html": "Thilini comments a couple minutes later that \"The rain seems to be slowing down slightly about 10km away from the stadium. \""}, {"type": "HTML", "html": "Hasith: \"Just 2.5 Km away from the ground still just a drizzle\" This is the closest there is to an update at 7:28pm"}, {"type": "HTML", "html": "Kevin: \"On top of Arachige's offspins, both Liyanage and Asalanka have been accumulating a heavy bowling workload in domestic tournaments over the past few weeks, so technically 5 spin options for KM to choose from\" They have Indeed bowled quite a bit. A reduced game might make it easier, as will the two early wickets."}, {"type": "HTML", "html": "Sanjeewa: \"It's pouring in Kandana 15 KM away from Colombo. So this can be be the last over of the match\""}]<strong>9:17pm</strong> That is that, the game has officially been called off. A frustrating finish in the end. Sri Lanka will take heart from the fact that their vice captain made an excellent century and that their new-ball bowling was on point. Zimbabwe had their moments but couldn't build on promising positions. They will have a chance to make amends in a couple of days. See you then. Check out <a href="https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-1st-odi-1412539/match-report">Sreshth's match report</a> which should be updated soon. Ranjith P and Sudeep Poojari have been our scorers. Thanks for joining. Goodnight from all of us. <b>8:40pm</b> News coming in is that it's still raining at R. Premadasa Stadium. The cut-off time will be 10:10pm. Kishkindha: "What's the minimum number of overs required to be bowled at this stage to constitute a game?" 20 Rachit-77 : "Think Zimbabwe would be very happy side due to this rain stoppage.." Potentially. They might even be benefited by a shortened game given there was a good chance they'd get blown away by the new ball. <strong>8pm</strong> No official updates yet, so we await. Prabath Perera: "if any desert at the world needs the rain , you can simply send an invite to Sri Lankan cricket team to play a match. you will get the rain!!!" rachit-77 : "Any news about the cut-off time...???" Nope, but it's been close to an hour since the interruption. Generally, that's when overs start getting reduced, 4.2 minutes for each over. Sanjeewa: "Rain stopped in Kandana but still lightning. Hope the rain will get cleared soon in Colombo as well" <strong>7:09pm</strong> The stumps are being pulled out, we have a rain interruption. Roshan Abeysinghe says the umps might be worried by the lightning as well. The groundsman are covering the ground quickly. It's a steady drizzle for now. The BBC forecast has the chances of rain in the 30-to-50-percent range rain for the next couple of hours. Let's hope it isn't as bad and that the weather clears up and we get a full game. Shamlan Malik : " I am at the stadium and it's raining heavily with lightning. I don't foresee any play for at least the next hour. " Thilini comments a couple minutes later that "The rain seems to be slowing down slightly about 10km away from the stadium. " Hasith: "Just 2.5 Km away from the ground still just a drizzle" This is the closest there is to an update at 7:28pm Kevin: "On top of Arachige's offspins, both Liyanage and Asalanka have been accumulating a heavy bowling workload in domestic tournaments over the past few weeks, so technically 5 spin options for KM to choose from" They have Indeed bowled quite a bit. A reduced game might make it easier, as will the two early wickets. Sanjeewa: "It's pouring in Kandana 15 KM away from Colombo. So this can be be the last over of the match"
+Pitched right up, Shumba connected with the cover drive but it was intercepted swiftly by the fielder
+<strong>9:17pm</strong> That is that, the game has officially been called off. A frustrating finish in the end. Sri Lanka will take heart from the fact that their vice captain made an excellent century and that their new-ball bowling was on point. Zimbabwe had their moments but couldn't build on promising positions. They will have a chance to make amends in a couple of days. See you then. Check out <a href="https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-1st-odi-1412539/match-report">Sreshth's match report</a> which should be updated soon. Ranjith P and Sudeep Poojari have been our scorers. Thanks for joining. Goodnight from all of us. <b>8:40pm</b> News coming in is that it's still raining at R. Premadasa Stadium. The cut-off time will be 10:10pm. Kishkindha: "What's the minimum number of overs required to be bowled at this stage to constitute a game?" 20 Rachit-77 : "Think Zimbabwe would be very happy side due to this rain stoppage.." Potentially. They might even be benefited by a shortened game given there was a good chance they'd get blown away by the new ball. <strong>8pm</strong> No official updates yet, so we await. Prabath Perera: "if any desert at the world needs the rain , you can simply send an invite to Sri Lankan cricket team to play a match. you will get the rain!!!" rachit-77 : "Any news about the cut-off time...???" Nope, but it's been close to an hour since the interruption. Generally, that's when overs start getting reduced, 4.2 minutes for each over. Sanjeewa: "Rain stopped in Kandana but still lightning. Hope the rain will get cleared soon in Colombo as well" <strong>7:09pm</strong> The stumps are being pulled out, we have a rain interruption. Roshan Abeysinghe says the umps might be worried by the lightning as well. The groundsman are covering the ground quickly. It's a steady drizzle for now. The BBC forecast has the chances of rain in the 30-to-50-percent range rain for the next couple of hours. Let's hope it isn't as bad and that the weather clears up and we get a full game. Shamlan Malik : " I am at the stadium and it's raining heavily with lightning. I don't foresee any play for at least the next hour. " Thilini comments a couple minutes later that "The rain seems to be slowing down slightly about 10km away from the stadium. " Hasith: "Just 2.5 Km away from the ground still just a drizzle" This is the closest there is to an update at 7:28pm Kevin: "On top of Arachige's offspins, both Liyanage and Asalanka have been accumulating a heavy bowling workload in domestic tournaments over the past few weeks, so technically 5 spin options for KM to choose from" They have Indeed bowled quite a bit. A reduced game might make it easier, as will the two early wickets. Sanjeewa: "It's pouring in Kandana 15 KM away from Colombo. So this can be be the last over of the match"
 
 Balls faced: 6
 Bowler: Chameera
 Over: 4
+Pitch Line: DOWN_LEG Length: FULL
 Shot: PUSH
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Nudged to midwicket, they push the fielder, whose throws if off-target leading to an overthrow"}]Nudged to midwicket, they push the fielder, whose throws if off-target leading to an overthrow
+Nudged to midwicket, they push the fielder, whose throws if off-target leading to an overthrow
 
 
 
@@ -106,356 +120,392 @@ Match: all_games_1412536_1412540.json
 Balls faced: 1
 Bowler: Theekshana
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quite full and angled into off. Driven towards extra cover"}]quite full and angled into off. Driven towards extra cover
+quite full and angled into off. Driven towards extra cover
 
 
 Balls faced: 2
 Bowler: Theekshana
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Shumba at No. 4. Theekshana around the wicket to the left-hander, with a slip."}]Shumba at No. 4. Theekshana around the wicket to the left-hander, with a slip.
+Shumba at No. 4. Theekshana around the wicket to the left-hander, with a slip.
 
-[{"type": "HTML", "html": "full and flat on the stumps, and pushed back"}]full and flat on the stumps, and pushed back
+full and flat on the stumps, and pushed back
 
 
 Balls faced: 3
 Bowler: Shanaka
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length just outside off, and punched to deep point"}]short of a length just outside off, and punched to deep point
+short of a length just outside off, and punched to deep point
 
 
 Balls faced: 4
 Bowler: Shanaka
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looks to slash this length ball angling across and ending slightly wide of off, but is beaten"}]looks to slash this length ball angling across and ending slightly wide of off, but is beaten
-[{"type": "HTML", "html": "\"How is the weather holding up?\" --- Just about, Mike. It is just as grey and cloudy as it was almost 13 overs back"}]"How is the weather holding up?" --- Just about, Mike. It is just as grey and cloudy as it was almost 13 overs back
+looks to slash this length ball angling across and ending slightly wide of off, but is beaten
+"How is the weather holding up?" --- Just about, Mike. It is just as grey and cloudy as it was almost 13 overs back
 
 Balls faced: 5
 Bowler: Shanaka
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a short of a length again, but this time on the stumps. Punched towards mid-off"}]on a short of a length again, but this time on the stumps. Punched towards mid-off
+on a short of a length again, but this time on the stumps. Punched towards mid-off
 
 
 Balls faced: 6
 Bowler: Shanaka
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Slip for Shumba"}]Slip for Shumba
+Slip for Shumba
 
-[{"type": "HTML", "html": "short of a length just outside off, and punched towards point, playing very close to his body"}]short of a length just outside off, and punched towards point, playing very close to his body
+short of a length just outside off, and punched towards point, playing very close to his body
 
 
 Balls faced: 7
 Bowler: Theekshana
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quite full and angled into off. Driven towards extra cover"}]quite full and angled into off. Driven towards extra cover
+quite full and angled into off. Driven towards extra cover
 
 
 Balls faced: 8
 Bowler: Theekshana
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Shumba at No. 4. Theekshana around the wicket to the left-hander, with a slip."}]Shumba at No. 4. Theekshana around the wicket to the left-hander, with a slip.
+Shumba at No. 4. Theekshana around the wicket to the left-hander, with a slip.
 
-[{"type": "HTML", "html": "full and flat on the stumps, and pushed back"}]full and flat on the stumps, and pushed back
+full and flat on the stumps, and pushed back
 
 
 Balls faced: 9
 Bowler: Theekshana
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish and flat on off, and defended off the inside edge to raise some excitement around the pitch"}]fullish and flat on off, and defended off the inside edge to raise some excitement around the pitch
+fullish and flat on off, and defended off the inside edge to raise some excitement around the pitch
 
 
 Balls faced: 10
 Bowler: Shanaka
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length just outside off, and punched to deep point"}]short of a length just outside off, and punched to deep point
+short of a length just outside off, and punched to deep point
 
 
 Balls faced: 11
 Bowler: Shanaka
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looks to slash this length ball angling across and ending slightly wide of off, but is beaten"}]looks to slash this length ball angling across and ending slightly wide of off, but is beaten
-[{"type": "HTML", "html": "\"How is the weather holding up?\" --- Just about, Mike. It is just as grey and cloudy as it was almost 13 overs back"}]"How is the weather holding up?" --- Just about, Mike. It is just as grey and cloudy as it was almost 13 overs back
+looks to slash this length ball angling across and ending slightly wide of off, but is beaten
+"How is the weather holding up?" --- Just about, Mike. It is just as grey and cloudy as it was almost 13 overs back
 
 Balls faced: 12
 Bowler: Shanaka
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a short of a length again, but this time on the stumps. Punched towards mid-off"}]on a short of a length again, but this time on the stumps. Punched towards mid-off
+on a short of a length again, but this time on the stumps. Punched towards mid-off
 
 
 Balls faced: 13
 Bowler: Shanaka
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Slip for Shumba"}]Slip for Shumba
+Slip for Shumba
 
-[{"type": "HTML", "html": "short of a length just outside off, and punched towards point, playing very close to his body"}]short of a length just outside off, and punched towards point, playing very close to his body
+short of a length just outside off, and punched towards point, playing very close to his body
 
 
 Balls faced: 14
 Bowler: Shanaka
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length ball on middle and off. Fended to the off side and says 'no' for the run"}]short of length ball on middle and off. Fended to the off side and says 'no' for the run
-[{"type": "HTML", "html": "<B>Stat alert:</b> No boundaries for 21 balls"}]<B>Stat alert:</b> No boundaries for 21 balls
+short of length ball on middle and off. Fended to the off side and says 'no' for the run
+<B>Stat alert:</b> No boundaries for 21 balls
 
 Balls faced: 15
 Bowler: Shanaka
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball around off. Chopped to point off the back foot"}]good length ball around off. Chopped to point off the back foot
+good length ball around off. Chopped to point off the back foot
 
 
 Balls faced: 16
 Bowler: Shanaka
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Thanks, Himanshu."}]Thanks, Himanshu.
+Thanks, Himanshu.
 
-[{"type": "HTML", "html": "full ball around off stump, driven to cover"}]full ball around off stump, driven to cover
+full ball around off stump, driven to cover
 
 
 Balls faced: 17
 Bowler: Shanaka
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ohh, the ball takes the side of the helmet, and runs away to the right of the keeper. He shaped to pull this short delivery, which rose rather sharply towards the leg stump. But Shubma shouldered arms last moment, only for the ball to dribble away off the helmet. So the hit has meant that the umpires have called for the concussion protocol to take place"}]ohh, the ball takes the side of the helmet, and runs away to the right of the keeper. He shaped to pull this short delivery, which rose rather sharply towards the leg stump. But Shubma shouldered arms last moment, only for the ball to dribble away off the helmet. So the hit has meant that the umpires have called for the concussion protocol to take place
-[{"type": "HTML", "html": "Time for <b>drinks</b>, and Sreshth is back"}]Time for <b>drinks</b>, and Sreshth is back
+ohh, the ball takes the side of the helmet, and runs away to the right of the keeper. He shaped to pull this short delivery, which rose rather sharply towards the leg stump. But Shubma shouldered arms last moment, only for the ball to dribble away off the helmet. So the hit has meant that the umpires have called for the concussion protocol to take place
+Time for <b>drinks</b>, and Sreshth is back
 
 Balls faced: 18
 Bowler: Shanaka
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "A wide slip in place"}]A wide slip in place
+A wide slip in place
 
-[{"type": "HTML", "html": "slashes this length ball angling away outside off, but goes on the bounce to point. The throw went to the non-striker's end, and Ervine dived back but the ball was wide of the stumps"}]slashes this length ball angling away outside off, but goes on the bounce to point. The throw went to the non-striker's end, and Ervine dived back but the ball was wide of the stumps
+slashes this length ball angling away outside off, but goes on the bounce to point. The throw went to the non-striker's end, and Ervine dived back but the ball was wide of the stumps
 
 
 Balls faced: 19
 Bowler: Theekshana
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish and flat on off, and defended off the inside edge to raise some excitement around the pitch"}]fullish and flat on off, and defended off the inside edge to raise some excitement around the pitch
+fullish and flat on off, and defended off the inside edge to raise some excitement around the pitch
 
 
 Balls faced: 20
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball driven with the turn to deep extra cover"}]full ball driven with the turn to deep extra cover
+full ball driven with the turn to deep extra cover
 
 
 Balls faced: 21
 Bowler: Theekshana
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off and middle. Defended to the on-side"}]full ball on off and middle. Defended to the on-side
+full ball on off and middle. Defended to the on-side
 
 
 Balls faced: 22
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Caressed to cover's right"}]full ball outside off. Caressed to cover's right
+full ball outside off. Caressed to cover's right
 
 
 Balls faced: 23
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball outside off. Bit of turn away and driven through the covers for some work for long off"}]full ball outside off. Bit of turn away and driven through the covers for some work for long off
+full ball outside off. Bit of turn away and driven through the covers for some work for long off
 
 
 Balls faced: 24
 Bowler: Shanaka
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length ball on middle and off. Fended to the off side and says 'no' for the run"}]short of length ball on middle and off. Fended to the off side and says 'no' for the run
-[{"type": "HTML", "html": "<B>Stat alert:</b> No boundaries for 21 balls"}]<B>Stat alert:</b> No boundaries for 21 balls
+short of length ball on middle and off. Fended to the off side and says 'no' for the run
+<B>Stat alert:</b> No boundaries for 21 balls
 
 Balls faced: 25
 Bowler: Shanaka
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball around off. Chopped to point off the back foot"}]good length ball around off. Chopped to point off the back foot
+good length ball around off. Chopped to point off the back foot
 
 
 Balls faced: 26
 Bowler: Shanaka
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Thanks, Himanshu."}]Thanks, Himanshu.
+Thanks, Himanshu.
 
-[{"type": "HTML", "html": "full ball around off stump, driven to cover"}]full ball around off stump, driven to cover
+full ball around off stump, driven to cover
 
 
 Balls faced: 27
 Bowler: Shanaka
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ohh, the ball takes the side of the helmet, and runs away to the right of the keeper. He shaped to pull this short delivery, which rose rather sharply towards the leg stump. But Shubma shouldered arms last moment, only for the ball to dribble away off the helmet. So the hit has meant that the umpires have called for the concussion protocol to take place"}]ohh, the ball takes the side of the helmet, and runs away to the right of the keeper. He shaped to pull this short delivery, which rose rather sharply towards the leg stump. But Shubma shouldered arms last moment, only for the ball to dribble away off the helmet. So the hit has meant that the umpires have called for the concussion protocol to take place
-[{"type": "HTML", "html": "Time for <b>drinks</b>, and Sreshth is back"}]Time for <b>drinks</b>, and Sreshth is back
+ohh, the ball takes the side of the helmet, and runs away to the right of the keeper. He shaped to pull this short delivery, which rose rather sharply towards the leg stump. But Shubma shouldered arms last moment, only for the ball to dribble away off the helmet. So the hit has meant that the umpires have called for the concussion protocol to take place
+Time for <b>drinks</b>, and Sreshth is back
 
 Balls faced: 28
 Bowler: Shanaka
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "A wide slip in place"}]A wide slip in place
+A wide slip in place
 
-[{"type": "HTML", "html": "slashes this length ball angling away outside off, but goes on the bounce to point. The throw went to the non-striker's end, and Ervine dived back but the ball was wide of the stumps"}]slashes this length ball angling away outside off, but goes on the bounce to point. The throw went to the non-striker's end, and Ervine dived back but the ball was wide of the stumps
+slashes this length ball angling away outside off, but goes on the bounce to point. The throw went to the non-striker's end, and Ervine dived back but the ball was wide of the stumps
 
 
 Balls faced: 29
 Bowler: Shanaka
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short ball on middle. Goes for the pull. Decent bounce, he misses the pull, through to the keeper. Keeper throws the ball back, trying to hit the stumps, but misses"}]short ball on middle. Goes for the pull. Decent bounce, he misses the pull, through to the keeper. Keeper throws the ball back, trying to hit the stumps, but misses
+short ball on middle. Goes for the pull. Decent bounce, he misses the pull, through to the keeper. Keeper throws the ball back, trying to hit the stumps, but misses
 
 
 Balls faced: 30
 Bowler: Shanaka
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short ball on leg. Sways away from the ball's line"}]short ball on leg. Sways away from the ball's line
-[{"type": "HTML", "html": "Kishkindha: \"SL should bring Asalanka without any further delay as he's an offie and both batters are lefties.\""}]Kishkindha: "SL should bring Asalanka without any further delay as he's an offie and both batters are lefties."
+short ball on leg. Sways away from the ball's line
+Kishkindha: "SL should bring Asalanka without any further delay as he's an offie and both batters are lefties."
 
 Balls faced: 31
 Bowler: Shanaka
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on middle, and blocked to the off side"}]good length ball on middle, and blocked to the off side
+good length ball on middle, and blocked to the off side
 
 
 Balls faced: 32
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball driven with the turn to deep extra cover"}]full ball driven with the turn to deep extra cover
+full ball driven with the turn to deep extra cover
 
 
 Balls faced: 33
 Bowler: Theekshana
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off and middle. Defended to the on-side"}]full ball on off and middle. Defended to the on-side
+full ball on off and middle. Defended to the on-side
 
 
 Balls faced: 34
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Caressed to cover's right"}]full ball outside off. Caressed to cover's right
+full ball outside off. Caressed to cover's right
 
 
 Balls faced: 35
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball outside off. Bit of turn away and driven through the covers for some work for long off"}]full ball outside off. Bit of turn away and driven through the covers for some work for long off
+full ball outside off. Bit of turn away and driven through the covers for some work for long off
 
 
 Balls faced: 36
 Bowler: Arachchige
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -466,86 +516,95 @@ Run scored: 1
 Balls faced: 37
 Bowler: Arachchige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball outside off. Driven to deep extra cover"}]full ball outside off. Driven to deep extra cover
+full ball outside off. Driven to deep extra cover
 
 
 Balls faced: 38
 Bowler: Arachchige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Darts this in, just outside off. Drilled to long off. Another full toss"}]Darts this in, just outside off. Drilled to long off. Another full toss
+Darts this in, just outside off. Drilled to long off. Another full toss
 
 
 Balls faced: 39
 Bowler: Shanaka
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short ball on middle. Goes for the pull. Decent bounce, he misses the pull, through to the keeper. Keeper throws the ball back, trying to hit the stumps, but misses"}]short ball on middle. Goes for the pull. Decent bounce, he misses the pull, through to the keeper. Keeper throws the ball back, trying to hit the stumps, but misses
+short ball on middle. Goes for the pull. Decent bounce, he misses the pull, through to the keeper. Keeper throws the ball back, trying to hit the stumps, but misses
 
 
 Balls faced: 40
 Bowler: Shanaka
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short ball on leg. Sways away from the ball's line"}]short ball on leg. Sways away from the ball's line
-[{"type": "HTML", "html": "Kishkindha: \"SL should bring Asalanka without any further delay as he's an offie and both batters are lefties.\""}]Kishkindha: "SL should bring Asalanka without any further delay as he's an offie and both batters are lefties."
+short ball on leg. Sways away from the ball's line
+Kishkindha: "SL should bring Asalanka without any further delay as he's an offie and both batters are lefties."
 
 Balls faced: 41
 Bowler: Shanaka
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on middle, and blocked to the off side"}]good length ball on middle, and blocked to the off side
+good length ball on middle, and blocked to the off side
 
 
 Balls faced: 42
 Bowler: Shanaka
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle, and drilled to mid on's left for a quick single"}]full ball on middle, and drilled to mid on's left for a quick single
+full ball on middle, and drilled to mid on's left for a quick single
 
 
 Balls faced: 43
 Bowler: Shanaka
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pulled to deep square leg"}]pulled to deep square leg
+pulled to deep square leg
 
 
 Balls faced: 44
 Bowler: Shanaka
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "they pinch a single"}]they pinch a single
+they pinch a single
 
 
 Balls faced: 45
 Bowler: Arachchige
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -556,451 +615,500 @@ Run scored: 1
 Balls faced: 46
 Bowler: Arachchige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball outside off. Driven to deep extra cover"}]full ball outside off. Driven to deep extra cover
+full ball outside off. Driven to deep extra cover
 
 
 Balls faced: 47
 Bowler: Arachchige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Darts this in, just outside off. Drilled to long off. Another full toss"}]Darts this in, just outside off. Drilled to long off. Another full toss
+Darts this in, just outside off. Drilled to long off. Another full toss
 
 
 Balls faced: 48
 Bowler: Arachchige
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle. Uses his wrists to work it leg side. Stopped at midwicket. <B>Zimbabwe 91/2 in 20 overs</b>"}]full ball on middle. Uses his wrists to work it leg side. Stopped at midwicket. <B>Zimbabwe 91/2 in 20 overs</b>
+full ball on middle. Uses his wrists to work it leg side. Stopped at midwicket. <B>Zimbabwe 91/2 in 20 overs</b>
 
 
 Balls faced: 49
 Bowler: Arachchige
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off. Driven to mid off. Toe-ends it"}]full on off. Driven to mid off. Toe-ends it
+full on off. Driven to mid off. Toe-ends it
 
 
 Balls faced: 50
 Bowler: Arachchige
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball driven with the turn to long off"}]full ball driven with the turn to long off
+full ball driven with the turn to long off
 
 
 Balls faced: 51
 Bowler: Arachchige
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball pushed to the off side"}]full ball pushed to the off side
+full ball pushed to the off side
 
 
 Balls faced: 52
 Bowler: Shanaka
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle, and drilled to mid on's left for a quick single"}]full ball on middle, and drilled to mid on's left for a quick single
+full ball on middle, and drilled to mid on's left for a quick single
 
 
 Balls faced: 53
 Bowler: Shanaka
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pulled to deep square leg"}]pulled to deep square leg
+pulled to deep square leg
 
 
 Balls faced: 54
 Bowler: Shanaka
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "they pinch a single"}]they pinch a single
+they pinch a single
 
 
 Balls faced: 55
 Bowler: Chameera
 Over: 21
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short ball around leg. Tries to pull. <B>Hits the glove</b> and goes past the keeper's right. <B>Team hundred!</b>"}]short ball around leg. Tries to pull. <B>Hits the glove</b> and goes past the keeper's right. <B>Team hundred!</b>
+short ball around leg. Tries to pull. <B>Hits the glove</b> and goes past the keeper's right. <B>Team hundred!</b>
 
 
 Balls faced: 56
 Bowler: Chameera
 Over: 21
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on leg stump. Defended"}]good length ball on leg stump. Defended
+good length ball on leg stump. Defended
 
 
 Balls faced: 57
 Bowler: Arachchige
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on middle. Uses his wrists to work it leg side. Stopped at midwicket. <B>Zimbabwe 91/2 in 20 overs</b>"}]full ball on middle. Uses his wrists to work it leg side. Stopped at midwicket. <B>Zimbabwe 91/2 in 20 overs</b>
+full ball on middle. Uses his wrists to work it leg side. Stopped at midwicket. <B>Zimbabwe 91/2 in 20 overs</b>
 
 
 Balls faced: 58
 Bowler: Arachchige
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off. Driven to mid off. Toe-ends it"}]full on off. Driven to mid off. Toe-ends it
+full on off. Driven to mid off. Toe-ends it
 
 
 Balls faced: 59
 Bowler: Arachchige
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball driven with the turn to long off"}]full ball driven with the turn to long off
+full ball driven with the turn to long off
 
 
 Balls faced: 60
 Bowler: Arachchige
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball pushed to the off side"}]full ball pushed to the off side
+full ball pushed to the off side
 
 
 Balls faced: 61
 Bowler: Vandersay
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on leg. Stays on the back foot.  Clips to deep square leg"}]length ball on leg. Stays on the back foot.  Clips to deep square leg
+length ball on leg. Stays on the back foot.  Clips to deep square leg
 
 
 Balls faced: 62
 Bowler: Vandersay
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on leg stump. Guided to the leg side with soft hands"}]full on leg stump. Guided to the leg side with soft hands
+full on leg stump. Guided to the leg side with soft hands
 
 
 Balls faced: 63
 Bowler: Vandersay
 Over: 22
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full ball around leg. Swept, very well indeed! Pierces the gap between short fine leg and deep backward square leg"}]full ball around leg. Swept, very well indeed! Pierces the gap between short fine leg and deep backward square leg
+full ball around leg. Swept, very well indeed! Pierces the gap between short fine leg and deep backward square leg
 
 
 Balls faced: 64
 Bowler: Chameera
 Over: 21
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short ball around leg. Tries to pull. <B>Hits the glove</b> and goes past the keeper's right. <B>Team hundred!</b>"}]short ball around leg. Tries to pull. <B>Hits the glove</b> and goes past the keeper's right. <B>Team hundred!</b>
+short ball around leg. Tries to pull. <B>Hits the glove</b> and goes past the keeper's right. <B>Team hundred!</b>
 
 
 Balls faced: 65
 Bowler: Chameera
 Over: 21
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on leg stump. Defended"}]good length ball on leg stump. Defended
+good length ball on leg stump. Defended
 
 
 Balls faced: 66
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "digs it in short. But Shumba is relatively tall too. Stands up and pulls to deep midwicket"}]digs it in short. But Shumba is relatively tall too. Stands up and pulls to deep midwicket
+digs it in short. But Shumba is relatively tall too. Stands up and pulls to deep midwicket
 
 
 Balls faced: 67
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended gently to the off side"}]defended gently to the off side
+defended gently to the off side
 
 
 Balls faced: 68
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball fended to the off side"}]good length ball fended to the off side
+good length ball fended to the off side
 
 
 Balls faced: 69
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short ball pulled to deep square leg but there's someone there to clean up. Theekshana with a strong throw in, but can't stop two"}]short ball pulled to deep square leg but there's someone there to clean up. Theekshana with a strong throw in, but can't stop two
+short ball pulled to deep square leg but there's someone there to clean up. Theekshana with a strong throw in, but can't stop two
 
 
 Balls faced: 70
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Chameera to plug the flow of runs"}]Chameera to plug the flow of runs
+Chameera to plug the flow of runs
 
-[{"type": "HTML", "html": "good length ball on middle. Blocked to the off side off the back foot"}]good length ball on middle. Blocked to the off side off the back foot
-[{"type": "HTML", "html": "Mustafa Moudi: \"Fun Number: After taking those 2 runs at 19.3, Ervine's ODI Career runs were 3,333 at an average of 33.33 !!\""}]Mustafa Moudi: "Fun Number: After taking those 2 runs at 19.3, Ervine's ODI Career runs were 3,333 at an average of 33.33 !!"
+good length ball on middle. Blocked to the off side off the back foot
+Mustafa Moudi: "Fun Number: After taking those 2 runs at 19.3, Ervine's ODI Career runs were 3,333 at an average of 33.33 !!"
 
 Balls faced: 71
 Bowler: Vandersay
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on leg. Stays on the back foot.  Clips to deep square leg"}]length ball on leg. Stays on the back foot.  Clips to deep square leg
+length ball on leg. Stays on the back foot.  Clips to deep square leg
 
 
 Balls faced: 72
 Bowler: Vandersay
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on leg stump. Guided to the leg side with soft hands"}]full on leg stump. Guided to the leg side with soft hands
+full on leg stump. Guided to the leg side with soft hands
 
 
 Balls faced: 73
 Bowler: Vandersay
 Over: 22
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full ball around leg. Swept, very well indeed! Pierces the gap between short fine leg and deep backward square leg"}]full ball around leg. Swept, very well indeed! Pierces the gap between short fine leg and deep backward square leg
+full ball around leg. Swept, very well indeed! Pierces the gap between short fine leg and deep backward square leg
 
 
 Balls faced: 74
 Bowler: Vandersay
 Over: 24
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "tossed up on leg. Flicked off his toes for a single"}]tossed up on leg. Flicked off his toes for a single
+tossed up on leg. Flicked off his toes for a single
 
 
 Balls faced: 75
 Bowler: Vandersay
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off.  Bat closer to pad this time. Defended"}]full ball on off.  Bat closer to pad this time. Defended
+full ball on off.  Bat closer to pad this time. Defended
 
 
 Balls faced: 76
 Bowler: Vandersay
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Turning in, past the bat and hitting the pad. <B>LBW appeal turned down</b> because this had an inside edge."}]full ball on off. Turning in, past the bat and hitting the pad. <B>LBW appeal turned down</b> because this had an inside edge.
+full ball on off. Turning in, past the bat and hitting the pad. <B>LBW appeal turned down</b> because this had an inside edge.
 
 
 Balls faced: 77
 Bowler: Vandersay
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Turning away. Mistimed cut while making room. Dribbles away"}]full ball outside off. Turning away. Mistimed cut while making room. Dribbles away
+full ball outside off. Turning away. Mistimed cut while making room. Dribbles away
 
 
 Balls faced: 78
 Bowler: Vandersay
 Over: 24
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around leg stump. Played to midwicket"}]full ball around leg stump. Played to midwicket
+full ball around leg stump. Played to midwicket
 
 
 Balls faced: 79
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "digs it in short. But Shumba is relatively tall too. Stands up and pulls to deep midwicket"}]digs it in short. But Shumba is relatively tall too. Stands up and pulls to deep midwicket
+digs it in short. But Shumba is relatively tall too. Stands up and pulls to deep midwicket
 
 
 Balls faced: 80
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended gently to the off side"}]defended gently to the off side
+defended gently to the off side
 
 
 Balls faced: 81
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball fended to the off side"}]good length ball fended to the off side
+good length ball fended to the off side
 
 
 Balls faced: 82
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short ball pulled to deep square leg but there's someone there to clean up. Theekshana with a strong throw in, but can't stop two"}]short ball pulled to deep square leg but there's someone there to clean up. Theekshana with a strong throw in, but can't stop two
+short ball pulled to deep square leg but there's someone there to clean up. Theekshana with a strong throw in, but can't stop two
 
 
 Balls faced: 83
 Bowler: Chameera
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Chameera to plug the flow of runs"}]Chameera to plug the flow of runs
+Chameera to plug the flow of runs
 
-[{"type": "HTML", "html": "good length ball on middle. Blocked to the off side off the back foot"}]good length ball on middle. Blocked to the off side off the back foot
-[{"type": "HTML", "html": "Mustafa Moudi: \"Fun Number: After taking those 2 runs at 19.3, Ervine's ODI Career runs were 3,333 at an average of 33.33 !!\""}]Mustafa Moudi: "Fun Number: After taking those 2 runs at 19.3, Ervine's ODI Career runs were 3,333 at an average of 33.33 !!"
+good length ball on middle. Blocked to the off side off the back foot
+Mustafa Moudi: "Fun Number: After taking those 2 runs at 19.3, Ervine's ODI Career runs were 3,333 at an average of 33.33 !!"
 
 Balls faced: 84
 Bowler: Theekshana
 Over: 25
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>soft dismissal - chipped to short midwicket!</b> Tries to close the bat's face to play it leg side but he closes the face too early. Popped up for the fielder lurking and he's gone!"}]<B>soft dismissal - chipped to short midwicket!</b> Tries to close the bat's face to play it leg side but he closes the face too early. Popped up for the fielder lurking and he's gone!
+Shumba is OUT! caught
+c Arachchige b Theekshana
+Milton Shumba c Arachchige b Theekshana 26 (45b 2x4 0x6 47m) SR: 57.77
+<B>soft dismissal - chipped to short midwicket!</b> Tries to close the bat's face to play it leg side but he closes the face too early. Popped up for the fielder lurking and he's gone!
 
 
 Balls faced: 85
 Bowler: Vandersay
 Over: 24
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "tossed up on leg. Flicked off his toes for a single"}]tossed up on leg. Flicked off his toes for a single
+tossed up on leg. Flicked off his toes for a single
 
 
 Balls faced: 86
 Bowler: Vandersay
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off.  Bat closer to pad this time. Defended"}]full ball on off.  Bat closer to pad this time. Defended
+full ball on off.  Bat closer to pad this time. Defended
 
 
 Balls faced: 87
 Bowler: Vandersay
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Turning in, past the bat and hitting the pad. <B>LBW appeal turned down</b> because this had an inside edge."}]full ball on off. Turning in, past the bat and hitting the pad. <B>LBW appeal turned down</b> because this had an inside edge.
+full ball on off. Turning in, past the bat and hitting the pad. <B>LBW appeal turned down</b> because this had an inside edge.
 
 
 Balls faced: 88
 Bowler: Vandersay
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Turning away. Mistimed cut while making room. Dribbles away"}]full ball outside off. Turning away. Mistimed cut while making room. Dribbles away
+full ball outside off. Turning away. Mistimed cut while making room. Dribbles away
 
 
 Balls faced: 89
 Bowler: Vandersay
 Over: 24
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around leg stump. Played to midwicket"}]full ball around leg stump. Played to midwicket
+full ball around leg stump. Played to midwicket
 
 
 Balls faced: 90
 Bowler: Theekshana
 Over: 25
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>soft dismissal - chipped to short midwicket!</b> Tries to close the bat's face to play it leg side but he closes the face too early. Popped up for the fielder lurking and he's gone!"}]<B>soft dismissal - chipped to short midwicket!</b> Tries to close the bat's face to play it leg side but he closes the face too early. Popped up for the fielder lurking and he's gone!
+Shumba is OUT! caught
+c Arachchige b Theekshana
+Milton Shumba c Arachchige b Theekshana 26 (45b 2x4 0x6 47m) SR: 57.77
+<B>soft dismissal - chipped to short midwicket!</b> Tries to close the bat's face to play it leg side but he closes the face too early. Popped up for the fielder lurking and he's gone!
 
 
 
@@ -1008,178 +1116,200 @@ Match: all_games_1412536_1412541.json
 Balls faced: 1
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full and angled into off. Pushed to mid-off for a quick single"}]very full and angled into off. Pushed to mid-off for a quick single
+very full and angled into off. Pushed to mid-off for a quick single
 
 
 Balls faced: 2
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
-[{"type": "HTML", "html": "Shumba at No. 4, with Hasaranga around the wicket. A slip and leg slip present."}]Shumba at No. 4, with Hasaranga around the wicket. A slip and leg slip present.
+Shumba at No. 4, with Hasaranga around the wicket. A slip and leg slip present.
 
-[{"type": "HTML", "html": "this straightens off a fullish length around sixth stump, and is blocked"}]this straightens off a fullish length around sixth stump, and is blocked
-[{"type": "HTML", "html": "Yoel: \"Welcome back Hasaranga, you were sadly missed by everyone (not including non-SL batsmen)\""}]Yoel: "Welcome back Hasaranga, you were sadly missed by everyone (not including non-SL batsmen)"
+this straightens off a fullish length around sixth stump, and is blocked
+Yoel: "Welcome back Hasaranga, you were sadly missed by everyone (not including non-SL batsmen)"
 
 Balls faced: 3
 Bowler: Chameera
 Over: 12
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on middle, and clipped towards square leg"}]short of a length on middle, and clipped towards square leg
+short of a length on middle, and clipped towards square leg
 
 
 Balls faced: 4
 Bowler: Chameera
 Over: 12
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer at 145kph! Wow, Sri Lanka are suddenly flying. Chameera pitches it short on leg stump, getting to zoom up, with Shumba swaying away after shaping to pull"}]bouncer at 145kph! Wow, Sri Lanka are suddenly flying. Chameera pitches it short on leg stump, getting to zoom up, with Shumba swaying away after shaping to pull
+bouncer at 145kph! Wow, Sri Lanka are suddenly flying. Chameera pitches it short on leg stump, getting to zoom up, with Shumba swaying away after shaping to pull
 
 
 Balls faced: 5
 Bowler: Chameera
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full delivery again, and pushed down to mid-off"}]full delivery again, and pushed down to mid-off
+full delivery again, and pushed down to mid-off
 
 
 Balls faced: 6
 Bowler: Chameera
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DAB
 Run scored: 0
-[{"type": "HTML", "html": "Two slips"}]Two slips
+Two slips
 
-[{"type": "HTML", "html": "on a length, and angling across towards off. Dabbed towards point"}]on a length, and angling across towards off. Dabbed towards point
+on a length, and angling across towards off. Dabbed towards point
 
 
 Balls faced: 7
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full and angled into off. Pushed to mid-off for a quick single"}]very full and angled into off. Pushed to mid-off for a quick single
+very full and angled into off. Pushed to mid-off for a quick single
 
 
 Balls faced: 8
 Bowler: Hasaranga
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
-[{"type": "HTML", "html": "Shumba at No. 4, with Hasaranga around the wicket. A slip and leg slip present."}]Shumba at No. 4, with Hasaranga around the wicket. A slip and leg slip present.
+Shumba at No. 4, with Hasaranga around the wicket. A slip and leg slip present.
 
-[{"type": "HTML", "html": "this straightens off a fullish length around sixth stump, and is blocked"}]this straightens off a fullish length around sixth stump, and is blocked
-[{"type": "HTML", "html": "Yoel: \"Welcome back Hasaranga, you were sadly missed by everyone (not including non-SL batsmen)\""}]Yoel: "Welcome back Hasaranga, you were sadly missed by everyone (not including non-SL batsmen)"
+this straightens off a fullish length around sixth stump, and is blocked
+Yoel: "Welcome back Hasaranga, you were sadly missed by everyone (not including non-SL batsmen)"
 
 Balls faced: 9
 Bowler: Hasaranga
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Hasaranga strikes on his third ball</b> after resumption and continues his celebrappeal! Bowls it full and lands it on off and middle, the traditional legbreak. Shumba lunges and looks to defend but is unsure of the turn and is beaten on the inside. Plumb in line"}]<b>Hasaranga strikes on his third ball</b> after resumption and continues his celebrappeal! Bowls it full and lands it on off and middle, the traditional legbreak. Shumba lunges and looks to defend but is unsure of the turn and is beaten on the inside. Plumb in line
+Shumba is OUT! lbw
+lbw b de Silva
+Milton Shumba lbw b de Silva 2 (9b 0x4 0x6 8m) SR: 22.22
+<b>Hasaranga strikes on his third ball</b> after resumption and continues his celebrappeal! Bowls it full and lands it on off and middle, the traditional legbreak. Shumba lunges and looks to defend but is unsure of the turn and is beaten on the inside. Plumb in line
 
 
 Balls faced: 10
 Bowler: Hasaranga
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Quicker and outside off, he lunges to defend but gets beaten on the outside"}]Quicker and outside off, he lunges to defend but gets beaten on the outside
+Quicker and outside off, he lunges to defend but gets beaten on the outside
 
 
 Balls faced: 11
 Bowler: Hasaranga
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "The second powerplay will continue till the 22nd over, and the final five overs will be the third powerplay. Hasaranga will continue. Around the wicket, a slip in"}]The second powerplay will continue till the 22nd over, and the final five overs will be the third powerplay. Hasaranga will continue. Around the wicket, a slip in
+The second powerplay will continue till the 22nd over, and the final five overs will be the third powerplay. Hasaranga will continue. Around the wicket, a slip in
 
-[{"type": "HTML", "html": "Quicker and on a length outside off, spinning in, he goes back and defends"}]Quicker and on a length outside off, spinning in, he goes back and defends
+Quicker and on a length outside off, spinning in, he goes back and defends
 
 
 Balls faced: 12
 Bowler: Chameera
 Over: 12
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on middle, and clipped towards square leg"}]short of a length on middle, and clipped towards square leg
+short of a length on middle, and clipped towards square leg
 
 
 Balls faced: 13
 Bowler: Chameera
 Over: 12
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer at 145kph! Wow, Sri Lanka are suddenly flying. Chameera pitches it short on leg stump, getting to zoom up, with Shumba swaying away after shaping to pull"}]bouncer at 145kph! Wow, Sri Lanka are suddenly flying. Chameera pitches it short on leg stump, getting to zoom up, with Shumba swaying away after shaping to pull
+bouncer at 145kph! Wow, Sri Lanka are suddenly flying. Chameera pitches it short on leg stump, getting to zoom up, with Shumba swaying away after shaping to pull
 
 
 Balls faced: 14
 Bowler: Chameera
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full delivery again, and pushed down to mid-off"}]full delivery again, and pushed down to mid-off
+full delivery again, and pushed down to mid-off
 
 
 Balls faced: 15
 Bowler: Chameera
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DAB
 Run scored: 0
-[{"type": "HTML", "html": "Two slips"}]Two slips
+Two slips
 
-[{"type": "HTML", "html": "on a length, and angling across towards off. Dabbed towards point"}]on a length, and angling across towards off. Dabbed towards point
+on a length, and angling across towards off. Dabbed towards point
 
 
 Balls faced: 16
 Bowler: Hasaranga
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Hasaranga strikes on his third ball</b> after resumption and continues his celebrappeal! Bowls it full and lands it on off and middle, the traditional legbreak. Shumba lunges and looks to defend but is unsure of the turn and is beaten on the inside. Plumb in line"}]<b>Hasaranga strikes on his third ball</b> after resumption and continues his celebrappeal! Bowls it full and lands it on off and middle, the traditional legbreak. Shumba lunges and looks to defend but is unsure of the turn and is beaten on the inside. Plumb in line
+Shumba is OUT! lbw
+lbw b de Silva
+Milton Shumba lbw b de Silva 2 (9b 0x4 0x6 8m) SR: 22.22
+<b>Hasaranga strikes on his third ball</b> after resumption and continues his celebrappeal! Bowls it full and lands it on off and middle, the traditional legbreak. Shumba lunges and looks to defend but is unsure of the turn and is beaten on the inside. Plumb in line
 
 
 Balls faced: 17
 Bowler: Hasaranga
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Quicker and outside off, he lunges to defend but gets beaten on the outside"}]Quicker and outside off, he lunges to defend but gets beaten on the outside
+Quicker and outside off, he lunges to defend but gets beaten on the outside
 
 
 Balls faced: 18
 Bowler: Hasaranga
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "The second powerplay will continue till the 22nd over, and the final five overs will be the third powerplay. Hasaranga will continue. Around the wicket, a slip in"}]The second powerplay will continue till the 22nd over, and the final five overs will be the third powerplay. Hasaranga will continue. Around the wicket, a slip in
+The second powerplay will continue till the 22nd over, and the final five overs will be the third powerplay. Hasaranga will continue. Around the wicket, a slip in
 
-[{"type": "HTML", "html": "Quicker and on a length outside off, spinning in, he goes back and defends"}]Quicker and on a length outside off, spinning in, he goes back and defends
+Quicker and on a length outside off, spinning in, he goes back and defends
