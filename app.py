@@ -16,7 +16,7 @@ def read_file(file_path):
 # Streamlit app
 st.title("Batsman Analysis with GPT-4o")
 
-st.markdown(" Select a batsman from the left dropdown list")
+st.markdown(" Select a batsman from the *left dropdown* list (based on last name eg. kohli.txt)")
 # Directory containing player files
 player_directory = 'players'  # Make sure this directory exists and contains .txt files
 
