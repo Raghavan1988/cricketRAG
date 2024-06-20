@@ -2,601 +2,665 @@ Match: all_games_1408099_1408104.json
 Balls faced: 1
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "He goes wide again and draws a cut from Kamunhukamwe. This time he seemed to get an under-edge that bounces through to the keeper. Good start from Adair"}]He goes wide again and draws a cut from Kamunhukamwe. This time he seemed to get an under-edge that bounces through to the keeper. Good start from Adair
+He goes wide again and draws a cut from Kamunhukamwe. This time he seemed to get an under-edge that bounces through to the keeper. Good start from Adair
 
 
 Balls faced: 2
 Bowler: Adair
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off that has the batter attempting the pull but finding nothing but thin air as the ball flies under the bat"}]Length ball outside off that has the batter attempting the pull but finding nothing but thin air as the ball flies under the bat
+Length ball outside off that has the batter attempting the pull but finding nothing but thin air as the ball flies under the bat
 
 
 Balls faced: 3
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another peach from Adair, with the ball again seaming in sharply from outside off. Kamunhukamwe is again beaten and the ball this time goes to slip on the bounce"}]Another peach from Adair, with the ball again seaming in sharply from outside off. Kamunhukamwe is again beaten and the ball this time goes to slip on the bounce
+Another peach from Adair, with the ball again seaming in sharply from outside off. Kamunhukamwe is again beaten and the ball this time goes to slip on the bounce
 
 
 Balls faced: 4
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another lbw shout, but this time it could be high. It's a length ball just outside off that seams in sharply to completely square the batter up. But that hit him high on the thigh"}]Another lbw shout, but this time it could be high. It's a length ball just outside off that seams in sharply to completely square the batter up. But that hit him high on the thigh
+Another lbw shout, but this time it could be high. It's a length ball just outside off that seams in sharply to completely square the batter up. But that hit him high on the thigh
 
 Legbyes: 2
 Balls faced: 5
 Bowler: Adair
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Kamunhukamwe is in at No. 3"}]Kamunhukamwe is in at No. 3
+Kamunhukamwe is in at No. 3
 
-[{"type": "HTML", "html": "Fired full on leg and Kamunhukamwe is happy to let it fly down for a wide"}]Fired full on leg and Kamunhukamwe is happy to let it fly down for a wide
+Fired full on leg and Kamunhukamwe is happy to let it fly down for a wide
 
 Wide: 1
 Balls faced: 6
 Bowler: Little
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Fired full and wide and Kamunhukamwe frees his arms and swings it over cover. Didn't get all of it but got enough to clear the infielder and he gets off the mark"}]Fired full and wide and Kamunhukamwe frees his arms and swings it over cover. Didn't get all of it but got enough to clear the infielder and he gets off the mark
+Fired full and wide and Kamunhukamwe frees his arms and swings it over cover. Didn't get all of it but got enough to clear the infielder and he gets off the mark
 
 
 Balls faced: 7
 Bowler: Little
 Over: 2
+Pitch Line: WIDE_DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in short down leg and Kamunhukamwe misses out on the pull. Called wide"}]Banged in short down leg and Kamunhukamwe misses out on the pull. Called wide
+Banged in short down leg and Kamunhukamwe misses out on the pull. Called wide
 
 Wide: 1
 Balls faced: 8
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "He goes wide again and draws a cut from Kamunhukamwe. This time he seemed to get an under-edge that bounces through to the keeper. Good start from Adair"}]He goes wide again and draws a cut from Kamunhukamwe. This time he seemed to get an under-edge that bounces through to the keeper. Good start from Adair
+He goes wide again and draws a cut from Kamunhukamwe. This time he seemed to get an under-edge that bounces through to the keeper. Good start from Adair
 
 
 Balls faced: 9
 Bowler: Adair
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off that has the batter attempting the pull but finding nothing but thin air as the ball flies under the bat"}]Length ball outside off that has the batter attempting the pull but finding nothing but thin air as the ball flies under the bat
+Length ball outside off that has the batter attempting the pull but finding nothing but thin air as the ball flies under the bat
 
 
 Balls faced: 10
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another peach from Adair, with the ball again seaming in sharply from outside off. Kamunhukamwe is again beaten and the ball this time goes to slip on the bounce"}]Another peach from Adair, with the ball again seaming in sharply from outside off. Kamunhukamwe is again beaten and the ball this time goes to slip on the bounce
+Another peach from Adair, with the ball again seaming in sharply from outside off. Kamunhukamwe is again beaten and the ball this time goes to slip on the bounce
 
 
 Balls faced: 11
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another lbw shout, but this time it could be high. It's a length ball just outside off that seams in sharply to completely square the batter up. But that hit him high on the thigh"}]Another lbw shout, but this time it could be high. It's a length ball just outside off that seams in sharply to completely square the batter up. But that hit him high on the thigh
+Another lbw shout, but this time it could be high. It's a length ball just outside off that seams in sharply to completely square the batter up. But that hit him high on the thigh
 
 Legbyes: 2
 Balls faced: 12
 Bowler: Adair
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Kamunhukamwe is in at No. 3"}]Kamunhukamwe is in at No. 3
+Kamunhukamwe is in at No. 3
 
-[{"type": "HTML", "html": "Fired full on leg and Kamunhukamwe is happy to let it fly down for a wide"}]Fired full on leg and Kamunhukamwe is happy to let it fly down for a wide
+Fired full on leg and Kamunhukamwe is happy to let it fly down for a wide
 
 Wide: 1
 Balls faced: 13
 Bowler: Adair
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Dug in short-ish and it sits up for Kamunhukamwe to pull it out to deep square leg"}]Dug in short-ish and it sits up for Kamunhukamwe to pull it out to deep square leg
+Dug in short-ish and it sits up for Kamunhukamwe to pull it out to deep square leg
 
 
 Balls faced: 14
 Bowler: Adair
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Adair responds to the boundary with a bumper just outside off and the batter swerves out of the way"}]Adair responds to the boundary with a bumper just outside off and the batter swerves out of the way
+Adair responds to the boundary with a bumper just outside off and the batter swerves out of the way
 
 
 Balls faced: 15
 Bowler: Little
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Fired full and wide and Kamunhukamwe frees his arms and swings it over cover. Didn't get all of it but got enough to clear the infielder and he gets off the mark"}]Fired full and wide and Kamunhukamwe frees his arms and swings it over cover. Didn't get all of it but got enough to clear the infielder and he gets off the mark
+Fired full and wide and Kamunhukamwe frees his arms and swings it over cover. Didn't get all of it but got enough to clear the infielder and he gets off the mark
 
 
 Balls faced: 16
 Bowler: Little
 Over: 2
+Pitch Line: WIDE_DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in short down leg and Kamunhukamwe misses out on the pull. Called wide"}]Banged in short down leg and Kamunhukamwe misses out on the pull. Called wide
+Banged in short down leg and Kamunhukamwe misses out on the pull. Called wide
 
 Wide: 1
 Balls faced: 17
 Bowler: Little
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length on middle and off, he tucks it to midwicket's right and they scamper for a single"}]On a length on middle and off, he tucks it to midwicket's right and they scamper for a single
+On a length on middle and off, he tucks it to midwicket's right and they scamper for a single
 
 
 Balls faced: 18
 Bowler: Little
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Little fires a leg side wide"}]Little fires a leg side wide
+Little fires a leg side wide
 
 Wide: 1
 Balls faced: 19
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>Oh, shot!</b> That's pitched up and it allows the batter to clear his front leg and pummel it down the ground for his first boundary"}]<b>Oh, shot!</b> That's pitched up and it allows the batter to clear his front leg and pummel it down the ground for his first boundary
+<b>Oh, shot!</b> That's pitched up and it allows the batter to clear his front leg and pummel it down the ground for his first boundary
 
 
 Balls faced: 20
 Bowler: Little
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on off, hint of inswing, and he punches it out towards mid-off and gets Williams on strike"}]Full on off, hint of inswing, and he punches it out towards mid-off and gets Williams on strike
+Full on off, hint of inswing, and he punches it out towards mid-off and gets Williams on strike
 
 
 Balls faced: 21
 Bowler: Little
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "He fends a length ball towards midwicket"}]He fends a length ball towards midwicket
+He fends a length ball towards midwicket
 
 
 Balls faced: 22
 Bowler: Little
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Sean Williams is in next to bat, but will have to watch from the other end"}]Sean Williams is in next to bat, but will have to watch from the other end
+Sean Williams is in next to bat, but will have to watch from the other end
 
-[{"type": "HTML", "html": "Kamunhukamwe nearly chops on! It's a length ball on middle and going across the batter who looks to defends. It takes the inside edge and drops behind, but doesn't hit the stumps"}]Kamunhukamwe nearly chops on! It's a length ball on middle and going across the batter who looks to defends. It takes the inside edge and drops behind, but doesn't hit the stumps
+Kamunhukamwe nearly chops on! It's a length ball on middle and going across the batter who looks to defends. It takes the inside edge and drops behind, but doesn't hit the stumps
 
 
 Balls faced: 23
 Bowler: Adair
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Dug in short-ish and it sits up for Kamunhukamwe to pull it out to deep square leg"}]Dug in short-ish and it sits up for Kamunhukamwe to pull it out to deep square leg
+Dug in short-ish and it sits up for Kamunhukamwe to pull it out to deep square leg
 
 
 Balls faced: 24
 Bowler: Adair
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Adair responds to the boundary with a bumper just outside off and the batter swerves out of the way"}]Adair responds to the boundary with a bumper just outside off and the batter swerves out of the way
+Adair responds to the boundary with a bumper just outside off and the batter swerves out of the way
 
 
 Balls faced: 25
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Cracking shot! It's full-ish and he just backs away to make room and slap it away through the covers to complete a 22-run over!"}]Cracking shot! It's full-ish and he just backs away to make room and slap it away through the covers to complete a 22-run over!
+Cracking shot! It's full-ish and he just backs away to make room and slap it away through the covers to complete a 22-run over!
 
 
 Balls faced: 26
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<strong>Almost a blinder, but Kamunhukamwe lives to fight a little longer!</strong> Dug in short again, this time with the pace off. It was aimed at the batter but he made room and then looked to swat it away and only got a top edge. Short third ran behind and put in the dive but couldn't hold on"}]<strong>Almost a blinder, but Kamunhukamwe lives to fight a little longer!</strong> Dug in short again, this time with the pace off. It was aimed at the batter but he made room and then looked to swat it away and only got a top edge. Short third ran behind and put in the dive but couldn't hold on
+<strong>Almost a blinder, but Kamunhukamwe lives to fight a little longer!</strong> Dug in short again, this time with the pace off. It was aimed at the batter but he made room and then looked to swat it away and only got a top edge. Short third ran behind and put in the dive but couldn't hold on
 
 
 Balls faced: 27
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Gets an outside edge that races away for four now! It's full outside off and shaping away. Kamunhukamwe looks for the drive but can only nick it through the vacant slips cordon"}]Gets an outside edge that races away for four now! It's full outside off and shaping away. Kamunhukamwe looks for the drive but can only nick it through the vacant slips cordon
+Gets an outside edge that races away for four now! It's full outside off and shaping away. Kamunhukamwe looks for the drive but can only nick it through the vacant slips cordon
 
 
 Balls faced: 28
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length in the channel now and he tries to steer it fine of backward point, but the fielder is sharp there to stop it"}]On a length in the channel now and he tries to steer it fine of backward point, but the fielder is sharp there to stop it
+On a length in the channel now and he tries to steer it fine of backward point, but the fielder is sharp there to stop it
 
 
 Balls faced: 29
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Kamunhukamwe is growing into the game now!</strong> Young goes short again and this time it's swung behind square leg. It looked like a top edge for a while but it clears the rope"}]<strong>Kamunhukamwe is growing into the game now!</strong> Young goes short again and this time it's swung behind square leg. It looked like a top edge for a while but it clears the rope
+<strong>Kamunhukamwe is growing into the game now!</strong> Young goes short again and this time it's swung behind square leg. It looked like a top edge for a while but it clears the rope
 
 
 Balls faced: 30
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Craig Young into the attack"}]Craig Young into the attack
+Craig Young into the attack
 
-[{"type": "HTML", "html": "<strong>Muscled over deep midwicket!</strong> It's a back of length delivery that sits up nicely and he pulls it away with authority"}]<strong>Muscled over deep midwicket!</strong> It's a back of length delivery that sits up nicely and he pulls it away with authority
+<strong>Muscled over deep midwicket!</strong> It's a back of length delivery that sits up nicely and he pulls it away with authority
 
 
 Balls faced: 31
 Bowler: Little
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length on middle and off, he tucks it to midwicket's right and they scamper for a single"}]On a length on middle and off, he tucks it to midwicket's right and they scamper for a single
+On a length on middle and off, he tucks it to midwicket's right and they scamper for a single
 
 
 Balls faced: 32
 Bowler: Little
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Little fires a leg side wide"}]Little fires a leg side wide
+Little fires a leg side wide
 
 Wide: 1
 Balls faced: 33
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>Oh, shot!</b> That's pitched up and it allows the batter to clear his front leg and pummel it down the ground for his first boundary"}]<b>Oh, shot!</b> That's pitched up and it allows the batter to clear his front leg and pummel it down the ground for his first boundary
+<b>Oh, shot!</b> That's pitched up and it allows the batter to clear his front leg and pummel it down the ground for his first boundary
 
 
 Balls faced: 34
 Bowler: Little
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on off, hint of inswing, and he punches it out towards mid-off and gets Williams on strike"}]Full on off, hint of inswing, and he punches it out towards mid-off and gets Williams on strike
+Full on off, hint of inswing, and he punches it out towards mid-off and gets Williams on strike
 
 
 Balls faced: 35
 Bowler: Little
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "He fends a length ball towards midwicket"}]He fends a length ball towards midwicket
+He fends a length ball towards midwicket
 
 
 Balls faced: 36
 Bowler: Little
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Sean Williams is in next to bat, but will have to watch from the other end"}]Sean Williams is in next to bat, but will have to watch from the other end
+Sean Williams is in next to bat, but will have to watch from the other end
 
-[{"type": "HTML", "html": "Kamunhukamwe nearly chops on! It's a length ball on middle and going across the batter who looks to defends. It takes the inside edge and drops behind, but doesn't hit the stumps"}]Kamunhukamwe nearly chops on! It's a length ball on middle and going across the batter who looks to defends. It takes the inside edge and drops behind, but doesn't hit the stumps
+Kamunhukamwe nearly chops on! It's a length ball on middle and going across the batter who looks to defends. It takes the inside edge and drops behind, but doesn't hit the stumps
 
 
 Balls faced: 37
 Bowler: Delany
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length around off and it's cut to backward point"}]On a length around off and it's cut to backward point
-[{"type": "HTML", "html": "Zimbabwe end the powerplay on 53 for 2, getting some momentum with that 22-run fifth over"}]Zimbabwe end the powerplay on 53 for 2, getting some momentum with that 22-run fifth over
+On a length around off and it's cut to backward point
+Zimbabwe end the powerplay on 53 for 2, getting some momentum with that 22-run fifth over
 
 Balls faced: 38
 Bowler: Delany
 Over: 6
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Delany sees the batter backing away and follows him and Kamunhukamwe misses his cut"}]Delany sees the batter backing away and follows him and Kamunhukamwe misses his cut
+Delany sees the batter backing away and follows him and Kamunhukamwe misses his cut
 
 
 Balls faced: 39
 Bowler: Delany
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length and punched in front of point for a single"}]On a length and punched in front of point for a single
+On a length and punched in front of point for a single
 
 
 Balls faced: 40
 Bowler: Delany
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Fifty up for Zimbabwe!"}]Fifty up for Zimbabwe!
+Fifty up for Zimbabwe!
 
-[{"type": "HTML", "html": "Has he got his man? Kamunhukamwe misses his sweep, but was he struck outside off? It's tossed up around off and it straightens to hit him on the front pad"}]Has he got his man? Kamunhukamwe misses his sweep, but was he struck outside off? It's tossed up around off and it straightens to hit him on the front pad
+Has he got his man? Kamunhukamwe misses his sweep, but was he struck outside off? It's tossed up around off and it straightens to hit him on the front pad
 
 
 Balls faced: 41
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Cracking shot! It's full-ish and he just backs away to make room and slap it away through the covers to complete a 22-run over!"}]Cracking shot! It's full-ish and he just backs away to make room and slap it away through the covers to complete a 22-run over!
+Cracking shot! It's full-ish and he just backs away to make room and slap it away through the covers to complete a 22-run over!
 
 
 Balls faced: 42
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<strong>Almost a blinder, but Kamunhukamwe lives to fight a little longer!</strong> Dug in short again, this time with the pace off. It was aimed at the batter but he made room and then looked to swat it away and only got a top edge. Short third ran behind and put in the dive but couldn't hold on"}]<strong>Almost a blinder, but Kamunhukamwe lives to fight a little longer!</strong> Dug in short again, this time with the pace off. It was aimed at the batter but he made room and then looked to swat it away and only got a top edge. Short third ran behind and put in the dive but couldn't hold on
+<strong>Almost a blinder, but Kamunhukamwe lives to fight a little longer!</strong> Dug in short again, this time with the pace off. It was aimed at the batter but he made room and then looked to swat it away and only got a top edge. Short third ran behind and put in the dive but couldn't hold on
 
 
 Balls faced: 43
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Gets an outside edge that races away for four now! It's full outside off and shaping away. Kamunhukamwe looks for the drive but can only nick it through the vacant slips cordon"}]Gets an outside edge that races away for four now! It's full outside off and shaping away. Kamunhukamwe looks for the drive but can only nick it through the vacant slips cordon
+Gets an outside edge that races away for four now! It's full outside off and shaping away. Kamunhukamwe looks for the drive but can only nick it through the vacant slips cordon
 
 
 Balls faced: 44
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length in the channel now and he tries to steer it fine of backward point, but the fielder is sharp there to stop it"}]On a length in the channel now and he tries to steer it fine of backward point, but the fielder is sharp there to stop it
+On a length in the channel now and he tries to steer it fine of backward point, but the fielder is sharp there to stop it
 
 
 Balls faced: 45
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Kamunhukamwe is growing into the game now!</strong> Young goes short again and this time it's swung behind square leg. It looked like a top edge for a while but it clears the rope"}]<strong>Kamunhukamwe is growing into the game now!</strong> Young goes short again and this time it's swung behind square leg. It looked like a top edge for a while but it clears the rope
+<strong>Kamunhukamwe is growing into the game now!</strong> Young goes short again and this time it's swung behind square leg. It looked like a top edge for a while but it clears the rope
 
 
 Balls faced: 46
 Bowler: Young
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Craig Young into the attack"}]Craig Young into the attack
+Craig Young into the attack
 
-[{"type": "HTML", "html": "<strong>Muscled over deep midwicket!</strong> It's a back of length delivery that sits up nicely and he pulls it away with authority"}]<strong>Muscled over deep midwicket!</strong> It's a back of length delivery that sits up nicely and he pulls it away with authority
+<strong>Muscled over deep midwicket!</strong> It's a back of length delivery that sits up nicely and he pulls it away with authority
 
 
 Balls faced: 47
 Bowler: Delany
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length around off and it's cut to backward point"}]On a length around off and it's cut to backward point
-[{"type": "HTML", "html": "Zimbabwe end the powerplay on 53 for 2, getting some momentum with that 22-run fifth over"}]Zimbabwe end the powerplay on 53 for 2, getting some momentum with that 22-run fifth over
+On a length around off and it's cut to backward point
+Zimbabwe end the powerplay on 53 for 2, getting some momentum with that 22-run fifth over
 
 Balls faced: 48
 Bowler: Delany
 Over: 6
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Delany sees the batter backing away and follows him and Kamunhukamwe misses his cut"}]Delany sees the batter backing away and follows him and Kamunhukamwe misses his cut
+Delany sees the batter backing away and follows him and Kamunhukamwe misses his cut
 
 
 Balls faced: 49
 Bowler: Delany
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length and punched in front of point for a single"}]On a length and punched in front of point for a single
+On a length and punched in front of point for a single
 
 
 Balls faced: 50
 Bowler: Delany
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Fifty up for Zimbabwe!"}]Fifty up for Zimbabwe!
+Fifty up for Zimbabwe!
 
-[{"type": "HTML", "html": "Has he got his man? Kamunhukamwe misses his sweep, but was he struck outside off? It's tossed up around off and it straightens to hit him on the front pad"}]Has he got his man? Kamunhukamwe misses his sweep, but was he struck outside off? It's tossed up around off and it straightens to hit him on the front pad
+Has he got his man? Kamunhukamwe misses his sweep, but was he struck outside off? It's tossed up around off and it straightens to hit him on the front pad
 
 
 Balls faced: 51
 Bowler: Delany
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Timber!</strong> Kamunhukamwe could have been out first ball of this over, but Delany gets his man with the last. It's full and drifts to pitch on middle. Kamunhukamwe goes for a big slog sweep but plays all around it and Ireland get another breakthrough"}]<strong>Timber!</strong> Kamunhukamwe could have been out first ball of this over, but Delany gets his man with the last. It's full and drifts to pitch on middle. Kamunhukamwe goes for a big slog sweep but plays all around it and Ireland get another breakthrough
+TS Kamunhukamwe is OUT! bowled
+ b Delany
+Tinashe Kamunhukamwe b Delany 39 (27b 3x4 3x6 34m) SR: 144.44
+<strong>Timber!</strong> Kamunhukamwe could have been out first ball of this over, but Delany gets his man with the last. It's full and drifts to pitch on middle. Kamunhukamwe goes for a big slog sweep but plays all around it and Ireland get another breakthrough
 
 
 Balls faced: 52
 Bowler: Delany
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dropped short on leg and he misses a pull. Deflects off his pad to short fine"}]Dropped short on leg and he misses a pull. Deflects off his pad to short fine
+Dropped short on leg and he misses a pull. Deflects off his pad to short fine
 
 
 Balls faced: 53
 Bowler: Delany
 Over: 8
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes through everything and goes for four byes! It's tossed up around leg and evades the attempted swing and Lorcan Tucker"}]Goes through everything and goes for four byes! It's tossed up around leg and evades the attempted swing and Lorcan Tucker
+Goes through everything and goes for four byes! It's tossed up around leg and evades the attempted swing and Lorcan Tucker
 
 Byes: 4
 Balls faced: 54
 Bowler: Delany
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Clipped towards midwicket for a quick single"}]Clipped towards midwicket for a quick single
+Clipped towards midwicket for a quick single
 
 
 Balls faced: 55
 Bowler: Delany
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Dockrell bundles it over the boundary and Kamunhukamwe has a six! It's a half-tracker that he gets down and slogs in front of deep square. Dockrell jumps to try and grab it but spills it over the rope!"}]Dockrell bundles it over the boundary and Kamunhukamwe has a six! It's a half-tracker that he gets down and slogs in front of deep square. Dockrell jumps to try and grab it but spills it over the rope!
+Dockrell bundles it over the boundary and Kamunhukamwe has a six! It's a half-tracker that he gets down and slogs in front of deep square. Dockrell jumps to try and grab it but spills it over the rope!
 
 
 Balls faced: 56
 Bowler: Delany
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Timber!</strong> Kamunhukamwe could have been out first ball of this over, but Delany gets his man with the last. It's full and drifts to pitch on middle. Kamunhukamwe goes for a big slog sweep but plays all around it and Ireland get another breakthrough"}]<strong>Timber!</strong> Kamunhukamwe could have been out first ball of this over, but Delany gets his man with the last. It's full and drifts to pitch on middle. Kamunhukamwe goes for a big slog sweep but plays all around it and Ireland get another breakthrough
+TS Kamunhukamwe is OUT! bowled
+ b Delany
+Tinashe Kamunhukamwe b Delany 39 (27b 3x4 3x6 34m) SR: 144.44
+<strong>Timber!</strong> Kamunhukamwe could have been out first ball of this over, but Delany gets his man with the last. It's full and drifts to pitch on middle. Kamunhukamwe goes for a big slog sweep but plays all around it and Ireland get another breakthrough
 
 
 Balls faced: 57
 Bowler: Delany
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dropped short on leg and he misses a pull. Deflects off his pad to short fine"}]Dropped short on leg and he misses a pull. Deflects off his pad to short fine
+Dropped short on leg and he misses a pull. Deflects off his pad to short fine
 
 
 Balls faced: 58
 Bowler: Delany
 Over: 8
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes through everything and goes for four byes! It's tossed up around leg and evades the attempted swing and Lorcan Tucker"}]Goes through everything and goes for four byes! It's tossed up around leg and evades the attempted swing and Lorcan Tucker
+Goes through everything and goes for four byes! It's tossed up around leg and evades the attempted swing and Lorcan Tucker
 
 Byes: 4
 Balls faced: 59
 Bowler: Delany
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Clipped towards midwicket for a quick single"}]Clipped towards midwicket for a quick single
+Clipped towards midwicket for a quick single
 
 
 Balls faced: 60
 Bowler: Delany
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Dockrell bundles it over the boundary and Kamunhukamwe has a six! It's a half-tracker that he gets down and slogs in front of deep square. Dockrell jumps to try and grab it but spills it over the rope!"}]Dockrell bundles it over the boundary and Kamunhukamwe has a six! It's a half-tracker that he gets down and slogs in front of deep square. Dockrell jumps to try and grab it but spills it over the rope!
+Dockrell bundles it over the boundary and Kamunhukamwe has a six! It's a half-tracker that he gets down and slogs in front of deep square. Dockrell jumps to try and grab it but spills it over the rope!
 
 
 
@@ -604,41 +668,49 @@ Match: all_games_1408099_1408105.json
 Balls faced: 1
 Bowler: Adair
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length on off, he nudges it square on the leg side for a single to get him going"}]On a length on off, he nudges it square on the leg side for a single to get him going
+On a length on off, he nudges it square on the leg side for a single to get him going
 
 
 Balls faced: 2
 Bowler: Little
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Little, from over the wicket"}]Little, from over the wicket
-
-[{"type": "HTML", "html": "<strong>Josh Little strikes first ball!</strong> It's pitched up on middle and going straight. Kamunhukamwe looks to turn it leg side but misses and is struck on the pads. Umpire doesn't take long in raising his finger and Ireland draw first blood!"}]<strong>Josh Little strikes first ball!</strong> It's pitched up on middle and going straight. Kamunhukamwe looks to turn it leg side but misses and is struck on the pads. Umpire doesn't take long in raising his finger and Ireland draw first blood!
+Little, from over the wicket
+TS Kamunhukamwe is OUT! lbw
+lbw b Little
+Tinashe Kamunhukamwe lbw b Little 1 (2b 0x4 0x6) SR: 50
+<strong>Josh Little strikes first ball!</strong> It's pitched up on middle and going straight. Kamunhukamwe looks to turn it leg side but misses and is struck on the pads. Umpire doesn't take long in raising his finger and Ireland draw first blood!
 
 
 Balls faced: 3
 Bowler: Adair
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length on off, he nudges it square on the leg side for a single to get him going"}]On a length on off, he nudges it square on the leg side for a single to get him going
+On a length on off, he nudges it square on the leg side for a single to get him going
 
 
 Balls faced: 4
 Bowler: Little
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Little, from over the wicket"}]Little, from over the wicket
-
-[{"type": "HTML", "html": "<strong>Josh Little strikes first ball!</strong> It's pitched up on middle and going straight. Kamunhukamwe looks to turn it leg side but misses and is struck on the pads. Umpire doesn't take long in raising his finger and Ireland draw first blood!"}]<strong>Josh Little strikes first ball!</strong> It's pitched up on middle and going straight. Kamunhukamwe looks to turn it leg side but misses and is struck on the pads. Umpire doesn't take long in raising his finger and Ireland draw first blood!
+Little, from over the wicket
+TS Kamunhukamwe is OUT! lbw
+lbw b Little
+Tinashe Kamunhukamwe lbw b Little 1 (2b 0x4 0x6) SR: 50
+<strong>Josh Little strikes first ball!</strong> It's pitched up on middle and going straight. Kamunhukamwe looks to turn it leg side but misses and is struck on the pads. Umpire doesn't take long in raising his finger and Ireland draw first blood!
 
 
 
@@ -646,301 +718,335 @@ Match: all_games_1408099_1408106.json
 Balls faced: 1
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 3
 
 
-[{"type": "HTML", "html": "once again not in control of the pull, gets it over square leg. The fielder at long leg comes around to cut that off"}]once again not in control of the pull, gets it over square leg. The fielder at long leg comes around to cut that off
+once again not in control of the pull, gets it over square leg. The fielder at long leg comes around to cut that off
 
 
 Balls faced: 2
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floats it fuller outside off, pushed to cover"}]floats it fuller outside off, pushed to cover
+floats it fuller outside off, pushed to cover
 
 
 Balls faced: 3
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "drilled through mid-off! Timing, placement top notch. Can't keep overpitching."}]drilled through mid-off! Timing, placement top notch. Can't keep overpitching.
+drilled through mid-off! Timing, placement top notch. Can't keep overpitching.
 
 
 Balls faced: 4
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "has a mighty heave at that and misses. Looked to clobber it over long-on"}]has a mighty heave at that and misses. Looked to clobber it over long-on
+has a mighty heave at that and misses. Looked to clobber it over long-on
 
 
 Balls faced: 5
 Bowler: Little
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "rises with the bounce and fends to the off side"}]rises with the bounce and fends to the off side
+rises with the bounce and fends to the off side
 
 
 Balls faced: 6
 Bowler: Little
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beauty! Lifter from length around off, he's committed to playing forward but sees this spit from the deck and whizz past his nose."}]beauty! Lifter from length around off, he's committed to playing forward but sees this spit from the deck and whizz past his nose.
+beauty! Lifter from length around off, he's committed to playing forward but sees this spit from the deck and whizz past his nose.
 
 
 Balls faced: 7
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 4
 
 
-[{"type": "HTML", "html": "streaky! The thick <strong>inside edge flies past leg stump</strong> for four"}]streaky! The thick <strong>inside edge flies past leg stump</strong> for four
+streaky! The thick <strong>inside edge flies past leg stump</strong> for four
 
 
 Balls faced: 8
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Little with the new ball from the other end"}]Little with the new ball from the other end
+Little with the new ball from the other end
 
-[{"type": "HTML", "html": "what a welcome! The half-volley has been walloped to the cover boundary"}]what a welcome! The half-volley has been walloped to the cover boundary
+what a welcome! The half-volley has been walloped to the cover boundary
 
 
 Balls faced: 9
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 3
 
 
-[{"type": "HTML", "html": "once again not in control of the pull, gets it over square leg. The fielder at long leg comes around to cut that off"}]once again not in control of the pull, gets it over square leg. The fielder at long leg comes around to cut that off
+once again not in control of the pull, gets it over square leg. The fielder at long leg comes around to cut that off
 
 
 Balls faced: 10
 Bowler: Adair
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floats it fuller outside off, pushed to cover"}]floats it fuller outside off, pushed to cover
+floats it fuller outside off, pushed to cover
 
 
 Balls faced: 11
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "drilled through mid-off! Timing, placement top notch. Can't keep overpitching."}]drilled through mid-off! Timing, placement top notch. Can't keep overpitching.
+drilled through mid-off! Timing, placement top notch. Can't keep overpitching.
 
 
 Balls faced: 12
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "has a mighty heave at that and misses. Looked to clobber it over long-on"}]has a mighty heave at that and misses. Looked to clobber it over long-on
+has a mighty heave at that and misses. Looked to clobber it over long-on
 
 
 Balls faced: 13
 Bowler: Little
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "rises with the bounce and fends to the off side"}]rises with the bounce and fends to the off side
+rises with the bounce and fends to the off side
 
 
 Balls faced: 14
 Bowler: Little
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beauty! Lifter from length around off, he's committed to playing forward but sees this spit from the deck and whizz past his nose."}]beauty! Lifter from length around off, he's committed to playing forward but sees this spit from the deck and whizz past his nose.
+beauty! Lifter from length around off, he's committed to playing forward but sees this spit from the deck and whizz past his nose.
 
 
 Balls faced: 15
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 4
 
 
-[{"type": "HTML", "html": "streaky! The thick <strong>inside edge flies past leg stump</strong> for four"}]streaky! The thick <strong>inside edge flies past leg stump</strong> for four
+streaky! The thick <strong>inside edge flies past leg stump</strong> for four
 
 
 Balls faced: 16
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Little with the new ball from the other end"}]Little with the new ball from the other end
+Little with the new ball from the other end
 
-[{"type": "HTML", "html": "what a welcome! The half-volley has been walloped to the cover boundary"}]what a welcome! The half-volley has been walloped to the cover boundary
+what a welcome! The half-volley has been walloped to the cover boundary
 
 
 Balls faced: 17
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sliced over the infield, <strong>lands short of third man</strong>. Little unhappy with the effort. Craig Young appeared to have taken the safer route."}]sliced over the infield, <strong>lands short of third man</strong>. Little unhappy with the effort. Craig Young appeared to have taken the safer route.
+sliced over the infield, <strong>lands short of third man</strong>. Little unhappy with the effort. Craig Young appeared to have taken the safer route.
 
 
 Balls faced: 18
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "heaves this to mid-on, no timing, quick single taken"}]heaves this to mid-on, no timing, quick single taken
+heaves this to mid-on, no timing, quick single taken
 
 
 Balls faced: 19
 Bowler: Little
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>pulled deep into the long leg fence!</strong> RockED back and used all his might to pull."}]<strong>pulled deep into the long leg fence!</strong> RockED back and used all his might to pull.
-[{"type": "HTML", "html": "Ball is lost as it rolls underneath the stands and behind Castle Corner. New ball, please."}]Ball is lost as it rolls underneath the stands and behind Castle Corner. New ball, please.
+<strong>pulled deep into the long leg fence!</strong> RockED back and used all his might to pull.
+Ball is lost as it rolls underneath the stands and behind Castle Corner. New ball, please.
 
 Balls faced: 20
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "sees this in his half and belts it over mid-on! Wasn't a half-volley but went through with it"}]sees this in his half and belts it over mid-on! Wasn't a half-volley but went through with it
+sees this in his half and belts it over mid-on! Wasn't a half-volley but went through with it
 
 
 Balls faced: 21
 Bowler: Adair
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "nudged off his hip to fine leg"}]nudged off his hip to fine leg
+nudged off his hip to fine leg
 
 
 Balls faced: 22
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sliced over the infield, <strong>lands short of third man</strong>. Little unhappy with the effort. Craig Young appeared to have taken the safer route."}]sliced over the infield, <strong>lands short of third man</strong>. Little unhappy with the effort. Craig Young appeared to have taken the safer route.
+sliced over the infield, <strong>lands short of third man</strong>. Little unhappy with the effort. Craig Young appeared to have taken the safer route.
 
 
 Balls faced: 23
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "heaves this to mid-on, no timing, quick single taken"}]heaves this to mid-on, no timing, quick single taken
+heaves this to mid-on, no timing, quick single taken
 
 
 Balls faced: 24
 Bowler: Little
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>pulled deep into the long leg fence!</strong> RockED back and used all his might to pull."}]<strong>pulled deep into the long leg fence!</strong> RockED back and used all his might to pull.
-[{"type": "HTML", "html": "Ball is lost as it rolls underneath the stands and behind Castle Corner. New ball, please."}]Ball is lost as it rolls underneath the stands and behind Castle Corner. New ball, please.
+<strong>pulled deep into the long leg fence!</strong> RockED back and used all his might to pull.
+Ball is lost as it rolls underneath the stands and behind Castle Corner. New ball, please.
 
 Balls faced: 25
 Bowler: Little
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "sees this in his half and belts it over mid-on! Wasn't a half-volley but went through with it"}]sees this in his half and belts it over mid-on! Wasn't a half-volley but went through with it
+sees this in his half and belts it over mid-on! Wasn't a half-volley but went through with it
 
 
 Balls faced: 26
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>poor shot.</strong> An ugly heave, Hume's hard length means Kamunhkamwe gets it on the top part of the bat as he spoons a dolly to mid-on."}]<strong>poor shot.</strong> An ugly heave, Hume's hard length means Kamunhkamwe gets it on the top part of the bat as he spoons a dolly to mid-on.
+TS Kamunhukamwe is OUT! caught
+c Adair b Hume
+Tinashe Kamunhukamwe c Adair b Hume 28 (15b 4x4 1x6 23m) SR: 186.66
+<strong>poor shot.</strong> An ugly heave, Hume's hard length means Kamunhkamwe gets it on the top part of the bat as he spoons a dolly to mid-on.
 
 
 Balls faced: 27
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Graham Hume with his seam ups"}]Graham Hume with his seam ups
+Graham Hume with his seam ups
 
-[{"type": "HTML", "html": "length outside off, jabbed to point"}]length outside off, jabbed to point
+length outside off, jabbed to point
 
 
 Balls faced: 28
 Bowler: Adair
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "nudged off his hip to fine leg"}]nudged off his hip to fine leg
+nudged off his hip to fine leg
 
 
 Balls faced: 29
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>poor shot.</strong> An ugly heave, Hume's hard length means Kamunhkamwe gets it on the top part of the bat as he spoons a dolly to mid-on."}]<strong>poor shot.</strong> An ugly heave, Hume's hard length means Kamunhkamwe gets it on the top part of the bat as he spoons a dolly to mid-on.
+TS Kamunhukamwe is OUT! caught
+c Adair b Hume
+Tinashe Kamunhukamwe c Adair b Hume 28 (15b 4x4 1x6 23m) SR: 186.66
+<strong>poor shot.</strong> An ugly heave, Hume's hard length means Kamunhkamwe gets it on the top part of the bat as he spoons a dolly to mid-on.
 
 
 Balls faced: 30
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Graham Hume with his seam ups"}]Graham Hume with his seam ups
+Graham Hume with his seam ups
 
-[{"type": "HTML", "html": "length outside off, jabbed to point"}]length outside off, jabbed to point
+length outside off, jabbed to point
 
 
 
@@ -948,121 +1054,137 @@ Match: all_games_1408099_1408107.json
 Balls faced: 1
 Bowler: Little
 Over: 2
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>Now takes on the pull and the result is the same.</b> Banged in short, shoulder-high but the line is leg-sidish. Kamunhukamwe pulls in control and in the gap to the left of deep backward square leg."}]<b>Now takes on the pull and the result is the same.</b> Banged in short, shoulder-high but the line is leg-sidish. Kamunhukamwe pulls in control and in the gap to the left of deep backward square leg.
+<b>Now takes on the pull and the result is the same.</b> Banged in short, shoulder-high but the line is leg-sidish. Kamunhukamwe pulls in control and in the gap to the left of deep backward square leg.
 
 
 Balls faced: 2
 Bowler: Little
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Too full and Kamunhukamwe drills it!</strong> He was searching for swing, there was none and the batter opens up his shoulders to square drive on the up through point."}]<strong>Too full and Kamunhukamwe drills it!</strong> He was searching for swing, there was none and the batter opens up his shoulders to square drive on the up through point.
+<strong>Too full and Kamunhukamwe drills it!</strong> He was searching for swing, there was none and the batter opens up his shoulders to square drive on the up through point.
 
 
 Balls faced: 3
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off stump, pushed to point"}]Length ball outside off stump, pushed to point
+Length ball outside off stump, pushed to point
 
 
 Balls faced: 4
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Kamunhukamwe on strike now. Similar field for him"}]Kamunhukamwe on strike now. Similar field for him
+Kamunhukamwe on strike now. Similar field for him
 
-[{"type": "HTML", "html": "Beaten for pace first up. Was on a back of a length angling across the batter, who looks to pull it away but is late on the shot"}]Beaten for pace first up. Was on a back of a length angling across the batter, who looks to pull it away but is late on the shot
+Beaten for pace first up. Was on a back of a length angling across the batter, who looks to pull it away but is late on the shot
 
 
 Balls faced: 5
 Bowler: Adair
 Over: 3
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller on the pads, the ball rolls to the onside, leg-bye is a result"}]Fuller on the pads, the ball rolls to the onside, leg-bye is a result
+Fuller on the pads, the ball rolls to the onside, leg-bye is a result
 
 Legbyes: 1
 Balls faced: 6
 Bowler: Little
 Over: 2
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>Now takes on the pull and the result is the same.</b> Banged in short, shoulder-high but the line is leg-sidish. Kamunhukamwe pulls in control and in the gap to the left of deep backward square leg."}]<b>Now takes on the pull and the result is the same.</b> Banged in short, shoulder-high but the line is leg-sidish. Kamunhukamwe pulls in control and in the gap to the left of deep backward square leg.
+<b>Now takes on the pull and the result is the same.</b> Banged in short, shoulder-high but the line is leg-sidish. Kamunhukamwe pulls in control and in the gap to the left of deep backward square leg.
 
 
 Balls faced: 7
 Bowler: Little
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Too full and Kamunhukamwe drills it!</strong> He was searching for swing, there was none and the batter opens up his shoulders to square drive on the up through point."}]<strong>Too full and Kamunhukamwe drills it!</strong> He was searching for swing, there was none and the batter opens up his shoulders to square drive on the up through point.
+<strong>Too full and Kamunhukamwe drills it!</strong> He was searching for swing, there was none and the batter opens up his shoulders to square drive on the up through point.
 
 
 Balls faced: 8
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off stump, pushed to point"}]Length ball outside off stump, pushed to point
+Length ball outside off stump, pushed to point
 
 
 Balls faced: 9
 Bowler: Little
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Kamunhukamwe on strike now. Similar field for him"}]Kamunhukamwe on strike now. Similar field for him
+Kamunhukamwe on strike now. Similar field for him
 
-[{"type": "HTML", "html": "Beaten for pace first up. Was on a back of a length angling across the batter, who looks to pull it away but is late on the shot"}]Beaten for pace first up. Was on a back of a length angling across the batter, who looks to pull it away but is late on the shot
+Beaten for pace first up. Was on a back of a length angling across the batter, who looks to pull it away but is late on the shot
 
 
 Balls faced: 10
 Bowler: Little
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Has short midwicket hung on? Oh, he has. That's a top catch.</strong> The umpires want to give it another check. Sharp short of a length bat on off and middle. He looks for a pull, but gets it off the splice meekly towards Dockrell. He dives forward and replays confirm the catch was clean. Early wicket for Ireland."}]<strong>Has short midwicket hung on? Oh, he has. That's a top catch.</strong> The umpires want to give it another check. Sharp short of a length bat on off and middle. He looks for a pull, but gets it off the splice meekly towards Dockrell. He dives forward and replays confirm the catch was clean. Early wicket for Ireland.
+TS Kamunhukamwe is OUT! caught
+c Balbirnie b Little
+Tinashe Kamunhukamwe c Balbirnie b Little 8 (6b 2x4 0x6 14m) SR: 133.33
+<strong>Has short midwicket hung on? Oh, he has. That's a top catch.</strong> The umpires want to give it another check. Sharp short of a length bat on off and middle. He looks for a pull, but gets it off the splice meekly towards Dockrell. He dives forward and replays confirm the catch was clean. Early wicket for Ireland.
 
 
 Balls faced: 11
 Bowler: Adair
 Over: 3
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller on the pads, the ball rolls to the onside, leg-bye is a result"}]Fuller on the pads, the ball rolls to the onside, leg-bye is a result
+Fuller on the pads, the ball rolls to the onside, leg-bye is a result
 
 Legbyes: 1
 Balls faced: 12
 Bowler: Little
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Has short midwicket hung on? Oh, he has. That's a top catch.</strong> The umpires want to give it another check. Sharp short of a length bat on off and middle. He looks for a pull, but gets it off the splice meekly towards Dockrell. He dives forward and replays confirm the catch was clean. Early wicket for Ireland."}]<strong>Has short midwicket hung on? Oh, he has. That's a top catch.</strong> The umpires want to give it another check. Sharp short of a length bat on off and middle. He looks for a pull, but gets it off the splice meekly towards Dockrell. He dives forward and replays confirm the catch was clean. Early wicket for Ireland.
+TS Kamunhukamwe is OUT! caught
+c Balbirnie b Little
+Tinashe Kamunhukamwe c Balbirnie b Little 8 (6b 2x4 0x6 14m) SR: 133.33
+<strong>Has short midwicket hung on? Oh, he has. That's a top catch.</strong> The umpires want to give it another check. Sharp short of a length bat on off and middle. He looks for a pull, but gets it off the splice meekly towards Dockrell. He dives forward and replays confirm the catch was clean. Early wicket for Ireland.
 
 
 
@@ -1070,41 +1192,49 @@ Match: all_games_1408099_1408108.json
 Balls faced: 1
 Bowler: Hume
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Outside edge and he's gone!</strong> Balbirnie makes no mistake at second slip as Kamunhukamwe pokes at this length ball outside off. Ireland have an early wicket again!"}]<strong>Outside edge and he's gone!</strong> Balbirnie makes no mistake at second slip as Kamunhukamwe pokes at this length ball outside off. Ireland have an early wicket again!
+TS Kamunhukamwe is OUT! caught
+c Balbirnie b Hume
+Tinashe Kamunhukamwe c Balbirnie b Hume 1 (2b 0x4 0x6 6m) SR: 50
+<strong>Outside edge and he's gone!</strong> Balbirnie makes no mistake at second slip as Kamunhukamwe pokes at this length ball outside off. Ireland have an early wicket again!
 
 
 Balls faced: 2
 Bowler: Hume
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Graham Hume from the other end, with Josh Little out with a niggle"}]Graham Hume from the other end, with Josh Little out with a niggle
+Graham Hume from the other end, with Josh Little out with a niggle
 
-[{"type": "HTML", "html": "Full on off and Kamunhukamwe clips it out to deep backward square to register Zimbabwe's first run of the day"}]Full on off and Kamunhukamwe clips it out to deep backward square to register Zimbabwe's first run of the day
+Full on off and Kamunhukamwe clips it out to deep backward square to register Zimbabwe's first run of the day
 
 
 Balls faced: 3
 Bowler: Hume
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Outside edge and he's gone!</strong> Balbirnie makes no mistake at second slip as Kamunhukamwe pokes at this length ball outside off. Ireland have an early wicket again!"}]<strong>Outside edge and he's gone!</strong> Balbirnie makes no mistake at second slip as Kamunhukamwe pokes at this length ball outside off. Ireland have an early wicket again!
+TS Kamunhukamwe is OUT! caught
+c Balbirnie b Hume
+Tinashe Kamunhukamwe c Balbirnie b Hume 1 (2b 0x4 0x6 6m) SR: 50
+<strong>Outside edge and he's gone!</strong> Balbirnie makes no mistake at second slip as Kamunhukamwe pokes at this length ball outside off. Ireland have an early wicket again!
 
 
 Balls faced: 4
 Bowler: Hume
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Graham Hume from the other end, with Josh Little out with a niggle"}]Graham Hume from the other end, with Josh Little out with a niggle
+Graham Hume from the other end, with Josh Little out with a niggle
 
-[{"type": "HTML", "html": "Full on off and Kamunhukamwe clips it out to deep backward square to register Zimbabwe's first run of the day"}]Full on off and Kamunhukamwe clips it out to deep backward square to register Zimbabwe's first run of the day
+Full on off and Kamunhukamwe clips it out to deep backward square to register Zimbabwe's first run of the day
 
 
 
@@ -1112,21 +1242,27 @@ Match: all_games_1412536_1412539.json
 Balls faced: 1
 Bowler: Madushanka
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Chopped on</strong>. Madushanka swings it back in off a length at 136ks, it looked to be shaping outside off but curved in towards off stump. Kamunhukamwe's room was taken away by the swing, he tried to caress it square, off the back foot with an open face, and under-edged it onto the stumps."}]<strong>Chopped on</strong>. Madushanka swings it back in off a length at 136ks, it looked to be shaping outside off but curved in towards off stump. Kamunhukamwe's room was taken away by the swing, he tried to caress it square, off the back foot with an open face, and under-edged it onto the stumps.
+TS Kamunhukamwe is OUT! bowled
+ b Madushanka
+Tinashe Kamunhukamwe b Madushanka 0 (1b 0x4 0x6 10m) SR: 0
+<strong>Chopped on</strong>. Madushanka swings it back in off a length at 136ks, it looked to be shaping outside off but curved in towards off stump. Kamunhukamwe's room was taken away by the swing, he tried to caress it square, off the back foot with an open face, and under-edged it onto the stumps.
 
 
 Balls faced: 2
 Bowler: Madushanka
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Chopped on</strong>. Madushanka swings it back in off a length at 136ks, it looked to be shaping outside off but curved in towards off stump. Kamunhukamwe's room was taken away by the swing, he tried to caress it square, off the back foot with an open face, and under-edged it onto the stumps."}]<strong>Chopped on</strong>. Madushanka swings it back in off a length at 136ks, it looked to be shaping outside off but curved in towards off stump. Kamunhukamwe's room was taken away by the swing, he tried to caress it square, off the back foot with an open face, and under-edged it onto the stumps.
+TS Kamunhukamwe is OUT! bowled
+ b Madushanka
+Tinashe Kamunhukamwe b Madushanka 0 (1b 0x4 0x6 10m) SR: 0
+<strong>Chopped on</strong>. Madushanka swings it back in off a length at 136ks, it looked to be shaping outside off but curved in towards off stump. Kamunhukamwe's room was taken away by the swing, he tried to caress it square, off the back foot with an open face, and under-edged it onto the stumps.
 
 
 
@@ -1134,21 +1270,27 @@ Match: all_games_1412536_1412540.json
 Balls faced: 1
 Bowler: Madushanka
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Kamunhukamwe on strike"}]Kamunhukamwe on strike
-
-[{"type": "HTML", "html": "inside edged first ball! He tries to launch the it down right away, but is out of shape in trying to play forward. The ball was on the fuller side, and angling across after pitching around off stump. Kamunhukamwe took a step down and tried to play with an angled bat, but the ball took the inside edge and went to Mendis' left"}]inside edged first ball! He tries to launch the it down right away, but is out of shape in trying to play forward. The ball was on the fuller side, and angling across after pitching around off stump. Kamunhukamwe took a step down and tried to play with an angled bat, but the ball took the inside edge and went to Mendis' left
+Kamunhukamwe on strike
+TS Kamunhukamwe is OUT! caught
+c †Mendis b Madushanka
+Tinashe Kamunhukamwe c †Mendis b Madushanka 0 (1b 0x4 0x6 2m) SR: 0
+inside edged first ball! He tries to launch the it down right away, but is out of shape in trying to play forward. The ball was on the fuller side, and angling across after pitching around off stump. Kamunhukamwe took a step down and tried to play with an angled bat, but the ball took the inside edge and went to Mendis' left
 
 
 Balls faced: 2
 Bowler: Madushanka
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Kamunhukamwe on strike"}]Kamunhukamwe on strike
-
-[{"type": "HTML", "html": "inside edged first ball! He tries to launch the it down right away, but is out of shape in trying to play forward. The ball was on the fuller side, and angling across after pitching around off stump. Kamunhukamwe took a step down and tried to play with an angled bat, but the ball took the inside edge and went to Mendis' left"}]inside edged first ball! He tries to launch the it down right away, but is out of shape in trying to play forward. The ball was on the fuller side, and angling across after pitching around off stump. Kamunhukamwe took a step down and tried to play with an angled bat, but the ball took the inside edge and went to Mendis' left
+Kamunhukamwe on strike
+TS Kamunhukamwe is OUT! caught
+c †Mendis b Madushanka
+Tinashe Kamunhukamwe c †Mendis b Madushanka 0 (1b 0x4 0x6 2m) SR: 0
+inside edged first ball! He tries to launch the it down right away, but is out of shape in trying to play forward. The ball was on the fuller side, and angling across after pitching around off stump. Kamunhukamwe took a step down and tried to play with an angled bat, but the ball took the inside edge and went to Mendis' left
 
 
 
@@ -1156,361 +1298,401 @@ Match: all_games_1412536_1412542.json
 Balls faced: 1
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length outside off, stays back and cuts this in front of point this time. Deep cover collects"}]length outside off, stays back and cuts this in front of point this time. Deep cover collects
+length outside off, stays back and cuts this in front of point this time. Deep cover collects
 
 
 Balls faced: 2
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Finds Sadeera again, slightly fuller but still gentle enough pace to stay back and chop"}]Finds Sadeera again, slightly fuller but still gentle enough pace to stay back and chop
+Finds Sadeera again, slightly fuller but still gentle enough pace to stay back and chop
 
 
 Balls faced: 3
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flayed, but well fielded by Sadeera at backward point. This was short and wide, but Kamunhukamwe can't get it away"}]Flayed, but well fielded by Sadeera at backward point. This was short and wide, but Kamunhukamwe can't get it away
+Flayed, but well fielded by Sadeera at backward point. This was short and wide, but Kamunhukamwe can't get it away
 
 
 Balls faced: 4
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "It's Ervine and Kamunhukamwe to open for the visitors. Angelo Mathews with the ball first up, something he's been doing more of recently in T20s."}, {"type": "HTML", "html": "<B>6:57pm</b> Alright the national anthems are done and the players are in the middle, so we're almost underway!"}, {"type": "HTML", "html": "Dillon N: \"Fun fact, Sri Lanka and Zimbabwe haven't played each other in this form of the game in over 11 years. The last time they met was in the ICC World T20 in 2012.\""}, {"type": "HTML", "html": "Hansitha: \"interesting call, Nuwan Thushara ahead of Dilshan Madhusanaka\" --- To be fair, Thushara has been knocking on the door for quite some time with his LPL performances. Can he make the step up though?"}, {"type": "HTML", "html": "MadMax: \"You said Ervine is not available but isn't he included for the team?\" --- Apologies, think I may have been looking at an old squad list. It's been duly amended."}, {"type": "HTML", "html": "Dulanjana : \"Why Dilshan Madushanka is not there? Bring him for Shanaka, atleast for some reliable bowling option\" --- Guessing he's being rested Dulanjana. Not the worst idea considering the way Sri Lanka's seam bowlers have been faring injury-wise in recent times."}, {"type": "HTML", "html": "Navod Fernando : \"I'm just asking, why do we need to keep Dasun Shanaka with Angelo Mathews? I know Shanaka is a power hitter, but he's not reliable. At the same time, Angelo Mathews can also do it. If not, at least some good power play bowling with Madushanka and Theekshana \" --- Reasonable point Navod, but Shanaka hasn't done too badly in T20s as opposed to his very poor ODI form, so it makes sense to keep him in the side. Mathews inclusion is a little more left field for me, considering his powerhitting days seem in the distant past. Seems like the selectors want some experience for the World Cup."}, {"type": "HTML", "html": "<B>Pitch report</b>: \"New pitch,\" says Farveez Maharoof. \"Less grass, but the hardness is still the same. This will see much more even bounce, and batters can play through the line. Par score 140.\""}, {"type": "HTML", "html": "<b>Zimbabwe XI</b> Craig Ervine, Tinashe Kamunhukamwe, Brian Bennett, Sean Williams, Sikandar Raza (capt.), Ryan Burl, Clive Madande (wk), Luke Jongwe, Wellington Masakadza, Blessing Muzarabani, Richard Ngarava"}, {"type": "HTML", "html": "<b>Sri Lanka XI</b>: Pathum Nissanka, Kusal Mendis (wk), Kusal Janith Perera, Sadeera Samarawickrama, Charith Asalanka, Angelo Mathews, Dasun Shanaka, Wanindu Hasaranga (capt.), Maheesh Theekshana, Dushmantha Chameera, Nuwan Thushara"}, {"type": "HTML", "html": "Sikandar Raza says Brian Bennett comes into the side, but the big news is the return of Sean Williams from injury. He's also not too fussed to be batting first with the wicket looking a bit dry."}, {"type": "HTML", "html": "Wanindu Hasaranga says there's two allrounders in the squad, Angelo Mathews and Dasun Shanaka, while Nuwan Thushara is also in the side. This means that there's no room Dhananjaya de Silva nor Dilshan Madushanka."}, {"type": "HTML", "html": "<b>6:30pm</b> Time for the toss...and <b>Sri Lanka have won it and will bowl first!</b>"}, {"type": "HTML", "html": "For Zimbabwe, Takudzwanashe Kaitano, Tapiwa Mufudza and Faraz Akram make way from the ODIs, with allrounders Brian Bennett and Carl Mumba, and slow left arm spinner Ainsley Ndlovu coming in. Sikandar Raza will lead the side. Much though will depend on the Richard Ngarava, who caused Sri Lanka's top order all sorts of problems during the ODIs."}, {"type": "HTML", "html": "<B>6.20pm</b> The toss is about 10 minutes away, so until then let's take a quick look at the squads. Both sides will have some new faces for the T20 portion of the series, though in Sri Lanka's case those new faces are in fact some rather old ones. Angelo Mathews will very likely make his T20I return today following an absence of three years, while Dhananjaya de Silva, the new Test skipper that was axed from the ODI squad, will be looking to show the selectors that he's still a viable option in white-ball cricket. Pathum Nissanka's return from a bout of dengue will boost the top order, while we might also see some game time for the slingy Nuwan Thushara fresh off his IPL contract. There's also Akila Dananjaya waiting in the wings, having last played a T20I in 2021."}, {"type": "HTML", "html": "Big day then for Wanindu Hasaranga, who'll be captaining the national side for the first time today. And of course it is Sri Lanka that come into this game with the momentum on the back of a crushing win in the last ODI, and with it 2-0 a series win. Zimbabwe, despite having had their moments, have generally struggled to come to terms with Sri Lanka's bowling attack and that in general has proved the difference between these sides. The weather too has proven to be a menace, with each of the ODIs impacted by rain to varying degrees. The good news therefore today is that rain doesn't seem to be all that likely to play a part\u2026so keep those fingers and toes crossed!"}, {"type": "HTML", "html": "<B>6.15pm</b> Evening folks, and welcome to our live coverage of the T20I series between Sri Lanka and Zimbabwe. This is Madushka and I'll be bringing you all the action today!"}]It's Ervine and Kamunhukamwe to open for the visitors. Angelo Mathews with the ball first up, something he's been doing more of recently in T20s. <B>6:57pm</b> Alright the national anthems are done and the players are in the middle, so we're almost underway! Dillon N: "Fun fact, Sri Lanka and Zimbabwe haven't played each other in this form of the game in over 11 years. The last time they met was in the ICC World T20 in 2012." Hansitha: "interesting call, Nuwan Thushara ahead of Dilshan Madhusanaka" --- To be fair, Thushara has been knocking on the door for quite some time with his LPL performances. Can he make the step up though? MadMax: "You said Ervine is not available but isn't he included for the team?" --- Apologies, think I may have been looking at an old squad list. It's been duly amended. Dulanjana : "Why Dilshan Madushanka is not there? Bring him for Shanaka, atleast for some reliable bowling option" --- Guessing he's being rested Dulanjana. Not the worst idea considering the way Sri Lanka's seam bowlers have been faring injury-wise in recent times. Navod Fernando : "I'm just asking, why do we need to keep Dasun Shanaka with Angelo Mathews? I know Shanaka is a power hitter, but he's not reliable. At the same time, Angelo Mathews can also do it. If not, at least some good power play bowling with Madushanka and Theekshana " --- Reasonable point Navod, but Shanaka hasn't done too badly in T20s as opposed to his very poor ODI form, so it makes sense to keep him in the side. Mathews inclusion is a little more left field for me, considering his powerhitting days seem in the distant past. Seems like the selectors want some experience for the World Cup. <B>Pitch report</b>: "New pitch," says Farveez Maharoof. "Less grass, but the hardness is still the same. This will see much more even bounce, and batters can play through the line. Par score 140." <b>Zimbabwe XI</b> Craig Ervine, Tinashe Kamunhukamwe, Brian Bennett, Sean Williams, Sikandar Raza (capt.), Ryan Burl, Clive Madande (wk), Luke Jongwe, Wellington Masakadza, Blessing Muzarabani, Richard Ngarava <b>Sri Lanka XI</b>: Pathum Nissanka, Kusal Mendis (wk), Kusal Janith Perera, Sadeera Samarawickrama, Charith Asalanka, Angelo Mathews, Dasun Shanaka, Wanindu Hasaranga (capt.), Maheesh Theekshana, Dushmantha Chameera, Nuwan Thushara Sikandar Raza says Brian Bennett comes into the side, but the big news is the return of Sean Williams from injury. He's also not too fussed to be batting first with the wicket looking a bit dry. Wanindu Hasaranga says there's two allrounders in the squad, Angelo Mathews and Dasun Shanaka, while Nuwan Thushara is also in the side. This means that there's no room Dhananjaya de Silva nor Dilshan Madushanka. <b>6:30pm</b> Time for the toss...and <b>Sri Lanka have won it and will bowl first!</b> For Zimbabwe, Takudzwanashe Kaitano, Tapiwa Mufudza and Faraz Akram make way from the ODIs, with allrounders Brian Bennett and Carl Mumba, and slow left arm spinner Ainsley Ndlovu coming in. Sikandar Raza will lead the side. Much though will depend on the Richard Ngarava, who caused Sri Lanka's top order all sorts of problems during the ODIs. <B>6.20pm</b> The toss is about 10 minutes away, so until then let's take a quick look at the squads. Both sides will have some new faces for the T20 portion of the series, though in Sri Lanka's case those new faces are in fact some rather old ones. Angelo Mathews will very likely make his T20I return today following an absence of three years, while Dhananjaya de Silva, the new Test skipper that was axed from the ODI squad, will be looking to show the selectors that he's still a viable option in white-ball cricket. Pathum Nissanka's return from a bout of dengue will boost the top order, while we might also see some game time for the slingy Nuwan Thushara fresh off his IPL contract. There's also Akila Dananjaya waiting in the wings, having last played a T20I in 2021. Big day then for Wanindu Hasaranga, who'll be captaining the national side for the first time today. And of course it is Sri Lanka that come into this game with the momentum on the back of a crushing win in the last ODI, and with it 2-0 a series win. Zimbabwe, despite having had their moments, have generally struggled to come to terms with Sri Lanka's bowling attack and that in general has proved the difference between these sides. The weather too has proven to be a menace, with each of the ODIs impacted by rain to varying degrees. The good news therefore today is that rain doesn't seem to be all that likely to play a part…so keep those fingers and toes crossed! <B>6.15pm</b> Evening folks, and welcome to our live coverage of the T20I series between Sri Lanka and Zimbabwe. This is Madushka and I'll be bringing you all the action today!
+It's Ervine and Kamunhukamwe to open for the visitors. Angelo Mathews with the ball first up, something he's been doing more of recently in T20s. <B>6:57pm</b> Alright the national anthems are done and the players are in the middle, so we're almost underway! Dillon N: "Fun fact, Sri Lanka and Zimbabwe haven't played each other in this form of the game in over 11 years. The last time they met was in the ICC World T20 in 2012." Hansitha: "interesting call, Nuwan Thushara ahead of Dilshan Madhusanaka" --- To be fair, Thushara has been knocking on the door for quite some time with his LPL performances. Can he make the step up though? MadMax: "You said Ervine is not available but isn't he included for the team?" --- Apologies, think I may have been looking at an old squad list. It's been duly amended. Dulanjana : "Why Dilshan Madushanka is not there? Bring him for Shanaka, atleast for some reliable bowling option" --- Guessing he's being rested Dulanjana. Not the worst idea considering the way Sri Lanka's seam bowlers have been faring injury-wise in recent times. Navod Fernando : "I'm just asking, why do we need to keep Dasun Shanaka with Angelo Mathews? I know Shanaka is a power hitter, but he's not reliable. At the same time, Angelo Mathews can also do it. If not, at least some good power play bowling with Madushanka and Theekshana " --- Reasonable point Navod, but Shanaka hasn't done too badly in T20s as opposed to his very poor ODI form, so it makes sense to keep him in the side. Mathews inclusion is a little more left field for me, considering his powerhitting days seem in the distant past. Seems like the selectors want some experience for the World Cup. <B>Pitch report</b>: "New pitch," says Farveez Maharoof. "Less grass, but the hardness is still the same. This will see much more even bounce, and batters can play through the line. Par score 140." <b>Zimbabwe XI</b> Craig Ervine, Tinashe Kamunhukamwe, Brian Bennett, Sean Williams, Sikandar Raza (capt.), Ryan Burl, Clive Madande (wk), Luke Jongwe, Wellington Masakadza, Blessing Muzarabani, Richard Ngarava <b>Sri Lanka XI</b>: Pathum Nissanka, Kusal Mendis (wk), Kusal Janith Perera, Sadeera Samarawickrama, Charith Asalanka, Angelo Mathews, Dasun Shanaka, Wanindu Hasaranga (capt.), Maheesh Theekshana, Dushmantha Chameera, Nuwan Thushara Sikandar Raza says Brian Bennett comes into the side, but the big news is the return of Sean Williams from injury. He's also not too fussed to be batting first with the wicket looking a bit dry. Wanindu Hasaranga says there's two allrounders in the squad, Angelo Mathews and Dasun Shanaka, while Nuwan Thushara is also in the side. This means that there's no room Dhananjaya de Silva nor Dilshan Madushanka. <b>6:30pm</b> Time for the toss...and <b>Sri Lanka have won it and will bowl first!</b> For Zimbabwe, Takudzwanashe Kaitano, Tapiwa Mufudza and Faraz Akram make way from the ODIs, with allrounders Brian Bennett and Carl Mumba, and slow left arm spinner Ainsley Ndlovu coming in. Sikandar Raza will lead the side. Much though will depend on the Richard Ngarava, who caused Sri Lanka's top order all sorts of problems during the ODIs. <B>6.20pm</b> The toss is about 10 minutes away, so until then let's take a quick look at the squads. Both sides will have some new faces for the T20 portion of the series, though in Sri Lanka's case those new faces are in fact some rather old ones. Angelo Mathews will very likely make his T20I return today following an absence of three years, while Dhananjaya de Silva, the new Test skipper that was axed from the ODI squad, will be looking to show the selectors that he's still a viable option in white-ball cricket. Pathum Nissanka's return from a bout of dengue will boost the top order, while we might also see some game time for the slingy Nuwan Thushara fresh off his IPL contract. There's also Akila Dananjaya waiting in the wings, having last played a T20I in 2021. Big day then for Wanindu Hasaranga, who'll be captaining the national side for the first time today. And of course it is Sri Lanka that come into this game with the momentum on the back of a crushing win in the last ODI, and with it 2-0 a series win. Zimbabwe, despite having had their moments, have generally struggled to come to terms with Sri Lanka's bowling attack and that in general has proved the difference between these sides. The weather too has proven to be a menace, with each of the ODIs impacted by rain to varying degrees. The good news therefore today is that rain doesn't seem to be all that likely to play a part…so keep those fingers and toes crossed! <B>6.15pm</b> Evening folks, and welcome to our live coverage of the T20I series between Sri Lanka and Zimbabwe. This is Madushka and I'll be bringing you all the action today!
 
-[{"type": "HTML", "html": "back of a length just outside off to start, 116kph. Nips in off the surface. Defended off the back foot"}]back of a length just outside off to start, 116kph. Nips in off the surface. Defended off the back foot
+back of a length just outside off to start, 116kph. Nips in off the surface. Defended off the back foot
 
 
 Balls faced: 5
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Leading edge that is chipped straight over the bowler and between mid-on and mid-off. This was full and straight, but straightened after pitching. Kamunhukamwe looked to work this onside but was fortunate to have the leading edge fall safe"}]Leading edge that is chipped straight over the bowler and between mid-on and mid-off. This was full and straight, but straightened after pitching. Kamunhukamwe looked to work this onside but was fortunate to have the leading edge fall safe
+Leading edge that is chipped straight over the bowler and between mid-on and mid-off. This was full and straight, but straightened after pitching. Kamunhukamwe looked to work this onside but was fortunate to have the leading edge fall safe
 
 
 Balls faced: 6
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "SACHI: \"Shanaka's T20 batting record is way better than his ODI's, SLC missed the trick, Shanaka had to be kept out from ODI matches. As a result of not doing that, now his T20 place has been questioned. Nevertheless, it is good to see that SLC implementing the rest and rotation to manage workload of players. \""}]SACHI: "Shanaka's T20 batting record is way better than his ODI's, SLC missed the trick, Shanaka had to be kept out from ODI matches. As a result of not doing that, now his T20 place has been questioned. Nevertheless, it is good to see that SLC implementing the rest and rotation to manage workload of players. "
+SACHI: "Shanaka's T20 batting record is way better than his ODI's, SLC missed the trick, Shanaka had to be kept out from ODI matches. As a result of not doing that, now his T20 place has been questioned. Nevertheless, it is good to see that SLC implementing the rest and rotation to manage workload of players. "
 
-[{"type": "HTML", "html": "Swing and a miss! Full on off, shapes away late. Kamunhukamwe goes for the booming on drive and is beaten"}]Swing and a miss! Full on off, shapes away late. Kamunhukamwe goes for the booming on drive and is beaten
+Swing and a miss! Full on off, shapes away late. Kamunhukamwe goes for the booming on drive and is beaten
 
 
 Balls faced: 7
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length and straighter, stays back and nudges this to mid-on for one"}]good length and straighter, stays back and nudges this to mid-on for one
+good length and straighter, stays back and nudges this to mid-on for one
 
 
 Balls faced: 8
 Bowler: Thushara
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another one that keeps low. 134kph, but it bounces through to the keeper. Wide of off and the batter hangs a bat at this one that shapes away"}]Another one that keeps low. 134kph, but it bounces through to the keeper. Wide of off and the batter hangs a bat at this one that shapes away
+Another one that keeps low. 134kph, but it bounces through to the keeper. Wide of off and the batter hangs a bat at this one that shapes away
 
 
 Balls faced: 9
 Bowler: Thushara
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length and shaping away wide outside off. Kamunhukamwe leans back and looks to pull this through midwicket but can't connect as this keeps a touch low"}]short of a length and shaping away wide outside off. Kamunhukamwe leans back and looks to pull this through midwicket but can't connect as this keeps a touch low
+short of a length and shaping away wide outside off. Kamunhukamwe leans back and looks to pull this through midwicket but can't connect as this keeps a touch low
 
 
 Balls faced: 10
 Bowler: Thushara
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Thushara from the other end"}]Thushara from the other end
+Thushara from the other end
 
-[{"type": "HTML", "html": "Lofted drive, just about clears extra cover. This was full and shaping away outside. It goes off the toe-end of the bat and barely clears the infield"}]Lofted drive, just about clears extra cover. This was full and shaping away outside. It goes off the toe-end of the bat and barely clears the infield
+Lofted drive, just about clears extra cover. This was full and shaping away outside. It goes off the toe-end of the bat and barely clears the infield
 
 
 Balls faced: 11
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length outside off, stays back and cuts this in front of point this time. Deep cover collects"}]length outside off, stays back and cuts this in front of point this time. Deep cover collects
+length outside off, stays back and cuts this in front of point this time. Deep cover collects
 
 
 Balls faced: 12
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Finds Sadeera again, slightly fuller but still gentle enough pace to stay back and chop"}]Finds Sadeera again, slightly fuller but still gentle enough pace to stay back and chop
+Finds Sadeera again, slightly fuller but still gentle enough pace to stay back and chop
 
 
 Balls faced: 13
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flayed, but well fielded by Sadeera at backward point. This was short and wide, but Kamunhukamwe can't get it away"}]Flayed, but well fielded by Sadeera at backward point. This was short and wide, but Kamunhukamwe can't get it away
+Flayed, but well fielded by Sadeera at backward point. This was short and wide, but Kamunhukamwe can't get it away
 
 
 Balls faced: 14
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "It's Ervine and Kamunhukamwe to open for the visitors. Angelo Mathews with the ball first up, something he's been doing more of recently in T20s."}, {"type": "HTML", "html": "<B>6:57pm</b> Alright the national anthems are done and the players are in the middle, so we're almost underway!"}, {"type": "HTML", "html": "Dillon N: \"Fun fact, Sri Lanka and Zimbabwe haven't played each other in this form of the game in over 11 years. The last time they met was in the ICC World T20 in 2012.\""}, {"type": "HTML", "html": "Hansitha: \"interesting call, Nuwan Thushara ahead of Dilshan Madhusanaka\" --- To be fair, Thushara has been knocking on the door for quite some time with his LPL performances. Can he make the step up though?"}, {"type": "HTML", "html": "MadMax: \"You said Ervine is not available but isn't he included for the team?\" --- Apologies, think I may have been looking at an old squad list. It's been duly amended."}, {"type": "HTML", "html": "Dulanjana : \"Why Dilshan Madushanka is not there? Bring him for Shanaka, atleast for some reliable bowling option\" --- Guessing he's being rested Dulanjana. Not the worst idea considering the way Sri Lanka's seam bowlers have been faring injury-wise in recent times."}, {"type": "HTML", "html": "Navod Fernando : \"I'm just asking, why do we need to keep Dasun Shanaka with Angelo Mathews? I know Shanaka is a power hitter, but he's not reliable. At the same time, Angelo Mathews can also do it. If not, at least some good power play bowling with Madushanka and Theekshana \" --- Reasonable point Navod, but Shanaka hasn't done too badly in T20s as opposed to his very poor ODI form, so it makes sense to keep him in the side. Mathews inclusion is a little more left field for me, considering his powerhitting days seem in the distant past. Seems like the selectors want some experience for the World Cup."}, {"type": "HTML", "html": "<B>Pitch report</b>: \"New pitch,\" says Farveez Maharoof. \"Less grass, but the hardness is still the same. This will see much more even bounce, and batters can play through the line. Par score 140.\""}, {"type": "HTML", "html": "<b>Zimbabwe XI</b> Craig Ervine, Tinashe Kamunhukamwe, Brian Bennett, Sean Williams, Sikandar Raza (capt.), Ryan Burl, Clive Madande (wk), Luke Jongwe, Wellington Masakadza, Blessing Muzarabani, Richard Ngarava"}, {"type": "HTML", "html": "<b>Sri Lanka XI</b>: Pathum Nissanka, Kusal Mendis (wk), Kusal Janith Perera, Sadeera Samarawickrama, Charith Asalanka, Angelo Mathews, Dasun Shanaka, Wanindu Hasaranga (capt.), Maheesh Theekshana, Dushmantha Chameera, Nuwan Thushara"}, {"type": "HTML", "html": "Sikandar Raza says Brian Bennett comes into the side, but the big news is the return of Sean Williams from injury. He's also not too fussed to be batting first with the wicket looking a bit dry."}, {"type": "HTML", "html": "Wanindu Hasaranga says there's two allrounders in the squad, Angelo Mathews and Dasun Shanaka, while Nuwan Thushara is also in the side. This means that there's no room Dhananjaya de Silva nor Dilshan Madushanka."}, {"type": "HTML", "html": "<b>6:30pm</b> Time for the toss...and <b>Sri Lanka have won it and will bowl first!</b>"}, {"type": "HTML", "html": "For Zimbabwe, Takudzwanashe Kaitano, Tapiwa Mufudza and Faraz Akram make way from the ODIs, with allrounders Brian Bennett and Carl Mumba, and slow left arm spinner Ainsley Ndlovu coming in. Sikandar Raza will lead the side. Much though will depend on the Richard Ngarava, who caused Sri Lanka's top order all sorts of problems during the ODIs."}, {"type": "HTML", "html": "<B>6.20pm</b> The toss is about 10 minutes away, so until then let's take a quick look at the squads. Both sides will have some new faces for the T20 portion of the series, though in Sri Lanka's case those new faces are in fact some rather old ones. Angelo Mathews will very likely make his T20I return today following an absence of three years, while Dhananjaya de Silva, the new Test skipper that was axed from the ODI squad, will be looking to show the selectors that he's still a viable option in white-ball cricket. Pathum Nissanka's return from a bout of dengue will boost the top order, while we might also see some game time for the slingy Nuwan Thushara fresh off his IPL contract. There's also Akila Dananjaya waiting in the wings, having last played a T20I in 2021."}, {"type": "HTML", "html": "Big day then for Wanindu Hasaranga, who'll be captaining the national side for the first time today. And of course it is Sri Lanka that come into this game with the momentum on the back of a crushing win in the last ODI, and with it 2-0 a series win. Zimbabwe, despite having had their moments, have generally struggled to come to terms with Sri Lanka's bowling attack and that in general has proved the difference between these sides. The weather too has proven to be a menace, with each of the ODIs impacted by rain to varying degrees. The good news therefore today is that rain doesn't seem to be all that likely to play a part\u2026so keep those fingers and toes crossed!"}, {"type": "HTML", "html": "<B>6.15pm</b> Evening folks, and welcome to our live coverage of the T20I series between Sri Lanka and Zimbabwe. This is Madushka and I'll be bringing you all the action today!"}]It's Ervine and Kamunhukamwe to open for the visitors. Angelo Mathews with the ball first up, something he's been doing more of recently in T20s. <B>6:57pm</b> Alright the national anthems are done and the players are in the middle, so we're almost underway! Dillon N: "Fun fact, Sri Lanka and Zimbabwe haven't played each other in this form of the game in over 11 years. The last time they met was in the ICC World T20 in 2012." Hansitha: "interesting call, Nuwan Thushara ahead of Dilshan Madhusanaka" --- To be fair, Thushara has been knocking on the door for quite some time with his LPL performances. Can he make the step up though? MadMax: "You said Ervine is not available but isn't he included for the team?" --- Apologies, think I may have been looking at an old squad list. It's been duly amended. Dulanjana : "Why Dilshan Madushanka is not there? Bring him for Shanaka, atleast for some reliable bowling option" --- Guessing he's being rested Dulanjana. Not the worst idea considering the way Sri Lanka's seam bowlers have been faring injury-wise in recent times. Navod Fernando : "I'm just asking, why do we need to keep Dasun Shanaka with Angelo Mathews? I know Shanaka is a power hitter, but he's not reliable. At the same time, Angelo Mathews can also do it. If not, at least some good power play bowling with Madushanka and Theekshana " --- Reasonable point Navod, but Shanaka hasn't done too badly in T20s as opposed to his very poor ODI form, so it makes sense to keep him in the side. Mathews inclusion is a little more left field for me, considering his powerhitting days seem in the distant past. Seems like the selectors want some experience for the World Cup. <B>Pitch report</b>: "New pitch," says Farveez Maharoof. "Less grass, but the hardness is still the same. This will see much more even bounce, and batters can play through the line. Par score 140." <b>Zimbabwe XI</b> Craig Ervine, Tinashe Kamunhukamwe, Brian Bennett, Sean Williams, Sikandar Raza (capt.), Ryan Burl, Clive Madande (wk), Luke Jongwe, Wellington Masakadza, Blessing Muzarabani, Richard Ngarava <b>Sri Lanka XI</b>: Pathum Nissanka, Kusal Mendis (wk), Kusal Janith Perera, Sadeera Samarawickrama, Charith Asalanka, Angelo Mathews, Dasun Shanaka, Wanindu Hasaranga (capt.), Maheesh Theekshana, Dushmantha Chameera, Nuwan Thushara Sikandar Raza says Brian Bennett comes into the side, but the big news is the return of Sean Williams from injury. He's also not too fussed to be batting first with the wicket looking a bit dry. Wanindu Hasaranga says there's two allrounders in the squad, Angelo Mathews and Dasun Shanaka, while Nuwan Thushara is also in the side. This means that there's no room Dhananjaya de Silva nor Dilshan Madushanka. <b>6:30pm</b> Time for the toss...and <b>Sri Lanka have won it and will bowl first!</b> For Zimbabwe, Takudzwanashe Kaitano, Tapiwa Mufudza and Faraz Akram make way from the ODIs, with allrounders Brian Bennett and Carl Mumba, and slow left arm spinner Ainsley Ndlovu coming in. Sikandar Raza will lead the side. Much though will depend on the Richard Ngarava, who caused Sri Lanka's top order all sorts of problems during the ODIs. <B>6.20pm</b> The toss is about 10 minutes away, so until then let's take a quick look at the squads. Both sides will have some new faces for the T20 portion of the series, though in Sri Lanka's case those new faces are in fact some rather old ones. Angelo Mathews will very likely make his T20I return today following an absence of three years, while Dhananjaya de Silva, the new Test skipper that was axed from the ODI squad, will be looking to show the selectors that he's still a viable option in white-ball cricket. Pathum Nissanka's return from a bout of dengue will boost the top order, while we might also see some game time for the slingy Nuwan Thushara fresh off his IPL contract. There's also Akila Dananjaya waiting in the wings, having last played a T20I in 2021. Big day then for Wanindu Hasaranga, who'll be captaining the national side for the first time today. And of course it is Sri Lanka that come into this game with the momentum on the back of a crushing win in the last ODI, and with it 2-0 a series win. Zimbabwe, despite having had their moments, have generally struggled to come to terms with Sri Lanka's bowling attack and that in general has proved the difference between these sides. The weather too has proven to be a menace, with each of the ODIs impacted by rain to varying degrees. The good news therefore today is that rain doesn't seem to be all that likely to play a part…so keep those fingers and toes crossed! <B>6.15pm</b> Evening folks, and welcome to our live coverage of the T20I series between Sri Lanka and Zimbabwe. This is Madushka and I'll be bringing you all the action today!
+It's Ervine and Kamunhukamwe to open for the visitors. Angelo Mathews with the ball first up, something he's been doing more of recently in T20s. <B>6:57pm</b> Alright the national anthems are done and the players are in the middle, so we're almost underway! Dillon N: "Fun fact, Sri Lanka and Zimbabwe haven't played each other in this form of the game in over 11 years. The last time they met was in the ICC World T20 in 2012." Hansitha: "interesting call, Nuwan Thushara ahead of Dilshan Madhusanaka" --- To be fair, Thushara has been knocking on the door for quite some time with his LPL performances. Can he make the step up though? MadMax: "You said Ervine is not available but isn't he included for the team?" --- Apologies, think I may have been looking at an old squad list. It's been duly amended. Dulanjana : "Why Dilshan Madushanka is not there? Bring him for Shanaka, atleast for some reliable bowling option" --- Guessing he's being rested Dulanjana. Not the worst idea considering the way Sri Lanka's seam bowlers have been faring injury-wise in recent times. Navod Fernando : "I'm just asking, why do we need to keep Dasun Shanaka with Angelo Mathews? I know Shanaka is a power hitter, but he's not reliable. At the same time, Angelo Mathews can also do it. If not, at least some good power play bowling with Madushanka and Theekshana " --- Reasonable point Navod, but Shanaka hasn't done too badly in T20s as opposed to his very poor ODI form, so it makes sense to keep him in the side. Mathews inclusion is a little more left field for me, considering his powerhitting days seem in the distant past. Seems like the selectors want some experience for the World Cup. <B>Pitch report</b>: "New pitch," says Farveez Maharoof. "Less grass, but the hardness is still the same. This will see much more even bounce, and batters can play through the line. Par score 140." <b>Zimbabwe XI</b> Craig Ervine, Tinashe Kamunhukamwe, Brian Bennett, Sean Williams, Sikandar Raza (capt.), Ryan Burl, Clive Madande (wk), Luke Jongwe, Wellington Masakadza, Blessing Muzarabani, Richard Ngarava <b>Sri Lanka XI</b>: Pathum Nissanka, Kusal Mendis (wk), Kusal Janith Perera, Sadeera Samarawickrama, Charith Asalanka, Angelo Mathews, Dasun Shanaka, Wanindu Hasaranga (capt.), Maheesh Theekshana, Dushmantha Chameera, Nuwan Thushara Sikandar Raza says Brian Bennett comes into the side, but the big news is the return of Sean Williams from injury. He's also not too fussed to be batting first with the wicket looking a bit dry. Wanindu Hasaranga says there's two allrounders in the squad, Angelo Mathews and Dasun Shanaka, while Nuwan Thushara is also in the side. This means that there's no room Dhananjaya de Silva nor Dilshan Madushanka. <b>6:30pm</b> Time for the toss...and <b>Sri Lanka have won it and will bowl first!</b> For Zimbabwe, Takudzwanashe Kaitano, Tapiwa Mufudza and Faraz Akram make way from the ODIs, with allrounders Brian Bennett and Carl Mumba, and slow left arm spinner Ainsley Ndlovu coming in. Sikandar Raza will lead the side. Much though will depend on the Richard Ngarava, who caused Sri Lanka's top order all sorts of problems during the ODIs. <B>6.20pm</b> The toss is about 10 minutes away, so until then let's take a quick look at the squads. Both sides will have some new faces for the T20 portion of the series, though in Sri Lanka's case those new faces are in fact some rather old ones. Angelo Mathews will very likely make his T20I return today following an absence of three years, while Dhananjaya de Silva, the new Test skipper that was axed from the ODI squad, will be looking to show the selectors that he's still a viable option in white-ball cricket. Pathum Nissanka's return from a bout of dengue will boost the top order, while we might also see some game time for the slingy Nuwan Thushara fresh off his IPL contract. There's also Akila Dananjaya waiting in the wings, having last played a T20I in 2021. Big day then for Wanindu Hasaranga, who'll be captaining the national side for the first time today. And of course it is Sri Lanka that come into this game with the momentum on the back of a crushing win in the last ODI, and with it 2-0 a series win. Zimbabwe, despite having had their moments, have generally struggled to come to terms with Sri Lanka's bowling attack and that in general has proved the difference between these sides. The weather too has proven to be a menace, with each of the ODIs impacted by rain to varying degrees. The good news therefore today is that rain doesn't seem to be all that likely to play a part…so keep those fingers and toes crossed! <B>6.15pm</b> Evening folks, and welcome to our live coverage of the T20I series between Sri Lanka and Zimbabwe. This is Madushka and I'll be bringing you all the action today!
 
-[{"type": "HTML", "html": "back of a length just outside off to start, 116kph. Nips in off the surface. Defended off the back foot"}]back of a length just outside off to start, 116kph. Nips in off the surface. Defended off the back foot
+back of a length just outside off to start, 116kph. Nips in off the surface. Defended off the back foot
 
 
 Balls faced: 15
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clobbered over midwicket!</b> This was short of a length outside off, Kamunhukamwe had missed out on a similar one earlier in the over but this time he was waiting for it. Leant back and pulled this handsomely"}]<B>Clobbered over midwicket!</b> This was short of a length outside off, Kamunhukamwe had missed out on a similar one earlier in the over but this time he was waiting for it. Leant back and pulled this handsomely
+<B>Clobbered over midwicket!</b> This was short of a length outside off, Kamunhukamwe had missed out on a similar one earlier in the over but this time he was waiting for it. Leant back and pulled this handsomely
 
 
 Balls faced: 16
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length outside off, hacked towards mid-on for one. Mathews' lack of pace proving difficult to time at the moment"}]length outside off, hacked towards mid-on for one. Mathews' lack of pace proving difficult to time at the moment
+length outside off, hacked towards mid-on for one. Mathews' lack of pace proving difficult to time at the moment
 
 
 Balls faced: 17
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Leading edge that is chipped straight over the bowler and between mid-on and mid-off. This was full and straight, but straightened after pitching. Kamunhukamwe looked to work this onside but was fortunate to have the leading edge fall safe"}]Leading edge that is chipped straight over the bowler and between mid-on and mid-off. This was full and straight, but straightened after pitching. Kamunhukamwe looked to work this onside but was fortunate to have the leading edge fall safe
+Leading edge that is chipped straight over the bowler and between mid-on and mid-off. This was full and straight, but straightened after pitching. Kamunhukamwe looked to work this onside but was fortunate to have the leading edge fall safe
 
 
 Balls faced: 18
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "SACHI: \"Shanaka's T20 batting record is way better than his ODI's, SLC missed the trick, Shanaka had to be kept out from ODI matches. As a result of not doing that, now his T20 place has been questioned. Nevertheless, it is good to see that SLC implementing the rest and rotation to manage workload of players. \""}]SACHI: "Shanaka's T20 batting record is way better than his ODI's, SLC missed the trick, Shanaka had to be kept out from ODI matches. As a result of not doing that, now his T20 place has been questioned. Nevertheless, it is good to see that SLC implementing the rest and rotation to manage workload of players. "
+SACHI: "Shanaka's T20 batting record is way better than his ODI's, SLC missed the trick, Shanaka had to be kept out from ODI matches. As a result of not doing that, now his T20 place has been questioned. Nevertheless, it is good to see that SLC implementing the rest and rotation to manage workload of players. "
 
-[{"type": "HTML", "html": "Swing and a miss! Full on off, shapes away late. Kamunhukamwe goes for the booming on drive and is beaten"}]Swing and a miss! Full on off, shapes away late. Kamunhukamwe goes for the booming on drive and is beaten
+Swing and a miss! Full on off, shapes away late. Kamunhukamwe goes for the booming on drive and is beaten
 
 
 Balls faced: 19
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length and straighter, stays back and nudges this to mid-on for one"}]good length and straighter, stays back and nudges this to mid-on for one
+good length and straighter, stays back and nudges this to mid-on for one
 
 
 Balls faced: 20
 Bowler: Thushara
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another one that keeps low. 134kph, but it bounces through to the keeper. Wide of off and the batter hangs a bat at this one that shapes away"}]Another one that keeps low. 134kph, but it bounces through to the keeper. Wide of off and the batter hangs a bat at this one that shapes away
+Another one that keeps low. 134kph, but it bounces through to the keeper. Wide of off and the batter hangs a bat at this one that shapes away
 
 
 Balls faced: 21
 Bowler: Thushara
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length and shaping away wide outside off. Kamunhukamwe leans back and looks to pull this through midwicket but can't connect as this keeps a touch low"}]short of a length and shaping away wide outside off. Kamunhukamwe leans back and looks to pull this through midwicket but can't connect as this keeps a touch low
+short of a length and shaping away wide outside off. Kamunhukamwe leans back and looks to pull this through midwicket but can't connect as this keeps a touch low
 
 
 Balls faced: 22
 Bowler: Thushara
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Thushara from the other end"}]Thushara from the other end
+Thushara from the other end
 
-[{"type": "HTML", "html": "Lofted drive, just about clears extra cover. This was full and shaping away outside. It goes off the toe-end of the bat and barely clears the infield"}]Lofted drive, just about clears extra cover. This was full and shaping away outside. It goes off the toe-end of the bat and barely clears the infield
+Lofted drive, just about clears extra cover. This was full and shaping away outside. It goes off the toe-end of the bat and barely clears the infield
 
 
 Balls faced: 23
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clobbered over midwicket!</b> This was short of a length outside off, Kamunhukamwe had missed out on a similar one earlier in the over but this time he was waiting for it. Leant back and pulled this handsomely"}]<B>Clobbered over midwicket!</b> This was short of a length outside off, Kamunhukamwe had missed out on a similar one earlier in the over but this time he was waiting for it. Leant back and pulled this handsomely
+<B>Clobbered over midwicket!</b> This was short of a length outside off, Kamunhukamwe had missed out on a similar one earlier in the over but this time he was waiting for it. Leant back and pulled this handsomely
 
 
 Balls faced: 24
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length outside off, hacked towards mid-on for one. Mathews' lack of pace proving difficult to time at the moment"}]length outside off, hacked towards mid-on for one. Mathews' lack of pace proving difficult to time at the moment
+length outside off, hacked towards mid-on for one. Mathews' lack of pace proving difficult to time at the moment
 
 
 Balls faced: 25
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, 134kph, driven hard down to long-on for one"}]full on off, 134kph, driven hard down to long-on for one
+full on off, 134kph, driven hard down to long-on for one
 
 
 Balls faced: 26
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Swatted through extra cover now!</b> Thushara drags the length back around off, but Kamunhukamwe makes room and forehands this through the covers"}]<B>Swatted through extra cover now!</b> Thushara drags the length back around off, but Kamunhukamwe makes room and forehands this through the covers
+<B>Swatted through extra cover now!</b> Thushara drags the length back around off, but Kamunhukamwe makes room and forehands this through the covers
 
 
 Balls faced: 27
 Bowler: Thushara
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Climbs into this and thats gone miles!</b> Full on middle and leg and Kamunhukamwe picks this up with imperious timing miles into the deep midwicket stands"}]<B>Climbs into this and thats gone miles!</b> Full on middle and leg and Kamunhukamwe picks this up with imperious timing miles into the deep midwicket stands
+<B>Climbs into this and thats gone miles!</b> Full on middle and leg and Kamunhukamwe picks this up with imperious timing miles into the deep midwicket stands
 
 
 Balls faced: 28
 Bowler: Thushara
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, gets an insided edge on the forward push towards midwicket for a quick single"}]full on off, gets an insided edge on the forward push towards midwicket for a quick single
+full on off, gets an insided edge on the forward push towards midwicket for a quick single
 
 
 Balls faced: 29
 Bowler: Thushara
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Thushara with a change of ends"}]Thushara with a change of ends
+Thushara with a change of ends
 
-[{"type": "HTML", "html": "Picked up over midwicket for a couple. This was full and straight and Kamunhukamwe whips it over the infield. There's a man in the deep to collect though"}]Picked up over midwicket for a couple. This was full and straight and Kamunhukamwe whips it over the infield. There's a man in the deep to collect though
+Picked up over midwicket for a couple. This was full and straight and Kamunhukamwe whips it over the infield. There's a man in the deep to collect though
 
 
 Balls faced: 30
 Bowler: Theekshana
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
-[{"type": "HTML", "html": "Theekshana to bowl the final over of the powerplay"}]Theekshana to bowl the final over of the powerplay
-
-[{"type": "HTML", "html": "<B>And Kamunhukamwe's bright innings comes to an end!</b> This was angled in full on middle and leg. Kamunhukamwe cleared the front leg to heave this over midwicket, but it was the carrom ball that skidded on. Ends up getting a top edge that goes straight up in the air towards point for an easy take"}]<B>And Kamunhukamwe's bright innings comes to an end!</b> This was angled in full on middle and leg. Kamunhukamwe cleared the front leg to heave this over midwicket, but it was the carrom ball that skidded on. Ends up getting a top edge that goes straight up in the air towards point for an easy take
+Theekshana to bowl the final over of the powerplay
+TS Kamunhukamwe is OUT! caught
+c Chameera b Theekshana
+Tinashe Kamunhukamwe c Chameera b Theekshana 26 (18b 1x4 2x6 22m) SR: 144.44
+<B>And Kamunhukamwe's bright innings comes to an end!</b> This was angled in full on middle and leg. Kamunhukamwe cleared the front leg to heave this over midwicket, but it was the carrom ball that skidded on. Ends up getting a top edge that goes straight up in the air towards point for an easy take
 
 
 Balls faced: 31
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, 134kph, driven hard down to long-on for one"}]full on off, 134kph, driven hard down to long-on for one
+full on off, 134kph, driven hard down to long-on for one
 
 
 Balls faced: 32
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Swatted through extra cover now!</b> Thushara drags the length back around off, but Kamunhukamwe makes room and forehands this through the covers"}]<B>Swatted through extra cover now!</b> Thushara drags the length back around off, but Kamunhukamwe makes room and forehands this through the covers
+<B>Swatted through extra cover now!</b> Thushara drags the length back around off, but Kamunhukamwe makes room and forehands this through the covers
 
 
 Balls faced: 33
 Bowler: Thushara
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Climbs into this and thats gone miles!</b> Full on middle and leg and Kamunhukamwe picks this up with imperious timing miles into the deep midwicket stands"}]<B>Climbs into this and thats gone miles!</b> Full on middle and leg and Kamunhukamwe picks this up with imperious timing miles into the deep midwicket stands
+<B>Climbs into this and thats gone miles!</b> Full on middle and leg and Kamunhukamwe picks this up with imperious timing miles into the deep midwicket stands
 
 
 Balls faced: 34
 Bowler: Thushara
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, gets an insided edge on the forward push towards midwicket for a quick single"}]full on off, gets an insided edge on the forward push towards midwicket for a quick single
+full on off, gets an insided edge on the forward push towards midwicket for a quick single
 
 
 Balls faced: 35
 Bowler: Thushara
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Thushara with a change of ends"}]Thushara with a change of ends
+Thushara with a change of ends
 
-[{"type": "HTML", "html": "Picked up over midwicket for a couple. This was full and straight and Kamunhukamwe whips it over the infield. There's a man in the deep to collect though"}]Picked up over midwicket for a couple. This was full and straight and Kamunhukamwe whips it over the infield. There's a man in the deep to collect though
+Picked up over midwicket for a couple. This was full and straight and Kamunhukamwe whips it over the infield. There's a man in the deep to collect though
 
 
 Balls faced: 36
 Bowler: Theekshana
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
-[{"type": "HTML", "html": "Theekshana to bowl the final over of the powerplay"}]Theekshana to bowl the final over of the powerplay
-
-[{"type": "HTML", "html": "<B>And Kamunhukamwe's bright innings comes to an end!</b> This was angled in full on middle and leg. Kamunhukamwe cleared the front leg to heave this over midwicket, but it was the carrom ball that skidded on. Ends up getting a top edge that goes straight up in the air towards point for an easy take"}]<B>And Kamunhukamwe's bright innings comes to an end!</b> This was angled in full on middle and leg. Kamunhukamwe cleared the front leg to heave this over midwicket, but it was the carrom ball that skidded on. Ends up getting a top edge that goes straight up in the air towards point for an easy take
+Theekshana to bowl the final over of the powerplay
+TS Kamunhukamwe is OUT! caught
+c Chameera b Theekshana
+Tinashe Kamunhukamwe c Chameera b Theekshana 26 (18b 1x4 2x6 22m) SR: 144.44
+<B>And Kamunhukamwe's bright innings comes to an end!</b> This was angled in full on middle and leg. Kamunhukamwe cleared the front leg to heave this over midwicket, but it was the carrom ball that skidded on. Ends up getting a top edge that goes straight up in the air towards point for an easy take
 
 
 
@@ -1518,301 +1700,335 @@ Match: all_games_1412536_1412543.json
 Balls faced: 1
 Bowler: Madushanka
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full toss about thigh high, worked towards deep square leg for one"}]full toss about thigh high, worked towards deep square leg for one
+full toss about thigh high, worked towards deep square leg for one
 
 
 Balls faced: 2
 Bowler: Madushanka
 Over: 1
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full inswinger that raps the front pad! Optimistic appeal though as this was clearly sliding down leg"}]Full inswinger that raps the front pad! Optimistic appeal though as this was clearly sliding down leg
+Full inswinger that raps the front pad! Optimistic appeal though as this was clearly sliding down leg
 
 
 Balls faced: 3
 Bowler: Madushanka
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another swing and a miss! This time it was shorter and straighter as Kamunhukamwe comes down the track. Ends up copping a blow on the hips"}]Another swing and a miss! This time it was shorter and straighter as Kamunhukamwe comes down the track. Ends up copping a blow on the hips
+Another swing and a miss! This time it was shorter and straighter as Kamunhukamwe comes down the track. Ends up copping a blow on the hips
 
 
 Balls faced: 4
 Bowler: Madushanka
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "It's Craig Ervine and Tinashe Kamunhukamwe to open. Dilshan Madushanka with the ball."}, {"type": "HTML", "html": "<B>8.43pm</b> Okay! We're almost set for the chase!"}]It's Craig Ervine and Tinashe Kamunhukamwe to open. Dilshan Madushanka with the ball. <B>8.43pm</b> Okay! We're almost set for the chase!
+It's Craig Ervine and Tinashe Kamunhukamwe to open. Dilshan Madushanka with the ball. <B>8.43pm</b> Okay! We're almost set for the chase!
 
-[{"type": "HTML", "html": "Swing and a miss! This was a good length just outside off, shaping in late. Kamunhukamwe looks to hack this across the line but fails to make contact"}]Swing and a miss! This was a good length just outside off, shaping in late. Kamunhukamwe looks to hack this across the line but fails to make contact
+Swing and a miss! This was a good length just outside off, shaping in late. Kamunhukamwe looks to hack this across the line but fails to make contact
 
 
 Balls faced: 5
 Bowler: Theekshana
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "This time it's straighter and clatters into the pads! Big appeal and the finger goes up! Zimbabwe <b>review</b> though. And on first look it might be a good one. This was struck the front pad on the full and looked to be drifting past leg stump. And indeed, it's missing leg by some way"}]This time it's straighter and clatters into the pads! Big appeal and the finger goes up! Zimbabwe <b>review</b> though. And on first look it might be a good one. This was struck the front pad on the full and looked to be drifting past leg stump. And indeed, it's missing leg by some way
+This time it's straighter and clatters into the pads! Big appeal and the finger goes up! Zimbabwe <b>review</b> though. And on first look it might be a good one. This was struck the front pad on the full and looked to be drifting past leg stump. And indeed, it's missing leg by some way
 
 
 Balls faced: 6
 Bowler: Theekshana
 Over: 2
+Pitch Line: DOWN_LEG Length: FULL
 Shot: PADDLE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Nearly bowls him! Goes for the sweep and misses as this drifts barely past leg stump. Slightly harsh wide call"}]Nearly bowls him! Goes for the sweep and misses as this drifts barely past leg stump. Slightly harsh wide call
+Nearly bowls him! Goes for the sweep and misses as this drifts barely past leg stump. Slightly harsh wide call
 
 Wide: 1
 Balls faced: 7
 Bowler: Theekshana
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length, drifts in towards off. Back foot punch down to long-on for one"}]good length, drifts in towards off. Back foot punch down to long-on for one
+good length, drifts in towards off. Back foot punch down to long-on for one
 
 
 Balls faced: 8
 Bowler: Theekshana
 Over: 2
+Pitch Line: WIDE_DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "low full toss, drifts into the pads. Whipped towards deep midwicket, where it's fielded well in the deep"}]low full toss, drifts into the pads. Whipped towards deep midwicket, where it's fielded well in the deep
+low full toss, drifts into the pads. Whipped towards deep midwicket, where it's fielded well in the deep
 
 
 Balls faced: 9
 Bowler: Madushanka
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full toss about thigh high, worked towards deep square leg for one"}]full toss about thigh high, worked towards deep square leg for one
+full toss about thigh high, worked towards deep square leg for one
 
 
 Balls faced: 10
 Bowler: Madushanka
 Over: 1
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full inswinger that raps the front pad! Optimistic appeal though as this was clearly sliding down leg"}]Full inswinger that raps the front pad! Optimistic appeal though as this was clearly sliding down leg
+Full inswinger that raps the front pad! Optimistic appeal though as this was clearly sliding down leg
 
 
 Balls faced: 11
 Bowler: Madushanka
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another swing and a miss! This time it was shorter and straighter as Kamunhukamwe comes down the track. Ends up copping a blow on the hips"}]Another swing and a miss! This time it was shorter and straighter as Kamunhukamwe comes down the track. Ends up copping a blow on the hips
+Another swing and a miss! This time it was shorter and straighter as Kamunhukamwe comes down the track. Ends up copping a blow on the hips
 
 
 Balls faced: 12
 Bowler: Madushanka
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "It's Craig Ervine and Tinashe Kamunhukamwe to open. Dilshan Madushanka with the ball."}, {"type": "HTML", "html": "<B>8.43pm</b> Okay! We're almost set for the chase!"}]It's Craig Ervine and Tinashe Kamunhukamwe to open. Dilshan Madushanka with the ball. <B>8.43pm</b> Okay! We're almost set for the chase!
+It's Craig Ervine and Tinashe Kamunhukamwe to open. Dilshan Madushanka with the ball. <B>8.43pm</b> Okay! We're almost set for the chase!
 
-[{"type": "HTML", "html": "Swing and a miss! This was a good length just outside off, shaping in late. Kamunhukamwe looks to hack this across the line but fails to make contact"}]Swing and a miss! This was a good length just outside off, shaping in late. Kamunhukamwe looks to hack this across the line but fails to make contact
+Swing and a miss! This was a good length just outside off, shaping in late. Kamunhukamwe looks to hack this across the line but fails to make contact
 
 
 Balls faced: 13
 Bowler: Chameera
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length on off, stays in the crease and nudges this towards midwicket for one"}]good length on off, stays in the crease and nudges this towards midwicket for one
+good length on off, stays in the crease and nudges this towards midwicket for one
 
 
 Balls faced: 14
 Bowler: Chameera
 Over: 3
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Gets this away though!</b> Short and pulled in the air but in front of the man at deep square leg!"}]<B>Gets this away though!</b> Short and pulled in the air but in front of the man at deep square leg!
+<B>Gets this away though!</b> Short and pulled in the air but in front of the man at deep square leg!
 
 
 Balls faced: 15
 Bowler: Chameera
 Over: 3
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, but slides down leg. Kamunhukamwe will feel like he's missed out on that though"}]full, but slides down leg. Kamunhukamwe will feel like he's missed out on that though
+full, but slides down leg. Kamunhukamwe will feel like he's missed out on that though
 
 Wide: 1
 Balls faced: 16
 Bowler: Chameera
 Over: 3
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short of a length outside off, cut late behind point but third man does well to get to this quickly"}]short of a length outside off, cut late behind point but third man does well to get to this quickly
+short of a length outside off, cut late behind point but third man does well to get to this quickly
 
 
 Balls faced: 17
 Bowler: Theekshana
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "This time it's straighter and clatters into the pads! Big appeal and the finger goes up! Zimbabwe <b>review</b> though. And on first look it might be a good one. This was struck the front pad on the full and looked to be drifting past leg stump. And indeed, it's missing leg by some way"}]This time it's straighter and clatters into the pads! Big appeal and the finger goes up! Zimbabwe <b>review</b> though. And on first look it might be a good one. This was struck the front pad on the full and looked to be drifting past leg stump. And indeed, it's missing leg by some way
+This time it's straighter and clatters into the pads! Big appeal and the finger goes up! Zimbabwe <b>review</b> though. And on first look it might be a good one. This was struck the front pad on the full and looked to be drifting past leg stump. And indeed, it's missing leg by some way
 
 
 Balls faced: 18
 Bowler: Theekshana
 Over: 2
+Pitch Line: DOWN_LEG Length: FULL
 Shot: PADDLE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Nearly bowls him! Goes for the sweep and misses as this drifts barely past leg stump. Slightly harsh wide call"}]Nearly bowls him! Goes for the sweep and misses as this drifts barely past leg stump. Slightly harsh wide call
+Nearly bowls him! Goes for the sweep and misses as this drifts barely past leg stump. Slightly harsh wide call
 
 Wide: 1
 Balls faced: 19
 Bowler: Theekshana
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length, drifts in towards off. Back foot punch down to long-on for one"}]good length, drifts in towards off. Back foot punch down to long-on for one
+good length, drifts in towards off. Back foot punch down to long-on for one
 
 
 Balls faced: 20
 Bowler: Theekshana
 Over: 2
+Pitch Line: WIDE_DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "low full toss, drifts into the pads. Whipped towards deep midwicket, where it's fielded well in the deep"}]low full toss, drifts into the pads. Whipped towards deep midwicket, where it's fielded well in the deep
+low full toss, drifts into the pads. Whipped towards deep midwicket, where it's fielded well in the deep
 
 
 Balls faced: 21
 Bowler: Madushanka
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>And Kamunhukamwe gives it away!</b> This was again short of a length, looked like the off cutter. Kamunhukamwe goes for the pull but the ball is going away from him and he can only top edge it. Ends up an easy take for Hasaranga at midwicket"}]<B>And Kamunhukamwe gives it away!</b> This was again short of a length, looked like the off cutter. Kamunhukamwe goes for the pull but the ball is going away from him and he can only top edge it. Ends up an easy take for Hasaranga at midwicket
+TS Kamunhukamwe is OUT! caught
+c de Silva b Madushanka
+Tinashe Kamunhukamwe c de Silva b Madushanka 12 (13b 1x4 0x6 19m) SR: 92.3
+<B>And Kamunhukamwe gives it away!</b> This was again short of a length, looked like the off cutter. Kamunhukamwe goes for the pull but the ball is going away from him and he can only top edge it. Ends up an easy take for Hasaranga at midwicket
 
 
 Balls faced: 22
 Bowler: Madushanka
 Over: 4
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, pitching on middle and nipping away. Defended on the back foot"}]back of a length, pitching on middle and nipping away. Defended on the back foot
+back of a length, pitching on middle and nipping away. Defended on the back foot
 
 
 Balls faced: 23
 Bowler: Madushanka
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Madushanka with a change of ends"}]Madushanka with a change of ends
+Madushanka with a change of ends
 
-[{"type": "HTML", "html": "Well fielded by cover! This was short and wide, and Kamunhukamwe punched it through point but cover made quick ground to his left to save a certain boundary"}]Well fielded by cover! This was short and wide, and Kamunhukamwe punched it through point but cover made quick ground to his left to save a certain boundary
+Well fielded by cover! This was short and wide, and Kamunhukamwe punched it through point but cover made quick ground to his left to save a certain boundary
 
 
 Balls faced: 24
 Bowler: Chameera
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length on off, stays in the crease and nudges this towards midwicket for one"}]good length on off, stays in the crease and nudges this towards midwicket for one
+good length on off, stays in the crease and nudges this towards midwicket for one
 
 
 Balls faced: 25
 Bowler: Chameera
 Over: 3
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Gets this away though!</b> Short and pulled in the air but in front of the man at deep square leg!"}]<B>Gets this away though!</b> Short and pulled in the air but in front of the man at deep square leg!
+<B>Gets this away though!</b> Short and pulled in the air but in front of the man at deep square leg!
 
 
 Balls faced: 26
 Bowler: Chameera
 Over: 3
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, but slides down leg. Kamunhukamwe will feel like he's missed out on that though"}]full, but slides down leg. Kamunhukamwe will feel like he's missed out on that though
+full, but slides down leg. Kamunhukamwe will feel like he's missed out on that though
 
 Wide: 1
 Balls faced: 27
 Bowler: Chameera
 Over: 3
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short of a length outside off, cut late behind point but third man does well to get to this quickly"}]short of a length outside off, cut late behind point but third man does well to get to this quickly
+short of a length outside off, cut late behind point but third man does well to get to this quickly
 
 
 Balls faced: 28
 Bowler: Madushanka
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>And Kamunhukamwe gives it away!</b> This was again short of a length, looked like the off cutter. Kamunhukamwe goes for the pull but the ball is going away from him and he can only top edge it. Ends up an easy take for Hasaranga at midwicket"}]<B>And Kamunhukamwe gives it away!</b> This was again short of a length, looked like the off cutter. Kamunhukamwe goes for the pull but the ball is going away from him and he can only top edge it. Ends up an easy take for Hasaranga at midwicket
+TS Kamunhukamwe is OUT! caught
+c de Silva b Madushanka
+Tinashe Kamunhukamwe c de Silva b Madushanka 12 (13b 1x4 0x6 19m) SR: 92.3
+<B>And Kamunhukamwe gives it away!</b> This was again short of a length, looked like the off cutter. Kamunhukamwe goes for the pull but the ball is going away from him and he can only top edge it. Ends up an easy take for Hasaranga at midwicket
 
 
 Balls faced: 29
 Bowler: Madushanka
 Over: 4
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, pitching on middle and nipping away. Defended on the back foot"}]back of a length, pitching on middle and nipping away. Defended on the back foot
+back of a length, pitching on middle and nipping away. Defended on the back foot
 
 
 Balls faced: 30
 Bowler: Madushanka
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Madushanka with a change of ends"}]Madushanka with a change of ends
+Madushanka with a change of ends
 
-[{"type": "HTML", "html": "Well fielded by cover! This was short and wide, and Kamunhukamwe punched it through point but cover made quick ground to his left to save a certain boundary"}]Well fielded by cover! This was short and wide, and Kamunhukamwe punched it through point but cover made quick ground to his left to save a certain boundary
+Well fielded by cover! This was short and wide, and Kamunhukamwe punched it through point but cover made quick ground to his left to save a certain boundary
 
 
 
@@ -1820,278 +2036,310 @@ Match: all_games_1412536_1412544.json
 Balls faced: 1
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "<B>6.58pm</b> Alrighty then, the players are out in the middle. As expected it's Tinashe Kamunhukamwe and Craig Ervine to open. Angelo Mathews will open the bowling."}, {"type": "HTML", "html": "Navod: \"There are too many test type players in the Sri Lankan lineup. That's makes me uncomfortable as we are going to chase.\""}, {"type": "HTML", "html": "<b>Pitch report:</b> \"Usually when you play four games on the same pitch you have lots of cracks, but in this I don't see any cracks that have widened,\" says Farveez Maharoof. \"This pitch is very hard. In Colombo if you usually play four games in 12 days, you'd see some scar marks. But this looks fantastic. After a long time the Premadasa has a produced a pitch with lots of runs in it. 140-150 for me, I'm going a little lower from 170 because the last couple of days the sun was beating down on it. The dew factor should also be considered.\""}, {"type": "HTML", "html": "Joe: \"Would like Danajaya de S to open the innings , he seems to score better when he bats in the top 3 position , can experiment anyway as the other batters have failed consistently\""}, {"type": "HTML", "html": "Dan Weston: \"Just like Sikandar Raza I found the hospitality of Sri Lankans to be remarkable! A great place to visit.\""}, {"type": "HTML", "html": "<B>6.45pm</b> While you wait for the start, a quick reminder that the Under-19 World Cup begins tomorrow. Here's Abhimanyu with the <a href=\"https://www.espncricinfo.com/story/under-19-world-cup-2024-faqs-all-you-need-to-know-about-the-tournament-1416865\">perfect primer to get you up to speed</a>."}, {"type": "HTML", "html": "Full teams can be found <a href=\"https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-3rd-t20i-1412544/match-playing-xi\">here</a>."}, {"type": "HTML", "html": "<B>Sikandar Raza</b> says the win on Tuesday \"was a long time coming\". Adds that he wanted to bat first anyway, as he thinks it's a slow wicket with some turn. One change for them with Ryan Burl out for Tony Munyonga. He also has some praise for the hospitality his side have received: \"I've thoroughly enjoyed Sri Lanka and its people. I'm very grateful for the love the team has received and we will cherish these memories.\""}, {"type": "HTML", "html": "<B>Wanindu Hasaranga</b> says the potential for dew is the primary reason for bowling first. Big blow for Sri Lanka though as <B>Charith Asalanka has been ruled out</b> with an illness. Kamindu Mendis will come in for him. Kusal Perera is also left out with Dhananjaya de Silva included in his place."}, {"type": "HTML", "html": "<B>6.28pm</b> Time then for the toss...<B>Sri Lanka have won it and will bowl first!</B>"}, {"type": "HTML", "html": "And where does this leave Sri Lanka? Twice their top order has had to be bailed out by the likes of Asalanka, Mathews and Shanaka; it's not a habit they want to have set in. There's also concerns about their fifth bowling option. Zimbabwe did well to target both Mathews and Shanaka, who with their gentle medium pace leave themselves with little to no margin for error. Is there a case to be made for including a fifth genuine bowler? You'd think with three allround options, in Mathews, Shanaka and Hasaranga, in the XI that would be a conversation worth having."}, {"type": "HTML", "html": "Jongwe himself has had a tough time of it throughout the tour, with the Sri Lankan batters regularly targeting him for runs, but such match-turning efforts be it with bat or ball can do wondrous things in terms of overall confidence. Speaking after the game, both Jongwe and Raza also eluded to the fact that completing such a momentous chase had taken the proverbial monkey off their backs, so to speak. So does that mean we'll be seeing a more liberated Zimbabwe side today?"}, {"type": "HTML", "html": "So looking ahead to this game, well there's narratives aplenty. Angelo Mathews went from hero in game one, to an even more decorated hero at the halfway point in game two, before being suddenly and decisively brought crashing back to earth. And who better to do it than Luke Jongwe, the man for whom <a href=\"https://www.espncricinfo.com/story/zimbabwes-luke-jongwe-pastes-wallpaper-icon-angelo-mathews-sri-lanka-1416911\">Mathews was a genuine idol</a> growing up, yup <a href=\"https://www.facebook.com/photo/?fbid=570575189685122&set=a.105782222831090\">Facebook profile picture</a> and all!"}, {"type": "HTML", "html": "<B>6:15pm</b> Hello and welcome to our coverage of this final encounter of the T20I series between Sri Lanka and Zimbabwe, and if the previous games are anything to go by this should be yet another cracker! This is Madushka Balasuriya and I'll be your eyes and ears for the next couple of hours."}]<B>6.58pm</b> Alrighty then, the players are out in the middle. As expected it's Tinashe Kamunhukamwe and Craig Ervine to open. Angelo Mathews will open the bowling. Navod: "There are too many test type players in the Sri Lankan lineup. That's makes me uncomfortable as we are going to chase." <b>Pitch report:</b> "Usually when you play four games on the same pitch you have lots of cracks, but in this I don't see any cracks that have widened," says Farveez Maharoof. "This pitch is very hard. In Colombo if you usually play four games in 12 days, you'd see some scar marks. But this looks fantastic. After a long time the Premadasa has a produced a pitch with lots of runs in it. 140-150 for me, I'm going a little lower from 170 because the last couple of days the sun was beating down on it. The dew factor should also be considered." Joe: "Would like Danajaya de S to open the innings , he seems to score better when he bats in the top 3 position , can experiment anyway as the other batters have failed consistently" Dan Weston: "Just like Sikandar Raza I found the hospitality of Sri Lankans to be remarkable! A great place to visit." <B>6.45pm</b> While you wait for the start, a quick reminder that the Under-19 World Cup begins tomorrow. Here's Abhimanyu with the <a href="https://www.espncricinfo.com/story/under-19-world-cup-2024-faqs-all-you-need-to-know-about-the-tournament-1416865">perfect primer to get you up to speed</a>. Full teams can be found <a href="https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-3rd-t20i-1412544/match-playing-xi">here</a>. <B>Sikandar Raza</b> says the win on Tuesday "was a long time coming". Adds that he wanted to bat first anyway, as he thinks it's a slow wicket with some turn. One change for them with Ryan Burl out for Tony Munyonga. He also has some praise for the hospitality his side have received: "I've thoroughly enjoyed Sri Lanka and its people. I'm very grateful for the love the team has received and we will cherish these memories." <B>Wanindu Hasaranga</b> says the potential for dew is the primary reason for bowling first. Big blow for Sri Lanka though as <B>Charith Asalanka has been ruled out</b> with an illness. Kamindu Mendis will come in for him. Kusal Perera is also left out with Dhananjaya de Silva included in his place. <B>6.28pm</b> Time then for the toss...<B>Sri Lanka have won it and will bowl first!</B> And where does this leave Sri Lanka? Twice their top order has had to be bailed out by the likes of Asalanka, Mathews and Shanaka; it's not a habit they want to have set in. There's also concerns about their fifth bowling option. Zimbabwe did well to target both Mathews and Shanaka, who with their gentle medium pace leave themselves with little to no margin for error. Is there a case to be made for including a fifth genuine bowler? You'd think with three allround options, in Mathews, Shanaka and Hasaranga, in the XI that would be a conversation worth having. Jongwe himself has had a tough time of it throughout the tour, with the Sri Lankan batters regularly targeting him for runs, but such match-turning efforts be it with bat or ball can do wondrous things in terms of overall confidence. Speaking after the game, both Jongwe and Raza also eluded to the fact that completing such a momentous chase had taken the proverbial monkey off their backs, so to speak. So does that mean we'll be seeing a more liberated Zimbabwe side today? So looking ahead to this game, well there's narratives aplenty. Angelo Mathews went from hero in game one, to an even more decorated hero at the halfway point in game two, before being suddenly and decisively brought crashing back to earth. And who better to do it than Luke Jongwe, the man for whom <a href="https://www.espncricinfo.com/story/zimbabwes-luke-jongwe-pastes-wallpaper-icon-angelo-mathews-sri-lanka-1416911">Mathews was a genuine idol</a> growing up, yup <a href="https://www.facebook.com/photo/?fbid=570575189685122&set=a.105782222831090">Facebook profile picture</a> and all! <B>6:15pm</b> Hello and welcome to our coverage of this final encounter of the T20I series between Sri Lanka and Zimbabwe, and if the previous games are anything to go by this should be yet another cracker! This is Madushka Balasuriya and I'll be your eyes and ears for the next couple of hours.
+<B>6.58pm</b> Alrighty then, the players are out in the middle. As expected it's Tinashe Kamunhukamwe and Craig Ervine to open. Angelo Mathews will open the bowling. Navod: "There are too many test type players in the Sri Lankan lineup. That's makes me uncomfortable as we are going to chase." <b>Pitch report:</b> "Usually when you play four games on the same pitch you have lots of cracks, but in this I don't see any cracks that have widened," says Farveez Maharoof. "This pitch is very hard. In Colombo if you usually play four games in 12 days, you'd see some scar marks. But this looks fantastic. After a long time the Premadasa has a produced a pitch with lots of runs in it. 140-150 for me, I'm going a little lower from 170 because the last couple of days the sun was beating down on it. The dew factor should also be considered." Joe: "Would like Danajaya de S to open the innings , he seems to score better when he bats in the top 3 position , can experiment anyway as the other batters have failed consistently" Dan Weston: "Just like Sikandar Raza I found the hospitality of Sri Lankans to be remarkable! A great place to visit." <B>6.45pm</b> While you wait for the start, a quick reminder that the Under-19 World Cup begins tomorrow. Here's Abhimanyu with the <a href="https://www.espncricinfo.com/story/under-19-world-cup-2024-faqs-all-you-need-to-know-about-the-tournament-1416865">perfect primer to get you up to speed</a>. Full teams can be found <a href="https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-3rd-t20i-1412544/match-playing-xi">here</a>. <B>Sikandar Raza</b> says the win on Tuesday "was a long time coming". Adds that he wanted to bat first anyway, as he thinks it's a slow wicket with some turn. One change for them with Ryan Burl out for Tony Munyonga. He also has some praise for the hospitality his side have received: "I've thoroughly enjoyed Sri Lanka and its people. I'm very grateful for the love the team has received and we will cherish these memories." <B>Wanindu Hasaranga</b> says the potential for dew is the primary reason for bowling first. Big blow for Sri Lanka though as <B>Charith Asalanka has been ruled out</b> with an illness. Kamindu Mendis will come in for him. Kusal Perera is also left out with Dhananjaya de Silva included in his place. <B>6.28pm</b> Time then for the toss...<B>Sri Lanka have won it and will bowl first!</B> And where does this leave Sri Lanka? Twice their top order has had to be bailed out by the likes of Asalanka, Mathews and Shanaka; it's not a habit they want to have set in. There's also concerns about their fifth bowling option. Zimbabwe did well to target both Mathews and Shanaka, who with their gentle medium pace leave themselves with little to no margin for error. Is there a case to be made for including a fifth genuine bowler? You'd think with three allround options, in Mathews, Shanaka and Hasaranga, in the XI that would be a conversation worth having. Jongwe himself has had a tough time of it throughout the tour, with the Sri Lankan batters regularly targeting him for runs, but such match-turning efforts be it with bat or ball can do wondrous things in terms of overall confidence. Speaking after the game, both Jongwe and Raza also eluded to the fact that completing such a momentous chase had taken the proverbial monkey off their backs, so to speak. So does that mean we'll be seeing a more liberated Zimbabwe side today? So looking ahead to this game, well there's narratives aplenty. Angelo Mathews went from hero in game one, to an even more decorated hero at the halfway point in game two, before being suddenly and decisively brought crashing back to earth. And who better to do it than Luke Jongwe, the man for whom <a href="https://www.espncricinfo.com/story/zimbabwes-luke-jongwe-pastes-wallpaper-icon-angelo-mathews-sri-lanka-1416911">Mathews was a genuine idol</a> growing up, yup <a href="https://www.facebook.com/photo/?fbid=570575189685122&set=a.105782222831090">Facebook profile picture</a> and all! <B>6:15pm</b> Hello and welcome to our coverage of this final encounter of the T20I series between Sri Lanka and Zimbabwe, and if the previous games are anything to go by this should be yet another cracker! This is Madushka Balasuriya and I'll be your eyes and ears for the next couple of hours.
 
-[{"type": "HTML", "html": "Driven in the air! This was full and wide, shaping away. Cover is deep though so this was safe"}]Driven in the air! This was full and wide, shaping away. Cover is deep though so this was safe
+Driven in the air! This was full and wide, shaping away. Cover is deep though so this was safe
 
 
 Balls faced: 2
 Bowler: Madushanka
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looks to swipe across the line now, cops a blow in the midriff but the sneak a leg bye"}]looks to swipe across the line now, cops a blow in the midriff but the sneak a leg bye
+looks to swipe across the line now, cops a blow in the midriff but the sneak a leg bye
 
 Legbyes: 1
 Balls faced: 3
 Bowler: Madushanka
 Over: 2
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Madushanka now"}, {"type": "HTML", "html": "Azeem Buhary: \"@Madushka, May we know at what speed Mathews is bowling?\" --- between 115-120kph."}]Madushanka now Azeem Buhary: "@Madushka, May we know at what speed Mathews is bowling?" --- between 115-120kph.
+Madushanka now Azeem Buhary: "@Madushka, May we know at what speed Mathews is bowling?" --- between 115-120kph.
 
-[{"type": "HTML", "html": "Attacks him straight away and gets away with it! This was not full enough to drive, gets right underneath it and it goes high and over mid-on, who back peddles but can't get to it. Maybe he could have done better to get under it"}]Attacks him straight away and gets away with it! This was not full enough to drive, gets right underneath it and it goes high and over mid-on, who back peddles but can't get to it. Maybe he could have done better to get under it
+Attacks him straight away and gets away with it! This was not full enough to drive, gets right underneath it and it goes high and over mid-on, who back peddles but can't get to it. Maybe he could have done better to get under it
 
 
 Balls faced: 4
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "<B>6.58pm</b> Alrighty then, the players are out in the middle. As expected it's Tinashe Kamunhukamwe and Craig Ervine to open. Angelo Mathews will open the bowling."}, {"type": "HTML", "html": "Navod: \"There are too many test type players in the Sri Lankan lineup. That's makes me uncomfortable as we are going to chase.\""}, {"type": "HTML", "html": "<b>Pitch report:</b> \"Usually when you play four games on the same pitch you have lots of cracks, but in this I don't see any cracks that have widened,\" says Farveez Maharoof. \"This pitch is very hard. In Colombo if you usually play four games in 12 days, you'd see some scar marks. But this looks fantastic. After a long time the Premadasa has a produced a pitch with lots of runs in it. 140-150 for me, I'm going a little lower from 170 because the last couple of days the sun was beating down on it. The dew factor should also be considered.\""}, {"type": "HTML", "html": "Joe: \"Would like Danajaya de S to open the innings , he seems to score better when he bats in the top 3 position , can experiment anyway as the other batters have failed consistently\""}, {"type": "HTML", "html": "Dan Weston: \"Just like Sikandar Raza I found the hospitality of Sri Lankans to be remarkable! A great place to visit.\""}, {"type": "HTML", "html": "<B>6.45pm</b> While you wait for the start, a quick reminder that the Under-19 World Cup begins tomorrow. Here's Abhimanyu with the <a href=\"https://www.espncricinfo.com/story/under-19-world-cup-2024-faqs-all-you-need-to-know-about-the-tournament-1416865\">perfect primer to get you up to speed</a>."}, {"type": "HTML", "html": "Full teams can be found <a href=\"https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-3rd-t20i-1412544/match-playing-xi\">here</a>."}, {"type": "HTML", "html": "<B>Sikandar Raza</b> says the win on Tuesday \"was a long time coming\". Adds that he wanted to bat first anyway, as he thinks it's a slow wicket with some turn. One change for them with Ryan Burl out for Tony Munyonga. He also has some praise for the hospitality his side have received: \"I've thoroughly enjoyed Sri Lanka and its people. I'm very grateful for the love the team has received and we will cherish these memories.\""}, {"type": "HTML", "html": "<B>Wanindu Hasaranga</b> says the potential for dew is the primary reason for bowling first. Big blow for Sri Lanka though as <B>Charith Asalanka has been ruled out</b> with an illness. Kamindu Mendis will come in for him. Kusal Perera is also left out with Dhananjaya de Silva included in his place."}, {"type": "HTML", "html": "<B>6.28pm</b> Time then for the toss...<B>Sri Lanka have won it and will bowl first!</B>"}, {"type": "HTML", "html": "And where does this leave Sri Lanka? Twice their top order has had to be bailed out by the likes of Asalanka, Mathews and Shanaka; it's not a habit they want to have set in. There's also concerns about their fifth bowling option. Zimbabwe did well to target both Mathews and Shanaka, who with their gentle medium pace leave themselves with little to no margin for error. Is there a case to be made for including a fifth genuine bowler? You'd think with three allround options, in Mathews, Shanaka and Hasaranga, in the XI that would be a conversation worth having."}, {"type": "HTML", "html": "Jongwe himself has had a tough time of it throughout the tour, with the Sri Lankan batters regularly targeting him for runs, but such match-turning efforts be it with bat or ball can do wondrous things in terms of overall confidence. Speaking after the game, both Jongwe and Raza also eluded to the fact that completing such a momentous chase had taken the proverbial monkey off their backs, so to speak. So does that mean we'll be seeing a more liberated Zimbabwe side today?"}, {"type": "HTML", "html": "So looking ahead to this game, well there's narratives aplenty. Angelo Mathews went from hero in game one, to an even more decorated hero at the halfway point in game two, before being suddenly and decisively brought crashing back to earth. And who better to do it than Luke Jongwe, the man for whom <a href=\"https://www.espncricinfo.com/story/zimbabwes-luke-jongwe-pastes-wallpaper-icon-angelo-mathews-sri-lanka-1416911\">Mathews was a genuine idol</a> growing up, yup <a href=\"https://www.facebook.com/photo/?fbid=570575189685122&set=a.105782222831090\">Facebook profile picture</a> and all!"}, {"type": "HTML", "html": "<B>6:15pm</b> Hello and welcome to our coverage of this final encounter of the T20I series between Sri Lanka and Zimbabwe, and if the previous games are anything to go by this should be yet another cracker! This is Madushka Balasuriya and I'll be your eyes and ears for the next couple of hours."}]<B>6.58pm</b> Alrighty then, the players are out in the middle. As expected it's Tinashe Kamunhukamwe and Craig Ervine to open. Angelo Mathews will open the bowling. Navod: "There are too many test type players in the Sri Lankan lineup. That's makes me uncomfortable as we are going to chase." <b>Pitch report:</b> "Usually when you play four games on the same pitch you have lots of cracks, but in this I don't see any cracks that have widened," says Farveez Maharoof. "This pitch is very hard. In Colombo if you usually play four games in 12 days, you'd see some scar marks. But this looks fantastic. After a long time the Premadasa has a produced a pitch with lots of runs in it. 140-150 for me, I'm going a little lower from 170 because the last couple of days the sun was beating down on it. The dew factor should also be considered." Joe: "Would like Danajaya de S to open the innings , he seems to score better when he bats in the top 3 position , can experiment anyway as the other batters have failed consistently" Dan Weston: "Just like Sikandar Raza I found the hospitality of Sri Lankans to be remarkable! A great place to visit." <B>6.45pm</b> While you wait for the start, a quick reminder that the Under-19 World Cup begins tomorrow. Here's Abhimanyu with the <a href="https://www.espncricinfo.com/story/under-19-world-cup-2024-faqs-all-you-need-to-know-about-the-tournament-1416865">perfect primer to get you up to speed</a>. Full teams can be found <a href="https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-3rd-t20i-1412544/match-playing-xi">here</a>. <B>Sikandar Raza</b> says the win on Tuesday "was a long time coming". Adds that he wanted to bat first anyway, as he thinks it's a slow wicket with some turn. One change for them with Ryan Burl out for Tony Munyonga. He also has some praise for the hospitality his side have received: "I've thoroughly enjoyed Sri Lanka and its people. I'm very grateful for the love the team has received and we will cherish these memories." <B>Wanindu Hasaranga</b> says the potential for dew is the primary reason for bowling first. Big blow for Sri Lanka though as <B>Charith Asalanka has been ruled out</b> with an illness. Kamindu Mendis will come in for him. Kusal Perera is also left out with Dhananjaya de Silva included in his place. <B>6.28pm</b> Time then for the toss...<B>Sri Lanka have won it and will bowl first!</B> And where does this leave Sri Lanka? Twice their top order has had to be bailed out by the likes of Asalanka, Mathews and Shanaka; it's not a habit they want to have set in. There's also concerns about their fifth bowling option. Zimbabwe did well to target both Mathews and Shanaka, who with their gentle medium pace leave themselves with little to no margin for error. Is there a case to be made for including a fifth genuine bowler? You'd think with three allround options, in Mathews, Shanaka and Hasaranga, in the XI that would be a conversation worth having. Jongwe himself has had a tough time of it throughout the tour, with the Sri Lankan batters regularly targeting him for runs, but such match-turning efforts be it with bat or ball can do wondrous things in terms of overall confidence. Speaking after the game, both Jongwe and Raza also eluded to the fact that completing such a momentous chase had taken the proverbial monkey off their backs, so to speak. So does that mean we'll be seeing a more liberated Zimbabwe side today? So looking ahead to this game, well there's narratives aplenty. Angelo Mathews went from hero in game one, to an even more decorated hero at the halfway point in game two, before being suddenly and decisively brought crashing back to earth. And who better to do it than Luke Jongwe, the man for whom <a href="https://www.espncricinfo.com/story/zimbabwes-luke-jongwe-pastes-wallpaper-icon-angelo-mathews-sri-lanka-1416911">Mathews was a genuine idol</a> growing up, yup <a href="https://www.facebook.com/photo/?fbid=570575189685122&set=a.105782222831090">Facebook profile picture</a> and all! <B>6:15pm</b> Hello and welcome to our coverage of this final encounter of the T20I series between Sri Lanka and Zimbabwe, and if the previous games are anything to go by this should be yet another cracker! This is Madushka Balasuriya and I'll be your eyes and ears for the next couple of hours.
+<B>6.58pm</b> Alrighty then, the players are out in the middle. As expected it's Tinashe Kamunhukamwe and Craig Ervine to open. Angelo Mathews will open the bowling. Navod: "There are too many test type players in the Sri Lankan lineup. That's makes me uncomfortable as we are going to chase." <b>Pitch report:</b> "Usually when you play four games on the same pitch you have lots of cracks, but in this I don't see any cracks that have widened," says Farveez Maharoof. "This pitch is very hard. In Colombo if you usually play four games in 12 days, you'd see some scar marks. But this looks fantastic. After a long time the Premadasa has a produced a pitch with lots of runs in it. 140-150 for me, I'm going a little lower from 170 because the last couple of days the sun was beating down on it. The dew factor should also be considered." Joe: "Would like Danajaya de S to open the innings , he seems to score better when he bats in the top 3 position , can experiment anyway as the other batters have failed consistently" Dan Weston: "Just like Sikandar Raza I found the hospitality of Sri Lankans to be remarkable! A great place to visit." <B>6.45pm</b> While you wait for the start, a quick reminder that the Under-19 World Cup begins tomorrow. Here's Abhimanyu with the <a href="https://www.espncricinfo.com/story/under-19-world-cup-2024-faqs-all-you-need-to-know-about-the-tournament-1416865">perfect primer to get you up to speed</a>. Full teams can be found <a href="https://www.espncricinfo.com/series/zimbabwe-in-sri-lanka-2023-24-1412536/sri-lanka-vs-zimbabwe-3rd-t20i-1412544/match-playing-xi">here</a>. <B>Sikandar Raza</b> says the win on Tuesday "was a long time coming". Adds that he wanted to bat first anyway, as he thinks it's a slow wicket with some turn. One change for them with Ryan Burl out for Tony Munyonga. He also has some praise for the hospitality his side have received: "I've thoroughly enjoyed Sri Lanka and its people. I'm very grateful for the love the team has received and we will cherish these memories." <B>Wanindu Hasaranga</b> says the potential for dew is the primary reason for bowling first. Big blow for Sri Lanka though as <B>Charith Asalanka has been ruled out</b> with an illness. Kamindu Mendis will come in for him. Kusal Perera is also left out with Dhananjaya de Silva included in his place. <B>6.28pm</b> Time then for the toss...<B>Sri Lanka have won it and will bowl first!</B> And where does this leave Sri Lanka? Twice their top order has had to be bailed out by the likes of Asalanka, Mathews and Shanaka; it's not a habit they want to have set in. There's also concerns about their fifth bowling option. Zimbabwe did well to target both Mathews and Shanaka, who with their gentle medium pace leave themselves with little to no margin for error. Is there a case to be made for including a fifth genuine bowler? You'd think with three allround options, in Mathews, Shanaka and Hasaranga, in the XI that would be a conversation worth having. Jongwe himself has had a tough time of it throughout the tour, with the Sri Lankan batters regularly targeting him for runs, but such match-turning efforts be it with bat or ball can do wondrous things in terms of overall confidence. Speaking after the game, both Jongwe and Raza also eluded to the fact that completing such a momentous chase had taken the proverbial monkey off their backs, so to speak. So does that mean we'll be seeing a more liberated Zimbabwe side today? So looking ahead to this game, well there's narratives aplenty. Angelo Mathews went from hero in game one, to an even more decorated hero at the halfway point in game two, before being suddenly and decisively brought crashing back to earth. And who better to do it than Luke Jongwe, the man for whom <a href="https://www.espncricinfo.com/story/zimbabwes-luke-jongwe-pastes-wallpaper-icon-angelo-mathews-sri-lanka-1416911">Mathews was a genuine idol</a> growing up, yup <a href="https://www.facebook.com/photo/?fbid=570575189685122&set=a.105782222831090">Facebook profile picture</a> and all! <B>6:15pm</b> Hello and welcome to our coverage of this final encounter of the T20I series between Sri Lanka and Zimbabwe, and if the previous games are anything to go by this should be yet another cracker! This is Madushka Balasuriya and I'll be your eyes and ears for the next couple of hours.
 
-[{"type": "HTML", "html": "Driven in the air! This was full and wide, shaping away. Cover is deep though so this was safe"}]Driven in the air! This was full and wide, shaping away. Cover is deep though so this was safe
+Driven in the air! This was full and wide, shaping away. Cover is deep though so this was safe
 
 
 Balls faced: 5
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Swing and a miss! This was full on middle and leg, Kamunhukamwe swings across the line and is struck on the back pad, but this was sliding down leg. They still sneak a run"}]Swing and a miss! This was full on middle and leg, Kamunhukamwe swings across the line and is struck on the back pad, but this was sliding down leg. They still sneak a run
+Swing and a miss! This was full on middle and leg, Kamunhukamwe swings across the line and is struck on the back pad, but this was sliding down leg. They still sneak a run
 
 Legbyes: 1
 Balls faced: 6
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length, 114kph, nudged to mid-on for one"}]good length, 114kph, nudged to mid-on for one
+good length, 114kph, nudged to mid-on for one
 
 
 Balls faced: 7
 Bowler: Madushanka
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looks to swipe across the line now, cops a blow in the midriff but the sneak a leg bye"}]looks to swipe across the line now, cops a blow in the midriff but the sneak a leg bye
+looks to swipe across the line now, cops a blow in the midriff but the sneak a leg bye
 
 Legbyes: 1
 Balls faced: 8
 Bowler: Madushanka
 Over: 2
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Madushanka now"}, {"type": "HTML", "html": "Azeem Buhary: \"@Madushka, May we know at what speed Mathews is bowling?\" --- between 115-120kph."}]Madushanka now Azeem Buhary: "@Madushka, May we know at what speed Mathews is bowling?" --- between 115-120kph.
+Madushanka now Azeem Buhary: "@Madushka, May we know at what speed Mathews is bowling?" --- between 115-120kph.
 
-[{"type": "HTML", "html": "Attacks him straight away and gets away with it! This was not full enough to drive, gets right underneath it and it goes high and over mid-on, who back peddles but can't get to it. Maybe he could have done better to get under it"}]Attacks him straight away and gets away with it! This was not full enough to drive, gets right underneath it and it goes high and over mid-on, who back peddles but can't get to it. Maybe he could have done better to get under it
+Attacks him straight away and gets away with it! This was not full enough to drive, gets right underneath it and it goes high and over mid-on, who back peddles but can't get to it. Maybe he could have done better to get under it
 
 
 Balls faced: 9
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "GC: \"Bennett has done his job \"four\" Zimbabwe. Other batsmen have to build on that foundation. \""}]GC: "Bennett has done his job "four" Zimbabwe. Other batsmen have to build on that foundation. "
+GC: "Bennett has done his job "four" Zimbabwe. Other batsmen have to build on that foundation. "
 
-[{"type": "HTML", "html": "good length on off, Kamunhukamwe makes room to go over the offside but ends up just knocking this back towards Theekshana"}]good length on off, Kamunhukamwe makes room to go over the offside but ends up just knocking this back towards Theekshana
+good length on off, Kamunhukamwe makes room to go over the offside but ends up just knocking this back towards Theekshana
 
 
 Balls faced: 10
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Driven down to wide long-off now"}]Driven down to wide long-off now
+Driven down to wide long-off now
 
 
 Balls faced: 11
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Theekshana now"}]Theekshana now
+Theekshana now
 
-[{"type": "HTML", "html": "full just outside off, gets on one knee and drives this square but only as far as backward point"}]full just outside off, gets on one knee and drives this square but only as far as backward point
+full just outside off, gets on one knee and drives this square but only as far as backward point
 
 
 Balls faced: 12
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Swing and a miss! This was full on middle and leg, Kamunhukamwe swings across the line and is struck on the back pad, but this was sliding down leg. They still sneak a run"}]Swing and a miss! This was full on middle and leg, Kamunhukamwe swings across the line and is struck on the back pad, but this was sliding down leg. They still sneak a run
+Swing and a miss! This was full on middle and leg, Kamunhukamwe swings across the line and is struck on the back pad, but this was sliding down leg. They still sneak a run
 
 Legbyes: 1
 Balls faced: 13
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length, 114kph, nudged to mid-on for one"}]good length, 114kph, nudged to mid-on for one
+good length, 114kph, nudged to mid-on for one
 
 
 Balls faced: 14
 Bowler: Chameera
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Again on a good length, 145kph, driven to mid-off for one"}]Again on a good length, 145kph, driven to mid-off for one
+Again on a good length, 145kph, driven to mid-off for one
 
 
 Balls faced: 15
 Bowler: Chameera
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Play and miss! Good length just outside off, Kamunhukamwe gets low to try and cut this but misses"}]Play and miss! Good length just outside off, Kamunhukamwe gets low to try and cut this but misses
+Play and miss! Good length just outside off, Kamunhukamwe gets low to try and cut this but misses
 
 
 Balls faced: 16
 Bowler: Chameera
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on off, stays back and runs this down to third man"}]back of a length on off, stays back and runs this down to third man
+back of a length on off, stays back and runs this down to third man
 
 
 Balls faced: 17
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "GC: \"Bennett has done his job \"four\" Zimbabwe. Other batsmen have to build on that foundation. \""}]GC: "Bennett has done his job "four" Zimbabwe. Other batsmen have to build on that foundation. "
+GC: "Bennett has done his job "four" Zimbabwe. Other batsmen have to build on that foundation. "
 
-[{"type": "HTML", "html": "good length on off, Kamunhukamwe makes room to go over the offside but ends up just knocking this back towards Theekshana"}]good length on off, Kamunhukamwe makes room to go over the offside but ends up just knocking this back towards Theekshana
+good length on off, Kamunhukamwe makes room to go over the offside but ends up just knocking this back towards Theekshana
 
 
 Balls faced: 18
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Driven down to wide long-off now"}]Driven down to wide long-off now
+Driven down to wide long-off now
 
 
 Balls faced: 19
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Theekshana now"}]Theekshana now
+Theekshana now
 
-[{"type": "HTML", "html": "full just outside off, gets on one knee and drives this square but only as far as backward point"}]full just outside off, gets on one knee and drives this square but only as far as backward point
+full just outside off, gets on one knee and drives this square but only as far as backward point
 
 
 Balls faced: 20
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>The faintest of nicks sees the back of Kamunhukamwe!</b> Huge appeal for caught behind, but not given! Theekshana is certain though, and he immediately asks his skipper for a <b>review</b> This was a good length just outside off, Kamunhukamwe looks to cut it and yes Ultra Edge shows that this has just nicked the toe-end of the bat!"}]<B>The faintest of nicks sees the back of Kamunhukamwe!</b> Huge appeal for caught behind, but not given! Theekshana is certain though, and he immediately asks his skipper for a <b>review</b> This was a good length just outside off, Kamunhukamwe looks to cut it and yes Ultra Edge shows that this has just nicked the toe-end of the bat!
+TS Kamunhukamwe is OUT! caught
+c †Mendis b Theekshana
+Tinashe Kamunhukamwe c †Mendis b Theekshana 12 (14b 1x4 0x6 26m) SR: 85.71
+<B>The faintest of nicks sees the back of Kamunhukamwe!</b> Huge appeal for caught behind, but not given! Theekshana is certain though, and he immediately asks his skipper for a <b>review</b> This was a good length just outside off, Kamunhukamwe looks to cut it and yes Ultra Edge shows that this has just nicked the toe-end of the bat!
 
 
 Balls faced: 21
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "push and run to mid-off now. Good cricket, keeping the Lankans on their toes. <B>50 up for Zimbabwe</b>"}]push and run to mid-off now. Good cricket, keeping the Lankans on their toes. <B>50 up for Zimbabwe</b>
+push and run to mid-off now. Good cricket, keeping the Lankans on their toes. <B>50 up for Zimbabwe</b>
 
 
 Balls faced: 22
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Last over of the powerplay"}]Last over of the powerplay
+Last over of the powerplay
 
-[{"type": "HTML", "html": "Slapped down the ground and over Theekshana!</b> This was full on off, Kamunhukamwe gets on one knee and gets under this nicely"}]Slapped down the ground and over Theekshana!</b> This was full on off, Kamunhukamwe gets on one knee and gets under this nicely
+Slapped down the ground and over Theekshana!</b> This was full on off, Kamunhukamwe gets on one knee and gets under this nicely
 
 
 Balls faced: 23
 Bowler: Chameera
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Again on a good length, 145kph, driven to mid-off for one"}]Again on a good length, 145kph, driven to mid-off for one
+Again on a good length, 145kph, driven to mid-off for one
 
 
 Balls faced: 24
 Bowler: Chameera
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Play and miss! Good length just outside off, Kamunhukamwe gets low to try and cut this but misses"}]Play and miss! Good length just outside off, Kamunhukamwe gets low to try and cut this but misses
+Play and miss! Good length just outside off, Kamunhukamwe gets low to try and cut this but misses
 
 
 Balls faced: 25
 Bowler: Chameera
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on off, stays back and runs this down to third man"}]back of a length on off, stays back and runs this down to third man
+back of a length on off, stays back and runs this down to third man
 
 
 Balls faced: 26
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>The faintest of nicks sees the back of Kamunhukamwe!</b> Huge appeal for caught behind, but not given! Theekshana is certain though, and he immediately asks his skipper for a <b>review</b> This was a good length just outside off, Kamunhukamwe looks to cut it and yes Ultra Edge shows that this has just nicked the toe-end of the bat!"}]<B>The faintest of nicks sees the back of Kamunhukamwe!</b> Huge appeal for caught behind, but not given! Theekshana is certain though, and he immediately asks his skipper for a <b>review</b> This was a good length just outside off, Kamunhukamwe looks to cut it and yes Ultra Edge shows that this has just nicked the toe-end of the bat!
+TS Kamunhukamwe is OUT! caught
+c †Mendis b Theekshana
+Tinashe Kamunhukamwe c †Mendis b Theekshana 12 (14b 1x4 0x6 26m) SR: 85.71
+<B>The faintest of nicks sees the back of Kamunhukamwe!</b> Huge appeal for caught behind, but not given! Theekshana is certain though, and he immediately asks his skipper for a <b>review</b> This was a good length just outside off, Kamunhukamwe looks to cut it and yes Ultra Edge shows that this has just nicked the toe-end of the bat!
 
 
 Balls faced: 27
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "push and run to mid-off now. Good cricket, keeping the Lankans on their toes. <B>50 up for Zimbabwe</b>"}]push and run to mid-off now. Good cricket, keeping the Lankans on their toes. <B>50 up for Zimbabwe</b>
+push and run to mid-off now. Good cricket, keeping the Lankans on their toes. <B>50 up for Zimbabwe</b>
 
 
 Balls faced: 28
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Last over of the powerplay"}]Last over of the powerplay
+Last over of the powerplay
 
-[{"type": "HTML", "html": "Slapped down the ground and over Theekshana!</b> This was full on off, Kamunhukamwe gets on one knee and gets under this nicely"}]Slapped down the ground and over Theekshana!</b> This was full on off, Kamunhukamwe gets on one knee and gets under this nicely
+Slapped down the ground and over Theekshana!</b> This was full on off, Kamunhukamwe gets on one knee and gets under this nicely

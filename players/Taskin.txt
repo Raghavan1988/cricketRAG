@@ -2,21 +2,27 @@ Match: all_games_1411166_1415715.json
 Balls faced: 1
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "CJay: \"Surely Matthews and Shanakar get the last two overs\" - has to be them! Anyway, here's Taskin Ahmed"}]CJay: "Surely Matthews and Shanakar get the last two overs" - has to be them! Anyway, here's Taskin Ahmed
-
-[{"type": "HTML", "html": "Huge appeal as a very full delivery hits Taskin on the foot. Or did he get bat on that? Not given out, but Sri Lanka review. Wait, that's hit Taskin full on the toe. Brilliant yorker. Pitching on leg and that's hitting the stumps! Sri Lanka have two in two, and suddenly, this game has turned on its head!"}]Huge appeal as a very full delivery hits Taskin on the foot. Or did he get bat on that? Not given out, but Sri Lanka review. Wait, that's hit Taskin full on the toe. Brilliant yorker. Pitching on leg and that's hitting the stumps! Sri Lanka have two in two, and suddenly, this game has turned on its head!
+CJay: "Surely Matthews and Shanakar get the last two overs" - has to be them! Anyway, here's Taskin Ahmed
+Taskin is OUT! lbw
+lbw b Thushara
+Taskin Ahmed lbw b Thushara 0 (1b 0x4 0x6 1m) SR: 0
+Huge appeal as a very full delivery hits Taskin on the foot. Or did he get bat on that? Not given out, but Sri Lanka review. Wait, that's hit Taskin full on the toe. Brilliant yorker. Pitching on leg and that's hitting the stumps! Sri Lanka have two in two, and suddenly, this game has turned on its head!
 
 
 Balls faced: 2
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "CJay: \"Surely Matthews and Shanakar get the last two overs\" - has to be them! Anyway, here's Taskin Ahmed"}]CJay: "Surely Matthews and Shanakar get the last two overs" - has to be them! Anyway, here's Taskin Ahmed
-
-[{"type": "HTML", "html": "Huge appeal as a very full delivery hits Taskin on the foot. Or did he get bat on that? Not given out, but Sri Lanka review. Wait, that's hit Taskin full on the toe. Brilliant yorker. Pitching on leg and that's hitting the stumps! Sri Lanka have two in two, and suddenly, this game has turned on its head!"}]Huge appeal as a very full delivery hits Taskin on the foot. Or did he get bat on that? Not given out, but Sri Lanka review. Wait, that's hit Taskin full on the toe. Brilliant yorker. Pitching on leg and that's hitting the stumps! Sri Lanka have two in two, and suddenly, this game has turned on its head!
+CJay: "Surely Matthews and Shanakar get the last two overs" - has to be them! Anyway, here's Taskin Ahmed
+Taskin is OUT! lbw
+lbw b Thushara
+Taskin Ahmed lbw b Thushara 0 (1b 0x4 0x6 1m) SR: 0
+Huge appeal as a very full delivery hits Taskin on the foot. Or did he get bat on that? Not given out, but Sri Lanka review. Wait, that's hit Taskin full on the toe. Brilliant yorker. Pitching on leg and that's hitting the stumps! Sri Lanka have two in two, and suddenly, this game has turned on its head!
 
 
 
@@ -24,363 +30,399 @@ Match: all_games_1411166_1415721.json
 Balls faced: 1
 Bowler: Maharaj
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Taskin, at No. 9, has to hit his first, most likely only, ball out of the ground"}]Taskin, at No. 9, has to hit his first, most likely only, ball out of the ground
+Taskin, at No. 9, has to hit his first, most likely only, ball out of the ground
 
-[{"type": "HTML", "html": "<strong>High full toss, will it be a no-ball? No, and Maharaj's praying. His prayers have been answered, in fact, as SA sneak a four-run win</strong> It was wide and he tried to heave it across the line. The line was outside off and he couldn't drag it, spliced it to cover and the celebrations followed."}]<strong>High full toss, will it be a no-ball? No, and Maharaj's praying. His prayers have been answered, in fact, as SA sneak a four-run win</strong> It was wide and he tried to heave it across the line. The line was outside off and he couldn't drag it, spliced it to cover and the celebrations followed.
-[{"type": "HTML", "html": "Whatever the discourse around the New York pitch is, it sure is producing thrillers on tap. One umpiring decision might push some attention aside but the call can be lived with, as Shanto showed during the presentation. South Africa fans can rejoice that they're winning games defending totals and while chasing. Just two more games remaining in New York, and they'll be tomorrow and day after. Two night games tomorrow as well. Hope to see you as we Matt Stonie our way through the tournament. For now, it's goodbye from me, Ekanth, my co-commentator, Himanshu Agrawal, and our scorers, Chandan Duorah and M Venkat Raghav."}, {"type": "HTML", "html": "<b>Aiden Markram, South Africa captain</b>: You're always pretty nervous in the final over in a game like that. It was always on a knife's edge, it can make you mentally tired. It's always nice to be in them though. Sometimes you get on the right side, sometimes not, but it's very entertaining. 19.5 (full toss) could've gone anywhere, could've gone two more metres further and we'd have had a different conversation. Like I mentioned, a few things went our way today, very fortunate on that to get on the right side. (Will Maharaj bowl the 20th over again) Depends on the situation, you want to drag the game as long as you can, so you use quicks to attack. Today was one of those days where the seamers were bowling well, we wanted to drag it to the end where anything could happen in the last over. We're putting Klaasen and Miller under pressure but they've been exceptional. They've gone back-to-back with crucial partnerships, got us to a score that's luckily enough to win but still one we could defend. Fantastic for Klaasy to get back in form."}, {"type": "HTML", "html": "<strong>Najmul Hossain Shanto, Bangladesh captain</strong>: Everyone was nervous, but were confident when Jaker was there. It didn't happen but that's okay. Tanzid really worked hard last couple of games, we needed new-ball wickets and he showed his character. This is the match we should have won, we nearly did but the last couple of overs they bowled well. It can happen in cricket. Rishad is very good, he's bowled well in the last two games and in practice. We've struggled with legspin in 10-15 years but hope he goes far. Wherever we play, we get a lot of support. Hope it's the same in the West Indies."}, {"type": "HTML", "html": "<strong>Heinrich Klaasen, POTM</strong> (On the finish) <i>Laughs</i> It was not so nice on the heart but glad to go over the line. The wicket is not great for strokeplay but David showed in the previous game how to bat on this wicket. Got info from him. We got a decent score but were 10 runs short. We got experience and more or less a one-day mindset till the 15-over mark. Hopefully we could've pushed on but not. Win will give big confidence for the boys, we've had three pressurised games now. We're through which is nice. One more to go and then onto the next phase."}, {"type": "HTML", "html": "Mak: \"A neck to neck game decided by strange rule. Horrible example!\" Horrible is a bit harsh but the frustration is understandable."}, {"type": "HTML", "html": "Rahul: \"ICC... Please conduct Test championship finals in this NY pitch...\""}, {"type": "HTML", "html": "Stat from Sampath - Lowest target a full-member team failed to chase in men's T20Is (full 20-over game)"}, {"type": "HTML", "html": "102 - ZIM vs NAM, Windhoek 2023"}, {"type": "HTML", "html": "106 - WI\tvs ZIM, Port of Spain 2010"}, {"type": "HTML", "html": "114 - ENG vs WI, The Oval\t2011"}, {"type": "HTML", "html": "114 - BAN vs SA, New York 2024"}, {"type": "HTML", "html": "116 - SL vs SA, Colombo (RPS) 2013"}, {"type": "HTML", "html": "South Africa's new-ball bowlers weren't on the mark"}, {"type": "HTML", "html": "Anyway, South Africa were almost out of it, because of that ball and the penultimate ball, which should've gone out the ground. But Mahmudullah couldn't middle the full toss and Markram, cool as ever at long-on, took the match-sealing catch. The rest of the innings was as scrappy as expected on a tough deck. Bangladesh tried to be proactive wherever possible, stay in the game and finish it off. Of course, no one could score big or at a lightning pace but Hridoy and Mahmudullah almost took them through. Hridoy was a bit unlucky to get lbw in the 18th over, that went for just two runs, along with Mahmudullah, who fell on 19.5."}, {"type": "HTML", "html": "<strong>2:01pm</strong> Oh boy, those non leg-byes. They could be worth a 1000. <strong>The fact is 16.2 was given out lbw, the decision was overturned, Bangladesh have never beaten South Africa in a T20I (streak is now 9-0) and in the end South Africa have all but qualified for the next round</strong>. Apparently, it's not a mathematical guarantee yet, but Nepal will have to win all thee, including games against against SA and Bangladesh, to get through. Netherlands, too can get to six, but need to beat Sri Lanka and Bangladesh for it."}]Whatever the discourse around the New York pitch is, it sure is producing thrillers on tap. One umpiring decision might push some attention aside but the call can be lived with, as Shanto showed during the presentation. South Africa fans can rejoice that they're winning games defending totals and while chasing. Just two more games remaining in New York, and they'll be tomorrow and day after. Two night games tomorrow as well. Hope to see you as we Matt Stonie our way through the tournament. For now, it's goodbye from me, Ekanth, my co-commentator, Himanshu Agrawal, and our scorers, Chandan Duorah and M Venkat Raghav. <b>Aiden Markram, South Africa captain</b>: You're always pretty nervous in the final over in a game like that. It was always on a knife's edge, it can make you mentally tired. It's always nice to be in them though. Sometimes you get on the right side, sometimes not, but it's very entertaining. 19.5 (full toss) could've gone anywhere, could've gone two more metres further and we'd have had a different conversation. Like I mentioned, a few things went our way today, very fortunate on that to get on the right side. (Will Maharaj bowl the 20th over again) Depends on the situation, you want to drag the game as long as you can, so you use quicks to attack. Today was one of those days where the seamers were bowling well, we wanted to drag it to the end where anything could happen in the last over. We're putting Klaasen and Miller under pressure but they've been exceptional. They've gone back-to-back with crucial partnerships, got us to a score that's luckily enough to win but still one we could defend. Fantastic for Klaasy to get back in form. <strong>Najmul Hossain Shanto, Bangladesh captain</strong>: Everyone was nervous, but were confident when Jaker was there. It didn't happen but that's okay. Tanzid really worked hard last couple of games, we needed new-ball wickets and he showed his character. This is the match we should have won, we nearly did but the last couple of overs they bowled well. It can happen in cricket. Rishad is very good, he's bowled well in the last two games and in practice. We've struggled with legspin in 10-15 years but hope he goes far. Wherever we play, we get a lot of support. Hope it's the same in the West Indies. <strong>Heinrich Klaasen, POTM</strong> (On the finish) <i>Laughs</i> It was not so nice on the heart but glad to go over the line. The wicket is not great for strokeplay but David showed in the previous game how to bat on this wicket. Got info from him. We got a decent score but were 10 runs short. We got experience and more or less a one-day mindset till the 15-over mark. Hopefully we could've pushed on but not. Win will give big confidence for the boys, we've had three pressurised games now. We're through which is nice. One more to go and then onto the next phase. Mak: "A neck to neck game decided by strange rule. Horrible example!" Horrible is a bit harsh but the frustration is understandable. Rahul: "ICC... Please conduct Test championship finals in this NY pitch..." Stat from Sampath - Lowest target a full-member team failed to chase in men's T20Is (full 20-over game) 102 - ZIM vs NAM, Windhoek 2023 106 - WI	vs ZIM, Port of Spain 2010 114 - ENG vs WI, The Oval	2011 114 - BAN vs SA, New York 2024 116 - SL vs SA, Colombo (RPS) 2013 South Africa's new-ball bowlers weren't on the mark Anyway, South Africa were almost out of it, because of that ball and the penultimate ball, which should've gone out the ground. But Mahmudullah couldn't middle the full toss and Markram, cool as ever at long-on, took the match-sealing catch. The rest of the innings was as scrappy as expected on a tough deck. Bangladesh tried to be proactive wherever possible, stay in the game and finish it off. Of course, no one could score big or at a lightning pace but Hridoy and Mahmudullah almost took them through. Hridoy was a bit unlucky to get lbw in the 18th over, that went for just two runs, along with Mahmudullah, who fell on 19.5. <strong>2:01pm</strong> Oh boy, those non leg-byes. They could be worth a 1000. <strong>The fact is 16.2 was given out lbw, the decision was overturned, Bangladesh have never beaten South Africa in a T20I (streak is now 9-0) and in the end South Africa have all but qualified for the next round</strong>. Apparently, it's not a mathematical guarantee yet, but Nepal will have to win all thee, including games against against SA and Bangladesh, to get through. Netherlands, too can get to six, but need to beat Sri Lanka and Bangladesh for it.
+<strong>High full toss, will it be a no-ball? No, and Maharaj's praying. His prayers have been answered, in fact, as SA sneak a four-run win</strong> It was wide and he tried to heave it across the line. The line was outside off and he couldn't drag it, spliced it to cover and the celebrations followed.
+Whatever the discourse around the New York pitch is, it sure is producing thrillers on tap. One umpiring decision might push some attention aside but the call can be lived with, as Shanto showed during the presentation. South Africa fans can rejoice that they're winning games defending totals and while chasing. Just two more games remaining in New York, and they'll be tomorrow and day after. Two night games tomorrow as well. Hope to see you as we Matt Stonie our way through the tournament. For now, it's goodbye from me, Ekanth, my co-commentator, Himanshu Agrawal, and our scorers, Chandan Duorah and M Venkat Raghav. <b>Aiden Markram, South Africa captain</b>: You're always pretty nervous in the final over in a game like that. It was always on a knife's edge, it can make you mentally tired. It's always nice to be in them though. Sometimes you get on the right side, sometimes not, but it's very entertaining. 19.5 (full toss) could've gone anywhere, could've gone two more metres further and we'd have had a different conversation. Like I mentioned, a few things went our way today, very fortunate on that to get on the right side. (Will Maharaj bowl the 20th over again) Depends on the situation, you want to drag the game as long as you can, so you use quicks to attack. Today was one of those days where the seamers were bowling well, we wanted to drag it to the end where anything could happen in the last over. We're putting Klaasen and Miller under pressure but they've been exceptional. They've gone back-to-back with crucial partnerships, got us to a score that's luckily enough to win but still one we could defend. Fantastic for Klaasy to get back in form. <strong>Najmul Hossain Shanto, Bangladesh captain</strong>: Everyone was nervous, but were confident when Jaker was there. It didn't happen but that's okay. Tanzid really worked hard last couple of games, we needed new-ball wickets and he showed his character. This is the match we should have won, we nearly did but the last couple of overs they bowled well. It can happen in cricket. Rishad is very good, he's bowled well in the last two games and in practice. We've struggled with legspin in 10-15 years but hope he goes far. Wherever we play, we get a lot of support. Hope it's the same in the West Indies. <strong>Heinrich Klaasen, POTM</strong> (On the finish) <i>Laughs</i> It was not so nice on the heart but glad to go over the line. The wicket is not great for strokeplay but David showed in the previous game how to bat on this wicket. Got info from him. We got a decent score but were 10 runs short. We got experience and more or less a one-day mindset till the 15-over mark. Hopefully we could've pushed on but not. Win will give big confidence for the boys, we've had three pressurised games now. We're through which is nice. One more to go and then onto the next phase. Mak: "A neck to neck game decided by strange rule. Horrible example!" Horrible is a bit harsh but the frustration is understandable. Rahul: "ICC... Please conduct Test championship finals in this NY pitch..." Stat from Sampath - Lowest target a full-member team failed to chase in men's T20Is (full 20-over game) 102 - ZIM vs NAM, Windhoek 2023 106 - WI	vs ZIM, Port of Spain 2010 114 - ENG vs WI, The Oval	2011 114 - BAN vs SA, New York 2024 116 - SL vs SA, Colombo (RPS) 2013 South Africa's new-ball bowlers weren't on the mark Anyway, South Africa were almost out of it, because of that ball and the penultimate ball, which should've gone out the ground. But Mahmudullah couldn't middle the full toss and Markram, cool as ever at long-on, took the match-sealing catch. The rest of the innings was as scrappy as expected on a tough deck. Bangladesh tried to be proactive wherever possible, stay in the game and finish it off. Of course, no one could score big or at a lightning pace but Hridoy and Mahmudullah almost took them through. Hridoy was a bit unlucky to get lbw in the 18th over, that went for just two runs, along with Mahmudullah, who fell on 19.5. <strong>2:01pm</strong> Oh boy, those non leg-byes. They could be worth a 1000. <strong>The fact is 16.2 was given out lbw, the decision was overturned, Bangladesh have never beaten South Africa in a T20I (streak is now 9-0) and in the end South Africa have all but qualified for the next round</strong>. Apparently, it's not a mathematical guarantee yet, but Nepal will have to win all thee, including games against against SA and Bangladesh, to get through. Netherlands, too can get to six, but need to beat Sri Lanka and Bangladesh for it.
 
 Balls faced: 2
 Bowler: Maharaj
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Taskin, at No. 9, has to hit his first, most likely only, ball out of the ground"}]Taskin, at No. 9, has to hit his first, most likely only, ball out of the ground
+Taskin, at No. 9, has to hit his first, most likely only, ball out of the ground
 
-[{"type": "HTML", "html": "<strong>High full toss, will it be a no-ball? No, and Maharaj's praying. His prayers have been answered, in fact, as SA sneak a four-run win</strong> It was wide and he tried to heave it across the line. The line was outside off and he couldn't drag it, spliced it to cover and the celebrations followed."}]<strong>High full toss, will it be a no-ball? No, and Maharaj's praying. His prayers have been answered, in fact, as SA sneak a four-run win</strong> It was wide and he tried to heave it across the line. The line was outside off and he couldn't drag it, spliced it to cover and the celebrations followed.
-[{"type": "HTML", "html": "Whatever the discourse around the New York pitch is, it sure is producing thrillers on tap. One umpiring decision might push some attention aside but the call can be lived with, as Shanto showed during the presentation. South Africa fans can rejoice that they're winning games defending totals and while chasing. Just two more games remaining in New York, and they'll be tomorrow and day after. Two night games tomorrow as well. Hope to see you as we Matt Stonie our way through the tournament. For now, it's goodbye from me, Ekanth, my co-commentator, Himanshu Agrawal, and our scorers, Chandan Duorah and M Venkat Raghav."}, {"type": "HTML", "html": "<b>Aiden Markram, South Africa captain</b>: You're always pretty nervous in the final over in a game like that. It was always on a knife's edge, it can make you mentally tired. It's always nice to be in them though. Sometimes you get on the right side, sometimes not, but it's very entertaining. 19.5 (full toss) could've gone anywhere, could've gone two more metres further and we'd have had a different conversation. Like I mentioned, a few things went our way today, very fortunate on that to get on the right side. (Will Maharaj bowl the 20th over again) Depends on the situation, you want to drag the game as long as you can, so you use quicks to attack. Today was one of those days where the seamers were bowling well, we wanted to drag it to the end where anything could happen in the last over. We're putting Klaasen and Miller under pressure but they've been exceptional. They've gone back-to-back with crucial partnerships, got us to a score that's luckily enough to win but still one we could defend. Fantastic for Klaasy to get back in form."}, {"type": "HTML", "html": "<strong>Najmul Hossain Shanto, Bangladesh captain</strong>: Everyone was nervous, but were confident when Jaker was there. It didn't happen but that's okay. Tanzid really worked hard last couple of games, we needed new-ball wickets and he showed his character. This is the match we should have won, we nearly did but the last couple of overs they bowled well. It can happen in cricket. Rishad is very good, he's bowled well in the last two games and in practice. We've struggled with legspin in 10-15 years but hope he goes far. Wherever we play, we get a lot of support. Hope it's the same in the West Indies."}, {"type": "HTML", "html": "<strong>Heinrich Klaasen, POTM</strong> (On the finish) <i>Laughs</i> It was not so nice on the heart but glad to go over the line. The wicket is not great for strokeplay but David showed in the previous game how to bat on this wicket. Got info from him. We got a decent score but were 10 runs short. We got experience and more or less a one-day mindset till the 15-over mark. Hopefully we could've pushed on but not. Win will give big confidence for the boys, we've had three pressurised games now. We're through which is nice. One more to go and then onto the next phase."}, {"type": "HTML", "html": "Mak: \"A neck to neck game decided by strange rule. Horrible example!\" Horrible is a bit harsh but the frustration is understandable."}, {"type": "HTML", "html": "Rahul: \"ICC... Please conduct Test championship finals in this NY pitch...\""}, {"type": "HTML", "html": "Stat from Sampath - Lowest target a full-member team failed to chase in men's T20Is (full 20-over game)"}, {"type": "HTML", "html": "102 - ZIM vs NAM, Windhoek 2023"}, {"type": "HTML", "html": "106 - WI\tvs ZIM, Port of Spain 2010"}, {"type": "HTML", "html": "114 - ENG vs WI, The Oval\t2011"}, {"type": "HTML", "html": "114 - BAN vs SA, New York 2024"}, {"type": "HTML", "html": "116 - SL vs SA, Colombo (RPS) 2013"}, {"type": "HTML", "html": "South Africa's new-ball bowlers weren't on the mark"}, {"type": "HTML", "html": "Anyway, South Africa were almost out of it, because of that ball and the penultimate ball, which should've gone out the ground. But Mahmudullah couldn't middle the full toss and Markram, cool as ever at long-on, took the match-sealing catch. The rest of the innings was as scrappy as expected on a tough deck. Bangladesh tried to be proactive wherever possible, stay in the game and finish it off. Of course, no one could score big or at a lightning pace but Hridoy and Mahmudullah almost took them through. Hridoy was a bit unlucky to get lbw in the 18th over, that went for just two runs, along with Mahmudullah, who fell on 19.5."}, {"type": "HTML", "html": "<strong>2:01pm</strong> Oh boy, those non leg-byes. They could be worth a 1000. <strong>The fact is 16.2 was given out lbw, the decision was overturned, Bangladesh have never beaten South Africa in a T20I (streak is now 9-0) and in the end South Africa have all but qualified for the next round</strong>. Apparently, it's not a mathematical guarantee yet, but Nepal will have to win all thee, including games against against SA and Bangladesh, to get through. Netherlands, too can get to six, but need to beat Sri Lanka and Bangladesh for it."}]Whatever the discourse around the New York pitch is, it sure is producing thrillers on tap. One umpiring decision might push some attention aside but the call can be lived with, as Shanto showed during the presentation. South Africa fans can rejoice that they're winning games defending totals and while chasing. Just two more games remaining in New York, and they'll be tomorrow and day after. Two night games tomorrow as well. Hope to see you as we Matt Stonie our way through the tournament. For now, it's goodbye from me, Ekanth, my co-commentator, Himanshu Agrawal, and our scorers, Chandan Duorah and M Venkat Raghav. <b>Aiden Markram, South Africa captain</b>: You're always pretty nervous in the final over in a game like that. It was always on a knife's edge, it can make you mentally tired. It's always nice to be in them though. Sometimes you get on the right side, sometimes not, but it's very entertaining. 19.5 (full toss) could've gone anywhere, could've gone two more metres further and we'd have had a different conversation. Like I mentioned, a few things went our way today, very fortunate on that to get on the right side. (Will Maharaj bowl the 20th over again) Depends on the situation, you want to drag the game as long as you can, so you use quicks to attack. Today was one of those days where the seamers were bowling well, we wanted to drag it to the end where anything could happen in the last over. We're putting Klaasen and Miller under pressure but they've been exceptional. They've gone back-to-back with crucial partnerships, got us to a score that's luckily enough to win but still one we could defend. Fantastic for Klaasy to get back in form. <strong>Najmul Hossain Shanto, Bangladesh captain</strong>: Everyone was nervous, but were confident when Jaker was there. It didn't happen but that's okay. Tanzid really worked hard last couple of games, we needed new-ball wickets and he showed his character. This is the match we should have won, we nearly did but the last couple of overs they bowled well. It can happen in cricket. Rishad is very good, he's bowled well in the last two games and in practice. We've struggled with legspin in 10-15 years but hope he goes far. Wherever we play, we get a lot of support. Hope it's the same in the West Indies. <strong>Heinrich Klaasen, POTM</strong> (On the finish) <i>Laughs</i> It was not so nice on the heart but glad to go over the line. The wicket is not great for strokeplay but David showed in the previous game how to bat on this wicket. Got info from him. We got a decent score but were 10 runs short. We got experience and more or less a one-day mindset till the 15-over mark. Hopefully we could've pushed on but not. Win will give big confidence for the boys, we've had three pressurised games now. We're through which is nice. One more to go and then onto the next phase. Mak: "A neck to neck game decided by strange rule. Horrible example!" Horrible is a bit harsh but the frustration is understandable. Rahul: "ICC... Please conduct Test championship finals in this NY pitch..." Stat from Sampath - Lowest target a full-member team failed to chase in men's T20Is (full 20-over game) 102 - ZIM vs NAM, Windhoek 2023 106 - WI	vs ZIM, Port of Spain 2010 114 - ENG vs WI, The Oval	2011 114 - BAN vs SA, New York 2024 116 - SL vs SA, Colombo (RPS) 2013 South Africa's new-ball bowlers weren't on the mark Anyway, South Africa were almost out of it, because of that ball and the penultimate ball, which should've gone out the ground. But Mahmudullah couldn't middle the full toss and Markram, cool as ever at long-on, took the match-sealing catch. The rest of the innings was as scrappy as expected on a tough deck. Bangladesh tried to be proactive wherever possible, stay in the game and finish it off. Of course, no one could score big or at a lightning pace but Hridoy and Mahmudullah almost took them through. Hridoy was a bit unlucky to get lbw in the 18th over, that went for just two runs, along with Mahmudullah, who fell on 19.5. <strong>2:01pm</strong> Oh boy, those non leg-byes. They could be worth a 1000. <strong>The fact is 16.2 was given out lbw, the decision was overturned, Bangladesh have never beaten South Africa in a T20I (streak is now 9-0) and in the end South Africa have all but qualified for the next round</strong>. Apparently, it's not a mathematical guarantee yet, but Nepal will have to win all thee, including games against against SA and Bangladesh, to get through. Netherlands, too can get to six, but need to beat Sri Lanka and Bangladesh for it.
+<strong>High full toss, will it be a no-ball? No, and Maharaj's praying. His prayers have been answered, in fact, as SA sneak a four-run win</strong> It was wide and he tried to heave it across the line. The line was outside off and he couldn't drag it, spliced it to cover and the celebrations followed.
+Whatever the discourse around the New York pitch is, it sure is producing thrillers on tap. One umpiring decision might push some attention aside but the call can be lived with, as Shanto showed during the presentation. South Africa fans can rejoice that they're winning games defending totals and while chasing. Just two more games remaining in New York, and they'll be tomorrow and day after. Two night games tomorrow as well. Hope to see you as we Matt Stonie our way through the tournament. For now, it's goodbye from me, Ekanth, my co-commentator, Himanshu Agrawal, and our scorers, Chandan Duorah and M Venkat Raghav. <b>Aiden Markram, South Africa captain</b>: You're always pretty nervous in the final over in a game like that. It was always on a knife's edge, it can make you mentally tired. It's always nice to be in them though. Sometimes you get on the right side, sometimes not, but it's very entertaining. 19.5 (full toss) could've gone anywhere, could've gone two more metres further and we'd have had a different conversation. Like I mentioned, a few things went our way today, very fortunate on that to get on the right side. (Will Maharaj bowl the 20th over again) Depends on the situation, you want to drag the game as long as you can, so you use quicks to attack. Today was one of those days where the seamers were bowling well, we wanted to drag it to the end where anything could happen in the last over. We're putting Klaasen and Miller under pressure but they've been exceptional. They've gone back-to-back with crucial partnerships, got us to a score that's luckily enough to win but still one we could defend. Fantastic for Klaasy to get back in form. <strong>Najmul Hossain Shanto, Bangladesh captain</strong>: Everyone was nervous, but were confident when Jaker was there. It didn't happen but that's okay. Tanzid really worked hard last couple of games, we needed new-ball wickets and he showed his character. This is the match we should have won, we nearly did but the last couple of overs they bowled well. It can happen in cricket. Rishad is very good, he's bowled well in the last two games and in practice. We've struggled with legspin in 10-15 years but hope he goes far. Wherever we play, we get a lot of support. Hope it's the same in the West Indies. <strong>Heinrich Klaasen, POTM</strong> (On the finish) <i>Laughs</i> It was not so nice on the heart but glad to go over the line. The wicket is not great for strokeplay but David showed in the previous game how to bat on this wicket. Got info from him. We got a decent score but were 10 runs short. We got experience and more or less a one-day mindset till the 15-over mark. Hopefully we could've pushed on but not. Win will give big confidence for the boys, we've had three pressurised games now. We're through which is nice. One more to go and then onto the next phase. Mak: "A neck to neck game decided by strange rule. Horrible example!" Horrible is a bit harsh but the frustration is understandable. Rahul: "ICC... Please conduct Test championship finals in this NY pitch..." Stat from Sampath - Lowest target a full-member team failed to chase in men's T20Is (full 20-over game) 102 - ZIM vs NAM, Windhoek 2023 106 - WI	vs ZIM, Port of Spain 2010 114 - ENG vs WI, The Oval	2011 114 - BAN vs SA, New York 2024 116 - SL vs SA, Colombo (RPS) 2013 South Africa's new-ball bowlers weren't on the mark Anyway, South Africa were almost out of it, because of that ball and the penultimate ball, which should've gone out the ground. But Mahmudullah couldn't middle the full toss and Markram, cool as ever at long-on, took the match-sealing catch. The rest of the innings was as scrappy as expected on a tough deck. Bangladesh tried to be proactive wherever possible, stay in the game and finish it off. Of course, no one could score big or at a lightning pace but Hridoy and Mahmudullah almost took them through. Hridoy was a bit unlucky to get lbw in the 18th over, that went for just two runs, along with Mahmudullah, who fell on 19.5. <strong>2:01pm</strong> Oh boy, those non leg-byes. They could be worth a 1000. <strong>The fact is 16.2 was given out lbw, the decision was overturned, Bangladesh have never beaten South Africa in a T20I (streak is now 9-0) and in the end South Africa have all but qualified for the next round</strong>. Apparently, it's not a mathematical guarantee yet, but Nepal will have to win all thee, including games against against SA and Bangladesh, to get through. Netherlands, too can get to six, but need to beat Sri Lanka and Bangladesh for it.
 
 
 Match: all_games_1411166_1415737.json
 Balls faced: 1
 Bowler: Lamichhane
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Taskin gets onto the back foot and pokes it into the on side"}]back of a length just outside off. Taskin gets onto the back foot and pokes it into the on side
+back of a length just outside off. Taskin gets onto the back foot and pokes it into the on side
 
 
 Balls faced: 2
 Bowler: Lamichhane
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly on a back of a length outside off. Taskin, while staying deep in his crease, goes feeling for it and is beaten on the outside"}]googly on a back of a length outside off. Taskin, while staying deep in his crease, goes feeling for it and is beaten on the outside
+googly on a back of a length outside off. Taskin, while staying deep in his crease, goes feeling for it and is beaten on the outside
 
 
 Balls faced: 3
 Bowler: Lamichhane
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Taskin to try his luck with the bat now. Around the wicket"}]Taskin to try his luck with the bat now. Around the wicket
+Taskin to try his luck with the bat now. Around the wicket
 
-[{"type": "HTML", "html": "back of a length just outside off. Taskin gets behind the line and blocks"}]back of a length just outside off. Taskin gets behind the line and blocks
+back of a length just outside off. Taskin gets behind the line and blocks
 
 
 Balls faced: 4
 Bowler: Bhurtel
 Over: 17
+Pitch Line: DOWN_LEG Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>another lbw shout, but the umpire is unmoved!</strong> Very full delivery that seems to finish on leg stump. Taskin plays all over it and gets rapped on the pads. Bhurtel is very interested and <strong>he has talked his captain into a review. This might have pitched outside leg, and the impact might have been outside leg too. No bat involved, but Ball Tracking confirms our original suspicion. Pitched outside leg, and Taskin survives!</strong>"}]<strong>another lbw shout, but the umpire is unmoved!</strong> Very full delivery that seems to finish on leg stump. Taskin plays all over it and gets rapped on the pads. Bhurtel is very interested and <strong>he has talked his captain into a review. This might have pitched outside leg, and the impact might have been outside leg too. No bat involved, but Ball Tracking confirms our original suspicion. Pitched outside leg, and Taskin survives!</strong>
+<strong>another lbw shout, but the umpire is unmoved!</strong> Very full delivery that seems to finish on leg stump. Taskin plays all over it and gets rapped on the pads. Bhurtel is very interested and <strong>he has talked his captain into a review. This might have pitched outside leg, and the impact might have been outside leg too. No bat involved, but Ball Tracking confirms our original suspicion. Pitched outside leg, and Taskin survives!</strong>
 
 
 Balls faced: 5
 Bowler: Bhurtel
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly on a length on off. Taskin misses his swipe and the ball brushes the back leg, rolling away past the keeper for a leg bye"}]googly on a length on off. Taskin misses his swipe and the ball brushes the back leg, rolling away past the keeper for a leg bye
+googly on a length on off. Taskin misses his swipe and the ball brushes the back leg, rolling away past the keeper for a leg bye
 
 Legbyes: 1
 Balls faced: 6
 Bowler: Lamichhane
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Taskin gets onto the back foot and pokes it into the on side"}]back of a length just outside off. Taskin gets onto the back foot and pokes it into the on side
+back of a length just outside off. Taskin gets onto the back foot and pokes it into the on side
 
 
 Balls faced: 7
 Bowler: Lamichhane
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly on a back of a length outside off. Taskin, while staying deep in his crease, goes feeling for it and is beaten on the outside"}]googly on a back of a length outside off. Taskin, while staying deep in his crease, goes feeling for it and is beaten on the outside
+googly on a back of a length outside off. Taskin, while staying deep in his crease, goes feeling for it and is beaten on the outside
 
 
 Balls faced: 8
 Bowler: Lamichhane
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Taskin to try his luck with the bat now. Around the wicket"}]Taskin to try his luck with the bat now. Around the wicket
+Taskin to try his luck with the bat now. Around the wicket
 
-[{"type": "HTML", "html": "back of a length just outside off. Taskin gets behind the line and blocks"}]back of a length just outside off. Taskin gets behind the line and blocks
+back of a length just outside off. Taskin gets behind the line and blocks
 
 
 Balls faced: 9
 Bowler: Airee
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish just outside off. Taskin comes half forward and prods it into the mid wicket region"}]fullish just outside off. Taskin comes half forward and prods it into the mid wicket region
+fullish just outside off. Taskin comes half forward and prods it into the mid wicket region
 
 
 Balls faced: 10
 Bowler: Airee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length outside off. Taskin has a hurried poke at it and chunks it off the inside edge into his pads"}]back of a length outside off. Taskin has a hurried poke at it and chunks it off the inside edge into his pads
+back of a length outside off. Taskin has a hurried poke at it and chunks it off the inside edge into his pads
 
 
 Balls faced: 11
 Bowler: Airee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide outside off. Taskin throws his hands at it and slices it towards backward point"}]full and wide outside off. Taskin throws his hands at it and slices it towards backward point
+full and wide outside off. Taskin throws his hands at it and slices it towards backward point
 
 
 Balls faced: 12
 Bowler: Bhurtel
 Over: 17
+Pitch Line: DOWN_LEG Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>another lbw shout, but the umpire is unmoved!</strong> Very full delivery that seems to finish on leg stump. Taskin plays all over it and gets rapped on the pads. Bhurtel is very interested and <strong>he has talked his captain into a review. This might have pitched outside leg, and the impact might have been outside leg too. No bat involved, but Ball Tracking confirms our original suspicion. Pitched outside leg, and Taskin survives!</strong>"}]<strong>another lbw shout, but the umpire is unmoved!</strong> Very full delivery that seems to finish on leg stump. Taskin plays all over it and gets rapped on the pads. Bhurtel is very interested and <strong>he has talked his captain into a review. This might have pitched outside leg, and the impact might have been outside leg too. No bat involved, but Ball Tracking confirms our original suspicion. Pitched outside leg, and Taskin survives!</strong>
+<strong>another lbw shout, but the umpire is unmoved!</strong> Very full delivery that seems to finish on leg stump. Taskin plays all over it and gets rapped on the pads. Bhurtel is very interested and <strong>he has talked his captain into a review. This might have pitched outside leg, and the impact might have been outside leg too. No bat involved, but Ball Tracking confirms our original suspicion. Pitched outside leg, and Taskin survives!</strong>
 
 
 Balls faced: 13
 Bowler: Bhurtel
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly on a length on off. Taskin misses his swipe and the ball brushes the back leg, rolling away past the keeper for a leg bye"}]googly on a length on off. Taskin misses his swipe and the ball brushes the back leg, rolling away past the keeper for a leg bye
+googly on a length on off. Taskin misses his swipe and the ball brushes the back leg, rolling away past the keeper for a leg bye
 
 Legbyes: 1
 Balls faced: 14
 Bowler: Bohara
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on leg stump. Nips back in with the angle and cuts Taskin in half. The keeper fumbles his collection and Mustafizur scurries through for a bye"}]back of a length on leg stump. Nips back in with the angle and cuts Taskin in half. The keeper fumbles his collection and Mustafizur scurries through for a bye
+back of a length on leg stump. Nips back in with the angle and cuts Taskin in half. The keeper fumbles his collection and Mustafizur scurries through for a bye
 
 Byes: 1
 Balls faced: 15
 Bowler: Bohara
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in on a length on the pads. Taskin misses his stroke and the ball trickles off the thigh pad towards short fine leg"}]angled in on a length on the pads. Taskin misses his stroke and the ball trickles off the thigh pad towards short fine leg
+angled in on a length on the pads. Taskin misses his stroke and the ball trickles off the thigh pad towards short fine leg
 
 
 Balls faced: 16
 Bowler: Bohara
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>streaky but they all count!</strong> Yorker just outside off. Taskin stabs down on it and squirts it away off the outside edge past the keeper!"}]<strong>streaky but they all count!</strong> Yorker just outside off. Taskin stabs down on it and squirts it away off the outside edge past the keeper!
+<strong>streaky but they all count!</strong> Yorker just outside off. Taskin stabs down on it and squirts it away off the outside edge past the keeper!
 
 
 Balls faced: 17
 Bowler: Bohara
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 2
 
 
-[{"type": "HTML", "html": "off-pace on a length on middle and off. Taskin bunts it into the vast open spaces in the mid wicket region and dashes back for two"}]off-pace on a length on middle and off. Taskin bunts it into the vast open spaces in the mid wicket region and dashes back for two
+off-pace on a length on middle and off. Taskin bunts it into the vast open spaces in the mid wicket region and dashes back for two
 
 
 Balls faced: 18
 Bowler: Bohara
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slips this down leg. Taskin swings and misses again but the umpire stretches out his arms for the second ball running"}]slips this down leg. Taskin swings and misses again but the umpire stretches out his arms for the second ball running
+slips this down leg. Taskin swings and misses again but the umpire stretches out his arms for the second ball running
 
 Wide: 1
 Balls faced: 19
 Bowler: Bohara
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track on middle and off. Taskin has a wild swipe at it and misses. Called a wide on height"}]banged into the track on middle and off. Taskin has a wild swipe at it and misses. Called a wide on height
+banged into the track on middle and off. Taskin has a wild swipe at it and misses. Called a wide on height
 
 Wide: 1
 Balls faced: 20
 Bowler: Bohara
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Bohara to bowl his first and the team's penultimate over. Around the wicket to Taskin"}]Bohara to bowl his first and the team's penultimate over. Around the wicket to Taskin
+Bohara to bowl his first and the team's penultimate over. Around the wicket to Taskin
 
-[{"type": "HTML", "html": "into the blockhole outside off. Taskin jams down on it and digs it out towards the bowler"}]into the blockhole outside off. Taskin jams down on it and digs it out towards the bowler
+into the blockhole outside off. Taskin jams down on it and digs it out towards the bowler
 
 
 Balls faced: 21
 Bowler: Airee
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish just outside off. Taskin comes half forward and prods it into the mid wicket region"}]fullish just outside off. Taskin comes half forward and prods it into the mid wicket region
+fullish just outside off. Taskin comes half forward and prods it into the mid wicket region
 
 
 Balls faced: 22
 Bowler: Airee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length outside off. Taskin has a hurried poke at it and chunks it off the inside edge into his pads"}]back of a length outside off. Taskin has a hurried poke at it and chunks it off the inside edge into his pads
+back of a length outside off. Taskin has a hurried poke at it and chunks it off the inside edge into his pads
 
 
 Balls faced: 23
 Bowler: Airee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide outside off. Taskin throws his hands at it and slices it towards backward point"}]full and wide outside off. Taskin throws his hands at it and slices it towards backward point
+full and wide outside off. Taskin throws his hands at it and slices it towards backward point
 
 
 Balls faced: 24
 Bowler: Airee
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Nepal need to be careful here. They are giving up more runs than what would have been ideal"}]Nepal need to be careful here. They are giving up more runs than what would have been ideal
+Nepal need to be careful here. They are giving up more runs than what would have been ideal
 
-[{"type": "HTML", "html": "fired in full on leg stump. Taskin squirts it off the inside edge behind square on the leg side"}]fired in full on leg stump. Taskin squirts it off the inside edge behind square on the leg side
+fired in full on leg stump. Taskin squirts it off the inside edge behind square on the leg side
 
 
 Balls faced: 25
 Bowler: Airee
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "100 up for Bangladesh. Can they somehow get to 110? Airee to bowl the final over. Kami still has an over left. This is an interesting call. You'd have thought Bohara bowled the last over so Kami could bowl this one. But looks like Paudel has decided otherwise"}]100 up for Bangladesh. Can they somehow get to 110? Airee to bowl the final over. Kami still has an over left. This is an interesting call. You'd have thought Bohara bowled the last over so Kami could bowl this one. But looks like Paudel has decided otherwise
+100 up for Bangladesh. Can they somehow get to 110? Airee to bowl the final over. Kami still has an over left. This is an interesting call. You'd have thought Bohara bowled the last over so Kami could bowl this one. But looks like Paudel has decided otherwise
 
-[{"type": "HTML", "html": "<strong>four more!</strong> Length outside off. Taskin throws the plumbing at it and slices it over Lamichhane at short third man!"}]<strong>four more!</strong> Length outside off. Taskin throws the plumbing at it and slices it over Lamichhane at short third man!
+<strong>four more!</strong> Length outside off. Taskin throws the plumbing at it and slices it over Lamichhane at short third man!
 
 
 Balls faced: 26
 Bowler: Bohara
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on leg stump. Nips back in with the angle and cuts Taskin in half. The keeper fumbles his collection and Mustafizur scurries through for a bye"}]back of a length on leg stump. Nips back in with the angle and cuts Taskin in half. The keeper fumbles his collection and Mustafizur scurries through for a bye
+back of a length on leg stump. Nips back in with the angle and cuts Taskin in half. The keeper fumbles his collection and Mustafizur scurries through for a bye
 
 Byes: 1
 Balls faced: 27
 Bowler: Bohara
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in on a length on the pads. Taskin misses his stroke and the ball trickles off the thigh pad towards short fine leg"}]angled in on a length on the pads. Taskin misses his stroke and the ball trickles off the thigh pad towards short fine leg
+angled in on a length on the pads. Taskin misses his stroke and the ball trickles off the thigh pad towards short fine leg
 
 
 Balls faced: 28
 Bowler: Bohara
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>streaky but they all count!</strong> Yorker just outside off. Taskin stabs down on it and squirts it away off the outside edge past the keeper!"}]<strong>streaky but they all count!</strong> Yorker just outside off. Taskin stabs down on it and squirts it away off the outside edge past the keeper!
+<strong>streaky but they all count!</strong> Yorker just outside off. Taskin stabs down on it and squirts it away off the outside edge past the keeper!
 
 
 Balls faced: 29
 Bowler: Bohara
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 2
 
 
-[{"type": "HTML", "html": "off-pace on a length on middle and off. Taskin bunts it into the vast open spaces in the mid wicket region and dashes back for two"}]off-pace on a length on middle and off. Taskin bunts it into the vast open spaces in the mid wicket region and dashes back for two
+off-pace on a length on middle and off. Taskin bunts it into the vast open spaces in the mid wicket region and dashes back for two
 
 
 Balls faced: 30
 Bowler: Bohara
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slips this down leg. Taskin swings and misses again but the umpire stretches out his arms for the second ball running"}]slips this down leg. Taskin swings and misses again but the umpire stretches out his arms for the second ball running
+slips this down leg. Taskin swings and misses again but the umpire stretches out his arms for the second ball running
 
 Wide: 1
 Balls faced: 31
 Bowler: Bohara
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track on middle and off. Taskin has a wild swipe at it and misses. Called a wide on height"}]banged into the track on middle and off. Taskin has a wild swipe at it and misses. Called a wide on height
+banged into the track on middle and off. Taskin has a wild swipe at it and misses. Called a wide on height
 
 Wide: 1
 Balls faced: 32
 Bowler: Bohara
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Bohara to bowl his first and the team's penultimate over. Around the wicket to Taskin"}]Bohara to bowl his first and the team's penultimate over. Around the wicket to Taskin
+Bohara to bowl his first and the team's penultimate over. Around the wicket to Taskin
 
-[{"type": "HTML", "html": "into the blockhole outside off. Taskin jams down on it and digs it out towards the bowler"}]into the blockhole outside off. Taskin jams down on it and digs it out towards the bowler
+into the blockhole outside off. Taskin jams down on it and digs it out towards the bowler
 
 
 Balls faced: 33
 Bowler: Airee
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Nepal need to be careful here. They are giving up more runs than what would have been ideal"}]Nepal need to be careful here. They are giving up more runs than what would have been ideal
+Nepal need to be careful here. They are giving up more runs than what would have been ideal
 
-[{"type": "HTML", "html": "fired in full on leg stump. Taskin squirts it off the inside edge behind square on the leg side"}]fired in full on leg stump. Taskin squirts it off the inside edge behind square on the leg side
+fired in full on leg stump. Taskin squirts it off the inside edge behind square on the leg side
 
 
 Balls faced: 34
 Bowler: Airee
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "100 up for Bangladesh. Can they somehow get to 110? Airee to bowl the final over. Kami still has an over left. This is an interesting call. You'd have thought Bohara bowled the last over so Kami could bowl this one. But looks like Paudel has decided otherwise"}]100 up for Bangladesh. Can they somehow get to 110? Airee to bowl the final over. Kami still has an over left. This is an interesting call. You'd have thought Bohara bowled the last over so Kami could bowl this one. But looks like Paudel has decided otherwise
+100 up for Bangladesh. Can they somehow get to 110? Airee to bowl the final over. Kami still has an over left. This is an interesting call. You'd have thought Bohara bowled the last over so Kami could bowl this one. But looks like Paudel has decided otherwise
 
-[{"type": "HTML", "html": "<strong>four more!</strong> Length outside off. Taskin throws the plumbing at it and slices it over Lamichhane at short third man!"}]<strong>four more!</strong> Length outside off. Taskin throws the plumbing at it and slices it over Lamichhane at short third man!
+<strong>four more!</strong> Length outside off. Taskin throws the plumbing at it and slices it over Lamichhane at short third man!
 
 
 
@@ -388,61 +430,67 @@ Match: all_games_1419819_1419824.json
 Balls faced: 1
 Bowler: Shanaka
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Just some mind games there I think. Giving themselves some time to think. 5 to win, 4 for a super over."}]Just some mind games there I think. Giving themselves some time to think. 5 to win, 4 for a super over.
+Just some mind games there I think. Giving themselves some time to think. 5 to win, 4 for a super over.
 
-[{"type": "HTML", "html": "<B>And Sri Lanka hold on!</b> They win by 3 runs, but it's heartbreak for Bangladesh who became favourites in what was an improbable chase at times! Shanaka though nails the wide yorker. Taskin looks to swing this away but it's an inside edge into the pads for just one. Sri Lanka breathe a heavy sigh of relief"}]<B>And Sri Lanka hold on!</b> They win by 3 runs, but it's heartbreak for Bangladesh who became favourites in what was an improbable chase at times! Shanaka though nails the wide yorker. Taskin looks to swing this away but it's an inside edge into the pads for just one. Sri Lanka breathe a heavy sigh of relief
-[{"type": "HTML", "html": "That said, it will be a wrap from us. A phenomenal start to the series, and one you hope is a sign of things to come. Isam's <a href=\"https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-1st-t20i-1419824/match-report\">report</a> should be up soon. But for now, on behalf of Fidel and the rest of the team, this is Madushka signing off. Catch us for game two on Wednesday!"}, {"type": "HTML", "html": "So <B>Charith Asalanka</B> is the </b>Player of the Match</b> for his 21-ball 44 and three catches, including the high pressure one to dismiss Jaker. But Jaker is rightfully cricinfo's MVP, because that was some hand, and one that certainly didn't deserve to be on the losing end."}, {"type": "HTML", "html": "Some Jaker Ali info in from Isam: \"Jaker Ali developed his skills in domestic cricket for the past few years before hitting his stride this season with some important runs, mostly in the death overs, for Comilla Victorians.\""}, {"type": "HTML", "html": "Mahmudur: \"Game of Cricket is the real winner in this game! Congratulations Sri Lanka! Well done Bangladesh! \""}, {"type": "HTML", "html": "JOYDEEP GILL: \"409 runs with 23 sixes within 40 overs this match was excited with raining boundaries one more thing this was nail biter match you couldn't ask for \""}, {"type": "HTML", "html": "<B>9.50pm</b> Well, let's first and foremost take a moment to breathe. Cos that was some breathtaking cricket on display! Dasun Shanaka in the end holds his nerve, grabbing two wickets and giving away just 8 runs in the final over to help Sri Lanka edge a nail-biter and take a 1-0 lead in this series. But this was a chase all about Jaker Ali, and before that Mahmadullah. Sri Lanka had done exceedingly well to put on 206 batting first, courtesy hands from Kusal Mendis, Sadeera Samarawickrama and Charith Asalanka, but with dew in full effect Sri Lanka's bowlers - particularly Matheesha Pathirana - struggled to contain Bangladesh. Angelo Mathews grabbed early wickets in the chase, and Bangladesh looked in danger of folding cheaply at times, but Mahmadullah and Jaker had other ideas striking a pair of blistering fifties to keep Bangladesh in the hunt. But just as they felt they had the upper hand, Shanaka and co. held their nerve to grab an exhilarating win."}]That said, it will be a wrap from us. A phenomenal start to the series, and one you hope is a sign of things to come. Isam's <a href="https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-1st-t20i-1419824/match-report">report</a> should be up soon. But for now, on behalf of Fidel and the rest of the team, this is Madushka signing off. Catch us for game two on Wednesday! So <B>Charith Asalanka</B> is the </b>Player of the Match</b> for his 21-ball 44 and three catches, including the high pressure one to dismiss Jaker. But Jaker is rightfully cricinfo's MVP, because that was some hand, and one that certainly didn't deserve to be on the losing end. Some Jaker Ali info in from Isam: "Jaker Ali developed his skills in domestic cricket for the past few years before hitting his stride this season with some important runs, mostly in the death overs, for Comilla Victorians." Mahmudur: "Game of Cricket is the real winner in this game! Congratulations Sri Lanka! Well done Bangladesh! " JOYDEEP GILL: "409 runs with 23 sixes within 40 overs this match was excited with raining boundaries one more thing this was nail biter match you couldn't ask for " <B>9.50pm</b> Well, let's first and foremost take a moment to breathe. Cos that was some breathtaking cricket on display! Dasun Shanaka in the end holds his nerve, grabbing two wickets and giving away just 8 runs in the final over to help Sri Lanka edge a nail-biter and take a 1-0 lead in this series. But this was a chase all about Jaker Ali, and before that Mahmadullah. Sri Lanka had done exceedingly well to put on 206 batting first, courtesy hands from Kusal Mendis, Sadeera Samarawickrama and Charith Asalanka, but with dew in full effect Sri Lanka's bowlers - particularly Matheesha Pathirana - struggled to contain Bangladesh. Angelo Mathews grabbed early wickets in the chase, and Bangladesh looked in danger of folding cheaply at times, but Mahmadullah and Jaker had other ideas striking a pair of blistering fifties to keep Bangladesh in the hunt. But just as they felt they had the upper hand, Shanaka and co. held their nerve to grab an exhilarating win.
+<B>And Sri Lanka hold on!</b> They win by 3 runs, but it's heartbreak for Bangladesh who became favourites in what was an improbable chase at times! Shanaka though nails the wide yorker. Taskin looks to swing this away but it's an inside edge into the pads for just one. Sri Lanka breathe a heavy sigh of relief
+That said, it will be a wrap from us. A phenomenal start to the series, and one you hope is a sign of things to come. Isam's <a href="https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-1st-t20i-1419824/match-report">report</a> should be up soon. But for now, on behalf of Fidel and the rest of the team, this is Madushka signing off. Catch us for game two on Wednesday! So <B>Charith Asalanka</B> is the </b>Player of the Match</b> for his 21-ball 44 and three catches, including the high pressure one to dismiss Jaker. But Jaker is rightfully cricinfo's MVP, because that was some hand, and one that certainly didn't deserve to be on the losing end. Some Jaker Ali info in from Isam: "Jaker Ali developed his skills in domestic cricket for the past few years before hitting his stride this season with some important runs, mostly in the death overs, for Comilla Victorians." Mahmudur: "Game of Cricket is the real winner in this game! Congratulations Sri Lanka! Well done Bangladesh! " JOYDEEP GILL: "409 runs with 23 sixes within 40 overs this match was excited with raining boundaries one more thing this was nail biter match you couldn't ask for " <B>9.50pm</b> Well, let's first and foremost take a moment to breathe. Cos that was some breathtaking cricket on display! Dasun Shanaka in the end holds his nerve, grabbing two wickets and giving away just 8 runs in the final over to help Sri Lanka edge a nail-biter and take a 1-0 lead in this series. But this was a chase all about Jaker Ali, and before that Mahmadullah. Sri Lanka had done exceedingly well to put on 206 batting first, courtesy hands from Kusal Mendis, Sadeera Samarawickrama and Charith Asalanka, but with dew in full effect Sri Lanka's bowlers - particularly Matheesha Pathirana - struggled to contain Bangladesh. Angelo Mathews grabbed early wickets in the chase, and Bangladesh looked in danger of folding cheaply at times, but Mahmadullah and Jaker had other ideas striking a pair of blistering fifties to keep Bangladesh in the hunt. But just as they felt they had the upper hand, Shanaka and co. held their nerve to grab an exhilarating win.
 
 Balls faced: 2
 Bowler: Shanaka
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Uwaisul Karnain: \"Did the slow over rate produce SL that wicket?\" --- Perhaps."}]Uwaisul Karnain: "Did the slow over rate produce SL that wicket?" --- Perhaps.
+Uwaisul Karnain: "Did the slow over rate produce SL that wicket?" --- Perhaps.
 
-[{"type": "HTML", "html": "<B>Jaker is back on strike!</b> This was full on off, driven to mid-off and they scurry"}]<B>Jaker is back on strike!</b> This was full on off, driven to mid-off and they scurry
+<B>Jaker is back on strike!</b> This was full on off, driven to mid-off and they scurry
 
 
 Balls faced: 3
 Bowler: Shanaka
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Taskin now, he just needs a single"}]Taskin now, he just needs a single
+Taskin now, he just needs a single
 
-[{"type": "HTML", "html": "<B>Wide!</b> This was full and wide, looking for the wide yorker but it's too wide"}]<B>Wide!</b> This was full and wide, looking for the wide yorker but it's too wide
+<B>Wide!</b> This was full and wide, looking for the wide yorker but it's too wide
 
 Wide: 1
 Balls faced: 4
 Bowler: Shanaka
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Just some mind games there I think. Giving themselves some time to think. 5 to win, 4 for a super over."}]Just some mind games there I think. Giving themselves some time to think. 5 to win, 4 for a super over.
+Just some mind games there I think. Giving themselves some time to think. 5 to win, 4 for a super over.
 
-[{"type": "HTML", "html": "<B>And Sri Lanka hold on!</b> They win by 3 runs, but it's heartbreak for Bangladesh who became favourites in what was an improbable chase at times! Shanaka though nails the wide yorker. Taskin looks to swing this away but it's an inside edge into the pads for just one. Sri Lanka breathe a heavy sigh of relief"}]<B>And Sri Lanka hold on!</b> They win by 3 runs, but it's heartbreak for Bangladesh who became favourites in what was an improbable chase at times! Shanaka though nails the wide yorker. Taskin looks to swing this away but it's an inside edge into the pads for just one. Sri Lanka breathe a heavy sigh of relief
-[{"type": "HTML", "html": "That said, it will be a wrap from us. A phenomenal start to the series, and one you hope is a sign of things to come. Isam's <a href=\"https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-1st-t20i-1419824/match-report\">report</a> should be up soon. But for now, on behalf of Fidel and the rest of the team, this is Madushka signing off. Catch us for game two on Wednesday!"}, {"type": "HTML", "html": "So <B>Charith Asalanka</B> is the </b>Player of the Match</b> for his 21-ball 44 and three catches, including the high pressure one to dismiss Jaker. But Jaker is rightfully cricinfo's MVP, because that was some hand, and one that certainly didn't deserve to be on the losing end."}, {"type": "HTML", "html": "Some Jaker Ali info in from Isam: \"Jaker Ali developed his skills in domestic cricket for the past few years before hitting his stride this season with some important runs, mostly in the death overs, for Comilla Victorians.\""}, {"type": "HTML", "html": "Mahmudur: \"Game of Cricket is the real winner in this game! Congratulations Sri Lanka! Well done Bangladesh! \""}, {"type": "HTML", "html": "JOYDEEP GILL: \"409 runs with 23 sixes within 40 overs this match was excited with raining boundaries one more thing this was nail biter match you couldn't ask for \""}, {"type": "HTML", "html": "<B>9.50pm</b> Well, let's first and foremost take a moment to breathe. Cos that was some breathtaking cricket on display! Dasun Shanaka in the end holds his nerve, grabbing two wickets and giving away just 8 runs in the final over to help Sri Lanka edge a nail-biter and take a 1-0 lead in this series. But this was a chase all about Jaker Ali, and before that Mahmadullah. Sri Lanka had done exceedingly well to put on 206 batting first, courtesy hands from Kusal Mendis, Sadeera Samarawickrama and Charith Asalanka, but with dew in full effect Sri Lanka's bowlers - particularly Matheesha Pathirana - struggled to contain Bangladesh. Angelo Mathews grabbed early wickets in the chase, and Bangladesh looked in danger of folding cheaply at times, but Mahmadullah and Jaker had other ideas striking a pair of blistering fifties to keep Bangladesh in the hunt. But just as they felt they had the upper hand, Shanaka and co. held their nerve to grab an exhilarating win."}]That said, it will be a wrap from us. A phenomenal start to the series, and one you hope is a sign of things to come. Isam's <a href="https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-1st-t20i-1419824/match-report">report</a> should be up soon. But for now, on behalf of Fidel and the rest of the team, this is Madushka signing off. Catch us for game two on Wednesday! So <B>Charith Asalanka</B> is the </b>Player of the Match</b> for his 21-ball 44 and three catches, including the high pressure one to dismiss Jaker. But Jaker is rightfully cricinfo's MVP, because that was some hand, and one that certainly didn't deserve to be on the losing end. Some Jaker Ali info in from Isam: "Jaker Ali developed his skills in domestic cricket for the past few years before hitting his stride this season with some important runs, mostly in the death overs, for Comilla Victorians." Mahmudur: "Game of Cricket is the real winner in this game! Congratulations Sri Lanka! Well done Bangladesh! " JOYDEEP GILL: "409 runs with 23 sixes within 40 overs this match was excited with raining boundaries one more thing this was nail biter match you couldn't ask for " <B>9.50pm</b> Well, let's first and foremost take a moment to breathe. Cos that was some breathtaking cricket on display! Dasun Shanaka in the end holds his nerve, grabbing two wickets and giving away just 8 runs in the final over to help Sri Lanka edge a nail-biter and take a 1-0 lead in this series. But this was a chase all about Jaker Ali, and before that Mahmadullah. Sri Lanka had done exceedingly well to put on 206 batting first, courtesy hands from Kusal Mendis, Sadeera Samarawickrama and Charith Asalanka, but with dew in full effect Sri Lanka's bowlers - particularly Matheesha Pathirana - struggled to contain Bangladesh. Angelo Mathews grabbed early wickets in the chase, and Bangladesh looked in danger of folding cheaply at times, but Mahmadullah and Jaker had other ideas striking a pair of blistering fifties to keep Bangladesh in the hunt. But just as they felt they had the upper hand, Shanaka and co. held their nerve to grab an exhilarating win.
+<B>And Sri Lanka hold on!</b> They win by 3 runs, but it's heartbreak for Bangladesh who became favourites in what was an improbable chase at times! Shanaka though nails the wide yorker. Taskin looks to swing this away but it's an inside edge into the pads for just one. Sri Lanka breathe a heavy sigh of relief
+That said, it will be a wrap from us. A phenomenal start to the series, and one you hope is a sign of things to come. Isam's <a href="https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-1st-t20i-1419824/match-report">report</a> should be up soon. But for now, on behalf of Fidel and the rest of the team, this is Madushka signing off. Catch us for game two on Wednesday! So <B>Charith Asalanka</B> is the </b>Player of the Match</b> for his 21-ball 44 and three catches, including the high pressure one to dismiss Jaker. But Jaker is rightfully cricinfo's MVP, because that was some hand, and one that certainly didn't deserve to be on the losing end. Some Jaker Ali info in from Isam: "Jaker Ali developed his skills in domestic cricket for the past few years before hitting his stride this season with some important runs, mostly in the death overs, for Comilla Victorians." Mahmudur: "Game of Cricket is the real winner in this game! Congratulations Sri Lanka! Well done Bangladesh! " JOYDEEP GILL: "409 runs with 23 sixes within 40 overs this match was excited with raining boundaries one more thing this was nail biter match you couldn't ask for " <B>9.50pm</b> Well, let's first and foremost take a moment to breathe. Cos that was some breathtaking cricket on display! Dasun Shanaka in the end holds his nerve, grabbing two wickets and giving away just 8 runs in the final over to help Sri Lanka edge a nail-biter and take a 1-0 lead in this series. But this was a chase all about Jaker Ali, and before that Mahmadullah. Sri Lanka had done exceedingly well to put on 206 batting first, courtesy hands from Kusal Mendis, Sadeera Samarawickrama and Charith Asalanka, but with dew in full effect Sri Lanka's bowlers - particularly Matheesha Pathirana - struggled to contain Bangladesh. Angelo Mathews grabbed early wickets in the chase, and Bangladesh looked in danger of folding cheaply at times, but Mahmadullah and Jaker had other ideas striking a pair of blistering fifties to keep Bangladesh in the hunt. But just as they felt they had the upper hand, Shanaka and co. held their nerve to grab an exhilarating win.
 
 Balls faced: 5
 Bowler: Shanaka
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Uwaisul Karnain: \"Did the slow over rate produce SL that wicket?\" --- Perhaps."}]Uwaisul Karnain: "Did the slow over rate produce SL that wicket?" --- Perhaps.
+Uwaisul Karnain: "Did the slow over rate produce SL that wicket?" --- Perhaps.
 
-[{"type": "HTML", "html": "<B>Jaker is back on strike!</b> This was full on off, driven to mid-off and they scurry"}]<B>Jaker is back on strike!</b> This was full on off, driven to mid-off and they scurry
+<B>Jaker is back on strike!</b> This was full on off, driven to mid-off and they scurry
 
 
 Balls faced: 6
 Bowler: Shanaka
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Taskin now, he just needs a single"}]Taskin now, he just needs a single
+Taskin now, he just needs a single
 
-[{"type": "HTML", "html": "<B>Wide!</b> This was full and wide, looking for the wide yorker but it's too wide"}]<B>Wide!</b> This was full and wide, looking for the wide yorker but it's too wide
+<B>Wide!</b> This was full and wide, looking for the wide yorker but it's too wide
 
 Wide: 1
 
@@ -450,441 +498,489 @@ Match: all_games_1419819_1419826.json
 Balls faced: 1
 Bowler: Hasaranga
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Clobbered to deep square leg!</b> Cracking sweep here, and he gets hold of it sweetly. No chance for the man at deep midwicket"}]<B>Clobbered to deep square leg!</b> Cracking sweep here, and he gets hold of it sweetly. No chance for the man at deep midwicket
+<B>Clobbered to deep square leg!</b> Cracking sweep here, and he gets hold of it sweetly. No chance for the man at deep midwicket
 
 
 Balls faced: 2
 Bowler: Hasaranga
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Thushara is human after all!</b> This was clipped towards deep backward square where Thushara is running into cover, but the spin takes it behind him and he overshoots it, as the ball runs away for four"}]<B>Thushara is human after all!</b> This was clipped towards deep backward square where Thushara is running into cover, but the spin takes it behind him and he overshoots it, as the ball runs away for four
+<B>Thushara is human after all!</b> This was clipped towards deep backward square where Thushara is running into cover, but the spin takes it behind him and he overshoots it, as the ball runs away for four
 
 
 Balls faced: 3
 Bowler: Hasaranga
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "sharp turning leg break this time, worked straight to midwicket"}]sharp turning leg break this time, worked straight to midwicket
+sharp turning leg break this time, worked straight to midwicket
 
 
 Balls faced: 4
 Bowler: Hasaranga
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "AJ: \"They may as well lose this game, but Bangladesh have a promising player to develop in Rishad. He has properly shown his worth in this game, and hopefully he gets more chances in domestic cricket.\""}]AJ: "They may as well lose this game, but Bangladesh have a promising player to develop in Rishad. He has properly shown his worth in this game, and hopefully he gets more chances in domestic cricket."
+AJ: "They may as well lose this game, but Bangladesh have a promising player to develop in Rishad. He has properly shown his worth in this game, and hopefully he gets more chances in domestic cricket."
 
-[{"type": "HTML", "html": "Tosses another one up from around the wicket to the left hander. It's the googly and it gets Taskin's outside edge, but it just flicks off the edge of the keeper's gloves. Just doesn't stick"}]Tosses another one up from around the wicket to the left hander. It's the googly and it gets Taskin's outside edge, but it just flicks off the edge of the keeper's gloves. Just doesn't stick
+Tosses another one up from around the wicket to the left hander. It's the googly and it gets Taskin's outside edge, but it just flicks off the edge of the keeper's gloves. Just doesn't stick
 
 
 Balls faced: 5
 Bowler: Hasaranga
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Clobbered to deep square leg!</b> Cracking sweep here, and he gets hold of it sweetly. No chance for the man at deep midwicket"}]<B>Clobbered to deep square leg!</b> Cracking sweep here, and he gets hold of it sweetly. No chance for the man at deep midwicket
+<B>Clobbered to deep square leg!</b> Cracking sweep here, and he gets hold of it sweetly. No chance for the man at deep midwicket
 
 
 Balls faced: 6
 Bowler: Hasaranga
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Thushara is human after all!</b> This was clipped towards deep backward square where Thushara is running into cover, but the spin takes it behind him and he overshoots it, as the ball runs away for four"}]<B>Thushara is human after all!</b> This was clipped towards deep backward square where Thushara is running into cover, but the spin takes it behind him and he overshoots it, as the ball runs away for four
+<B>Thushara is human after all!</b> This was clipped towards deep backward square where Thushara is running into cover, but the spin takes it behind him and he overshoots it, as the ball runs away for four
 
 
 Balls faced: 7
 Bowler: Hasaranga
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "sharp turning leg break this time, worked straight to midwicket"}]sharp turning leg break this time, worked straight to midwicket
+sharp turning leg break this time, worked straight to midwicket
 
 
 Balls faced: 8
 Bowler: Hasaranga
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "AJ: \"They may as well lose this game, but Bangladesh have a promising player to develop in Rishad. He has properly shown his worth in this game, and hopefully he gets more chances in domestic cricket.\""}]AJ: "They may as well lose this game, but Bangladesh have a promising player to develop in Rishad. He has properly shown his worth in this game, and hopefully he gets more chances in domestic cricket."
+AJ: "They may as well lose this game, but Bangladesh have a promising player to develop in Rishad. He has properly shown his worth in this game, and hopefully he gets more chances in domestic cricket."
 
-[{"type": "HTML", "html": "Tosses another one up from around the wicket to the left hander. It's the googly and it gets Taskin's outside edge, but it just flicks off the edge of the keeper's gloves. Just doesn't stick"}]Tosses another one up from around the wicket to the left hander. It's the googly and it gets Taskin's outside edge, but it just flicks off the edge of the keeper's gloves. Just doesn't stick
+Tosses another one up from around the wicket to the left hander. It's the googly and it gets Taskin's outside edge, but it just flicks off the edge of the keeper's gloves. Just doesn't stick
 
 
 Balls faced: 9
 Bowler: Fernando
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another swing and a miss! Goes between Taskin and leg stump as he looks to heave this over midwicket"}]Another swing and a miss! Goes between Taskin and leg stump as he looks to heave this over midwicket
+Another swing and a miss! Goes between Taskin and leg stump as he looks to heave this over midwicket
 
 
 Balls faced: 10
 Bowler: Fernando
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length cutter on off, poked behind point for one"}]back of a length cutter on off, poked behind point for one
+back of a length cutter on off, poked behind point for one
 
 
 Balls faced: 11
 Bowler: Fernando
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
-[{"type": "HTML", "html": "Binura is back on the field and back into the attack"}]Binura is back on the field and back into the attack
+Binura is back on the field and back into the attack
 
-[{"type": "HTML", "html": "slides into the pads, and he misses the pull. But it deflects off the pads down fine past short fine"}]slides into the pads, and he misses the pull. But it deflects off the pads down fine past short fine
+slides into the pads, and he misses the pull. But it deflects off the pads down fine past short fine
 
 
 Balls faced: 12
 Bowler: Theekshana
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg, gets the front leg out of the way and drags this to deep square leg"}]full on leg, gets the front leg out of the way and drags this to deep square leg
+full on leg, gets the front leg out of the way and drags this to deep square leg
 
 
 Balls faced: 13
 Bowler: Theekshana
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>Big appeal for leg before and the finger goes up belatedly!</b> It's <strong>reviewed</strong> straight away. This was a good length on leg and struck Taskin on the back leg as he looked to hack this onside. There was no bat, but the question is whether this pitched in line? Cos it's certainly clattering into the stumps. And it's a great reviews, because this was in fact pitching outside leg"}]<B>Big appeal for leg before and the finger goes up belatedly!</b> It's <strong>reviewed</strong> straight away. This was a good length on leg and struck Taskin on the back leg as he looked to hack this onside. There was no bat, but the question is whether this pitched in line? Cos it's certainly clattering into the stumps. And it's a great reviews, because this was in fact pitching outside leg
+<B>Big appeal for leg before and the finger goes up belatedly!</b> It's <strong>reviewed</strong> straight away. This was a good length on leg and struck Taskin on the back leg as he looked to hack this onside. There was no bat, but the question is whether this pitched in line? Cos it's certainly clattering into the stumps. And it's a great reviews, because this was in fact pitching outside leg
 
 
 Balls faced: 14
 Bowler: Fernando
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another swing and a miss! Goes between Taskin and leg stump as he looks to heave this over midwicket"}]Another swing and a miss! Goes between Taskin and leg stump as he looks to heave this over midwicket
+Another swing and a miss! Goes between Taskin and leg stump as he looks to heave this over midwicket
 
 
 Balls faced: 15
 Bowler: Fernando
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length cutter on off, poked behind point for one"}]back of a length cutter on off, poked behind point for one
+back of a length cutter on off, poked behind point for one
 
 
 Balls faced: 16
 Bowler: Fernando
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
-[{"type": "HTML", "html": "Binura is back on the field and back into the attack"}]Binura is back on the field and back into the attack
+Binura is back on the field and back into the attack
 
-[{"type": "HTML", "html": "slides into the pads, and he misses the pull. But it deflects off the pads down fine past short fine"}]slides into the pads, and he misses the pull. But it deflects off the pads down fine past short fine
+slides into the pads, and he misses the pull. But it deflects off the pads down fine past short fine
 
 
 Balls faced: 17
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short ball, attempted pull loops up off his left glove to the vacant square leg"}]short ball, attempted pull loops up off his left glove to the vacant square leg
+short ball, attempted pull loops up off his left glove to the vacant square leg
 
 
 Balls faced: 18
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another swing and a miss. It's another well directed slower one, shorter in length. Thushara showing off his repertoire here"}]Another swing and a miss. It's another well directed slower one, shorter in length. Thushara showing off his repertoire here
+Another swing and a miss. It's another well directed slower one, shorter in length. Thushara showing off his repertoire here
 
 
 Balls faced: 19
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pace-off, outside off, and Taskin is way too early on the leg side heave. Misses completely"}]Pace-off, outside off, and Taskin is way too early on the leg side heave. Misses completely
+Pace-off, outside off, and Taskin is way too early on the leg side heave. Misses completely
 
 
 Balls faced: 20
 Bowler: Thushara
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>What an outrageous shot!</b> Shot of the day? Series? Year? Just bends the back knee, gets low and smokes this lofted cover drive miles into the embankment. Tailender? You're having a laugh"}]<B>What an outrageous shot!</b> Shot of the day? Series? Year? Just bends the back knee, gets low and smokes this lofted cover drive miles into the embankment. Tailender? You're having a laugh
+<B>What an outrageous shot!</b> Shot of the day? Series? Year? Just bends the back knee, gets low and smokes this lofted cover drive miles into the embankment. Tailender? You're having a laugh
 
 
 Balls faced: 21
 Bowler: Thushara
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
-[{"type": "HTML", "html": "Alright, Thushara time!"}]Alright, Thushara time!
+Alright, Thushara time!
 
-[{"type": "HTML", "html": "<B>Edged for a maximum!</b> Full on off, looks to launch this over long on but gets a thick and high outside edge that flies to the third man boundary"}]<B>Edged for a maximum!</b> Full on off, looks to launch this over long on but gets a thick and high outside edge that flies to the third man boundary
+<B>Edged for a maximum!</b> Full on off, looks to launch this over long on but gets a thick and high outside edge that flies to the third man boundary
 
 
 Balls faced: 22
 Bowler: Theekshana
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg, gets the front leg out of the way and drags this to deep square leg"}]full on leg, gets the front leg out of the way and drags this to deep square leg
+full on leg, gets the front leg out of the way and drags this to deep square leg
 
 
 Balls faced: 23
 Bowler: Theekshana
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>Big appeal for leg before and the finger goes up belatedly!</b> It's <strong>reviewed</strong> straight away. This was a good length on leg and struck Taskin on the back leg as he looked to hack this onside. There was no bat, but the question is whether this pitched in line? Cos it's certainly clattering into the stumps. And it's a great reviews, because this was in fact pitching outside leg"}]<B>Big appeal for leg before and the finger goes up belatedly!</b> It's <strong>reviewed</strong> straight away. This was a good length on leg and struck Taskin on the back leg as he looked to hack this onside. There was no bat, but the question is whether this pitched in line? Cos it's certainly clattering into the stumps. And it's a great reviews, because this was in fact pitching outside leg
+<B>Big appeal for leg before and the finger goes up belatedly!</b> It's <strong>reviewed</strong> straight away. This was a good length on leg and struck Taskin on the back leg as he looked to hack this onside. There was no bat, but the question is whether this pitched in line? Cos it's certainly clattering into the stumps. And it's a great reviews, because this was in fact pitching outside leg
 
 
 Balls faced: 24
 Bowler: Fernando
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, clears the front leg and looks to go leg side. Ends up getting it to cover off the toe-end of the bat"}]full on off, clears the front leg and looks to go leg side. Ends up getting it to cover off the toe-end of the bat
+full on off, clears the front leg and looks to go leg side. Ends up getting it to cover off the toe-end of the bat
 
 
 Balls faced: 25
 Bowler: Fernando
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on the stumps, another attempted heave under edge to fine leg for one"}]length ball on the stumps, another attempted heave under edge to fine leg for one
+length ball on the stumps, another attempted heave under edge to fine leg for one
 
 
 Balls faced: 26
 Bowler: Fernando
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<B>Dropped!</b> Looks to heave this length ball from outside off, it goes high as you like, but Asalanka just fails to settle under this properly and lets it through"}]<B>Dropped!</b> Looks to heave this length ball from outside off, it goes high as you like, but Asalanka just fails to settle under this properly and lets it through
+<B>Dropped!</b> Looks to heave this length ball from outside off, it goes high as you like, but Asalanka just fails to settle under this properly and lets it through
 
 
 Balls faced: 27
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short ball, attempted pull loops up off his left glove to the vacant square leg"}]short ball, attempted pull loops up off his left glove to the vacant square leg
+short ball, attempted pull loops up off his left glove to the vacant square leg
 
 
 Balls faced: 28
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another swing and a miss. It's another well directed slower one, shorter in length. Thushara showing off his repertoire here"}]Another swing and a miss. It's another well directed slower one, shorter in length. Thushara showing off his repertoire here
+Another swing and a miss. It's another well directed slower one, shorter in length. Thushara showing off his repertoire here
 
 
 Balls faced: 29
 Bowler: Thushara
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pace-off, outside off, and Taskin is way too early on the leg side heave. Misses completely"}]Pace-off, outside off, and Taskin is way too early on the leg side heave. Misses completely
+Pace-off, outside off, and Taskin is way too early on the leg side heave. Misses completely
 
 
 Balls faced: 30
 Bowler: Thushara
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>What an outrageous shot!</b> Shot of the day? Series? Year? Just bends the back knee, gets low and smokes this lofted cover drive miles into the embankment. Tailender? You're having a laugh"}]<B>What an outrageous shot!</b> Shot of the day? Series? Year? Just bends the back knee, gets low and smokes this lofted cover drive miles into the embankment. Tailender? You're having a laugh
+<B>What an outrageous shot!</b> Shot of the day? Series? Year? Just bends the back knee, gets low and smokes this lofted cover drive miles into the embankment. Tailender? You're having a laugh
 
 
 Balls faced: 31
 Bowler: Thushara
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
-[{"type": "HTML", "html": "Alright, Thushara time!"}]Alright, Thushara time!
+Alright, Thushara time!
 
-[{"type": "HTML", "html": "<B>Edged for a maximum!</b> Full on off, looks to launch this over long on but gets a thick and high outside edge that flies to the third man boundary"}]<B>Edged for a maximum!</b> Full on off, looks to launch this over long on but gets a thick and high outside edge that flies to the third man boundary
+<B>Edged for a maximum!</b> Full on off, looks to launch this over long on but gets a thick and high outside edge that flies to the third man boundary
 
 
 Balls faced: 32
 Bowler: Shanaka
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Excellent work by DDS to end the game!</b> This was mistimed pull to deep midwicket, where DDS leaps up and takes it well over head, but pops it up before stepping over the ropes and coming back in to complete the catch. <B>Sri Lanka win by 28 runs and take the series 2-1!</b>"}]<B>Excellent work by DDS to end the game!</b> This was mistimed pull to deep midwicket, where DDS leaps up and takes it well over head, but pops it up before stepping over the ropes and coming back in to complete the catch. <B>Sri Lanka win by 28 runs and take the series 2-1!</b>
-[{"type": "HTML", "html": "And with that it's a wrap from us. Many thanks to all those who wrote in and kept myself and Fidel company. A reminder that the ODIs start on Wednesday, and that Isam's <a href=\"https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-3rd-t20i-1419826/match-report\">report</a> for this game will be up shortly. For now though, on behalf of the team, this is Madushka signing out!"}, {"type": "HTML", "html": "<B>Wanindu Hasaranga</b>: \"I watched the first two games in the dressing room, our boys played well throughout the series. The credit should go to the batters who batted really well, while the bowlers also defended very well. [Wicket was conducive to bowling?] Especially in the day game I trust my skills, and in a day game I know the wicket will grip so I trust myself. [Thushara] It's his first game this series, he bowled really well. This is a good series win for us and just think our bowling attack was too good for them. [preparing for the WC] This is our last series before the World, so we take a lot of confidence from this.\""}, {"type": "HTML", "html": "<B>Player of the Series</b> goes to <B>Kusal Mendis</b> for 181 runs across the three games: \"The wicket was a little two-paced at the start, some coming quick, some slow. It was quite hard to play in the first couple of overs. Then after the sixth over I was able to manage my game. [losing wickets put pressure?] Not pressure. I think Kamindu and Wanindu batted really well for a couple of overs, I played my own game. I played a couple of overs through singles and boundaries and Mathews and Dasun batted very well at the end. [happy with the series?] The batters and the bowling unit have done really well. Charith batted really well, as well as the fast bowlers and spinners. I'm very happy with the team.\""}, {"type": "HTML", "html": "<B>Nuwan Thushara</b> is unsurprisingly the <b>Player of the Match</b> for his figures of 5 for 20, including a <B>hattrick maiden</b>: \"I'm happy that I found my rhythm, and that I was able to do well the things that I'm good at and make an impact on the game. I'm really happy, it was the first hattrick in my life. In a match like this, I'm just pleased to be able to help the team.\""}, {"type": "HTML", "html": "<B>Najmul Hossain Shanto</b>: \"The way started they batted brilliantly, but we came back strongly specially in the last 4-5 overs. Credit goes to Nuwan Thushara the way he bowled, I think he bowled brilliantly. But we have to be careful going forward how we play in the first six overs. [Late recovery?] I think if you look at all three matches, we played some good cricket. Especially the way Rishad, Taskin and Mahedi batted, really happy for them. [positives ahead of the ODIs?] We can take a lot of confidence from this series, but that is a different format and we're looking forward to it.\""}, {"type": "HTML", "html": "Time for the post-series presentation"}, {"type": "HTML", "html": "Palinda: \"Thusharafor MoM and Kusal Mendis for POTS\""}, {"type": "HTML", "html": "AC: \"Shanaka becoming a last over specialist, wonder he can do that against top order batters, excellent thinking behind his bowling at the depth\""}, {"type": "HTML", "html": "Saki: \"Why not a 5 match series. This series was so entertaining!!!\" --- Good question. Reckon Bangladesh might have preferred the ODIs with the Champions Trophy next year. If they were out of it as well, we very well might have seen more T20s."}, {"type": "HTML", "html": "<B>6.36pm</b> Fireworks in the background as the players shake ends. So a hard fought series comes to an end with what was a comfortable win for Sri Lanka in the end. There were fireworks galore on the field too courtesy Rishad Hossain during his 30-ball 53, but it was little more than a footnote as the day belonged to Nuwan Thushara. In the side likely only due to Pathirana's injury, but a first over hattrick on his way to a five-for, completely derailed Bangladesh's chase and set Sri Lanka well on the way to victory. Kusal Mendis had earlier led the charge with a 55-ball 86 as Sri Lanka posted a competive 174 for 7. Bangladesh might have fancied chasing those down, but then Thushara happened."}]And with that it's a wrap from us. Many thanks to all those who wrote in and kept myself and Fidel company. A reminder that the ODIs start on Wednesday, and that Isam's <a href="https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-3rd-t20i-1419826/match-report">report</a> for this game will be up shortly. For now though, on behalf of the team, this is Madushka signing out! <B>Wanindu Hasaranga</b>: "I watched the first two games in the dressing room, our boys played well throughout the series. The credit should go to the batters who batted really well, while the bowlers also defended very well. [Wicket was conducive to bowling?] Especially in the day game I trust my skills, and in a day game I know the wicket will grip so I trust myself. [Thushara] It's his first game this series, he bowled really well. This is a good series win for us and just think our bowling attack was too good for them. [preparing for the WC] This is our last series before the World, so we take a lot of confidence from this." <B>Player of the Series</b> goes to <B>Kusal Mendis</b> for 181 runs across the three games: "The wicket was a little two-paced at the start, some coming quick, some slow. It was quite hard to play in the first couple of overs. Then after the sixth over I was able to manage my game. [losing wickets put pressure?] Not pressure. I think Kamindu and Wanindu batted really well for a couple of overs, I played my own game. I played a couple of overs through singles and boundaries and Mathews and Dasun batted very well at the end. [happy with the series?] The batters and the bowling unit have done really well. Charith batted really well, as well as the fast bowlers and spinners. I'm very happy with the team." <B>Nuwan Thushara</b> is unsurprisingly the <b>Player of the Match</b> for his figures of 5 for 20, including a <B>hattrick maiden</b>: "I'm happy that I found my rhythm, and that I was able to do well the things that I'm good at and make an impact on the game. I'm really happy, it was the first hattrick in my life. In a match like this, I'm just pleased to be able to help the team." <B>Najmul Hossain Shanto</b>: "The way started they batted brilliantly, but we came back strongly specially in the last 4-5 overs. Credit goes to Nuwan Thushara the way he bowled, I think he bowled brilliantly. But we have to be careful going forward how we play in the first six overs. [Late recovery?] I think if you look at all three matches, we played some good cricket. Especially the way Rishad, Taskin and Mahedi batted, really happy for them. [positives ahead of the ODIs?] We can take a lot of confidence from this series, but that is a different format and we're looking forward to it." Time for the post-series presentation Palinda: "Thusharafor MoM and Kusal Mendis for POTS" AC: "Shanaka becoming a last over specialist, wonder he can do that against top order batters, excellent thinking behind his bowling at the depth" Saki: "Why not a 5 match series. This series was so entertaining!!!" --- Good question. Reckon Bangladesh might have preferred the ODIs with the Champions Trophy next year. If they were out of it as well, we very well might have seen more T20s. <B>6.36pm</b> Fireworks in the background as the players shake ends. So a hard fought series comes to an end with what was a comfortable win for Sri Lanka in the end. There were fireworks galore on the field too courtesy Rishad Hossain during his 30-ball 53, but it was little more than a footnote as the day belonged to Nuwan Thushara. In the side likely only due to Pathirana's injury, but a first over hattrick on his way to a five-for, completely derailed Bangladesh's chase and set Sri Lanka well on the way to victory. Kusal Mendis had earlier led the charge with a 55-ball 86 as Sri Lanka posted a competive 174 for 7. Bangladesh might have fancied chasing those down, but then Thushara happened.
+Taskin is OUT! caught
+c de Silva b Shanaka
+Taskin Ahmed c de Silva b Shanaka 31 (21b 3x4 2x6) SR: 147.61
+<B>Excellent work by DDS to end the game!</b> This was mistimed pull to deep midwicket, where DDS leaps up and takes it well over head, but pops it up before stepping over the ropes and coming back in to complete the catch. <B>Sri Lanka win by 28 runs and take the series 2-1!</b>
+And with that it's a wrap from us. Many thanks to all those who wrote in and kept myself and Fidel company. A reminder that the ODIs start on Wednesday, and that Isam's <a href="https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-3rd-t20i-1419826/match-report">report</a> for this game will be up shortly. For now though, on behalf of the team, this is Madushka signing out! <B>Wanindu Hasaranga</b>: "I watched the first two games in the dressing room, our boys played well throughout the series. The credit should go to the batters who batted really well, while the bowlers also defended very well. [Wicket was conducive to bowling?] Especially in the day game I trust my skills, and in a day game I know the wicket will grip so I trust myself. [Thushara] It's his first game this series, he bowled really well. This is a good series win for us and just think our bowling attack was too good for them. [preparing for the WC] This is our last series before the World, so we take a lot of confidence from this." <B>Player of the Series</b> goes to <B>Kusal Mendis</b> for 181 runs across the three games: "The wicket was a little two-paced at the start, some coming quick, some slow. It was quite hard to play in the first couple of overs. Then after the sixth over I was able to manage my game. [losing wickets put pressure?] Not pressure. I think Kamindu and Wanindu batted really well for a couple of overs, I played my own game. I played a couple of overs through singles and boundaries and Mathews and Dasun batted very well at the end. [happy with the series?] The batters and the bowling unit have done really well. Charith batted really well, as well as the fast bowlers and spinners. I'm very happy with the team." <B>Nuwan Thushara</b> is unsurprisingly the <b>Player of the Match</b> for his figures of 5 for 20, including a <B>hattrick maiden</b>: "I'm happy that I found my rhythm, and that I was able to do well the things that I'm good at and make an impact on the game. I'm really happy, it was the first hattrick in my life. In a match like this, I'm just pleased to be able to help the team." <B>Najmul Hossain Shanto</b>: "The way started they batted brilliantly, but we came back strongly specially in the last 4-5 overs. Credit goes to Nuwan Thushara the way he bowled, I think he bowled brilliantly. But we have to be careful going forward how we play in the first six overs. [Late recovery?] I think if you look at all three matches, we played some good cricket. Especially the way Rishad, Taskin and Mahedi batted, really happy for them. [positives ahead of the ODIs?] We can take a lot of confidence from this series, but that is a different format and we're looking forward to it." Time for the post-series presentation Palinda: "Thusharafor MoM and Kusal Mendis for POTS" AC: "Shanaka becoming a last over specialist, wonder he can do that against top order batters, excellent thinking behind his bowling at the depth" Saki: "Why not a 5 match series. This series was so entertaining!!!" --- Good question. Reckon Bangladesh might have preferred the ODIs with the Champions Trophy next year. If they were out of it as well, we very well might have seen more T20s. <B>6.36pm</b> Fireworks in the background as the players shake ends. So a hard fought series comes to an end with what was a comfortable win for Sri Lanka in the end. There were fireworks galore on the field too courtesy Rishad Hossain during his 30-ball 53, but it was little more than a footnote as the day belonged to Nuwan Thushara. In the side likely only due to Pathirana's injury, but a first over hattrick on his way to a five-for, completely derailed Bangladesh's chase and set Sri Lanka well on the way to victory. Kusal Mendis had earlier led the charge with a 55-ball 86 as Sri Lanka posted a competive 174 for 7. Bangladesh might have fancied chasing those down, but then Thushara happened.
 
 Balls faced: 33
 Bowler: Shanaka
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "S Kishore: \"Thushara, Theekshana, Madhushanka, Hasaranga, Pathirana. Brilliant to see these young bloods perform for SL cricket. \""}]S Kishore: "Thushara, Theekshana, Madhushanka, Hasaranga, Pathirana. Brilliant to see these young bloods perform for SL cricket. "
+S Kishore: "Thushara, Theekshana, Madhushanka, Hasaranga, Pathirana. Brilliant to see these young bloods perform for SL cricket. "
 
-[{"type": "HTML", "html": "Wide yorker, left alone. Inside the blue lines, no wide given"}]Wide yorker, left alone. Inside the blue lines, no wide given
+Wide yorker, left alone. Inside the blue lines, no wide given
 
 
 Balls faced: 34
 Bowler: Shanaka
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Slower short one, goes for the hook way too early and misses"}]Slower short one, goes for the hook way too early and misses
+Slower short one, goes for the hook way too early and misses
 
 
 Balls faced: 35
 Bowler: Shanaka
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, looks to hack this leg side but gets an inside edge into the pads. They think about stealing the single, but Shanaka scurries to the ball"}]short of a length, looks to hack this leg side but gets an inside edge into the pads. They think about stealing the single, but Shanaka scurries to the ball
+short of a length, looks to hack this leg side but gets an inside edge into the pads. They think about stealing the single, but Shanaka scurries to the ball
 
 
 Balls faced: 36
 Bowler: Shanaka
 Over: 20
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: HOOK
 Run scored: 0
-[{"type": "HTML", "html": "30 needed off the last over. Shanaka to bowl it."}]30 needed off the last over. Shanaka to bowl it.
+30 needed off the last over. Shanaka to bowl it.
 
-[{"type": "HTML", "html": "Back of a length, down leg"}]Back of a length, down leg
+Back of a length, down leg
 
 Wide: 1
 Balls faced: 37
 Bowler: Fernando
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, clears the front leg and looks to go leg side. Ends up getting it to cover off the toe-end of the bat"}]full on off, clears the front leg and looks to go leg side. Ends up getting it to cover off the toe-end of the bat
+full on off, clears the front leg and looks to go leg side. Ends up getting it to cover off the toe-end of the bat
 
 
 Balls faced: 38
 Bowler: Fernando
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on the stumps, another attempted heave under edge to fine leg for one"}]length ball on the stumps, another attempted heave under edge to fine leg for one
+length ball on the stumps, another attempted heave under edge to fine leg for one
 
 
 Balls faced: 39
 Bowler: Fernando
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<B>Dropped!</b> Looks to heave this length ball from outside off, it goes high as you like, but Asalanka just fails to settle under this properly and lets it through"}]<B>Dropped!</b> Looks to heave this length ball from outside off, it goes high as you like, but Asalanka just fails to settle under this properly and lets it through
+<B>Dropped!</b> Looks to heave this length ball from outside off, it goes high as you like, but Asalanka just fails to settle under this properly and lets it through
 
 
 Balls faced: 40
 Bowler: Shanaka
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Excellent work by DDS to end the game!</b> This was mistimed pull to deep midwicket, where DDS leaps up and takes it well over head, but pops it up before stepping over the ropes and coming back in to complete the catch. <B>Sri Lanka win by 28 runs and take the series 2-1!</b>"}]<B>Excellent work by DDS to end the game!</b> This was mistimed pull to deep midwicket, where DDS leaps up and takes it well over head, but pops it up before stepping over the ropes and coming back in to complete the catch. <B>Sri Lanka win by 28 runs and take the series 2-1!</b>
-[{"type": "HTML", "html": "And with that it's a wrap from us. Many thanks to all those who wrote in and kept myself and Fidel company. A reminder that the ODIs start on Wednesday, and that Isam's <a href=\"https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-3rd-t20i-1419826/match-report\">report</a> for this game will be up shortly. For now though, on behalf of the team, this is Madushka signing out!"}, {"type": "HTML", "html": "<B>Wanindu Hasaranga</b>: \"I watched the first two games in the dressing room, our boys played well throughout the series. The credit should go to the batters who batted really well, while the bowlers also defended very well. [Wicket was conducive to bowling?] Especially in the day game I trust my skills, and in a day game I know the wicket will grip so I trust myself. [Thushara] It's his first game this series, he bowled really well. This is a good series win for us and just think our bowling attack was too good for them. [preparing for the WC] This is our last series before the World, so we take a lot of confidence from this.\""}, {"type": "HTML", "html": "<B>Player of the Series</b> goes to <B>Kusal Mendis</b> for 181 runs across the three games: \"The wicket was a little two-paced at the start, some coming quick, some slow. It was quite hard to play in the first couple of overs. Then after the sixth over I was able to manage my game. [losing wickets put pressure?] Not pressure. I think Kamindu and Wanindu batted really well for a couple of overs, I played my own game. I played a couple of overs through singles and boundaries and Mathews and Dasun batted very well at the end. [happy with the series?] The batters and the bowling unit have done really well. Charith batted really well, as well as the fast bowlers and spinners. I'm very happy with the team.\""}, {"type": "HTML", "html": "<B>Nuwan Thushara</b> is unsurprisingly the <b>Player of the Match</b> for his figures of 5 for 20, including a <B>hattrick maiden</b>: \"I'm happy that I found my rhythm, and that I was able to do well the things that I'm good at and make an impact on the game. I'm really happy, it was the first hattrick in my life. In a match like this, I'm just pleased to be able to help the team.\""}, {"type": "HTML", "html": "<B>Najmul Hossain Shanto</b>: \"The way started they batted brilliantly, but we came back strongly specially in the last 4-5 overs. Credit goes to Nuwan Thushara the way he bowled, I think he bowled brilliantly. But we have to be careful going forward how we play in the first six overs. [Late recovery?] I think if you look at all three matches, we played some good cricket. Especially the way Rishad, Taskin and Mahedi batted, really happy for them. [positives ahead of the ODIs?] We can take a lot of confidence from this series, but that is a different format and we're looking forward to it.\""}, {"type": "HTML", "html": "Time for the post-series presentation"}, {"type": "HTML", "html": "Palinda: \"Thusharafor MoM and Kusal Mendis for POTS\""}, {"type": "HTML", "html": "AC: \"Shanaka becoming a last over specialist, wonder he can do that against top order batters, excellent thinking behind his bowling at the depth\""}, {"type": "HTML", "html": "Saki: \"Why not a 5 match series. This series was so entertaining!!!\" --- Good question. Reckon Bangladesh might have preferred the ODIs with the Champions Trophy next year. If they were out of it as well, we very well might have seen more T20s."}, {"type": "HTML", "html": "<B>6.36pm</b> Fireworks in the background as the players shake ends. So a hard fought series comes to an end with what was a comfortable win for Sri Lanka in the end. There were fireworks galore on the field too courtesy Rishad Hossain during his 30-ball 53, but it was little more than a footnote as the day belonged to Nuwan Thushara. In the side likely only due to Pathirana's injury, but a first over hattrick on his way to a five-for, completely derailed Bangladesh's chase and set Sri Lanka well on the way to victory. Kusal Mendis had earlier led the charge with a 55-ball 86 as Sri Lanka posted a competive 174 for 7. Bangladesh might have fancied chasing those down, but then Thushara happened."}]And with that it's a wrap from us. Many thanks to all those who wrote in and kept myself and Fidel company. A reminder that the ODIs start on Wednesday, and that Isam's <a href="https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-3rd-t20i-1419826/match-report">report</a> for this game will be up shortly. For now though, on behalf of the team, this is Madushka signing out! <B>Wanindu Hasaranga</b>: "I watched the first two games in the dressing room, our boys played well throughout the series. The credit should go to the batters who batted really well, while the bowlers also defended very well. [Wicket was conducive to bowling?] Especially in the day game I trust my skills, and in a day game I know the wicket will grip so I trust myself. [Thushara] It's his first game this series, he bowled really well. This is a good series win for us and just think our bowling attack was too good for them. [preparing for the WC] This is our last series before the World, so we take a lot of confidence from this." <B>Player of the Series</b> goes to <B>Kusal Mendis</b> for 181 runs across the three games: "The wicket was a little two-paced at the start, some coming quick, some slow. It was quite hard to play in the first couple of overs. Then after the sixth over I was able to manage my game. [losing wickets put pressure?] Not pressure. I think Kamindu and Wanindu batted really well for a couple of overs, I played my own game. I played a couple of overs through singles and boundaries and Mathews and Dasun batted very well at the end. [happy with the series?] The batters and the bowling unit have done really well. Charith batted really well, as well as the fast bowlers and spinners. I'm very happy with the team." <B>Nuwan Thushara</b> is unsurprisingly the <b>Player of the Match</b> for his figures of 5 for 20, including a <B>hattrick maiden</b>: "I'm happy that I found my rhythm, and that I was able to do well the things that I'm good at and make an impact on the game. I'm really happy, it was the first hattrick in my life. In a match like this, I'm just pleased to be able to help the team." <B>Najmul Hossain Shanto</b>: "The way started they batted brilliantly, but we came back strongly specially in the last 4-5 overs. Credit goes to Nuwan Thushara the way he bowled, I think he bowled brilliantly. But we have to be careful going forward how we play in the first six overs. [Late recovery?] I think if you look at all three matches, we played some good cricket. Especially the way Rishad, Taskin and Mahedi batted, really happy for them. [positives ahead of the ODIs?] We can take a lot of confidence from this series, but that is a different format and we're looking forward to it." Time for the post-series presentation Palinda: "Thusharafor MoM and Kusal Mendis for POTS" AC: "Shanaka becoming a last over specialist, wonder he can do that against top order batters, excellent thinking behind his bowling at the depth" Saki: "Why not a 5 match series. This series was so entertaining!!!" --- Good question. Reckon Bangladesh might have preferred the ODIs with the Champions Trophy next year. If they were out of it as well, we very well might have seen more T20s. <B>6.36pm</b> Fireworks in the background as the players shake ends. So a hard fought series comes to an end with what was a comfortable win for Sri Lanka in the end. There were fireworks galore on the field too courtesy Rishad Hossain during his 30-ball 53, but it was little more than a footnote as the day belonged to Nuwan Thushara. In the side likely only due to Pathirana's injury, but a first over hattrick on his way to a five-for, completely derailed Bangladesh's chase and set Sri Lanka well on the way to victory. Kusal Mendis had earlier led the charge with a 55-ball 86 as Sri Lanka posted a competive 174 for 7. Bangladesh might have fancied chasing those down, but then Thushara happened.
+Taskin is OUT! caught
+c de Silva b Shanaka
+Taskin Ahmed c de Silva b Shanaka 31 (21b 3x4 2x6) SR: 147.61
+<B>Excellent work by DDS to end the game!</b> This was mistimed pull to deep midwicket, where DDS leaps up and takes it well over head, but pops it up before stepping over the ropes and coming back in to complete the catch. <B>Sri Lanka win by 28 runs and take the series 2-1!</b>
+And with that it's a wrap from us. Many thanks to all those who wrote in and kept myself and Fidel company. A reminder that the ODIs start on Wednesday, and that Isam's <a href="https://www.espncricinfo.com/series/bangladesh-vs-sri-lanka-2023-24-1419819/bangladesh-vs-sri-lanka-3rd-t20i-1419826/match-report">report</a> for this game will be up shortly. For now though, on behalf of the team, this is Madushka signing out! <B>Wanindu Hasaranga</b>: "I watched the first two games in the dressing room, our boys played well throughout the series. The credit should go to the batters who batted really well, while the bowlers also defended very well. [Wicket was conducive to bowling?] Especially in the day game I trust my skills, and in a day game I know the wicket will grip so I trust myself. [Thushara] It's his first game this series, he bowled really well. This is a good series win for us and just think our bowling attack was too good for them. [preparing for the WC] This is our last series before the World, so we take a lot of confidence from this." <B>Player of the Series</b> goes to <B>Kusal Mendis</b> for 181 runs across the three games: "The wicket was a little two-paced at the start, some coming quick, some slow. It was quite hard to play in the first couple of overs. Then after the sixth over I was able to manage my game. [losing wickets put pressure?] Not pressure. I think Kamindu and Wanindu batted really well for a couple of overs, I played my own game. I played a couple of overs through singles and boundaries and Mathews and Dasun batted very well at the end. [happy with the series?] The batters and the bowling unit have done really well. Charith batted really well, as well as the fast bowlers and spinners. I'm very happy with the team." <B>Nuwan Thushara</b> is unsurprisingly the <b>Player of the Match</b> for his figures of 5 for 20, including a <B>hattrick maiden</b>: "I'm happy that I found my rhythm, and that I was able to do well the things that I'm good at and make an impact on the game. I'm really happy, it was the first hattrick in my life. In a match like this, I'm just pleased to be able to help the team." <B>Najmul Hossain Shanto</b>: "The way started they batted brilliantly, but we came back strongly specially in the last 4-5 overs. Credit goes to Nuwan Thushara the way he bowled, I think he bowled brilliantly. But we have to be careful going forward how we play in the first six overs. [Late recovery?] I think if you look at all three matches, we played some good cricket. Especially the way Rishad, Taskin and Mahedi batted, really happy for them. [positives ahead of the ODIs?] We can take a lot of confidence from this series, but that is a different format and we're looking forward to it." Time for the post-series presentation Palinda: "Thusharafor MoM and Kusal Mendis for POTS" AC: "Shanaka becoming a last over specialist, wonder he can do that against top order batters, excellent thinking behind his bowling at the depth" Saki: "Why not a 5 match series. This series was so entertaining!!!" --- Good question. Reckon Bangladesh might have preferred the ODIs with the Champions Trophy next year. If they were out of it as well, we very well might have seen more T20s. <B>6.36pm</b> Fireworks in the background as the players shake ends. So a hard fought series comes to an end with what was a comfortable win for Sri Lanka in the end. There were fireworks galore on the field too courtesy Rishad Hossain during his 30-ball 53, but it was little more than a footnote as the day belonged to Nuwan Thushara. In the side likely only due to Pathirana's injury, but a first over hattrick on his way to a five-for, completely derailed Bangladesh's chase and set Sri Lanka well on the way to victory. Kusal Mendis had earlier led the charge with a 55-ball 86 as Sri Lanka posted a competive 174 for 7. Bangladesh might have fancied chasing those down, but then Thushara happened.
 
 Balls faced: 41
 Bowler: Shanaka
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "S Kishore: \"Thushara, Theekshana, Madhushanka, Hasaranga, Pathirana. Brilliant to see these young bloods perform for SL cricket. \""}]S Kishore: "Thushara, Theekshana, Madhushanka, Hasaranga, Pathirana. Brilliant to see these young bloods perform for SL cricket. "
+S Kishore: "Thushara, Theekshana, Madhushanka, Hasaranga, Pathirana. Brilliant to see these young bloods perform for SL cricket. "
 
-[{"type": "HTML", "html": "Wide yorker, left alone. Inside the blue lines, no wide given"}]Wide yorker, left alone. Inside the blue lines, no wide given
+Wide yorker, left alone. Inside the blue lines, no wide given
 
 
 Balls faced: 42
 Bowler: Shanaka
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Slower short one, goes for the hook way too early and misses"}]Slower short one, goes for the hook way too early and misses
+Slower short one, goes for the hook way too early and misses
 
 
 Balls faced: 43
 Bowler: Shanaka
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, looks to hack this leg side but gets an inside edge into the pads. They think about stealing the single, but Shanaka scurries to the ball"}]short of a length, looks to hack this leg side but gets an inside edge into the pads. They think about stealing the single, but Shanaka scurries to the ball
+short of a length, looks to hack this leg side but gets an inside edge into the pads. They think about stealing the single, but Shanaka scurries to the ball
 
 
 Balls faced: 44
 Bowler: Shanaka
 Over: 20
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: HOOK
 Run scored: 0
-[{"type": "HTML", "html": "30 needed off the last over. Shanaka to bowl it."}]30 needed off the last over. Shanaka to bowl it.
+30 needed off the last over. Shanaka to bowl it.
 
-[{"type": "HTML", "html": "Back of a length, down leg"}]Back of a length, down leg
+Back of a length, down leg
 
 Wide: 1
 
@@ -892,181 +988,199 @@ Match: all_games_1419819_1419828.json
 Balls faced: 1
 Bowler: Pramod
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another slower short of a length ball outside off that does not rise up at all. Taskin lets the ball go"}]Another slower short of a length ball outside off that does not rise up at all. Taskin lets the ball go
+Another slower short of a length ball outside off that does not rise up at all. Taskin lets the ball go
 
 
 Balls faced: 2
 Bowler: Pramod
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower good length ball on middle, he plays with an open face to point for a quick run"}]Slower good length ball on middle, he plays with an open face to point for a quick run
+Slower good length ball on middle, he plays with an open face to point for a quick run
 
 
 Balls faced: 3
 Bowler: Pramod
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "That hard length causing problems once more. Was back of a length on middle stump. He has an almighty slog, misses altogether."}]That hard length causing problems once more. Was back of a length on middle stump. He has an almighty slog, misses altogether.
+That hard length causing problems once more. Was back of a length on middle stump. He has an almighty slog, misses altogether.
 
 
 Balls faced: 4
 Bowler: Pramod
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Taskin time"}]Taskin time
+Taskin time
 
-[{"type": "HTML", "html": "<b>And he gets off the mark with a four. </b> Full outside off, he opens the face of the bat and gets it past point"}]<b>And he gets off the mark with a four. </b> Full outside off, he opens the face of the bat and gets it past point
+<b>And he gets off the mark with a four. </b> Full outside off, he opens the face of the bat and gets it past point
 
 
 Balls faced: 5
 Bowler: Pramod
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another slower short of a length ball outside off that does not rise up at all. Taskin lets the ball go"}]Another slower short of a length ball outside off that does not rise up at all. Taskin lets the ball go
+Another slower short of a length ball outside off that does not rise up at all. Taskin lets the ball go
 
 
 Balls faced: 6
 Bowler: Pramod
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower good length ball on middle, he plays with an open face to point for a quick run"}]Slower good length ball on middle, he plays with an open face to point for a quick run
+Slower good length ball on middle, he plays with an open face to point for a quick run
 
 
 Balls faced: 7
 Bowler: Pramod
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "That hard length causing problems once more. Was back of a length on middle stump. He has an almighty slog, misses altogether."}]That hard length causing problems once more. Was back of a length on middle stump. He has an almighty slog, misses altogether.
+That hard length causing problems once more. Was back of a length on middle stump. He has an almighty slog, misses altogether.
 
 
 Balls faced: 8
 Bowler: Pramod
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Taskin time"}]Taskin time
+Taskin time
 
-[{"type": "HTML", "html": "<b>And he gets off the mark with a four. </b> Full outside off, he opens the face of the bat and gets it past point"}]<b>And he gets off the mark with a four. </b> Full outside off, he opens the face of the bat and gets it past point
+<b>And he gets off the mark with a four. </b> Full outside off, he opens the face of the bat and gets it past point
 
 
 Balls faced: 9
 Bowler: Pramod
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another sharp back of a length ball into Taskin's body. He once again gets it off the splice to the bowler, who makes an acrobatic save"}]Another sharp back of a length ball into Taskin's body. He once again gets it off the splice to the bowler, who makes an acrobatic save
+Another sharp back of a length ball into Taskin's body. He once again gets it off the splice to the bowler, who makes an acrobatic save
 
 
 Balls faced: 10
 Bowler: Pramod
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shanks it completely, but still gets a run. Pacy back of a length ball on middle, he looks to pull it away, gets it off the splice back towards the bowler. He dives but can't gets a hand on it"}]Shanks it completely, but still gets a run. Pacy back of a length ball on middle, he looks to pull it away, gets it off the splice back towards the bowler. He dives but can't gets a hand on it
+Shanks it completely, but still gets a run. Pacy back of a length ball on middle, he looks to pull it away, gets it off the splice back towards the bowler. He dives but can't gets a hand on it
 
 
 Balls faced: 11
 Bowler: Pramod
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Low full toss well outside off, he backs away, opens the face of the bat and carves him past point"}]Low full toss well outside off, he backs away, opens the face of the bat and carves him past point
+Low full toss well outside off, he backs away, opens the face of the bat and carves him past point
 
 
 Balls faced: 12
 Bowler: Pramod
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Back of a hand slower ball but that was right in Taskin's hard. He waits for it and slams him over wide long-on."}]Back of a hand slower ball but that was right in Taskin's hard. He waits for it and slams him over wide long-on.
+Back of a hand slower ball but that was right in Taskin's hard. He waits for it and slams him over wide long-on.
 
 
 Balls faced: 13
 Bowler: Lahiru Kumara
 Over: 50
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in short on leg stump, he backs away looking for a pull. Misses but Hridoy is down for a bye"}]Banged in short on leg stump, he backs away looking for a pull. Misses but Hridoy is down for a bye
+Banged in short on leg stump, he backs away looking for a pull. Misses but Hridoy is down for a bye
 
 Byes: 1
 Balls faced: 14
 Bowler: Lahiru Kumara
 Over: 50
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "backs away as Kumara follows him. It ends up being a full toss as he drills it to long-on"}]backs away as Kumara follows him. It ends up being a full toss as he drills it to long-on
+backs away as Kumara follows him. It ends up being a full toss as he drills it to long-on
 
 
 Balls faced: 15
 Bowler: Pramod
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another sharp back of a length ball into Taskin's body. He once again gets it off the splice to the bowler, who makes an acrobatic save"}]Another sharp back of a length ball into Taskin's body. He once again gets it off the splice to the bowler, who makes an acrobatic save
+Another sharp back of a length ball into Taskin's body. He once again gets it off the splice to the bowler, who makes an acrobatic save
 
 
 Balls faced: 16
 Bowler: Pramod
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shanks it completely, but still gets a run. Pacy back of a length ball on middle, he looks to pull it away, gets it off the splice back towards the bowler. He dives but can't gets a hand on it"}]Shanks it completely, but still gets a run. Pacy back of a length ball on middle, he looks to pull it away, gets it off the splice back towards the bowler. He dives but can't gets a hand on it
+Shanks it completely, but still gets a run. Pacy back of a length ball on middle, he looks to pull it away, gets it off the splice back towards the bowler. He dives but can't gets a hand on it
 
 
 Balls faced: 17
 Bowler: Pramod
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Low full toss well outside off, he backs away, opens the face of the bat and carves him past point"}]Low full toss well outside off, he backs away, opens the face of the bat and carves him past point
+Low full toss well outside off, he backs away, opens the face of the bat and carves him past point
 
 
 Balls faced: 18
 Bowler: Pramod
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Back of a hand slower ball but that was right in Taskin's hard. He waits for it and slams him over wide long-on."}]Back of a hand slower ball but that was right in Taskin's hard. He waits for it and slams him over wide long-on.
+Back of a hand slower ball but that was right in Taskin's hard. He waits for it and slams him over wide long-on.
 
 
 
@@ -1074,58 +1188,68 @@ Match: all_games_1425117_1425129.json
 Balls faced: 1
 Bowler: Ngarava
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Huge mix up! </strong> Fuller length on the pads, taps it to short mid wicket and sets off for a single, Rishad did not respond to the call and both the batters are stuck at the non-striker's end"}]<strong>Huge mix up! </strong> Fuller length on the pads, taps it to short mid wicket and sets off for a single, Rishad did not respond to the call and both the batters are stuck at the non-striker's end
+Taskin is OUT! run out
+run out (Bennett/†Madande)
+Taskin Ahmed run out (Bennett/†Madande) 0 (3b 0x4 0x6 2m) SR: 0
+<strong>Huge mix up! </strong> Fuller length on the pads, taps it to short mid wicket and sets off for a single, Rishad did not respond to the call and both the batters are stuck at the non-striker's end
 
 
 Balls faced: 2
 Bowler: Ngarava
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tight length ball on the stumps, defends off the front foot to extra cover"}]Tight length ball on the stumps, defends off the front foot to extra cover
+Tight length ball on the stumps, defends off the front foot to extra cover
 
 
 Balls faced: 3
 Bowler: Ngarava
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Low full-toss down the leg side, clips the pads as Taskin fails to connect the ball"}]Low full-toss down the leg side, clips the pads as Taskin fails to connect the ball
+Low full-toss down the leg side, clips the pads as Taskin fails to connect the ball
 
 
 Balls faced: 4
 Bowler: Ngarava
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Huge mix up! </strong> Fuller length on the pads, taps it to short mid wicket and sets off for a single, Rishad did not respond to the call and both the batters are stuck at the non-striker's end"}]<strong>Huge mix up! </strong> Fuller length on the pads, taps it to short mid wicket and sets off for a single, Rishad did not respond to the call and both the batters are stuck at the non-striker's end
+Taskin is OUT! run out
+run out (Bennett/†Madande)
+Taskin Ahmed run out (Bennett/†Madande) 0 (3b 0x4 0x6 2m) SR: 0
+<strong>Huge mix up! </strong> Fuller length on the pads, taps it to short mid wicket and sets off for a single, Rishad did not respond to the call and both the batters are stuck at the non-striker's end
 
 
 Balls faced: 5
 Bowler: Ngarava
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tight length ball on the stumps, defends off the front foot to extra cover"}]Tight length ball on the stumps, defends off the front foot to extra cover
+Tight length ball on the stumps, defends off the front foot to extra cover
 
 
 Balls faced: 6
 Bowler: Ngarava
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Low full-toss down the leg side, clips the pads as Taskin fails to connect the ball"}]Low full-toss down the leg side, clips the pads as Taskin fails to connect the ball
+Low full-toss down the leg side, clips the pads as Taskin fails to connect the ball

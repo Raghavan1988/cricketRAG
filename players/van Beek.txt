@@ -2,521 +2,573 @@ Match: all_games_1377745_1377755.json
 Balls faced: 1
 Bowler: Kenjige
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "van Beek joins his skipper"}]van Beek joins his skipper
+van Beek joins his skipper
 
-[{"type": "HTML", "html": "full delivery on middle and leg stump. van Beek comes forward and defends it into the on side with soft hands"}]full delivery on middle and leg stump. van Beek comes forward and defends it into the on side with soft hands
+full delivery on middle and leg stump. van Beek comes forward and defends it into the on side with soft hands
 
 
 Balls faced: 2
 Bowler: Patel
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full delivery on leg stump. van Beek presses forward and turns it into the on side to get off the mark"}]full delivery on leg stump. van Beek presses forward and turns it into the on side to get off the mark
+full delivery on leg stump. van Beek presses forward and turns it into the on side to get off the mark
 
 
 Balls faced: 3
 Bowler: Patel
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full delivery outside off stump. van Beek lunges forward and drives it towards mid off"}]full delivery outside off stump. van Beek lunges forward and drives it towards mid off
+full delivery outside off stump. van Beek lunges forward and drives it towards mid off
 
 
 Balls faced: 4
 Bowler: Patel
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length delivery on off stump that sticks in the surface. van Beek closes his bat face and gets a leading edge into the off side"}]back of a length delivery on off stump that sticks in the surface. van Beek closes his bat face and gets a leading edge into the off side
+back of a length delivery on off stump that sticks in the surface. van Beek closes his bat face and gets a leading edge into the off side
 
 
 Balls faced: 5
 Bowler: Kenjige
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "van Beek joins his skipper"}]van Beek joins his skipper
+van Beek joins his skipper
 
-[{"type": "HTML", "html": "full delivery on middle and leg stump. van Beek comes forward and defends it into the on side with soft hands"}]full delivery on middle and leg stump. van Beek comes forward and defends it into the on side with soft hands
+full delivery on middle and leg stump. van Beek comes forward and defends it into the on side with soft hands
 
 
 Balls faced: 6
 Bowler: Kenjige
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full delivery on middle and leg stump. van Beek knocks it down the ground for another single"}]full delivery on middle and leg stump. van Beek knocks it down the ground for another single
+full delivery on middle and leg stump. van Beek knocks it down the ground for another single
 
 
 Balls faced: 7
 Bowler: Kenjige
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full delivery outside off. van Beek pushes it towards short extra cover"}]full delivery outside off. van Beek pushes it towards short extra cover
+full delivery outside off. van Beek pushes it towards short extra cover
 
 
 Balls faced: 8
 Bowler: Kenjige
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length delivery on middle and off stump. van Beek lunges forward and defends"}]length delivery on middle and off stump. van Beek lunges forward and defends
+length delivery on middle and off stump. van Beek lunges forward and defends
 
 
 Balls faced: 9
 Bowler: Patel
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full delivery on leg stump. van Beek presses forward and turns it into the on side to get off the mark"}]full delivery on leg stump. van Beek presses forward and turns it into the on side to get off the mark
+full delivery on leg stump. van Beek presses forward and turns it into the on side to get off the mark
 
 
 Balls faced: 10
 Bowler: Patel
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full delivery outside off stump. van Beek lunges forward and drives it towards mid off"}]full delivery outside off stump. van Beek lunges forward and drives it towards mid off
+full delivery outside off stump. van Beek lunges forward and drives it towards mid off
 
 
 Balls faced: 11
 Bowler: Patel
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length delivery on off stump that sticks in the surface. van Beek closes his bat face and gets a leading edge into the off side"}]back of a length delivery on off stump that sticks in the surface. van Beek closes his bat face and gets a leading edge into the off side
+back of a length delivery on off stump that sticks in the surface. van Beek closes his bat face and gets a leading edge into the off side
 
 
 Balls faced: 12
 Bowler: Patel
 Over: 38
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "oh dear! Fired down the leg side. van Beek does not get bat on it and the keeper cannot gather either. Four extra runs added to the Dutch total!"}]oh dear! Fired down the leg side. van Beek does not get bat on it and the keeper cannot gather either. Four extra runs added to the Dutch total!
+oh dear! Fired down the leg side. van Beek does not get bat on it and the keeper cannot gather either. Four extra runs added to the Dutch total!
 
 Wide: 4
 Balls faced: 13
 Bowler: Patel
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length delivery at the stumps. van Beek hangs back and works it into the leg side for another single"}]back of a length delivery at the stumps. van Beek hangs back and works it into the leg side for another single
+back of a length delivery at the stumps. van Beek hangs back and works it into the leg side for another single
 
 
 Balls faced: 14
 Bowler: Patel
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full delivery on middle and leg stump and flicks it down the ground"}]full delivery on middle and leg stump and flicks it down the ground
+full delivery on middle and leg stump and flicks it down the ground
 
 
 Balls faced: 15
 Bowler: Kenjige
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full delivery on middle and leg stump. van Beek knocks it down the ground for another single"}]full delivery on middle and leg stump. van Beek knocks it down the ground for another single
+full delivery on middle and leg stump. van Beek knocks it down the ground for another single
 
 
 Balls faced: 16
 Bowler: Kenjige
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full delivery outside off. van Beek pushes it towards short extra cover"}]full delivery outside off. van Beek pushes it towards short extra cover
+full delivery outside off. van Beek pushes it towards short extra cover
 
 
 Balls faced: 17
 Bowler: Kenjige
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length delivery on middle and off stump. van Beek lunges forward and defends"}]length delivery on middle and off stump. van Beek lunges forward and defends
+length delivery on middle and off stump. van Beek lunges forward and defends
 
 
 Balls faced: 18
 Bowler: Netravalkar
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length delivery just outside off stump. van Beek comes half forward and drops it with soft hands"}]back of a length delivery just outside off stump. van Beek comes half forward and drops it with soft hands
+back of a length delivery just outside off stump. van Beek comes half forward and drops it with soft hands
 
 
 Balls faced: 19
 Bowler: Netravalkar
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length delivery just outside off stump. van Beek tips it into the off side and calls his skipper through for the single"}]length delivery just outside off stump. van Beek tips it into the off side and calls his skipper through for the single
+length delivery just outside off stump. van Beek tips it into the off side and calls his skipper through for the single
 
 
 Balls faced: 20
 Bowler: Netravalkar
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Keeper up to the stumps"}]Keeper up to the stumps
+Keeper up to the stumps
 
-[{"type": "HTML", "html": "full delivery that hones in on off stump. van Beek defends into the off side"}]full delivery that hones in on off stump. van Beek defends into the off side
+full delivery that hones in on off stump. van Beek defends into the off side
 
 
 Balls faced: 21
 Bowler: Netravalkar
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Netravalkar is back"}, {"type": "HTML", "html": "Netherlands need just 34 runs now. If Edwards bats through the innings, that should not be a problem..."}]Netravalkar is back Netherlands need just 34 runs now. If Edwards bats through the innings, that should not be a problem...
+Netravalkar is back Netherlands need just 34 runs now. If Edwards bats through the innings, that should not be a problem...
 
-[{"type": "HTML", "html": "back of a length delivery just outside off stump. van Beek gets up on his toes and drops it into the off side"}]back of a length delivery just outside off stump. van Beek gets up on his toes and drops it into the off side
+back of a length delivery just outside off stump. van Beek gets up on his toes and drops it into the off side
 
 
 Balls faced: 22
 Bowler: Patel
 Over: 38
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "oh dear! Fired down the leg side. van Beek does not get bat on it and the keeper cannot gather either. Four extra runs added to the Dutch total!"}]oh dear! Fired down the leg side. van Beek does not get bat on it and the keeper cannot gather either. Four extra runs added to the Dutch total!
+oh dear! Fired down the leg side. van Beek does not get bat on it and the keeper cannot gather either. Four extra runs added to the Dutch total!
 
 Wide: 4
 Balls faced: 23
 Bowler: Patel
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length delivery at the stumps. van Beek hangs back and works it into the leg side for another single"}]back of a length delivery at the stumps. van Beek hangs back and works it into the leg side for another single
+back of a length delivery at the stumps. van Beek hangs back and works it into the leg side for another single
 
 
 Balls faced: 24
 Bowler: Patel
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full delivery on middle and leg stump and flicks it down the ground"}]full delivery on middle and leg stump and flicks it down the ground
+full delivery on middle and leg stump and flicks it down the ground
 
 
 Balls faced: 25
 Bowler: Patel
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full delivery just outside off stump. van Beek gets onto the front foot and drives it down the ground"}]full delivery just outside off stump. van Beek gets onto the front foot and drives it down the ground
+full delivery just outside off stump. van Beek gets onto the front foot and drives it down the ground
 
 
 Balls faced: 26
 Bowler: Netravalkar
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length delivery just outside off stump. van Beek comes half forward and drops it with soft hands"}]back of a length delivery just outside off stump. van Beek comes half forward and drops it with soft hands
+back of a length delivery just outside off stump. van Beek comes half forward and drops it with soft hands
 
 
 Balls faced: 27
 Bowler: Netravalkar
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length delivery just outside off stump. van Beek tips it into the off side and calls his skipper through for the single"}]length delivery just outside off stump. van Beek tips it into the off side and calls his skipper through for the single
+length delivery just outside off stump. van Beek tips it into the off side and calls his skipper through for the single
 
 
 Balls faced: 28
 Bowler: Netravalkar
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Keeper up to the stumps"}]Keeper up to the stumps
+Keeper up to the stumps
 
-[{"type": "HTML", "html": "full delivery that hones in on off stump. van Beek defends into the off side"}]full delivery that hones in on off stump. van Beek defends into the off side
+full delivery that hones in on off stump. van Beek defends into the off side
 
 
 Balls faced: 29
 Bowler: Netravalkar
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Netravalkar is back"}, {"type": "HTML", "html": "Netherlands need just 34 runs now. If Edwards bats through the innings, that should not be a problem..."}]Netravalkar is back Netherlands need just 34 runs now. If Edwards bats through the innings, that should not be a problem...
+Netravalkar is back Netherlands need just 34 runs now. If Edwards bats through the innings, that should not be a problem...
 
-[{"type": "HTML", "html": "back of a length delivery just outside off stump. van Beek gets up on his toes and drops it into the off side"}]back of a length delivery just outside off stump. van Beek gets up on his toes and drops it into the off side
+back of a length delivery just outside off stump. van Beek gets up on his toes and drops it into the off side
 
 
 Balls faced: 30
 Bowler: Netravalkar
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length delivery outside off stump. van Beek eases it into the off side and ambles across to the other end"}]back of a length delivery outside off stump. van Beek eases it into the off side and ambles across to the other end
+back of a length delivery outside off stump. van Beek eases it into the off side and ambles across to the other end
 
 
 Balls faced: 31
 Bowler: Netravalkar
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "off-pace delivery on a length on off stump. van Beek turns it into the on side"}]off-pace delivery on a length on off stump. van Beek turns it into the on side
+off-pace delivery on a length on off stump. van Beek turns it into the on side
 
 
 Balls faced: 32
 Bowler: Netravalkar
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length delivery outside off stump. van Beek stands up tall and cuts it towards deep cover point for one"}]back of a length delivery outside off stump. van Beek stands up tall and cuts it towards deep cover point for one
+back of a length delivery outside off stump. van Beek stands up tall and cuts it towards deep cover point for one
 
 
 Balls faced: 33
 Bowler: Netravalkar
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "USA can have one more fielder on the fence now. But they need wickets, and they need them quickly. It might not be a bad ploy to bring the odd fielder up to try and build pressure because they are definitely not going to contain the Netherlands..."}]USA can have one more fielder on the fence now. But they need wickets, and they need them quickly. It might not be a bad ploy to bring the odd fielder up to try and build pressure because they are definitely not going to contain the Netherlands...
+USA can have one more fielder on the fence now. But they need wickets, and they need them quickly. It might not be a bad ploy to bring the odd fielder up to try and build pressure because they are definitely not going to contain the Netherlands...
 
-[{"type": "HTML", "html": "length delivery just outside off stump. van Beek gets forward and defends. That might have been a slight change-up!"}]length delivery just outside off stump. van Beek gets forward and defends. That might have been a slight change-up!
+length delivery just outside off stump. van Beek gets forward and defends. That might have been a slight change-up!
 
 
 Balls faced: 34
 Bowler: Patel
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full delivery just outside off stump. van Beek gets onto the front foot and drives it down the ground"}]full delivery just outside off stump. van Beek gets onto the front foot and drives it down the ground
+full delivery just outside off stump. van Beek gets onto the front foot and drives it down the ground
 
 
 Balls faced: 35
 Bowler: Jasdeep
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length delivery at the stumps. van Beek plants his front foot across and helps it behind square on the leg side. Edwards is pushing for the second again but this time, decides against it"}]length delivery at the stumps. van Beek plants his front foot across and helps it behind square on the leg side. Edwards is pushing for the second again but this time, decides against it
-[{"type": "HTML", "html": "Seems like Jessy is struggling here. The physio is out. He has a drink, and looks good to go now"}]Seems like Jessy is struggling here. The physio is out. He has a drink, and looks good to go now
+length delivery at the stumps. van Beek plants his front foot across and helps it behind square on the leg side. Edwards is pushing for the second again but this time, decides against it
+Seems like Jessy is struggling here. The physio is out. He has a drink, and looks good to go now
 
 Balls faced: 36
 Bowler: Jasdeep
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "juicy full toss outside off stump. van Beek drills it straight to short extra cover. Jones might have hurt himself trying to stop that"}]juicy full toss outside off stump. van Beek drills it straight to short extra cover. Jones might have hurt himself trying to stop that
+juicy full toss outside off stump. van Beek drills it straight to short extra cover. Jones might have hurt himself trying to stop that
 
 
 Balls faced: 37
 Bowler: Jasdeep
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Jessy Singh is back. He does not have a lot of runs to play with, though..."}]Jessy Singh is back. He does not have a lot of runs to play with, though...
+Jessy Singh is back. He does not have a lot of runs to play with, though...
 
-[{"type": "HTML", "html": "length delivery just outside off stump. van Beek nudges it into the off side for a single"}]length delivery just outside off stump. van Beek nudges it into the off side for a single
+length delivery just outside off stump. van Beek nudges it into the off side for a single
 
 
 Balls faced: 38
 Bowler: Netravalkar
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length delivery outside off stump. van Beek eases it into the off side and ambles across to the other end"}]back of a length delivery outside off stump. van Beek eases it into the off side and ambles across to the other end
+back of a length delivery outside off stump. van Beek eases it into the off side and ambles across to the other end
 
 
 Balls faced: 39
 Bowler: Netravalkar
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "off-pace delivery on a length on off stump. van Beek turns it into the on side"}]off-pace delivery on a length on off stump. van Beek turns it into the on side
+off-pace delivery on a length on off stump. van Beek turns it into the on side
 
 
 Balls faced: 40
 Bowler: Netravalkar
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length delivery outside off stump. van Beek stands up tall and cuts it towards deep cover point for one"}]back of a length delivery outside off stump. van Beek stands up tall and cuts it towards deep cover point for one
+back of a length delivery outside off stump. van Beek stands up tall and cuts it towards deep cover point for one
 
 
 Balls faced: 41
 Bowler: Netravalkar
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "USA can have one more fielder on the fence now. But they need wickets, and they need them quickly. It might not be a bad ploy to bring the odd fielder up to try and build pressure because they are definitely not going to contain the Netherlands..."}]USA can have one more fielder on the fence now. But they need wickets, and they need them quickly. It might not be a bad ploy to bring the odd fielder up to try and build pressure because they are definitely not going to contain the Netherlands...
+USA can have one more fielder on the fence now. But they need wickets, and they need them quickly. It might not be a bad ploy to bring the odd fielder up to try and build pressure because they are definitely not going to contain the Netherlands...
 
-[{"type": "HTML", "html": "length delivery just outside off stump. van Beek gets forward and defends. That might have been a slight change-up!"}]length delivery just outside off stump. van Beek gets forward and defends. That might have been a slight change-up!
+length delivery just outside off stump. van Beek gets forward and defends. That might have been a slight change-up!
 
 
 Balls faced: 42
 Bowler: Netravalkar
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length delivery outside off stump. van Beek goes nibbling at it and is beaten on the outside"}]length delivery outside off stump. van Beek goes nibbling at it and is beaten on the outside
+length delivery outside off stump. van Beek goes nibbling at it and is beaten on the outside
 
 
 Balls faced: 43
 Bowler: Netravalkar
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length delivery outside off stump. van Beek dabs it enough to backward point's left and collects another single"}]length delivery outside off stump. van Beek dabs it enough to backward point's left and collects another single
+length delivery outside off stump. van Beek dabs it enough to backward point's left and collects another single
 
 
 Balls faced: 44
 Bowler: Netravalkar
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length delivery on off stump. van Beek stands tall and swings it away towards deep mid wicket"}]back of a length delivery on off stump. van Beek stands tall and swings it away towards deep mid wicket
+back of a length delivery on off stump. van Beek stands tall and swings it away towards deep mid wicket
 
 
 Balls faced: 45
 Bowler: Netravalkar
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Just six runs needed now. Can the Netherlands finish it off in this over?"}]Just six runs needed now. Can the Netherlands finish it off in this over?
+Just six runs needed now. Can the Netherlands finish it off in this over?
 
-[{"type": "HTML", "html": "full delivery on middle and off stump. van Beek comes forward and defends"}]full delivery on middle and off stump. van Beek comes forward and defends
+full delivery on middle and off stump. van Beek comes forward and defends
 
 
 Balls faced: 46
 Bowler: Jasdeep
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length delivery at the stumps. van Beek plants his front foot across and helps it behind square on the leg side. Edwards is pushing for the second again but this time, decides against it"}]length delivery at the stumps. van Beek plants his front foot across and helps it behind square on the leg side. Edwards is pushing for the second again but this time, decides against it
-[{"type": "HTML", "html": "Seems like Jessy is struggling here. The physio is out. He has a drink, and looks good to go now"}]Seems like Jessy is struggling here. The physio is out. He has a drink, and looks good to go now
+length delivery at the stumps. van Beek plants his front foot across and helps it behind square on the leg side. Edwards is pushing for the second again but this time, decides against it
+Seems like Jessy is struggling here. The physio is out. He has a drink, and looks good to go now
 
 Balls faced: 47
 Bowler: Jasdeep
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "juicy full toss outside off stump. van Beek drills it straight to short extra cover. Jones might have hurt himself trying to stop that"}]juicy full toss outside off stump. van Beek drills it straight to short extra cover. Jones might have hurt himself trying to stop that
+juicy full toss outside off stump. van Beek drills it straight to short extra cover. Jones might have hurt himself trying to stop that
 
 
 Balls faced: 48
 Bowler: Jasdeep
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Jessy Singh is back. He does not have a lot of runs to play with, though..."}]Jessy Singh is back. He does not have a lot of runs to play with, though...
+Jessy Singh is back. He does not have a lot of runs to play with, though...
 
-[{"type": "HTML", "html": "length delivery just outside off stump. van Beek nudges it into the off side for a single"}]length delivery just outside off stump. van Beek nudges it into the off side for a single
+length delivery just outside off stump. van Beek nudges it into the off side for a single
 
 
 Balls faced: 49
 Bowler: Netravalkar
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length delivery outside off stump. van Beek goes nibbling at it and is beaten on the outside"}]length delivery outside off stump. van Beek goes nibbling at it and is beaten on the outside
+length delivery outside off stump. van Beek goes nibbling at it and is beaten on the outside
 
 
 Balls faced: 50
 Bowler: Netravalkar
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length delivery outside off stump. van Beek dabs it enough to backward point's left and collects another single"}]length delivery outside off stump. van Beek dabs it enough to backward point's left and collects another single
+length delivery outside off stump. van Beek dabs it enough to backward point's left and collects another single
 
 
 Balls faced: 51
 Bowler: Netravalkar
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length delivery on off stump. van Beek stands tall and swings it away towards deep mid wicket"}]back of a length delivery on off stump. van Beek stands tall and swings it away towards deep mid wicket
+back of a length delivery on off stump. van Beek stands tall and swings it away towards deep mid wicket
 
 
 Balls faced: 52
 Bowler: Netravalkar
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Just six runs needed now. Can the Netherlands finish it off in this over?"}]Just six runs needed now. Can the Netherlands finish it off in this over?
+Just six runs needed now. Can the Netherlands finish it off in this over?
 
-[{"type": "HTML", "html": "full delivery on middle and off stump. van Beek comes forward and defends"}]full delivery on middle and off stump. van Beek comes forward and defends
+full delivery on middle and off stump. van Beek comes forward and defends
 
 
 
@@ -524,461 +576,511 @@ Match: all_games_1411166_1415716.json
 Balls faced: 1
 Bowler: Nortje
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "van Beek"}]van Beek
+van Beek
 
-[{"type": "HTML", "html": "ahh, this zips through off a good length outside off at 144kph, as van Beek sways out of the way"}]ahh, this zips through off a good length outside off at 144kph, as van Beek sways out of the way
+ahh, this zips through off a good length outside off at 144kph, as van Beek sways out of the way
 
 
 Balls faced: 2
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length on off, and dabbed back towards the bowler"}]on a length on off, and dabbed back towards the bowler
+on a length on off, and dabbed back towards the bowler
 
 
 Balls faced: 3
 Bowler: Maharaj
 Over: 13
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ohh, goes for the roundarm, left-handed Kedar Jadhav action, and bowls full outside leg. Left alone, and wide called"}]ohh, goes for the roundarm, left-handed Kedar Jadhav action, and bowls full outside leg. Left alone, and wide called
+ohh, goes for the roundarm, left-handed Kedar Jadhav action, and bowls full outside leg. Left alone, and wide called
 
 Wide: 1
 Balls faced: 4
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this skids through off a good length on the stumps, and is swatted to cover"}]this skids through off a good length on the stumps, and is swatted to cover
+this skids through off a good length on the stumps, and is swatted to cover
 
 
 Balls faced: 5
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip in"}]Slip in
+Slip in
 
-[{"type": "HTML", "html": "loopy and dipping to become a low full toss on middle. Jammed back to the bowler"}]loopy and dipping to become a low full toss on middle. Jammed back to the bowler
+loopy and dipping to become a low full toss on middle. Jammed back to the bowler
 
 
 Balls faced: 6
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PADDLE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "goes for the sweep at this fullish ball angling into middle and leg, and places it towards fine leg"}]goes for the sweep at this fullish ball angling into middle and leg, and places it towards fine leg
+goes for the sweep at this fullish ball angling into middle and leg, and places it towards fine leg
 
 
 Balls faced: 7
 Bowler: Nortje
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "van Beek"}]van Beek
+van Beek
 
-[{"type": "HTML", "html": "ahh, this zips through off a good length outside off at 144kph, as van Beek sways out of the way"}]ahh, this zips through off a good length outside off at 144kph, as van Beek sways out of the way
+ahh, this zips through off a good length outside off at 144kph, as van Beek sways out of the way
 
 
 Balls faced: 8
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "ohh, just short of Jansen at slip! He was initially moving to his right, before realising the ball was coming to his left. Van Beek was squared up by this length ball, which straightened away and finished around sixth stump, as he got the outside edge"}]ohh, just short of Jansen at slip! He was initially moving to his right, before realising the ball was coming to his left. Van Beek was squared up by this length ball, which straightened away and finished around sixth stump, as he got the outside edge
+ohh, just short of Jansen at slip! He was initially moving to his right, before realising the ball was coming to his left. Van Beek was squared up by this length ball, which straightened away and finished around sixth stump, as he got the outside edge
 
 
 Balls faced: 9
 Bowler: Rabada
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "much fuller, and angling into middle and off. Pushed off the inside half of the bat towards midwicket"}]much fuller, and angling into middle and off. Pushed off the inside half of the bat towards midwicket
+much fuller, and angling into middle and off. Pushed off the inside half of the bat towards midwicket
 
 
 Balls faced: 10
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length on off, and dabbed back towards the bowler"}]on a length on off, and dabbed back towards the bowler
+on a length on off, and dabbed back towards the bowler
 
 
 Balls faced: 11
 Bowler: Maharaj
 Over: 13
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ohh, goes for the roundarm, left-handed Kedar Jadhav action, and bowls full outside leg. Left alone, and wide called"}]ohh, goes for the roundarm, left-handed Kedar Jadhav action, and bowls full outside leg. Left alone, and wide called
+ohh, goes for the roundarm, left-handed Kedar Jadhav action, and bowls full outside leg. Left alone, and wide called
 
 Wide: 1
 Balls faced: 12
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this skids through off a good length on the stumps, and is swatted to cover"}]this skids through off a good length on the stumps, and is swatted to cover
+this skids through off a good length on the stumps, and is swatted to cover
 
 
 Balls faced: 13
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip in"}]Slip in
+Slip in
 
-[{"type": "HTML", "html": "loopy and dipping to become a low full toss on middle. Jammed back to the bowler"}]loopy and dipping to become a low full toss on middle. Jammed back to the bowler
+loopy and dipping to become a low full toss on middle. Jammed back to the bowler
 
 
 Balls faced: 14
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PADDLE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "goes for the sweep at this fullish ball angling into middle and leg, and places it towards fine leg"}]goes for the sweep at this fullish ball angling into middle and leg, and places it towards fine leg
+goes for the sweep at this fullish ball angling into middle and leg, and places it towards fine leg
 
 
 Balls faced: 15
 Bowler: Maharaj
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "loopy, full and slower on off, and driven to long-off again"}]loopy, full and slower on off, and driven to long-off again
+loopy, full and slower on off, and driven to long-off again
 
 
 Balls faced: 16
 Bowler: Maharaj
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "on a length on the stumps, and punched to deep point. There is a fumble by Stubbs, and that allows the second"}]on a length on the stumps, and punched to deep point. There is a fumble by Stubbs, and that allows the second
+on a length on the stumps, and punched to deep point. There is a fumble by Stubbs, and that allows the second
 
 
 Balls faced: 17
 Bowler: Maharaj
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower, and angling into a full length on off. Hacked to deep point"}]slower, and angling into a full length on off. Hacked to deep point
+slower, and angling into a full length on off. Hacked to deep point
 
 
 Balls faced: 18
 Bowler: Maharaj
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and flat on middle, and driven back, as Maharaj dives to his left"}]full and flat on middle, and driven back, as Maharaj dives to his left
+full and flat on middle, and driven back, as Maharaj dives to his left
 
 
 Balls faced: 19
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "ohh, just short of Jansen at slip! He was initially moving to his right, before realising the ball was coming to his left. Van Beek was squared up by this length ball, which straightened away and finished around sixth stump, as he got the outside edge"}]ohh, just short of Jansen at slip! He was initially moving to his right, before realising the ball was coming to his left. Van Beek was squared up by this length ball, which straightened away and finished around sixth stump, as he got the outside edge
+ohh, just short of Jansen at slip! He was initially moving to his right, before realising the ball was coming to his left. Van Beek was squared up by this length ball, which straightened away and finished around sixth stump, as he got the outside edge
 
 
 Balls faced: 20
 Bowler: Rabada
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "much fuller, and angling into middle and off. Pushed off the inside half of the bat towards midwicket"}]much fuller, and angling into middle and off. Pushed off the inside half of the bat towards midwicket
+much fuller, and angling into middle and off. Pushed off the inside half of the bat towards midwicket
 
 
 Balls faced: 21
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another one on a short of a length, and this is pulled almost hurried over the at midwicket, as if the ball seemed too quick for him"}]another one on a short of a length, and this is pulled almost hurried over the at midwicket, as if the ball seemed too quick for him
+another one on a short of a length, and this is pulled almost hurried over the at midwicket, as if the ball seemed too quick for him
 
 
 Balls faced: 22
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a good length on off, and clipped towards deep square after riding the bounce"}]on a good length on off, and clipped towards deep square after riding the bounce
-[{"type": "HTML", "html": "Shadow-Shell: \"Considering what happened in the last two World Cups, wouldn't it be an upset if South Africa beat Netherlands?\" --- The line of the day so far..."}]Shadow-Shell: "Considering what happened in the last two World Cups, wouldn't it be an upset if South Africa beat Netherlands?" --- The line of the day so far...
+on a good length on off, and clipped towards deep square after riding the bounce
+Shadow-Shell: "Considering what happened in the last two World Cups, wouldn't it be an upset if South Africa beat Netherlands?" --- The line of the day so far...
 
 Balls faced: 23
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, and angling into middle and off. He dabs it down with a hop in the crease"}]on a length, and angling into middle and off. He dabs it down with a hop in the crease
+on a length, and angling into middle and off. He dabs it down with a hop in the crease
 
 
 Balls faced: 24
 Bowler: Maharaj
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "loopy, full and slower on off, and driven to long-off again"}]loopy, full and slower on off, and driven to long-off again
+loopy, full and slower on off, and driven to long-off again
 
 
 Balls faced: 25
 Bowler: Maharaj
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "on a length on the stumps, and punched to deep point. There is a fumble by Stubbs, and that allows the second"}]on a length on the stumps, and punched to deep point. There is a fumble by Stubbs, and that allows the second
+on a length on the stumps, and punched to deep point. There is a fumble by Stubbs, and that allows the second
 
 
 Balls faced: 26
 Bowler: Maharaj
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower, and angling into a full length on off. Hacked to deep point"}]slower, and angling into a full length on off. Hacked to deep point
+slower, and angling into a full length on off. Hacked to deep point
 
 
 Balls faced: 27
 Bowler: Maharaj
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and flat on middle, and driven back, as Maharaj dives to his left"}]full and flat on middle, and driven back, as Maharaj dives to his left
+full and flat on middle, and driven back, as Maharaj dives to his left
 
 
 Balls faced: 28
 Bowler: Jansen
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "off the top edge, and four! It seemed like a slower ball, and it was on a short of a length on middle and leg. Van Beek went for the pull, but was beaten by the lack of pace. The ball rose up, and took the top edge over the keeper"}]off the top edge, and four! It seemed like a slower ball, and it was on a short of a length on middle and leg. Van Beek went for the pull, but was beaten by the lack of pace. The ball rose up, and took the top edge over the keeper
+off the top edge, and four! It seemed like a slower ball, and it was on a short of a length on middle and leg. Van Beek went for the pull, but was beaten by the lack of pace. The ball rose up, and took the top edge over the keeper
 
 
 Balls faced: 29
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another one on a short of a length, and this is pulled almost hurried over the at midwicket, as if the ball seemed too quick for him"}]another one on a short of a length, and this is pulled almost hurried over the at midwicket, as if the ball seemed too quick for him
+another one on a short of a length, and this is pulled almost hurried over the at midwicket, as if the ball seemed too quick for him
 
 
 Balls faced: 30
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a good length on off, and clipped towards deep square after riding the bounce"}]on a good length on off, and clipped towards deep square after riding the bounce
-[{"type": "HTML", "html": "Shadow-Shell: \"Considering what happened in the last two World Cups, wouldn't it be an upset if South Africa beat Netherlands?\" --- The line of the day so far..."}]Shadow-Shell: "Considering what happened in the last two World Cups, wouldn't it be an upset if South Africa beat Netherlands?" --- The line of the day so far...
+on a good length on off, and clipped towards deep square after riding the bounce
+Shadow-Shell: "Considering what happened in the last two World Cups, wouldn't it be an upset if South Africa beat Netherlands?" --- The line of the day so far...
 
 Balls faced: 31
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, and angling into middle and off. He dabs it down with a hop in the crease"}]on a length, and angling into middle and off. He dabs it down with a hop in the crease
+on a length, and angling into middle and off. He dabs it down with a hop in the crease
 
 
 Balls faced: 32
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on off, and swat-pulled towards deep midwicket"}]short of a length on off, and swat-pulled towards deep midwicket
+short of a length on off, and swat-pulled towards deep midwicket
 
 
 Balls faced: 33
 Bowler: Baartman
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "lofted down the ground! Fuller side of a length from Baartman, and angling into off, as van Beek gets his front leg out of the way to chip that back"}]lofted down the ground! Fuller side of a length from Baartman, and angling into off, as van Beek gets his front leg out of the way to chip that back
+lofted down the ground! Fuller side of a length from Baartman, and angling into off, as van Beek gets his front leg out of the way to chip that back
 
 
 Balls faced: 34
 Bowler: Jansen
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "off the top edge, and four! It seemed like a slower ball, and it was on a short of a length on middle and leg. Van Beek went for the pull, but was beaten by the lack of pace. The ball rose up, and took the top edge over the keeper"}]off the top edge, and four! It seemed like a slower ball, and it was on a short of a length on middle and leg. Van Beek went for the pull, but was beaten by the lack of pace. The ball rose up, and took the top edge over the keeper
+off the top edge, and four! It seemed like a slower ball, and it was on a short of a length on middle and leg. Van Beek went for the pull, but was beaten by the lack of pace. The ball rose up, and took the top edge over the keeper
 
 
 Balls faced: 35
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "another boundary, and another teaser for a South Africa fielder! These two target Rabada, whose slower balls are being read well. He bowled at a change of pace on a length around off, as van Beek chipped it late to just beat mid-on to his left"}]another boundary, and another teaser for a South Africa fielder! These two target Rabada, whose slower balls are being read well. He bowled at a change of pace on a length around off, as van Beek chipped it late to just beat mid-on to his left
+another boundary, and another teaser for a South Africa fielder! These two target Rabada, whose slower balls are being read well. He bowled at a change of pace on a length around off, as van Beek chipped it late to just beat mid-on to his left
 
 
 Balls faced: 36
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, and on a length on off. Slapped to deep backward point"}]slower ball, and on a length on off. Slapped to deep backward point
+slower ball, and on a length on off. Slapped to deep backward point
 
 
 Balls faced: 37
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length on middle and off, and shaping away late, as van Beek looks to hoick, but is beaten"}]on a length on middle and off, and shaping away late, as van Beek looks to hoick, but is beaten
+on a length on middle and off, and shaping away late, as van Beek looks to hoick, but is beaten
 
 
 Balls faced: 38
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on off, and swat-pulled towards deep midwicket"}]short of a length on off, and swat-pulled towards deep midwicket
+short of a length on off, and swat-pulled towards deep midwicket
 
 
 Balls faced: 39
 Bowler: Baartman
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "lofted down the ground! Fuller side of a length from Baartman, and angling into off, as van Beek gets his front leg out of the way to chip that back"}]lofted down the ground! Fuller side of a length from Baartman, and angling into off, as van Beek gets his front leg out of the way to chip that back
+lofted down the ground! Fuller side of a length from Baartman, and angling into off, as van Beek gets his front leg out of the way to chip that back
 
 
 Balls faced: 40
 Bowler: Baartman
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "well taken by Nortje! He was placed at cover-point, and moved to his left while looking up at the sky. The ball dropped, and into his hands as he took them while tumbling to the ground. It was another slower ball from Baartman, who bowled on a fullish length and into leg. Van Beek made room and went for the loft, but was beaten by the change of pace again. In the end, his attempted loft went only as far as halfway towards deep point"}]well taken by Nortje! He was placed at cover-point, and moved to his left while looking up at the sky. The ball dropped, and into his hands as he took them while tumbling to the ground. It was another slower ball from Baartman, who bowled on a fullish length and into leg. Van Beek made room and went for the loft, but was beaten by the change of pace again. In the end, his attempted loft went only as far as halfway towards deep point
-[{"type": "HTML", "html": "<strong>Anrich Nortje</strong>: \"Jansen has been bowling well in both games. Unfortunately a wicket off a no-ball... The boys did really well. The two games we've had, we've been really good in fielding. That's been one of our strengths. It's great to be back. It's very fun to be part of [this side]. Everyone knows everyone. We really hope we go all the way.\""}, {"type": "HTML", "html": "<strong>12pm</strong> Netherlands huff and puff to just about a hundred. Engelbrecht scored 40 out of 103, adding 54 along with van Beek after Netherlands were 48 for 6 at one stage. But credit to Baartman, Nortje and co for using changes of pace effectively, and executing the lines and lengths on a pitch where there continued to be extra bounce. There's not much to chase for South Africa, but who really knows? Join Ekanth for the start of the chase in ten. And in the meanwhile, don't miss out on the <a href=\"https://www.espncricinfo.com/story/t20-world-cup-2024-the-nassau-county-international-cricket-stadiums-drop-in-pitches-explainer-1437535\">explainer by Nagraj Gollapudi</a>: what's wrong with the T20 World Cup pitches in New York?"}]<strong>Anrich Nortje</strong>: "Jansen has been bowling well in both games. Unfortunately a wicket off a no-ball... The boys did really well. The two games we've had, we've been really good in fielding. That's been one of our strengths. It's great to be back. It's very fun to be part of [this side]. Everyone knows everyone. We really hope we go all the way." <strong>12pm</strong> Netherlands huff and puff to just about a hundred. Engelbrecht scored 40 out of 103, adding 54 along with van Beek after Netherlands were 48 for 6 at one stage. But credit to Baartman, Nortje and co for using changes of pace effectively, and executing the lines and lengths on a pitch where there continued to be extra bounce. There's not much to chase for South Africa, but who really knows? Join Ekanth for the start of the chase in ten. And in the meanwhile, don't miss out on the <a href="https://www.espncricinfo.com/story/t20-world-cup-2024-the-nassau-county-international-cricket-stadiums-drop-in-pitches-explainer-1437535">explainer by Nagraj Gollapudi</a>: what's wrong with the T20 World Cup pitches in New York?
+van Beek is OUT! caught
+c Nortje b Baartman
+Logan van Beek c Nortje b Baartman 23 (22b 3x4 0x6 34m) SR: 104.54
+well taken by Nortje! He was placed at cover-point, and moved to his left while looking up at the sky. The ball dropped, and into his hands as he took them while tumbling to the ground. It was another slower ball from Baartman, who bowled on a fullish length and into leg. Van Beek made room and went for the loft, but was beaten by the change of pace again. In the end, his attempted loft went only as far as halfway towards deep point
+<strong>Anrich Nortje</strong>: "Jansen has been bowling well in both games. Unfortunately a wicket off a no-ball... The boys did really well. The two games we've had, we've been really good in fielding. That's been one of our strengths. It's great to be back. It's very fun to be part of [this side]. Everyone knows everyone. We really hope we go all the way." <strong>12pm</strong> Netherlands huff and puff to just about a hundred. Engelbrecht scored 40 out of 103, adding 54 along with van Beek after Netherlands were 48 for 6 at one stage. But credit to Baartman, Nortje and co for using changes of pace effectively, and executing the lines and lengths on a pitch where there continued to be extra bounce. There's not much to chase for South Africa, but who really knows? Join Ekanth for the start of the chase in ten. And in the meanwhile, don't miss out on the <a href="https://www.espncricinfo.com/story/t20-world-cup-2024-the-nassau-county-international-cricket-stadiums-drop-in-pitches-explainer-1437535">explainer by Nagraj Gollapudi</a>: what's wrong with the T20 World Cup pitches in New York?
 
 Balls faced: 41
 Bowler: Baartman
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ohh, change of pace, and van Beek is fooled. He backed away early, and this fullish ball angled in to go past leg stump as he looked to push"}]ohh, change of pace, and van Beek is fooled. He backed away early, and this fullish ball angled in to go past leg stump as he looked to push
+ohh, change of pace, and van Beek is fooled. He backed away early, and this fullish ball angled in to go past leg stump as he looked to push
 
 
 Balls faced: 42
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "another boundary, and another teaser for a South Africa fielder! These two target Rabada, whose slower balls are being read well. He bowled at a change of pace on a length around off, as van Beek chipped it late to just beat mid-on to his left"}]another boundary, and another teaser for a South Africa fielder! These two target Rabada, whose slower balls are being read well. He bowled at a change of pace on a length around off, as van Beek chipped it late to just beat mid-on to his left
+another boundary, and another teaser for a South Africa fielder! These two target Rabada, whose slower balls are being read well. He bowled at a change of pace on a length around off, as van Beek chipped it late to just beat mid-on to his left
 
 
 Balls faced: 43
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, and on a length on off. Slapped to deep backward point"}]slower ball, and on a length on off. Slapped to deep backward point
+slower ball, and on a length on off. Slapped to deep backward point
 
 
 Balls faced: 44
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length on middle and off, and shaping away late, as van Beek looks to hoick, but is beaten"}]on a length on middle and off, and shaping away late, as van Beek looks to hoick, but is beaten
+on a length on middle and off, and shaping away late, as van Beek looks to hoick, but is beaten
 
 
 Balls faced: 45
 Bowler: Baartman
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "well taken by Nortje! He was placed at cover-point, and moved to his left while looking up at the sky. The ball dropped, and into his hands as he took them while tumbling to the ground. It was another slower ball from Baartman, who bowled on a fullish length and into leg. Van Beek made room and went for the loft, but was beaten by the change of pace again. In the end, his attempted loft went only as far as halfway towards deep point"}]well taken by Nortje! He was placed at cover-point, and moved to his left while looking up at the sky. The ball dropped, and into his hands as he took them while tumbling to the ground. It was another slower ball from Baartman, who bowled on a fullish length and into leg. Van Beek made room and went for the loft, but was beaten by the change of pace again. In the end, his attempted loft went only as far as halfway towards deep point
-[{"type": "HTML", "html": "<strong>Anrich Nortje</strong>: \"Jansen has been bowling well in both games. Unfortunately a wicket off a no-ball... The boys did really well. The two games we've had, we've been really good in fielding. That's been one of our strengths. It's great to be back. It's very fun to be part of [this side]. Everyone knows everyone. We really hope we go all the way.\""}, {"type": "HTML", "html": "<strong>12pm</strong> Netherlands huff and puff to just about a hundred. Engelbrecht scored 40 out of 103, adding 54 along with van Beek after Netherlands were 48 for 6 at one stage. But credit to Baartman, Nortje and co for using changes of pace effectively, and executing the lines and lengths on a pitch where there continued to be extra bounce. There's not much to chase for South Africa, but who really knows? Join Ekanth for the start of the chase in ten. And in the meanwhile, don't miss out on the <a href=\"https://www.espncricinfo.com/story/t20-world-cup-2024-the-nassau-county-international-cricket-stadiums-drop-in-pitches-explainer-1437535\">explainer by Nagraj Gollapudi</a>: what's wrong with the T20 World Cup pitches in New York?"}]<strong>Anrich Nortje</strong>: "Jansen has been bowling well in both games. Unfortunately a wicket off a no-ball... The boys did really well. The two games we've had, we've been really good in fielding. That's been one of our strengths. It's great to be back. It's very fun to be part of [this side]. Everyone knows everyone. We really hope we go all the way." <strong>12pm</strong> Netherlands huff and puff to just about a hundred. Engelbrecht scored 40 out of 103, adding 54 along with van Beek after Netherlands were 48 for 6 at one stage. But credit to Baartman, Nortje and co for using changes of pace effectively, and executing the lines and lengths on a pitch where there continued to be extra bounce. There's not much to chase for South Africa, but who really knows? Join Ekanth for the start of the chase in ten. And in the meanwhile, don't miss out on the <a href="https://www.espncricinfo.com/story/t20-world-cup-2024-the-nassau-county-international-cricket-stadiums-drop-in-pitches-explainer-1437535">explainer by Nagraj Gollapudi</a>: what's wrong with the T20 World Cup pitches in New York?
+van Beek is OUT! caught
+c Nortje b Baartman
+Logan van Beek c Nortje b Baartman 23 (22b 3x4 0x6 34m) SR: 104.54
+well taken by Nortje! He was placed at cover-point, and moved to his left while looking up at the sky. The ball dropped, and into his hands as he took them while tumbling to the ground. It was another slower ball from Baartman, who bowled on a fullish length and into leg. Van Beek made room and went for the loft, but was beaten by the change of pace again. In the end, his attempted loft went only as far as halfway towards deep point
+<strong>Anrich Nortje</strong>: "Jansen has been bowling well in both games. Unfortunately a wicket off a no-ball... The boys did really well. The two games we've had, we've been really good in fielding. That's been one of our strengths. It's great to be back. It's very fun to be part of [this side]. Everyone knows everyone. We really hope we go all the way." <strong>12pm</strong> Netherlands huff and puff to just about a hundred. Engelbrecht scored 40 out of 103, adding 54 along with van Beek after Netherlands were 48 for 6 at one stage. But credit to Baartman, Nortje and co for using changes of pace effectively, and executing the lines and lengths on a pitch where there continued to be extra bounce. There's not much to chase for South Africa, but who really knows? Join Ekanth for the start of the chase in ten. And in the meanwhile, don't miss out on the <a href="https://www.espncricinfo.com/story/t20-world-cup-2024-the-nassau-county-international-cricket-stadiums-drop-in-pitches-explainer-1437535">explainer by Nagraj Gollapudi</a>: what's wrong with the T20 World Cup pitches in New York?
 
 Balls faced: 46
 Bowler: Baartman
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ohh, change of pace, and van Beek is fooled. He backed away early, and this fullish ball angled in to go past leg stump as he looked to push"}]ohh, change of pace, and van Beek is fooled. He backed away early, and this fullish ball angled in to go past leg stump as he looked to push
+ohh, change of pace, and van Beek is fooled. He backed away early, and this fullish ball angled in to go past leg stump as he looked to push
 
 
 
@@ -986,61 +1088,71 @@ Match: all_games_1411166_1415727.json
 Balls faced: 1
 Bowler: Shakib
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle and off, worked to long-on."}]Full on middle and off, worked to long-on.
-[{"type": "HTML", "html": "Brad: \"Nelson strikes in St. Vincent, twice in three balls.\""}]Brad: "Nelson strikes in St. Vincent, twice in three balls."
+Full on middle and off, worked to long-on.
+Brad: "Nelson strikes in St. Vincent, twice in three balls."
 
 Balls faced: 2
 Bowler: Shakib
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up outside off, full ball is driven down the ground"}]Tossed up outside off, full ball is driven down the ground
+Tossed up outside off, full ball is driven down the ground
 
 
 Balls faced: 3
 Bowler: Shakib
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle and off, worked to long-on."}]Full on middle and off, worked to long-on.
-[{"type": "HTML", "html": "Brad: \"Nelson strikes in St. Vincent, twice in three balls.\""}]Brad: "Nelson strikes in St. Vincent, twice in three balls."
+Full on middle and off, worked to long-on.
+Brad: "Nelson strikes in St. Vincent, twice in three balls."
 
 Balls faced: 4
 Bowler: Shakib
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up outside off, full ball is driven down the ground"}]Tossed up outside off, full ball is driven down the ground
+Tossed up outside off, full ball is driven down the ground
 
 
 Balls faced: 5
 Bowler: Rishad Hossain
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
-[{"type": "HTML", "html": "1 run and a wicket last over. 43 needed off 18. Bangladesh have yanked back the control completely in the last two overs"}]1 run and a wicket last over. 43 needed off 18. Bangladesh have yanked back the control completely in the last two overs
-
-[{"type": "HTML", "html": "<strong>Van Beek falls now</strong>. Had to take on the leggie, tries going across the line with the slog sweep. But top edges it and Rishad goes back to complete the catch. He used his height to his advantage again, got extra bounce off a length. Wheels coming off for Netherlands"}]<strong>Van Beek falls now</strong>. Had to take on the leggie, tries going across the line with the slog sweep. But top edges it and Rishad goes back to complete the catch. He used his height to his advantage again, got extra bounce off a length. Wheels coming off for Netherlands
+1 run and a wicket last over. 43 needed off 18. Bangladesh have yanked back the control completely in the last two overs
+van Beek is OUT! caught
+c & b Rishad Hossain
+Logan van Beek c & b Rishad Hossain 2 (3b 0x4 0x6 10m) SR: 66.66
+<strong>Van Beek falls now</strong>. Had to take on the leggie, tries going across the line with the slog sweep. But top edges it and Rishad goes back to complete the catch. He used his height to his advantage again, got extra bounce off a length. Wheels coming off for Netherlands
 
 
 Balls faced: 6
 Bowler: Rishad Hossain
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
-[{"type": "HTML", "html": "1 run and a wicket last over. 43 needed off 18. Bangladesh have yanked back the control completely in the last two overs"}]1 run and a wicket last over. 43 needed off 18. Bangladesh have yanked back the control completely in the last two overs
-
-[{"type": "HTML", "html": "<strong>Van Beek falls now</strong>. Had to take on the leggie, tries going across the line with the slog sweep. But top edges it and Rishad goes back to complete the catch. He used his height to his advantage again, got extra bounce off a length. Wheels coming off for Netherlands"}]<strong>Van Beek falls now</strong>. Had to take on the leggie, tries going across the line with the slog sweep. But top edges it and Rishad goes back to complete the catch. He used his height to his advantage again, got extra bounce off a length. Wheels coming off for Netherlands
+1 run and a wicket last over. 43 needed off 18. Bangladesh have yanked back the control completely in the last two overs
+van Beek is OUT! caught
+c & b Rishad Hossain
+Logan van Beek c & b Rishad Hossain 2 (3b 0x4 0x6 10m) SR: 66.66
+<strong>Van Beek falls now</strong>. Had to take on the leggie, tries going across the line with the slog sweep. But top edges it and Rishad goes back to complete the catch. He used his height to his advantage again, got extra bounce off a length. Wheels coming off for Netherlands
 
 
 
@@ -1048,21 +1160,27 @@ Match: all_games_1411166_1415738.json
 Balls faced: 1
 Bowler: Hasaranga
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "is that another one? I think it is! A run out or stumping? This is a googly tuning in to off stump, that van Beek tries to paddle around the corner. Gets an under edge to it though, and wickekeeper Kusal Mendis gets a pad to it, and as van Beek takes off for a single, and then turns back, has time to run the batter out. Great work from KM."}]is that another one? I think it is! A run out or stumping? This is a googly tuning in to off stump, that van Beek tries to paddle around the corner. Gets an under edge to it though, and wickekeeper Kusal Mendis gets a pad to it, and as van Beek takes off for a single, and then turns back, has time to run the batter out. Great work from KM.
+van Beek is OUT! run out
+run out (†Mendis)
+Logan van Beek run out (†Mendis) 0 (1b 0x4 0x6 1m) SR: 0
+is that another one? I think it is! A run out or stumping? This is a googly tuning in to off stump, that van Beek tries to paddle around the corner. Gets an under edge to it though, and wickekeeper Kusal Mendis gets a pad to it, and as van Beek takes off for a single, and then turns back, has time to run the batter out. Great work from KM.
 
 
 Balls faced: 2
 Bowler: Hasaranga
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "is that another one? I think it is! A run out or stumping? This is a googly tuning in to off stump, that van Beek tries to paddle around the corner. Gets an under edge to it though, and wickekeeper Kusal Mendis gets a pad to it, and as van Beek takes off for a single, and then turns back, has time to run the batter out. Great work from KM."}]is that another one? I think it is! A run out or stumping? This is a googly tuning in to off stump, that van Beek tries to paddle around the corner. Gets an under edge to it though, and wickekeeper Kusal Mendis gets a pad to it, and as van Beek takes off for a single, and then turns back, has time to run the batter out. Great work from KM.
+van Beek is OUT! run out
+run out (†Mendis)
+Logan van Beek run out (†Mendis) 0 (1b 0x4 0x6 1m) SR: 0
+is that another one? I think it is! A run out or stumping? This is a googly tuning in to off stump, that van Beek tries to paddle around the corner. Gets an under edge to it though, and wickekeeper Kusal Mendis gets a pad to it, and as van Beek takes off for a single, and then turns back, has time to run the batter out. Great work from KM.
 
 
 
@@ -1070,16 +1188,20 @@ Match: all_games_1428145_1428151.json
 Balls faced: 1
 Bowler: Main
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
-
+van Beek is OUT! run out
+run out (Currie/†Cross)
+Logan van Beek run out (Currie/†Cross) 5 (4b 0x4 0x6 4m) SR: 125
 
 
 
 Balls faced: 2
 Bowler: Main
 Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
@@ -1090,6 +1212,7 @@ Wide: 1
 Balls faced: 3
 Bowler: Main
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -1100,6 +1223,7 @@ Run scored: 2
 Balls faced: 4
 Bowler: Main
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
@@ -1110,6 +1234,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Main
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 2
 
@@ -1120,16 +1245,20 @@ No Balls: 1
 Balls faced: 6
 Bowler: Main
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
-
+van Beek is OUT! run out
+run out (Currie/†Cross)
+Logan van Beek run out (Currie/†Cross) 5 (4b 0x4 0x6 4m) SR: 125
 
 
 
 Balls faced: 7
 Bowler: Main
 Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
@@ -1140,6 +1269,7 @@ Wide: 1
 Balls faced: 8
 Bowler: Main
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -1150,6 +1280,7 @@ Run scored: 2
 Balls faced: 9
 Bowler: Main
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
@@ -1160,6 +1291,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Main
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 2
 
@@ -1172,6 +1304,7 @@ Match: all_games_1428145_1428152.json
 Balls faced: 1
 Bowler: Hand
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1182,16 +1315,20 @@ Run scored: 1
 Balls faced: 2
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
-
+van Beek is OUT! run out
+run out (Stirling)
+Logan van Beek run out (Stirling) 3 (5b 0x4 0x6) SR: 60
 
 
 
 Balls faced: 3
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1202,6 +1339,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1212,6 +1350,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1222,6 +1361,7 @@ Wide: 1
 Balls faced: 6
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1232,6 +1372,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Hand
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1242,16 +1383,20 @@ Run scored: 1
 Balls faced: 8
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
-
+van Beek is OUT! run out
+run out (Stirling)
+Logan van Beek run out (Stirling) 3 (5b 0x4 0x6) SR: 60
 
 
 
 Balls faced: 9
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1262,6 +1407,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1272,6 +1418,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1282,6 +1429,7 @@ Wide: 1
 Balls faced: 12
 Bowler: Campher
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1294,6 +1442,7 @@ Match: all_games_1428145_1428154.json
 Balls faced: 1
 Bowler: Greaves
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1304,6 +1453,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Greaves
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1314,6 +1464,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Currie
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1324,6 +1475,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Currie
 Over: 11
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1334,6 +1486,7 @@ Run scored: 2
 Balls faced: 5
 Bowler: Greaves
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1344,6 +1497,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Greaves
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1354,6 +1508,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1364,6 +1519,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1374,6 +1530,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1384,6 +1541,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1394,6 +1552,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1404,6 +1563,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Currie
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1414,6 +1574,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Currie
 Over: 11
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1424,6 +1585,7 @@ Run scored: 2
 Balls faced: 14
 Bowler: Watt
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1434,6 +1596,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Watt
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1444,6 +1607,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1454,6 +1618,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1464,6 +1629,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1474,6 +1640,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1484,6 +1651,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Greaves
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1494,6 +1662,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Greaves
 Over: 14
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1504,6 +1673,7 @@ Run scored: 2
 Balls faced: 22
 Bowler: Greaves
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1514,6 +1684,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Greaves
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1524,6 +1695,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: Watt
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1534,6 +1706,7 @@ Run scored: 1
 Balls faced: 25
 Bowler: Watt
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1544,6 +1717,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Greaves
 Over: 14
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1554,6 +1728,7 @@ Run scored: 2
 Balls faced: 27
 Bowler: Greaves
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1564,6 +1739,7 @@ Run scored: 1
 Balls faced: 28
 Bowler: Greaves
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1576,6 +1752,7 @@ Match: all_games_1428145_1428156.json
 Balls faced: 1
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1586,5 +1763,6 @@ Run scored: 1
 Balls faced: 2
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1

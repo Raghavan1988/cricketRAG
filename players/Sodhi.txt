@@ -2,61 +2,71 @@ Match: all_games_1388184_1388217.json
 Balls faced: 1
 Bowler: Haris Rauf
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Haris Rauf doing Haris Rauf things! </strong>Rams the yorker and sounds the death rattle. Demolishes him with a pacy yorker and Ish Sodhi cannot jam his bat down in time, excellent bowling at death! Perfect yorker to see the back of Sodhi"}]<strong>Haris Rauf doing Haris Rauf things! </strong>Rams the yorker and sounds the death rattle. Demolishes him with a pacy yorker and Ish Sodhi cannot jam his bat down in time, excellent bowling at death! Perfect yorker to see the back of Sodhi
+Sodhi is OUT! bowled
+ b Haris Rauf
+Ish Sodhi b Haris Rauf 0 (2b 0x4 0x6 2m) SR: 0
+<strong>Haris Rauf doing Haris Rauf things! </strong>Rams the yorker and sounds the death rattle. Demolishes him with a pacy yorker and Ish Sodhi cannot jam his bat down in time, excellent bowling at death! Perfect yorker to see the back of Sodhi
 
 
 Balls faced: 2
 Bowler: Haris Rauf
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, just shaping away from the batter, can't connect"}]Short of a length, just shaping away from the batter, can't connect
+Short of a length, just shaping away from the batter, can't connect
 
 
 Balls faced: 3
 Bowler: Haris Rauf
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "It's not going to be a hattrick. Pitched up just outside leg stump and Azam Khan does well to go airborne and save a few extra runs, big unit but quick reflexes, well-done!"}]It's not going to be a hattrick. Pitched up just outside leg stump and Azam Khan does well to go airborne and save a few extra runs, big unit but quick reflexes, well-done!
+It's not going to be a hattrick. Pitched up just outside leg stump and Azam Khan does well to go airborne and save a few extra runs, big unit but quick reflexes, well-done!
 
 Wide: 1
 Balls faced: 4
 Bowler: Haris Rauf
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Haris Rauf doing Haris Rauf things! </strong>Rams the yorker and sounds the death rattle. Demolishes him with a pacy yorker and Ish Sodhi cannot jam his bat down in time, excellent bowling at death! Perfect yorker to see the back of Sodhi"}]<strong>Haris Rauf doing Haris Rauf things! </strong>Rams the yorker and sounds the death rattle. Demolishes him with a pacy yorker and Ish Sodhi cannot jam his bat down in time, excellent bowling at death! Perfect yorker to see the back of Sodhi
+Sodhi is OUT! bowled
+ b Haris Rauf
+Ish Sodhi b Haris Rauf 0 (2b 0x4 0x6 2m) SR: 0
+<strong>Haris Rauf doing Haris Rauf things! </strong>Rams the yorker and sounds the death rattle. Demolishes him with a pacy yorker and Ish Sodhi cannot jam his bat down in time, excellent bowling at death! Perfect yorker to see the back of Sodhi
 
 
 Balls faced: 5
 Bowler: Haris Rauf
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, just shaping away from the batter, can't connect"}]Short of a length, just shaping away from the batter, can't connect
+Short of a length, just shaping away from the batter, can't connect
 
 
 Balls faced: 6
 Bowler: Haris Rauf
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "It's not going to be a hattrick. Pitched up just outside leg stump and Azam Khan does well to go airborne and save a few extra runs, big unit but quick reflexes, well-done!"}]It's not going to be a hattrick. Pitched up just outside leg stump and Azam Khan does well to go airborne and save a few extra runs, big unit but quick reflexes, well-done!
+It's not going to be a hattrick. Pitched up just outside leg stump and Azam Khan does well to go airborne and save a few extra runs, big unit but quick reflexes, well-done!
 
 Wide: 1
 
@@ -64,103 +74,117 @@ Match: all_games_1388184_1388218.json
 Balls faced: 1
 Bowler: Shaheen Shah Afridi
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Yorker angling across off, whisk it away to backward point and that's the highest score by New Zealand at this venue"}]Yorker angling across off, whisk it away to backward point and that's the highest score by New Zealand at this venue
-[{"type": "HTML", "html": "Finn Allen pummeled 16 sixes in his terrific knock and helped his team put up this colossal total of 224. He was striking at 221.0 and made life easier for his teammates. Pakistan made three changes to their lineup, but they were still expensive. Rauf leaked 60, Shaheen 43, Nawaz 44, and nothing really worked for them. They managed to slow things down a little bit towards the death after Allen got out, but now Pakistan will have to bat out of their skins to chase down this massive total to stay alive in this series. I'll ice my fingers and will be back soon with Pakistan's reply."}]Finn Allen pummeled 16 sixes in his terrific knock and helped his team put up this colossal total of 224. He was striking at 221.0 and made life easier for his teammates. Pakistan made three changes to their lineup, but they were still expensive. Rauf leaked 60, Shaheen 43, Nawaz 44, and nothing really worked for them. They managed to slow things down a little bit towards the death after Allen got out, but now Pakistan will have to bat out of their skins to chase down this massive total to stay alive in this series. I'll ice my fingers and will be back soon with Pakistan's reply.
+Yorker angling across off, whisk it away to backward point and that's the highest score by New Zealand at this venue
+Finn Allen pummeled 16 sixes in his terrific knock and helped his team put up this colossal total of 224. He was striking at 221.0 and made life easier for his teammates. Pakistan made three changes to their lineup, but they were still expensive. Rauf leaked 60, Shaheen 43, Nawaz 44, and nothing really worked for them. They managed to slow things down a little bit towards the death after Allen got out, but now Pakistan will have to bat out of their skins to chase down this massive total to stay alive in this series. I'll ice my fingers and will be back soon with Pakistan's reply.
 
 Balls faced: 2
 Bowler: Shaheen Shah Afridi
 Over: 20
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Slow full ball on the pads, whipped away to Saim Ayub again who has been a livewire in the field, cuts it off at deep squarish region and keeps them down to two"}]Slow full ball on the pads, whipped away to Saim Ayub again who has been a livewire in the field, cuts it off at deep squarish region and keeps them down to two
-[{"type": "HTML", "html": "Zubair Dar : \"Pakistan's preparations for the T20 world cup is getting a reality check - their bowling is in tatters, their batting doesn't have the sting it will need to compete and their overall strategy for games is quite questionable. I am wondering if this team has hit the rock bottom yet?! \""}]Zubair Dar : "Pakistan's preparations for the T20 world cup is getting a reality check - their bowling is in tatters, their batting doesn't have the sting it will need to compete and their overall strategy for games is quite questionable. I am wondering if this team has hit the rock bottom yet?! "
+Slow full ball on the pads, whipped away to Saim Ayub again who has been a livewire in the field, cuts it off at deep squarish region and keeps them down to two
+Zubair Dar : "Pakistan's preparations for the T20 world cup is getting a reality check - their bowling is in tatters, their batting doesn't have the sting it will need to compete and their overall strategy for games is quite questionable. I am wondering if this team has hit the rock bottom yet?! "
 
 Balls faced: 3
 Bowler: Shaheen Shah Afridi
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Yorker angling across off, whisk it away to backward point and that's the highest score by New Zealand at this venue"}]Yorker angling across off, whisk it away to backward point and that's the highest score by New Zealand at this venue
-[{"type": "HTML", "html": "Finn Allen pummeled 16 sixes in his terrific knock and helped his team put up this colossal total of 224. He was striking at 221.0 and made life easier for his teammates. Pakistan made three changes to their lineup, but they were still expensive. Rauf leaked 60, Shaheen 43, Nawaz 44, and nothing really worked for them. They managed to slow things down a little bit towards the death after Allen got out, but now Pakistan will have to bat out of their skins to chase down this massive total to stay alive in this series. I'll ice my fingers and will be back soon with Pakistan's reply."}]Finn Allen pummeled 16 sixes in his terrific knock and helped his team put up this colossal total of 224. He was striking at 221.0 and made life easier for his teammates. Pakistan made three changes to their lineup, but they were still expensive. Rauf leaked 60, Shaheen 43, Nawaz 44, and nothing really worked for them. They managed to slow things down a little bit towards the death after Allen got out, but now Pakistan will have to bat out of their skins to chase down this massive total to stay alive in this series. I'll ice my fingers and will be back soon with Pakistan's reply.
+Yorker angling across off, whisk it away to backward point and that's the highest score by New Zealand at this venue
+Finn Allen pummeled 16 sixes in his terrific knock and helped his team put up this colossal total of 224. He was striking at 221.0 and made life easier for his teammates. Pakistan made three changes to their lineup, but they were still expensive. Rauf leaked 60, Shaheen 43, Nawaz 44, and nothing really worked for them. They managed to slow things down a little bit towards the death after Allen got out, but now Pakistan will have to bat out of their skins to chase down this massive total to stay alive in this series. I'll ice my fingers and will be back soon with Pakistan's reply.
 
 Balls faced: 4
 Bowler: Shaheen Shah Afridi
 Over: 20
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Slow full ball on the pads, whipped away to Saim Ayub again who has been a livewire in the field, cuts it off at deep squarish region and keeps them down to two"}]Slow full ball on the pads, whipped away to Saim Ayub again who has been a livewire in the field, cuts it off at deep squarish region and keeps them down to two
-[{"type": "HTML", "html": "Zubair Dar : \"Pakistan's preparations for the T20 world cup is getting a reality check - their bowling is in tatters, their batting doesn't have the sting it will need to compete and their overall strategy for games is quite questionable. I am wondering if this team has hit the rock bottom yet?! \""}]Zubair Dar : "Pakistan's preparations for the T20 world cup is getting a reality check - their bowling is in tatters, their batting doesn't have the sting it will need to compete and their overall strategy for games is quite questionable. I am wondering if this team has hit the rock bottom yet?! "
+Slow full ball on the pads, whipped away to Saim Ayub again who has been a livewire in the field, cuts it off at deep squarish region and keeps them down to two
+Zubair Dar : "Pakistan's preparations for the T20 world cup is getting a reality check - their bowling is in tatters, their batting doesn't have the sting it will need to compete and their overall strategy for games is quite questionable. I am wondering if this team has hit the rock bottom yet?! "
 
 
 Match: all_games_1388184_1388220.json
 Balls faced: 1
 Bowler: Iftikhar
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Iftikhar is on a fire</strong>! Floated up on a length with little bit of spin towards middle and leg, looks to big over deep deep square and Fakhar Zaman hangs onto it magnificently while running back. Capitulation from New Zealand continue"}]<strong>Iftikhar is on a fire</strong>! Floated up on a length with little bit of spin towards middle and leg, looks to big over deep deep square and Fakhar Zaman hangs onto it magnificently while running back. Capitulation from New Zealand continue
+Sodhi is OUT! caught
+c Fakhar Zaman b Iftikhar Ahmed
+Ish Sodhi c Fakhar Zaman b Iftikhar Ahmed 1 (3b 0x4 0x6 2m) SR: 33.33
+<strong>Iftikhar is on a fire</strong>! Floated up on a length with little bit of spin towards middle and leg, looks to big over deep deep square and Fakhar Zaman hangs onto it magnificently while running back. Capitulation from New Zealand continue
 
 
 Balls faced: 2
 Bowler: Iftikhar
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up, gun-barrel straight, jammed back to the bowler"}]tossed up, gun-barrel straight, jammed back to the bowler
+tossed up, gun-barrel straight, jammed back to the bowler
 
 
 Balls faced: 3
 Bowler: Iftikhar
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "cloths it down towards long on, fuller and slower on fourth stump line, drags it across the line and gets off the mark"}]cloths it down towards long on, fuller and slower on fourth stump line, drags it across the line and gets off the mark
+cloths it down towards long on, fuller and slower on fourth stump line, drags it across the line and gets off the mark
 
 
 Balls faced: 4
 Bowler: Iftikhar
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Iftikhar is on a fire</strong>! Floated up on a length with little bit of spin towards middle and leg, looks to big over deep deep square and Fakhar Zaman hangs onto it magnificently while running back. Capitulation from New Zealand continue"}]<strong>Iftikhar is on a fire</strong>! Floated up on a length with little bit of spin towards middle and leg, looks to big over deep deep square and Fakhar Zaman hangs onto it magnificently while running back. Capitulation from New Zealand continue
+Sodhi is OUT! caught
+c Fakhar Zaman b Iftikhar Ahmed
+Ish Sodhi c Fakhar Zaman b Iftikhar Ahmed 1 (3b 0x4 0x6 2m) SR: 33.33
+<strong>Iftikhar is on a fire</strong>! Floated up on a length with little bit of spin towards middle and leg, looks to big over deep deep square and Fakhar Zaman hangs onto it magnificently while running back. Capitulation from New Zealand continue
 
 
 Balls faced: 5
 Bowler: Iftikhar
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up, gun-barrel straight, jammed back to the bowler"}]tossed up, gun-barrel straight, jammed back to the bowler
+tossed up, gun-barrel straight, jammed back to the bowler
 
 
 Balls faced: 6
 Bowler: Iftikhar
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "cloths it down towards long on, fuller and slower on fourth stump line, drags it across the line and gets off the mark"}]cloths it down towards long on, fuller and slower on fourth stump line, drags it across the line and gets off the mark
+cloths it down towards long on, fuller and slower on fourth stump line, drags it across the line and gets off the mark
 
 
 
@@ -168,281 +192,313 @@ Match: all_games_1424827_1424830.json
 Balls faced: 1
 Bowler: Shadab
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller googly on middle, nudged calmly towards midwicket"}]Fuller googly on middle, nudged calmly towards midwicket
+Fuller googly on middle, nudged calmly towards midwicket
 
 
 Balls faced: 2
 Bowler: Abrar Ahmed
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Cries of catch it and just lands short of the fielder at deep midwicket, ball just stopped in the surface as he went for a hoik towards deep midwicket, spinners have done their job brilliantly tonight"}]Cries of catch it and just lands short of the fielder at deep midwicket, ball just stopped in the surface as he went for a hoik towards deep midwicket, spinners have done their job brilliantly tonight
+Cries of catch it and just lands short of the fielder at deep midwicket, ball just stopped in the surface as he went for a hoik towards deep midwicket, spinners have done their job brilliantly tonight
 
 
 Balls faced: 3
 Bowler: Abrar Ahmed
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shuffles across his stumps in a bid to scoop it away but can't execute the shot, stifled appeal for an lbw, way outside off-stump so no interest from the umpire"}]Shuffles across his stumps in a bid to scoop it away but can't execute the shot, stifled appeal for an lbw, way outside off-stump so no interest from the umpire
+Shuffles across his stumps in a bid to scoop it away but can't execute the shot, stifled appeal for an lbw, way outside off-stump so no interest from the umpire
 
 
 Balls faced: 4
 Bowler: Abrar Ahmed
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Just about makes it home! </strong>Quicker and on a length at middle, punched it to short midwicket and takes a scampered single, direct hit from Irfan at keeper's end would've been curtains for sure!"}]<strong>Just about makes it home! </strong>Quicker and on a length at middle, punched it to short midwicket and takes a scampered single, direct hit from Irfan at keeper's end would've been curtains for sure!
+<strong>Just about makes it home! </strong>Quicker and on a length at middle, punched it to short midwicket and takes a scampered single, direct hit from Irfan at keeper's end would've been curtains for sure!
 
 
 Balls faced: 5
 Bowler: Shadab
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller googly on middle, nudged calmly towards midwicket"}]Fuller googly on middle, nudged calmly towards midwicket
+Fuller googly on middle, nudged calmly towards midwicket
 
 
 Balls faced: 6
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hits the deck hard and gets some purchase off the deck, stands tall, rolls his wrists and pulls it away to deep midwicket"}]Hits the deck hard and gets some purchase off the deck, stands tall, rolls his wrists and pulls it away to deep midwicket
+Hits the deck hard and gets some purchase off the deck, stands tall, rolls his wrists and pulls it away to deep midwicket
 
 
 Balls faced: 7
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Touch too full on off, whacked away to deep cover"}]Touch too full on off, whacked away to deep cover
+Touch too full on off, whacked away to deep cover
 
 
 Balls faced: 8
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length just outside off, ghosts past the outside edge, beaten all ends up."}]Short of a length just outside off, ghosts past the outside edge, beaten all ends up.
+Short of a length just outside off, ghosts past the outside edge, beaten all ends up.
 
 
 Balls faced: 9
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Drags his length back, keeps it at middle, moves across a touch and maneuvers it away to short midwicket"}]Drags his length back, keeps it at middle, moves across a touch and maneuvers it away to short midwicket
+Drags his length back, keeps it at middle, moves across a touch and maneuvers it away to short midwicket
 
 
 Balls faced: 10
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Naseem Shah is back"}]Naseem Shah is back
+Naseem Shah is back
 
-[{"type": "HTML", "html": "Spears in a thunderbolt at a hard length and gives no room to free his arms, blocked into the off-side"}]Spears in a thunderbolt at a hard length and gives no room to free his arms, blocked into the off-side
+Spears in a thunderbolt at a hard length and gives no room to free his arms, blocked into the off-side
 
 
 Balls faced: 11
 Bowler: Abrar Ahmed
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Cries of catch it and just lands short of the fielder at deep midwicket, ball just stopped in the surface as he went for a hoik towards deep midwicket, spinners have done their job brilliantly tonight"}]Cries of catch it and just lands short of the fielder at deep midwicket, ball just stopped in the surface as he went for a hoik towards deep midwicket, spinners have done their job brilliantly tonight
+Cries of catch it and just lands short of the fielder at deep midwicket, ball just stopped in the surface as he went for a hoik towards deep midwicket, spinners have done their job brilliantly tonight
 
 
 Balls faced: 12
 Bowler: Abrar Ahmed
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shuffles across his stumps in a bid to scoop it away but can't execute the shot, stifled appeal for an lbw, way outside off-stump so no interest from the umpire"}]Shuffles across his stumps in a bid to scoop it away but can't execute the shot, stifled appeal for an lbw, way outside off-stump so no interest from the umpire
+Shuffles across his stumps in a bid to scoop it away but can't execute the shot, stifled appeal for an lbw, way outside off-stump so no interest from the umpire
 
 
 Balls faced: 13
 Bowler: Abrar Ahmed
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Just about makes it home! </strong>Quicker and on a length at middle, punched it to short midwicket and takes a scampered single, direct hit from Irfan at keeper's end would've been curtains for sure!"}]<strong>Just about makes it home! </strong>Quicker and on a length at middle, punched it to short midwicket and takes a scampered single, direct hit from Irfan at keeper's end would've been curtains for sure!
+<strong>Just about makes it home! </strong>Quicker and on a length at middle, punched it to short midwicket and takes a scampered single, direct hit from Irfan at keeper's end would've been curtains for sure!
 
 
 Balls faced: 14
 Bowler: Shaheen Shah Afridi
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Looking for the yorker, close to the blockhole, punches it down to long on"}]Looking for the yorker, close to the blockhole, punches it down to long on
+Looking for the yorker, close to the blockhole, punches it down to long on
 
 
 Balls faced: 15
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hits the deck hard and gets some purchase off the deck, stands tall, rolls his wrists and pulls it away to deep midwicket"}]Hits the deck hard and gets some purchase off the deck, stands tall, rolls his wrists and pulls it away to deep midwicket
+Hits the deck hard and gets some purchase off the deck, stands tall, rolls his wrists and pulls it away to deep midwicket
 
 
 Balls faced: 16
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Touch too full on off, whacked away to deep cover"}]Touch too full on off, whacked away to deep cover
+Touch too full on off, whacked away to deep cover
 
 
 Balls faced: 17
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length just outside off, ghosts past the outside edge, beaten all ends up."}]Short of a length just outside off, ghosts past the outside edge, beaten all ends up.
+Short of a length just outside off, ghosts past the outside edge, beaten all ends up.
 
 
 Balls faced: 18
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Drags his length back, keeps it at middle, moves across a touch and maneuvers it away to short midwicket"}]Drags his length back, keeps it at middle, moves across a touch and maneuvers it away to short midwicket
+Drags his length back, keeps it at middle, moves across a touch and maneuvers it away to short midwicket
 
 
 Balls faced: 19
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Naseem Shah is back"}]Naseem Shah is back
+Naseem Shah is back
 
-[{"type": "HTML", "html": "Spears in a thunderbolt at a hard length and gives no room to free his arms, blocked into the off-side"}]Spears in a thunderbolt at a hard length and gives no room to free his arms, blocked into the off-side
+Spears in a thunderbolt at a hard length and gives no room to free his arms, blocked into the off-side
 
 
 Balls faced: 20
 Bowler: Shadab
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Squealing for an lbw, not given by the on-field umpire. </strong>Long chat between Babar and Shadab and they eventually decide to take a second opinion on it. Saw him advancing and pulled his length further back, wears it on his thigh pad and misses it completely. No spike on the ultraedge as the ball passes the bat, pitching in line, impact in line and hitting low at middle so he gets three reds and it's lbw. Shadab was spot on. Sodhi disconsolate after perishing at 8. Elation for Pakistan who are having a delightful day at the office."}]<strong>Squealing for an lbw, not given by the on-field umpire. </strong>Long chat between Babar and Shadab and they eventually decide to take a second opinion on it. Saw him advancing and pulled his length further back, wears it on his thigh pad and misses it completely. No spike on the ultraedge as the ball passes the bat, pitching in line, impact in line and hitting low at middle so he gets three reds and it's lbw. Shadab was spot on. Sodhi disconsolate after perishing at 8. Elation for Pakistan who are having a delightful day at the office.
+Sodhi is OUT! lbw
+lbw b Shadab Khan
+Ish Sodhi lbw b Shadab Khan 8 (13b 0x4 0x6 20m) SR: 61.53
+<strong>Squealing for an lbw, not given by the on-field umpire. </strong>Long chat between Babar and Shadab and they eventually decide to take a second opinion on it. Saw him advancing and pulled his length further back, wears it on his thigh pad and misses it completely. No spike on the ultraedge as the ball passes the bat, pitching in line, impact in line and hitting low at middle so he gets three reds and it's lbw. Shadab was spot on. Sodhi disconsolate after perishing at 8. Elation for Pakistan who are having a delightful day at the office.
 
 
 Balls faced: 21
 Bowler: Shadab
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Gets it right on this occasion, keeps it away from his long levers, shortish again and it kept sliding across off, just inside the guideline on off"}]Gets it right on this occasion, keeps it away from his long levers, shortish again and it kept sliding across off, just inside the guideline on off
+Gets it right on this occasion, keeps it away from his long levers, shortish again and it kept sliding across off, just inside the guideline on off
 
 
 Balls faced: 22
 Bowler: Shadab
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Drops short and it kept turning away from the tramline on off, reload"}]Drops short and it kept turning away from the tramline on off, reload
+Drops short and it kept turning away from the tramline on off, reload
 
 Wide: 1
 Balls faced: 23
 Bowler: Shadab
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, gentle legbreak on middle, skedaddles down the track and clouts it away to deep midwicket"}]Over the wicket, gentle legbreak on middle, skedaddles down the track and clouts it away to deep midwicket
+Over the wicket, gentle legbreak on middle, skedaddles down the track and clouts it away to deep midwicket
 
 
 Balls faced: 24
 Bowler: Shaheen Shah Afridi
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Looking for the yorker, close to the blockhole, punches it down to long on"}]Looking for the yorker, close to the blockhole, punches it down to long on
+Looking for the yorker, close to the blockhole, punches it down to long on
 
 
 Balls faced: 25
 Bowler: Shadab
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Squealing for an lbw, not given by the on-field umpire. </strong>Long chat between Babar and Shadab and they eventually decide to take a second opinion on it. Saw him advancing and pulled his length further back, wears it on his thigh pad and misses it completely. No spike on the ultraedge as the ball passes the bat, pitching in line, impact in line and hitting low at middle so he gets three reds and it's lbw. Shadab was spot on. Sodhi disconsolate after perishing at 8. Elation for Pakistan who are having a delightful day at the office."}]<strong>Squealing for an lbw, not given by the on-field umpire. </strong>Long chat between Babar and Shadab and they eventually decide to take a second opinion on it. Saw him advancing and pulled his length further back, wears it on his thigh pad and misses it completely. No spike on the ultraedge as the ball passes the bat, pitching in line, impact in line and hitting low at middle so he gets three reds and it's lbw. Shadab was spot on. Sodhi disconsolate after perishing at 8. Elation for Pakistan who are having a delightful day at the office.
+Sodhi is OUT! lbw
+lbw b Shadab Khan
+Ish Sodhi lbw b Shadab Khan 8 (13b 0x4 0x6 20m) SR: 61.53
+<strong>Squealing for an lbw, not given by the on-field umpire. </strong>Long chat between Babar and Shadab and they eventually decide to take a second opinion on it. Saw him advancing and pulled his length further back, wears it on his thigh pad and misses it completely. No spike on the ultraedge as the ball passes the bat, pitching in line, impact in line and hitting low at middle so he gets three reds and it's lbw. Shadab was spot on. Sodhi disconsolate after perishing at 8. Elation for Pakistan who are having a delightful day at the office.
 
 
 Balls faced: 26
 Bowler: Shadab
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Gets it right on this occasion, keeps it away from his long levers, shortish again and it kept sliding across off, just inside the guideline on off"}]Gets it right on this occasion, keeps it away from his long levers, shortish again and it kept sliding across off, just inside the guideline on off
+Gets it right on this occasion, keeps it away from his long levers, shortish again and it kept sliding across off, just inside the guideline on off
 
 
 Balls faced: 27
 Bowler: Shadab
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Drops short and it kept turning away from the tramline on off, reload"}]Drops short and it kept turning away from the tramline on off, reload
+Drops short and it kept turning away from the tramline on off, reload
 
 Wide: 1
 Balls faced: 28
 Bowler: Shadab
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, gentle legbreak on middle, skedaddles down the track and clouts it away to deep midwicket"}]Over the wicket, gentle legbreak on middle, skedaddles down the track and clouts it away to deep midwicket
+Over the wicket, gentle legbreak on middle, skedaddles down the track and clouts it away to deep midwicket
 
 
 
@@ -450,61 +506,71 @@ Match: all_games_1424827_1424832.json
 Balls faced: 1
 Bowler: Amir
 Over: 20
+ 
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Leg-cutter on a length wide outside off, swings big but doesn't control his bat and Iftikhar at mid-off is called into action again, he tracks the ball, settles under at takes an easy catch, it's his third catch."}]Leg-cutter on a length wide outside off, swings big but doesn't control his bat and Iftikhar at mid-off is called into action again, he tracks the ball, settles under at takes an easy catch, it's his third catch.
-[{"type": "HTML", "html": "New Zealand have managed to put a respectable total of 178 runs for the loss of seven wickets, a target that Michael Bracewell had in mind during the toss. The top-order provided solid contributions, with Robinson scoring a well-orchestrated fifty, Blundell got a start, and Foxcroft added 34 valuable runs but the innings slowed down after first 10 overs."}, {"type": "HTML", "html": "Abbas Afridi was exceptional in his second spell, took 3 wickets for 20 runs. Usama Mir had a tough day at the office, while Zaman Khan struggled with his length and lines, which proved costly in the end. Imad Wasim didn't perform at his best, having spent considerable time on the bench but it's good for him to get some match-time. The score is close to par but the dew factor may come into play so Pakistan will fancy themselves to track it down. If successful, it would be the highest successful run-chase against New Zealand in T20Is. I'll be back after a short break, stay tuned!"}, {"type": "HTML", "html": "Faisal : \"Legacy continues from Gul to his nephew abbas Afridi !! You cannot bowl batter Yorker then umer Gul was used to do....\""}]New Zealand have managed to put a respectable total of 178 runs for the loss of seven wickets, a target that Michael Bracewell had in mind during the toss. The top-order provided solid contributions, with Robinson scoring a well-orchestrated fifty, Blundell got a start, and Foxcroft added 34 valuable runs but the innings slowed down after first 10 overs. Abbas Afridi was exceptional in his second spell, took 3 wickets for 20 runs. Usama Mir had a tough day at the office, while Zaman Khan struggled with his length and lines, which proved costly in the end. Imad Wasim didn't perform at his best, having spent considerable time on the bench but it's good for him to get some match-time. The score is close to par but the dew factor may come into play so Pakistan will fancy themselves to track it down. If successful, it would be the highest successful run-chase against New Zealand in T20Is. I'll be back after a short break, stay tuned! Faisal : "Legacy continues from Gul to his nephew abbas Afridi !! You cannot bowl batter Yorker then umer Gul was used to do...."
+Sodhi is OUT! caught
+c Iftikhar Ahmed b Mohammad Amir
+Ish Sodhi c Iftikhar Ahmed b Mohammad Amir 5 (3b 1x4 0x6 4m) SR: 166.66
+Leg-cutter on a length wide outside off, swings big but doesn't control his bat and Iftikhar at mid-off is called into action again, he tracks the ball, settles under at takes an easy catch, it's his third catch.
+New Zealand have managed to put a respectable total of 178 runs for the loss of seven wickets, a target that Michael Bracewell had in mind during the toss. The top-order provided solid contributions, with Robinson scoring a well-orchestrated fifty, Blundell got a start, and Foxcroft added 34 valuable runs but the innings slowed down after first 10 overs. Abbas Afridi was exceptional in his second spell, took 3 wickets for 20 runs. Usama Mir had a tough day at the office, while Zaman Khan struggled with his length and lines, which proved costly in the end. Imad Wasim didn't perform at his best, having spent considerable time on the bench but it's good for him to get some match-time. The score is close to par but the dew factor may come into play so Pakistan will fancy themselves to track it down. If successful, it would be the highest successful run-chase against New Zealand in T20Is. I'll be back after a short break, stay tuned! Faisal : "Legacy continues from Gul to his nephew abbas Afridi !! You cannot bowl batter Yorker then umer Gul was used to do...."
 
 Balls faced: 2
 Bowler: Amir
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Wide yorker, miscued in the air, whacking it across the line, ball falls in the vacant peninsula between midwicket and cow corner"}]Wide yorker, miscued in the air, whacking it across the line, ball falls in the vacant peninsula between midwicket and cow corner
+Wide yorker, miscued in the air, whacking it across the line, ball falls in the vacant peninsula between midwicket and cow corner
 
 
 Balls faced: 3
 Bowler: Amir
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Breaks the shackles with a boundary, half-volley on off, chomped over mid-off for a four, just clears the fielder"}]Breaks the shackles with a boundary, half-volley on off, chomped over mid-off for a four, just clears the fielder
+Breaks the shackles with a boundary, half-volley on off, chomped over mid-off for a four, just clears the fielder
 
 
 Balls faced: 4
 Bowler: Amir
 Over: 20
+ 
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Leg-cutter on a length wide outside off, swings big but doesn't control his bat and Iftikhar at mid-off is called into action again, he tracks the ball, settles under at takes an easy catch, it's his third catch."}]Leg-cutter on a length wide outside off, swings big but doesn't control his bat and Iftikhar at mid-off is called into action again, he tracks the ball, settles under at takes an easy catch, it's his third catch.
-[{"type": "HTML", "html": "New Zealand have managed to put a respectable total of 178 runs for the loss of seven wickets, a target that Michael Bracewell had in mind during the toss. The top-order provided solid contributions, with Robinson scoring a well-orchestrated fifty, Blundell got a start, and Foxcroft added 34 valuable runs but the innings slowed down after first 10 overs."}, {"type": "HTML", "html": "Abbas Afridi was exceptional in his second spell, took 3 wickets for 20 runs. Usama Mir had a tough day at the office, while Zaman Khan struggled with his length and lines, which proved costly in the end. Imad Wasim didn't perform at his best, having spent considerable time on the bench but it's good for him to get some match-time. The score is close to par but the dew factor may come into play so Pakistan will fancy themselves to track it down. If successful, it would be the highest successful run-chase against New Zealand in T20Is. I'll be back after a short break, stay tuned!"}, {"type": "HTML", "html": "Faisal : \"Legacy continues from Gul to his nephew abbas Afridi !! You cannot bowl batter Yorker then umer Gul was used to do....\""}]New Zealand have managed to put a respectable total of 178 runs for the loss of seven wickets, a target that Michael Bracewell had in mind during the toss. The top-order provided solid contributions, with Robinson scoring a well-orchestrated fifty, Blundell got a start, and Foxcroft added 34 valuable runs but the innings slowed down after first 10 overs. Abbas Afridi was exceptional in his second spell, took 3 wickets for 20 runs. Usama Mir had a tough day at the office, while Zaman Khan struggled with his length and lines, which proved costly in the end. Imad Wasim didn't perform at his best, having spent considerable time on the bench but it's good for him to get some match-time. The score is close to par but the dew factor may come into play so Pakistan will fancy themselves to track it down. If successful, it would be the highest successful run-chase against New Zealand in T20Is. I'll be back after a short break, stay tuned! Faisal : "Legacy continues from Gul to his nephew abbas Afridi !! You cannot bowl batter Yorker then umer Gul was used to do...."
+Sodhi is OUT! caught
+c Iftikhar Ahmed b Mohammad Amir
+Ish Sodhi c Iftikhar Ahmed b Mohammad Amir 5 (3b 1x4 0x6 4m) SR: 166.66
+Leg-cutter on a length wide outside off, swings big but doesn't control his bat and Iftikhar at mid-off is called into action again, he tracks the ball, settles under at takes an easy catch, it's his third catch.
+New Zealand have managed to put a respectable total of 178 runs for the loss of seven wickets, a target that Michael Bracewell had in mind during the toss. The top-order provided solid contributions, with Robinson scoring a well-orchestrated fifty, Blundell got a start, and Foxcroft added 34 valuable runs but the innings slowed down after first 10 overs. Abbas Afridi was exceptional in his second spell, took 3 wickets for 20 runs. Usama Mir had a tough day at the office, while Zaman Khan struggled with his length and lines, which proved costly in the end. Imad Wasim didn't perform at his best, having spent considerable time on the bench but it's good for him to get some match-time. The score is close to par but the dew factor may come into play so Pakistan will fancy themselves to track it down. If successful, it would be the highest successful run-chase against New Zealand in T20Is. I'll be back after a short break, stay tuned! Faisal : "Legacy continues from Gul to his nephew abbas Afridi !! You cannot bowl batter Yorker then umer Gul was used to do...."
 
 Balls faced: 5
 Bowler: Amir
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Wide yorker, miscued in the air, whacking it across the line, ball falls in the vacant peninsula between midwicket and cow corner"}]Wide yorker, miscued in the air, whacking it across the line, ball falls in the vacant peninsula between midwicket and cow corner
+Wide yorker, miscued in the air, whacking it across the line, ball falls in the vacant peninsula between midwicket and cow corner
 
 
 Balls faced: 6
 Bowler: Amir
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Breaks the shackles with a boundary, half-volley on off, chomped over mid-off for a four, just clears the fielder"}]Breaks the shackles with a boundary, half-volley on off, chomped over mid-off for a four, just clears the fielder
+Breaks the shackles with a boundary, half-volley on off, chomped over mid-off for a four, just clears the fielder
 
 
 
@@ -512,78 +578,90 @@ Match: all_games_1424827_1424833.json
 Balls faced: 1
 Bowler: Shaheen Shah Afridi
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Around again, fuller length and comes back in a shade from outside off, square driven into the covers, crowd are screaming at the top of their lungs, it's a brilliant atmosphere, another packed house!"}]Around again, fuller length and comes back in a shade from outside off, square driven into the covers, crowd are screaming at the top of their lungs, it's a brilliant atmosphere, another packed house!
+Around again, fuller length and comes back in a shade from outside off, square driven into the covers, crowd are screaming at the top of their lungs, it's a brilliant atmosphere, another packed house!
 
 
 Balls faced: 2
 Bowler: Shadab
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Mistimes it into the leg side between midwicket and mid-on"}]Mistimes it into the leg side between midwicket and mid-on
+Mistimes it into the leg side between midwicket and mid-on
 
 
 Balls faced: 3
 Bowler: Shadab
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, drops short a legbreak just outside off, square cuts it to cover-point"}]Over the wicket, drops short a legbreak just outside off, square cuts it to cover-point
+Over the wicket, drops short a legbreak just outside off, square cuts it to cover-point
 
 
 Balls faced: 4
 Bowler: Shaheen Shah Afridi
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Around again, fuller length and comes back in a shade from outside off, square driven into the covers, crowd are screaming at the top of their lungs, it's a brilliant atmosphere, another packed house!"}]Around again, fuller length and comes back in a shade from outside off, square driven into the covers, crowd are screaming at the top of their lungs, it's a brilliant atmosphere, another packed house!
+Around again, fuller length and comes back in a shade from outside off, square driven into the covers, crowd are screaming at the top of their lungs, it's a brilliant atmosphere, another packed house!
 
 
 Balls faced: 5
 Bowler: Shaheen Shah Afridi
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Trapped him lbw! </strong>Appealing for an lbw and given! Ball thunders into the front pad and the umpire didn't hesitate to raise the dreaded finger, tried to work it away off his pads and didn't account for the seam movement, looks plumb. Pitching outside off, impact in line and hitting leg stump so the original decision stands."}]<strong>Trapped him lbw! </strong>Appealing for an lbw and given! Ball thunders into the front pad and the umpire didn't hesitate to raise the dreaded finger, tried to work it away off his pads and didn't account for the seam movement, looks plumb. Pitching outside off, impact in line and hitting leg stump so the original decision stands.
+Sodhi is OUT! lbw
+lbw b Shaheen Shah Afridi
+Ish Sodhi lbw b Shaheen Shah Afridi 3 (4b 0x4 0x6 7m) SR: 75
+<strong>Trapped him lbw! </strong>Appealing for an lbw and given! Ball thunders into the front pad and the umpire didn't hesitate to raise the dreaded finger, tried to work it away off his pads and didn't account for the seam movement, looks plumb. Pitching outside off, impact in line and hitting leg stump so the original decision stands.
 
 
 Balls faced: 6
 Bowler: Shadab
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Mistimes it into the leg side between midwicket and mid-on"}]Mistimes it into the leg side between midwicket and mid-on
+Mistimes it into the leg side between midwicket and mid-on
 
 
 Balls faced: 7
 Bowler: Shadab
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, drops short a legbreak just outside off, square cuts it to cover-point"}]Over the wicket, drops short a legbreak just outside off, square cuts it to cover-point
+Over the wicket, drops short a legbreak just outside off, square cuts it to cover-point
 
 
 Balls faced: 8
 Bowler: Shaheen Shah Afridi
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Trapped him lbw! </strong>Appealing for an lbw and given! Ball thunders into the front pad and the umpire didn't hesitate to raise the dreaded finger, tried to work it away off his pads and didn't account for the seam movement, looks plumb. Pitching outside off, impact in line and hitting leg stump so the original decision stands."}]<strong>Trapped him lbw! </strong>Appealing for an lbw and given! Ball thunders into the front pad and the umpire didn't hesitate to raise the dreaded finger, tried to work it away off his pads and didn't account for the seam movement, looks plumb. Pitching outside off, impact in line and hitting leg stump so the original decision stands.
+Sodhi is OUT! lbw
+lbw b Shaheen Shah Afridi
+Ish Sodhi lbw b Shaheen Shah Afridi 3 (4b 0x4 0x6 7m) SR: 75
+<strong>Trapped him lbw! </strong>Appealing for an lbw and given! Ball thunders into the front pad and the umpire didn't hesitate to raise the dreaded finger, tried to work it away off his pads and didn't account for the seam movement, looks plumb. Pitching outside off, impact in line and hitting leg stump so the original decision stands.

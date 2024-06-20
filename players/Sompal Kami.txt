@@ -2,81 +2,89 @@ Match: all_games_1411166_1415731.json
 Balls faced: 1
 Bowler: Nortje
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Full on off, driven out through cover, they run very well to get two! Nepal keeping themselves right in it!"}]Full on off, driven out through cover, they run very well to get two! Nepal keeping themselves right in it!
+Full on off, driven out through cover, they run very well to get two! Nepal keeping themselves right in it!
 
 
 Balls faced: 2
 Bowler: Nortje
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Hold your horses, there are twists still to come!</b> Sompal Kami has hit this out of the park! Back of hand slower ball and Sompal picks it early, bashing it over midwicket. That's gone over 100 metres. Some cars in the parking lot may have been damaged!"}]<b>Hold your horses, there are twists still to come!</b> Sompal Kami has hit this out of the park! Back of hand slower ball and Sompal picks it early, bashing it over midwicket. That's gone over 100 metres. Some cars in the parking lot may have been damaged!
+<b>Hold your horses, there are twists still to come!</b> Sompal Kami has hit this out of the park! Back of hand slower ball and Sompal picks it early, bashing it over midwicket. That's gone over 100 metres. Some cars in the parking lot may have been damaged!
 
 
 Balls faced: 3
 Bowler: Nortje
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sompal looks to cut this back of length delivery but is beaten by the pace. Nortje hit 142kph there"}]Sompal looks to cut this back of length delivery but is beaten by the pace. Nortje hit 142kph there
+Sompal looks to cut this back of length delivery but is beaten by the pace. Nortje hit 142kph there
 
 
 Balls faced: 4
 Bowler: Nortje
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Nepal need 16 off 10. We are waiting for the middle stump to be fixed, after Nortje imparted some damage on it!"}]Nepal need 16 off 10. We are waiting for the middle stump to be fixed, after Nortje imparted some damage on it!
+Nepal need 16 off 10. We are waiting for the middle stump to be fixed, after Nortje imparted some damage on it!
 
-[{"type": "HTML", "html": "Very full around off, Sompal Kami drives it straight to Klaasen at cover. Another dot ball. More pressure!"}]Very full around off, Sompal Kami drives it straight to Klaasen at cover. Another dot ball. More pressure!
+Very full around off, Sompal Kami drives it straight to Klaasen at cover. Another dot ball. More pressure!
 
 
 Balls faced: 5
 Bowler: Nortje
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Full on off, driven out through cover, they run very well to get two! Nepal keeping themselves right in it!"}]Full on off, driven out through cover, they run very well to get two! Nepal keeping themselves right in it!
+Full on off, driven out through cover, they run very well to get two! Nepal keeping themselves right in it!
 
 
 Balls faced: 6
 Bowler: Nortje
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Hold your horses, there are twists still to come!</b> Sompal Kami has hit this out of the park! Back of hand slower ball and Sompal picks it early, bashing it over midwicket. That's gone over 100 metres. Some cars in the parking lot may have been damaged!"}]<b>Hold your horses, there are twists still to come!</b> Sompal Kami has hit this out of the park! Back of hand slower ball and Sompal picks it early, bashing it over midwicket. That's gone over 100 metres. Some cars in the parking lot may have been damaged!
+<b>Hold your horses, there are twists still to come!</b> Sompal Kami has hit this out of the park! Back of hand slower ball and Sompal picks it early, bashing it over midwicket. That's gone over 100 metres. Some cars in the parking lot may have been damaged!
 
 
 Balls faced: 7
 Bowler: Nortje
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sompal looks to cut this back of length delivery but is beaten by the pace. Nortje hit 142kph there"}]Sompal looks to cut this back of length delivery but is beaten by the pace. Nortje hit 142kph there
+Sompal looks to cut this back of length delivery but is beaten by the pace. Nortje hit 142kph there
 
 
 Balls faced: 8
 Bowler: Nortje
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Nepal need 16 off 10. We are waiting for the middle stump to be fixed, after Nortje imparted some damage on it!"}]Nepal need 16 off 10. We are waiting for the middle stump to be fixed, after Nortje imparted some damage on it!
+Nepal need 16 off 10. We are waiting for the middle stump to be fixed, after Nortje imparted some damage on it!
 
-[{"type": "HTML", "html": "Very full around off, Sompal Kami drives it straight to Klaasen at cover. Another dot ball. More pressure!"}]Very full around off, Sompal Kami drives it straight to Klaasen at cover. Another dot ball. More pressure!
+Very full around off, Sompal Kami drives it straight to Klaasen at cover. Another dot ball. More pressure!
 
 
 
@@ -84,38 +92,46 @@ Match: all_games_1411166_1415737.json
 Balls faced: 1
 Bowler: Taskin
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Kami joins Airee. Nepal need 22 off 13"}]Kami joins Airee. Nepal need 22 off 13
+Kami joins Airee. Nepal need 22 off 13
 
-[{"type": "HTML", "html": "length outside off. Kami presses half forward and laces his square drive, only to be thwarted by Rishad at backward point"}]length outside off. Kami presses half forward and laces his square drive, only to be thwarted by Rishad at backward point
+length outside off. Kami presses half forward and laces his square drive, only to be thwarted by Rishad at backward point
 
 
 Balls faced: 2
 Bowler: Taskin
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Kami joins Airee. Nepal need 22 off 13"}]Kami joins Airee. Nepal need 22 off 13
+Kami joins Airee. Nepal need 22 off 13
 
-[{"type": "HTML", "html": "length outside off. Kami presses half forward and laces his square drive, only to be thwarted by Rishad at backward point"}]length outside off. Kami presses half forward and laces his square drive, only to be thwarted by Rishad at backward point
+length outside off. Kami presses half forward and laces his square drive, only to be thwarted by Rishad at backward point
 
 
 Balls faced: 3
 Bowler: Shakib
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Shakib to bowl the last over. Kami on strike. Shakib to bowl. 22 needed"}]Shakib to bowl the last over. Kami on strike. Shakib to bowl. 22 needed
-
-[{"type": "HTML", "html": "<strong>stumped by a country mile!</strong> Tossed up deliciously on a length on off. Kami hares down the track, aiming for the moon. Loses all shape and makes no sort of contact. Litton collects cleanly and then effects the stumping, with Kami well out of his crease. Nepal falling like a pack of cards now!"}]<strong>stumped by a country mile!</strong> Tossed up deliciously on a length on off. Kami hares down the track, aiming for the moon. Loses all shape and makes no sort of contact. Litton collects cleanly and then effects the stumping, with Kami well out of his crease. Nepal falling like a pack of cards now!
+Shakib to bowl the last over. Kami on strike. Shakib to bowl. 22 needed
+Sompal Kami is OUT! stumped
+st †Litton Das b Shakib Al Hasan
+Sompal Kami st †Litton Das b Shakib Al Hasan 0 (2b 0x4 0x6 6m) SR: 0
+<strong>stumped by a country mile!</strong> Tossed up deliciously on a length on off. Kami hares down the track, aiming for the moon. Loses all shape and makes no sort of contact. Litton collects cleanly and then effects the stumping, with Kami well out of his crease. Nepal falling like a pack of cards now!
 
 
 Balls faced: 4
 Bowler: Shakib
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Shakib to bowl the last over. Kami on strike. Shakib to bowl. 22 needed"}]Shakib to bowl the last over. Kami on strike. Shakib to bowl. 22 needed
-
-[{"type": "HTML", "html": "<strong>stumped by a country mile!</strong> Tossed up deliciously on a length on off. Kami hares down the track, aiming for the moon. Loses all shape and makes no sort of contact. Litton collects cleanly and then effects the stumping, with Kami well out of his crease. Nepal falling like a pack of cards now!"}]<strong>stumped by a country mile!</strong> Tossed up deliciously on a length on off. Kami hares down the track, aiming for the moon. Loses all shape and makes no sort of contact. Litton collects cleanly and then effects the stumping, with Kami well out of his crease. Nepal falling like a pack of cards now!
+Shakib to bowl the last over. Kami on strike. Shakib to bowl. 22 needed
+Sompal Kami is OUT! stumped
+st †Litton Das b Shakib Al Hasan
+Sompal Kami st †Litton Das b Shakib Al Hasan 0 (2b 0x4 0x6 6m) SR: 0
+<strong>stumped by a country mile!</strong> Tossed up deliciously on a length on off. Kami hares down the track, aiming for the moon. Loses all shape and makes no sort of contact. Litton collects cleanly and then effects the stumping, with Kami well out of his crease. Nepal falling like a pack of cards now!

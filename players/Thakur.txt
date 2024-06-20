@@ -2,659 +2,729 @@ Match: all_games_1387592_1387603.json
 Balls faced: 1
 Bowler: Coetzee
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, threatens to angle in, Thakur plays for the inward angle but it veers away to beat the outside edge"}]on a length, threatens to angle in, Thakur plays for the inward angle but it veers away to beat the outside edge
+on a length, threatens to angle in, Thakur plays for the inward angle but it veers away to beat the outside edge
 
 
 Balls faced: 2
 Bowler: Coetzee
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the stumps, jammed to mid-on once again"}]full on the stumps, jammed to mid-on once again
-[{"type": "HTML", "html": "Vismay: \"Vicious bowling from Rabada. I hope Bumrah and co. are taking notes.\""}]Vismay: "Vicious bowling from Rabada. I hope Bumrah and co. are taking notes."
+full on the stumps, jammed to mid-on once again
+Vismay: "Vicious bowling from Rabada. I hope Bumrah and co. are taking notes."
 
 Balls faced: 3
 Bowler: Coetzee
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full and on the stumps, this doesn't come onto the bat. <strong>Coetzee draws a leading edge</strong> but it drops to the right of him"}]very full and on the stumps, this doesn't come onto the bat. <strong>Coetzee draws a leading edge</strong> but it drops to the right of him
+very full and on the stumps, this doesn't come onto the bat. <strong>Coetzee draws a leading edge</strong> but it drops to the right of him
 
 
 Balls faced: 4
 Bowler: Rabada
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length and angling into the stumps, Thakur uses that inward angle and glances a single to deep fine leg"}]back of a length and angling into the stumps, Thakur uses that inward angle and glances a single to deep fine leg
+back of a length and angling into the stumps, Thakur uses that inward angle and glances a single to deep fine leg
 
 
 Balls faced: 5
 Bowler: Rabada
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, angling in, then jagging away past the outside edge. To his credit, Thakur didn't jab at this in the channel"}]on a length, angling in, then jagging away past the outside edge. To his credit, Thakur didn't jab at this in the channel
+on a length, angling in, then jagging away past the outside edge. To his credit, Thakur didn't jab at this in the channel
 
 
 Balls faced: 6
 Bowler: Rabada
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>nip-backer from Rabada</strong>, keeps a bit low too, pings the pad, but this seems to be heading past leg stump"}]<strong>nip-backer from Rabada</strong>, keeps a bit low too, pings the pad, but this seems to be heading past leg stump
+<strong>nip-backer from Rabada</strong>, keeps a bit low too, pings the pad, but this seems to be heading past leg stump
 
 
 Balls faced: 7
 Bowler: Rabada
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>belted down the ground for four.</strong> Overpitched and angling in at off stump, Thakur leans into a drive and puts it away to the right of short cover"}]<strong>belted down the ground for four.</strong> Overpitched and angling in at off stump, Thakur leans into a drive and puts it away to the right of short cover
+<strong>belted down the ground for four.</strong> Overpitched and angling in at off stump, Thakur leans into a drive and puts it away to the right of short cover
 
 
 Balls faced: 8
 Bowler: Coetzee
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, threatens to angle in, Thakur plays for the inward angle but it veers away to beat the outside edge"}]on a length, threatens to angle in, Thakur plays for the inward angle but it veers away to beat the outside edge
+on a length, threatens to angle in, Thakur plays for the inward angle but it veers away to beat the outside edge
 
 
 Balls faced: 9
 Bowler: Coetzee
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the stumps, jammed to mid-on once again"}]full on the stumps, jammed to mid-on once again
-[{"type": "HTML", "html": "Vismay: \"Vicious bowling from Rabada. I hope Bumrah and co. are taking notes.\""}]Vismay: "Vicious bowling from Rabada. I hope Bumrah and co. are taking notes."
+full on the stumps, jammed to mid-on once again
+Vismay: "Vicious bowling from Rabada. I hope Bumrah and co. are taking notes."
 
 Balls faced: 10
 Bowler: Coetzee
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full and on the stumps, this doesn't come onto the bat. <strong>Coetzee draws a leading edge</strong> but it drops to the right of him"}]very full and on the stumps, this doesn't come onto the bat. <strong>Coetzee draws a leading edge</strong> but it drops to the right of him
+very full and on the stumps, this doesn't come onto the bat. <strong>Coetzee draws a leading edge</strong> but it drops to the right of him
 
 
 Balls faced: 11
 Bowler: Coetzee
 Over: 38
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 3
 
 
-[{"type": "HTML", "html": "pitched-up delivery outside off, Thakur flows forward and drives it nicely through the cover-point region. Petersen chases the ball hard and hauls it in"}]pitched-up delivery outside off, Thakur flows forward and drives it nicely through the cover-point region. Petersen chases the ball hard and hauls it in
+pitched-up delivery outside off, Thakur flows forward and drives it nicely through the cover-point region. Petersen chases the ball hard and hauls it in
 
 
 Balls faced: 12
 Bowler: Coetzee
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, angling in, and seaming away like a quick legcutter to thump Thakur high on the thigh pad"}]back of a length, angling in, and seaming away like a quick legcutter to thump Thakur high on the thigh pad
+back of a length, angling in, and seaming away like a quick legcutter to thump Thakur high on the thigh pad
 
 
 Balls faced: 13
 Bowler: Rabada
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length and angling into the stumps, Thakur uses that inward angle and glances a single to deep fine leg"}]back of a length and angling into the stumps, Thakur uses that inward angle and glances a single to deep fine leg
+back of a length and angling into the stumps, Thakur uses that inward angle and glances a single to deep fine leg
 
 
 Balls faced: 14
 Bowler: Rabada
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, angling in, then jagging away past the outside edge. To his credit, Thakur didn't jab at this in the channel"}]on a length, angling in, then jagging away past the outside edge. To his credit, Thakur didn't jab at this in the channel
+on a length, angling in, then jagging away past the outside edge. To his credit, Thakur didn't jab at this in the channel
 
 
 Balls faced: 15
 Bowler: Rabada
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>nip-backer from Rabada</strong>, keeps a bit low too, pings the pad, but this seems to be heading past leg stump"}]<strong>nip-backer from Rabada</strong>, keeps a bit low too, pings the pad, but this seems to be heading past leg stump
+<strong>nip-backer from Rabada</strong>, keeps a bit low too, pings the pad, but this seems to be heading past leg stump
 
 
 Balls faced: 16
 Bowler: Rabada
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>belted down the ground for four.</strong> Overpitched and angling in at off stump, Thakur leans into a drive and puts it away to the right of short cover"}]<strong>belted down the ground for four.</strong> Overpitched and angling in at off stump, Thakur leans into a drive and puts it away to the right of short cover
+<strong>belted down the ground for four.</strong> Overpitched and angling in at off stump, Thakur leans into a drive and puts it away to the right of short cover
 
 
 Balls faced: 17
 Bowler: Coetzee
 Over: 38
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 3
 
 
-[{"type": "HTML", "html": "pitched-up delivery outside off, Thakur flows forward and drives it nicely through the cover-point region. Petersen chases the ball hard and hauls it in"}]pitched-up delivery outside off, Thakur flows forward and drives it nicely through the cover-point region. Petersen chases the ball hard and hauls it in
+pitched-up delivery outside off, Thakur flows forward and drives it nicely through the cover-point region. Petersen chases the ball hard and hauls it in
 
 
 Balls faced: 18
 Bowler: Coetzee
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, angling in, and seaming away like a quick legcutter to thump Thakur high on the thigh pad"}]back of a length, angling in, and seaming away like a quick legcutter to thump Thakur high on the thigh pad
+back of a length, angling in, and seaming away like a quick legcutter to thump Thakur high on the thigh pad
 
 
 Balls faced: 19
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and into the hips, stylishly picked away to long leg. <strong>Thakur is turning on the style in Centurion</strong>"}]short and into the hips, stylishly picked away to long leg. <strong>Thakur is turning on the style in Centurion</strong>
+short and into the hips, stylishly picked away to long leg. <strong>Thakur is turning on the style in Centurion</strong>
 
 
 Balls faced: 20
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "much fuller and slanting in at off stump, Thakur brings his bat down and keeps it out"}]much fuller and slanting in at off stump, Thakur brings his bat down and keeps it out
+much fuller and slanting in at off stump, Thakur brings his bat down and keeps it out
 
 
 Balls faced: 21
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length and nibbling away outside off against the inward angle, ignored"}]good length and nibbling away outside off against the inward angle, ignored
+good length and nibbling away outside off against the inward angle, ignored
 
 
 Balls faced: 22
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>pumped over extra-cover.</strong> Back of a length and holds its line outside off, Thakur gets on top of the bounce and hits it over the off side with his back leg up in the air. Shot of the day?"}]<strong>pumped over extra-cover.</strong> Back of a length and holds its line outside off, Thakur gets on top of the bounce and hits it over the off side with his back leg up in the air. Shot of the day?
+<strong>pumped over extra-cover.</strong> Back of a length and holds its line outside off, Thakur gets on top of the bounce and hits it over the off side with his back leg up in the air. Shot of the day?
 
 
 Balls faced: 23
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and outside off, <strong>Thakur spars at it and misses it in the channel</strong>"}]back of a length and outside off, <strong>Thakur spars at it and misses it in the channel</strong>
+back of a length and outside off, <strong>Thakur spars at it and misses it in the channel</strong>
 
 
 Balls faced: 24
 Bowler: Jansen
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "neatly tucked wide of short leg for a single"}]neatly tucked wide of short leg for a single
+neatly tucked wide of short leg for a single
 
 
 Balls faced: 25
 Bowler: Jansen
 Over: 41
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floats it full outside off, Shardul goes after that but ends up getting a thickish inside edge to mid-on"}]floats it full outside off, Shardul goes after that but ends up getting a thickish inside edge to mid-on
+floats it full outside off, Shardul goes after that but ends up getting a thickish inside edge to mid-on
 
 
 Balls faced: 26
 Bowler: Jansen
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Thanks, Deiva. Honestly I didn't think we'll get in even this much amount of play this morning when it dawned dark and gloomy in Pretoria. But all the weather predictions have been proven wrong and we've had a beautiful, at times blustery, day so far. Hope it'll stay that way. A fascinating contest is brewing."}]Thanks, Deiva. Honestly I didn't think we'll get in even this much amount of play this morning when it dawned dark and gloomy in Pretoria. But all the weather predictions have been proven wrong and we've had a beautiful, at times blustery, day so far. Hope it'll stay that way. A fascinating contest is brewing.
+Thanks, Deiva. Honestly I didn't think we'll get in even this much amount of play this morning when it dawned dark and gloomy in Pretoria. But all the weather predictions have been proven wrong and we've had a beautiful, at times blustery, day so far. Hope it'll stay that way. A fascinating contest is brewing.
 
-[{"type": "HTML", "html": "short of length delivery outside off from around the wicket, Shardul lets it pass"}]short of length delivery outside off from around the wicket, Shardul lets it pass
+short of length delivery outside off from around the wicket, Shardul lets it pass
 
 
 Balls faced: 27
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and into the hips, stylishly picked away to long leg. <strong>Thakur is turning on the style in Centurion</strong>"}]short and into the hips, stylishly picked away to long leg. <strong>Thakur is turning on the style in Centurion</strong>
+short and into the hips, stylishly picked away to long leg. <strong>Thakur is turning on the style in Centurion</strong>
 
 
 Balls faced: 28
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "much fuller and slanting in at off stump, Thakur brings his bat down and keeps it out"}]much fuller and slanting in at off stump, Thakur brings his bat down and keeps it out
+much fuller and slanting in at off stump, Thakur brings his bat down and keeps it out
 
 
 Balls faced: 29
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length and nibbling away outside off against the inward angle, ignored"}]good length and nibbling away outside off against the inward angle, ignored
+good length and nibbling away outside off against the inward angle, ignored
 
 
 Balls faced: 30
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>pumped over extra-cover.</strong> Back of a length and holds its line outside off, Thakur gets on top of the bounce and hits it over the off side with his back leg up in the air. Shot of the day?"}]<strong>pumped over extra-cover.</strong> Back of a length and holds its line outside off, Thakur gets on top of the bounce and hits it over the off side with his back leg up in the air. Shot of the day?
+<strong>pumped over extra-cover.</strong> Back of a length and holds its line outside off, Thakur gets on top of the bounce and hits it over the off side with his back leg up in the air. Shot of the day?
 
 
 Balls faced: 31
 Bowler: Coetzee
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and outside off, <strong>Thakur spars at it and misses it in the channel</strong>"}]back of a length and outside off, <strong>Thakur spars at it and misses it in the channel</strong>
+back of a length and outside off, <strong>Thakur spars at it and misses it in the channel</strong>
 
 
 Balls faced: 32
 Bowler: Coetzee
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "neatly worked off his pads to midwicket as they scamper a quick single"}]neatly worked off his pads to midwicket as they scamper a quick single
+neatly worked off his pads to midwicket as they scamper a quick single
 
 
 Balls faced: 33
 Bowler: Coetzee
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Adarsh: \"A top order collapse on a tough wicket, Kohli mini-knock, our WK bat leading a recovery with a bowling all-rounder for company. This has been the pattern for all of Indian batting in tests since 2020.\""}]Adarsh: "A top order collapse on a tough wicket, Kohli mini-knock, our WK bat leading a recovery with a bowling all-rounder for company. This has been the pattern for all of Indian batting in tests since 2020."
+Adarsh: "A top order collapse on a tough wicket, Kohli mini-knock, our WK bat leading a recovery with a bowling all-rounder for company. This has been the pattern for all of Indian batting in tests since 2020."
 
-[{"type": "HTML", "html": "attacks the stumps by going full, Shardul plays a tad down the wrong line and the inside edge rolls to short leg"}]attacks the stumps by going full, Shardul plays a tad down the wrong line and the inside edge rolls to short leg
+attacks the stumps by going full, Shardul plays a tad down the wrong line and the inside edge rolls to short leg
 
 
 Balls faced: 34
 Bowler: Coetzee
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish and outside off, he reaches out to squeeze this drive to cover"}]fullish and outside off, he reaches out to squeeze this drive to cover
+fullish and outside off, he reaches out to squeeze this drive to cover
 
 
 Balls faced: 35
 Bowler: Coetzee
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>picked away for four!</strong> Shardul gets a juicy full toss on his pads and he smears that through square leg"}]<strong>picked away for four!</strong> Shardul gets a juicy full toss on his pads and he smears that through square leg
+<strong>picked away for four!</strong> Shardul gets a juicy full toss on his pads and he smears that through square leg
 
 
 Balls faced: 36
 Bowler: Jansen
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "neatly tucked wide of short leg for a single"}]neatly tucked wide of short leg for a single
+neatly tucked wide of short leg for a single
 
 
 Balls faced: 37
 Bowler: Jansen
 Over: 41
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floats it full outside off, Shardul goes after that but ends up getting a thickish inside edge to mid-on"}]floats it full outside off, Shardul goes after that but ends up getting a thickish inside edge to mid-on
+floats it full outside off, Shardul goes after that but ends up getting a thickish inside edge to mid-on
 
 
 Balls faced: 38
 Bowler: Jansen
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Thanks, Deiva. Honestly I didn't think we'll get in even this much amount of play this morning when it dawned dark and gloomy in Pretoria. But all the weather predictions have been proven wrong and we've had a beautiful, at times blustery, day so far. Hope it'll stay that way. A fascinating contest is brewing."}]Thanks, Deiva. Honestly I didn't think we'll get in even this much amount of play this morning when it dawned dark and gloomy in Pretoria. But all the weather predictions have been proven wrong and we've had a beautiful, at times blustery, day so far. Hope it'll stay that way. A fascinating contest is brewing.
+Thanks, Deiva. Honestly I didn't think we'll get in even this much amount of play this morning when it dawned dark and gloomy in Pretoria. But all the weather predictions have been proven wrong and we've had a beautiful, at times blustery, day so far. Hope it'll stay that way. A fascinating contest is brewing.
 
-[{"type": "HTML", "html": "short of length delivery outside off from around the wicket, Shardul lets it pass"}]short of length delivery outside off from around the wicket, Shardul lets it pass
+short of length delivery outside off from around the wicket, Shardul lets it pass
 
 
 Balls faced: 39
 Bowler: Jansen
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "defended into the covers for a quick single"}]defended into the covers for a quick single
+defended into the covers for a quick single
 
 
 Balls faced: 40
 Bowler: Jansen
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off and angling back in, solidly defended"}]length outside off and angling back in, solidly defended
+length outside off and angling back in, solidly defended
 
 
 Balls faced: 41
 Bowler: Coetzee
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "neatly worked off his pads to midwicket as they scamper a quick single"}]neatly worked off his pads to midwicket as they scamper a quick single
+neatly worked off his pads to midwicket as they scamper a quick single
 
 
 Balls faced: 42
 Bowler: Coetzee
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Adarsh: \"A top order collapse on a tough wicket, Kohli mini-knock, our WK bat leading a recovery with a bowling all-rounder for company. This has been the pattern for all of Indian batting in tests since 2020.\""}]Adarsh: "A top order collapse on a tough wicket, Kohli mini-knock, our WK bat leading a recovery with a bowling all-rounder for company. This has been the pattern for all of Indian batting in tests since 2020."
+Adarsh: "A top order collapse on a tough wicket, Kohli mini-knock, our WK bat leading a recovery with a bowling all-rounder for company. This has been the pattern for all of Indian batting in tests since 2020."
 
-[{"type": "HTML", "html": "attacks the stumps by going full, Shardul plays a tad down the wrong line and the inside edge rolls to short leg"}]attacks the stumps by going full, Shardul plays a tad down the wrong line and the inside edge rolls to short leg
+attacks the stumps by going full, Shardul plays a tad down the wrong line and the inside edge rolls to short leg
 
 
 Balls faced: 43
 Bowler: Coetzee
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish and outside off, he reaches out to squeeze this drive to cover"}]fullish and outside off, he reaches out to squeeze this drive to cover
+fullish and outside off, he reaches out to squeeze this drive to cover
 
 
 Balls faced: 44
 Bowler: Coetzee
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>picked away for four!</strong> Shardul gets a juicy full toss on his pads and he smears that through square leg"}]<strong>picked away for four!</strong> Shardul gets a juicy full toss on his pads and he smears that through square leg
+<strong>picked away for four!</strong> Shardul gets a juicy full toss on his pads and he smears that through square leg
 
 
 Balls faced: 45
 Bowler: Coetzee
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another short ball, Shardul manages to avoid it yet again"}]another short ball, Shardul manages to avoid it yet again
+another short ball, Shardul manages to avoid it yet again
 
 
 Balls faced: 46
 Bowler: Coetzee
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "dug in short on middle, this time Shardul ducks under it without a hassle"}]dug in short on middle, this time Shardul ducks under it without a hassle
+dug in short on middle, this time Shardul ducks under it without a hassle
 
 
 Balls faced: 47
 Bowler: Coetzee
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: UPPER_CUT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "throws the kitchen sink at short and wide delivery outside off, arching back to upper cut, but is beaten"}]throws the kitchen sink at short and wide delivery outside off, arching back to upper cut, but is beaten
+throws the kitchen sink at short and wide delivery outside off, arching back to upper cut, but is beaten
 
 
 Balls faced: 48
 Bowler: Coetzee
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b> cops a blow on the helmet! </b> Effort ball from Coetzee, Shardul is surprised by the fizz off the pitch but takes him on with the hook shot. Ends up playing a tad late as the ball cannons into the side of his helmet. <B> Bowled at 142kph </b>"}]<b> cops a blow on the helmet! </b> Effort ball from Coetzee, Shardul is surprised by the fizz off the pitch but takes him on with the hook shot. Ends up playing a tad late as the ball cannons into the side of his helmet. <B> Bowled at 142kph </b>
-[{"type": "HTML", "html": "Shardul's helmet is off. He's feeling his forehead. The physio is running his mandatory concussion checks. They're also bringing in a new set of helmets. Shardul seems to be pointing to some pain. It appears as if there's some swelling on his forehead. Kamlesh Jain, the physio, is now applying ice to the swollen area. He's wearing a new helmet. It seems ad if he'll carry on batting."}]Shardul's helmet is off. He's feeling his forehead. The physio is running his mandatory concussion checks. They're also bringing in a new set of helmets. Shardul seems to be pointing to some pain. It appears as if there's some swelling on his forehead. Kamlesh Jain, the physio, is now applying ice to the swollen area. He's wearing a new helmet. It seems ad if he'll carry on batting.
+<b> cops a blow on the helmet! </b> Effort ball from Coetzee, Shardul is surprised by the fizz off the pitch but takes him on with the hook shot. Ends up playing a tad late as the ball cannons into the side of his helmet. <B> Bowled at 142kph </b>
+Shardul's helmet is off. He's feeling his forehead. The physio is running his mandatory concussion checks. They're also bringing in a new set of helmets. Shardul seems to be pointing to some pain. It appears as if there's some swelling on his forehead. Kamlesh Jain, the physio, is now applying ice to the swollen area. He's wearing a new helmet. It seems ad if he'll carry on batting.
 
 Balls faced: 49
 Bowler: Coetzee
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "gets a leading edge, <strong>in the air for a while but point is vacant</strong> and he'll squeeze two. Shardul was looking to whip it through square leg"}]gets a leading edge, <strong>in the air for a while but point is vacant</strong> and he'll squeeze two. Shardul was looking to whip it through square leg
+gets a leading edge, <strong>in the air for a while but point is vacant</strong> and he'll squeeze two. Shardul was looking to whip it through square leg
 
 
 Balls faced: 50
 Bowler: Coetzee
 Over: 44
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes fishing at a drivable delivery outside off but the late movement ensures Shardul is beaten"}]goes fishing at a drivable delivery outside off but the late movement ensures Shardul is beaten
+goes fishing at a drivable delivery outside off but the late movement ensures Shardul is beaten
 
 
 Balls faced: 51
 Bowler: Jansen
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "defended into the covers for a quick single"}]defended into the covers for a quick single
+defended into the covers for a quick single
 
 
 Balls faced: 52
 Bowler: Jansen
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off and angling back in, solidly defended"}]length outside off and angling back in, solidly defended
+length outside off and angling back in, solidly defended
 
 
 Balls faced: 53
 Bowler: Coetzee
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another short ball, Shardul manages to avoid it yet again"}]another short ball, Shardul manages to avoid it yet again
+another short ball, Shardul manages to avoid it yet again
 
 
 Balls faced: 54
 Bowler: Coetzee
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "dug in short on middle, this time Shardul ducks under it without a hassle"}]dug in short on middle, this time Shardul ducks under it without a hassle
+dug in short on middle, this time Shardul ducks under it without a hassle
 
 
 Balls faced: 55
 Bowler: Coetzee
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: UPPER_CUT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "throws the kitchen sink at short and wide delivery outside off, arching back to upper cut, but is beaten"}]throws the kitchen sink at short and wide delivery outside off, arching back to upper cut, but is beaten
+throws the kitchen sink at short and wide delivery outside off, arching back to upper cut, but is beaten
 
 
 Balls faced: 56
 Bowler: Coetzee
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b> cops a blow on the helmet! </b> Effort ball from Coetzee, Shardul is surprised by the fizz off the pitch but takes him on with the hook shot. Ends up playing a tad late as the ball cannons into the side of his helmet. <B> Bowled at 142kph </b>"}]<b> cops a blow on the helmet! </b> Effort ball from Coetzee, Shardul is surprised by the fizz off the pitch but takes him on with the hook shot. Ends up playing a tad late as the ball cannons into the side of his helmet. <B> Bowled at 142kph </b>
-[{"type": "HTML", "html": "Shardul's helmet is off. He's feeling his forehead. The physio is running his mandatory concussion checks. They're also bringing in a new set of helmets. Shardul seems to be pointing to some pain. It appears as if there's some swelling on his forehead. Kamlesh Jain, the physio, is now applying ice to the swollen area. He's wearing a new helmet. It seems ad if he'll carry on batting."}]Shardul's helmet is off. He's feeling his forehead. The physio is running his mandatory concussion checks. They're also bringing in a new set of helmets. Shardul seems to be pointing to some pain. It appears as if there's some swelling on his forehead. Kamlesh Jain, the physio, is now applying ice to the swollen area. He's wearing a new helmet. It seems ad if he'll carry on batting.
+<b> cops a blow on the helmet! </b> Effort ball from Coetzee, Shardul is surprised by the fizz off the pitch but takes him on with the hook shot. Ends up playing a tad late as the ball cannons into the side of his helmet. <B> Bowled at 142kph </b>
+Shardul's helmet is off. He's feeling his forehead. The physio is running his mandatory concussion checks. They're also bringing in a new set of helmets. Shardul seems to be pointing to some pain. It appears as if there's some swelling on his forehead. Kamlesh Jain, the physio, is now applying ice to the swollen area. He's wearing a new helmet. It seems ad if he'll carry on batting.
 
 Balls faced: 57
 Bowler: Coetzee
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "gets a leading edge, <strong>in the air for a while but point is vacant</strong> and he'll squeeze two. Shardul was looking to whip it through square leg"}]gets a leading edge, <strong>in the air for a while but point is vacant</strong> and he'll squeeze two. Shardul was looking to whip it through square leg
+gets a leading edge, <strong>in the air for a while but point is vacant</strong> and he'll squeeze two. Shardul was looking to whip it through square leg
 
 
 Balls faced: 58
 Bowler: Coetzee
 Over: 44
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes fishing at a drivable delivery outside off but the late movement ensures Shardul is beaten"}]goes fishing at a drivable delivery outside off but the late movement ensures Shardul is beaten
+goes fishing at a drivable delivery outside off but the late movement ensures Shardul is beaten
 
 
 Balls faced: 59
 Bowler: Burger
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "ShahSafeer: \"Dean Elgar has been going way too conventional, he's trying to give his all bowlers a bit of go at batters. The aggressive approach would have been to get KG and Burger back after little breather.\" -- Maybe he's just heard you."}]ShahSafeer: "Dean Elgar has been going way too conventional, he's trying to give his all bowlers a bit of go at batters. The aggressive approach would have been to get KG and Burger back after little breather." -- Maybe he's just heard you.
+ShahSafeer: "Dean Elgar has been going way too conventional, he's trying to give his all bowlers a bit of go at batters. The aggressive approach would have been to get KG and Burger back after little breather." -- Maybe he's just heard you.
 
-[{"type": "HTML", "html": "looks to flick it square, rolls off the pad to fine leg"}]looks to flick it square, rolls off the pad to fine leg
+looks to flick it square, rolls off the pad to fine leg
 
 
 Balls faced: 60
 Bowler: Burger
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Nandre Burger is back from over the wicket"}]Nandre Burger is back from over the wicket
+Nandre Burger is back from over the wicket
 
-[{"type": "HTML", "html": "slants a full delivery across the right-hander, left alone"}]slants a full delivery across the right-hander, left alone
+slants a full delivery across the right-hander, left alone
 
 
 Balls faced: 61
 Bowler: Rabada
 Over: 47
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "that's the end of Shardul! He took the blows bravely but decided he'll keep playing his shots. One of them has his name on it. This is a length ball outside off, he goes for the drive on the up, struck it well but hit it straight to Elgar. <b> Fifth wicket for Kagiso Rabada! </b>"}]that's the end of Shardul! He took the blows bravely but decided he'll keep playing his shots. One of them has his name on it. This is a length ball outside off, he goes for the drive on the up, struck it well but hit it straight to Elgar. <b> Fifth wicket for Kagiso Rabada! </b>
+Thakur is OUT! caught
+c Elgar b Rabada
+Shardul Thakur c Elgar b Rabada 24 (33b 3x4 0x6 56m) SR: 72.72
+that's the end of Shardul! He took the blows bravely but decided he'll keep playing his shots. One of them has his name on it. This is a length ball outside off, he goes for the drive on the up, struck it well but hit it straight to Elgar. <b> Fifth wicket for Kagiso Rabada! </b>
 
 
 Balls faced: 62
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Rabada is back for another burst"}]Rabada is back for another burst
+Rabada is back for another burst
 
-[{"type": "HTML", "html": "<strong>cops one on right forearm!</strong> Short of length and into the body, Shardul is looking to hop back to defend but this gets big on him"}]<strong>cops one on right forearm!</strong> Short of length and into the body, Shardul is looking to hop back to defend but this gets big on him
-[{"type": "HTML", "html": "More ice for Shardul. He's getting some tape around the right forearm."}, {"type": "HTML", "html": "From his Ranji teammate. The two won the Ranji Trophy together in 2013-14"}, {"type": "TWITTER", "url": "https://twitter.com/kunalkapoor09/status/1739628370642743409?s=20"}]More ice for Shardul. He's getting some tape around the right forearm. From his Ranji teammate. The two won the Ranji Trophy together in 2013-14
+<strong>cops one on right forearm!</strong> Short of length and into the body, Shardul is looking to hop back to defend but this gets big on him
+More ice for Shardul. He's getting some tape around the right forearm. From his Ranji teammate. The two won the Ranji Trophy together in 2013-14
 
 Balls faced: 63
 Bowler: Burger
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "ShahSafeer: \"Dean Elgar has been going way too conventional, he's trying to give his all bowlers a bit of go at batters. The aggressive approach would have been to get KG and Burger back after little breather.\" -- Maybe he's just heard you."}]ShahSafeer: "Dean Elgar has been going way too conventional, he's trying to give his all bowlers a bit of go at batters. The aggressive approach would have been to get KG and Burger back after little breather." -- Maybe he's just heard you.
+ShahSafeer: "Dean Elgar has been going way too conventional, he's trying to give his all bowlers a bit of go at batters. The aggressive approach would have been to get KG and Burger back after little breather." -- Maybe he's just heard you.
 
-[{"type": "HTML", "html": "looks to flick it square, rolls off the pad to fine leg"}]looks to flick it square, rolls off the pad to fine leg
+looks to flick it square, rolls off the pad to fine leg
 
 
 Balls faced: 64
 Bowler: Burger
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Nandre Burger is back from over the wicket"}]Nandre Burger is back from over the wicket
+Nandre Burger is back from over the wicket
 
-[{"type": "HTML", "html": "slants a full delivery across the right-hander, left alone"}]slants a full delivery across the right-hander, left alone
+slants a full delivery across the right-hander, left alone
 
 
 Balls faced: 65
 Bowler: Rabada
 Over: 47
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "that's the end of Shardul! He took the blows bravely but decided he'll keep playing his shots. One of them has his name on it. This is a length ball outside off, he goes for the drive on the up, struck it well but hit it straight to Elgar. <b> Fifth wicket for Kagiso Rabada! </b>"}]that's the end of Shardul! He took the blows bravely but decided he'll keep playing his shots. One of them has his name on it. This is a length ball outside off, he goes for the drive on the up, struck it well but hit it straight to Elgar. <b> Fifth wicket for Kagiso Rabada! </b>
+Thakur is OUT! caught
+c Elgar b Rabada
+Shardul Thakur c Elgar b Rabada 24 (33b 3x4 0x6 56m) SR: 72.72
+that's the end of Shardul! He took the blows bravely but decided he'll keep playing his shots. One of them has his name on it. This is a length ball outside off, he goes for the drive on the up, struck it well but hit it straight to Elgar. <b> Fifth wicket for Kagiso Rabada! </b>
 
 
 Balls faced: 66
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Rabada is back for another burst"}]Rabada is back for another burst
+Rabada is back for another burst
 
-[{"type": "HTML", "html": "<strong>cops one on right forearm!</strong> Short of length and into the body, Shardul is looking to hop back to defend but this gets big on him"}]<strong>cops one on right forearm!</strong> Short of length and into the body, Shardul is looking to hop back to defend but this gets big on him
-[{"type": "HTML", "html": "More ice for Shardul. He's getting some tape around the right forearm."}, {"type": "HTML", "html": "From his Ranji teammate. The two won the Ranji Trophy together in 2013-14"}, {"type": "TWITTER", "url": "https://twitter.com/kunalkapoor09/status/1739628370642743409?s=20"}]More ice for Shardul. He's getting some tape around the right forearm. From his Ranji teammate. The two won the Ranji Trophy together in 2013-14
+<strong>cops one on right forearm!</strong> Short of length and into the body, Shardul is looking to hop back to defend but this gets big on him
+More ice for Shardul. He's getting some tape around the right forearm. From his Ranji teammate. The two won the Ranji Trophy together in 2013-14

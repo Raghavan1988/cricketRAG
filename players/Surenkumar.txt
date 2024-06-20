@@ -2,6 +2,7 @@ Match: all_games_1410505_1410544.json
 Balls faced: 1
 Bowler: Filer
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Filer
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -22,6 +24,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Filer
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -32,6 +35,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Filer
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -42,15 +46,23 @@ Run scored: 1
 Balls faced: 5
 Bowler: Filer
 Over: 17
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
-
+Surenkumar is OUT! caught
+c Gibson b Filer
+Amu Surenkuma c Gibson b Filer 9 (11b 0x4 0x6 12m) SR: 81.81
 
 
 
 Balls faced: 6
 Bowler: Filer
 Over: 17
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
+
+Surenkumar is OUT! caught
+c Gibson b Filer
+Amu Surenkuma c Gibson b Filer 9 (11b 0x4 0x6 12m) SR: 81.81

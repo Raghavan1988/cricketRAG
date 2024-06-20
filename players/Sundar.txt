@@ -2,218 +2,244 @@ Match: all_games_1387592_1387602.json
 Balls faced: 1
 Bowler: Hendricks
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "mistimes the heave to long-on"}]mistimes the heave to long-on
+mistimes the heave to long-on
 
 
 Balls faced: 2
 Bowler: Hendricks
 Over: 47
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball angling down, gets the radar wrong. Wide called."}]slower ball angling down, gets the radar wrong. Wide called.
+slower ball angling down, gets the radar wrong. Wide called.
 
 Wide: 1
 Balls faced: 3
 Bowler: Hendricks
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "works it off his hip to deep square"}]works it off his hip to deep square
+works it off his hip to deep square
 
 
 Balls faced: 4
 Bowler: Williams
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "mistimes the lofted hit to long-off, aggressive running"}]mistimes the lofted hit to long-off, aggressive running
+mistimes the lofted hit to long-off, aggressive running
 
 
 Balls faced: 5
 Bowler: Williams
 Over: 48
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "has to rebowl this, bowls full and way outside leg."}]has to rebowl this, bowls full and way outside leg.
+has to rebowl this, bowls full and way outside leg.
 
 Wide: 2
 Balls faced: 6
 Bowler: Williams
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beaten as he walks across to scoop this slower ball"}]beaten as he walks across to scoop this slower ball
+beaten as he walks across to scoop this slower ball
 
 
 Balls faced: 7
 Bowler: Williams
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>slaps this to the cover boundary!</strong> Set himself up beautifully as he made room, got the width to hit this cutter to the boundary."}]<strong>slaps this to the cover boundary!</strong> Set himself up beautifully as he made room, got the width to hit this cutter to the boundary.
+<strong>slaps this to the cover boundary!</strong> Set himself up beautifully as he made room, got the width to hit this cutter to the boundary.
 
 
 Balls faced: 8
 Bowler: Williams
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "punched to deep point"}]punched to deep point
+punched to deep point
 
 
 Balls faced: 9
 Bowler: Hendricks
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "mistimes the heave to long-on"}]mistimes the heave to long-on
+mistimes the heave to long-on
 
 
 Balls faced: 10
 Bowler: Hendricks
 Over: 47
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball angling down, gets the radar wrong. Wide called."}]slower ball angling down, gets the radar wrong. Wide called.
+slower ball angling down, gets the radar wrong. Wide called.
 
 Wide: 1
 Balls faced: 11
 Bowler: Hendricks
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "works it off his hip to deep square"}]works it off his hip to deep square
+works it off his hip to deep square
 
 
 Balls faced: 12
 Bowler: Hendricks
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "very good catch in the deep! Washington nails this full toss off the middle, Markram takes the catch but quickly pops the ball back up because the momentum is likely to take him over. But he regathers himself to complete the catch."}]very good catch in the deep! Washington nails this full toss off the middle, Markram takes the catch but quickly pops the ball back up because the momentum is likely to take him over. But he regathers himself to complete the catch.
+Sundar is OUT! caught
+c Markram b Hendricks
+Washington Sundar c Markram b Hendricks 14 (9b 2x4 0x6 12m) SR: 155.55
+very good catch in the deep! Washington nails this full toss off the middle, Markram takes the catch but quickly pops the ball back up because the momentum is likely to take him over. But he regathers himself to complete the catch.
 
 
 Balls faced: 13
 Bowler: Hendricks
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "into the blockhole, squeezed into the off side for a quick single"}]into the blockhole, squeezed into the off side for a quick single
+into the blockhole, squeezed into the off side for a quick single
 
 
 Balls faced: 14
 Bowler: Hendricks
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "helped over short fine! Slower ball, cutter into the pitch but there's no bounce, sat up nicely for Washington to pick his spot."}]helped over short fine! Slower ball, cutter into the pitch but there's no bounce, sat up nicely for Washington to pick his spot.
+helped over short fine! Slower ball, cutter into the pitch but there's no bounce, sat up nicely for Washington to pick his spot.
 
 
 Balls faced: 15
 Bowler: Williams
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "mistimes the lofted hit to long-off, aggressive running"}]mistimes the lofted hit to long-off, aggressive running
+mistimes the lofted hit to long-off, aggressive running
 
 
 Balls faced: 16
 Bowler: Williams
 Over: 48
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "has to rebowl this, bowls full and way outside leg."}]has to rebowl this, bowls full and way outside leg.
+has to rebowl this, bowls full and way outside leg.
 
 Wide: 2
 Balls faced: 17
 Bowler: Williams
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beaten as he walks across to scoop this slower ball"}]beaten as he walks across to scoop this slower ball
+beaten as he walks across to scoop this slower ball
 
 
 Balls faced: 18
 Bowler: Williams
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>slaps this to the cover boundary!</strong> Set himself up beautifully as he made room, got the width to hit this cutter to the boundary."}]<strong>slaps this to the cover boundary!</strong> Set himself up beautifully as he made room, got the width to hit this cutter to the boundary.
+<strong>slaps this to the cover boundary!</strong> Set himself up beautifully as he made room, got the width to hit this cutter to the boundary.
 
 
 Balls faced: 19
 Bowler: Williams
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "punched to deep point"}]punched to deep point
+punched to deep point
 
 
 Balls faced: 20
 Bowler: Hendricks
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "very good catch in the deep! Washington nails this full toss off the middle, Markram takes the catch but quickly pops the ball back up because the momentum is likely to take him over. But he regathers himself to complete the catch."}]very good catch in the deep! Washington nails this full toss off the middle, Markram takes the catch but quickly pops the ball back up because the momentum is likely to take him over. But he regathers himself to complete the catch.
+Sundar is OUT! caught
+c Markram b BE Hendricks
+Washington Sundar c Markram b BE Hendricks 14 (9b 2x4 0x6 12m) SR: 155.55
+very good catch in the deep! Washington nails this full toss off the middle, Markram takes the catch but quickly pops the ball back up because the momentum is likely to take him over. But he regathers himself to complete the catch.
 
 
 Balls faced: 21
 Bowler: Hendricks
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "into the blockhole, squeezed into the off side for a quick single"}]into the blockhole, squeezed into the off side for a quick single
+into the blockhole, squeezed into the off side for a quick single
 
 
 Balls faced: 22
 Bowler: Hendricks
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "helped over short fine! Slower ball, cutter into the pitch but there's no bounce, sat up nicely for Washington to pick his spot."}]helped over short fine! Slower ball, cutter into the pitch but there's no bounce, sat up nicely for Washington to pick his spot.
+helped over short fine! Slower ball, cutter into the pitch but there's no bounce, sat up nicely for Washington to pick his spot.

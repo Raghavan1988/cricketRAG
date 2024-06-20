@@ -2,81 +2,89 @@ Match: all_games_1411166_1415704.json
 Balls faced: 1
 Bowler: Rabada
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "This time Thushara takes the blow on his pads. Full but angling past leg as Thushara moves away once more. He really isn't keen on being anywhere near the ball"}]This time Thushara takes the blow on his pads. Full but angling past leg as Thushara moves away once more. He really isn't keen on being anywhere near the ball
+This time Thushara takes the blow on his pads. Full but angling past leg as Thushara moves away once more. He really isn't keen on being anywhere near the ball
 
 
 Balls faced: 2
 Bowler: Rabada
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Again moves away, ball hits bat rather than the other way around"}]Again moves away, ball hits bat rather than the other way around
+Again moves away, ball hits bat rather than the other way around
 
 
 Balls faced: 3
 Bowler: Rabada
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "SUJAL: \"Really commendable from Sa to give the vote of confidence for Nortje, after that dismal Windies and Ipl season.\""}]SUJAL: "Really commendable from Sa to give the vote of confidence for Nortje, after that dismal Windies and Ipl season."
+SUJAL: "Really commendable from Sa to give the vote of confidence for Nortje, after that dismal Windies and Ipl season."
 
-[{"type": "HTML", "html": "good length, angled in towards leg. Thushara though is very eager to move out of the way, ball hits high on the bat"}]good length, angled in towards leg. Thushara though is very eager to move out of the way, ball hits high on the bat
+good length, angled in towards leg. Thushara though is very eager to move out of the way, ball hits high on the bat
 
 
 Balls faced: 4
 Bowler: Rabada
 Over: 18
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "low full toss, angled in on leg. Kept out"}]low full toss, angled in on leg. Kept out
+low full toss, angled in on leg. Kept out
 
 
 Balls faced: 5
 Bowler: Rabada
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "This time Thushara takes the blow on his pads. Full but angling past leg as Thushara moves away once more. He really isn't keen on being anywhere near the ball"}]This time Thushara takes the blow on his pads. Full but angling past leg as Thushara moves away once more. He really isn't keen on being anywhere near the ball
+This time Thushara takes the blow on his pads. Full but angling past leg as Thushara moves away once more. He really isn't keen on being anywhere near the ball
 
 
 Balls faced: 6
 Bowler: Rabada
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Again moves away, ball hits bat rather than the other way around"}]Again moves away, ball hits bat rather than the other way around
+Again moves away, ball hits bat rather than the other way around
 
 
 Balls faced: 7
 Bowler: Rabada
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "SUJAL: \"Really commendable from Sa to give the vote of confidence for Nortje, after that dismal Windies and Ipl season.\""}]SUJAL: "Really commendable from Sa to give the vote of confidence for Nortje, after that dismal Windies and Ipl season."
+SUJAL: "Really commendable from Sa to give the vote of confidence for Nortje, after that dismal Windies and Ipl season."
 
-[{"type": "HTML", "html": "good length, angled in towards leg. Thushara though is very eager to move out of the way, ball hits high on the bat"}]good length, angled in towards leg. Thushara though is very eager to move out of the way, ball hits high on the bat
+good length, angled in towards leg. Thushara though is very eager to move out of the way, ball hits high on the bat
 
 
 Balls faced: 8
 Bowler: Rabada
 Over: 18
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "low full toss, angled in on leg. Kept out"}]low full toss, angled in on leg. Kept out
+low full toss, angled in on leg. Kept out
 
 
 
@@ -84,20 +92,22 @@ Match: all_games_1411166_1415715.json
 Balls faced: 1
 Bowler: Tanzim Hasan Sakib
 Over: 20
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sri Lanka manage a leg bye to finish it. But Bangladesh have reviewed for lbw. This was a pace off full toss following the batter who was making room leg side. He failed to get his bat down and the ball struck his outstretched back leg. They are checking to see if there's any bat on that but there isn't. Impact anyway looked outside leg and that's what ball tracking confirms. Sri Lanka finish on 124"}]Sri Lanka manage a leg bye to finish it. But Bangladesh have reviewed for lbw. This was a pace off full toss following the batter who was making room leg side. He failed to get his bat down and the ball struck his outstretched back leg. They are checking to see if there's any bat on that but there isn't. Impact anyway looked outside leg and that's what ball tracking confirms. Sri Lanka finish on 124
-[{"type": "HTML", "html": "<b>9.15pm</b> Pathum Nissanka would have made you believe this is the kind of pitch where you get to 200. But for the rest of Sri Lanka's batters, it seemed to be a different tale altogether. Bangladesh's bowlers, led by young leggie Rishad Hossain, made the most of a surface that saw the ball grip and turn. Sri Lanka started brilliantly thanks to Nissanka, but could not keep up the momentum and in the end, their innings fizzled out quite meekly. But their bowlers will take some encouragement from how their Bangladeshi counterparts went today. Join Madushka in a bit for the chase. And until then, hop over to Providence where <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/live-cricket-score\">Afghanistan have New Zealand on the mat</a>."}, {"type": "HTML", "html": "<b>Taskin Ahmed:</b> \"It's a good start. Still not finished the game, after finishing the game we'll celebrate. We have kept them to a good total, we should chase it down. How they started in the powerplay, after that we came back really strong. Whole bowling unit did a great job. Wicket had little bit of help for the bowlers and I think we executed well. We are happy but now we need to finish the match. Proper cricketing shots will help us chase this easily.\""}]<b>9.15pm</b> Pathum Nissanka would have made you believe this is the kind of pitch where you get to 200. But for the rest of Sri Lanka's batters, it seemed to be a different tale altogether. Bangladesh's bowlers, led by young leggie Rishad Hossain, made the most of a surface that saw the ball grip and turn. Sri Lanka started brilliantly thanks to Nissanka, but could not keep up the momentum and in the end, their innings fizzled out quite meekly. But their bowlers will take some encouragement from how their Bangladeshi counterparts went today. Join Madushka in a bit for the chase. And until then, hop over to Providence where <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/live-cricket-score">Afghanistan have New Zealand on the mat</a>. <b>Taskin Ahmed:</b> "It's a good start. Still not finished the game, after finishing the game we'll celebrate. We have kept them to a good total, we should chase it down. How they started in the powerplay, after that we came back really strong. Whole bowling unit did a great job. Wicket had little bit of help for the bowlers and I think we executed well. We are happy but now we need to finish the match. Proper cricketing shots will help us chase this easily."
+Sri Lanka manage a leg bye to finish it. But Bangladesh have reviewed for lbw. This was a pace off full toss following the batter who was making room leg side. He failed to get his bat down and the ball struck his outstretched back leg. They are checking to see if there's any bat on that but there isn't. Impact anyway looked outside leg and that's what ball tracking confirms. Sri Lanka finish on 124
+<b>9.15pm</b> Pathum Nissanka would have made you believe this is the kind of pitch where you get to 200. But for the rest of Sri Lanka's batters, it seemed to be a different tale altogether. Bangladesh's bowlers, led by young leggie Rishad Hossain, made the most of a surface that saw the ball grip and turn. Sri Lanka started brilliantly thanks to Nissanka, but could not keep up the momentum and in the end, their innings fizzled out quite meekly. But their bowlers will take some encouragement from how their Bangladeshi counterparts went today. Join Madushka in a bit for the chase. And until then, hop over to Providence where <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/live-cricket-score">Afghanistan have New Zealand on the mat</a>. <b>Taskin Ahmed:</b> "It's a good start. Still not finished the game, after finishing the game we'll celebrate. We have kept them to a good total, we should chase it down. How they started in the powerplay, after that we came back really strong. Whole bowling unit did a great job. Wicket had little bit of help for the bowlers and I think we executed well. We are happy but now we need to finish the match. Proper cricketing shots will help us chase this easily."
 Legbyes: 1
 Balls faced: 2
 Bowler: Tanzim Hasan Sakib
 Over: 20
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sri Lanka manage a leg bye to finish it. But Bangladesh have reviewed for lbw. This was a pace off full toss following the batter who was making room leg side. He failed to get his bat down and the ball struck his outstretched back leg. They are checking to see if there's any bat on that but there isn't. Impact anyway looked outside leg and that's what ball tracking confirms. Sri Lanka finish on 124"}]Sri Lanka manage a leg bye to finish it. But Bangladesh have reviewed for lbw. This was a pace off full toss following the batter who was making room leg side. He failed to get his bat down and the ball struck his outstretched back leg. They are checking to see if there's any bat on that but there isn't. Impact anyway looked outside leg and that's what ball tracking confirms. Sri Lanka finish on 124
-[{"type": "HTML", "html": "<b>9.15pm</b> Pathum Nissanka would have made you believe this is the kind of pitch where you get to 200. But for the rest of Sri Lanka's batters, it seemed to be a different tale altogether. Bangladesh's bowlers, led by young leggie Rishad Hossain, made the most of a surface that saw the ball grip and turn. Sri Lanka started brilliantly thanks to Nissanka, but could not keep up the momentum and in the end, their innings fizzled out quite meekly. But their bowlers will take some encouragement from how their Bangladeshi counterparts went today. Join Madushka in a bit for the chase. And until then, hop over to Providence where <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/live-cricket-score\">Afghanistan have New Zealand on the mat</a>."}, {"type": "HTML", "html": "<b>Taskin Ahmed:</b> \"It's a good start. Still not finished the game, after finishing the game we'll celebrate. We have kept them to a good total, we should chase it down. How they started in the powerplay, after that we came back really strong. Whole bowling unit did a great job. Wicket had little bit of help for the bowlers and I think we executed well. We are happy but now we need to finish the match. Proper cricketing shots will help us chase this easily.\""}]<b>9.15pm</b> Pathum Nissanka would have made you believe this is the kind of pitch where you get to 200. But for the rest of Sri Lanka's batters, it seemed to be a different tale altogether. Bangladesh's bowlers, led by young leggie Rishad Hossain, made the most of a surface that saw the ball grip and turn. Sri Lanka started brilliantly thanks to Nissanka, but could not keep up the momentum and in the end, their innings fizzled out quite meekly. But their bowlers will take some encouragement from how their Bangladeshi counterparts went today. Join Madushka in a bit for the chase. And until then, hop over to Providence where <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/live-cricket-score">Afghanistan have New Zealand on the mat</a>. <b>Taskin Ahmed:</b> "It's a good start. Still not finished the game, after finishing the game we'll celebrate. We have kept them to a good total, we should chase it down. How they started in the powerplay, after that we came back really strong. Whole bowling unit did a great job. Wicket had little bit of help for the bowlers and I think we executed well. We are happy but now we need to finish the match. Proper cricketing shots will help us chase this easily."
+Sri Lanka manage a leg bye to finish it. But Bangladesh have reviewed for lbw. This was a pace off full toss following the batter who was making room leg side. He failed to get his bat down and the ball struck his outstretched back leg. They are checking to see if there's any bat on that but there isn't. Impact anyway looked outside leg and that's what ball tracking confirms. Sri Lanka finish on 124
+<b>9.15pm</b> Pathum Nissanka would have made you believe this is the kind of pitch where you get to 200. But for the rest of Sri Lanka's batters, it seemed to be a different tale altogether. Bangladesh's bowlers, led by young leggie Rishad Hossain, made the most of a surface that saw the ball grip and turn. Sri Lanka started brilliantly thanks to Nissanka, but could not keep up the momentum and in the end, their innings fizzled out quite meekly. But their bowlers will take some encouragement from how their Bangladeshi counterparts went today. Join Madushka in a bit for the chase. And until then, hop over to Providence where <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/live-cricket-score">Afghanistan have New Zealand on the mat</a>. <b>Taskin Ahmed:</b> "It's a good start. Still not finished the game, after finishing the game we'll celebrate. We have kept them to a good total, we should chase it down. How they started in the powerplay, after that we came back really strong. Whole bowling unit did a great job. Wicket had little bit of help for the bowlers and I think we executed well. We are happy but now we need to finish the match. Proper cricketing shots will help us chase this easily."
 Legbyes: 1

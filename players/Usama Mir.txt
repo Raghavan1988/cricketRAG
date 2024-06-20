@@ -2,21 +2,27 @@ Match: all_games_1388184_1388217.json
 Balls faced: 1
 Bowler: Milne
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Edged and taken! </strong> Pacy cross-seam delivery in the channel, a massive yahoo across the line and nicks it through to the keeper, New Zealand closing on a victory"}]<strong>Edged and taken! </strong> Pacy cross-seam delivery in the channel, a massive yahoo across the line and nicks it through to the keeper, New Zealand closing on a victory
+Usama Mir is OUT! caught
+c †Conway b Milne
+Usama Mir c †Conway b Milne 0 (1b 0x4 0x6 1m) SR: 0
+<strong>Edged and taken! </strong> Pacy cross-seam delivery in the channel, a massive yahoo across the line and nicks it through to the keeper, New Zealand closing on a victory
 
 
 Balls faced: 2
 Bowler: Milne
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Edged and taken! </strong> Pacy cross-seam delivery in the channel, a massive yahoo across the line and nicks it through to the keeper, New Zealand closing on a victory"}]<strong>Edged and taken! </strong> Pacy cross-seam delivery in the channel, a massive yahoo across the line and nicks it through to the keeper, New Zealand closing on a victory
+Usama Mir is OUT! caught
+c †Conway b Milne
+Usama Mir c †Conway b Milne 0 (1b 0x4 0x6 1m) SR: 0
+<strong>Edged and taken! </strong> Pacy cross-seam delivery in the channel, a massive yahoo across the line and nicks it through to the keeper, New Zealand closing on a victory
 
 
 
@@ -24,21 +30,23 @@ Match: all_games_1388184_1388220.json
 Balls faced: 1
 Bowler: Ferguson
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Nails a perfect yorker dipping in on middle, shuffles across and paddles it but the execution is not quite perfect"}]Nails a perfect yorker dipping in on middle, shuffles across and paddles it but the execution is not quite perfect
+Nails a perfect yorker dipping in on middle, shuffles across and paddles it but the execution is not quite perfect
 
 
 Balls faced: 2
 Bowler: Ferguson
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Nails a perfect yorker dipping in on middle, shuffles across and paddles it but the execution is not quite perfect"}]Nails a perfect yorker dipping in on middle, shuffles across and paddles it but the execution is not quite perfect
+Nails a perfect yorker dipping in on middle, shuffles across and paddles it but the execution is not quite perfect
 
 
 
@@ -46,58 +54,68 @@ Match: all_games_1424827_1424832.json
 Balls faced: 1
 Bowler: Duffy
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another fabulous yorker just outside off, pats it to wide mid-off, Pakistan need a boundary"}]Another fabulous yorker just outside off, pats it to wide mid-off, Pakistan need a boundary
+Another fabulous yorker just outside off, pats it to wide mid-off, Pakistan need a boundary
 
 
 Balls faced: 2
 Bowler: Neesham
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Tremendous riposte! </strong>Rams the yorker in the blockhole and he goes for a full-blooded swing towards the leg side, ball sneaks through and shatters the stumps, off his pads and onto the stumps, gotta go"}]<strong>Tremendous riposte! </strong>Rams the yorker in the blockhole and he goes for a full-blooded swing towards the leg side, ball sneaks through and shatters the stumps, off his pads and onto the stumps, gotta go
+Usama Mir is OUT! bowled
+ b Neesham
+Usama Mir b Neesham 5 (3b 1x4 0x6 5m) SR: 166.66
+<strong>Tremendous riposte! </strong>Rams the yorker in the blockhole and he goes for a full-blooded swing towards the leg side, ball sneaks through and shatters the stumps, off his pads and onto the stumps, gotta go
 
 
 Balls faced: 3
 Bowler: Neesham
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Usama Mir joins the party! </strong> Missed the yorker and he skewed it up and over backward point for a four, it's down to 14 off 5! Magnificent shot, lots of muscle behind that"}]<strong>Usama Mir joins the party! </strong> Missed the yorker and he skewed it up and over backward point for a four, it's down to 14 off 5! Magnificent shot, lots of muscle behind that
+<strong>Usama Mir joins the party! </strong> Missed the yorker and he skewed it up and over backward point for a four, it's down to 14 off 5! Magnificent shot, lots of muscle behind that
 
 
 Balls faced: 4
 Bowler: Duffy
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another fabulous yorker just outside off, pats it to wide mid-off, Pakistan need a boundary"}]Another fabulous yorker just outside off, pats it to wide mid-off, Pakistan need a boundary
+Another fabulous yorker just outside off, pats it to wide mid-off, Pakistan need a boundary
 
 
 Balls faced: 5
 Bowler: Neesham
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Tremendous riposte! </strong>Rams the yorker in the blockhole and he goes for a full-blooded swing towards the leg side, ball sneaks through and shatters the stumps, off his pads and onto the stumps, gotta go"}]<strong>Tremendous riposte! </strong>Rams the yorker in the blockhole and he goes for a full-blooded swing towards the leg side, ball sneaks through and shatters the stumps, off his pads and onto the stumps, gotta go
+Usama Mir is OUT! bowled
+ b Neesham
+Usama Mir b Neesham 5 (3b 1x4 0x6 5m) SR: 166.66
+<strong>Tremendous riposte! </strong>Rams the yorker in the blockhole and he goes for a full-blooded swing towards the leg side, ball sneaks through and shatters the stumps, off his pads and onto the stumps, gotta go
 
 
 Balls faced: 6
 Bowler: Neesham
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Usama Mir joins the party! </strong> Missed the yorker and he skewed it up and over backward point for a four, it's down to 14 off 5! Magnificent shot, lots of muscle behind that"}]<strong>Usama Mir joins the party! </strong> Missed the yorker and he skewed it up and over backward point for a four, it's down to 14 off 5! Magnificent shot, lots of muscle behind that
+<strong>Usama Mir joins the party! </strong> Missed the yorker and he skewed it up and over backward point for a four, it's down to 14 off 5! Magnificent shot, lots of muscle behind that

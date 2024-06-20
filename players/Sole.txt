@@ -2,6 +2,7 @@ Match: all_games_1428145_1428151.json
 Balls faced: 1
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 2
 
@@ -12,6 +13,7 @@ Run scored: 2
 Balls faced: 2
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -22,6 +24,7 @@ Run scored: 2
 Balls faced: 3
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -32,6 +35,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 2
 
@@ -52,6 +57,7 @@ Run scored: 2
 Balls faced: 6
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -62,6 +68,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -84,6 +92,7 @@ Match: all_games_1428145_1428154.json
 Balls faced: 1
 Bowler: van Beek
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -94,6 +103,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: de Leede
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -104,6 +114,7 @@ Legbyes: 1
 Balls faced: 3
 Bowler: de Leede
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -114,6 +125,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: de Leede
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -124,6 +136,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: van Beek
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -134,6 +147,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: de Leede
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -144,6 +158,7 @@ Legbyes: 1
 Balls faced: 7
 Bowler: de Leede
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -154,6 +169,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: de Leede
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -166,6 +182,7 @@ Match: all_games_1428145_1428155.json
 Balls faced: 1
 Bowler: Adair
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -176,6 +193,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Adair
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -186,16 +204,20 @@ Run scored: 1
 Balls faced: 3
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Sole is OUT! caught
+c Campher b Young
+Chris Sole c Campher b Young 6 (6b 1x4 0x6 7m) SR: 100
 
 
 
 Balls faced: 4
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -206,6 +228,7 @@ Legbyes: 2
 Balls faced: 5
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -216,6 +239,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -226,6 +250,7 @@ Run scored: 4
 Balls faced: 7
 Bowler: Adair
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -236,6 +261,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Adair
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -246,16 +272,20 @@ Run scored: 1
 Balls faced: 9
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Sole is OUT! caught
+c Campher b Young
+Chris Sole c Campher b Young 6 (6b 1x4 0x6 7m) SR: 100
 
 
 
 Balls faced: 10
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -266,6 +296,7 @@ Legbyes: 2
 Balls faced: 11
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -276,6 +307,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Young
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -288,6 +320,7 @@ Match: all_games_1434088_1434104.json
 Balls faced: 1
 Bowler: Karim Janat
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -298,6 +331,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Karim Janat
 Over: 14
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -308,6 +342,7 @@ Run scored: 4
 Balls faced: 3
 Bowler: Karim Janat
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -318,6 +353,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Naveen-ul-Haq
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -328,6 +364,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Naveen-ul-Haq
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -338,6 +375,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Naveen-ul-Haq
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -348,6 +386,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Karim Janat
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -358,6 +397,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Karim Janat
 Over: 14
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -368,6 +408,7 @@ Run scored: 4
 Balls faced: 9
 Bowler: Karim Janat
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -378,6 +419,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Fazalhaq Farooqi
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -388,6 +430,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Fazalhaq Farooqi
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -398,6 +441,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Naveen-ul-Haq
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -408,6 +452,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Naveen-ul-Haq
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -418,6 +463,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Naveen-ul-Haq
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -428,6 +474,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Naveen-ul-Haq
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -438,6 +485,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Naveen-ul-Haq
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -448,6 +496,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Naveen-ul-Haq
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -458,6 +507,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Fazalhaq Farooqi
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -468,6 +518,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Fazalhaq Farooqi
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -478,16 +529,20 @@ Run scored: 1
 Balls faced: 20
 Bowler: Azmatullah
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Sole is OUT! caught
+c †Rahmanullah Gurbaz b Azmatullah Omarzai
+Chris Sole c †Rahmanullah Gurbaz b Azmatullah Omarzai 12 (13b 2x4 0x6) SR: 92.3
 
 
 
 Balls faced: 21
 Bowler: Azmatullah
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -498,6 +553,7 @@ Run scored: 4
 Balls faced: 22
 Bowler: Azmatullah
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -508,6 +564,7 @@ Wide: 1
 Balls faced: 23
 Bowler: Naveen-ul-Haq
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -518,6 +575,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: Naveen-ul-Haq
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -528,6 +586,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Naveen-ul-Haq
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -538,16 +597,20 @@ Run scored: 0
 Balls faced: 26
 Bowler: Azmatullah
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Sole is OUT! caught
+c †Rahmanullah Gurbaz b Azmatullah Omarzai
+Chris Sole c †Rahmanullah Gurbaz b Azmatullah Omarzai 12 (13b 2x4 0x6) SR: 92.3
 
 
 
 Balls faced: 27
 Bowler: Azmatullah
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -558,6 +621,7 @@ Run scored: 4
 Balls faced: 28
 Bowler: Azmatullah
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 

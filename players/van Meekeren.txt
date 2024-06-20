@@ -2,21 +2,23 @@ Match: all_games_1411166_1415716.json
 Balls faced: 1
 Bowler: Baartman
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "van Meekeraen"}]van Meekeraen
+van Meekeraen
 
-[{"type": "HTML", "html": "much fuller length on the stumps, and pushed down the ground"}]much fuller length on the stumps, and pushed down the ground
+much fuller length on the stumps, and pushed down the ground
 
 
 Balls faced: 2
 Bowler: Baartman
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "van Meekeraen"}]van Meekeraen
+van Meekeraen
 
-[{"type": "HTML", "html": "much fuller length on the stumps, and pushed down the ground"}]much fuller length on the stumps, and pushed down the ground
+much fuller length on the stumps, and pushed down the ground
 
 
 
@@ -24,202 +26,230 @@ Match: all_games_1411166_1415738.json
 Balls faced: 1
 Bowler: Pathirana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball wide of off, Meekeren throws his bat at it and gets an outside edge that runs to deep third"}]length ball wide of off, Meekeren throws his bat at it and gets an outside edge that runs to deep third
+length ball wide of off, Meekeren throws his bat at it and gets an outside edge that runs to deep third
 
 
 Balls faced: 2
 Bowler: Pathirana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one, just on off stump, full. Pushed to cover"}]slower one, just on off stump, full. Pushed to cover
+slower one, just on off stump, full. Pushed to cover
 
 
 Balls faced: 3
 Bowler: Pathirana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "yorker, wide of off, swinging in. Batter tries to chop down on it and misses"}]yorker, wide of off, swinging in. Batter tries to chop down on it and misses
+yorker, wide of off, swinging in. Batter tries to chop down on it and misses
 
 
 Balls faced: 4
 Bowler: Pathirana
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball, right into the heel, hits van Meekeren low on the pads and goes towards fine leg"}]full ball, right into the heel, hits van Meekeren low on the pads and goes towards fine leg
+full ball, right into the heel, hits van Meekeren low on the pads and goes towards fine leg
 
 Legbyes: 1
 Balls faced: 5
 Bowler: Theekshana
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in outside off, pushed to point again"}]fired in outside off, pushed to point again
+fired in outside off, pushed to point again
 
 
 Balls faced: 6
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flatter again, turning in, and Meekeren gets and outside edge that squirts to point and they can take a single"}]flatter again, turning in, and Meekeren gets and outside edge that squirts to point and they can take a single
+flatter again, turning in, and Meekeren gets and outside edge that squirts to point and they can take a single
 
 
 Balls faced: 7
 Bowler: Theekshana
 Over: 16
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller one, fired down leg"}]fuller one, fired down leg
+fuller one, fired down leg
 
 Wide: 1
 Balls faced: 8
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter ball, but turning, a play and a miss outside off stump"}]flatter ball, but turning, a play and a miss outside off stump
+flatter ball, but turning, a play and a miss outside off stump
 
 
 Balls faced: 9
 Bowler: Pathirana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball wide of off, Meekeren throws his bat at it and gets an outside edge that runs to deep third"}]length ball wide of off, Meekeren throws his bat at it and gets an outside edge that runs to deep third
+length ball wide of off, Meekeren throws his bat at it and gets an outside edge that runs to deep third
 
 
 Balls faced: 10
 Bowler: Pathirana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one, just on off stump, full. Pushed to cover"}]slower one, just on off stump, full. Pushed to cover
+slower one, just on off stump, full. Pushed to cover
 
 
 Balls faced: 11
 Bowler: Pathirana
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "yorker, wide of off, swinging in. Batter tries to chop down on it and misses"}]yorker, wide of off, swinging in. Batter tries to chop down on it and misses
+yorker, wide of off, swinging in. Batter tries to chop down on it and misses
 
 
 Balls faced: 12
 Bowler: Pathirana
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball, right into the heel, hits van Meekeren low on the pads and goes towards fine leg"}]full ball, right into the heel, hits van Meekeren low on the pads and goes towards fine leg
+full ball, right into the heel, hits van Meekeren low on the pads and goes towards fine leg
 
 Legbyes: 1
 Balls faced: 13
 Bowler: Thushara
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: No Shot
 Run scored: 0
 
-
-[{"type": "HTML", "html": "given lbw! But was there bat on that? Van Meekeren reviews immediately. There doesn't seem to be bat, and van Meekeren was only reviewing because they had reviews to spare. It looked plumb initially. This was swinging in to middle, was very full, and smashed the batter on what would have been his front pad, only he'd switched legs as he attempted to play a scoop. As plumb as it gets, really."}]given lbw! But was there bat on that? Van Meekeren reviews immediately. There doesn't seem to be bat, and van Meekeren was only reviewing because they had reviews to spare. It looked plumb initially. This was swinging in to middle, was very full, and smashed the batter on what would have been his front pad, only he'd switched legs as he attempted to play a scoop. As plumb as it gets, really.
-[{"type": "HTML", "html": "That's it from us folks. In the end, two deserving teams go through from Group D - both green machines. Madushka Balasuriya is prepping the report, and look out for more stories later. We'll see you at the next one."}, {"type": "HTML", "html": "<b>Wanindu Hasaranga</b>: \"After the bad first two games this win is very healthy for us. The wicket was really good we just wanted to put a 160-170 score on this wicket. With our attack anything over 160 we can defend. In the first two games we lost two or three wickets in the first six overs. Today we didn't. I think that was the difference. Asalanka has a lot of talent and he proved today what he could do. Kusal Mendis and Dhananjaya de Silva also played a role.\""}, {"type": "HTML", "html": "<b>Scott Edwards</b>, Netherlands captain: \"The wickets were better than we have been playing on, and the margins of error were a bit smaller, and we missed a little bit. With there being a shorter side and the wind going that way - we were slow to react to that. We have to be better at that."}, {"type": "HTML", "html": "\"We had good patches throughout the tournament where we gave our chances to win at least three of those games. But something was slightly off and against good quality sides you can't afford that. In the batting we needed someone to have a big innings, and we weren't able to do that. Backing our boys to come back firing.\""}, {"type": "HTML", "html": "So Sri Lanka dominant across disciplines today. A couple of errors in the field, but their batting was dynamic, with their lower-order hitting finally getting going. We knew their bowling would test Netherlands, and the likes of Pathirana, Hasaranga, and Thushara made an impact."}, {"type": "HTML", "html": "Atiq: \"Thank you, SL, for trying your best for BD. We supported you wholeheartedly. Ultimately, we prevailed through our own efforts. Now that the competition is over, we can return to our friendly rivalry.\""}, {"type": "HTML", "html": "<b>Asalanka</b>, player of the match: \"These are far better conditions than the USA, and we enjoyed those conditions. It can be tough to come in at No. 5. We just played the conditions. I know I have to be a little more consistent. In general we are a little disappointed about the results in the first two games. But in the end we had a good game here.\""}, {"type": "HTML", "html": "So, we know without a doubt who the Group D qualifiers are now. South Africa are through. As are Bangladesh. For Netherlands to win they had to win big. They lost big instead."}, {"type": "HTML", "html": "Frankie: \"Well played commentary jinx\" Eeek. Yes, apologies to Scott Edwards."}]That's it from us folks. In the end, two deserving teams go through from Group D - both green machines. Madushka Balasuriya is prepping the report, and look out for more stories later. We'll see you at the next one. <b>Wanindu Hasaranga</b>: "After the bad first two games this win is very healthy for us. The wicket was really good we just wanted to put a 160-170 score on this wicket. With our attack anything over 160 we can defend. In the first two games we lost two or three wickets in the first six overs. Today we didn't. I think that was the difference. Asalanka has a lot of talent and he proved today what he could do. Kusal Mendis and Dhananjaya de Silva also played a role." <b>Scott Edwards</b>, Netherlands captain: "The wickets were better than we have been playing on, and the margins of error were a bit smaller, and we missed a little bit. With there being a shorter side and the wind going that way - we were slow to react to that. We have to be better at that. "We had good patches throughout the tournament where we gave our chances to win at least three of those games. But something was slightly off and against good quality sides you can't afford that. In the batting we needed someone to have a big innings, and we weren't able to do that. Backing our boys to come back firing." So Sri Lanka dominant across disciplines today. A couple of errors in the field, but their batting was dynamic, with their lower-order hitting finally getting going. We knew their bowling would test Netherlands, and the likes of Pathirana, Hasaranga, and Thushara made an impact. Atiq: "Thank you, SL, for trying your best for BD. We supported you wholeheartedly. Ultimately, we prevailed through our own efforts. Now that the competition is over, we can return to our friendly rivalry." <b>Asalanka</b>, player of the match: "These are far better conditions than the USA, and we enjoyed those conditions. It can be tough to come in at No. 5. We just played the conditions. I know I have to be a little more consistent. In general we are a little disappointed about the results in the first two games. But in the end we had a good game here." So, we know without a doubt who the Group D qualifiers are now. South Africa are through. As are Bangladesh. For Netherlands to win they had to win big. They lost big instead. Frankie: "Well played commentary jinx" Eeek. Yes, apologies to Scott Edwards.
+van Meekeren is OUT! lbw
+lbw b Thushara
+Paul van Meekeren lbw b Thushara 3 (8b 0x4 0x6 11m) SR: 37.5
+given lbw! But was there bat on that? Van Meekeren reviews immediately. There doesn't seem to be bat, and van Meekeren was only reviewing because they had reviews to spare. It looked plumb initially. This was swinging in to middle, was very full, and smashed the batter on what would have been his front pad, only he'd switched legs as he attempted to play a scoop. As plumb as it gets, really.
+That's it from us folks. In the end, two deserving teams go through from Group D - both green machines. Madushka Balasuriya is prepping the report, and look out for more stories later. We'll see you at the next one. <b>Wanindu Hasaranga</b>: "After the bad first two games this win is very healthy for us. The wicket was really good we just wanted to put a 160-170 score on this wicket. With our attack anything over 160 we can defend. In the first two games we lost two or three wickets in the first six overs. Today we didn't. I think that was the difference. Asalanka has a lot of talent and he proved today what he could do. Kusal Mendis and Dhananjaya de Silva also played a role." <b>Scott Edwards</b>, Netherlands captain: "The wickets were better than we have been playing on, and the margins of error were a bit smaller, and we missed a little bit. With there being a shorter side and the wind going that way - we were slow to react to that. We have to be better at that. "We had good patches throughout the tournament where we gave our chances to win at least three of those games. But something was slightly off and against good quality sides you can't afford that. In the batting we needed someone to have a big innings, and we weren't able to do that. Backing our boys to come back firing." So Sri Lanka dominant across disciplines today. A couple of errors in the field, but their batting was dynamic, with their lower-order hitting finally getting going. We knew their bowling would test Netherlands, and the likes of Pathirana, Hasaranga, and Thushara made an impact. Atiq: "Thank you, SL, for trying your best for BD. We supported you wholeheartedly. Ultimately, we prevailed through our own efforts. Now that the competition is over, we can return to our friendly rivalry." <b>Asalanka</b>, player of the match: "These are far better conditions than the USA, and we enjoyed those conditions. It can be tough to come in at No. 5. We just played the conditions. I know I have to be a little more consistent. In general we are a little disappointed about the results in the first two games. But in the end we had a good game here." So, we know without a doubt who the Group D qualifiers are now. South Africa are through. As are Bangladesh. For Netherlands to win they had to win big. They lost big instead. Frankie: "Well played commentary jinx" Eeek. Yes, apologies to Scott Edwards.
 
 Balls faced: 14
 Bowler: Theekshana
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in outside off, pushed to point again"}]fired in outside off, pushed to point again
+fired in outside off, pushed to point again
 
 
 Balls faced: 15
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flatter again, turning in, and Meekeren gets and outside edge that squirts to point and they can take a single"}]flatter again, turning in, and Meekeren gets and outside edge that squirts to point and they can take a single
+flatter again, turning in, and Meekeren gets and outside edge that squirts to point and they can take a single
 
 
 Balls faced: 16
 Bowler: Theekshana
 Over: 16
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller one, fired down leg"}]fuller one, fired down leg
+fuller one, fired down leg
 
 Wide: 1
 Balls faced: 17
 Bowler: Theekshana
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter ball, but turning, a play and a miss outside off stump"}]flatter ball, but turning, a play and a miss outside off stump
+flatter ball, but turning, a play and a miss outside off stump
 
 
 Balls faced: 18
 Bowler: Thushara
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: No Shot
 Run scored: 0
 
-
-[{"type": "HTML", "html": "given lbw! But was there bat on that? Van Meekeren reviews immediately. There doesn't seem to be bat, and van Meekeren was only reviewing because they had reviews to spare. It looked plumb initially. This was swinging in to middle, was very full, and smashed the batter on what would have been his front pad, only he'd switched legs as he attempted to play a scoop. As plumb as it gets, really."}]given lbw! But was there bat on that? Van Meekeren reviews immediately. There doesn't seem to be bat, and van Meekeren was only reviewing because they had reviews to spare. It looked plumb initially. This was swinging in to middle, was very full, and smashed the batter on what would have been his front pad, only he'd switched legs as he attempted to play a scoop. As plumb as it gets, really.
-[{"type": "HTML", "html": "That's it from us folks. In the end, two deserving teams go through from Group D - both green machines. Madushka Balasuriya is prepping the report, and look out for more stories later. We'll see you at the next one."}, {"type": "HTML", "html": "<b>Wanindu Hasaranga</b>: \"After the bad first two games this win is very healthy for us. The wicket was really good we just wanted to put a 160-170 score on this wicket. With our attack anything over 160 we can defend. In the first two games we lost two or three wickets in the first six overs. Today we didn't. I think that was the difference. Asalanka has a lot of talent and he proved today what he could do. Kusal Mendis and Dhananjaya de Silva also played a role.\""}, {"type": "HTML", "html": "<b>Scott Edwards</b>, Netherlands captain: \"The wickets were better than we have been playing on, and the margins of error were a bit smaller, and we missed a little bit. With there being a shorter side and the wind going that way - we were slow to react to that. We have to be better at that."}, {"type": "HTML", "html": "\"We had good patches throughout the tournament where we gave our chances to win at least three of those games. But something was slightly off and against good quality sides you can't afford that. In the batting we needed someone to have a big innings, and we weren't able to do that. Backing our boys to come back firing.\""}, {"type": "HTML", "html": "So Sri Lanka dominant across disciplines today. A couple of errors in the field, but their batting was dynamic, with their lower-order hitting finally getting going. We knew their bowling would test Netherlands, and the likes of Pathirana, Hasaranga, and Thushara made an impact."}, {"type": "HTML", "html": "Atiq: \"Thank you, SL, for trying your best for BD. We supported you wholeheartedly. Ultimately, we prevailed through our own efforts. Now that the competition is over, we can return to our friendly rivalry.\""}, {"type": "HTML", "html": "<b>Asalanka</b>, player of the match: \"These are far better conditions than the USA, and we enjoyed those conditions. It can be tough to come in at No. 5. We just played the conditions. I know I have to be a little more consistent. In general we are a little disappointed about the results in the first two games. But in the end we had a good game here.\""}, {"type": "HTML", "html": "So, we know without a doubt who the Group D qualifiers are now. South Africa are through. As are Bangladesh. For Netherlands to win they had to win big. They lost big instead."}, {"type": "HTML", "html": "Frankie: \"Well played commentary jinx\" Eeek. Yes, apologies to Scott Edwards."}]That's it from us folks. In the end, two deserving teams go through from Group D - both green machines. Madushka Balasuriya is prepping the report, and look out for more stories later. We'll see you at the next one. <b>Wanindu Hasaranga</b>: "After the bad first two games this win is very healthy for us. The wicket was really good we just wanted to put a 160-170 score on this wicket. With our attack anything over 160 we can defend. In the first two games we lost two or three wickets in the first six overs. Today we didn't. I think that was the difference. Asalanka has a lot of talent and he proved today what he could do. Kusal Mendis and Dhananjaya de Silva also played a role." <b>Scott Edwards</b>, Netherlands captain: "The wickets were better than we have been playing on, and the margins of error were a bit smaller, and we missed a little bit. With there being a shorter side and the wind going that way - we were slow to react to that. We have to be better at that. "We had good patches throughout the tournament where we gave our chances to win at least three of those games. But something was slightly off and against good quality sides you can't afford that. In the batting we needed someone to have a big innings, and we weren't able to do that. Backing our boys to come back firing." So Sri Lanka dominant across disciplines today. A couple of errors in the field, but their batting was dynamic, with their lower-order hitting finally getting going. We knew their bowling would test Netherlands, and the likes of Pathirana, Hasaranga, and Thushara made an impact. Atiq: "Thank you, SL, for trying your best for BD. We supported you wholeheartedly. Ultimately, we prevailed through our own efforts. Now that the competition is over, we can return to our friendly rivalry." <b>Asalanka</b>, player of the match: "These are far better conditions than the USA, and we enjoyed those conditions. It can be tough to come in at No. 5. We just played the conditions. I know I have to be a little more consistent. In general we are a little disappointed about the results in the first two games. But in the end we had a good game here." So, we know without a doubt who the Group D qualifiers are now. South Africa are through. As are Bangladesh. For Netherlands to win they had to win big. They lost big instead. Frankie: "Well played commentary jinx" Eeek. Yes, apologies to Scott Edwards.
+van Meekeren is OUT! lbw
+lbw b Thushara
+Paul van Meekeren lbw b Thushara 3 (8b 0x4 0x6 11m) SR: 37.5
+given lbw! But was there bat on that? Van Meekeren reviews immediately. There doesn't seem to be bat, and van Meekeren was only reviewing because they had reviews to spare. It looked plumb initially. This was swinging in to middle, was very full, and smashed the batter on what would have been his front pad, only he'd switched legs as he attempted to play a scoop. As plumb as it gets, really.
+That's it from us folks. In the end, two deserving teams go through from Group D - both green machines. Madushka Balasuriya is prepping the report, and look out for more stories later. We'll see you at the next one. <b>Wanindu Hasaranga</b>: "After the bad first two games this win is very healthy for us. The wicket was really good we just wanted to put a 160-170 score on this wicket. With our attack anything over 160 we can defend. In the first two games we lost two or three wickets in the first six overs. Today we didn't. I think that was the difference. Asalanka has a lot of talent and he proved today what he could do. Kusal Mendis and Dhananjaya de Silva also played a role." <b>Scott Edwards</b>, Netherlands captain: "The wickets were better than we have been playing on, and the margins of error were a bit smaller, and we missed a little bit. With there being a shorter side and the wind going that way - we were slow to react to that. We have to be better at that. "We had good patches throughout the tournament where we gave our chances to win at least three of those games. But something was slightly off and against good quality sides you can't afford that. In the batting we needed someone to have a big innings, and we weren't able to do that. Backing our boys to come back firing." So Sri Lanka dominant across disciplines today. A couple of errors in the field, but their batting was dynamic, with their lower-order hitting finally getting going. We knew their bowling would test Netherlands, and the likes of Pathirana, Hasaranga, and Thushara made an impact. Atiq: "Thank you, SL, for trying your best for BD. We supported you wholeheartedly. Ultimately, we prevailed through our own efforts. Now that the competition is over, we can return to our friendly rivalry." <b>Asalanka</b>, player of the match: "These are far better conditions than the USA, and we enjoyed those conditions. It can be tough to come in at No. 5. We just played the conditions. I know I have to be a little more consistent. In general we are a little disappointed about the results in the first two games. But in the end we had a good game here." So, we know without a doubt who the Group D qualifiers are now. South Africa are through. As are Bangladesh. For Netherlands to win they had to win big. They lost big instead. Frankie: "Well played commentary jinx" Eeek. Yes, apologies to Scott Edwards.
 
 
 Match: all_games_1428145_1428151.json
 Balls faced: 1
 Bowler: Sole
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
+van Meekeren is OUT! bowled
+ b Sole
+Paul van Meekeren b Sole 0 (1b 0x4 0x6 1m) SR: 0
 
 
 
 Balls faced: 2
 Bowler: Sole
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
+van Meekeren is OUT! bowled
+ b Sole
+Paul van Meekeren b Sole 0 (1b 0x4 0x6 1m) SR: 0
 
 
 
@@ -228,6 +258,7 @@ Match: all_games_1428145_1428152.json
 Balls faced: 1
 Bowler: Adair
 Over: 18
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -238,6 +269,7 @@ Run scored: 2
 Balls faced: 2
 Bowler: Adair
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -248,6 +280,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Adair
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -258,6 +291,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Adair
 Over: 18
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -268,6 +302,7 @@ Run scored: 2
 Balls faced: 5
 Bowler: Adair
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -278,6 +313,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Adair
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -288,15 +324,23 @@ Run scored: 1
 Balls faced: 7
 Bowler: Adair
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
-
+van Meekeren is OUT! caught
+c Delany b Adair
+Paul van Meekeren c Delany b Adair 3 (4b 0x4 0x6) SR: 75
 
 
 
 Balls faced: 8
 Bowler: Adair
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
+
+van Meekeren is OUT! caught
+c Delany b Adair
+Paul van Meekeren c Delany b Adair 3 (4b 0x4 0x6) SR: 75

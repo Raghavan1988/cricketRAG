@@ -2,6 +2,7 @@ Match: all_games_1421067_1421078.json
 Balls faced: 1
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
@@ -22,6 +24,7 @@ Run scored: 4
 Balls faced: 3
 Bowler: Main
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -32,6 +35,7 @@ No Balls: 1
 Balls faced: 4
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
@@ -42,6 +46,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Main
 Over: 2
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -52,6 +57,7 @@ No Balls: 1 Byes: 2
 Balls faced: 6
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -62,6 +68,7 @@ Run scored: 4
 Balls faced: 7
 Bowler: Watt
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Watt
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -82,6 +90,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Watt
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Watt
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
@@ -122,6 +134,7 @@ Run scored: 4
 Balls faced: 13
 Bowler: Main
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -132,6 +145,7 @@ No Balls: 1
 Balls faced: 14
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
@@ -142,6 +156,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Main
 Over: 2
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -152,6 +167,7 @@ No Balls: 1 Byes: 2
 Balls faced: 16
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -162,6 +178,7 @@ Run scored: 4
 Balls faced: 17
 Bowler: Sharif
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -172,6 +189,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Sharif
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
@@ -182,6 +200,7 @@ Run scored: 2
 Balls faced: 19
 Bowler: Sharif
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -192,6 +211,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Sharif
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
@@ -202,6 +222,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Watt
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -212,6 +233,7 @@ Run scored: 1
 Balls faced: 22
 Bowler: Watt
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -222,6 +244,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Watt
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -232,6 +255,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Watt
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -242,6 +266,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -252,6 +277,7 @@ Run scored: 1
 Balls faced: 26
 Bowler: Watt
 Over: 5
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -262,6 +288,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -272,6 +299,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Watt
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -282,6 +310,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: Watt
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -292,6 +321,7 @@ Run scored: 0
 Balls faced: 30
 Bowler: Watt
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
@@ -302,6 +332,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Sharif
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -312,6 +343,7 @@ Run scored: 1
 Balls faced: 32
 Bowler: Sharif
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
@@ -322,6 +354,7 @@ Run scored: 2
 Balls faced: 33
 Bowler: Sharif
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -332,6 +365,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Sharif
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
@@ -342,6 +376,7 @@ Run scored: 1
 Balls faced: 35
 Bowler: Jarvis
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -352,6 +387,7 @@ Run scored: 1
 Balls faced: 36
 Bowler: Jarvis
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -362,6 +398,7 @@ Run scored: 1
 Balls faced: 37
 Bowler: Jarvis
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: STEERED
 Run scored: 4
 
@@ -372,6 +409,7 @@ Run scored: 4
 Balls faced: 38
 Bowler: Jarvis
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -382,6 +420,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -392,6 +431,7 @@ Run scored: 1
 Balls faced: 40
 Bowler: Watt
 Over: 5
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -402,6 +442,7 @@ Run scored: 0
 Balls faced: 41
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -412,6 +453,7 @@ Run scored: 0
 Balls faced: 42
 Bowler: Watt
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -422,6 +464,7 @@ Run scored: 0
 Balls faced: 43
 Bowler: Watt
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -432,6 +475,7 @@ Run scored: 0
 Balls faced: 44
 Bowler: Watt
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
@@ -442,6 +486,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: Main
 Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -452,6 +497,7 @@ Run scored: 4
 Balls faced: 46
 Bowler: Main
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 2
 
@@ -462,6 +508,7 @@ Run scored: 2
 Balls faced: 47
 Bowler: Main
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
@@ -472,6 +519,7 @@ Run scored: 1
 Balls faced: 48
 Bowler: Jarvis
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -482,6 +530,7 @@ Run scored: 1
 Balls faced: 49
 Bowler: Jarvis
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -492,6 +541,7 @@ Run scored: 1
 Balls faced: 50
 Bowler: Jarvis
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: STEERED
 Run scored: 4
 
@@ -502,6 +552,7 @@ Run scored: 4
 Balls faced: 51
 Bowler: Jarvis
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -512,6 +563,7 @@ Run scored: 0
 Balls faced: 52
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
@@ -522,6 +574,7 @@ Run scored: 1
 Balls faced: 53
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
@@ -532,6 +585,7 @@ Run scored: 0
 Balls faced: 54
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
@@ -542,6 +596,7 @@ Run scored: 2
 Balls faced: 55
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -552,6 +607,7 @@ No Balls: 1
 Balls faced: 56
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 2
 
@@ -562,6 +618,7 @@ Run scored: 2
 Balls faced: 57
 Bowler: Main
 Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -572,6 +629,7 @@ Run scored: 4
 Balls faced: 58
 Bowler: Main
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 2
 
@@ -582,6 +640,7 @@ Run scored: 2
 Balls faced: 59
 Bowler: Main
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
@@ -592,16 +651,20 @@ Run scored: 1
 Balls faced: 60
 Bowler: Greaves
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
-
+Suri is OUT! lbw
+lbw b Greaves
+Tanish Suri lbw b Greaves 37 (35b 4x4 0x6 39m) SR: 105.71
 
 
 
 Balls faced: 61
 Bowler: Greaves
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -612,6 +675,7 @@ Run scored: 1
 Balls faced: 62
 Bowler: Greaves
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -622,6 +686,7 @@ Run scored: 1
 Balls faced: 63
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
@@ -632,6 +697,7 @@ Run scored: 1
 Balls faced: 64
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
@@ -642,6 +708,7 @@ Run scored: 0
 Balls faced: 65
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
@@ -652,6 +719,7 @@ Run scored: 2
 Balls faced: 66
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -662,6 +730,7 @@ No Balls: 1
 Balls faced: 67
 Bowler: Jarvis
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 2
 
@@ -672,16 +741,20 @@ Run scored: 2
 Balls faced: 68
 Bowler: Greaves
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
-
+Suri is OUT! lbw
+lbw b Greaves
+Tanish Suri lbw b Greaves 37 (35b 4x4 0x6 39m) SR: 105.71
 
 
 
 Balls faced: 69
 Bowler: Greaves
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -692,6 +765,7 @@ Run scored: 1
 Balls faced: 70
 Bowler: Greaves
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -704,16 +778,20 @@ Match: all_games_1421067_1421079.json
 Balls faced: 1
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
 
-
+Suri is OUT! caught
+c McMullen b Main
+Tanish Suri c McMullen b Main 2 (6b 0x4 0x6) SR: 33.33
 
 
 
 Balls faced: 2
 Bowler: Main
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
@@ -724,6 +802,7 @@ Run scored: 2
 Balls faced: 3
 Bowler: Main
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -734,6 +813,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Main
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -744,6 +824,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -754,6 +835,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Main
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -764,16 +846,20 @@ Run scored: 0
 Balls faced: 7
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
 
-
+Suri is OUT! caught
+c McMullen b Main
+Tanish Suri c McMullen b Main 2 (6b 0x4 0x6) SR: 33.33
 
 
 
 Balls faced: 8
 Bowler: Main
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
@@ -784,6 +870,7 @@ Run scored: 2
 Balls faced: 9
 Bowler: Main
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -794,6 +881,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Main
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -804,6 +892,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Main
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -814,6 +903,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Main
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -826,15 +916,23 @@ Match: all_games_1421067_1421080.json
 Balls faced: 1
 Bowler: Jarvis
 Over: 2
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
+Suri is OUT! caught
+c McMullen b Jarvis
+Tanish Suri c McMullen b Jarvis 0 (1b 0x4 0x6 11m) SR: 0
 
 
 
 Balls faced: 2
 Bowler: Jarvis
 Over: 2
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
+
+Suri is OUT! caught
+c McMullen b Jarvis
+Tanish Suri c McMullen b Jarvis 0 (1b 0x4 0x6 11m) SR: 0

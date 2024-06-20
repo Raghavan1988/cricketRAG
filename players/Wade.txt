@@ -2,321 +2,357 @@ Match: all_games_1375837_1375850.json
 Balls faced: 1
 Bowler: Shepherd
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full outside off, drives to mid-off, runs and brings out the dive to make sure"}]full outside off, drives to mid-off, runs and brings out the dive to make sure
+full outside off, drives to mid-off, runs and brings out the dive to make sure
 
 
 Balls faced: 2
 Bowler: Holder
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full toss outside off, drives to deep cover"}]full toss outside off, drives to deep cover
-[{"type": "HTML", "html": "Motown: \"@Khalid - I would throw Holder into that equation too. I don't think he's guaranteed a place, and Shepherd is such a dangerous hitter.\""}]Motown: "@Khalid - I would throw Holder into that equation too. I don't think he's guaranteed a place, and Shepherd is such a dangerous hitter."
+full toss outside off, drives to deep cover
+Motown: "@Khalid - I would throw Holder into that equation too. I don't think he's guaranteed a place, and Shepherd is such a dangerous hitter."
 
 Balls faced: 3
 Bowler: Holder
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "cut away from outside off, fumble at deep point allows them back for the second"}]cut away from outside off, fumble at deep point allows them back for the second
+cut away from outside off, fumble at deep point allows them back for the second
 
 
 Balls faced: 4
 Bowler: Holder
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "excellent yorker, kept out to the on side"}]excellent yorker, kept out to the on side
+excellent yorker, kept out to the on side
 
 
 Balls faced: 5
 Bowler: Holder
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
-[{"type": "HTML", "html": "Holder returns for the death"}]Holder returns for the death
+Holder returns for the death
 
-[{"type": "HTML", "html": "over the wicket, back of a length outside off, pulled to deep midwicket"}]over the wicket, back of a length outside off, pulled to deep midwicket
+over the wicket, back of a length outside off, pulled to deep midwicket
 
 
 Balls faced: 6
 Bowler: Shepherd
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full outside off, drives to mid-off, runs and brings out the dive to make sure"}]full outside off, drives to mid-off, runs and brings out the dive to make sure
+full outside off, drives to mid-off, runs and brings out the dive to make sure
 
 
 Balls faced: 7
 Bowler: Shepherd
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball outside off, doesn't get his timing into the off side"}]slower ball outside off, doesn't get his timing into the off side
+slower ball outside off, doesn't get his timing into the off side
 
 
 Balls faced: 8
 Bowler: Shepherd
 Over: 18
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off, Wade aims to sweep it away, misses and called wide...bowler not thrilled"}]full outside off, Wade aims to sweep it away, misses and called wide...bowler not thrilled
+full outside off, Wade aims to sweep it away, misses and called wide...bowler not thrilled
 
 Wide: 1
 Balls faced: 9
 Bowler: Shepherd
 Over: 18
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked into midwicket"}]tucked into midwicket
+tucked into midwicket
 
 
 Balls faced: 10
 Bowler: Shepherd
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>great shot!</b> Uses his feet then drives inside-out over extra cover, that's a magnificent strike"}]<b>great shot!</b> Uses his feet then drives inside-out over extra cover, that's a magnificent strike
+<b>great shot!</b> Uses his feet then drives inside-out over extra cover, that's a magnificent strike
 
 
 Balls faced: 11
 Bowler: Shepherd
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Shepherd for his last. He's been good today"}]Shepherd for his last. He's been good today
+Shepherd for his last. He's been good today
 
-[{"type": "HTML", "html": "a very wide slower ball, barely pitches on the cut strip"}]a very wide slower ball, barely pitches on the cut strip
+a very wide slower ball, barely pitches on the cut strip
 
 Wide: 1
 Balls faced: 12
 Bowler: Holder
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full toss outside off, drives to deep cover"}]full toss outside off, drives to deep cover
-[{"type": "HTML", "html": "Motown: \"@Khalid - I would throw Holder into that equation too. I don't think he's guaranteed a place, and Shepherd is such a dangerous hitter.\""}]Motown: "@Khalid - I would throw Holder into that equation too. I don't think he's guaranteed a place, and Shepherd is such a dangerous hitter."
+full toss outside off, drives to deep cover
+Motown: "@Khalid - I would throw Holder into that equation too. I don't think he's guaranteed a place, and Shepherd is such a dangerous hitter."
 
 Balls faced: 13
 Bowler: Holder
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "cut away from outside off, fumble at deep point allows them back for the second"}]cut away from outside off, fumble at deep point allows them back for the second
+cut away from outside off, fumble at deep point allows them back for the second
 
 
 Balls faced: 14
 Bowler: Holder
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "excellent yorker, kept out to the on side"}]excellent yorker, kept out to the on side
+excellent yorker, kept out to the on side
 
 
 Balls faced: 15
 Bowler: Holder
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
-[{"type": "HTML", "html": "Holder returns for the death"}]Holder returns for the death
+Holder returns for the death
 
-[{"type": "HTML", "html": "over the wicket, back of a length outside off, pulled to deep midwicket"}]over the wicket, back of a length outside off, pulled to deep midwicket
+over the wicket, back of a length outside off, pulled to deep midwicket
 
 
 Balls faced: 16
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "opens the face, drives out to deep cover"}]opens the face, drives out to deep cover
-[{"type": "HTML", "html": "West Indies behind the over rate so will need an extra fielder in the ring for the last"}]West Indies behind the over rate so will need an extra fielder in the ring for the last
+opens the face, drives out to deep cover
+West Indies behind the over rate so will need an extra fielder in the ring for the last
 
 Balls faced: 17
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets a bottom edge as he swings across the line, Pooran cuts it off"}]gets a bottom edge as he swings across the line, Pooran cuts it off
+gets a bottom edge as he swings across the line, Pooran cuts it off
 
 
 Balls faced: 18
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Joseph for his last"}]Joseph for his last
+Joseph for his last
 
-[{"type": "HTML", "html": "length outside off, pulled to deep square leg"}]length outside off, pulled to deep square leg
+length outside off, pulled to deep square leg
 
 
 Balls faced: 19
 Bowler: Shepherd
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball outside off, doesn't get his timing into the off side"}]slower ball outside off, doesn't get his timing into the off side
+slower ball outside off, doesn't get his timing into the off side
 
 
 Balls faced: 20
 Bowler: Shepherd
 Over: 18
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off, Wade aims to sweep it away, misses and called wide...bowler not thrilled"}]full outside off, Wade aims to sweep it away, misses and called wide...bowler not thrilled
+full outside off, Wade aims to sweep it away, misses and called wide...bowler not thrilled
 
 Wide: 1
 Balls faced: 21
 Bowler: Shepherd
 Over: 18
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked into midwicket"}]tucked into midwicket
+tucked into midwicket
 
 
 Balls faced: 22
 Bowler: Shepherd
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>great shot!</b> Uses his feet then drives inside-out over extra cover, that's a magnificent strike"}]<b>great shot!</b> Uses his feet then drives inside-out over extra cover, that's a magnificent strike
+<b>great shot!</b> Uses his feet then drives inside-out over extra cover, that's a magnificent strike
 
 
 Balls faced: 23
 Bowler: Shepherd
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Shepherd for his last. He's been good today"}]Shepherd for his last. He's been good today
+Shepherd for his last. He's been good today
 
-[{"type": "HTML", "html": "a very wide slower ball, barely pitches on the cut strip"}]a very wide slower ball, barely pitches on the cut strip
+a very wide slower ball, barely pitches on the cut strip
 
 Wide: 1
 Balls faced: 24
 Bowler: Russell
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>finds deep midwicket.</strong> Short of a length, Wade pulls and can't quite get it over the fielder. Pace off works again"}]<strong>finds deep midwicket.</strong> Short of a length, Wade pulls and can't quite get it over the fielder. Pace off works again
+Wade is OUT! caught
+c sub (RL Chase) b Russell
+Matthew Wade c sub (RL Chase) b Russell 21 (14b 1x4 1x6 21m) SR: 150
+<strong>finds deep midwicket.</strong> Short of a length, Wade pulls and can't quite get it over the fielder. Pace off works again
 
 
 Balls faced: 25
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "loses his shape on this one, takes a thick inside edge to deep square leg"}]loses his shape on this one, takes a thick inside edge to deep square leg
+loses his shape on this one, takes a thick inside edge to deep square leg
 
 
 Balls faced: 26
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Russell to bowl the last over. Extra fielding up."}]Russell to bowl the last over. Extra fielding up.
+Russell to bowl the last over. Extra fielding up.
 
-[{"type": "HTML", "html": "full at off stump, threads a drive between cover and mid-off"}]full at off stump, threads a drive between cover and mid-off
+full at off stump, threads a drive between cover and mid-off
 
 
 Balls faced: 27
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "opens the face, drives out to deep cover"}]opens the face, drives out to deep cover
-[{"type": "HTML", "html": "West Indies behind the over rate so will need an extra fielder in the ring for the last"}]West Indies behind the over rate so will need an extra fielder in the ring for the last
+opens the face, drives out to deep cover
+West Indies behind the over rate so will need an extra fielder in the ring for the last
 
 Balls faced: 28
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets a bottom edge as he swings across the line, Pooran cuts it off"}]gets a bottom edge as he swings across the line, Pooran cuts it off
+gets a bottom edge as he swings across the line, Pooran cuts it off
 
 
 Balls faced: 29
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Joseph for his last"}]Joseph for his last
+Joseph for his last
 
-[{"type": "HTML", "html": "length outside off, pulled to deep square leg"}]length outside off, pulled to deep square leg
+length outside off, pulled to deep square leg
 
 
 Balls faced: 30
 Bowler: Russell
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>finds deep midwicket.</strong> Short of a length, Wade pulls and can't quite get it over the fielder. Pace off works again"}]<strong>finds deep midwicket.</strong> Short of a length, Wade pulls and can't quite get it over the fielder. Pace off works again
+Wade is OUT! caught
+c sub (RL Chase) b Russell
+Matthew Wade c sub (RL Chase) b Russell 21 (14b 1x4 1x6 21m) SR: 150
+<strong>finds deep midwicket.</strong> Short of a length, Wade pulls and can't quite get it over the fielder. Pace off works again
 
 
 Balls faced: 31
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "loses his shape on this one, takes a thick inside edge to deep square leg"}]loses his shape on this one, takes a thick inside edge to deep square leg
+loses his shape on this one, takes a thick inside edge to deep square leg
 
 
 Balls faced: 32
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Russell to bowl the last over. Extra fielding up."}]Russell to bowl the last over. Extra fielding up.
+Russell to bowl the last over. Extra fielding up.
 
-[{"type": "HTML", "html": "full at off stump, threads a drive between cover and mid-off"}]full at off stump, threads a drive between cover and mid-off
+full at off stump, threads a drive between cover and mid-off
 
 
 
@@ -324,141 +360,155 @@ Match: all_games_1375837_1375852.json
 Balls faced: 1
 Bowler: Shepherd
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short outside off, cracked through the covers"}]short outside off, cracked through the covers
+short outside off, cracked through the covers
 
 
 Balls faced: 2
 Bowler: Shepherd
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off, moves across and attempts to pick it up with a sweep"}]full outside off, moves across and attempts to pick it up with a sweep
+full outside off, moves across and attempts to pick it up with a sweep
 
 
 Balls faced: 3
 Bowler: Shepherd
 Over: 18
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "worked to the on side, can't beat the bowler"}]worked to the on side, can't beat the bowler
-[{"type": "HTML", "html": "Ben: \"This is now the highest run aggregate for <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=series;orderby=runs;qualmax1=3;qualval1=matches;template=results;tournament_type=2;type=team\">any 3-match T20I series</a>, surpassing the West Indies' series in South Africa a year ago.\""}]Ben: "This is now the highest run aggregate for <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=series;orderby=runs;qualmax1=3;qualval1=matches;template=results;tournament_type=2;type=team">any 3-match T20I series</a>, surpassing the West Indies' series in South Africa a year ago."
+worked to the on side, can't beat the bowler
+Ben: "This is now the highest run aggregate for <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=series;orderby=runs;qualmax1=3;qualval1=matches;template=results;tournament_type=2;type=team">any 3-match T20I series</a>, surpassing the West Indies' series in South Africa a year ago."
 
 Balls faced: 4
 Bowler: Shepherd
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "on the pads, worked through square leg"}]on the pads, worked through square leg
-[{"type": "HTML", "html": "Rinku Singh: \"Need a hand?\" Tough even for you, Rinku"}]Rinku Singh: "Need a hand?" Tough even for you, Rinku
+on the pads, worked through square leg
+Rinku Singh: "Need a hand?" Tough even for you, Rinku
 
 Balls faced: 5
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full at the stumps, driven to mid-off on the edge of the ring"}]full at the stumps, driven to mid-off on the edge of the ring
-[{"type": "HTML", "html": "37 an over needed now"}]37 an over needed now
+full at the stumps, driven to mid-off on the edge of the ring
+37 an over needed now
 
 Balls faced: 6
 Bowler: Shepherd
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short outside off, cracked through the covers"}]short outside off, cracked through the covers
+short outside off, cracked through the covers
 
 
 Balls faced: 7
 Bowler: Shepherd
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off, moves across and attempts to pick it up with a sweep"}]full outside off, moves across and attempts to pick it up with a sweep
+full outside off, moves across and attempts to pick it up with a sweep
 
 
 Balls faced: 8
 Bowler: Shepherd
 Over: 18
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "worked to the on side, can't beat the bowler"}]worked to the on side, can't beat the bowler
-[{"type": "HTML", "html": "Ben: \"This is now the highest run aggregate for <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=series;orderby=runs;qualmax1=3;qualval1=matches;template=results;tournament_type=2;type=team\">any 3-match T20I series</a>, surpassing the West Indies' series in South Africa a year ago.\""}]Ben: "This is now the highest run aggregate for <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=series;orderby=runs;qualmax1=3;qualval1=matches;template=results;tournament_type=2;type=team">any 3-match T20I series</a>, surpassing the West Indies' series in South Africa a year ago."
+worked to the on side, can't beat the bowler
+Ben: "This is now the highest run aggregate for <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=series;orderby=runs;qualmax1=3;qualval1=matches;template=results;tournament_type=2;type=team">any 3-match T20I series</a>, surpassing the West Indies' series in South Africa a year ago."
 
 Balls faced: 9
 Bowler: Shepherd
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "on the pads, worked through square leg"}]on the pads, worked through square leg
-[{"type": "HTML", "html": "Rinku Singh: \"Need a hand?\" Tough even for you, Rinku"}]Rinku Singh: "Need a hand?" Tough even for you, Rinku
+on the pads, worked through square leg
+Rinku Singh: "Need a hand?" Tough even for you, Rinku
 
 Balls faced: 10
 Bowler: Holder
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and straight, played into his boot and runs to the off side"}]full and straight, played into his boot and runs to the off side
+full and straight, played into his boot and runs to the off side
 
 
 Balls faced: 11
 Bowler: Holder
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dragged from outside off to deep midwicket"}]dragged from outside off to deep midwicket
+dragged from outside off to deep midwicket
 
 
 Balls faced: 12
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full at the stumps, driven to mid-off on the edge of the ring"}]full at the stumps, driven to mid-off on the edge of the ring
-[{"type": "HTML", "html": "37 an over needed now"}]37 an over needed now
+full at the stumps, driven to mid-off on the edge of the ring
+37 an over needed now
 
 Balls faced: 13
 Bowler: Holder
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and straight, played into his boot and runs to the off side"}]full and straight, played into his boot and runs to the off side
+full and straight, played into his boot and runs to the off side
 
 
 Balls faced: 14
 Bowler: Holder
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dragged from outside off to deep midwicket"}]dragged from outside off to deep midwicket
+dragged from outside off to deep midwicket
 
 
 
@@ -466,61 +516,71 @@ Match: all_games_1388188_1388224.json
 Balls faced: 1
 Bowler: Ferguson
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length and zipping across off stump, 145ks, jabbed to the covers"}]on a length and zipping across off stump, 145ks, jabbed to the covers
-[{"type": "HTML", "html": "Mack Whitney: \"\"Hello, again, everyone. Thanks, Alex. Ferguson is back into the attack\" A lot of Man U supporters will be happy to hear that. They've missed him. \" --- Ha! My colleague and hero Anuj Vignesh is surely missing Alex Ferguson at Man U"}]Mack Whitney: ""Hello, again, everyone. Thanks, Alex. Ferguson is back into the attack" A lot of Man U supporters will be happy to hear that. They've missed him. " --- Ha! My colleague and hero Anuj Vignesh is surely missing Alex Ferguson at Man U
+on a length and zipping across off stump, 145ks, jabbed to the covers
+Mack Whitney: ""Hello, again, everyone. Thanks, Alex. Ferguson is back into the attack" A lot of Man U supporters will be happy to hear that. They've missed him. " --- Ha! My colleague and hero Anuj Vignesh is surely missing Alex Ferguson at Man U
 
 Balls faced: 2
 Bowler: Ferguson
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "a bit too full and on off stump, driven down the ground to long-on"}]a bit too full and on off stump, driven down the ground to long-on
+a bit too full and on off stump, driven down the ground to long-on
 
 
 Balls faced: 3
 Bowler: Santner
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "PeterWarrington: \"David has time to do a Maxwell and get a ton from here. Has he the game to go that hard for that long?\""}]PeterWarrington: "David has time to do a Maxwell and get a ton from here. Has he the game to go that hard for that long?"
-
-[{"type": "HTML", "html": "Make that six down! Wade skies a return catch to Santner. Back of a length and into the pitch from Santner, he finds some extra bounce to mess with Wade's pull. The batter can only splice it back to the bowler"}]Make that six down! Wade skies a return catch to Santner. Back of a length and into the pitch from Santner, he finds some extra bounce to mess with Wade's pull. The batter can only splice it back to the bowler
+PeterWarrington: "David has time to do a Maxwell and get a ton from here. Has he the game to go that hard for that long?"
+Wade is OUT! caught
+c & b Santner
+Matthew Wade c & b Santner 1 (3b 0x4 0x6 7m) SR: 33.33
+Make that six down! Wade skies a return catch to Santner. Back of a length and into the pitch from Santner, he finds some extra bounce to mess with Wade's pull. The batter can only splice it back to the bowler
 
 
 Balls faced: 4
 Bowler: Ferguson
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length and zipping across off stump, 145ks, jabbed to the covers"}]on a length and zipping across off stump, 145ks, jabbed to the covers
-[{"type": "HTML", "html": "Mack Whitney: \"\"Hello, again, everyone. Thanks, Alex. Ferguson is back into the attack\" A lot of Man U supporters will be happy to hear that. They've missed him. \" --- Ha! My colleague and hero Anuj Vignesh is surely missing Alex Ferguson at Man U"}]Mack Whitney: ""Hello, again, everyone. Thanks, Alex. Ferguson is back into the attack" A lot of Man U supporters will be happy to hear that. They've missed him. " --- Ha! My colleague and hero Anuj Vignesh is surely missing Alex Ferguson at Man U
+on a length and zipping across off stump, 145ks, jabbed to the covers
+Mack Whitney: ""Hello, again, everyone. Thanks, Alex. Ferguson is back into the attack" A lot of Man U supporters will be happy to hear that. They've missed him. " --- Ha! My colleague and hero Anuj Vignesh is surely missing Alex Ferguson at Man U
 
 Balls faced: 5
 Bowler: Ferguson
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "a bit too full and on off stump, driven down the ground to long-on"}]a bit too full and on off stump, driven down the ground to long-on
+a bit too full and on off stump, driven down the ground to long-on
 
 
 Balls faced: 6
 Bowler: Santner
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "PeterWarrington: \"David has time to do a Maxwell and get a ton from here. Has he the game to go that hard for that long?\""}]PeterWarrington: "David has time to do a Maxwell and get a ton from here. Has he the game to go that hard for that long?"
-
-[{"type": "HTML", "html": "Make that six down! Wade skies a return catch to Santner. Back of a length and into the pitch from Santner, he finds some extra bounce to mess with Wade's pull. The batter can only splice it back to the bowler"}]Make that six down! Wade skies a return catch to Santner. Back of a length and into the pitch from Santner, he finds some extra bounce to mess with Wade's pull. The batter can only splice it back to the bowler
+PeterWarrington: "David has time to do a Maxwell and get a ton from here. Has he the game to go that hard for that long?"
+Wade is OUT! caught
+c & b Santner
+Matthew Wade c & b Santner 1 (3b 0x4 0x6 7m) SR: 33.33
+Make that six down! Wade skies a return catch to Santner. Back of a length and into the pitch from Santner, he finds some extra bounce to mess with Wade's pull. The batter can only splice it back to the bowler
 
 
 
@@ -528,241 +588,265 @@ Match: all_games_1411166_1415717.json
 Balls faced: 1
 Bowler: Jordan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
-[{"type": "HTML", "html": "Matthew Wade is the new man. Another left-hander, to keep the short boundary in play at both ends"}]Matthew Wade is the new man. Another left-hander, to keep the short boundary in play at both ends
+Matthew Wade is the new man. Another left-hander, to keep the short boundary in play at both ends
 
-[{"type": "HTML", "html": "Wade nails the pull through deep midwicket! Archer tumbles on the rope but can't collect. Another last-ball boundary to keep Australia ticking"}]Wade nails the pull through deep midwicket! Archer tumbles on the rope but can't collect. Another last-ball boundary to keep Australia ticking
+Wade nails the pull through deep midwicket! Archer tumbles on the rope but can't collect. Another last-ball boundary to keep Australia ticking
 
 
 Balls faced: 2
 Bowler: Jordan
 Over: 17
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball but down the leg-side. Reload!"}]slower ball but down the leg-side. Reload!
+slower ball but down the leg-side. Reload!
 
 Wide: 1
 Balls faced: 3
 Bowler: Rashid
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "width outside off, carved uppishly out to point"}]width outside off, carved uppishly out to point
+width outside off, carved uppishly out to point
 
 
 Balls faced: 4
 Bowler: Rashid
 Over: 18
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "A loud blast of music kicked in to distract Wade, who tried to pull out of the shot, but he blocked it off the back foot, and so <strong>the umpire says he played at it!</strong>"}]A loud blast of music kicked in to distract Wade, who tried to pull out of the shot, but he blocked it off the back foot, and so <strong>the umpire says he played at it!</strong>
+A loud blast of music kicked in to distract Wade, who tried to pull out of the shot, but he blocked it off the back foot, and so <strong>the umpire says he played at it!</strong>
 
 
 Balls faced: 5
 Bowler: Rashid
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "lots of width, <B>too much width!</B> Wade steps into the ball, meets it on the full, and strokes it effectively through the gap at extra cover"}]lots of width, <B>too much width!</B> Wade steps into the ball, meets it on the full, and strokes it effectively through the gap at extra cover
+lots of width, <B>too much width!</B> Wade steps into the ball, meets it on the full, and strokes it effectively through the gap at extra cover
 
 
 Balls faced: 6
 Bowler: Jordan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
-[{"type": "HTML", "html": "Matthew Wade is the new man. Another left-hander, to keep the short boundary in play at both ends"}]Matthew Wade is the new man. Another left-hander, to keep the short boundary in play at both ends
+Matthew Wade is the new man. Another left-hander, to keep the short boundary in play at both ends
 
-[{"type": "HTML", "html": "Wade nails the pull through deep midwicket! Archer tumbles on the rope but can't collect. Another last-ball boundary to keep Australia ticking"}]Wade nails the pull through deep midwicket! Archer tumbles on the rope but can't collect. Another last-ball boundary to keep Australia ticking
+Wade nails the pull through deep midwicket! Archer tumbles on the rope but can't collect. Another last-ball boundary to keep Australia ticking
 
 
 Balls faced: 7
 Bowler: Jordan
 Over: 17
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball but down the leg-side. Reload!"}]slower ball but down the leg-side. Reload!
+slower ball but down the leg-side. Reload!
 
 Wide: 1
 Balls faced: 8
 Bowler: Archer
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: REVERSE_SCOOP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>Wade is given out on a reverse-pull, but instantly reviews it!</B> He switched his stance, but was met with a full-pace short ball from Archer, comprehensively beaten for pace, but yes, that's missed the gloves and kissed his biceps!"}]<B>Wade is given out on a reverse-pull, but instantly reviews it!</B> He switched his stance, but was met with a full-pace short ball from Archer, comprehensively beaten for pace, but yes, that's missed the gloves and kissed his biceps!
-[{"type": "HTML", "html": "A good effort from Archer on an emotional day for him... <B>England have been penalised for a slow over-rate!</B> An extra man has to be inside the circle now. Five in, just four out"}]A good effort from Archer on an emotional day for him... <B>England have been penalised for a slow over-rate!</B> An extra man has to be inside the circle now. Five in, just four out
+<B>Wade is given out on a reverse-pull, but instantly reviews it!</B> He switched his stance, but was met with a full-pace short ball from Archer, comprehensively beaten for pace, but yes, that's missed the gloves and kissed his biceps!
+A good effort from Archer on an emotional day for him... <B>England have been penalised for a slow over-rate!</B> An extra man has to be inside the circle now. Five in, just four out
 
 Balls faced: 9
 Bowler: Archer
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short, pace off again, no timing on the pull, plugs in the deep"}]short, pace off again, no timing on the pull, plugs in the deep
+short, pace off again, no timing on the pull, plugs in the deep
 
 
 Balls faced: 10
 Bowler: Archer
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pace off again, on the pads, nudged to the leg-side"}]pace off again, on the pads, nudged to the leg-side
-[{"type": "HTML", "html": "Afeef: \"To be fair, they need to stop playing that music during deliveries\". It was very distracting timing, to be fair"}]Afeef: "To be fair, they need to stop playing that music during deliveries". It was very distracting timing, to be fair
+pace off again, on the pads, nudged to the leg-side
+Afeef: "To be fair, they need to stop playing that music during deliveries". It was very distracting timing, to be fair
 Legbyes: 1
 Balls faced: 11
 Bowler: Archer
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "High stakes out there, lots of cross cricketers. But it's two overs to go, and back comes Archer"}]High stakes out there, lots of cross cricketers. But it's two overs to go, and back comes Archer
+High stakes out there, lots of cross cricketers. But it's two overs to go, and back comes Archer
 
-[{"type": "HTML", "html": "<B>round the wicket, squared up, but through deep third!</B> Pace off as the cutter grips, Rashid was standing at a wide short third and couldn't intercept"}]<B>round the wicket, squared up, but through deep third!</B> Pace off as the cutter grips, Rashid was standing at a wide short third and couldn't intercept
+<B>round the wicket, squared up, but through deep third!</B> Pace off as the cutter grips, Rashid was standing at a wide short third and couldn't intercept
 
 
 Balls faced: 12
 Bowler: Rashid
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "width outside off, carved uppishly out to point"}]width outside off, carved uppishly out to point
+width outside off, carved uppishly out to point
 
 
 Balls faced: 13
 Bowler: Rashid
 Over: 18
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "A loud blast of music kicked in to distract Wade, who tried to pull out of the shot, but he blocked it off the back foot, and so <strong>the umpire says he played at it!</strong>"}]A loud blast of music kicked in to distract Wade, who tried to pull out of the shot, but he blocked it off the back foot, and so <strong>the umpire says he played at it!</strong>
+A loud blast of music kicked in to distract Wade, who tried to pull out of the shot, but he blocked it off the back foot, and so <strong>the umpire says he played at it!</strong>
 
 
 Balls faced: 14
 Bowler: Rashid
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "lots of width, <B>too much width!</B> Wade steps into the ball, meets it on the full, and strokes it effectively through the gap at extra cover"}]lots of width, <B>too much width!</B> Wade steps into the ball, meets it on the full, and strokes it effectively through the gap at extra cover
+lots of width, <B>too much width!</B> Wade steps into the ball, meets it on the full, and strokes it effectively through the gap at extra cover
 
 
 Balls faced: 15
 Bowler: Jordan
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "cuffed hard into the off-side, a good leap to intercept, the shy comes in but Jordan breaks the stumps before he has the ball, then uproots the stump as Wade tries to sneak another... it's academic with the initial run in the bank... but it could technically be an extra wicket. If this was a critical moment, it would be thrilling! Wade's toe was stretching back into the crease, but the stump wasn't completely out of its hole"}]cuffed hard into the off-side, a good leap to intercept, the shy comes in but Jordan breaks the stumps before he has the ball, then uproots the stump as Wade tries to sneak another... it's academic with the initial run in the bank... but it could technically be an extra wicket. If this was a critical moment, it would be thrilling! Wade's toe was stretching back into the crease, but the stump wasn't completely out of its hole
-[{"type": "LIVE_STREAM", "url": "https://livestream.com/accounts/6115179/events/11150881"}, {"type": "HTML", "html": "<B>2.47pm</B> Here's David Warner, whose ballistics in the powerplay kickstarted Australia's total of 201 for 7."}, {"type": "HTML", "html": "\"Very competitive, have to take on the first six but the way England brought it back there... we knew there would have been spin up front, but it was about taking the first six on, that's our job. They've got two out-and-out quicks with excellent skill, if you put pressure on them you can get the edge. Jof's offcutter, back of a length, it jumps. You've got to execute.\""}, {"type": "HTML", "html": "So, England will need the third-highest successful run-chase to win this and get their campaign back on track. It's going to be a tough ask, especially as Australia's bowlers are forewarned about the dangers of pace-on..."}, {"type": "HTML", "html": "Alan will be here to kick off the chase shortly."}]<B>2.47pm</B> Here's David Warner, whose ballistics in the powerplay kickstarted Australia's total of 201 for 7. "Very competitive, have to take on the first six but the way England brought it back there... we knew there would have been spin up front, but it was about taking the first six on, that's our job. They've got two out-and-out quicks with excellent skill, if you put pressure on them you can get the edge. Jof's offcutter, back of a length, it jumps. You've got to execute." So, England will need the third-highest successful run-chase to win this and get their campaign back on track. It's going to be a tough ask, especially as Australia's bowlers are forewarned about the dangers of pace-on... Alan will be here to kick off the chase shortly.
+cuffed hard into the off-side, a good leap to intercept, the shy comes in but Jordan breaks the stumps before he has the ball, then uproots the stump as Wade tries to sneak another... it's academic with the initial run in the bank... but it could technically be an extra wicket. If this was a critical moment, it would be thrilling! Wade's toe was stretching back into the crease, but the stump wasn't completely out of its hole
+<B>2.47pm</B> Here's David Warner, whose ballistics in the powerplay kickstarted Australia's total of 201 for 7. "Very competitive, have to take on the first six but the way England brought it back there... we knew there would have been spin up front, but it was about taking the first six on, that's our job. They've got two out-and-out quicks with excellent skill, if you put pressure on them you can get the edge. Jof's offcutter, back of a length, it jumps. You've got to execute." So, England will need the third-highest successful run-chase to win this and get their campaign back on track. It's going to be a tough ask, especially as Australia's bowlers are forewarned about the dangers of pace-on... Alan will be here to kick off the chase shortly.
 
 Balls faced: 16
 Bowler: Jordan
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "hits the pitch hard outside off, a firm pull to the leg-side, but straight at deep midwicket. <B>The 200 is up</B>"}]hits the pitch hard outside off, a firm pull to the leg-side, but straight at deep midwicket. <B>The 200 is up</B>
+hits the pitch hard outside off, a firm pull to the leg-side, but straight at deep midwicket. <B>The 200 is up</B>
 
 
 Balls faced: 17
 Bowler: Jordan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Two men back on the rope on the off-side for Wade"}]Two men back on the rope on the off-side for Wade
+Two men back on the rope on the off-side for Wade
 
-[{"type": "HTML", "html": "Jordan fires in the wide yorker, but it's too wide"}]Jordan fires in the wide yorker, but it's too wide
+Jordan fires in the wide yorker, but it's too wide
 
 Wide: 1
 Balls faced: 18
 Bowler: Archer
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: REVERSE_SCOOP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>Wade is given out on a reverse-pull, but instantly reviews it!</B> He switched his stance, but was met with a full-pace short ball from Archer, comprehensively beaten for pace, but yes, that's missed the gloves and kissed his biceps!"}]<B>Wade is given out on a reverse-pull, but instantly reviews it!</B> He switched his stance, but was met with a full-pace short ball from Archer, comprehensively beaten for pace, but yes, that's missed the gloves and kissed his biceps!
-[{"type": "HTML", "html": "A good effort from Archer on an emotional day for him... <B>England have been penalised for a slow over-rate!</B> An extra man has to be inside the circle now. Five in, just four out"}]A good effort from Archer on an emotional day for him... <B>England have been penalised for a slow over-rate!</B> An extra man has to be inside the circle now. Five in, just four out
+<B>Wade is given out on a reverse-pull, but instantly reviews it!</B> He switched his stance, but was met with a full-pace short ball from Archer, comprehensively beaten for pace, but yes, that's missed the gloves and kissed his biceps!
+A good effort from Archer on an emotional day for him... <B>England have been penalised for a slow over-rate!</B> An extra man has to be inside the circle now. Five in, just four out
 
 Balls faced: 19
 Bowler: Archer
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short, pace off again, no timing on the pull, plugs in the deep"}]short, pace off again, no timing on the pull, plugs in the deep
+short, pace off again, no timing on the pull, plugs in the deep
 
 
 Balls faced: 20
 Bowler: Archer
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pace off again, on the pads, nudged to the leg-side"}]pace off again, on the pads, nudged to the leg-side
-[{"type": "HTML", "html": "Afeef: \"To be fair, they need to stop playing that music during deliveries\". It was very distracting timing, to be fair"}]Afeef: "To be fair, they need to stop playing that music during deliveries". It was very distracting timing, to be fair
+pace off again, on the pads, nudged to the leg-side
+Afeef: "To be fair, they need to stop playing that music during deliveries". It was very distracting timing, to be fair
 Legbyes: 1
 Balls faced: 21
 Bowler: Archer
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "High stakes out there, lots of cross cricketers. But it's two overs to go, and back comes Archer"}]High stakes out there, lots of cross cricketers. But it's two overs to go, and back comes Archer
+High stakes out there, lots of cross cricketers. But it's two overs to go, and back comes Archer
 
-[{"type": "HTML", "html": "<B>round the wicket, squared up, but through deep third!</B> Pace off as the cutter grips, Rashid was standing at a wide short third and couldn't intercept"}]<B>round the wicket, squared up, but through deep third!</B> Pace off as the cutter grips, Rashid was standing at a wide short third and couldn't intercept
+<B>round the wicket, squared up, but through deep third!</B> Pace off as the cutter grips, Rashid was standing at a wide short third and couldn't intercept
 
 
 Balls faced: 22
 Bowler: Jordan
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "cuffed hard into the off-side, a good leap to intercept, the shy comes in but Jordan breaks the stumps before he has the ball, then uproots the stump as Wade tries to sneak another... it's academic with the initial run in the bank... but it could technically be an extra wicket. If this was a critical moment, it would be thrilling! Wade's toe was stretching back into the crease, but the stump wasn't completely out of its hole"}]cuffed hard into the off-side, a good leap to intercept, the shy comes in but Jordan breaks the stumps before he has the ball, then uproots the stump as Wade tries to sneak another... it's academic with the initial run in the bank... but it could technically be an extra wicket. If this was a critical moment, it would be thrilling! Wade's toe was stretching back into the crease, but the stump wasn't completely out of its hole
-[{"type": "LIVE_STREAM", "url": "https://livestream.com/accounts/6115179/events/11150881"}, {"type": "HTML", "html": "<B>2.47pm</B> Here's David Warner, whose ballistics in the powerplay kickstarted Australia's total of 201 for 7."}, {"type": "HTML", "html": "\"Very competitive, have to take on the first six but the way England brought it back there... we knew there would have been spin up front, but it was about taking the first six on, that's our job. They've got two out-and-out quicks with excellent skill, if you put pressure on them you can get the edge. Jof's offcutter, back of a length, it jumps. You've got to execute.\""}, {"type": "HTML", "html": "So, England will need the third-highest successful run-chase to win this and get their campaign back on track. It's going to be a tough ask, especially as Australia's bowlers are forewarned about the dangers of pace-on..."}, {"type": "HTML", "html": "Alan will be here to kick off the chase shortly."}]<B>2.47pm</B> Here's David Warner, whose ballistics in the powerplay kickstarted Australia's total of 201 for 7. "Very competitive, have to take on the first six but the way England brought it back there... we knew there would have been spin up front, but it was about taking the first six on, that's our job. They've got two out-and-out quicks with excellent skill, if you put pressure on them you can get the edge. Jof's offcutter, back of a length, it jumps. You've got to execute." So, England will need the third-highest successful run-chase to win this and get their campaign back on track. It's going to be a tough ask, especially as Australia's bowlers are forewarned about the dangers of pace-on... Alan will be here to kick off the chase shortly.
+cuffed hard into the off-side, a good leap to intercept, the shy comes in but Jordan breaks the stumps before he has the ball, then uproots the stump as Wade tries to sneak another... it's academic with the initial run in the bank... but it could technically be an extra wicket. If this was a critical moment, it would be thrilling! Wade's toe was stretching back into the crease, but the stump wasn't completely out of its hole
+<B>2.47pm</B> Here's David Warner, whose ballistics in the powerplay kickstarted Australia's total of 201 for 7. "Very competitive, have to take on the first six but the way England brought it back there... we knew there would have been spin up front, but it was about taking the first six on, that's our job. They've got two out-and-out quicks with excellent skill, if you put pressure on them you can get the edge. Jof's offcutter, back of a length, it jumps. You've got to execute." So, England will need the third-highest successful run-chase to win this and get their campaign back on track. It's going to be a tough ask, especially as Australia's bowlers are forewarned about the dangers of pace-on... Alan will be here to kick off the chase shortly.
 
 Balls faced: 23
 Bowler: Jordan
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "hits the pitch hard outside off, a firm pull to the leg-side, but straight at deep midwicket. <B>The 200 is up</B>"}]hits the pitch hard outside off, a firm pull to the leg-side, but straight at deep midwicket. <B>The 200 is up</B>
+hits the pitch hard outside off, a firm pull to the leg-side, but straight at deep midwicket. <B>The 200 is up</B>
 
 
 Balls faced: 24
 Bowler: Jordan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Two men back on the rope on the off-side for Wade"}]Two men back on the rope on the off-side for Wade
+Two men back on the rope on the off-side for Wade
 
-[{"type": "HTML", "html": "Jordan fires in the wide yorker, but it's too wide"}]Jordan fires in the wide yorker, but it's too wide
+Jordan fires in the wide yorker, but it's too wide
 
 Wide: 1
 
@@ -770,101 +854,111 @@ Match: all_games_1411166_1415735.json
 Balls faced: 1
 Bowler: Wheal
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full around off. Wade goes down and sweeps it towards square leg. He took off for a single only for David to send him back. The fielder attempted a direct hit but missed"}]full around off. Wade goes down and sweeps it towards square leg. He took off for a single only for David to send him back. The fielder attempted a direct hit but missed
-[{"type": "HTML", "html": "Vishnu : \"The Australians decided to play with hearts of English and Scots for a while instead of cricket.\""}]Vishnu : "The Australians decided to play with hearts of English and Scots for a while instead of cricket."
+full around off. Wade goes down and sweeps it towards square leg. He took off for a single only for David to send him back. The fielder attempted a direct hit but missed
+Vishnu : "The Australians decided to play with hearts of English and Scots for a while instead of cricket."
 
 Balls faced: 2
 Bowler: Sharif
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and pulled down towards deep-backward square leg"}]short and pulled down towards deep-backward square leg
+short and pulled down towards deep-backward square leg
 
 
 Balls faced: 3
 Bowler: Sharif
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a length ball angling across. Wade went for the reverse hit but missed"}]a length ball angling across. Wade went for the reverse hit but missed
+a length ball angling across. Wade went for the reverse hit but missed
 
 
 Balls faced: 4
 Bowler: Sharif
 Over: 19
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "length ball down the leg side. Wade works it towards square leg for two"}]length ball down the leg side. Wade works it towards square leg for two
+length ball down the leg side. Wade works it towards square leg for two
 
 
 Balls faced: 5
 Bowler: Wheal
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full around off. Wade goes down and sweeps it towards square leg. He took off for a single only for David to send him back. The fielder attempted a direct hit but missed"}]full around off. Wade goes down and sweeps it towards square leg. He took off for a single only for David to send him back. The fielder attempted a direct hit but missed
-[{"type": "HTML", "html": "Vishnu : \"The Australians decided to play with hearts of English and Scots for a while instead of cricket.\""}]Vishnu : "The Australians decided to play with hearts of English and Scots for a while instead of cricket."
+full around off. Wade goes down and sweeps it towards square leg. He took off for a single only for David to send him back. The fielder attempted a direct hit but missed
+Vishnu : "The Australians decided to play with hearts of English and Scots for a while instead of cricket."
 
 Balls faced: 6
 Bowler: Wheal
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Around the wicket for Wade"}]Around the wicket for Wade
+Around the wicket for Wade
 
-[{"type": "HTML", "html": "length ball around off. Mistimed towards long-on"}]length ball around off. Mistimed towards long-on
+length ball around off. Mistimed towards long-on
 
 
 Balls faced: 7
 Bowler: Sharif
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and pulled down towards deep-backward square leg"}]short and pulled down towards deep-backward square leg
+short and pulled down towards deep-backward square leg
 
 
 Balls faced: 8
 Bowler: Sharif
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a length ball angling across. Wade went for the reverse hit but missed"}]a length ball angling across. Wade went for the reverse hit but missed
+a length ball angling across. Wade went for the reverse hit but missed
 
 
 Balls faced: 9
 Bowler: Sharif
 Over: 19
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "length ball down the leg side. Wade works it towards square leg for two"}]length ball down the leg side. Wade works it towards square leg for two
+length ball down the leg side. Wade works it towards square leg for two
 
 
 Balls faced: 10
 Bowler: Wheal
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Around the wicket for Wade"}]Around the wicket for Wade
+Around the wicket for Wade
 
-[{"type": "HTML", "html": "length ball around off. Mistimed towards long-on"}]length ball around off. Mistimed towards long-on
+length ball around off. Mistimed towards long-on
 
 
 
@@ -872,6 +966,7 @@ Match: all_games_1434088_1434095.json
 Balls faced: 1
 Bowler: Scholtz
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -882,6 +977,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Scholtz
 Over: 9
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -892,6 +988,7 @@ Run scored: 4
 Balls faced: 3
 Bowler: Lungameni
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -902,6 +999,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Lungameni
 Over: 10
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -912,6 +1010,7 @@ Run scored: 4
 Balls faced: 5
 Bowler: Lungameni
 Over: 10
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -922,6 +1021,7 @@ Run scored: 2
 Balls faced: 6
 Bowler: Scholtz
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -932,6 +1032,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Scholtz
 Over: 9
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -942,6 +1043,7 @@ Run scored: 4
 Balls faced: 8
 Bowler: Lungameni
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -952,6 +1054,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Lungameni
 Over: 10
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -962,6 +1065,7 @@ Run scored: 4
 Balls faced: 10
 Bowler: Lungameni
 Over: 10
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -974,6 +1078,7 @@ Match: all_games_1434088_1434102.json
 Balls faced: 1
 Bowler: Motie
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -984,6 +1089,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Shepherd
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -994,6 +1100,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Shepherd
 Over: 11
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1004,6 +1111,7 @@ Run scored: 4
 Balls faced: 4
 Bowler: Shepherd
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1014,6 +1122,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Shepherd
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1024,6 +1133,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Motie
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1034,6 +1144,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Motie
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1044,6 +1155,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Motie
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1054,6 +1166,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Motie
 Over: 12
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1064,6 +1177,7 @@ Run scored: 4
 Balls faced: 10
 Bowler: Motie
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1074,6 +1188,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Shepherd
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1084,6 +1199,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Shepherd
 Over: 11
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1094,6 +1210,7 @@ Run scored: 4
 Balls faced: 13
 Bowler: Shepherd
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1104,6 +1221,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Shepherd
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1114,16 +1232,20 @@ Run scored: 1
 Balls faced: 15
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Wade is OUT! caught
+c Powell b Hosein
+Matthew Wade c Powell b Hosein 25 (14b 3x4 1x6) SR: 178.57
 
 
 
 Balls faced: 16
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1134,6 +1256,7 @@ Run scored: 4
 Balls faced: 17
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -1144,6 +1267,7 @@ Run scored: 6
 Balls faced: 18
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1154,6 +1278,7 @@ Run scored: 1
 Balls faced: 19
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1164,6 +1289,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Motie
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1174,6 +1300,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Motie
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1184,6 +1311,7 @@ Run scored: 1
 Balls faced: 22
 Bowler: Motie
 Over: 12
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1194,6 +1322,7 @@ Run scored: 4
 Balls faced: 23
 Bowler: Motie
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1204,16 +1333,20 @@ Run scored: 0
 Balls faced: 24
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Wade is OUT! caught
+c Powell b Hosein
+Matthew Wade c Powell b Hosein 25 (14b 3x4 1x6) SR: 178.57
 
 
 
 Balls faced: 25
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1224,6 +1357,7 @@ Run scored: 4
 Balls faced: 26
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -1234,6 +1368,7 @@ Run scored: 6
 Balls faced: 27
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1244,5 +1379,6 @@ Run scored: 1
 Balls faced: 28
 Bowler: Hosein
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
