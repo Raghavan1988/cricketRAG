@@ -2,6 +2,7 @@ Match: all_games_1375837_1415302.json
 Balls faced: 1
 Bowler: Shamar Joseph
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -12,6 +13,7 @@ Byes: 4
 Balls faced: 2
 Bowler: Shamar Joseph
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Shamar Joseph
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -32,6 +35,7 @@ Byes: 4
 Balls faced: 4
 Bowler: Shamar Joseph
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Shamar Joseph
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Shamar Joseph
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -62,6 +68,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Shamar Joseph
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -72,6 +79,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Shamar Joseph
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -82,16 +90,18 @@ Run scored: 1
 Balls faced: 9
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
 
 
-[{"type": "HTML", "html": "Match State: Drinks"}]Match State: Drinks
+Match State: Drinks
 
 Balls faced: 10
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -102,6 +112,7 @@ Run scored: 4
 Balls faced: 11
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -112,6 +123,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -122,6 +134,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -132,6 +145,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -142,6 +156,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Akeem Jordan
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -152,16 +167,18 @@ Run scored: 0
 Balls faced: 16
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
 
 
-[{"type": "HTML", "html": "Match State: Drinks"}]Match State: Drinks
+Match State: Drinks
 
 Balls faced: 17
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -172,6 +189,7 @@ Run scored: 4
 Balls faced: 18
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -182,6 +200,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -192,6 +211,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -212,6 +233,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -222,6 +244,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -232,6 +255,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -242,6 +266,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -252,6 +277,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -262,6 +288,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Akeem Jordan
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -272,6 +299,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -282,6 +310,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -292,6 +321,7 @@ Run scored: 0
 Balls faced: 30
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -302,6 +332,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -312,6 +343,7 @@ Run scored: 0
 Balls faced: 32
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -322,6 +354,7 @@ Run scored: 0
 Balls faced: 33
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -332,6 +365,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -342,6 +376,7 @@ Run scored: 1
 Balls faced: 35
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -352,6 +387,7 @@ Run scored: 0
 Balls faced: 36
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -362,6 +398,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -372,6 +409,7 @@ Run scored: 0
 Balls faced: 38
 Bowler: Shamar Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -382,6 +420,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Greaves
 Over: 21
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -392,6 +431,7 @@ Run scored: 2
 Balls faced: 40
 Bowler: Greaves
 Over: 21
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -402,6 +442,7 @@ Run scored: 0
 Balls faced: 41
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -412,6 +453,7 @@ Run scored: 0
 Balls faced: 42
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -422,6 +464,7 @@ Run scored: 0
 Balls faced: 43
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -432,6 +475,7 @@ Run scored: 0
 Balls faced: 44
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -442,6 +486,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -452,6 +497,7 @@ Run scored: 0
 Balls faced: 46
 Bowler: Akeem Jordan
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -462,6 +508,7 @@ Run scored: 0
 Balls faced: 47
 Bowler: Motie
 Over: 22
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -472,6 +519,7 @@ Run scored: 1
 Balls faced: 48
 Bowler: Motie
 Over: 22
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -482,6 +530,7 @@ Run scored: 0
 Balls faced: 49
 Bowler: Greaves
 Over: 21
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -492,6 +541,7 @@ Run scored: 2
 Balls faced: 50
 Bowler: Greaves
 Over: 21
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -502,6 +552,7 @@ Run scored: 0
 Balls faced: 51
 Bowler: Greaves
 Over: 23
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -512,6 +563,7 @@ Run scored: 1
 Balls faced: 52
 Bowler: Greaves
 Over: 23
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -522,6 +574,7 @@ Run scored: 0
 Balls faced: 53
 Bowler: Greaves
 Over: 23
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -532,6 +585,7 @@ Run scored: 0
 Balls faced: 54
 Bowler: Greaves
 Over: 23
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -542,6 +596,7 @@ Run scored: 2
 Balls faced: 55
 Bowler: Motie
 Over: 22
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -552,6 +607,7 @@ Run scored: 1
 Balls faced: 56
 Bowler: Motie
 Over: 22
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -562,6 +618,7 @@ Run scored: 0
 Balls faced: 57
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -572,6 +629,7 @@ Run scored: 0
 Balls faced: 58
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -582,6 +640,7 @@ Run scored: 0
 Balls faced: 59
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -592,6 +651,7 @@ Run scored: 0
 Balls faced: 60
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -602,6 +662,7 @@ Run scored: 0
 Balls faced: 61
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -612,6 +673,7 @@ Run scored: 0
 Balls faced: 62
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -622,6 +684,7 @@ Run scored: 0
 Balls faced: 63
 Bowler: Greaves
 Over: 23
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -632,6 +695,7 @@ Run scored: 1
 Balls faced: 64
 Bowler: Greaves
 Over: 23
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -642,6 +706,7 @@ Run scored: 0
 Balls faced: 65
 Bowler: Greaves
 Over: 23
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -652,6 +717,7 @@ Run scored: 0
 Balls faced: 66
 Bowler: Greaves
 Over: 23
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -662,6 +728,7 @@ Run scored: 2
 Balls faced: 67
 Bowler: Greaves
 Over: 25
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -672,6 +739,7 @@ Run scored: 0
 Balls faced: 68
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -682,6 +750,7 @@ Run scored: 0
 Balls faced: 69
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -692,6 +761,7 @@ Run scored: 0
 Balls faced: 70
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -702,6 +772,7 @@ Run scored: 0
 Balls faced: 71
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -712,6 +783,7 @@ Run scored: 0
 Balls faced: 72
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -722,6 +794,7 @@ Run scored: 0
 Balls faced: 73
 Bowler: Motie
 Over: 24
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -732,6 +805,7 @@ Run scored: 0
 Balls faced: 74
 Bowler: Motie
 Over: 26
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -742,6 +816,7 @@ Run scored: 1
 Balls faced: 75
 Bowler: Greaves
 Over: 25
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -752,16 +827,20 @@ Run scored: 0
 Balls faced: 76
 Bowler: Shamar Joseph
 Over: 27
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Wyllie is OUT! bowled
+ b Joseph
+Teague Wyllie b Joseph 13 (42b 1x4 0x6) SR: 30.95
 
 
 
 Balls faced: 77
 Bowler: Shamar Joseph
 Over: 27
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -772,6 +851,7 @@ Run scored: 0
 Balls faced: 78
 Bowler: Shamar Joseph
 Over: 27
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -782,6 +862,7 @@ Run scored: 0
 Balls faced: 79
 Bowler: Shamar Joseph
 Over: 27
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -792,6 +873,7 @@ Run scored: 0
 Balls faced: 80
 Bowler: Motie
 Over: 26
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -802,16 +884,20 @@ Run scored: 1
 Balls faced: 81
 Bowler: Shamar Joseph
 Over: 27
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Wyllie is OUT! bowled
+ b Joseph
+Teague Wyllie b Joseph 13 (42b 1x4 0x6) SR: 30.95
 
 
 
 Balls faced: 82
 Bowler: Shamar Joseph
 Over: 27
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -822,6 +908,7 @@ Run scored: 0
 Balls faced: 83
 Bowler: Shamar Joseph
 Over: 27
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -832,5 +919,6 @@ Run scored: 0
 Balls faced: 84
 Bowler: Shamar Joseph
 Over: 27
+ 
 Shot: No Shot
 Run scored: 0

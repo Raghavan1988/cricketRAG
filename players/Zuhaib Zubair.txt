@@ -2,6 +2,7 @@ Match: all_games_1420525_1421071.json
 Balls faced: 1
 Bowler: Sharif
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Sharif
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Sharif
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Sharif
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -42,16 +46,20 @@ Run scored: 0
 Balls faced: 5
 Bowler: Currie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
+Zuhaib Zubair is OUT! caught
+c Tear b Currie
+Muhammad Zuhaib c Tear b Currie 4 (8b 0x4 0x6 6m) SR: 50
 
 
 
 Balls faced: 6
 Bowler: Currie
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -62,6 +70,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: Currie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 1
 
@@ -72,6 +81,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Currie
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -82,6 +92,7 @@ Wide: 1
 Balls faced: 9
 Bowler: Currie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -92,6 +103,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Sharif
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -102,6 +114,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Sharif
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -112,6 +125,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Sharif
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -122,6 +136,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Sharif
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -132,16 +147,20 @@ Run scored: 0
 Balls faced: 14
 Bowler: Currie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
+Zuhaib Zubair is OUT! caught
+c Tear b Currie
+Muhammad Zuhaib c Tear b Currie 4 (8b 0x4 0x6 6m) SR: 50
 
 
 
 Balls faced: 15
 Bowler: Currie
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -152,6 +171,7 @@ Run scored: 2
 Balls faced: 16
 Bowler: Currie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 1
 
@@ -162,6 +182,7 @@ Run scored: 1
 Balls faced: 17
 Bowler: Currie
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -172,6 +193,7 @@ Wide: 1
 Balls faced: 18
 Bowler: Currie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -184,6 +206,7 @@ Match: all_games_1421067_1421079.json
 Balls faced: 1
 Bowler: Leask
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 2
 
@@ -194,6 +217,7 @@ Run scored: 2
 Balls faced: 2
 Bowler: Leask
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -204,6 +228,7 @@ Run scored: 4
 Balls faced: 3
 Bowler: Hamza Tahir
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -214,6 +239,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Hamza Tahir
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -224,6 +250,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Hamza Tahir
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -234,6 +261,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Hamza Tahir
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
@@ -244,6 +272,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: Leask
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 2
 
@@ -254,6 +283,7 @@ Run scored: 2
 Balls faced: 8
 Bowler: Leask
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -264,6 +294,7 @@ Run scored: 4
 Balls faced: 9
 Bowler: Dickinson
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -274,6 +305,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Dickinson
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -284,6 +316,7 @@ Run scored: 2
 Balls faced: 11
 Bowler: Dickinson
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -294,6 +327,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Hamza Tahir
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -304,6 +338,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Hamza Tahir
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -314,6 +349,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Hamza Tahir
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -324,6 +360,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Hamza Tahir
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
@@ -334,6 +371,7 @@ Run scored: 2
 Balls faced: 16
 Bowler: Dickinson
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -344,6 +382,7 @@ Run scored: 1
 Balls faced: 17
 Bowler: Dickinson
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -354,5 +393,6 @@ Run scored: 2
 Balls faced: 18
 Bowler: Dickinson
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1

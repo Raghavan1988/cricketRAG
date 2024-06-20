@@ -2,16 +2,20 @@ Match: all_games_1410505_1410547.json
 Balls faced: 1
 Bowler: Farrant
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Wyatt is OUT! caught
+c Scholfield b Farrant
+Danni Wyatt c Scholfield b Farrant 1 (6b 0x4 0x6 8m) SR: 16.66
 
 
 
 Balls faced: 2
 Bowler: Farrant
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -22,6 +26,7 @@ No Balls: 1
 Balls faced: 3
 Bowler: Farrant
 Over: 2
+ 
 Shot: DROP_AND_RUN
 Run scored: 1
 
@@ -32,6 +37,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Farrant
 Over: 2
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -42,6 +48,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Farrant
 Over: 2
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -52,16 +59,20 @@ Run scored: 0
 Balls faced: 6
 Bowler: Farrant
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Wyatt is OUT! caught
+c Scholfield b Farrant
+Danni Wyatt c Scholfield b Farrant 1 (6b 0x4 0x6 8m) SR: 16.66
 
 
 
 Balls faced: 7
 Bowler: Farrant
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -72,6 +83,7 @@ No Balls: 1
 Balls faced: 8
 Bowler: Farrant
 Over: 2
+ 
 Shot: DROP_AND_RUN
 Run scored: 1
 
@@ -82,6 +94,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Farrant
 Over: 2
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -92,5 +105,6 @@ Run scored: 0
 Balls faced: 10
 Bowler: Farrant
 Over: 2
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0

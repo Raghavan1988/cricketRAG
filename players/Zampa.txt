@@ -2,201 +2,221 @@ Match: all_games_1375837_1375848.json
 Balls faced: 1
 Bowler: Shepherd
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "back of a length, wide of off, he opens the face and glides this nicely wide of deep third for a couple"}]back of a length, wide of off, he opens the face and glides this nicely wide of deep third for a couple
-[{"type": "HTML", "html": "Brad: \"Will 250 be enough to defend \""}]Brad: "Will 250 be enough to defend "
+back of a length, wide of off, he opens the face and glides this nicely wide of deep third for a couple
+Brad: "Will 250 be enough to defend "
 
 Balls faced: 2
 Bowler: Shepherd
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 135kph, angled into off, he defends off the back foot to cover"}]good length, 135kph, angled into off, he defends off the back foot to cover
+good length, 135kph, angled into off, he defends off the back foot to cover
 
 
 Balls faced: 3
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "139kph, short ball at the body, Zampa plays an awkward pull in the air behind square but it lands safe"}]139kph, short ball at the body, Zampa plays an awkward pull in the air behind square but it lands safe
+139kph, short ball at the body, Zampa plays an awkward pull in the air behind square but it lands safe
 
 
 Balls faced: 4
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "139kph, back of a length, on off, he's back to defend behind point to rotate the strike"}]139kph, back of a length, on off, he's back to defend behind point to rotate the strike
+139kph, back of a length, on off, he's back to defend behind point to rotate the strike
 
 
 Balls faced: 5
 Bowler: Shepherd
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "back of a length, wide of off, he opens the face and glides this nicely wide of deep third for a couple"}]back of a length, wide of off, he opens the face and glides this nicely wide of deep third for a couple
-[{"type": "HTML", "html": "Brad: \"Will 250 be enough to defend \""}]Brad: "Will 250 be enough to defend "
+back of a length, wide of off, he opens the face and glides this nicely wide of deep third for a couple
+Brad: "Will 250 be enough to defend "
 
 Balls faced: 6
 Bowler: Shepherd
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 135kph, angled into off, he defends off the back foot to cover"}]good length, 135kph, angled into off, he defends off the back foot to cover
+good length, 135kph, angled into off, he defends off the back foot to cover
 
 
 Balls faced: 7
 Bowler: Forde
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "123kph, full on middle, he defends with the full face to ensure Abbott has the strike next over"}]123kph, full on middle, he defends with the full face to ensure Abbott has the strike next over
-[{"type": "HTML", "html": "Eye of Sauron : \"Second time in two years that Abbott has scored a half century from no.8 in ODIs. He scored 54 vs India at Indore in September 2023.\" Second time in two innings for Abbott. Hasn't batted in ODIs in between"}]Eye of Sauron : "Second time in two years that Abbott has scored a half century from no.8 in ODIs. He scored 54 vs India at Indore in September 2023." Second time in two innings for Abbott. Hasn't batted in ODIs in between
+123kph, full on middle, he defends with the full face to ensure Abbott has the strike next over
+Eye of Sauron : "Second time in two years that Abbott has scored a half century from no.8 in ODIs. He scored 54 vs India at Indore in September 2023." Second time in two innings for Abbott. Hasn't batted in ODIs in between
 
 Balls faced: 8
 Bowler: Forde
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball angled well down leg and Zampa leaves it for a wide"}]slower ball angled well down leg and Zampa leaves it for a wide
+slower ball angled well down leg and Zampa leaves it for a wide
 
 Wide: 1
 Balls faced: 9
 Bowler: Forde
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full at middle and off, 127kph, he drives to long-on"}]full at middle and off, 127kph, he drives to long-on
+full at middle and off, 127kph, he drives to long-on
 
 
 Balls faced: 10
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "139kph, short ball at the body, Zampa plays an awkward pull in the air behind square but it lands safe"}]139kph, short ball at the body, Zampa plays an awkward pull in the air behind square but it lands safe
+139kph, short ball at the body, Zampa plays an awkward pull in the air behind square but it lands safe
 
 
 Balls faced: 11
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "139kph, back of a length, on off, he's back to defend behind point to rotate the strike"}]139kph, back of a length, on off, he's back to defend behind point to rotate the strike
+139kph, back of a length, on off, he's back to defend behind point to rotate the strike
 
 
 Balls faced: 12
 Bowler: Shepherd
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, 135kph, he tucks this to gap at midwicket for a single"}]full on middle, 135kph, he tucks this to gap at midwicket for a single
+full on middle, 135kph, he tucks this to gap at midwicket for a single
 
 
 Balls faced: 13
 Bowler: Forde
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "123kph, full on middle, he defends with the full face to ensure Abbott has the strike next over"}]123kph, full on middle, he defends with the full face to ensure Abbott has the strike next over
-[{"type": "HTML", "html": "Eye of Sauron : \"Second time in two years that Abbott has scored a half century from no.8 in ODIs. He scored 54 vs India at Indore in September 2023.\" Second time in two innings for Abbott. Hasn't batted in ODIs in between"}]Eye of Sauron : "Second time in two years that Abbott has scored a half century from no.8 in ODIs. He scored 54 vs India at Indore in September 2023." Second time in two innings for Abbott. Hasn't batted in ODIs in between
+123kph, full on middle, he defends with the full face to ensure Abbott has the strike next over
+Eye of Sauron : "Second time in two years that Abbott has scored a half century from no.8 in ODIs. He scored 54 vs India at Indore in September 2023." Second time in two innings for Abbott. Hasn't batted in ODIs in between
 
 Balls faced: 14
 Bowler: Forde
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball angled well down leg and Zampa leaves it for a wide"}]slower ball angled well down leg and Zampa leaves it for a wide
+slower ball angled well down leg and Zampa leaves it for a wide
 
 Wide: 1
 Balls faced: 15
 Bowler: Forde
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full at middle and off, 127kph, he drives to long-on"}]full at middle and off, 127kph, he drives to long-on
+full at middle and off, 127kph, he drives to long-on
 
 
 Balls faced: 16
 Bowler: Forde
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball outside off, he lofts this high towards to deep point, they opt not to try for a second run! Probably would have been run out but surprising they didn't try"}]slower ball outside off, he lofts this high towards to deep point, they opt not to try for a second run! Probably would have been run out but surprising they didn't try
-[{"type": "HTML", "html": "<strong>5.58pm Innings break</strong> A middling score from Australia. They would have wanted more but it also could have been much worse without a superb innings from Sean Abbott. His 69 from 63 might be the difference in the game. Matt Short played well after coming in under pressure. Will Sutherland also played an important hand with Abbott. Green, Labuschagne and Hardie all made starts but couldn't kick on. West Indies bowled well led by Forde and Motie in particular. Won't be an easy chase though. Australia have seen what lengths they need to bowl. Ekanth will be back for the start of the chase."}, {"type": "HTML", "html": "Shane: \"WI still have the greatest chance of winning this one according to SmartStats... will be interesting to see how they fare on this pitch. It was a tricky one to play throughout the BBL and was often two paced and \"tacky\"\""}, {"type": "HTML", "html": "Jrm: \"If Australia gets 3-4 wickets in the powerplay they might kill this game in the middle overs, backing abbot to be the mom\""}]<strong>5.58pm Innings break</strong> A middling score from Australia. They would have wanted more but it also could have been much worse without a superb innings from Sean Abbott. His 69 from 63 might be the difference in the game. Matt Short played well after coming in under pressure. Will Sutherland also played an important hand with Abbott. Green, Labuschagne and Hardie all made starts but couldn't kick on. West Indies bowled well led by Forde and Motie in particular. Won't be an easy chase though. Australia have seen what lengths they need to bowl. Ekanth will be back for the start of the chase. Shane: "WI still have the greatest chance of winning this one according to SmartStats... will be interesting to see how they fare on this pitch. It was a tricky one to play throughout the BBL and was often two paced and "tacky"" Jrm: "If Australia gets 3-4 wickets in the powerplay they might kill this game in the middle overs, backing abbot to be the mom"
+slower ball outside off, he lofts this high towards to deep point, they opt not to try for a second run! Probably would have been run out but surprising they didn't try
+<strong>5.58pm Innings break</strong> A middling score from Australia. They would have wanted more but it also could have been much worse without a superb innings from Sean Abbott. His 69 from 63 might be the difference in the game. Matt Short played well after coming in under pressure. Will Sutherland also played an important hand with Abbott. Green, Labuschagne and Hardie all made starts but couldn't kick on. West Indies bowled well led by Forde and Motie in particular. Won't be an easy chase though. Australia have seen what lengths they need to bowl. Ekanth will be back for the start of the chase. Shane: "WI still have the greatest chance of winning this one according to SmartStats... will be interesting to see how they fare on this pitch. It was a tricky one to play throughout the BBL and was often two paced and "tacky"" Jrm: "If Australia gets 3-4 wickets in the powerplay they might kill this game in the middle overs, backing abbot to be the mom"
 
 Balls faced: 17
 Bowler: Forde
 Over: 50
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beaten by an excellent slower ball as he tries to heave leg side"}]beaten by an excellent slower ball as he tries to heave leg side
+beaten by an excellent slower ball as he tries to heave leg side
 
 
 Balls faced: 18
 Bowler: Forde
 Over: 50
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Thomas drops a sitter!</strong> Slower ball deceives Zampa, he gets under it and pops it up to mid-on, thomas gets under it but completely misses it! That's a bad miss"}]<strong>Thomas drops a sitter!</strong> Slower ball deceives Zampa, he gets under it and pops it up to mid-on, thomas gets under it but completely misses it! That's a bad miss
+<strong>Thomas drops a sitter!</strong> Slower ball deceives Zampa, he gets under it and pops it up to mid-on, thomas gets under it but completely misses it! That's a bad miss
 
 
 Balls faced: 19
 Bowler: Forde
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SCOOP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "shapes for the scoop very early! Gets a 99kph, slower ball wide of off and can't lay bat on it"}]shapes for the scoop very early! Gets a 99kph, slower ball wide of off and can't lay bat on it
-[{"type": "HTML", "html": "Rob : \"Love it when a bowler's innings is the difference between being skittled for under 200 and posting 250 plus and winning! ... yes, it'll be enough!\""}]Rob : "Love it when a bowler's innings is the difference between being skittled for under 200 and posting 250 plus and winning! ... yes, it'll be enough!"
+shapes for the scoop very early! Gets a 99kph, slower ball wide of off and can't lay bat on it
+Rob : "Love it when a bowler's innings is the difference between being skittled for under 200 and posting 250 plus and winning! ... yes, it'll be enough!"
 
 Balls faced: 20
 Bowler: Shepherd
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, 135kph, he tucks this to gap at midwicket for a single"}]full on middle, 135kph, he tucks this to gap at midwicket for a single
+full on middle, 135kph, he tucks this to gap at midwicket for a single
 
 
 
@@ -204,83 +224,95 @@ Match: all_games_1375837_1375850.json
 Balls faced: 1
 Bowler: Russell
 Over: 20
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "finishes with a boundary...no hat-trick. Gets the line wrong, into the pads, and Zampa flicks wide of short fine leg"}]finishes with a boundary...no hat-trick. Gets the line wrong, into the pads, and Zampa flicks wide of short fine leg
-[{"type": "HTML", "html": "Australia have piled up a big total. Overall a very good innings. Was set up by David Warner and Josh Inglis then Tim David helped finish it off after a bit of a middle-order wobble. West Indies weren't great in the first 10 overs but pulled it back a bit before Australia went again. Still, this is a good pitch with some short boundaries - and the wind to help in one direction. Could be a good chase. You'd think Australia's attack will have learnt from the first innings. Alex will be with you shortly"}]Australia have piled up a big total. Overall a very good innings. Was set up by David Warner and Josh Inglis then Tim David helped finish it off after a bit of a middle-order wobble. West Indies weren't great in the first 10 overs but pulled it back a bit before Australia went again. Still, this is a good pitch with some short boundaries - and the wind to help in one direction. Could be a good chase. You'd think Australia's attack will have learnt from the first innings. Alex will be with you shortly
+finishes with a boundary...no hat-trick. Gets the line wrong, into the pads, and Zampa flicks wide of short fine leg
+Australia have piled up a big total. Overall a very good innings. Was set up by David Warner and Josh Inglis then Tim David helped finish it off after a bit of a middle-order wobble. West Indies weren't great in the first 10 overs but pulled it back a bit before Australia went again. Still, this is a good pitch with some short boundaries - and the wind to help in one direction. Could be a good chase. You'd think Australia's attack will have learnt from the first innings. Alex will be with you shortly
 
 Balls faced: 2
 Bowler: Russell
 Over: 20
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "finishes with a boundary...no hat-trick. Gets the line wrong, into the pads, and Zampa flicks wide of short fine leg"}]finishes with a boundary...no hat-trick. Gets the line wrong, into the pads, and Zampa flicks wide of short fine leg
-[{"type": "HTML", "html": "Australia have piled up a big total. Overall a very good innings. Was set up by David Warner and Josh Inglis then Tim David helped finish it off after a bit of a middle-order wobble. West Indies weren't great in the first 10 overs but pulled it back a bit before Australia went again. Still, this is a good pitch with some short boundaries - and the wind to help in one direction. Could be a good chase. You'd think Australia's attack will have learnt from the first innings. Alex will be with you shortly"}]Australia have piled up a big total. Overall a very good innings. Was set up by David Warner and Josh Inglis then Tim David helped finish it off after a bit of a middle-order wobble. West Indies weren't great in the first 10 overs but pulled it back a bit before Australia went again. Still, this is a good pitch with some short boundaries - and the wind to help in one direction. Could be a good chase. You'd think Australia's attack will have learnt from the first innings. Alex will be with you shortly
+finishes with a boundary...no hat-trick. Gets the line wrong, into the pads, and Zampa flicks wide of short fine leg
+Australia have piled up a big total. Overall a very good innings. Was set up by David Warner and Josh Inglis then Tim David helped finish it off after a bit of a middle-order wobble. West Indies weren't great in the first 10 overs but pulled it back a bit before Australia went again. Still, this is a good pitch with some short boundaries - and the wind to help in one direction. Could be a good chase. You'd think Australia's attack will have learnt from the first innings. Alex will be with you shortly
 
 
 Match: all_games_1388188_1388224.json
 Balls faced: 1
 Bowler: Milne
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Zampa shapes for the scoop over fine leg and shows his ace early. Milne darts it full and wide of off. Zampa changes his shot into a ramp at the last moment but is beaten in the end"}]Zampa shapes for the scoop over fine leg and shows his ace early. Milne darts it full and wide of off. Zampa changes his shot into a ramp at the last moment but is beaten in the end
+Zampa shapes for the scoop over fine leg and shows his ace early. Milne darts it full and wide of off. Zampa changes his shot into a ramp at the last moment but is beaten in the end
 
 
 Balls faced: 2
 Bowler: Ferguson
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Plinked to Santner at mid-off. Zampa backs away, Ferguson follows him with a hard-length delivery and has him mis-hitting it to the NZ captain"}]Plinked to Santner at mid-off. Zampa backs away, Ferguson follows him with a hard-length delivery and has him mis-hitting it to the NZ captain
-[{"type": "HTML", "html": "No.11 Hazlewood"}]No.11 Hazlewood
+Zampa is OUT! caught
+c Santner b Ferguson
+Adam Zampa c Santner b Ferguson 1 (3b 0x4 0x6 4m) SR: 33.33
+Plinked to Santner at mid-off. Zampa backs away, Ferguson follows him with a hard-length delivery and has him mis-hitting it to the NZ captain
+No.11 Hazlewood
 
 Balls faced: 3
 Bowler: Ferguson
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fast, full at the stumps, squeezed to Santner at mid-off"}]fast, full at the stumps, squeezed to Santner at mid-off
+fast, full at the stumps, squeezed to Santner at mid-off
 
 
 Balls faced: 4
 Bowler: Milne
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Zampa shapes for the scoop over fine leg and shows his ace early. Milne darts it full and wide of off. Zampa changes his shot into a ramp at the last moment but is beaten in the end"}]Zampa shapes for the scoop over fine leg and shows his ace early. Milne darts it full and wide of off. Zampa changes his shot into a ramp at the last moment but is beaten in the end
+Zampa shapes for the scoop over fine leg and shows his ace early. Milne darts it full and wide of off. Zampa changes his shot into a ramp at the last moment but is beaten in the end
 
 
 Balls faced: 5
 Bowler: Ferguson
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Plinked to Santner at mid-off. Zampa backs away, Ferguson follows him with a hard-length delivery and has him mis-hitting it to the NZ captain"}]Plinked to Santner at mid-off. Zampa backs away, Ferguson follows him with a hard-length delivery and has him mis-hitting it to the NZ captain
-[{"type": "HTML", "html": "No.11 Hazlewood"}]No.11 Hazlewood
+Zampa is OUT! caught
+c Santner b Ferguson
+Adam Zampa c Santner b Ferguson 1 (3b 0x4 0x6 4m) SR: 33.33
+Plinked to Santner at mid-off. Zampa backs away, Ferguson follows him with a hard-length delivery and has him mis-hitting it to the NZ captain
+No.11 Hazlewood
 
 Balls faced: 6
 Bowler: Ferguson
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fast, full at the stumps, squeezed to Santner at mid-off"}]fast, full at the stumps, squeezed to Santner at mid-off
+fast, full at the stumps, squeezed to Santner at mid-off
 
 
 
@@ -288,6 +320,7 @@ Match: all_games_1434088_1434102.json
 Balls faced: 1
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -298,6 +331,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -308,6 +342,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -318,6 +353,7 @@ Legbyes: 1
 Balls faced: 4
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -328,6 +364,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -338,6 +375,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -348,6 +386,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -358,6 +397,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -368,6 +408,7 @@ Legbyes: 1
 Balls faced: 9
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -378,6 +419,7 @@ Run scored: 4
 Balls faced: 10
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -388,6 +430,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -398,6 +441,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -408,6 +452,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -418,6 +463,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -428,6 +474,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -438,6 +485,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -448,6 +496,7 @@ Run scored: 4
 Balls faced: 17
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -458,6 +507,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -468,6 +518,7 @@ Run scored: 1
 Balls faced: 19
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -478,6 +529,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -488,6 +540,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -498,6 +551,7 @@ Run scored: 1
 Balls faced: 22
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -508,6 +562,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: McCoy
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -518,6 +573,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: McCoy
 Over: 20
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -528,6 +584,7 @@ Run scored: 6
 Balls faced: 25
 Bowler: McCoy
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -538,6 +595,7 @@ Run scored: 4
 Balls faced: 26
 Bowler: McCoy
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -548,6 +606,7 @@ Run scored: 1
 Balls faced: 27
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -558,6 +617,7 @@ Run scored: 1
 Balls faced: 28
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -568,6 +628,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: McCoy
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -578,6 +639,7 @@ Run scored: 0
 Balls faced: 30
 Bowler: McCoy
 Over: 20
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -588,6 +650,7 @@ Run scored: 6
 Balls faced: 31
 Bowler: McCoy
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -598,5 +661,6 @@ Run scored: 4
 Balls faced: 32
 Bowler: McCoy
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
