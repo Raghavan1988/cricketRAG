@@ -2,151 +2,166 @@ Match: all_games_1387592_1387603.json
 Balls faced: 1
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length and moving away from outside off, left alone"}]short of length and moving away from outside off, left alone
+short of length and moving away from outside off, left alone
 
 
 Balls faced: 2
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "plays inside the line as this short of length ball zips past"}]plays inside the line as this short of length ball zips past
+plays inside the line as this short of length ball zips past
 
 
 Balls faced: 3
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beauty! Beaten by one that leaves him late"}]beauty! Beaten by one that leaves him late
+beauty! Beaten by one that leaves him late
 
 
 Balls faced: 4
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "rears up on Bumrah as he shapes to defend, he's squared up in the end as this zips through to the keeper. Looks like he has overstepped"}]rears up on Bumrah as he shapes to defend, he's squared up in the end as this zips through to the keeper. Looks like he has overstepped
+rears up on Bumrah as he shapes to defend, he's squared up in the end as this zips through to the keeper. Looks like he has overstepped
 
 No Balls: 1
 Balls faced: 5
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Bumrah in at No. 9"}]Bumrah in at No. 9
+Bumrah in at No. 9
 
-[{"type": "HTML", "html": "this one keeps just a tad low, Bumrah defends to the off side"}]this one keeps just a tad low, Bumrah defends to the off side
+this one keeps just a tad low, Bumrah defends to the off side
 
 
 Balls faced: 6
 Bowler: Burger
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nips back in towards middle and leg, defended"}]nips back in towards middle and leg, defended
+nips back in towards middle and leg, defended
 
 
 Balls faced: 7
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length and moving away from outside off, left alone"}]short of length and moving away from outside off, left alone
+short of length and moving away from outside off, left alone
 
 
 Balls faced: 8
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "plays inside the line as this short of length ball zips past"}]plays inside the line as this short of length ball zips past
+plays inside the line as this short of length ball zips past
 
 
 Balls faced: 9
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beauty! Beaten by one that leaves him late"}]beauty! Beaten by one that leaves him late
+beauty! Beaten by one that leaves him late
 
 
 Balls faced: 10
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "rears up on Bumrah as he shapes to defend, he's squared up in the end as this zips through to the keeper. Looks like he has overstepped"}]rears up on Bumrah as he shapes to defend, he's squared up in the end as this zips through to the keeper. Looks like he has overstepped
+rears up on Bumrah as he shapes to defend, he's squared up in the end as this zips through to the keeper. Looks like he has overstepped
 
 No Balls: 1
 Balls faced: 11
 Bowler: Rabada
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Bumrah in at No. 9"}]Bumrah in at No. 9
+Bumrah in at No. 9
 
-[{"type": "HTML", "html": "this one keeps just a tad low, Bumrah defends to the off side"}]this one keeps just a tad low, Bumrah defends to the off side
+this one keeps just a tad low, Bumrah defends to the off side
 
 
 Balls faced: 12
 Bowler: Burger
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nips back in towards middle and leg, defended"}]nips back in towards middle and leg, defended
+nips back in towards middle and leg, defended
 
 
 Balls faced: 13
 Bowler: Burger
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "leaps high to grab this bouncer that was sailing way over the batter's head"}]leaps high to grab this bouncer that was sailing way over the batter's head
+leaps high to grab this bouncer that was sailing way over the batter's head
 
 Byes: 1
 Balls faced: 14
 Bowler: Burger
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defends right under his eye, he went full on the stumps"}]defends right under his eye, he went full on the stumps
+defends right under his eye, he went full on the stumps
 
 
 Balls faced: 15
 Bowler: Burger
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full'ish and outside off, Bumrah plays inside the line as this zips away."}]full'ish and outside off, Bumrah plays inside the line as this zips away.
+full'ish and outside off, Bumrah plays inside the line as this zips away.
 
 
 
@@ -154,41 +169,49 @@ Match: all_games_1387592_1387604.json
 Balls faced: 1
 Bowler: Ngidi
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "that's three in the over for South Africa and they've come storming back. Dug in short, Bumrah can't get behind the line, is caught in two minds and the steep bounce has its say as the ball balloons off the shoulder of the bat to gully."}]that's three in the over for South Africa and they've come storming back. Dug in short, Bumrah can't get behind the line, is caught in two minds and the steep bounce has its say as the ball balloons off the shoulder of the bat to gully.
-[{"type": "HTML", "html": "We've now seen 17 wickets fall today, the most in a day of Test cricket at Newlands."}]We've now seen 17 wickets fall today, the most in a day of Test cricket at Newlands.
+Bumrah is OUT! caught
+c Jansen b Ngidi
+Jasprit Bumrah c Jansen b Ngidi 0 (2b 0x4 0x6 1m) SR: 0
+that's three in the over for South Africa and they've come storming back. Dug in short, Bumrah can't get behind the line, is caught in two minds and the steep bounce has its say as the ball balloons off the shoulder of the bat to gully.
+We've now seen 17 wickets fall today, the most in a day of Test cricket at Newlands.
 
 Balls faced: 2
 Bowler: Ngidi
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Bumrah at No. 8."}]Bumrah at No. 8.
+Bumrah at No. 8.
 
-[{"type": "HTML", "html": "squared up but manages to defend as he gets behind the line."}]squared up but manages to defend as he gets behind the line.
+squared up but manages to defend as he gets behind the line.
 
 
 Balls faced: 3
 Bowler: Ngidi
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "that's three in the over for South Africa and they've come storming back. Dug in short, Bumrah can't get behind the line, is caught in two minds and the steep bounce has its say as the ball balloons off the shoulder of the bat to gully."}]that's three in the over for South Africa and they've come storming back. Dug in short, Bumrah can't get behind the line, is caught in two minds and the steep bounce has its say as the ball balloons off the shoulder of the bat to gully.
-[{"type": "HTML", "html": "We've now seen 17 wickets fall today, the most in a day of Test cricket at Newlands."}]We've now seen 17 wickets fall today, the most in a day of Test cricket at Newlands.
+Bumrah is OUT! caught
+c Jansen b Ngidi
+Jasprit Bumrah c Jansen b Ngidi 0 (2b 0x4 0x6 1m) SR: 0
+that's three in the over for South Africa and they've come storming back. Dug in short, Bumrah can't get behind the line, is caught in two minds and the steep bounce has its say as the ball balloons off the shoulder of the bat to gully.
+We've now seen 17 wickets fall today, the most in a day of Test cricket at Newlands.
 
 Balls faced: 4
 Bowler: Ngidi
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Bumrah at No. 8."}]Bumrah at No. 8.
+Bumrah at No. 8.
 
-[{"type": "HTML", "html": "squared up but manages to defend as he gets behind the line."}]squared up but manages to defend as he gets behind the line.
+squared up but manages to defend as he gets behind the line.
 
 
 
@@ -196,18 +219,24 @@ Match: all_games_1411166_1415719.json
 Balls faced: 1
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Bumrah is in at No. 10."}]Bumrah is in at No. 10.
-
-[{"type": "HTML", "html": "and he's gone first ball. Full and wide, and Bumrah gets a nice stride in to drive, and he hits it well, but hits it in the air, at chest height, straight to Imad at short cover. India nine down"}]and he's gone first ball. Full and wide, and Bumrah gets a nice stride in to drive, and he hits it well, but hits it in the air, at chest height, straight to Imad at short cover. India nine down
+Bumrah is in at No. 10.
+Bumrah is OUT! caught
+c Imad Wasim b Haris Rauf
+Jasprit Bumrah c Imad Wasim b Haris Rauf 0 (1b 0x4 0x6 1m) SR: 0
+and he's gone first ball. Full and wide, and Bumrah gets a nice stride in to drive, and he hits it well, but hits it in the air, at chest height, straight to Imad at short cover. India nine down
 
 
 Balls faced: 2
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Bumrah is in at No. 10."}]Bumrah is in at No. 10.
-
-[{"type": "HTML", "html": "and he's gone first ball. Full and wide, and Bumrah gets a nice stride in to drive, and he hits it well, but hits it in the air, at chest height, straight to Imad at short cover. India nine down"}]and he's gone first ball. Full and wide, and Bumrah gets a nice stride in to drive, and he hits it well, but hits it in the air, at chest height, straight to Imad at short cover. India nine down
+Bumrah is in at No. 10.
+Bumrah is OUT! caught
+c Imad Wasim b Haris Rauf
+Jasprit Bumrah c Imad Wasim b Haris Rauf 0 (1b 0x4 0x6 1m) SR: 0
+and he's gone first ball. Full and wide, and Bumrah gets a nice stride in to drive, and he hits it well, but hits it in the air, at chest height, straight to Imad at short cover. India nine down

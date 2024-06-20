@@ -2,221 +2,247 @@ Match: all_games_1388188_1388224.json
 Balls faced: 1
 Bowler: Cummins
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sliced off a thick outside edge to the left of sweeper cover"}]sliced off a thick outside edge to the left of sweeper cover
+sliced off a thick outside edge to the left of sweeper cover
 
 
 Balls faced: 2
 Bowler: Cummins
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Dave : \"I'm guessing the person who said Zampa needs to be replaced is now enjoying their humble pie.. \""}]Dave : "I'm guessing the person who said Zampa needs to be replaced is now enjoying their humble pie.. "
+Dave : "I'm guessing the person who said Zampa needs to be replaced is now enjoying their humble pie.. "
 
-[{"type": "HTML", "html": "short and wide, smeared away to the off-side sweeper"}]short and wide, smeared away to the off-side sweeper
+short and wide, smeared away to the off-side sweeper
 
 
 Balls faced: 3
 Bowler: Zampa
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly on middle, Boult keeps it out"}]googly on middle, Boult keeps it out
+googly on middle, Boult keeps it out
 
 
 Balls faced: 4
 Bowler: Zampa
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "sukant: \"time for glenn philips to play like glenn maxwell\""}]sukant: "time for glenn philips to play like glenn maxwell"
+sukant: "time for glenn philips to play like glenn maxwell"
 
-[{"type": "HTML", "html": "on a length and turns away outside off, squeezed into the cover-point region"}]on a length and turns away outside off, squeezed into the cover-point region
+on a length and turns away outside off, squeezed into the cover-point region
 
 
 Balls faced: 5
 Bowler: Cummins
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sliced off a thick outside edge to the left of sweeper cover"}]sliced off a thick outside edge to the left of sweeper cover
+sliced off a thick outside edge to the left of sweeper cover
 
 
 Balls faced: 6
 Bowler: Cummins
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Dave : \"I'm guessing the person who said Zampa needs to be replaced is now enjoying their humble pie.. \""}]Dave : "I'm guessing the person who said Zampa needs to be replaced is now enjoying their humble pie.. "
+Dave : "I'm guessing the person who said Zampa needs to be replaced is now enjoying their humble pie.. "
 
-[{"type": "HTML", "html": "short and wide, smeared away to the off-side sweeper"}]short and wide, smeared away to the off-side sweeper
+short and wide, smeared away to the off-side sweeper
 
 
 Balls faced: 7
 Bowler: Hazlewood
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "the flamingo comes out! Lifts his front leg off the floor as the shortish delivery is angled into his body and then calmly nudges it behind square leg"}]the flamingo comes out! Lifts his front leg off the floor as the shortish delivery is angled into his body and then calmly nudges it behind square leg
+the flamingo comes out! Lifts his front leg off the floor as the shortish delivery is angled into his body and then calmly nudges it behind square leg
 
 
 Balls faced: 8
 Bowler: Hazlewood
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looks to smash it into the leg side, but the back of a length ball whistles over the top of his top edge"}]looks to smash it into the leg side, but the back of a length ball whistles over the top of his top edge
-[{"type": "HTML", "html": "ShahSafeer: \"Where's Jimmy Neesham disappeared? He holds really important place batting against good teams in this format. I hope he's in li\""}]ShahSafeer: "Where's Jimmy Neesham disappeared? He holds really important place batting against good teams in this format. I hope he's in li"
+looks to smash it into the leg side, but the back of a length ball whistles over the top of his top edge
+ShahSafeer: "Where's Jimmy Neesham disappeared? He holds really important place batting against good teams in this format. I hope he's in li"
 
 Balls faced: 9
 Bowler: Hazlewood
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "clears the front leg and slaps a good length ball outside off to mid-off"}]clears the front leg and slaps a good length ball outside off to mid-off
+clears the front leg and slaps a good length ball outside off to mid-off
 
 
 Balls faced: 10
 Bowler: Zampa
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly on middle, Boult keeps it out"}]googly on middle, Boult keeps it out
+googly on middle, Boult keeps it out
 
 
 Balls faced: 11
 Bowler: Zampa
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "sukant: \"time for glenn philips to play like glenn maxwell\""}]sukant: "time for glenn philips to play like glenn maxwell"
+sukant: "time for glenn philips to play like glenn maxwell"
 
-[{"type": "HTML", "html": "on a length and turns away outside off, squeezed into the cover-point region"}]on a length and turns away outside off, squeezed into the cover-point region
+on a length and turns away outside off, squeezed into the cover-point region
 
 
 Balls faced: 12
 Bowler: Zampa
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>outside edge</b> and he's gone. Slows it right down. Keeps it tossed up. Boult's eyes light up, seeing he has more opportunities for big hits. The other trick Zampa does here is angle the ball into the right-hander, making him hit against the turn. From there, a little dip, a little grip and money for Smith at backward point"}]<b>outside edge</b> and he's gone. Slows it right down. Keeps it tossed up. Boult's eyes light up, seeing he has more opportunities for big hits. The other trick Zampa does here is angle the ball into the right-hander, making him hit against the turn. From there, a little dip, a little grip and money for Smith at backward point
+Boult is OUT! caught
+c Smith b Zampa
+Trent Boult c Smith b Zampa 16 (11b 1x4 1x6 15m) SR: 145.45
+<b>outside edge</b> and he's gone. Slows it right down. Keeps it tossed up. Boult's eyes light up, seeing he has more opportunities for big hits. The other trick Zampa does here is angle the ball into the right-hander, making him hit against the turn. From there, a little dip, a little grip and money for Smith at backward point
 
 
 Balls faced: 13
 Bowler: Zampa
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "long levers now. Width on offer and Boult makes good use of it, going down on one knee and sending it soaring over wide long-on"}]long levers now. Width on offer and Boult makes good use of it, going down on one knee and sending it soaring over wide long-on
+long levers now. Width on offer and Boult makes good use of it, going down on one knee and sending it soaring over wide long-on
 
 
 Balls faced: 14
 Bowler: Zampa
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
-[{"type": "HTML", "html": "Shubha: \"Australia are doing Australian things in the Australian way. Amazed at their ability to keep winning across generations! That thirst for winning ! Just WoW!\""}]Shubha: "Australia are doing Australian things in the Australian way. Amazed at their ability to keep winning across generations! That thirst for winning ! Just WoW!"
+Shubha: "Australia are doing Australian things in the Australian way. Amazed at their ability to keep winning across generations! That thirst for winning ! Just WoW!"
 
-[{"type": "HTML", "html": "slog sweeps a ball out of the base of off stump, powerful hit. Gets underneath the ball and then its all the strength in his forearms and wrists"}]slog sweeps a ball out of the base of off stump, powerful hit. Gets underneath the ball and then its all the strength in his forearms and wrists
+slog sweeps a ball out of the base of off stump, powerful hit. Gets underneath the ball and then its all the strength in his forearms and wrists
 
 
 Balls faced: 15
 Bowler: Zampa
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "looks to attack, but Zampa gets the ball to dip and drift, securing an inside edge to deep square leg"}]looks to attack, but Zampa gets the ball to dip and drift, securing an inside edge to deep square leg
+looks to attack, but Zampa gets the ball to dip and drift, securing an inside edge to deep square leg
 
 
 Balls faced: 16
 Bowler: Hazlewood
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "the flamingo comes out! Lifts his front leg off the floor as the shortish delivery is angled into his body and then calmly nudges it behind square leg"}]the flamingo comes out! Lifts his front leg off the floor as the shortish delivery is angled into his body and then calmly nudges it behind square leg
+the flamingo comes out! Lifts his front leg off the floor as the shortish delivery is angled into his body and then calmly nudges it behind square leg
 
 
 Balls faced: 17
 Bowler: Hazlewood
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looks to smash it into the leg side, but the back of a length ball whistles over the top of his top edge"}]looks to smash it into the leg side, but the back of a length ball whistles over the top of his top edge
-[{"type": "HTML", "html": "ShahSafeer: \"Where's Jimmy Neesham disappeared? He holds really important place batting against good teams in this format. I hope he's in li\""}]ShahSafeer: "Where's Jimmy Neesham disappeared? He holds really important place batting against good teams in this format. I hope he's in li"
+looks to smash it into the leg side, but the back of a length ball whistles over the top of his top edge
+ShahSafeer: "Where's Jimmy Neesham disappeared? He holds really important place batting against good teams in this format. I hope he's in li"
 
 Balls faced: 18
 Bowler: Hazlewood
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "clears the front leg and slaps a good length ball outside off to mid-off"}]clears the front leg and slaps a good length ball outside off to mid-off
+clears the front leg and slaps a good length ball outside off to mid-off
 
 
 Balls faced: 19
 Bowler: Zampa
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>outside edge</b> and he's gone. Slows it right down. Keeps it tossed up. Boult's eyes light up, seeing he has more opportunities for big hits. The other trick Zampa does here is angle the ball into the right-hander, making him hit against the turn. From there, a little dip, a little grip and money for Smith at backward point"}]<b>outside edge</b> and he's gone. Slows it right down. Keeps it tossed up. Boult's eyes light up, seeing he has more opportunities for big hits. The other trick Zampa does here is angle the ball into the right-hander, making him hit against the turn. From there, a little dip, a little grip and money for Smith at backward point
+Boult is OUT! caught
+c Smith b Zampa
+Trent Boult c Smith b Zampa 16 (11b 1x4 1x6 15m) SR: 145.45
+<b>outside edge</b> and he's gone. Slows it right down. Keeps it tossed up. Boult's eyes light up, seeing he has more opportunities for big hits. The other trick Zampa does here is angle the ball into the right-hander, making him hit against the turn. From there, a little dip, a little grip and money for Smith at backward point
 
 
 Balls faced: 20
 Bowler: Zampa
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "long levers now. Width on offer and Boult makes good use of it, going down on one knee and sending it soaring over wide long-on"}]long levers now. Width on offer and Boult makes good use of it, going down on one knee and sending it soaring over wide long-on
+long levers now. Width on offer and Boult makes good use of it, going down on one knee and sending it soaring over wide long-on
 
 
 Balls faced: 21
 Bowler: Zampa
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
-[{"type": "HTML", "html": "Shubha: \"Australia are doing Australian things in the Australian way. Amazed at their ability to keep winning across generations! That thirst for winning ! Just WoW!\""}]Shubha: "Australia are doing Australian things in the Australian way. Amazed at their ability to keep winning across generations! That thirst for winning ! Just WoW!"
+Shubha: "Australia are doing Australian things in the Australian way. Amazed at their ability to keep winning across generations! That thirst for winning ! Just WoW!"
 
-[{"type": "HTML", "html": "slog sweeps a ball out of the base of off stump, powerful hit. Gets underneath the ball and then its all the strength in his forearms and wrists"}]slog sweeps a ball out of the base of off stump, powerful hit. Gets underneath the ball and then its all the strength in his forearms and wrists
+slog sweeps a ball out of the base of off stump, powerful hit. Gets underneath the ball and then its all the strength in his forearms and wrists
 
 
 Balls faced: 22
 Bowler: Zampa
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "looks to attack, but Zampa gets the ball to dip and drift, securing an inside edge to deep square leg"}]looks to attack, but Zampa gets the ball to dip and drift, securing an inside edge to deep square leg
+looks to attack, but Zampa gets the ball to dip and drift, securing an inside edge to deep square leg
 
 
 
@@ -224,141 +250,155 @@ Match: all_games_1411166_1415714.json
 Balls faced: 1
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle and off. Boult lunges forward and works it towards deep mid wicket"}]full on middle and off. Boult lunges forward and works it towards deep mid wicket
+full on middle and off. Boult lunges forward and works it towards deep mid wicket
 
 
 Balls faced: 2
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly fizzed through on a length just outside off. Boult has no clue about it and plays down the wrong line. Goes past his bat and past off stump too!"}]googly fizzed through on a length just outside off. Boult has no clue about it and plays down the wrong line. Goes past his bat and past off stump too!
+googly fizzed through on a length just outside off. Boult has no clue about it and plays down the wrong line. Goes past his bat and past off stump too!
 
 
 Balls faced: 3
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "floated up full outside off. Boult gets fully forward and drills it to long off"}]floated up full outside off. Boult gets fully forward and drills it to long off
+floated up full outside off. Boult gets fully forward and drills it to long off
 
 
 Balls faced: 4
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower yorker on middle and off. Boult gets his bat down in time and keeps it out"}]slower yorker on middle and off. Boult gets his bat down in time and keeps it out
+slower yorker on middle and off. Boult gets his bat down in time and keeps it out
 
 
 Balls faced: 5
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "off-pace on a length just outside off. Boult comes half forward and pats it back to the bowler"}]off-pace on a length just outside off. Boult comes half forward and pats it back to the bowler
+off-pace on a length just outside off. Boult comes half forward and pats it back to the bowler
 
 
 Balls faced: 6
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "leg-stump yorker that causes Boult all sorts of problems. He plays all around it and gets hit on the pads, although the angle is taking it well past leg stump"}]leg-stump yorker that causes Boult all sorts of problems. He plays all around it and gets hit on the pads, although the angle is taking it well past leg stump
+leg-stump yorker that causes Boult all sorts of problems. He plays all around it and gets hit on the pads, although the angle is taking it well past leg stump
 
 
 Balls faced: 7
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Naveen is back. Can he wrap this up for Afghanistan?"}]Naveen is back. Can he wrap this up for Afghanistan?
+Naveen is back. Can he wrap this up for Afghanistan?
 
-[{"type": "HTML", "html": "angled in full on off. Boult moves across his stumps and knocks it to long on"}]angled in full on off. Boult moves across his stumps and knocks it to long on
+angled in full on off. Boult moves across his stumps and knocks it to long on
 
 
 Balls faced: 8
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle and off. Boult lunges forward and works it towards deep mid wicket"}]full on middle and off. Boult lunges forward and works it towards deep mid wicket
+full on middle and off. Boult lunges forward and works it towards deep mid wicket
 
 
 Balls faced: 9
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly fizzed through on a length just outside off. Boult has no clue about it and plays down the wrong line. Goes past his bat and past off stump too!"}]googly fizzed through on a length just outside off. Boult has no clue about it and plays down the wrong line. Goes past his bat and past off stump too!
+googly fizzed through on a length just outside off. Boult has no clue about it and plays down the wrong line. Goes past his bat and past off stump too!
 
 
 Balls faced: 10
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "floated up full outside off. Boult gets fully forward and drills it to long off"}]floated up full outside off. Boult gets fully forward and drills it to long off
+floated up full outside off. Boult gets fully forward and drills it to long off
 
 
 Balls faced: 11
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower yorker on middle and off. Boult gets his bat down in time and keeps it out"}]slower yorker on middle and off. Boult gets his bat down in time and keeps it out
+slower yorker on middle and off. Boult gets his bat down in time and keeps it out
 
 
 Balls faced: 12
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "off-pace on a length just outside off. Boult comes half forward and pats it back to the bowler"}]off-pace on a length just outside off. Boult comes half forward and pats it back to the bowler
+off-pace on a length just outside off. Boult comes half forward and pats it back to the bowler
 
 
 Balls faced: 13
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "leg-stump yorker that causes Boult all sorts of problems. He plays all around it and gets hit on the pads, although the angle is taking it well past leg stump"}]leg-stump yorker that causes Boult all sorts of problems. He plays all around it and gets hit on the pads, although the angle is taking it well past leg stump
+leg-stump yorker that causes Boult all sorts of problems. He plays all around it and gets hit on the pads, although the angle is taking it well past leg stump
 
 
 Balls faced: 14
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Naveen is back. Can he wrap this up for Afghanistan?"}]Naveen is back. Can he wrap this up for Afghanistan?
+Naveen is back. Can he wrap this up for Afghanistan?
 
-[{"type": "HTML", "html": "angled in full on off. Boult moves across his stumps and knocks it to long on"}]angled in full on off. Boult moves across his stumps and knocks it to long on
+angled in full on off. Boult moves across his stumps and knocks it to long on
 
 
 
@@ -366,78 +406,90 @@ Match: all_games_1411166_1415726.json
 Balls faced: 1
 Bowler: Alzarri Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Joseph on a hat-trick. He has Boult in his sights. NZ need 42 off 13"}]Joseph on a hat-trick. He has Boult in his sights. NZ need 42 off 13
+Joseph on a hat-trick. He has Boult in his sights. NZ need 42 off 13
 
-[{"type": "HTML", "html": "<strong>edged!</strong> Speared in full on middle and off. Boult backs away and throws the kitchen sink at it, slicing it down to third man"}]<strong>edged!</strong> Speared in full on middle and off. Boult backs away and throws the kitchen sink at it, slicing it down to third man
+<strong>edged!</strong> Speared in full on middle and off. Boult backs away and throws the kitchen sink at it, slicing it down to third man
 
 
 Balls faced: 2
 Bowler: Russell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Russell has the last laugh!</strong> Cutter into the track outside off. Boult continues swinging at it but does not pick the variation. Swipes too early at it and the ball skews up off the outside edge. Chase settles under it and hammers the ninth nail into the New Zealand coffin!"}]<strong>Russell has the last laugh!</strong> Cutter into the track outside off. Boult continues swinging at it but does not pick the variation. Swipes too early at it and the ball skews up off the outside edge. Chase settles under it and hammers the ninth nail into the New Zealand coffin!
+Boult is OUT! caught
+c Chase b Russell
+Trent Boult c Chase b Russell 7 (4b 0x4 1x6 5m) SR: 175
+<strong>Russell has the last laugh!</strong> Cutter into the track outside off. Boult continues swinging at it but does not pick the variation. Swipes too early at it and the ball skews up off the outside edge. Chase settles under it and hammers the ninth nail into the New Zealand coffin!
 
 
 Balls faced: 3
 Bowler: Russell
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>fetch that!</strong> Slower ball that lands right in the slot on middle and leg. Boult backs away and clobbers it over deep mid wicket!"}]<strong>fetch that!</strong> Slower ball that lands right in the slot on middle and leg. Boult backs away and clobbers it over deep mid wicket!
+<strong>fetch that!</strong> Slower ball that lands right in the slot on middle and leg. Boult backs away and clobbers it over deep mid wicket!
 
 
 Balls faced: 4
 Bowler: Russell
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on off. Boult sits deep in his crease and tugs it towards deep mid wicket"}]length on off. Boult sits deep in his crease and tugs it towards deep mid wicket
+length on off. Boult sits deep in his crease and tugs it towards deep mid wicket
 
 
 Balls faced: 5
 Bowler: Alzarri Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Joseph on a hat-trick. He has Boult in his sights. NZ need 42 off 13"}]Joseph on a hat-trick. He has Boult in his sights. NZ need 42 off 13
+Joseph on a hat-trick. He has Boult in his sights. NZ need 42 off 13
 
-[{"type": "HTML", "html": "<strong>edged!</strong> Speared in full on middle and off. Boult backs away and throws the kitchen sink at it, slicing it down to third man"}]<strong>edged!</strong> Speared in full on middle and off. Boult backs away and throws the kitchen sink at it, slicing it down to third man
+<strong>edged!</strong> Speared in full on middle and off. Boult backs away and throws the kitchen sink at it, slicing it down to third man
 
 
 Balls faced: 6
 Bowler: Russell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Russell has the last laugh!</strong> Cutter into the track outside off. Boult continues swinging at it but does not pick the variation. Swipes too early at it and the ball skews up off the outside edge. Chase settles under it and hammers the ninth nail into the New Zealand coffin!"}]<strong>Russell has the last laugh!</strong> Cutter into the track outside off. Boult continues swinging at it but does not pick the variation. Swipes too early at it and the ball skews up off the outside edge. Chase settles under it and hammers the ninth nail into the New Zealand coffin!
+Boult is OUT! caught
+c Chase b Russell
+Trent Boult c Chase b Russell 7 (4b 0x4 1x6 5m) SR: 175
+<strong>Russell has the last laugh!</strong> Cutter into the track outside off. Boult continues swinging at it but does not pick the variation. Swipes too early at it and the ball skews up off the outside edge. Chase settles under it and hammers the ninth nail into the New Zealand coffin!
 
 
 Balls faced: 7
 Bowler: Russell
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>fetch that!</strong> Slower ball that lands right in the slot on middle and leg. Boult backs away and clobbers it over deep mid wicket!"}]<strong>fetch that!</strong> Slower ball that lands right in the slot on middle and leg. Boult backs away and clobbers it over deep mid wicket!
+<strong>fetch that!</strong> Slower ball that lands right in the slot on middle and leg. Boult backs away and clobbers it over deep mid wicket!
 
 
 Balls faced: 8
 Bowler: Russell
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on off. Boult sits deep in his crease and tugs it towards deep mid wicket"}]length on off. Boult sits deep in his crease and tugs it towards deep mid wicket
+length on off. Boult sits deep in his crease and tugs it towards deep mid wicket

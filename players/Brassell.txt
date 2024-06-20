@@ -2,58 +2,64 @@ Match: all_games_1411166_1415724.json
 Balls faced: 1
 Bowler: Ellis
 Over: 15
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
-[{"type": "HTML", "html": "Right. Australia have a crack at the youngster, who also happens to be Namibia's No.10. Can Ellis close out this innings?"}]Right. Australia have a crack at the youngster, who also happens to be Namibia's No.10. Can Ellis close out this innings?
+Right. Australia have a crack at the youngster, who also happens to be Namibia's No.10. Can Ellis close out this innings?
 
-[{"type": "HTML", "html": "slower ball on a full length on the pads. Brassell glances it down to fine leg and gets off the mark"}]slower ball on a full length on the pads. Brassell glances it down to fine leg and gets off the mark
+slower ball on a full length on the pads. Brassell glances it down to fine leg and gets off the mark
 
 
 Balls faced: 2
 Bowler: Cummins
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Cummins tests out the middle of the track again. This is outside off and that allows Brassell to comfortably sway out of the way"}]Cummins tests out the middle of the track again. This is outside off and that allows Brassell to comfortably sway out of the way
+Cummins tests out the middle of the track again. This is outside off and that allows Brassell to comfortably sway out of the way
 
 
 Balls faced: 3
 Bowler: Cummins
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Cummins returns for his third"}]Cummins returns for his third
+Cummins returns for his third
 
-[{"type": "HTML", "html": "full toss outside off. Brassell comes forward and stabs it towards deep cover point"}]full toss outside off. Brassell comes forward and stabs it towards deep cover point
+full toss outside off. Brassell comes forward and stabs it towards deep cover point
 
 
 Balls faced: 4
 Bowler: Ellis
 Over: 15
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 1
-[{"type": "HTML", "html": "Right. Australia have a crack at the youngster, who also happens to be Namibia's No.10. Can Ellis close out this innings?"}]Right. Australia have a crack at the youngster, who also happens to be Namibia's No.10. Can Ellis close out this innings?
+Right. Australia have a crack at the youngster, who also happens to be Namibia's No.10. Can Ellis close out this innings?
 
-[{"type": "HTML", "html": "slower ball on a full length on the pads. Brassell glances it down to fine leg and gets off the mark"}]slower ball on a full length on the pads. Brassell glances it down to fine leg and gets off the mark
+slower ball on a full length on the pads. Brassell glances it down to fine leg and gets off the mark
 
 
 Balls faced: 5
 Bowler: Cummins
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Cummins tests out the middle of the track again. This is outside off and that allows Brassell to comfortably sway out of the way"}]Cummins tests out the middle of the track again. This is outside off and that allows Brassell to comfortably sway out of the way
+Cummins tests out the middle of the track again. This is outside off and that allows Brassell to comfortably sway out of the way
 
 
 Balls faced: 6
 Bowler: Cummins
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Cummins returns for his third"}]Cummins returns for his third
+Cummins returns for his third
 
-[{"type": "HTML", "html": "full toss outside off. Brassell comes forward and stabs it towards deep cover point"}]full toss outside off. Brassell comes forward and stabs it towards deep cover point
+full toss outside off. Brassell comes forward and stabs it towards deep cover point

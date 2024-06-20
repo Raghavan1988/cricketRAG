@@ -2,1483 +2,1639 @@ Match: all_games_1388188_1388226.json
 Balls faced: 1
 Bowler: Cummins
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pitched up outside off, Blundell gives it a gentle nudge towards cover and scampers for a single. The throw at the non-striker's end hits Blundell who was racing to get into the crease"}]Pitched up outside off, Blundell gives it a gentle nudge towards cover and scampers for a single. The throw at the non-striker's end hits Blundell who was racing to get into the crease
+Pitched up outside off, Blundell gives it a gentle nudge towards cover and scampers for a single. The throw at the non-striker's end hits Blundell who was racing to get into the crease
 
 
 Balls faced: 2
 Bowler: Cummins
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of length around off, nudged down towards midwicket"}]Back of length around off, nudged down towards midwicket
+Back of length around off, nudged down towards midwicket
 
 
 Balls faced: 3
 Bowler: Cummins
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kester: \"I reckon they won't reach 76. I'll remind you to post this again when I'm proven right\""}]Kester: "I reckon they won't reach 76. I'll remind you to post this again when I'm proven right"
+Kester: "I reckon they won't reach 76. I'll remind you to post this again when I'm proven right"
 
-[{"type": "HTML", "html": "Length ball on fifth stump angles in and Blundell defends in front of off stump"}]Length ball on fifth stump angles in and Blundell defends in front of off stump
+Length ball on fifth stump angles in and Blundell defends in front of off stump
 
 
 Balls faced: 4
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 3
-[{"type": "HTML", "html": "Paramdev : \"Why Marsh over Green? May be giving a breather to Green?\" Possibly so. He had a long stay at the crease"}]Paramdev : "Why Marsh over Green? May be giving a breather to Green?" Possibly so. He had a long stay at the crease
+Paramdev : "Why Marsh over Green? May be giving a breather to Green?" Possibly so. He had a long stay at the crease
 
-[{"type": "HTML", "html": "Back of length delivery outside off, Blundell stands tall and punches it away behind point. It doesn't have the legs on it to go for four, but New Zealand pick up some much needed runs"}]Back of length delivery outside off, Blundell stands tall and punches it away behind point. It doesn't have the legs on it to go for four, but New Zealand pick up some much needed runs
+Back of length delivery outside off, Blundell stands tall and punches it away behind point. It doesn't have the legs on it to go for four, but New Zealand pick up some much needed runs
 
 
 Balls faced: 5
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full outside off, shaping away, Blundell shoulders arms"}]Full outside off, shaping away, Blundell shoulders arms
+Full outside off, shaping away, Blundell shoulders arms
 
 
 Balls faced: 6
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Outswinger outside off, left alone by Blundell"}]Outswinger outside off, left alone by Blundell
+Outswinger outside off, left alone by Blundell
 
 
 Balls faced: 7
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dug in short outside off, 124 kph. Blundell went for the pull but was beaten by the lack of pace"}]Dug in short outside off, 124 kph. Blundell went for the pull but was beaten by the lack of pace
+Dug in short outside off, 124 kph. Blundell went for the pull but was beaten by the lack of pace
 
 
 Balls faced: 8
 Bowler: Marsh
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off, Blundell defends"}]Full on off, Blundell defends
+Full on off, Blundell defends
 
 
 Balls faced: 9
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball shapes away outside off, Blundell leaves it alone"}]Length ball shapes away outside off, Blundell leaves it alone
+Length ball shapes away outside off, Blundell leaves it alone
 
 
 Balls faced: 10
 Bowler: Cummins
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pitched up outside off, Blundell gives it a gentle nudge towards cover and scampers for a single. The throw at the non-striker's end hits Blundell who was racing to get into the crease"}]Pitched up outside off, Blundell gives it a gentle nudge towards cover and scampers for a single. The throw at the non-striker's end hits Blundell who was racing to get into the crease
+Pitched up outside off, Blundell gives it a gentle nudge towards cover and scampers for a single. The throw at the non-striker's end hits Blundell who was racing to get into the crease
 
 
 Balls faced: 11
 Bowler: Cummins
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of length around off, nudged down towards midwicket"}]Back of length around off, nudged down towards midwicket
+Back of length around off, nudged down towards midwicket
 
 
 Balls faced: 12
 Bowler: Cummins
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kester: \"I reckon they won't reach 76. I'll remind you to post this again when I'm proven right\""}]Kester: "I reckon they won't reach 76. I'll remind you to post this again when I'm proven right"
+Kester: "I reckon they won't reach 76. I'll remind you to post this again when I'm proven right"
 
-[{"type": "HTML", "html": "Length ball on fifth stump angles in and Blundell defends in front of off stump"}]Length ball on fifth stump angles in and Blundell defends in front of off stump
+Length ball on fifth stump angles in and Blundell defends in front of off stump
 
 
 Balls faced: 13
 Bowler: Cummins
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball on off, Blundell goes on the back foot to punch it towards cover and they hurry for a single"}]Length ball on off, Blundell goes on the back foot to punch it towards cover and they hurry for a single
+Length ball on off, Blundell goes on the back foot to punch it towards cover and they hurry for a single
 
 
 Balls faced: 14
 Bowler: Cummins
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beats the outside edge! Pitched up outside off, gets Blundell driving. But he doesn't make contact as the ball flies through to Carey"}]Beats the outside edge! Pitched up outside off, gets Blundell driving. But he doesn't make contact as the ball flies through to Carey
+Beats the outside edge! Pitched up outside off, gets Blundell driving. But he doesn't make contact as the ball flies through to Carey
 
 
 Balls faced: 15
 Bowler: Cummins
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dug in short outside off, fended towards point"}]Dug in short outside off, fended towards point
+Dug in short outside off, fended towards point
 
 
 Balls faced: 16
 Bowler: Cummins
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "This could be the last over before tea"}]This could be the last over before tea
+This could be the last over before tea
 
-[{"type": "HTML", "html": "Length ball outside off, 141.4kph, Blundell defends"}]Length ball outside off, 141.4kph, Blundell defends
+Length ball outside off, 141.4kph, Blundell defends
 
 
 Balls faced: 17
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 3
-[{"type": "HTML", "html": "Paramdev : \"Why Marsh over Green? May be giving a breather to Green?\" Possibly so. He had a long stay at the crease"}]Paramdev : "Why Marsh over Green? May be giving a breather to Green?" Possibly so. He had a long stay at the crease
+Paramdev : "Why Marsh over Green? May be giving a breather to Green?" Possibly so. He had a long stay at the crease
 
-[{"type": "HTML", "html": "Back of length delivery outside off, Blundell stands tall and punches it away behind point. It doesn't have the legs on it to go for four, but New Zealand pick up some much needed runs"}]Back of length delivery outside off, Blundell stands tall and punches it away behind point. It doesn't have the legs on it to go for four, but New Zealand pick up some much needed runs
+Back of length delivery outside off, Blundell stands tall and punches it away behind point. It doesn't have the legs on it to go for four, but New Zealand pick up some much needed runs
 
 
 Balls faced: 18
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full outside off, shaping away, Blundell shoulders arms"}]Full outside off, shaping away, Blundell shoulders arms
+Full outside off, shaping away, Blundell shoulders arms
 
 
 Balls faced: 19
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Outswinger outside off, left alone by Blundell"}]Outswinger outside off, left alone by Blundell
+Outswinger outside off, left alone by Blundell
 
 
 Balls faced: 20
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dug in short outside off, 124 kph. Blundell went for the pull but was beaten by the lack of pace"}]Dug in short outside off, 124 kph. Blundell went for the pull but was beaten by the lack of pace
+Dug in short outside off, 124 kph. Blundell went for the pull but was beaten by the lack of pace
 
 
 Balls faced: 21
 Bowler: Marsh
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off, Blundell defends"}]Full on off, Blundell defends
+Full on off, Blundell defends
 
 
 Balls faced: 22
 Bowler: Marsh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball shapes away outside off, Blundell leaves it alone"}]Length ball shapes away outside off, Blundell leaves it alone
+Length ball shapes away outside off, Blundell leaves it alone
 
 
 Balls faced: 23
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 3
 
 
-[{"type": "HTML", "html": "that's a good stroke, comes forward and drives square of the wicket, along the ground this time"}]that's a good stroke, comes forward and drives square of the wicket, along the ground this time
+that's a good stroke, comes forward and drives square of the wicket, along the ground this time
 
 
 Balls faced: 24
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended from the crease into the off side"}]defended from the crease into the off side
+defended from the crease into the off side
 
 
 Balls faced: 25
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller at off stump, defended"}]fuller at off stump, defended
+fuller at off stump, defended
 
 
 Balls faced: 26
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short outside off, reaches for it and it flies in the air wide of gully down to third. Not in control"}]short outside off, reaches for it and it flies in the air wide of gully down to third. Not in control
+short outside off, reaches for it and it flies in the air wide of gully down to third. Not in control
 
 
 Balls faced: 27
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Hazlewood will start the session. Three slips and a gully"}, {"type": "HTML", "html": "Hello again, everyone. Things moving on. Will Australia be batting again by the end of the day, or bowling in New Zealand's second innings? Reckon the follow-on is unlikely even if an option for Pat Cummins. It's been a day to forget so far for the home side and Alex Malcolm has written on the morning session <a href=\"https://www.espncricinfo.com/story/cameron-green-s-quick-learning-and-josh-hazlewood-s-redemption-pile-on-pain-for-new-zealand-1423110\">which was dominated by Australia's final-wicket stand</a>."}]Hazlewood will start the session. Three slips and a gully Hello again, everyone. Things moving on. Will Australia be batting again by the end of the day, or bowling in New Zealand's second innings? Reckon the follow-on is unlikely even if an option for Pat Cummins. It's been a day to forget so far for the home side and Alex Malcolm has written on the morning session <a href="https://www.espncricinfo.com/story/cameron-green-s-quick-learning-and-josh-hazlewood-s-redemption-pile-on-pain-for-new-zealand-1423110">which was dominated by Australia's final-wicket stand</a>.
+Hazlewood will start the session. Three slips and a gully Hello again, everyone. Things moving on. Will Australia be batting again by the end of the day, or bowling in New Zealand's second innings? Reckon the follow-on is unlikely even if an option for Pat Cummins. It's been a day to forget so far for the home side and Alex Malcolm has written on the morning session <a href="https://www.espncricinfo.com/story/cameron-green-s-quick-learning-and-josh-hazlewood-s-redemption-pile-on-pain-for-new-zealand-1423110">which was dominated by Australia's final-wicket stand</a>.
 
-[{"type": "HTML", "html": "good length outside off, left alone"}]good length outside off, left alone
+good length outside off, left alone
 
 
 Balls faced: 28
 Bowler: Cummins
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball on off, Blundell goes on the back foot to punch it towards cover and they hurry for a single"}]Length ball on off, Blundell goes on the back foot to punch it towards cover and they hurry for a single
+Length ball on off, Blundell goes on the back foot to punch it towards cover and they hurry for a single
 
 
 Balls faced: 29
 Bowler: Cummins
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beats the outside edge! Pitched up outside off, gets Blundell driving. But he doesn't make contact as the ball flies through to Carey"}]Beats the outside edge! Pitched up outside off, gets Blundell driving. But he doesn't make contact as the ball flies through to Carey
+Beats the outside edge! Pitched up outside off, gets Blundell driving. But he doesn't make contact as the ball flies through to Carey
 
 
 Balls faced: 30
 Bowler: Cummins
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dug in short outside off, fended towards point"}]Dug in short outside off, fended towards point
+Dug in short outside off, fended towards point
 
 
 Balls faced: 31
 Bowler: Cummins
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "This could be the last over before tea"}]This could be the last over before tea
+This could be the last over before tea
 
-[{"type": "HTML", "html": "Length ball outside off, 141.4kph, Blundell defends"}]Length ball outside off, 141.4kph, Blundell defends
+Length ball outside off, 141.4kph, Blundell defends
 
 
 Balls faced: 32
 Bowler: Starc
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "too straight again, worked backward of square"}]too straight again, worked backward of square
+too straight again, worked backward of square
 
 
 Balls faced: 33
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 3
 
 
-[{"type": "HTML", "html": "that's a good stroke, comes forward and drives square of the wicket, along the ground this time"}]that's a good stroke, comes forward and drives square of the wicket, along the ground this time
+that's a good stroke, comes forward and drives square of the wicket, along the ground this time
 
 
 Balls faced: 34
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended from the crease into the off side"}]defended from the crease into the off side
+defended from the crease into the off side
 
 
 Balls faced: 35
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller at off stump, defended"}]fuller at off stump, defended
+fuller at off stump, defended
 
 
 Balls faced: 36
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short outside off, reaches for it and it flies in the air wide of gully down to third. Not in control"}]short outside off, reaches for it and it flies in the air wide of gully down to third. Not in control
+short outside off, reaches for it and it flies in the air wide of gully down to third. Not in control
 
 
 Balls faced: 37
 Bowler: Hazlewood
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Hazlewood will start the session. Three slips and a gully"}, {"type": "HTML", "html": "Hello again, everyone. Things moving on. Will Australia be batting again by the end of the day, or bowling in New Zealand's second innings? Reckon the follow-on is unlikely even if an option for Pat Cummins. It's been a day to forget so far for the home side and Alex Malcolm has written on the morning session <a href=\"https://www.espncricinfo.com/story/cameron-green-s-quick-learning-and-josh-hazlewood-s-redemption-pile-on-pain-for-new-zealand-1423110\">which was dominated by Australia's final-wicket stand</a>."}]Hazlewood will start the session. Three slips and a gully Hello again, everyone. Things moving on. Will Australia be batting again by the end of the day, or bowling in New Zealand's second innings? Reckon the follow-on is unlikely even if an option for Pat Cummins. It's been a day to forget so far for the home side and Alex Malcolm has written on the morning session <a href="https://www.espncricinfo.com/story/cameron-green-s-quick-learning-and-josh-hazlewood-s-redemption-pile-on-pain-for-new-zealand-1423110">which was dominated by Australia's final-wicket stand</a>.
+Hazlewood will start the session. Three slips and a gully Hello again, everyone. Things moving on. Will Australia be batting again by the end of the day, or bowling in New Zealand's second innings? Reckon the follow-on is unlikely even if an option for Pat Cummins. It's been a day to forget so far for the home side and Alex Malcolm has written on the morning session <a href="https://www.espncricinfo.com/story/cameron-green-s-quick-learning-and-josh-hazlewood-s-redemption-pile-on-pain-for-new-zealand-1423110">which was dominated by Australia's final-wicket stand</a>.
 
-[{"type": "HTML", "html": "good length outside off, left alone"}]good length outside off, left alone
+good length outside off, left alone
 
 
 Balls faced: 38
 Bowler: Hazlewood
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "positively forward into a full delivery, pushes towards mid-off. Good running"}]positively forward into a full delivery, pushes towards mid-off. Good running
+positively forward into a full delivery, pushes towards mid-off. Good running
 
 
 Balls faced: 39
 Bowler: Starc
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "too straight again, worked backward of square"}]too straight again, worked backward of square
+too straight again, worked backward of square
 
 
 Balls faced: 40
 Bowler: Starc
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full at the stumps, worked to deep square leg"}]full at the stumps, worked to deep square leg
+full at the stumps, worked to deep square leg
 
 
 Balls faced: 41
 Bowler: Starc
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "better delivery, back of a length and nips back, takes him high on the back leg and flies through to Carey"}]better delivery, back of a length and nips back, takes him high on the back leg and flies through to Carey
+better delivery, back of a length and nips back, takes him high on the back leg and flies through to Carey
 
 
 Balls faced: 42
 Bowler: Starc
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>and another!</strong> Full this time, outside off, nails a cover drive. Lovely flow of the bat"}]<strong>and another!</strong> Full this time, outside off, nails a cover drive. Lovely flow of the bat
+<strong>and another!</strong> Full this time, outside off, nails a cover drive. Lovely flow of the bat
 
 
 Balls faced: 43
 Bowler: Starc
 Over: 25
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>hammered!</strong> Short and wide, Blundell takes advantage and cracks it away square of the wicket"}]<strong>hammered!</strong> Short and wide, Blundell takes advantage and cracks it away square of the wicket
+<strong>hammered!</strong> Short and wide, Blundell takes advantage and cracks it away square of the wicket
 
 
 Balls faced: 44
 Bowler: Starc
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "past the edge as he looks to drive off the back foot"}]past the edge as he looks to drive off the back foot
+past the edge as he looks to drive off the back foot
 
 
 Balls faced: 45
 Bowler: Hazlewood
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "positively forward into a full delivery, pushes towards mid-off. Good running"}]positively forward into a full delivery, pushes towards mid-off. Good running
+positively forward into a full delivery, pushes towards mid-off. Good running
 
 
 Balls faced: 46
 Bowler: Hazlewood
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full outside off, angled into the point area, the fielder is quite deep. Brings up the <b>fifty stand</b> off 48 balls"}]full outside off, angled into the point area, the fielder is quite deep. Brings up the <b>fifty stand</b> off 48 balls
+full outside off, angled into the point area, the fielder is quite deep. Brings up the <b>fifty stand</b> off 48 balls
 
 
 Balls faced: 47
 Bowler: Starc
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full at the stumps, worked to deep square leg"}]full at the stumps, worked to deep square leg
+full at the stumps, worked to deep square leg
 
 
 Balls faced: 48
 Bowler: Starc
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "better delivery, back of a length and nips back, takes him high on the back leg and flies through to Carey"}]better delivery, back of a length and nips back, takes him high on the back leg and flies through to Carey
+better delivery, back of a length and nips back, takes him high on the back leg and flies through to Carey
 
 
 Balls faced: 49
 Bowler: Starc
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>and another!</strong> Full this time, outside off, nails a cover drive. Lovely flow of the bat"}]<strong>and another!</strong> Full this time, outside off, nails a cover drive. Lovely flow of the bat
+<strong>and another!</strong> Full this time, outside off, nails a cover drive. Lovely flow of the bat
 
 
 Balls faced: 50
 Bowler: Starc
 Over: 25
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>hammered!</strong> Short and wide, Blundell takes advantage and cracks it away square of the wicket"}]<strong>hammered!</strong> Short and wide, Blundell takes advantage and cracks it away square of the wicket
+<strong>hammered!</strong> Short and wide, Blundell takes advantage and cracks it away square of the wicket
 
 
 Balls faced: 51
 Bowler: Starc
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "past the edge as he looks to drive off the back foot"}]past the edge as he looks to drive off the back foot
+past the edge as he looks to drive off the back foot
 
 
 Balls faced: 52
 Bowler: Hazlewood
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full outside off, angled into the point area, the fielder is quite deep. Brings up the <b>fifty stand</b> off 48 balls"}]full outside off, angled into the point area, the fielder is quite deep. Brings up the <b>fifty stand</b> off 48 balls
+full outside off, angled into the point area, the fielder is quite deep. Brings up the <b>fifty stand</b> off 48 balls
 
 
 Balls faced: 53
 Bowler: Lyon
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "starts straight again, spins significantly, worked to short fine leg"}]starts straight again, spins significantly, worked to short fine leg
+starts straight again, spins significantly, worked to short fine leg
 
 
 Balls faced: 54
 Bowler: Lyon
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Change of tempo. Nathan Lyon into the attack. Slip and a short leg"}]Change of tempo. Nathan Lyon into the attack. Slip and a short leg
+Change of tempo. Nathan Lyon into the attack. Slip and a short leg
 
-[{"type": "HTML", "html": "over the wicket, spins down the leg side"}]over the wicket, spins down the leg side
+over the wicket, spins down the leg side
 
 
 Balls faced: 55
 Bowler: Starc
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets away with this! Looking to cut a delivery, shapes and goes under the bat"}]gets away with this! Looking to cut a delivery, shapes and goes under the bat
-[{"type": "HTML", "html": "Steven: \"Big fan of Phillips here, wish the kiwis used his bowling, too. Class player\""}]Steven: "Big fan of Phillips here, wish the kiwis used his bowling, too. Class player"
+gets away with this! Looking to cut a delivery, shapes and goes under the bat
+Steven: "Big fan of Phillips here, wish the kiwis used his bowling, too. Class player"
 
 Balls faced: 56
 Bowler: Starc
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "nicely controlled, opens the face off the back foot and guides out to deep point"}]nicely controlled, opens the face off the back foot and guides out to deep point
+nicely controlled, opens the face off the back foot and guides out to deep point
 
 
 Balls faced: 57
 Bowler: Starc
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide outside off, left alone"}]full and wide outside off, left alone
-[{"type": "HTML", "html": "Vaibhav: \"FYI, Wellington is home to the two highest 6th wicket partnerships for New Zealand: 365* and 352.\""}]Vaibhav: "FYI, Wellington is home to the two highest 6th wicket partnerships for New Zealand: 365* and 352."
+full and wide outside off, left alone
+Vaibhav: "FYI, Wellington is home to the two highest 6th wicket partnerships for New Zealand: 365* and 352."
 
 Balls faced: 58
 Bowler: Starc
 Over: 29
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and down the leg side, goes for a hook but doesn't connect"}]short and down the leg side, goes for a hook but doesn't connect
+short and down the leg side, goes for a hook but doesn't connect
 
 
 Balls faced: 59
 Bowler: Starc
 Over: 29
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Banshee: \"These two showing some backbone here. Perhaps it isn't all doom and gloom for New Zealand after all. Still a long way off though.\""}]Banshee: "These two showing some backbone here. Perhaps it isn't all doom and gloom for New Zealand after all. Still a long way off though."
+Banshee: "These two showing some backbone here. Perhaps it isn't all doom and gloom for New Zealand after all. Still a long way off though."
 
-[{"type": "HTML", "html": "back of a length at middle, defended"}]back of a length at middle, defended
+back of a length at middle, defended
 
 
 Balls faced: 60
 Bowler: Lyon
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "starts straight again, spins significantly, worked to short fine leg"}]starts straight again, spins significantly, worked to short fine leg
+starts straight again, spins significantly, worked to short fine leg
 
 
 Balls faced: 61
 Bowler: Lyon
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Change of tempo. Nathan Lyon into the attack. Slip and a short leg"}]Change of tempo. Nathan Lyon into the attack. Slip and a short leg
+Change of tempo. Nathan Lyon into the attack. Slip and a short leg
 
-[{"type": "HTML", "html": "over the wicket, spins down the leg side"}]over the wicket, spins down the leg side
+over the wicket, spins down the leg side
 
 
 Balls faced: 62
 Bowler: Lyon
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked from outside off behind square on the leg side. Plenty for Lyon to work with once he gets his line and length settled"}]tucked from outside off behind square on the leg side. Plenty for Lyon to work with once he gets his line and length settled
+tucked from outside off behind square on the leg side. Plenty for Lyon to work with once he gets his line and length settled
 
 
 Balls faced: 63
 Bowler: Lyon
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nicely bowled, very wide outside off, spins sharply as Blundell plays back"}]nicely bowled, very wide outside off, spins sharply as Blundell plays back
+nicely bowled, very wide outside off, spins sharply as Blundell plays back
 
 
 Balls faced: 64
 Bowler: Lyon
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller and outside off, brings him forward, spins into the front pad"}]fuller and outside off, brings him forward, spins into the front pad
+fuller and outside off, brings him forward, spins into the front pad
 
 
 Balls faced: 65
 Bowler: Starc
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets away with this! Looking to cut a delivery, shapes and goes under the bat"}]gets away with this! Looking to cut a delivery, shapes and goes under the bat
-[{"type": "HTML", "html": "Steven: \"Big fan of Phillips here, wish the kiwis used his bowling, too. Class player\""}]Steven: "Big fan of Phillips here, wish the kiwis used his bowling, too. Class player"
+gets away with this! Looking to cut a delivery, shapes and goes under the bat
+Steven: "Big fan of Phillips here, wish the kiwis used his bowling, too. Class player"
 
 Balls faced: 66
 Bowler: Starc
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "nicely controlled, opens the face off the back foot and guides out to deep point"}]nicely controlled, opens the face off the back foot and guides out to deep point
+nicely controlled, opens the face off the back foot and guides out to deep point
 
 
 Balls faced: 67
 Bowler: Starc
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide outside off, left alone"}]full and wide outside off, left alone
-[{"type": "HTML", "html": "Vaibhav: \"FYI, Wellington is home to the two highest 6th wicket partnerships for New Zealand: 365* and 352.\""}]Vaibhav: "FYI, Wellington is home to the two highest 6th wicket partnerships for New Zealand: 365* and 352."
+full and wide outside off, left alone
+Vaibhav: "FYI, Wellington is home to the two highest 6th wicket partnerships for New Zealand: 365* and 352."
 
 Balls faced: 68
 Bowler: Starc
 Over: 29
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and down the leg side, goes for a hook but doesn't connect"}]short and down the leg side, goes for a hook but doesn't connect
+short and down the leg side, goes for a hook but doesn't connect
 
 
 Balls faced: 69
 Bowler: Starc
 Over: 29
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Banshee: \"These two showing some backbone here. Perhaps it isn't all doom and gloom for New Zealand after all. Still a long way off though.\""}]Banshee: "These two showing some backbone here. Perhaps it isn't all doom and gloom for New Zealand after all. Still a long way off though."
+Banshee: "These two showing some backbone here. Perhaps it isn't all doom and gloom for New Zealand after all. Still a long way off though."
 
-[{"type": "HTML", "html": "back of a length at middle, defended"}]back of a length at middle, defended
+back of a length at middle, defended
 
 
 Balls faced: 70
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length outside off, left alone"}]back of a length outside off, left alone
+back of a length outside off, left alone
 
 
 Balls faced: 71
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short, pulled, not out of the middle, but just evades mid-on"}]short, pulled, not out of the middle, but just evades mid-on
+short, pulled, not out of the middle, but just evades mid-on
 
 
 Balls faced: 72
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full outside off, drives nicely through the covers, again deep point can't stop the second"}]full outside off, drives nicely through the covers, again deep point can't stop the second
+full outside off, drives nicely through the covers, again deep point can't stop the second
 
 
 Balls faced: 73
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full at off stump, 142kph, defended"}]full at off stump, 142kph, defended
+full at off stump, 142kph, defended
 
 
 Balls faced: 74
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "opens the face and plays out to deep point, placed nicely for the second"}]opens the face and plays out to deep point, placed nicely for the second
+opens the face and plays out to deep point, placed nicely for the second
 
 
 Balls faced: 75
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Pat Cummins into the attack"}]Pat Cummins into the attack
+Pat Cummins into the attack
 
-[{"type": "HTML", "html": "on a good length straightaway at off stump, defended"}]on a good length straightaway at off stump, defended
+on a good length straightaway at off stump, defended
 
 
 Balls faced: 76
 Bowler: Lyon
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked from outside off behind square on the leg side. Plenty for Lyon to work with once he gets his line and length settled"}]tucked from outside off behind square on the leg side. Plenty for Lyon to work with once he gets his line and length settled
+tucked from outside off behind square on the leg side. Plenty for Lyon to work with once he gets his line and length settled
 
 
 Balls faced: 77
 Bowler: Lyon
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nicely bowled, very wide outside off, spins sharply as Blundell plays back"}]nicely bowled, very wide outside off, spins sharply as Blundell plays back
+nicely bowled, very wide outside off, spins sharply as Blundell plays back
 
 
 Balls faced: 78
 Bowler: Lyon
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller and outside off, brings him forward, spins into the front pad"}]fuller and outside off, brings him forward, spins into the front pad
+fuller and outside off, brings him forward, spins into the front pad
 
 
 Balls faced: 79
 Bowler: Lyon
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>inside edge? Yes, taken at short leg!</strong> Lyon breaks through. Blundell using his feet, looks to defend, closes the face, and the edge loops off the top of the pad, Head has plenty of time to skip across the pitch and take it"}]<strong>inside edge? Yes, taken at short leg!</strong> Lyon breaks through. Blundell using his feet, looks to defend, closes the face, and the edge loops off the top of the pad, Head has plenty of time to skip across the pitch and take it
-[{"type": "HTML", "html": "So the recovery is halted by Lyon who has found a threatening line outside off stump. Five bowlers now have one wicket each"}]So the recovery is halted by Lyon who has found a threatening line outside off stump. Five bowlers now have one wicket each
+Blundell is OUT! caught
+c Head b Lyon
+Tom Blundell c Head b Lyon 33 (43b 3x4 0x6 69m) SR: 76.74
+<strong>inside edge? Yes, taken at short leg!</strong> Lyon breaks through. Blundell using his feet, looks to defend, closes the face, and the edge loops off the top of the pad, Head has plenty of time to skip across the pitch and take it
+So the recovery is halted by Lyon who has found a threatening line outside off stump. Five bowlers now have one wicket each
 
 Balls faced: 80
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length outside off, left alone"}]back of a length outside off, left alone
+back of a length outside off, left alone
 
 
 Balls faced: 81
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short, pulled, not out of the middle, but just evades mid-on"}]short, pulled, not out of the middle, but just evades mid-on
+short, pulled, not out of the middle, but just evades mid-on
 
 
 Balls faced: 82
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full outside off, drives nicely through the covers, again deep point can't stop the second"}]full outside off, drives nicely through the covers, again deep point can't stop the second
+full outside off, drives nicely through the covers, again deep point can't stop the second
 
 
 Balls faced: 83
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full at off stump, 142kph, defended"}]full at off stump, 142kph, defended
+full at off stump, 142kph, defended
 
 
 Balls faced: 84
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "opens the face and plays out to deep point, placed nicely for the second"}]opens the face and plays out to deep point, placed nicely for the second
+opens the face and plays out to deep point, placed nicely for the second
 
 
 Balls faced: 85
 Bowler: Cummins
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Pat Cummins into the attack"}]Pat Cummins into the attack
+Pat Cummins into the attack
 
-[{"type": "HTML", "html": "on a good length straightaway at off stump, defended"}]on a good length straightaway at off stump, defended
+on a good length straightaway at off stump, defended
 
 
 Balls faced: 86
 Bowler: Lyon
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>inside edge? Yes, taken at short leg!</strong> Lyon breaks through. Blundell using his feet, looks to defend, closes the face, and the edge loops off the top of the pad, Head has plenty of time to skip across the pitch and take it"}]<strong>inside edge? Yes, taken at short leg!</strong> Lyon breaks through. Blundell using his feet, looks to defend, closes the face, and the edge loops off the top of the pad, Head has plenty of time to skip across the pitch and take it
-[{"type": "HTML", "html": "So the recovery is halted by Lyon who has found a threatening line outside off stump. Five bowlers now have one wicket each"}]So the recovery is halted by Lyon who has found a threatening line outside off stump. Five bowlers now have one wicket each
+Blundell is OUT! caught
+c Head b Lyon
+Tom Blundell c Head b Lyon 33 (43b 3x4 0x6 69m) SR: 76.74
+<strong>inside edge? Yes, taken at short leg!</strong> Lyon breaks through. Blundell using his feet, looks to defend, closes the face, and the edge loops off the top of the pad, Head has plenty of time to skip across the pitch and take it
+So the recovery is halted by Lyon who has found a threatening line outside off stump. Five bowlers now have one wicket each
 
 
 Match: all_games_1388188_1388227.json
 Balls faced: 1
 Bowler: Hazlewood
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full at the stumps, defended in front"}]Full at the stumps, defended in front
-[{"type": "HTML", "html": "Mustard: \"Looks like Hazelwood is trying his best to keep ahead of the captain on the wickets tally - keep up the good work, Bendemeer!\""}]Mustard: "Looks like Hazelwood is trying his best to keep ahead of the captain on the wickets tally - keep up the good work, Bendemeer!"
+Full at the stumps, defended in front
+Mustard: "Looks like Hazelwood is trying his best to keep ahead of the captain on the wickets tally - keep up the good work, Bendemeer!"
 
 Balls faced: 2
 Bowler: Hazlewood
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball comes back in towards middle, blocked in front off the back foot"}]Length ball comes back in towards middle, blocked in front off the back foot
+Length ball comes back in towards middle, blocked in front off the back foot
 
 
 Balls faced: 3
 Bowler: Hazlewood
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, let go"}]Length outside off, let go
+Length outside off, let go
 
 
 Balls faced: 4
 Bowler: Hazlewood
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full at the stumps, defended in front"}]Full at the stumps, defended in front
-[{"type": "HTML", "html": "Mustard: \"Looks like Hazelwood is trying his best to keep ahead of the captain on the wickets tally - keep up the good work, Bendemeer!\""}]Mustard: "Looks like Hazelwood is trying his best to keep ahead of the captain on the wickets tally - keep up the good work, Bendemeer!"
+Full at the stumps, defended in front
+Mustard: "Looks like Hazelwood is trying his best to keep ahead of the captain on the wickets tally - keep up the good work, Bendemeer!"
 
 Balls faced: 5
 Bowler: Hazlewood
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball comes back in towards middle, blocked in front off the back foot"}]Length ball comes back in towards middle, blocked in front off the back foot
+Length ball comes back in towards middle, blocked in front off the back foot
 
 
 Balls faced: 6
 Bowler: Hazlewood
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, let go"}]Length outside off, let go
+Length outside off, let go
 
 
 Balls faced: 7
 Bowler: Hazlewood
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pulled confidently, rolls to the left of deep square leg. Was a bumper around shoulder-height just outside off"}]Pulled confidently, rolls to the left of deep square leg. Was a bumper around shoulder-height just outside off
-[{"type": "HTML", "html": "Hazlewood's average length has come down to 6.16 this Test, it was 7.31 metres in the first. From the TV graphic"}]Hazlewood's average length has come down to 6.16 this Test, it was 7.31 metres in the first. From the TV graphic
+Pulled confidently, rolls to the left of deep square leg. Was a bumper around shoulder-height just outside off
+Hazlewood's average length has come down to 6.16 this Test, it was 7.31 metres in the first. From the TV graphic
 
 Balls faced: 8
 Bowler: Hazlewood
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length just outside off. Wonder if Blundell was camping on the back foot. Got square-on this time and punched it with an open face, to point"}]Length just outside off. Wonder if Blundell was camping on the back foot. Got square-on this time and punched it with an open face, to point
+Length just outside off. Wonder if Blundell was camping on the back foot. Got square-on this time and punched it with an open face, to point
 
 
 Balls faced: 9
 Bowler: Hazlewood
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on the pads, beats the flick and deflects off the top of pad to the off side. Think that decked back sharply"}]Length on the pads, beats the flick and deflects off the top of pad to the off side. Think that decked back sharply
-[{"type": "HTML", "html": "Neel: \"Hazlewood is just a dream for a captain, so metronomic, As a batsman you have to play most of the balls, and as soon as you go fishing you are in trouble.\""}]Neel: "Hazlewood is just a dream for a captain, so metronomic, As a batsman you have to play most of the balls, and as soon as you go fishing you are in trouble."
+Length on the pads, beats the flick and deflects off the top of pad to the off side. Think that decked back sharply
+Neel: "Hazlewood is just a dream for a captain, so metronomic, As a batsman you have to play most of the balls, and as soon as you go fishing you are in trouble."
 
 Balls faced: 10
 Bowler: Hazlewood
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, stays behind it and defends solidly off the back foot with a straight bat"}]Length on off, stays behind it and defends solidly off the back foot with a straight bat
+Length on off, stays behind it and defends solidly off the back foot with a straight bat
 
 
 Balls faced: 11
 Bowler: Cummins
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on leg, clipped through square leg to the man in the deep"}]Length on leg, clipped through square leg to the man in the deep
+Length on leg, clipped through square leg to the man in the deep
 
 
 Balls faced: 12
 Bowler: Cummins
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball through fifth, Blundell stood upright and shaped to play at it. Abandoned that plan quickly by getting the hands low"}]Shortish ball through fifth, Blundell stood upright and shaped to play at it. Abandoned that plan quickly by getting the hands low
+Shortish ball through fifth, Blundell stood upright and shaped to play at it. Abandoned that plan quickly by getting the hands low
 
 
 Balls faced: 13
 Bowler: Cummins
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide on a fullish length, let go"}]Wide on a fullish length, let go
-[{"type": "HTML", "html": "Tim starting with the <strike>sledging</strike> mental disintegration already, \"I can hear NZ fans scrambling through their weather apps already.\""}]Tim starting with the <strike>sledging</strike> mental disintegration already, "I can hear NZ fans scrambling through their weather apps already."
+Wide on a fullish length, let go
+Tim starting with the <strike>sledging</strike> mental disintegration already, "I can hear NZ fans scrambling through their weather apps already."
 
 Balls faced: 14
 Bowler: Cummins
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Overpitched on leg, 138ks, Blundell helps it with a flick through midwicket. Got leg side of the ball and let the outfield do the rest"}]Overpitched on leg, 138ks, Blundell helps it with a flick through midwicket. Got leg side of the ball and let the outfield do the rest
+Overpitched on leg, 138ks, Blundell helps it with a flick through midwicket. Got leg side of the ball and let the outfield do the rest
 
 
 Balls faced: 15
 Bowler: Hazlewood
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pulled confidently, rolls to the left of deep square leg. Was a bumper around shoulder-height just outside off"}]Pulled confidently, rolls to the left of deep square leg. Was a bumper around shoulder-height just outside off
-[{"type": "HTML", "html": "Hazlewood's average length has come down to 6.16 this Test, it was 7.31 metres in the first. From the TV graphic"}]Hazlewood's average length has come down to 6.16 this Test, it was 7.31 metres in the first. From the TV graphic
+Pulled confidently, rolls to the left of deep square leg. Was a bumper around shoulder-height just outside off
+Hazlewood's average length has come down to 6.16 this Test, it was 7.31 metres in the first. From the TV graphic
 
 Balls faced: 16
 Bowler: Hazlewood
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length just outside off. Wonder if Blundell was camping on the back foot. Got square-on this time and punched it with an open face, to point"}]Length just outside off. Wonder if Blundell was camping on the back foot. Got square-on this time and punched it with an open face, to point
+Length just outside off. Wonder if Blundell was camping on the back foot. Got square-on this time and punched it with an open face, to point
 
 
 Balls faced: 17
 Bowler: Hazlewood
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on the pads, beats the flick and deflects off the top of pad to the off side. Think that decked back sharply"}]Length on the pads, beats the flick and deflects off the top of pad to the off side. Think that decked back sharply
-[{"type": "HTML", "html": "Neel: \"Hazlewood is just a dream for a captain, so metronomic, As a batsman you have to play most of the balls, and as soon as you go fishing you are in trouble.\""}]Neel: "Hazlewood is just a dream for a captain, so metronomic, As a batsman you have to play most of the balls, and as soon as you go fishing you are in trouble."
+Length on the pads, beats the flick and deflects off the top of pad to the off side. Think that decked back sharply
+Neel: "Hazlewood is just a dream for a captain, so metronomic, As a batsman you have to play most of the balls, and as soon as you go fishing you are in trouble."
 
 Balls faced: 18
 Bowler: Hazlewood
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, stays behind it and defends solidly off the back foot with a straight bat"}]Length on off, stays behind it and defends solidly off the back foot with a straight bat
+Length on off, stays behind it and defends solidly off the back foot with a straight bat
 
 
 Balls faced: 19
 Bowler: Hazlewood
 Over: 34
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 3
 
 
-[{"type": "HTML", "html": "Pitched up around off, Blundell tries driving through mid-off/extra. Gets a thickish outside edge that takes it through cover point almost. Stopped in the deep"}]Pitched up around off, Blundell tries driving through mid-off/extra. Gets a thickish outside edge that takes it through cover point almost. Stopped in the deep
+Pitched up around off, Blundell tries driving through mid-off/extra. Gets a thickish outside edge that takes it through cover point almost. Stopped in the deep
 
 
 Balls faced: 20
 Bowler: Hazlewood
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of length outside off, punched to point's right"}]Back of length outside off, punched to point's right
+Back of length outside off, punched to point's right
 
 
 Balls faced: 21
 Bowler: Hazlewood
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Three-quarter length in the channel, 136ks, big stride across followed by a leave from Blundell"}]Three-quarter length in the channel, 136ks, big stride across followed by a leave from Blundell
+Three-quarter length in the channel, 136ks, big stride across followed by a leave from Blundell
 
 
 Balls faced: 22
 Bowler: Hazlewood
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tries to clip it across the line, plinked it onto body"}]Tries to clip it across the line, plinked it onto body
-[{"type": "HTML", "html": "Banshee : \"Kiwi fans must be feeling quite smug. Their prophecies of a batting collapse have come true!\""}]Banshee : "Kiwi fans must be feeling quite smug. Their prophecies of a batting collapse have come true!"
+Tries to clip it across the line, plinked it onto body
+Banshee : "Kiwi fans must be feeling quite smug. Their prophecies of a batting collapse have come true!"
 
 Balls faced: 23
 Bowler: Hazlewood
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Almost a drag-on</strong>. Length ball lands around off and decks back in, Blundell tried defending towards mid-off and got an inside edge wide of the keeper"}]<strong>Almost a drag-on</strong>. Length ball lands around off and decks back in, Blundell tried defending towards mid-off and got an inside edge wide of the keeper
+<strong>Almost a drag-on</strong>. Length ball lands around off and decks back in, Blundell tried defending towards mid-off and got an inside edge wide of the keeper
 
 
 Balls faced: 24
 Bowler: Cummins
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on leg, clipped through square leg to the man in the deep"}]Length on leg, clipped through square leg to the man in the deep
+Length on leg, clipped through square leg to the man in the deep
 
 
 Balls faced: 25
 Bowler: Cummins
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball through fifth, Blundell stood upright and shaped to play at it. Abandoned that plan quickly by getting the hands low"}]Shortish ball through fifth, Blundell stood upright and shaped to play at it. Abandoned that plan quickly by getting the hands low
+Shortish ball through fifth, Blundell stood upright and shaped to play at it. Abandoned that plan quickly by getting the hands low
 
 
 Balls faced: 26
 Bowler: Cummins
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide on a fullish length, let go"}]Wide on a fullish length, let go
-[{"type": "HTML", "html": "Tim starting with the <strike>sledging</strike> mental disintegration already, \"I can hear NZ fans scrambling through their weather apps already.\""}]Tim starting with the <strike>sledging</strike> mental disintegration already, "I can hear NZ fans scrambling through their weather apps already."
+Wide on a fullish length, let go
+Tim starting with the <strike>sledging</strike> mental disintegration already, "I can hear NZ fans scrambling through their weather apps already."
 
 Balls faced: 27
 Bowler: Cummins
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Overpitched on leg, 138ks, Blundell helps it with a flick through midwicket. Got leg side of the ball and let the outfield do the rest"}]Overpitched on leg, 138ks, Blundell helps it with a flick through midwicket. Got leg side of the ball and let the outfield do the rest
+Overpitched on leg, 138ks, Blundell helps it with a flick through midwicket. Got leg side of the ball and let the outfield do the rest
 
 
 Balls faced: 28
 Bowler: Starc
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length around off, defended to cover"}]Length around off, defended to cover
+Length around off, defended to cover
 
 
 Balls faced: 29
 Bowler: Starc
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Is that a drop by Green at gully? Ball was racing</strong>. He got low to the left and tried to scoop the ball up from close to the grass but couldn't hold on. Was a length ball angling outside off, 141ks, that Blundell chopped powerfully."}]<strong>Is that a drop by Green at gully? Ball was racing</strong>. He got low to the left and tried to scoop the ball up from close to the grass but couldn't hold on. Was a length ball angling outside off, 141ks, that Blundell chopped powerfully.
+<strong>Is that a drop by Green at gully? Ball was racing</strong>. He got low to the left and tried to scoop the ball up from close to the grass but couldn't hold on. Was a length ball angling outside off, 141ks, that Blundell chopped powerfully.
 
 
 Balls faced: 30
 Bowler: Starc
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pitched a tad too full around off, driven sweetly to mid-off. Blundell not bothering with soft hands, the connection - when there - has been decent"}]Pitched a tad too full around off, driven sweetly to mid-off. Blundell not bothering with soft hands, the connection - when there - has been decent
-[{"type": "HTML", "html": "Clark: \"I just don't think NZ truly believe they can beat Australia in test cricket. Mark Waugh said something similar during the week.\" I mean, if it's true it's true but it's also kind of a self-fulfilling prophecy"}]Clark: "I just don't think NZ truly believe they can beat Australia in test cricket. Mark Waugh said something similar during the week." I mean, if it's true it's true but it's also kind of a self-fulfilling prophecy
+Pitched a tad too full around off, driven sweetly to mid-off. Blundell not bothering with soft hands, the connection - when there - has been decent
+Clark: "I just don't think NZ truly believe they can beat Australia in test cricket. Mark Waugh said something similar during the week." I mean, if it's true it's true but it's also kind of a self-fulfilling prophecy
 
 Balls faced: 31
 Bowler: Starc
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Induces the drive and beats it. Starc pitching it in Blundell's half but angles it away wide of off stump, a full-blooded drive was attempted with a flamboyant follow-through. Met with thin air"}]Induces the drive and beats it. Starc pitching it in Blundell's half but angles it away wide of off stump, a full-blooded drive was attempted with a flamboyant follow-through. Met with thin air
+Induces the drive and beats it. Starc pitching it in Blundell's half but angles it away wide of off stump, a full-blooded drive was attempted with a flamboyant follow-through. Met with thin air
 
 
 Balls faced: 32
 Bowler: Starc
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length around off, defended to point"}]Length around off, defended to point
+Length around off, defended to point
 
 
 Balls faced: 33
 Bowler: Starc
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Starc is back"}]Starc is back
+Starc is back
 
-[{"type": "HTML", "html": "Overpitched on off, Blundell check-punches through the line. Marnus runs back and stops it in the mid-off outfield"}]Overpitched on off, Blundell check-punches through the line. Marnus runs back and stops it in the mid-off outfield
+Overpitched on off, Blundell check-punches through the line. Marnus runs back and stops it in the mid-off outfield
 
 
 Balls faced: 34
 Bowler: Hazlewood
 Over: 34
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 3
 
 
-[{"type": "HTML", "html": "Pitched up around off, Blundell tries driving through mid-off/extra. Gets a thickish outside edge that takes it through cover point almost. Stopped in the deep"}]Pitched up around off, Blundell tries driving through mid-off/extra. Gets a thickish outside edge that takes it through cover point almost. Stopped in the deep
+Pitched up around off, Blundell tries driving through mid-off/extra. Gets a thickish outside edge that takes it through cover point almost. Stopped in the deep
 
 
 Balls faced: 35
 Bowler: Hazlewood
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of length outside off, punched to point's right"}]Back of length outside off, punched to point's right
+Back of length outside off, punched to point's right
 
 
 Balls faced: 36
 Bowler: Hazlewood
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Three-quarter length in the channel, 136ks, big stride across followed by a leave from Blundell"}]Three-quarter length in the channel, 136ks, big stride across followed by a leave from Blundell
+Three-quarter length in the channel, 136ks, big stride across followed by a leave from Blundell
 
 
 Balls faced: 37
 Bowler: Hazlewood
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tries to clip it across the line, plinked it onto body"}]Tries to clip it across the line, plinked it onto body
-[{"type": "HTML", "html": "Banshee : \"Kiwi fans must be feeling quite smug. Their prophecies of a batting collapse have come true!\""}]Banshee : "Kiwi fans must be feeling quite smug. Their prophecies of a batting collapse have come true!"
+Tries to clip it across the line, plinked it onto body
+Banshee : "Kiwi fans must be feeling quite smug. Their prophecies of a batting collapse have come true!"
 
 Balls faced: 38
 Bowler: Hazlewood
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Almost a drag-on</strong>. Length ball lands around off and decks back in, Blundell tried defending towards mid-off and got an inside edge wide of the keeper"}]<strong>Almost a drag-on</strong>. Length ball lands around off and decks back in, Blundell tried defending towards mid-off and got an inside edge wide of the keeper
+<strong>Almost a drag-on</strong>. Length ball lands around off and decks back in, Blundell tried defending towards mid-off and got an inside edge wide of the keeper
 
 
 Balls faced: 39
 Bowler: Green
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Defends the length ball in front"}]Defends the length ball in front
+Defends the length ball in front
 
 
 Balls faced: 40
 Bowler: Green
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Cut into the pitch behind, luckily it's wide of the stumps. Carey runs to the left and takes it on the bounce. Was a wide shortish ball that Blundell tried to crash square of the wicket. His gameplan seems simple: if the ball offers a boundary-scoring option, go for it"}]Cut into the pitch behind, luckily it's wide of the stumps. Carey runs to the left and takes it on the bounce. Was a wide shortish ball that Blundell tried to crash square of the wicket. His gameplan seems simple: if the ball offers a boundary-scoring option, go for it
+Cut into the pitch behind, luckily it's wide of the stumps. Carey runs to the left and takes it on the bounce. Was a wide shortish ball that Blundell tried to crash square of the wicket. His gameplan seems simple: if the ball offers a boundary-scoring option, go for it
 
 
 Balls faced: 41
 Bowler: Green
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Jags back from a back of a length. Landed around fourth and hit him on the thigh pad on a leg-stump line. Beats the flick"}]Jags back from a back of a length. Landed around fourth and hit him on the thigh pad on a leg-stump line. Beats the flick
-[{"type": "HTML", "html": "Geoff: \"This could be all part of the master plan get Aussie batting as soon as possible so NZ can make use of the bowling conditions for the FOUR right arm seamers.\""}]Geoff: "This could be all part of the master plan get Aussie batting as soon as possible so NZ can make use of the bowling conditions for the FOUR right arm seamers."
+Jags back from a back of a length. Landed around fourth and hit him on the thigh pad on a leg-stump line. Beats the flick
+Geoff: "This could be all part of the master plan get Aussie batting as soon as possible so NZ can make use of the bowling conditions for the FOUR right arm seamers."
 
 Balls faced: 42
 Bowler: Green
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Latches onto the pull. Shortish but under chest-height, Blundell swivels and bashes it through midwicket"}]Latches onto the pull. Shortish but under chest-height, Blundell swivels and bashes it through midwicket
+Latches onto the pull. Shortish but under chest-height, Blundell swivels and bashes it through midwicket
 
 
 Balls faced: 43
 Bowler: Starc
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length around off, defended to cover"}]Length around off, defended to cover
+Length around off, defended to cover
 
 
 Balls faced: 44
 Bowler: Starc
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Is that a drop by Green at gully? Ball was racing</strong>. He got low to the left and tried to scoop the ball up from close to the grass but couldn't hold on. Was a length ball angling outside off, 141ks, that Blundell chopped powerfully."}]<strong>Is that a drop by Green at gully? Ball was racing</strong>. He got low to the left and tried to scoop the ball up from close to the grass but couldn't hold on. Was a length ball angling outside off, 141ks, that Blundell chopped powerfully.
+<strong>Is that a drop by Green at gully? Ball was racing</strong>. He got low to the left and tried to scoop the ball up from close to the grass but couldn't hold on. Was a length ball angling outside off, 141ks, that Blundell chopped powerfully.
 
 
 Balls faced: 45
 Bowler: Starc
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pitched a tad too full around off, driven sweetly to mid-off. Blundell not bothering with soft hands, the connection - when there - has been decent"}]Pitched a tad too full around off, driven sweetly to mid-off. Blundell not bothering with soft hands, the connection - when there - has been decent
-[{"type": "HTML", "html": "Clark: \"I just don't think NZ truly believe they can beat Australia in test cricket. Mark Waugh said something similar during the week.\" I mean, if it's true it's true but it's also kind of a self-fulfilling prophecy"}]Clark: "I just don't think NZ truly believe they can beat Australia in test cricket. Mark Waugh said something similar during the week." I mean, if it's true it's true but it's also kind of a self-fulfilling prophecy
+Pitched a tad too full around off, driven sweetly to mid-off. Blundell not bothering with soft hands, the connection - when there - has been decent
+Clark: "I just don't think NZ truly believe they can beat Australia in test cricket. Mark Waugh said something similar during the week." I mean, if it's true it's true but it's also kind of a self-fulfilling prophecy
 
 Balls faced: 46
 Bowler: Starc
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Induces the drive and beats it. Starc pitching it in Blundell's half but angles it away wide of off stump, a full-blooded drive was attempted with a flamboyant follow-through. Met with thin air"}]Induces the drive and beats it. Starc pitching it in Blundell's half but angles it away wide of off stump, a full-blooded drive was attempted with a flamboyant follow-through. Met with thin air
+Induces the drive and beats it. Starc pitching it in Blundell's half but angles it away wide of off stump, a full-blooded drive was attempted with a flamboyant follow-through. Met with thin air
 
 
 Balls faced: 47
 Bowler: Starc
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length around off, defended to point"}]Length around off, defended to point
+Length around off, defended to point
 
 
 Balls faced: 48
 Bowler: Starc
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Starc is back"}]Starc is back
+Starc is back
 
-[{"type": "HTML", "html": "Overpitched on off, Blundell check-punches through the line. Marnus runs back and stops it in the mid-off outfield"}]Overpitched on off, Blundell check-punches through the line. Marnus runs back and stops it in the mid-off outfield
+Overpitched on off, Blundell check-punches through the line. Marnus runs back and stops it in the mid-off outfield
 
 
 Balls faced: 49
 Bowler: Starc
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "He's played the pull well. Not that short and he nails it to deep midwicket"}]He's played the pull well. Not that short and he nails it to deep midwicket
+He's played the pull well. Not that short and he nails it to deep midwicket
 
 
 Balls faced: 50
 Bowler: Starc
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Punches it off the back foot with an open face, through cover point. Head chases into the outfield to stop it. Length on fifth, Blundell pretty much stands like normal and lets his hands go through the line of the ball"}]Punches it off the back foot with an open face, through cover point. Head chases into the outfield to stop it. Length on fifth, Blundell pretty much stands like normal and lets his hands go through the line of the ball
+Punches it off the back foot with an open face, through cover point. Head chases into the outfield to stop it. Length on fifth, Blundell pretty much stands like normal and lets his hands go through the line of the ball
 
 
 Balls faced: 51
 Bowler: Starc
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length around fourth, 141ks, Blundell defends off the back foot towards cover. He yelled 'no,' Phillips took a couple steps which were met with five of those loud calls. All good in the end"}]Length around fourth, 141ks, Blundell defends off the back foot towards cover. He yelled 'no,' Phillips took a couple steps which were met with five of those loud calls. All good in the end
+Length around fourth, 141ks, Blundell defends off the back foot towards cover. He yelled 'no,' Phillips took a couple steps which were met with five of those loud calls. All good in the end
 
 
 Balls faced: 52
 Bowler: Green
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Defends the length ball in front"}]Defends the length ball in front
+Defends the length ball in front
 
 
 Balls faced: 53
 Bowler: Green
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Cut into the pitch behind, luckily it's wide of the stumps. Carey runs to the left and takes it on the bounce. Was a wide shortish ball that Blundell tried to crash square of the wicket. His gameplan seems simple: if the ball offers a boundary-scoring option, go for it"}]Cut into the pitch behind, luckily it's wide of the stumps. Carey runs to the left and takes it on the bounce. Was a wide shortish ball that Blundell tried to crash square of the wicket. His gameplan seems simple: if the ball offers a boundary-scoring option, go for it
+Cut into the pitch behind, luckily it's wide of the stumps. Carey runs to the left and takes it on the bounce. Was a wide shortish ball that Blundell tried to crash square of the wicket. His gameplan seems simple: if the ball offers a boundary-scoring option, go for it
 
 
 Balls faced: 54
 Bowler: Green
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Jags back from a back of a length. Landed around fourth and hit him on the thigh pad on a leg-stump line. Beats the flick"}]Jags back from a back of a length. Landed around fourth and hit him on the thigh pad on a leg-stump line. Beats the flick
-[{"type": "HTML", "html": "Geoff: \"This could be all part of the master plan get Aussie batting as soon as possible so NZ can make use of the bowling conditions for the FOUR right arm seamers.\""}]Geoff: "This could be all part of the master plan get Aussie batting as soon as possible so NZ can make use of the bowling conditions for the FOUR right arm seamers."
+Jags back from a back of a length. Landed around fourth and hit him on the thigh pad on a leg-stump line. Beats the flick
+Geoff: "This could be all part of the master plan get Aussie batting as soon as possible so NZ can make use of the bowling conditions for the FOUR right arm seamers."
 
 Balls faced: 55
 Bowler: Green
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Latches onto the pull. Shortish but under chest-height, Blundell swivels and bashes it through midwicket"}]Latches onto the pull. Shortish but under chest-height, Blundell swivels and bashes it through midwicket
+Latches onto the pull. Shortish but under chest-height, Blundell swivels and bashes it through midwicket
 
 
 Balls faced: 56
 Bowler: Green
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>has he been caught down the leg side?</strong> Yes, it's taken the glove as he goes for the pull. Short, went after it, good take by Carey. Blundell called for the review but he didn't save him"}]<strong>has he been caught down the leg side?</strong> Yes, it's taken the glove as he goes for the pull. Short, went after it, good take by Carey. Blundell called for the review but he didn't save him
-[{"type": "HTML", "html": "The New Zealand collapse gathers speed"}]The New Zealand collapse gathers speed
+Blundell is OUT! caught
+c †Carey b Green
+Tom Blundell c †Carey b Green 22 (31b 3x4 0x6 46m) SR: 70.96
+<strong>has he been caught down the leg side?</strong> Yes, it's taken the glove as he goes for the pull. Short, went after it, good take by Carey. Blundell called for the review but he didn't save him
+The New Zealand collapse gathers speed
 
 Balls faced: 57
 Bowler: Green
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Thanks Ekanth. It's all happening"}]Thanks Ekanth. It's all happening
+Thanks Ekanth. It's all happening
 
-[{"type": "HTML", "html": "defended to the off side"}]defended to the off side
+defended to the off side
 
 
 Balls faced: 58
 Bowler: Starc
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "He's played the pull well. Not that short and he nails it to deep midwicket"}]He's played the pull well. Not that short and he nails it to deep midwicket
+He's played the pull well. Not that short and he nails it to deep midwicket
 
 
 Balls faced: 59
 Bowler: Starc
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Punches it off the back foot with an open face, through cover point. Head chases into the outfield to stop it. Length on fifth, Blundell pretty much stands like normal and lets his hands go through the line of the ball"}]Punches it off the back foot with an open face, through cover point. Head chases into the outfield to stop it. Length on fifth, Blundell pretty much stands like normal and lets his hands go through the line of the ball
+Punches it off the back foot with an open face, through cover point. Head chases into the outfield to stop it. Length on fifth, Blundell pretty much stands like normal and lets his hands go through the line of the ball
 
 
 Balls faced: 60
 Bowler: Starc
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length around fourth, 141ks, Blundell defends off the back foot towards cover. He yelled 'no,' Phillips took a couple steps which were met with five of those loud calls. All good in the end"}]Length around fourth, 141ks, Blundell defends off the back foot towards cover. He yelled 'no,' Phillips took a couple steps which were met with five of those loud calls. All good in the end
+Length around fourth, 141ks, Blundell defends off the back foot towards cover. He yelled 'no,' Phillips took a couple steps which were met with five of those loud calls. All good in the end
 
 
 Balls faced: 61
 Bowler: Green
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>has he been caught down the leg side?</strong> Yes, it's taken the glove as he goes for the pull. Short, went after it, good take by Carey. Blundell called for the review but he didn't save him"}]<strong>has he been caught down the leg side?</strong> Yes, it's taken the glove as he goes for the pull. Short, went after it, good take by Carey. Blundell called for the review but he didn't save him
-[{"type": "HTML", "html": "The New Zealand collapse gathers speed"}]The New Zealand collapse gathers speed
+Blundell is OUT! caught
+c †Carey b Green
+Tom Blundell c †Carey b Green 22 (31b 3x4 0x6 46m) SR: 70.96
+<strong>has he been caught down the leg side?</strong> Yes, it's taken the glove as he goes for the pull. Short, went after it, good take by Carey. Blundell called for the review but he didn't save him
+The New Zealand collapse gathers speed
 
 Balls faced: 62
 Bowler: Green
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Thanks Ekanth. It's all happening"}]Thanks Ekanth. It's all happening
+Thanks Ekanth. It's all happening
 
-[{"type": "HTML", "html": "defended to the off side"}]defended to the off side
+defended to the off side
 
 
 
@@ -1486,321 +1642,357 @@ Match: all_games_1424827_1424832.json
 Balls faced: 1
 Bowler: Imad Wasim
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Lobbed up, tries to keep it wicket to wicket, nudged away gently to deep backward square"}]Lobbed up, tries to keep it wicket to wicket, nudged away gently to deep backward square
+Lobbed up, tries to keep it wicket to wicket, nudged away gently to deep backward square
 
 
 Balls faced: 2
 Bowler: Imad Wasim
 Over: 1
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fires it on a length across off, kept a touch low, hurriedly punched down the pitch"}]Fires it on a length across off, kept a touch low, hurriedly punched down the pitch
+Fires it on a length across off, kept a touch low, hurriedly punched down the pitch
 
 Wide: 1
 Balls faced: 3
 Bowler: Amir
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Bowls a leg-cutter again on middle climbing from back of a length, stays stuck on his crease and bunts it square of midwicket"}]Bowls a leg-cutter again on middle climbing from back of a length, stays stuck on his crease and bunts it square of midwicket
+Bowls a leg-cutter again on middle climbing from back of a length, stays stuck on his crease and bunts it square of midwicket
 
 
 Balls faced: 4
 Bowler: Amir
 Over: 2
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bowls a cunning cutter as he goes for a massive swish and misses it completely, came down the track but got beaten by the change of pace"}]Bowls a cunning cutter as he goes for a massive swish and misses it completely, came down the track but got beaten by the change of pace
+Bowls a cunning cutter as he goes for a massive swish and misses it completely, came down the track but got beaten by the change of pace
 
 
 Balls faced: 5
 Bowler: Amir
 Over: 2
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: HOOK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Over the wicket, goes short and errs on the leg side, he <strong>effortlessly </strong>hauls it away over backward square for a four, that's easy pickings, loose delivery, placed beautifully in the gap"}]Over the wicket, goes short and errs on the leg side, he <strong>effortlessly </strong>hauls it away over backward square for a four, that's easy pickings, loose delivery, placed beautifully in the gap
-[{"type": "HTML", "html": "There is a bit of a discussion going on between Babar, Amir and the umpire. Looks like they want to check the ball"}]There is a bit of a discussion going on between Babar, Amir and the umpire. Looks like they want to check the ball
+Over the wicket, goes short and errs on the leg side, he <strong>effortlessly </strong>hauls it away over backward square for a four, that's easy pickings, loose delivery, placed beautifully in the gap
+There is a bit of a discussion going on between Babar, Amir and the umpire. Looks like they want to check the ball
 
 Balls faced: 6
 Bowler: Imad Wasim
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Lobbed up, tries to keep it wicket to wicket, nudged away gently to deep backward square"}]Lobbed up, tries to keep it wicket to wicket, nudged away gently to deep backward square
+Lobbed up, tries to keep it wicket to wicket, nudged away gently to deep backward square
 
 
 Balls faced: 7
 Bowler: Imad Wasim
 Over: 1
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fires it on a length across off, kept a touch low, hurriedly punched down the pitch"}]Fires it on a length across off, kept a touch low, hurriedly punched down the pitch
+Fires it on a length across off, kept a touch low, hurriedly punched down the pitch
 
 Wide: 1
 Balls faced: 8
 Bowler: Zaman Khan
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Little bit short around the line off, pulls it across the line straight to midwicket inside the 30-yard circle"}]Little bit short around the line off, pulls it across the line straight to midwicket inside the 30-yard circle
+Little bit short around the line off, pulls it across the line straight to midwicket inside the 30-yard circle
 
 
 Balls faced: 9
 Bowler: Zaman Khan
 Over: 3
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Searching for the yorker, doesn't land in the blockhole, and he greets him with a terrific hit past deep midwicket for a four, no violence, pure timing, treat to watch!"}]Searching for the yorker, doesn't land in the blockhole, and he greets him with a terrific hit past deep midwicket for a four, no violence, pure timing, treat to watch!
+Searching for the yorker, doesn't land in the blockhole, and he greets him with a terrific hit past deep midwicket for a four, no violence, pure timing, treat to watch!
 
 
 Balls faced: 10
 Bowler: Zaman Khan
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortens his length, it's on middle, flicked to mid-on and takes a scampered single, direct hit at non-striker's end could have been close"}]Shortens his length, it's on middle, flicked to mid-on and takes a scampered single, direct hit at non-striker's end could have been close
+Shortens his length, it's on middle, flicked to mid-on and takes a scampered single, direct hit at non-striker's end could have been close
 
 
 Balls faced: 11
 Bowler: Zaman Khan
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Zaman into the attack. Slightly shorter and wagging away outside off, picks it late and checks his shot to point, yells no to the non-striker"}]Zaman into the attack. Slightly shorter and wagging away outside off, picks it late and checks his shot to point, yells no to the non-striker
+Zaman into the attack. Slightly shorter and wagging away outside off, picks it late and checks his shot to point, yells no to the non-striker
 
 
 Balls faced: 12
 Bowler: Amir
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Bowls a leg-cutter again on middle climbing from back of a length, stays stuck on his crease and bunts it square of midwicket"}]Bowls a leg-cutter again on middle climbing from back of a length, stays stuck on his crease and bunts it square of midwicket
+Bowls a leg-cutter again on middle climbing from back of a length, stays stuck on his crease and bunts it square of midwicket
 
 
 Balls faced: 13
 Bowler: Amir
 Over: 2
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bowls a cunning cutter as he goes for a massive swish and misses it completely, came down the track but got beaten by the change of pace"}]Bowls a cunning cutter as he goes for a massive swish and misses it completely, came down the track but got beaten by the change of pace
+Bowls a cunning cutter as he goes for a massive swish and misses it completely, came down the track but got beaten by the change of pace
 
 
 Balls faced: 14
 Bowler: Amir
 Over: 2
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: HOOK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Over the wicket, goes short and errs on the leg side, he <strong>effortlessly </strong>hauls it away over backward square for a four, that's easy pickings, loose delivery, placed beautifully in the gap"}]Over the wicket, goes short and errs on the leg side, he <strong>effortlessly </strong>hauls it away over backward square for a four, that's easy pickings, loose delivery, placed beautifully in the gap
-[{"type": "HTML", "html": "There is a bit of a discussion going on between Babar, Amir and the umpire. Looks like they want to check the ball"}]There is a bit of a discussion going on between Babar, Amir and the umpire. Looks like they want to check the ball
+Over the wicket, goes short and errs on the leg side, he <strong>effortlessly </strong>hauls it away over backward square for a four, that's easy pickings, loose delivery, placed beautifully in the gap
+There is a bit of a discussion going on between Babar, Amir and the umpire. Looks like they want to check the ball
 
 Balls faced: 15
 Bowler: Abbas Afridi
 Over: 4
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Held his length back and kept it away from the firing range, keeping it just inside the tramline, reached out and punched into the covers"}]Held his length back and kept it away from the firing range, keeping it just inside the tramline, reached out and punched into the covers
+Held his length back and kept it away from the firing range, keeping it just inside the tramline, reached out and punched into the covers
 
 
 Balls faced: 16
 Bowler: Abbas Afridi
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Prances down the track and rifles it down the floor past mid-on for a blistering <strong>boundary</strong>, New Zealand are off to a flier, Abbas has been put under pressure straightaway"}]Prances down the track and rifles it down the floor past mid-on for a blistering <strong>boundary</strong>, New Zealand are off to a flier, Abbas has been put under pressure straightaway
+Prances down the track and rifles it down the floor past mid-on for a blistering <strong>boundary</strong>, New Zealand are off to a flier, Abbas has been put under pressure straightaway
 
 
 Balls faced: 17
 Bowler: Zaman Khan
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Little bit short around the line off, pulls it across the line straight to midwicket inside the 30-yard circle"}]Little bit short around the line off, pulls it across the line straight to midwicket inside the 30-yard circle
+Little bit short around the line off, pulls it across the line straight to midwicket inside the 30-yard circle
 
 
 Balls faced: 18
 Bowler: Zaman Khan
 Over: 3
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Searching for the yorker, doesn't land in the blockhole, and he greets him with a terrific hit past deep midwicket for a four, no violence, pure timing, treat to watch!"}]Searching for the yorker, doesn't land in the blockhole, and he greets him with a terrific hit past deep midwicket for a four, no violence, pure timing, treat to watch!
+Searching for the yorker, doesn't land in the blockhole, and he greets him with a terrific hit past deep midwicket for a four, no violence, pure timing, treat to watch!
 
 
 Balls faced: 19
 Bowler: Zaman Khan
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortens his length, it's on middle, flicked to mid-on and takes a scampered single, direct hit at non-striker's end could have been close"}]Shortens his length, it's on middle, flicked to mid-on and takes a scampered single, direct hit at non-striker's end could have been close
+Shortens his length, it's on middle, flicked to mid-on and takes a scampered single, direct hit at non-striker's end could have been close
 
 
 Balls faced: 20
 Bowler: Zaman Khan
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Zaman into the attack. Slightly shorter and wagging away outside off, picks it late and checks his shot to point, yells no to the non-striker"}]Zaman into the attack. Slightly shorter and wagging away outside off, picks it late and checks his shot to point, yells no to the non-striker
+Zaman into the attack. Slightly shorter and wagging away outside off, picks it late and checks his shot to point, yells no to the non-striker
 
 
 Balls faced: 21
 Bowler: Zaman Khan
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Pakistan finally manage to get a breakthrough!</strong> Usama Mir takes a superb running catch at short third, much-needed wicket for Pakistan. Blundell committed to the pull too early, just checked his shot and got the top edge that ballooned up, Usama was alert behind square on the leg side, sprinted across and gobbled it up down his throat with ease. Will this bring the scoring rate down?"}]<strong>Pakistan finally manage to get a breakthrough!</strong> Usama Mir takes a superb running catch at short third, much-needed wicket for Pakistan. Blundell committed to the pull too early, just checked his shot and got the top edge that ballooned up, Usama was alert behind square on the leg side, sprinted across and gobbled it up down his throat with ease. Will this bring the scoring rate down?
+Blundell is OUT! caught
+c Usama Mir b Zaman Khan
+Tom Blundell c Usama Mir b Zaman Khan 28 (15b 5x4 0x6 25m) SR: 186.66
+<strong>Pakistan finally manage to get a breakthrough!</strong> Usama Mir takes a superb running catch at short third, much-needed wicket for Pakistan. Blundell committed to the pull too early, just checked his shot and got the top edge that ballooned up, Usama was alert behind square on the leg side, sprinted across and gobbled it up down his throat with ease. Will this bring the scoring rate down?
 
 
 Balls faced: 22
 Bowler: Zaman Khan
 Over: 5
+ 
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Run-out chance gone begging! Second wasn't on, Zaman was a bit zoned out, Babar went past him at short mid-off and I think he couldn't track it well, that was hit in the air towards the leg side, dicey call for the second"}]Run-out chance gone begging! Second wasn't on, Zaman was a bit zoned out, Babar went past him at short mid-off and I think he couldn't track it well, that was hit in the air towards the leg side, dicey call for the second
+Run-out chance gone begging! Second wasn't on, Zaman was a bit zoned out, Babar went past him at short mid-off and I think he couldn't track it well, that was hit in the air towards the leg side, dicey call for the second
 
 
 Balls faced: 23
 Bowler: Zaman Khan
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Bustling in, gets the yorker right but he knew what was coming and was ready for that, shimmies to the leg side, opens his blade and steers it in the gap between short third and backward point, <strong>superbly done! </strong>"}]Bustling in, gets the yorker right but he knew what was coming and was ready for that, shimmies to the leg side, opens his blade and steers it in the gap between short third and backward point, <strong>superbly done! </strong>
+Bustling in, gets the yorker right but he knew what was coming and was ready for that, shimmies to the leg side, opens his blade and steers it in the gap between short third and backward point, <strong>superbly done! </strong>
 
 
 Balls faced: 24
 Bowler: Zaman Khan
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fraction short outside off, tries to club him over midwicket, hasn't quite got hold of it properly"}]Fraction short outside off, tries to club him over midwicket, hasn't quite got hold of it properly
+Fraction short outside off, tries to club him over midwicket, hasn't quite got hold of it properly
 
 
 Balls faced: 25
 Bowler: Zaman Khan
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Length with hardly any discernable movement at middle, gets behind the line and tonks it disdainfully up and over mid-on for a four, it's been a sloppy start from Pakistan, they just seem unsettled"}]Length with hardly any discernable movement at middle, gets behind the line and tonks it disdainfully up and over mid-on for a four, it's been a sloppy start from Pakistan, they just seem unsettled
+Length with hardly any discernable movement at middle, gets behind the line and tonks it disdainfully up and over mid-on for a four, it's been a sloppy start from Pakistan, they just seem unsettled
 
 
 Balls faced: 26
 Bowler: Abbas Afridi
 Over: 4
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Held his length back and kept it away from the firing range, keeping it just inside the tramline, reached out and punched into the covers"}]Held his length back and kept it away from the firing range, keeping it just inside the tramline, reached out and punched into the covers
+Held his length back and kept it away from the firing range, keeping it just inside the tramline, reached out and punched into the covers
 
 
 Balls faced: 27
 Bowler: Abbas Afridi
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Prances down the track and rifles it down the floor past mid-on for a blistering <strong>boundary</strong>, New Zealand are off to a flier, Abbas has been put under pressure straightaway"}]Prances down the track and rifles it down the floor past mid-on for a blistering <strong>boundary</strong>, New Zealand are off to a flier, Abbas has been put under pressure straightaway
+Prances down the track and rifles it down the floor past mid-on for a blistering <strong>boundary</strong>, New Zealand are off to a flier, Abbas has been put under pressure straightaway
 
 
 Balls faced: 28
 Bowler: Zaman Khan
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Pakistan finally manage to get a breakthrough!</strong> Usama Mir takes a superb running catch at short third, much-needed wicket for Pakistan. Blundell committed to the pull too early, just checked his shot and got the top edge that ballooned up, Usama was alert behind square on the leg side, sprinted across and gobbled it up down his throat with ease. Will this bring the scoring rate down?"}]<strong>Pakistan finally manage to get a breakthrough!</strong> Usama Mir takes a superb running catch at short third, much-needed wicket for Pakistan. Blundell committed to the pull too early, just checked his shot and got the top edge that ballooned up, Usama was alert behind square on the leg side, sprinted across and gobbled it up down his throat with ease. Will this bring the scoring rate down?
+Blundell is OUT! caught
+c Usama Mir b Zaman Khan
+Tom Blundell c Usama Mir b Zaman Khan 28 (15b 5x4 0x6 25m) SR: 186.66
+<strong>Pakistan finally manage to get a breakthrough!</strong> Usama Mir takes a superb running catch at short third, much-needed wicket for Pakistan. Blundell committed to the pull too early, just checked his shot and got the top edge that ballooned up, Usama was alert behind square on the leg side, sprinted across and gobbled it up down his throat with ease. Will this bring the scoring rate down?
 
 
 Balls faced: 29
 Bowler: Zaman Khan
 Over: 5
+ 
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Run-out chance gone begging! Second wasn't on, Zaman was a bit zoned out, Babar went past him at short mid-off and I think he couldn't track it well, that was hit in the air towards the leg side, dicey call for the second"}]Run-out chance gone begging! Second wasn't on, Zaman was a bit zoned out, Babar went past him at short mid-off and I think he couldn't track it well, that was hit in the air towards the leg side, dicey call for the second
+Run-out chance gone begging! Second wasn't on, Zaman was a bit zoned out, Babar went past him at short mid-off and I think he couldn't track it well, that was hit in the air towards the leg side, dicey call for the second
 
 
 Balls faced: 30
 Bowler: Zaman Khan
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Bustling in, gets the yorker right but he knew what was coming and was ready for that, shimmies to the leg side, opens his blade and steers it in the gap between short third and backward point, <strong>superbly done! </strong>"}]Bustling in, gets the yorker right but he knew what was coming and was ready for that, shimmies to the leg side, opens his blade and steers it in the gap between short third and backward point, <strong>superbly done! </strong>
+Bustling in, gets the yorker right but he knew what was coming and was ready for that, shimmies to the leg side, opens his blade and steers it in the gap between short third and backward point, <strong>superbly done! </strong>
 
 
 Balls faced: 31
 Bowler: Zaman Khan
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fraction short outside off, tries to club him over midwicket, hasn't quite got hold of it properly"}]Fraction short outside off, tries to club him over midwicket, hasn't quite got hold of it properly
+Fraction short outside off, tries to club him over midwicket, hasn't quite got hold of it properly
 
 
 Balls faced: 32
 Bowler: Zaman Khan
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Length with hardly any discernable movement at middle, gets behind the line and tonks it disdainfully up and over mid-on for a four, it's been a sloppy start from Pakistan, they just seem unsettled"}]Length with hardly any discernable movement at middle, gets behind the line and tonks it disdainfully up and over mid-on for a four, it's been a sloppy start from Pakistan, they just seem unsettled
+Length with hardly any discernable movement at middle, gets behind the line and tonks it disdainfully up and over mid-on for a four, it's been a sloppy start from Pakistan, they just seem unsettled
 
 
 
@@ -1808,78 +2000,90 @@ Match: all_games_1424827_1424833.json
 Balls faced: 1
 Bowler: Shaheen Shah Afridi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Gottim with an absolute jaffa! </strong> It doesn't get better than that. Hits the hard length and gets it to slant away just a wee bit and enough to get it through the gate, pings the top of off as he goes for a wild swing over midwicket, arms aloft and Shaheen kisses the air in ecstasy, how often does he get Pakistan an early wicket?"}]<strong>Gottim with an absolute jaffa! </strong> It doesn't get better than that. Hits the hard length and gets it to slant away just a wee bit and enough to get it through the gate, pings the top of off as he goes for a wild swing over midwicket, arms aloft and Shaheen kisses the air in ecstasy, how often does he get Pakistan an early wicket?
+Blundell is OUT! bowled
+ b Shaheen Shah Afridi
+Tom Blundell b Shaheen Shah Afridi 4 (4b 1x4 0x6 3m) SR: 100
+<strong>Gottim with an absolute jaffa! </strong> It doesn't get better than that. Hits the hard length and gets it to slant away just a wee bit and enough to get it through the gate, pings the top of off as he goes for a wild swing over midwicket, arms aloft and Shaheen kisses the air in ecstasy, how often does he get Pakistan an early wicket?
 
 
 Balls faced: 2
 Bowler: Shaheen Shah Afridi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Skips down the track, attacks it and powers this away from extra cover for a sizzling boundary"}]Skips down the track, attacks it and powers this away from extra cover for a sizzling boundary
+Skips down the track, attacks it and powers this away from extra cover for a sizzling boundary
 
 
 Balls faced: 3
 Bowler: Shaheen Shah Afridi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes full and it's gun-barrel straight, mistimes a chip towards mid-on"}]Goes full and it's gun-barrel straight, mistimes a chip towards mid-on
+Goes full and it's gun-barrel straight, mistimes a chip towards mid-on
 
 
 Balls faced: 4
 Bowler: Shaheen Shah Afridi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pace off and angling it away from off, can't lay bat on it, lovely channel"}]Pace off and angling it away from off, can't lay bat on it, lovely channel
+Pace off and angling it away from off, can't lay bat on it, lovely channel
 
 
 Balls faced: 5
 Bowler: Shaheen Shah Afridi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Gottim with an absolute jaffa! </strong> It doesn't get better than that. Hits the hard length and gets it to slant away just a wee bit and enough to get it through the gate, pings the top of off as he goes for a wild swing over midwicket, arms aloft and Shaheen kisses the air in ecstasy, how often does he get Pakistan an early wicket?"}]<strong>Gottim with an absolute jaffa! </strong> It doesn't get better than that. Hits the hard length and gets it to slant away just a wee bit and enough to get it through the gate, pings the top of off as he goes for a wild swing over midwicket, arms aloft and Shaheen kisses the air in ecstasy, how often does he get Pakistan an early wicket?
+Blundell is OUT! bowled
+ b Shaheen Shah Afridi
+Tom Blundell b Shaheen Shah Afridi 4 (4b 1x4 0x6 3m) SR: 100
+<strong>Gottim with an absolute jaffa! </strong> It doesn't get better than that. Hits the hard length and gets it to slant away just a wee bit and enough to get it through the gate, pings the top of off as he goes for a wild swing over midwicket, arms aloft and Shaheen kisses the air in ecstasy, how often does he get Pakistan an early wicket?
 
 
 Balls faced: 6
 Bowler: Shaheen Shah Afridi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Skips down the track, attacks it and powers this away from extra cover for a sizzling boundary"}]Skips down the track, attacks it and powers this away from extra cover for a sizzling boundary
+Skips down the track, attacks it and powers this away from extra cover for a sizzling boundary
 
 
 Balls faced: 7
 Bowler: Shaheen Shah Afridi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes full and it's gun-barrel straight, mistimes a chip towards mid-on"}]Goes full and it's gun-barrel straight, mistimes a chip towards mid-on
+Goes full and it's gun-barrel straight, mistimes a chip towards mid-on
 
 
 Balls faced: 8
 Bowler: Shaheen Shah Afridi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pace off and angling it away from off, can't lay bat on it, lovely channel"}]Pace off and angling it away from off, can't lay bat on it, lovely channel
+Pace off and angling it away from off, can't lay bat on it, lovely channel

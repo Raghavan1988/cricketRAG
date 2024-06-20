@@ -2,143 +2,165 @@ Match: all_games_1373558_1373578.json
 Balls faced: 1
 Bowler: Forde
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full, hint of outswing, Brook drives with an open face out to deep point"}]full, hint of outswing, Brook drives with an open face out to deep point
+full, hint of outswing, Brook drives with an open face out to deep point
 
 
 Balls faced: 2
 Bowler: Forde
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Harry Brook walks in with work to be done"}]Harry Brook walks in with work to be done
+Harry Brook walks in with work to be done
 
-[{"type": "HTML", "html": "good length, 135kph/83mph and steered towards backward point. Duckett wanted one but Brook was ball-watching and sends him back"}]good length, 135kph/83mph and steered towards backward point. Duckett wanted one but Brook was ball-watching and sends him back
+good length, 135kph/83mph and steered towards backward point. Duckett wanted one but Brook was ball-watching and sends him back
 
 
 Balls faced: 3
 Bowler: Alzarri Joseph
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "back of a length, turned into the leg side... <b>and Joseph throws down the stumps at the non-striker's! Brook is gone!</b> Superb work from the big man, hurtling down and pirouetting to fire off a throw with Brook stretching for the line. There was just the <i>briefest</i> hesitation from Brook, which did for him. Everything coming off for West Indies so far today"}]back of a length, turned into the leg side... <b>and Joseph throws down the stumps at the non-striker's! Brook is gone!</b> Superb work from the big man, hurtling down and pirouetting to fire off a throw with Brook stretching for the line. There was just the <i>briefest</i> hesitation from Brook, which did for him. Everything coming off for West Indies so far today
-[{"type": "HTML", "html": "In walks Jos Buttler, his country in need"}]In walks Jos Buttler, his country in need
+Brook is OUT! run out
+run out (Joseph)
+Harry Brook run out (Joseph) 1 (3b 0x4 0x6 6m) SR: 33.33
+back of a length, turned into the leg side... <b>and Joseph throws down the stumps at the non-striker's! Brook is gone!</b> Superb work from the big man, hurtling down and pirouetting to fire off a throw with Brook stretching for the line. There was just the <i>briefest</i> hesitation from Brook, which did for him. Everything coming off for West Indies so far today
+In walks Jos Buttler, his country in need
 
 Balls faced: 4
 Bowler: Forde
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full, hint of outswing, Brook drives with an open face out to deep point"}]full, hint of outswing, Brook drives with an open face out to deep point
+full, hint of outswing, Brook drives with an open face out to deep point
 
 
 Balls faced: 5
 Bowler: Forde
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Harry Brook walks in with work to be done"}]Harry Brook walks in with work to be done
+Harry Brook walks in with work to be done
 
-[{"type": "HTML", "html": "good length, 135kph/83mph and steered towards backward point. Duckett wanted one but Brook was ball-watching and sends him back"}]good length, 135kph/83mph and steered towards backward point. Duckett wanted one but Brook was ball-watching and sends him back
+good length, 135kph/83mph and steered towards backward point. Duckett wanted one but Brook was ball-watching and sends him back
 
 
 Balls faced: 6
 Bowler: Alzarri Joseph
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "back of a length, turned into the leg side... <b>and Joseph throws down the stumps at the non-striker's! Brook is gone!</b> Superb work from the big man, hurtling down and pirouetting to fire off a throw with Brook stretching for the line. There was just the <i>briefest</i> hesitation from Brook, which did for him. Everything coming off for West Indies so far today"}]back of a length, turned into the leg side... <b>and Joseph throws down the stumps at the non-striker's! Brook is gone!</b> Superb work from the big man, hurtling down and pirouetting to fire off a throw with Brook stretching for the line. There was just the <i>briefest</i> hesitation from Brook, which did for him. Everything coming off for West Indies so far today
-[{"type": "HTML", "html": "In walks Jos Buttler, his country in need"}]In walks Jos Buttler, his country in need
+Brook is OUT! run out
+run out (Joseph)
+Harry Brook run out (Joseph) 1 (3b 0x4 0x6 6m) SR: 33.33
+back of a length, turned into the leg side... <b>and Joseph throws down the stumps at the non-striker's! Brook is gone!</b> Superb work from the big man, hurtling down and pirouetting to fire off a throw with Brook stretching for the line. There was just the <i>briefest</i> hesitation from Brook, which did for him. Everything coming off for West Indies so far today
+In walks Jos Buttler, his country in need
 
 
 Match: all_games_1373558_1373579.json
 Balls faced: 1
 Bowler: Hosein
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Slip in for Brook, Hosein continuing around the wicket"}]Slip in for Brook, Hosein continuing around the wicket
+Slip in for Brook, Hosein continuing around the wicket
 
-[{"type": "HTML", "html": "Turn, but on a good length, allowing Brook to rock back and cut behind point to get off the mark"}]Turn, but on a good length, allowing Brook to rock back and cut behind point to get off the mark
+Turn, but on a good length, allowing Brook to rock back and cut behind point to get off the mark
 
 
 Balls faced: 2
 Bowler: Holder
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Gone!</strong> The first legitimate delivery of the over brings about a wicket! Scrambled seam off a length straightens a touch - Brook, having stepped away to try and launch it over the off side, feathers an edge through to Pooran. England wobbling here..."}]<strong>Gone!</strong> The first legitimate delivery of the over brings about a wicket! Scrambled seam off a length straightens a touch - Brook, having stepped away to try and launch it over the off side, feathers an edge through to Pooran. England wobbling here...
+Brook is OUT! caught
+c †Pooran b Holder
+Harry Brook c †Pooran b Holder 1 (2b 0x4 0x6 4m) SR: 50
+<strong>Gone!</strong> The first legitimate delivery of the over brings about a wicket! Scrambled seam off a length straightens a touch - Brook, having stepped away to try and launch it over the off side, feathers an edge through to Pooran. England wobbling here...
 
 
 Balls faced: 3
 Bowler: Holder
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "And again down leg, this time shorter. Brook tries to swat it on its way down to fine leg but misses"}]And again down leg, this time shorter. Brook tries to swat it on its way down to fine leg but misses
+And again down leg, this time shorter. Brook tries to swat it on its way down to fine leg but misses
 
 Wide: 1
 Balls faced: 4
 Bowler: Holder
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Down the leg side, muffled appeals for god knows what from Holder! LBW? Nope."}]Down the leg side, muffled appeals for god knows what from Holder! LBW? Nope.
+Down the leg side, muffled appeals for god knows what from Holder! LBW? Nope.
 
 Wide: 1
 Balls faced: 5
 Bowler: Hosein
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Slip in for Brook, Hosein continuing around the wicket"}]Slip in for Brook, Hosein continuing around the wicket
+Slip in for Brook, Hosein continuing around the wicket
 
-[{"type": "HTML", "html": "Turn, but on a good length, allowing Brook to rock back and cut behind point to get off the mark"}]Turn, but on a good length, allowing Brook to rock back and cut behind point to get off the mark
+Turn, but on a good length, allowing Brook to rock back and cut behind point to get off the mark
 
 
 Balls faced: 6
 Bowler: Holder
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Gone!</strong> The first legitimate delivery of the over brings about a wicket! Scrambled seam off a length straightens a touch - Brook, having stepped away to try and launch it over the off side, feathers an edge through to Pooran. England wobbling here..."}]<strong>Gone!</strong> The first legitimate delivery of the over brings about a wicket! Scrambled seam off a length straightens a touch - Brook, having stepped away to try and launch it over the off side, feathers an edge through to Pooran. England wobbling here...
+Brook is OUT! caught
+c †Pooran b Holder
+Harry Brook c †Pooran b Holder 1 (2b 0x4 0x6 4m) SR: 50
+<strong>Gone!</strong> The first legitimate delivery of the over brings about a wicket! Scrambled seam off a length straightens a touch - Brook, having stepped away to try and launch it over the off side, feathers an edge through to Pooran. England wobbling here...
 
 
 Balls faced: 7
 Bowler: Holder
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "And again down leg, this time shorter. Brook tries to swat it on its way down to fine leg but misses"}]And again down leg, this time shorter. Brook tries to swat it on its way down to fine leg but misses
+And again down leg, this time shorter. Brook tries to swat it on its way down to fine leg but misses
 
 Wide: 1
 Balls faced: 8
 Bowler: Holder
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Down the leg side, muffled appeals for god knows what from Holder! LBW? Nope."}]Down the leg side, muffled appeals for god knows what from Holder! LBW? Nope.
+Down the leg side, muffled appeals for god knows what from Holder! LBW? Nope.
 
 Wide: 1
 
@@ -146,161 +168,181 @@ Match: all_games_1373558_1373580.json
 Balls faced: 1
 Bowler: Motie
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Motie joins the dots as Brook punches to cover. Phenomenal figures of 1 for 9 from four for the twirly man"}]Motie joins the dots as Brook punches to cover. Phenomenal figures of 1 for 9 from four for the twirly man
+Motie joins the dots as Brook punches to cover. Phenomenal figures of 1 for 9 from four for the twirly man
 
 
 Balls faced: 2
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker ball, 95kph on the stumps, clipped back to the bowler"}]quicker ball, 95kph on the stumps, clipped back to the bowler
+quicker ball, 95kph on the stumps, clipped back to the bowler
 
 
 Balls faced: 3
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "looped up and checked down the ground through mid-off"}]looped up and checked down the ground through mid-off
+looped up and checked down the ground through mid-off
 
 
 Balls faced: 4
 Bowler: Holder
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "loopy slower delivery, clipped off the toes through mid-on"}]loopy slower delivery, clipped off the toes through mid-on
+loopy slower delivery, clipped off the toes through mid-on
 
 
 Balls faced: 5
 Bowler: Holder
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "121kph/74mph, similar line and length, Brook opens the face down to deep third"}]121kph/74mph, similar line and length, Brook opens the face down to deep third
+121kph/74mph, similar line and length, Brook opens the face down to deep third
 
 
 Balls faced: 6
 Bowler: Holder
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "shortish, splice-juddering length, Brook dabs it down square"}]shortish, splice-juddering length, Brook dabs it down square
+shortish, splice-juddering length, Brook dabs it down square
 
 
 Balls faced: 7
 Bowler: Motie
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Motie joins the dots as Brook punches to cover. Phenomenal figures of 1 for 9 from four for the twirly man"}]Motie joins the dots as Brook punches to cover. Phenomenal figures of 1 for 9 from four for the twirly man
+Motie joins the dots as Brook punches to cover. Phenomenal figures of 1 for 9 from four for the twirly man
 
 
 Balls faced: 8
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker ball, 95kph on the stumps, clipped back to the bowler"}]quicker ball, 95kph on the stumps, clipped back to the bowler
+quicker ball, 95kph on the stumps, clipped back to the bowler
 
 
 Balls faced: 9
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "looped up and checked down the ground through mid-off"}]looped up and checked down the ground through mid-off
+looped up and checked down the ground through mid-off
 
 
 Balls faced: 10
 Bowler: Hosein
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>skewed out to the man at deep cover!</b> Driven into the pitch and there's a smidgen of turn as Brook tries to come down but can't get the timing he wants, picks out the giant figure of Joseph running around in front of the rope. Hosein strikes now and England's challenge is visibly wilting"}]<b>skewed out to the man at deep cover!</b> Driven into the pitch and there's a smidgen of turn as Brook tries to come down but can't get the timing he wants, picks out the giant figure of Joseph running around in front of the rope. Hosein strikes now and England's challenge is visibly wilting
-[{"type": "HTML", "html": "In walks Moeen Ali at No. 7"}]In walks Moeen Ali at No. 7
+Brook is OUT! caught
+c Joseph b Hosein
+Harry Brook c Joseph b Hosein 5 (8b 0x4 0x6 11m) SR: 62.5
+<b>skewed out to the man at deep cover!</b> Driven into the pitch and there's a smidgen of turn as Brook tries to come down but can't get the timing he wants, picks out the giant figure of Joseph running around in front of the rope. Hosein strikes now and England's challenge is visibly wilting
+In walks Moeen Ali at No. 7
 
 Balls faced: 11
 Bowler: Hosein
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "pushed through, 93kph on off and dabbed square, they push for one on the throw... Motie's throw is wide and they pinch a second"}]pushed through, 93kph on off and dabbed square, they push for one on the throw... Motie's throw is wide and they pinch a second
+pushed through, 93kph on off and dabbed square, they push for one on the throw... Motie's throw is wide and they pinch a second
 
 
 Balls faced: 12
 Bowler: Holder
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "loopy slower delivery, clipped off the toes through mid-on"}]loopy slower delivery, clipped off the toes through mid-on
+loopy slower delivery, clipped off the toes through mid-on
 
 
 Balls faced: 13
 Bowler: Holder
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "121kph/74mph, similar line and length, Brook opens the face down to deep third"}]121kph/74mph, similar line and length, Brook opens the face down to deep third
+121kph/74mph, similar line and length, Brook opens the face down to deep third
 
 
 Balls faced: 14
 Bowler: Holder
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "shortish, splice-juddering length, Brook dabs it down square"}]shortish, splice-juddering length, Brook dabs it down square
+shortish, splice-juddering length, Brook dabs it down square
 
 
 Balls faced: 15
 Bowler: Hosein
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>skewed out to the man at deep cover!</b> Driven into the pitch and there's a smidgen of turn as Brook tries to come down but can't get the timing he wants, picks out the giant figure of Joseph running around in front of the rope. Hosein strikes now and England's challenge is visibly wilting"}]<b>skewed out to the man at deep cover!</b> Driven into the pitch and there's a smidgen of turn as Brook tries to come down but can't get the timing he wants, picks out the giant figure of Joseph running around in front of the rope. Hosein strikes now and England's challenge is visibly wilting
-[{"type": "HTML", "html": "In walks Moeen Ali at No. 7"}]In walks Moeen Ali at No. 7
+Brook is OUT! caught
+c Joseph b Hosein
+Harry Brook c Joseph b Hosein 5 (8b 0x4 0x6 11m) SR: 62.5
+<b>skewed out to the man at deep cover!</b> Driven into the pitch and there's a smidgen of turn as Brook tries to come down but can't get the timing he wants, picks out the giant figure of Joseph running around in front of the rope. Hosein strikes now and England's challenge is visibly wilting
+In walks Moeen Ali at No. 7
 
 Balls faced: 16
 Bowler: Hosein
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "pushed through, 93kph on off and dabbed square, they push for one on the throw... Motie's throw is wide and they pinch a second"}]pushed through, 93kph on off and dabbed square, they push for one on the throw... Motie's throw is wide and they pinch a second
+pushed through, 93kph on off and dabbed square, they push for one on the throw... Motie's throw is wide and they pinch a second
 
 
 
@@ -308,223 +350,245 @@ Match: all_games_1373558_1373581.json
 Balls faced: 1
 Bowler: Holder
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "Harry Brook in with 37 needed from 13..."}]Harry Brook in with 37 needed from 13...
+Harry Brook in with 37 needed from 13...
 
-[{"type": "HTML", "html": "<strong>What a way to start!</strong> Blasted down the ground, pre-empting the full slower delivery from Holder and giving it the kitchen sink!"}]<strong>What a way to start!</strong> Blasted down the ground, pre-empting the full slower delivery from Holder and giving it the kitchen sink!
+<strong>What a way to start!</strong> Blasted down the ground, pre-empting the full slower delivery from Holder and giving it the kitchen sink!
 
 
 Balls faced: 2
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Low full toss, but pace on means Brook can't pick it up early enough to take advantage, chipping out to wide long off"}]Low full toss, but pace on means Brook can't pick it up early enough to take advantage, chipping out to wide long off
+Low full toss, but pace on means Brook can't pick it up early enough to take advantage, chipping out to wide long off
 
 
 Balls faced: 3
 Bowler: Holder
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "Harry Brook in with 37 needed from 13..."}]Harry Brook in with 37 needed from 13...
+Harry Brook in with 37 needed from 13...
 
-[{"type": "HTML", "html": "<strong>What a way to start!</strong> Blasted down the ground, pre-empting the full slower delivery from Holder and giving it the kitchen sink!"}]<strong>What a way to start!</strong> Blasted down the ground, pre-empting the full slower delivery from Holder and giving it the kitchen sink!
+<strong>What a way to start!</strong> Blasted down the ground, pre-empting the full slower delivery from Holder and giving it the kitchen sink!
 
 
 Balls faced: 4
 Bowler: Russell
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "3 needed off 2"}]3 needed off 2
+3 needed off 2
 
-[{"type": "HTML", "html": "<strong>And Harry Brook has won it!</strong> Brook opens the face to lift a wide delivery over third to take England to a stunning victory by seven wickets! What a win, and what a way to keep the T20I series alive. Salt strolls off to a host of well-wishes from the West Indies players after his remarkable 109 not out held the chase together. Remarkable game of cricket"}]<strong>And Harry Brook has won it!</strong> Brook opens the face to lift a wide delivery over third to take England to a stunning victory by seven wickets! What a win, and what a way to keep the T20I series alive. Salt strolls off to a host of well-wishes from the West Indies players after his remarkable 109 not out held the chase together. Remarkable game of cricket
-[{"type": "HTML", "html": "<strong>5.17pm:</strong> Right, now for a lie down after all that. Next stop is Trinidad and Tobago for the conclusion of this series. Join us on Tuesday for the 4th T20I."}, {"type": "HTML", "html": "<strong>5.15pm:</strong> Jos Buttler, speaking after just England's second victory of this tour, is full of praise for Salt: \"He's got such great intent from ball one. That's something we've asked him to do and he;s always played that way. But for him to go on and bat through, it's something we've spoken about as a team. Harry Brook as well, to come in and finish the game off as he did, was a great effort."}, {"type": "HTML", "html": "\"It's great to keep the series alive and get a win, you know? Winning games of cricket is what we're here for.\""}, {"type": "HTML", "html": "<strong>5.10pm</strong> \"It's massive,\" says Phil Salt - player of the match of course - about his maiden T20 century after a succession of starts. \"There's a way to do it. You can't get 40 off 20 and then take 10 off 10 balls, it changes the complexion of the game.\""}, {"type": "HTML", "html": "<strong>5.07pm:</strong> Sonny: \"Suddenly feeling a lot better about the T20 WC defence. The best Jos has looked since the semi final down under and some unbelievable hitting from Salt, Livi and Brook. Incredible game of cricket!\""}, {"type": "HTML", "html": "Martin: \"So often I find myself watching Harry Brook and all I can think is 'wow, I wish I could bat'.\""}, {"type": "HTML", "html": "<strong>5.04pm:</strong> Harry Brook's match-finishing six was the 34th in the match, <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=match;orderby=sixes;template=results;type=batting\">the second-most number of sixes</a> in a T20I match."}, {"type": "HTML", "html": "<strong>5.01pm:</strong> Neil: \"Blown away and fully repentant of my earlier unbelief\". You're not the only one, Neil! That''s the second most runs successfully chased in the 20th over of a T20I. The full list:"}, {"type": "HTML", "html": "21 - AUS vs IND, 2023 Guwahati"}, {"type": "HTML", "html": "21 - ENG vs WI, 2023 St George's"}, {"type": "HTML", "html": "19 - WI vs ENG, 2016 Kolkata"}, {"type": "HTML", "html": "19 - SL vs AUS, 2022 Pallekele"}]<strong>5.17pm:</strong> Right, now for a lie down after all that. Next stop is Trinidad and Tobago for the conclusion of this series. Join us on Tuesday for the 4th T20I. <strong>5.15pm:</strong> Jos Buttler, speaking after just England's second victory of this tour, is full of praise for Salt: "He's got such great intent from ball one. That's something we've asked him to do and he;s always played that way. But for him to go on and bat through, it's something we've spoken about as a team. Harry Brook as well, to come in and finish the game off as he did, was a great effort. "It's great to keep the series alive and get a win, you know? Winning games of cricket is what we're here for." <strong>5.10pm</strong> "It's massive," says Phil Salt - player of the match of course - about his maiden T20 century after a succession of starts. "There's a way to do it. You can't get 40 off 20 and then take 10 off 10 balls, it changes the complexion of the game." <strong>5.07pm:</strong> Sonny: "Suddenly feeling a lot better about the T20 WC defence. The best Jos has looked since the semi final down under and some unbelievable hitting from Salt, Livi and Brook. Incredible game of cricket!" Martin: "So often I find myself watching Harry Brook and all I can think is 'wow, I wish I could bat'." <strong>5.04pm:</strong> Harry Brook's match-finishing six was the 34th in the match, <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=match;orderby=sixes;template=results;type=batting">the second-most number of sixes</a> in a T20I match. <strong>5.01pm:</strong> Neil: "Blown away and fully repentant of my earlier unbelief". You're not the only one, Neil! That''s the second most runs successfully chased in the 20th over of a T20I. The full list: 21 - AUS vs IND, 2023 Guwahati 21 - ENG vs WI, 2023 St George's 19 - WI vs ENG, 2016 Kolkata 19 - SL vs AUS, 2022 Pallekele
+<strong>And Harry Brook has won it!</strong> Brook opens the face to lift a wide delivery over third to take England to a stunning victory by seven wickets! What a win, and what a way to keep the T20I series alive. Salt strolls off to a host of well-wishes from the West Indies players after his remarkable 109 not out held the chase together. Remarkable game of cricket
+<strong>5.17pm:</strong> Right, now for a lie down after all that. Next stop is Trinidad and Tobago for the conclusion of this series. Join us on Tuesday for the 4th T20I. <strong>5.15pm:</strong> Jos Buttler, speaking after just England's second victory of this tour, is full of praise for Salt: "He's got such great intent from ball one. That's something we've asked him to do and he;s always played that way. But for him to go on and bat through, it's something we've spoken about as a team. Harry Brook as well, to come in and finish the game off as he did, was a great effort. "It's great to keep the series alive and get a win, you know? Winning games of cricket is what we're here for." <strong>5.10pm</strong> "It's massive," says Phil Salt - player of the match of course - about his maiden T20 century after a succession of starts. "There's a way to do it. You can't get 40 off 20 and then take 10 off 10 balls, it changes the complexion of the game." <strong>5.07pm:</strong> Sonny: "Suddenly feeling a lot better about the T20 WC defence. The best Jos has looked since the semi final down under and some unbelievable hitting from Salt, Livi and Brook. Incredible game of cricket!" Martin: "So often I find myself watching Harry Brook and all I can think is 'wow, I wish I could bat'." <strong>5.04pm:</strong> Harry Brook's match-finishing six was the 34th in the match, <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=match;orderby=sixes;template=results;type=batting">the second-most number of sixes</a> in a T20I match. <strong>5.01pm:</strong> Neil: "Blown away and fully repentant of my earlier unbelief". You're not the only one, Neil! That''s the second most runs successfully chased in the 20th over of a T20I. The full list: 21 - AUS vs IND, 2023 Guwahati 21 - ENG vs WI, 2023 St George's 19 - WI vs ENG, 2016 Kolkata 19 - SL vs AUS, 2022 Pallekele
 
 Balls faced: 5
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
-[{"type": "HTML", "html": "5 needed off 3... Pazza: \"Is a draw a super over?\" Yep, though not sure Brook is concerned about that. We're getting a new ball as well because Brook has lost the last one"}]5 needed off 3... Pazza: "Is a draw a super over?" Yep, though not sure Brook is concerned about that. We're getting a new ball as well because Brook has lost the last one
+5 needed off 3... Pazza: "Is a draw a super over?" Yep, though not sure Brook is concerned about that. We're getting a new ball as well because Brook has lost the last one
 
-[{"type": "HTML", "html": "Short, straight, Brook pulls out to midwicket and calls two early. Salt obliges and they make it comfortably"}]Short, straight, Brook pulls out to midwicket and calls two early. Salt obliges and they make it comfortably
+Short, straight, Brook pulls out to midwicket and calls two early. Salt obliges and they make it comfortably
 
 
 Balls faced: 6
 Bowler: Russell
 Over: 20
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 6
-[{"type": "HTML", "html": "11 needed off 4"}]11 needed off 4
+11 needed off 4
 
-[{"type": "HTML", "html": "<strong>Another one!</strong> Russell tries to follow Brook to the leg side but ends up serving up a rank full toss that is just helped over fine leg!"}]<strong>Another one!</strong> Russell tries to follow Brook to the leg side but ends up serving up a rank full toss that is just helped over fine leg!
+<strong>Another one!</strong> Russell tries to follow Brook to the leg side but ends up serving up a rank full toss that is just helped over fine leg!
 
 
 Balls faced: 7
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<Strong>HARRY BROOK!</strong> Sharp, full, outside off and punished right over extra cover! That might be the shot of the day, and what a time to play it!"}]<Strong>HARRY BROOK!</strong> Sharp, full, outside off and punished right over extra cover! That might be the shot of the day, and what a time to play it!
+<Strong>HARRY BROOK!</strong> Sharp, full, outside off and punished right over extra cover! That might be the shot of the day, and what a time to play it!
 
 
 Balls faced: 8
 Bowler: Russell
 Over: 20
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 4
-[{"type": "HTML", "html": "Right, here we go. It all comes down to this. Russell v Brook..."}]Right, here we go. It all comes down to this. Russell v Brook...
+Right, here we go. It all comes down to this. Russell v Brook...
 
-[{"type": "HTML", "html": "Full, into leg stump, <strong>flicked around the corner for four!"}]Full, into leg stump, <strong>flicked around the corner for four!
-[{"type": "HTML", "html": "17 needed off 5"}]17 needed off 5
+Full, into leg stump, <strong>flicked around the corner for four!
+17 needed off 5
 
 Balls faced: 9
 Bowler: Alzarri Joseph
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Low full toss, but pace on means Brook can't pick it up early enough to take advantage, chipping out to wide long off"}]Low full toss, but pace on means Brook can't pick it up early enough to take advantage, chipping out to wide long off
+Low full toss, but pace on means Brook can't pick it up early enough to take advantage, chipping out to wide long off
 
 
 Balls faced: 10
 Bowler: Russell
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "3 needed off 2"}]3 needed off 2
+3 needed off 2
 
-[{"type": "HTML", "html": "<strong>And Harry Brook has won it!</strong> Brook opens the face to lift a wide delivery over third to take England to a stunning victory by seven wickets! What a win, and what a way to keep the T20I series alive. Salt strolls off to a host of well-wishes from the West Indies players after his remarkable 109 not out held the chase together. Remarkable game of cricket"}]<strong>And Harry Brook has won it!</strong> Brook opens the face to lift a wide delivery over third to take England to a stunning victory by seven wickets! What a win, and what a way to keep the T20I series alive. Salt strolls off to a host of well-wishes from the West Indies players after his remarkable 109 not out held the chase together. Remarkable game of cricket
-[{"type": "HTML", "html": "<strong>5.17pm:</strong> Right, now for a lie down after all that. Next stop is Trinidad and Tobago for the conclusion of this series. Join us on Tuesday for the 4th T20I."}, {"type": "HTML", "html": "<strong>5.15pm:</strong> Jos Buttler, speaking after just England's second victory of this tour, is full of praise for Salt: \"He's got such great intent from ball one. That's something we've asked him to do and he;s always played that way. But for him to go on and bat through, it's something we've spoken about as a team. Harry Brook as well, to come in and finish the game off as he did, was a great effort."}, {"type": "HTML", "html": "\"It's great to keep the series alive and get a win, you know? Winning games of cricket is what we're here for.\""}, {"type": "HTML", "html": "<strong>5.10pm</strong> \"It's massive,\" says Phil Salt - player of the match of course - about his maiden T20 century after a succession of starts. \"There's a way to do it. You can't get 40 off 20 and then take 10 off 10 balls, it changes the complexion of the game.\""}, {"type": "HTML", "html": "<strong>5.07pm:</strong> Sonny: \"Suddenly feeling a lot better about the T20 WC defence. The best Jos has looked since the semi final down under and some unbelievable hitting from Salt, Livi and Brook. Incredible game of cricket!\""}, {"type": "HTML", "html": "Martin: \"So often I find myself watching Harry Brook and all I can think is 'wow, I wish I could bat'.\""}, {"type": "HTML", "html": "<strong>5.04pm:</strong> Harry Brook's match-finishing six was the 34th in the match, <a href=\"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=match;orderby=sixes;template=results;type=batting\">the second-most number of sixes</a> in a T20I match."}, {"type": "HTML", "html": "<strong>5.01pm:</strong> Neil: \"Blown away and fully repentant of my earlier unbelief\". You're not the only one, Neil! That''s the second most runs successfully chased in the 20th over of a T20I. The full list:"}, {"type": "HTML", "html": "21 - AUS vs IND, 2023 Guwahati"}, {"type": "HTML", "html": "21 - ENG vs WI, 2023 St George's"}, {"type": "HTML", "html": "19 - WI vs ENG, 2016 Kolkata"}, {"type": "HTML", "html": "19 - SL vs AUS, 2022 Pallekele"}]<strong>5.17pm:</strong> Right, now for a lie down after all that. Next stop is Trinidad and Tobago for the conclusion of this series. Join us on Tuesday for the 4th T20I. <strong>5.15pm:</strong> Jos Buttler, speaking after just England's second victory of this tour, is full of praise for Salt: "He's got such great intent from ball one. That's something we've asked him to do and he;s always played that way. But for him to go on and bat through, it's something we've spoken about as a team. Harry Brook as well, to come in and finish the game off as he did, was a great effort. "It's great to keep the series alive and get a win, you know? Winning games of cricket is what we're here for." <strong>5.10pm</strong> "It's massive," says Phil Salt - player of the match of course - about his maiden T20 century after a succession of starts. "There's a way to do it. You can't get 40 off 20 and then take 10 off 10 balls, it changes the complexion of the game." <strong>5.07pm:</strong> Sonny: "Suddenly feeling a lot better about the T20 WC defence. The best Jos has looked since the semi final down under and some unbelievable hitting from Salt, Livi and Brook. Incredible game of cricket!" Martin: "So often I find myself watching Harry Brook and all I can think is 'wow, I wish I could bat'." <strong>5.04pm:</strong> Harry Brook's match-finishing six was the 34th in the match, <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=match;orderby=sixes;template=results;type=batting">the second-most number of sixes</a> in a T20I match. <strong>5.01pm:</strong> Neil: "Blown away and fully repentant of my earlier unbelief". You're not the only one, Neil! That''s the second most runs successfully chased in the 20th over of a T20I. The full list: 21 - AUS vs IND, 2023 Guwahati 21 - ENG vs WI, 2023 St George's 19 - WI vs ENG, 2016 Kolkata 19 - SL vs AUS, 2022 Pallekele
+<strong>And Harry Brook has won it!</strong> Brook opens the face to lift a wide delivery over third to take England to a stunning victory by seven wickets! What a win, and what a way to keep the T20I series alive. Salt strolls off to a host of well-wishes from the West Indies players after his remarkable 109 not out held the chase together. Remarkable game of cricket
+<strong>5.17pm:</strong> Right, now for a lie down after all that. Next stop is Trinidad and Tobago for the conclusion of this series. Join us on Tuesday for the 4th T20I. <strong>5.15pm:</strong> Jos Buttler, speaking after just England's second victory of this tour, is full of praise for Salt: "He's got such great intent from ball one. That's something we've asked him to do and he;s always played that way. But for him to go on and bat through, it's something we've spoken about as a team. Harry Brook as well, to come in and finish the game off as he did, was a great effort. "It's great to keep the series alive and get a win, you know? Winning games of cricket is what we're here for." <strong>5.10pm</strong> "It's massive," says Phil Salt - player of the match of course - about his maiden T20 century after a succession of starts. "There's a way to do it. You can't get 40 off 20 and then take 10 off 10 balls, it changes the complexion of the game." <strong>5.07pm:</strong> Sonny: "Suddenly feeling a lot better about the T20 WC defence. The best Jos has looked since the semi final down under and some unbelievable hitting from Salt, Livi and Brook. Incredible game of cricket!" Martin: "So often I find myself watching Harry Brook and all I can think is 'wow, I wish I could bat'." <strong>5.04pm:</strong> Harry Brook's match-finishing six was the 34th in the match, <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;groupby=match;orderby=sixes;template=results;type=batting">the second-most number of sixes</a> in a T20I match. <strong>5.01pm:</strong> Neil: "Blown away and fully repentant of my earlier unbelief". You're not the only one, Neil! That''s the second most runs successfully chased in the 20th over of a T20I. The full list: 21 - AUS vs IND, 2023 Guwahati 21 - ENG vs WI, 2023 St George's 19 - WI vs ENG, 2016 Kolkata 19 - SL vs AUS, 2022 Pallekele
 
 Balls faced: 11
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
-[{"type": "HTML", "html": "5 needed off 3... Pazza: \"Is a draw a super over?\" Yep, though not sure Brook is concerned about that. We're getting a new ball as well because Brook has lost the last one"}]5 needed off 3... Pazza: "Is a draw a super over?" Yep, though not sure Brook is concerned about that. We're getting a new ball as well because Brook has lost the last one
+5 needed off 3... Pazza: "Is a draw a super over?" Yep, though not sure Brook is concerned about that. We're getting a new ball as well because Brook has lost the last one
 
-[{"type": "HTML", "html": "Short, straight, Brook pulls out to midwicket and calls two early. Salt obliges and they make it comfortably"}]Short, straight, Brook pulls out to midwicket and calls two early. Salt obliges and they make it comfortably
+Short, straight, Brook pulls out to midwicket and calls two early. Salt obliges and they make it comfortably
 
 
 Balls faced: 12
 Bowler: Russell
 Over: 20
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 6
-[{"type": "HTML", "html": "11 needed off 4"}]11 needed off 4
+11 needed off 4
 
-[{"type": "HTML", "html": "<strong>Another one!</strong> Russell tries to follow Brook to the leg side but ends up serving up a rank full toss that is just helped over fine leg!"}]<strong>Another one!</strong> Russell tries to follow Brook to the leg side but ends up serving up a rank full toss that is just helped over fine leg!
+<strong>Another one!</strong> Russell tries to follow Brook to the leg side but ends up serving up a rank full toss that is just helped over fine leg!
 
 
 Balls faced: 13
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<Strong>HARRY BROOK!</strong> Sharp, full, outside off and punished right over extra cover! That might be the shot of the day, and what a time to play it!"}]<Strong>HARRY BROOK!</strong> Sharp, full, outside off and punished right over extra cover! That might be the shot of the day, and what a time to play it!
+<Strong>HARRY BROOK!</strong> Sharp, full, outside off and punished right over extra cover! That might be the shot of the day, and what a time to play it!
 
 
 Balls faced: 14
 Bowler: Russell
 Over: 20
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 4
-[{"type": "HTML", "html": "Right, here we go. It all comes down to this. Russell v Brook..."}]Right, here we go. It all comes down to this. Russell v Brook...
+Right, here we go. It all comes down to this. Russell v Brook...
 
-[{"type": "HTML", "html": "Full, into leg stump, <strong>flicked around the corner for four!"}]Full, into leg stump, <strong>flicked around the corner for four!
-[{"type": "HTML", "html": "17 needed off 5"}]17 needed off 5
+Full, into leg stump, <strong>flicked around the corner for four!
+17 needed off 5
 
 
 Match: all_games_1373558_1373582.json
 Balls faced: 1
 Bowler: Russell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "another yorker from around the wicket, slapped down to long-off... where Forde isn't alert to the possibility of a second run, allowing Brook and Livingstone to scamper back"}]another yorker from around the wicket, slapped down to long-off... where Forde isn't alert to the possibility of a second run, allowing Brook and Livingstone to scamper back
+another yorker from around the wicket, slapped down to long-off... where Forde isn't alert to the possibility of a second run, allowing Brook and Livingstone to scamper back
 
 
 Balls faced: 2
 Bowler: Russell
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PADDLE_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Neal: \"Hitman Harry, do your thing.\" -- Brook in at No. 5."}]Neal: "Hitman Harry, do your thing." -- Brook in at No. 5.
+Neal: "Hitman Harry, do your thing." -- Brook in at No. 5.
 
-[{"type": "HTML", "html": "leans across looking to scoop, and a thick outside edge balloons up into the off side for a single"}]leans across looking to scoop, and a thick outside edge balloons up into the off side for a single
+leans across looking to scoop, and a thick outside edge balloons up into the off side for a single
 
 
 Balls faced: 3
 Bowler: Holder
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "offcutter outside off, miscued into the covers"}]offcutter outside off, miscued into the covers
+offcutter outside off, miscued into the covers
 
 
 Balls faced: 4
 Bowler: Holder
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "dipping yorker, worked into the vacant acreage between midwicket and long-on and they race back for two"}]dipping yorker, worked into the vacant acreage between midwicket and long-on and they race back for two
+dipping yorker, worked into the vacant acreage between midwicket and long-on and they race back for two
 
 
 Balls faced: 5
 Bowler: Russell
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "another yorker from around the wicket, slapped down to long-off... where Forde isn't alert to the possibility of a second run, allowing Brook and Livingstone to scamper back"}]another yorker from around the wicket, slapped down to long-off... where Forde isn't alert to the possibility of a second run, allowing Brook and Livingstone to scamper back
+another yorker from around the wicket, slapped down to long-off... where Forde isn't alert to the possibility of a second run, allowing Brook and Livingstone to scamper back
 
 
 Balls faced: 6
 Bowler: Russell
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PADDLE_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Neal: \"Hitman Harry, do your thing.\" -- Brook in at No. 5."}]Neal: "Hitman Harry, do your thing." -- Brook in at No. 5.
+Neal: "Hitman Harry, do your thing." -- Brook in at No. 5.
 
-[{"type": "HTML", "html": "leans across looking to scoop, and a thick outside edge balloons up into the off side for a single"}]leans across looking to scoop, and a thick outside edge balloons up into the off side for a single
+leans across looking to scoop, and a thick outside edge balloons up into the off side for a single
 
 
 Balls faced: 7
 Bowler: Holder
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "offcutter outside off, miscued into the covers"}]offcutter outside off, miscued into the covers
+offcutter outside off, miscued into the covers
 
 
 Balls faced: 8
 Bowler: Holder
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "dipping yorker, worked into the vacant acreage between midwicket and long-on and they race back for two"}]dipping yorker, worked into the vacant acreage between midwicket and long-on and they race back for two
+dipping yorker, worked into the vacant acreage between midwicket and long-on and they race back for two
 
 
 
@@ -532,121 +596,137 @@ Match: all_games_1373558_1373583.json
 Balls faced: 1
 Bowler: Motie
 Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushed through flat outside off and he cuts a first run out to deep point"}]pushed through flat outside off and he cuts a first run out to deep point
+pushed through flat outside off and he cuts a first run out to deep point
 
 
 Balls faced: 2
 Bowler: Motie
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Harry Brook is the new batter"}]Harry Brook is the new batter
+Harry Brook is the new batter
 
-[{"type": "HTML", "html": "defended in front of the stumps"}]defended in front of the stumps
+defended in front of the stumps
 
 
 Balls faced: 3
 Bowler: Russell
 Over: 8
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short ball outside off, 136kph/84mph and swatted away through midwicket for one"}]short ball outside off, 136kph/84mph and swatted away through midwicket for one
+short ball outside off, 136kph/84mph and swatted away through midwicket for one
 
 
 Balls faced: 4
 Bowler: Russell
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>creamed back down the ground</b>, low full toss and Brook just pings a drive to the unguarded long-off"}]<b>creamed back down the ground</b>, low full toss and Brook just pings a drive to the unguarded long-off
+<b>creamed back down the ground</b>, low full toss and Brook just pings a drive to the unguarded long-off
 
 
 Balls faced: 5
 Bowler: Russell
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Russell is back... locking horns with Brook for the first time since <i>that</i> final over in Grenada"}]Russell is back... locking horns with Brook for the first time since <i>that</i> final over in Grenada
+Russell is back... locking horns with Brook for the first time since <i>that</i> final over in Grenada
 
-[{"type": "HTML", "html": "short into the body, helped away through backward square leg"}]short into the body, helped away through backward square leg
+short into the body, helped away through backward square leg
 
 
 Balls faced: 6
 Bowler: Motie
 Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushed through flat outside off and he cuts a first run out to deep point"}]pushed through flat outside off and he cuts a first run out to deep point
+pushed through flat outside off and he cuts a first run out to deep point
 
 
 Balls faced: 7
 Bowler: Motie
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Harry Brook is the new batter"}]Harry Brook is the new batter
+Harry Brook is the new batter
 
-[{"type": "HTML", "html": "defended in front of the stumps"}]defended in front of the stumps
+defended in front of the stumps
 
 
 Balls faced: 8
 Bowler: Motie
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Brook attempts to lap-sweep, and gone!</b> Balloons up into the grateful hands of Pooran. It was full and straightening, looked initially like it might have been an appeal for lbw... but the ball clearly popped straight up off the <del>bat</del> glove for a simple catch to the keeper coming around the stumps"}]<b>Brook attempts to lap-sweep, and gone!</b> Balloons up into the grateful hands of Pooran. It was full and straightening, looked initially like it might have been an appeal for lbw... but the ball clearly popped straight up off the <del>bat</del> glove for a simple catch to the keeper coming around the stumps
+Brook is OUT! caught
+c †Pooran b Motie
+Harry Brook c †Pooran b Motie 7 (6b 1x4 0x6 7m) SR: 116.66
+<b>Brook attempts to lap-sweep, and gone!</b> Balloons up into the grateful hands of Pooran. It was full and straightening, looked initially like it might have been an appeal for lbw... but the ball clearly popped straight up off the <del>bat</del> glove for a simple catch to the keeper coming around the stumps
 
 
 Balls faced: 9
 Bowler: Russell
 Over: 8
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short ball outside off, 136kph/84mph and swatted away through midwicket for one"}]short ball outside off, 136kph/84mph and swatted away through midwicket for one
+short ball outside off, 136kph/84mph and swatted away through midwicket for one
 
 
 Balls faced: 10
 Bowler: Russell
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>creamed back down the ground</b>, low full toss and Brook just pings a drive to the unguarded long-off"}]<b>creamed back down the ground</b>, low full toss and Brook just pings a drive to the unguarded long-off
+<b>creamed back down the ground</b>, low full toss and Brook just pings a drive to the unguarded long-off
 
 
 Balls faced: 11
 Bowler: Russell
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Russell is back... locking horns with Brook for the first time since <i>that</i> final over in Grenada"}]Russell is back... locking horns with Brook for the first time since <i>that</i> final over in Grenada
+Russell is back... locking horns with Brook for the first time since <i>that</i> final over in Grenada
 
-[{"type": "HTML", "html": "short into the body, helped away through backward square leg"}]short into the body, helped away through backward square leg
+short into the body, helped away through backward square leg
 
 
 Balls faced: 12
 Bowler: Motie
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Brook attempts to lap-sweep, and gone!</b> Balloons up into the grateful hands of Pooran. It was full and straightening, looked initially like it might have been an appeal for lbw... but the ball clearly popped straight up off the <del>bat</del> glove for a simple catch to the keeper coming around the stumps"}]<b>Brook attempts to lap-sweep, and gone!</b> Balloons up into the grateful hands of Pooran. It was full and straightening, looked initially like it might have been an appeal for lbw... but the ball clearly popped straight up off the <del>bat</del> glove for a simple catch to the keeper coming around the stumps
+Brook is OUT! caught
+c †Pooran b Motie
+Harry Brook c †Pooran b Motie 7 (6b 1x4 0x6 7m) SR: 116.66
+<b>Brook attempts to lap-sweep, and gone!</b> Balloons up into the grateful hands of Pooran. It was full and straightening, looked initially like it might have been an appeal for lbw... but the ball clearly popped straight up off the <del>bat</del> glove for a simple catch to the keeper coming around the stumps
 
 
 
@@ -654,41 +734,49 @@ Match: all_games_1385666_1385688.json
 Balls faced: 1
 Bowler: Imad Wasim
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>back of a length, Brook makes a mess of it!</B> Rocks back for the cut, doesn't judge the pace or the bounce, thumps middle and off and that's the end of that!"}]<B>back of a length, Brook makes a mess of it!</B> Rocks back for the cut, doesn't judge the pace or the bounce, thumps middle and off and that's the end of that!
-[{"type": "HTML", "html": "Mustafa Moudi : \"Fun Fact: Only Harry Brook is s specialist batsman in England's top 7. 3 are WKs while the other 3 are All-Rounders !!\" That's his day's work done then!"}]Mustafa Moudi : "Fun Fact: Only Harry Brook is s specialist batsman in England's top 7. 3 are WKs while the other 3 are All-Rounders !!" That's his day's work done then!
+Brook is OUT! bowled
+ b Imad Wasim
+Harry Brook b Imad Wasim 1 (2b 0x4 0x6 2m) SR: 50
+<B>back of a length, Brook makes a mess of it!</B> Rocks back for the cut, doesn't judge the pace or the bounce, thumps middle and off and that's the end of that!
+Mustafa Moudi : "Fun Fact: Only Harry Brook is s specialist batsman in England's top 7. 3 are WKs while the other 3 are All-Rounders !!" That's his day's work done then!
 
 Balls faced: 2
 Bowler: Imad Wasim
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full, rocks back for a clip to leg to get off the mark"}]very full, rocks back for a clip to leg to get off the mark
+very full, rocks back for a clip to leg to get off the mark
 
 
 Balls faced: 3
 Bowler: Imad Wasim
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>back of a length, Brook makes a mess of it!</B> Rocks back for the cut, doesn't judge the pace or the bounce, thumps middle and off and that's the end of that!"}]<B>back of a length, Brook makes a mess of it!</B> Rocks back for the cut, doesn't judge the pace or the bounce, thumps middle and off and that's the end of that!
-[{"type": "HTML", "html": "Mustafa Moudi : \"Fun Fact: Only Harry Brook is s specialist batsman in England's top 7. 3 are WKs while the other 3 are All-Rounders !!\" That's his day's work done then!"}]Mustafa Moudi : "Fun Fact: Only Harry Brook is s specialist batsman in England's top 7. 3 are WKs while the other 3 are All-Rounders !!" That's his day's work done then!
+Brook is OUT! bowled
+ b Imad Wasim
+Harry Brook b Imad Wasim 1 (2b 0x4 0x6 2m) SR: 50
+<B>back of a length, Brook makes a mess of it!</B> Rocks back for the cut, doesn't judge the pace or the bounce, thumps middle and off and that's the end of that!
+Mustafa Moudi : "Fun Fact: Only Harry Brook is s specialist batsman in England's top 7. 3 are WKs while the other 3 are All-Rounders !!" That's his day's work done then!
 
 Balls faced: 4
 Bowler: Imad Wasim
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full, rocks back for a clip to leg to get off the mark"}]very full, rocks back for a clip to leg to get off the mark
+very full, rocks back for a clip to leg to get off the mark
 
 
 
@@ -696,301 +784,331 @@ Match: all_games_1385666_1385690.json
 Balls faced: 1
 Bowler: Shadab
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up on middle and leg, Brook flicks to the on-side to get off the mark first-ball"}]tossed up on middle and leg, Brook flicks to the on-side to get off the mark first-ball
+tossed up on middle and leg, Brook flicks to the on-side to get off the mark first-ball
 
 
 Balls faced: 2
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "solid line and length, angled into the pad, Brook defends. Pakistan are keeping things relatively tight now, though it's all likely to be immaterial"}]solid line and length, angled into the pad, Brook defends. Pakistan are keeping things relatively tight now, though it's all likely to be immaterial
-[{"type": "HTML", "html": "England have already scored more in boundaries than Pakistan managed in their full innings"}]England have already scored more in boundaries than Pakistan managed in their full innings
+solid line and length, angled into the pad, Brook defends. Pakistan are keeping things relatively tight now, though it's all likely to be immaterial
+England have already scored more in boundaries than Pakistan managed in their full innings
 
 Balls faced: 3
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "curious from Brook, shapes to the off-side then changes his mind and is beaten by the length ball. Naseem saw him going"}]curious from Brook, shapes to the off-side then changes his mind and is beaten by the length ball. Naseem saw him going
+curious from Brook, shapes to the off-side then changes his mind and is beaten by the length ball. Naseem saw him going
 
 
 Balls faced: 4
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good aggressive length, angled into the pads, squared up for a single to deep third"}]good aggressive length, angled into the pads, squared up for a single to deep third
+good aggressive length, angled into the pads, squared up for a single to deep third
 
 
 Balls faced: 5
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beats the outside edge with a good-length lifter, a bit of a half-cocked shot from Brook, looking to run the ball down to deep third"}]beats the outside edge with a good-length lifter, a bit of a half-cocked shot from Brook, looking to run the ball down to deep third
-[{"type": "HTML", "html": "Raza: \"The only chance shadab has to get a wicket if the crowd catches qualify as a wicket... he's got 6 wickets in the last 11 games\""}]Raza: "The only chance shadab has to get a wicket if the crowd catches qualify as a wicket... he's got 6 wickets in the last 11 games"
+beats the outside edge with a good-length lifter, a bit of a half-cocked shot from Brook, looking to run the ball down to deep third
+Raza: "The only chance shadab has to get a wicket if the crowd catches qualify as a wicket... he's got 6 wickets in the last 11 games"
 
 Balls faced: 6
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full length, angled into the stumps, Brook opens the face and taps into the gap at deep third"}]full length, angled into the stumps, Brook opens the face and taps into the gap at deep third
+full length, angled into the stumps, Brook opens the face and taps into the gap at deep third
 
 
 Balls faced: 7
 Bowler: Naseem Shah
 Over: 13
+ 
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired down the leg side, lifting past the hip"}]fired down the leg side, lifting past the hip
+fired down the leg side, lifting past the hip
 
 Wide: 1
 Balls faced: 8
 Bowler: Shadab
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up on middle and leg, Brook flicks to the on-side to get off the mark first-ball"}]tossed up on middle and leg, Brook flicks to the on-side to get off the mark first-ball
+tossed up on middle and leg, Brook flicks to the on-side to get off the mark first-ball
 
 
 Balls faced: 9
 Bowler: Shaheen Shah Afridi
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "opens the face on the back foot, tapped on the head for another single to short third"}]opens the face on the back foot, tapped on the head for another single to short third
+opens the face on the back foot, tapped on the head for another single to short third
 
 
 Balls faced: 10
 Bowler: Shaheen Shah Afridi
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length from over the wicket, nudged off the pads again. All a bit sedate at the moment, which suits Pakistan reasonably well. A wicket would be interesting"}]good length from over the wicket, nudged off the pads again. All a bit sedate at the moment, which suits Pakistan reasonably well. A wicket would be interesting
+good length from over the wicket, nudged off the pads again. All a bit sedate at the moment, which suits Pakistan reasonably well. A wicket would be interesting
 
 
 Balls faced: 11
 Bowler: Shaheen Shah Afridi
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, Brook advanced and couldn't connect on his intentions"}]bouncer, Brook advanced and couldn't connect on his intentions
+bouncer, Brook advanced and couldn't connect on his intentions
 
 
 Balls faced: 12
 Bowler: Shaheen Shah Afridi
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "steps back for a slap into the covers, more forceful from Brook. But straight at the fielder"}]steps back for a slap into the covers, more forceful from Brook. But straight at the fielder
+steps back for a slap into the covers, more forceful from Brook. But straight at the fielder
 
 
 Balls faced: 13
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "solid line and length, angled into the pad, Brook defends. Pakistan are keeping things relatively tight now, though it's all likely to be immaterial"}]solid line and length, angled into the pad, Brook defends. Pakistan are keeping things relatively tight now, though it's all likely to be immaterial
-[{"type": "HTML", "html": "England have already scored more in boundaries than Pakistan managed in their full innings"}]England have already scored more in boundaries than Pakistan managed in their full innings
+solid line and length, angled into the pad, Brook defends. Pakistan are keeping things relatively tight now, though it's all likely to be immaterial
+England have already scored more in boundaries than Pakistan managed in their full innings
 
 Balls faced: 14
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "curious from Brook, shapes to the off-side then changes his mind and is beaten by the length ball. Naseem saw him going"}]curious from Brook, shapes to the off-side then changes his mind and is beaten by the length ball. Naseem saw him going
+curious from Brook, shapes to the off-side then changes his mind and is beaten by the length ball. Naseem saw him going
 
 
 Balls faced: 15
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good aggressive length, angled into the pads, squared up for a single to deep third"}]good aggressive length, angled into the pads, squared up for a single to deep third
+good aggressive length, angled into the pads, squared up for a single to deep third
 
 
 Balls faced: 16
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beats the outside edge with a good-length lifter, a bit of a half-cocked shot from Brook, looking to run the ball down to deep third"}]beats the outside edge with a good-length lifter, a bit of a half-cocked shot from Brook, looking to run the ball down to deep third
-[{"type": "HTML", "html": "Raza: \"The only chance shadab has to get a wicket if the crowd catches qualify as a wicket... he's got 6 wickets in the last 11 games\""}]Raza: "The only chance shadab has to get a wicket if the crowd catches qualify as a wicket... he's got 6 wickets in the last 11 games"
+beats the outside edge with a good-length lifter, a bit of a half-cocked shot from Brook, looking to run the ball down to deep third
+Raza: "The only chance shadab has to get a wicket if the crowd catches qualify as a wicket... he's got 6 wickets in the last 11 games"
 
 Balls faced: 17
 Bowler: Naseem Shah
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full length, angled into the stumps, Brook opens the face and taps into the gap at deep third"}]full length, angled into the stumps, Brook opens the face and taps into the gap at deep third
+full length, angled into the stumps, Brook opens the face and taps into the gap at deep third
 
 
 Balls faced: 18
 Bowler: Naseem Shah
 Over: 13
+ 
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired down the leg side, lifting past the hip"}]fired down the leg side, lifting past the hip
+fired down the leg side, lifting past the hip
 
 Wide: 1
 Balls faced: 19
 Bowler: Naseem Shah
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the back foot, punched into the covers"}]on the back foot, punched into the covers
+on the back foot, punched into the covers
 
 
 Balls faced: 20
 Bowler: Shaheen Shah Afridi
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "opens the face on the back foot, tapped on the head for another single to short third"}]opens the face on the back foot, tapped on the head for another single to short third
+opens the face on the back foot, tapped on the head for another single to short third
 
 
 Balls faced: 21
 Bowler: Shaheen Shah Afridi
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length from over the wicket, nudged off the pads again. All a bit sedate at the moment, which suits Pakistan reasonably well. A wicket would be interesting"}]good length from over the wicket, nudged off the pads again. All a bit sedate at the moment, which suits Pakistan reasonably well. A wicket would be interesting
+good length from over the wicket, nudged off the pads again. All a bit sedate at the moment, which suits Pakistan reasonably well. A wicket would be interesting
 
 
 Balls faced: 22
 Bowler: Shaheen Shah Afridi
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, Brook advanced and couldn't connect on his intentions"}]bouncer, Brook advanced and couldn't connect on his intentions
+bouncer, Brook advanced and couldn't connect on his intentions
 
 
 Balls faced: 23
 Bowler: Shaheen Shah Afridi
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "steps back for a slap into the covers, more forceful from Brook. But straight at the fielder"}]steps back for a slap into the covers, more forceful from Brook. But straight at the fielder
+steps back for a slap into the covers, more forceful from Brook. But straight at the fielder
 
 
 Balls faced: 24
 Bowler: Haris Rauf
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Up and over, clean to the stands!</strong> Brook rocks back on the short ball, unleashes his uppercut and finishes a clinical victory in style!"}]<strong>Up and over, clean to the stands!</strong> Brook rocks back on the short ball, unleashes his uppercut and finishes a clinical victory in style!
-[{"type": "HTML", "html": "<B>10.07pm</B> So, with that, Jos Buttler takes his champagne for a walk, and savours an impressive display from his team. It'll be very different conditions in the Caribbean next week, but England will travel with confidence after two good warm-up wins. As for Pakistan, they'll be what they'll be. Never write them off, even after a pretty dire day such as this one. From Miller, Alan, Venkat and the team, thanks and goodnight!"}, {"type": "HTML", "html": "<B>9.58pm</B> Time for the presentations. The Player of the Match is <B>Adil Rashid</b>. \"It was assessing the conditions, and adjusting, being clever, varying the pace, finding the right pace to take off. It's crucial as a spin department to assess conditions, the breeze etc. The prep is what I rely on, take some time off to work in the nets, haven't played for a couple of months so falling into place. The aim is to go out there hopefully get another trophy. Have to have the right mindset and it'll take care of itself.\""}, {"type": "HTML", "html": "<B>Babar Azam</B>: \"After six overs we were doing very well, but then I got out, the middle-order needs to step up. England's bowling is very good, so have to take any chance. Need to sort out those things for the World Cup. A few injuries but a lot of positives, our play is good in patches, but to win you need 100%.\""}, {"type": "HTML", "html": "The Player of the Series is England's captain <B>Jos Buttler</B>. \"The performances... we've worked hard in training, good feeling around the squad, Edgbaston the bowling group was fantastic, and today they pegged it back to an under-par score. That quest to keep improving and get better, that's given me extra energy and motivation. Would have been great to have two more games but got some great experience and a lot of guys have been in the IPL, so not short of cricket. Selection is difficult but a nice place to be. Wood and Archer operating together today was really exciting.\""}, {"type": "HTML", "html": "<B>9.46pm</B> So, that's the end of that. A hefty 27 balls left in reserve, after a ballistic opening gambit from Phil Salt and Jos Buttler. It was a more measured second half of the chase, but by then there was no need to rush. The time in the middle will have been valuable enough, as the defending champions prepare to fly out to Barbados tomorrow morning."}, {"type": "HTML", "html": "As for Pakistan, not a lot to write home about, although Babar and Rizwan's return to the top was a qualified success. Haris Rauf bowled some rockets and deserved better support. Not least, dare one say it, behind the stumps..."}, {"type": "HTML", "html": "hadi: \"Haris aside, what a sorry bowling performance and as usual middle over woes in batting. Won't be surprised if the minnows beat us in the group stages.\""}, {"type": "HTML", "html": "RajeshBanda: \"If Eng wins (which is obvious), then the man of the match should go to Azam Khan.\" Would be left-field, but it was certainly a memorable display..."}]<B>10.07pm</B> So, with that, Jos Buttler takes his champagne for a walk, and savours an impressive display from his team. It'll be very different conditions in the Caribbean next week, but England will travel with confidence after two good warm-up wins. As for Pakistan, they'll be what they'll be. Never write them off, even after a pretty dire day such as this one. From Miller, Alan, Venkat and the team, thanks and goodnight! <B>9.58pm</B> Time for the presentations. The Player of the Match is <B>Adil Rashid</b>. "It was assessing the conditions, and adjusting, being clever, varying the pace, finding the right pace to take off. It's crucial as a spin department to assess conditions, the breeze etc. The prep is what I rely on, take some time off to work in the nets, haven't played for a couple of months so falling into place. The aim is to go out there hopefully get another trophy. Have to have the right mindset and it'll take care of itself." <B>Babar Azam</B>: "After six overs we were doing very well, but then I got out, the middle-order needs to step up. England's bowling is very good, so have to take any chance. Need to sort out those things for the World Cup. A few injuries but a lot of positives, our play is good in patches, but to win you need 100%." The Player of the Series is England's captain <B>Jos Buttler</B>. "The performances... we've worked hard in training, good feeling around the squad, Edgbaston the bowling group was fantastic, and today they pegged it back to an under-par score. That quest to keep improving and get better, that's given me extra energy and motivation. Would have been great to have two more games but got some great experience and a lot of guys have been in the IPL, so not short of cricket. Selection is difficult but a nice place to be. Wood and Archer operating together today was really exciting." <B>9.46pm</B> So, that's the end of that. A hefty 27 balls left in reserve, after a ballistic opening gambit from Phil Salt and Jos Buttler. It was a more measured second half of the chase, but by then there was no need to rush. The time in the middle will have been valuable enough, as the defending champions prepare to fly out to Barbados tomorrow morning. As for Pakistan, not a lot to write home about, although Babar and Rizwan's return to the top was a qualified success. Haris Rauf bowled some rockets and deserved better support. Not least, dare one say it, behind the stumps... hadi: "Haris aside, what a sorry bowling performance and as usual middle over woes in batting. Won't be surprised if the minnows beat us in the group stages." RajeshBanda: "If Eng wins (which is obvious), then the man of the match should go to Azam Khan." Would be left-field, but it was certainly a memorable display...
+<strong>Up and over, clean to the stands!</strong> Brook rocks back on the short ball, unleashes his uppercut and finishes a clinical victory in style!
+<B>10.07pm</B> So, with that, Jos Buttler takes his champagne for a walk, and savours an impressive display from his team. It'll be very different conditions in the Caribbean next week, but England will travel with confidence after two good warm-up wins. As for Pakistan, they'll be what they'll be. Never write them off, even after a pretty dire day such as this one. From Miller, Alan, Venkat and the team, thanks and goodnight! <B>9.58pm</B> Time for the presentations. The Player of the Match is <B>Adil Rashid</b>. "It was assessing the conditions, and adjusting, being clever, varying the pace, finding the right pace to take off. It's crucial as a spin department to assess conditions, the breeze etc. The prep is what I rely on, take some time off to work in the nets, haven't played for a couple of months so falling into place. The aim is to go out there hopefully get another trophy. Have to have the right mindset and it'll take care of itself." <B>Babar Azam</B>: "After six overs we were doing very well, but then I got out, the middle-order needs to step up. England's bowling is very good, so have to take any chance. Need to sort out those things for the World Cup. A few injuries but a lot of positives, our play is good in patches, but to win you need 100%." The Player of the Series is England's captain <B>Jos Buttler</B>. "The performances... we've worked hard in training, good feeling around the squad, Edgbaston the bowling group was fantastic, and today they pegged it back to an under-par score. That quest to keep improving and get better, that's given me extra energy and motivation. Would have been great to have two more games but got some great experience and a lot of guys have been in the IPL, so not short of cricket. Selection is difficult but a nice place to be. Wood and Archer operating together today was really exciting." <B>9.46pm</B> So, that's the end of that. A hefty 27 balls left in reserve, after a ballistic opening gambit from Phil Salt and Jos Buttler. It was a more measured second half of the chase, but by then there was no need to rush. The time in the middle will have been valuable enough, as the defending champions prepare to fly out to Barbados tomorrow morning. As for Pakistan, not a lot to write home about, although Babar and Rizwan's return to the top was a qualified success. Haris Rauf bowled some rockets and deserved better support. Not least, dare one say it, behind the stumps... hadi: "Haris aside, what a sorry bowling performance and as usual middle over woes in batting. Won't be surprised if the minnows beat us in the group stages." RajeshBanda: "If Eng wins (which is obvious), then the man of the match should go to Azam Khan." Would be left-field, but it was certainly a memorable display...
 
 Balls faced: 25
 Bowler: Haris Rauf
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good pace, Brook wafts through the line, beaten outside off"}]good pace, Brook wafts through the line, beaten outside off
+good pace, Brook wafts through the line, beaten outside off
 
 
 Balls faced: 26
 Bowler: Haris Rauf
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Rauf returns. Can he finish off with another deserved wicket?"}]Rauf returns. Can he finish off with another deserved wicket?
+Rauf returns. Can he finish off with another deserved wicket?
 
-[{"type": "HTML", "html": "width first-up, flapped down to deep third, Amir tumbles to intercept but recognises his feet are on the rope. England are one blow away"}]width first-up, flapped down to deep third, Amir tumbles to intercept but recognises his feet are on the rope. England are one blow away
+width first-up, flapped down to deep third, Amir tumbles to intercept but recognises his feet are on the rope. England are one blow away
 
 
 Balls faced: 27
 Bowler: Naseem Shah
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the back foot, punched into the covers"}]on the back foot, punched into the covers
+on the back foot, punched into the covers
 
 
 Balls faced: 28
 Bowler: Haris Rauf
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Up and over, clean to the stands!</strong> Brook rocks back on the short ball, unleashes his uppercut and finishes a clinical victory in style!"}]<strong>Up and over, clean to the stands!</strong> Brook rocks back on the short ball, unleashes his uppercut and finishes a clinical victory in style!
-[{"type": "HTML", "html": "<B>10.07pm</B> So, with that, Jos Buttler takes his champagne for a walk, and savours an impressive display from his team. It'll be very different conditions in the Caribbean next week, but England will travel with confidence after two good warm-up wins. As for Pakistan, they'll be what they'll be. Never write them off, even after a pretty dire day such as this one. From Miller, Alan, Venkat and the team, thanks and goodnight!"}, {"type": "HTML", "html": "<B>9.58pm</B> Time for the presentations. The Player of the Match is <B>Adil Rashid</b>. \"It was assessing the conditions, and adjusting, being clever, varying the pace, finding the right pace to take off. It's crucial as a spin department to assess conditions, the breeze etc. The prep is what I rely on, take some time off to work in the nets, haven't played for a couple of months so falling into place. The aim is to go out there hopefully get another trophy. Have to have the right mindset and it'll take care of itself.\""}, {"type": "HTML", "html": "<B>Babar Azam</B>: \"After six overs we were doing very well, but then I got out, the middle-order needs to step up. England's bowling is very good, so have to take any chance. Need to sort out those things for the World Cup. A few injuries but a lot of positives, our play is good in patches, but to win you need 100%.\""}, {"type": "HTML", "html": "The Player of the Series is England's captain <B>Jos Buttler</B>. \"The performances... we've worked hard in training, good feeling around the squad, Edgbaston the bowling group was fantastic, and today they pegged it back to an under-par score. That quest to keep improving and get better, that's given me extra energy and motivation. Would have been great to have two more games but got some great experience and a lot of guys have been in the IPL, so not short of cricket. Selection is difficult but a nice place to be. Wood and Archer operating together today was really exciting.\""}, {"type": "HTML", "html": "<B>9.46pm</B> So, that's the end of that. A hefty 27 balls left in reserve, after a ballistic opening gambit from Phil Salt and Jos Buttler. It was a more measured second half of the chase, but by then there was no need to rush. The time in the middle will have been valuable enough, as the defending champions prepare to fly out to Barbados tomorrow morning."}, {"type": "HTML", "html": "As for Pakistan, not a lot to write home about, although Babar and Rizwan's return to the top was a qualified success. Haris Rauf bowled some rockets and deserved better support. Not least, dare one say it, behind the stumps..."}, {"type": "HTML", "html": "hadi: \"Haris aside, what a sorry bowling performance and as usual middle over woes in batting. Won't be surprised if the minnows beat us in the group stages.\""}, {"type": "HTML", "html": "RajeshBanda: \"If Eng wins (which is obvious), then the man of the match should go to Azam Khan.\" Would be left-field, but it was certainly a memorable display..."}]<B>10.07pm</B> So, with that, Jos Buttler takes his champagne for a walk, and savours an impressive display from his team. It'll be very different conditions in the Caribbean next week, but England will travel with confidence after two good warm-up wins. As for Pakistan, they'll be what they'll be. Never write them off, even after a pretty dire day such as this one. From Miller, Alan, Venkat and the team, thanks and goodnight! <B>9.58pm</B> Time for the presentations. The Player of the Match is <B>Adil Rashid</b>. "It was assessing the conditions, and adjusting, being clever, varying the pace, finding the right pace to take off. It's crucial as a spin department to assess conditions, the breeze etc. The prep is what I rely on, take some time off to work in the nets, haven't played for a couple of months so falling into place. The aim is to go out there hopefully get another trophy. Have to have the right mindset and it'll take care of itself." <B>Babar Azam</B>: "After six overs we were doing very well, but then I got out, the middle-order needs to step up. England's bowling is very good, so have to take any chance. Need to sort out those things for the World Cup. A few injuries but a lot of positives, our play is good in patches, but to win you need 100%." The Player of the Series is England's captain <B>Jos Buttler</B>. "The performances... we've worked hard in training, good feeling around the squad, Edgbaston the bowling group was fantastic, and today they pegged it back to an under-par score. That quest to keep improving and get better, that's given me extra energy and motivation. Would have been great to have two more games but got some great experience and a lot of guys have been in the IPL, so not short of cricket. Selection is difficult but a nice place to be. Wood and Archer operating together today was really exciting." <B>9.46pm</B> So, that's the end of that. A hefty 27 balls left in reserve, after a ballistic opening gambit from Phil Salt and Jos Buttler. It was a more measured second half of the chase, but by then there was no need to rush. The time in the middle will have been valuable enough, as the defending champions prepare to fly out to Barbados tomorrow morning. As for Pakistan, not a lot to write home about, although Babar and Rizwan's return to the top was a qualified success. Haris Rauf bowled some rockets and deserved better support. Not least, dare one say it, behind the stumps... hadi: "Haris aside, what a sorry bowling performance and as usual middle over woes in batting. Won't be surprised if the minnows beat us in the group stages." RajeshBanda: "If Eng wins (which is obvious), then the man of the match should go to Azam Khan." Would be left-field, but it was certainly a memorable display...
+<strong>Up and over, clean to the stands!</strong> Brook rocks back on the short ball, unleashes his uppercut and finishes a clinical victory in style!
+<B>10.07pm</B> So, with that, Jos Buttler takes his champagne for a walk, and savours an impressive display from his team. It'll be very different conditions in the Caribbean next week, but England will travel with confidence after two good warm-up wins. As for Pakistan, they'll be what they'll be. Never write them off, even after a pretty dire day such as this one. From Miller, Alan, Venkat and the team, thanks and goodnight! <B>9.58pm</B> Time for the presentations. The Player of the Match is <B>Adil Rashid</b>. "It was assessing the conditions, and adjusting, being clever, varying the pace, finding the right pace to take off. It's crucial as a spin department to assess conditions, the breeze etc. The prep is what I rely on, take some time off to work in the nets, haven't played for a couple of months so falling into place. The aim is to go out there hopefully get another trophy. Have to have the right mindset and it'll take care of itself." <B>Babar Azam</B>: "After six overs we were doing very well, but then I got out, the middle-order needs to step up. England's bowling is very good, so have to take any chance. Need to sort out those things for the World Cup. A few injuries but a lot of positives, our play is good in patches, but to win you need 100%." The Player of the Series is England's captain <B>Jos Buttler</B>. "The performances... we've worked hard in training, good feeling around the squad, Edgbaston the bowling group was fantastic, and today they pegged it back to an under-par score. That quest to keep improving and get better, that's given me extra energy and motivation. Would have been great to have two more games but got some great experience and a lot of guys have been in the IPL, so not short of cricket. Selection is difficult but a nice place to be. Wood and Archer operating together today was really exciting." <B>9.46pm</B> So, that's the end of that. A hefty 27 balls left in reserve, after a ballistic opening gambit from Phil Salt and Jos Buttler. It was a more measured second half of the chase, but by then there was no need to rush. The time in the middle will have been valuable enough, as the defending champions prepare to fly out to Barbados tomorrow morning. As for Pakistan, not a lot to write home about, although Babar and Rizwan's return to the top was a qualified success. Haris Rauf bowled some rockets and deserved better support. Not least, dare one say it, behind the stumps... hadi: "Haris aside, what a sorry bowling performance and as usual middle over woes in batting. Won't be surprised if the minnows beat us in the group stages." RajeshBanda: "If Eng wins (which is obvious), then the man of the match should go to Azam Khan." Would be left-field, but it was certainly a memorable display...
 
 Balls faced: 29
 Bowler: Haris Rauf
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good pace, Brook wafts through the line, beaten outside off"}]good pace, Brook wafts through the line, beaten outside off
+good pace, Brook wafts through the line, beaten outside off
 
 
 Balls faced: 30
 Bowler: Haris Rauf
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Rauf returns. Can he finish off with another deserved wicket?"}]Rauf returns. Can he finish off with another deserved wicket?
+Rauf returns. Can he finish off with another deserved wicket?
 
-[{"type": "HTML", "html": "width first-up, flapped down to deep third, Amir tumbles to intercept but recognises his feet are on the rope. England are one blow away"}]width first-up, flapped down to deep third, Amir tumbles to intercept but recognises his feet are on the rope. England are one blow away
+width first-up, flapped down to deep third, Amir tumbles to intercept but recognises his feet are on the rope. England are one blow away
 
 
 
@@ -998,241 +1116,265 @@ Match: all_games_1411166_1415717.json
 Balls faced: 1
 Bowler: Hazlewood
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "outside off, back of a length, through to the keeper past a loose wipe. Another dot ball, and that 20-run over feels a long time ago again"}]outside off, back of a length, through to the keeper past a loose wipe. Another dot ball, and that 20-run over feels a long time ago again
+outside off, back of a length, through to the keeper past a loose wipe. Another dot ball, and that 20-run over feels a long time ago again
 
 
 Balls faced: 2
 Bowler: Hazlewood
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "lines up the ramp, but can't connect down the leg-side. Hazlewood gets away with the wide due to the premeditation"}]lines up the ramp, but can't connect down the leg-side. Hazlewood gets away with the wide due to the premeditation
+lines up the ramp, but can't connect down the leg-side. Hazlewood gets away with the wide due to the premeditation
 
 
 Balls faced: 3
 Bowler: Hazlewood
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, just outside off, and that doesn't get up much. Brook jabs his bat and can't connect"}]good length, just outside off, and that doesn't get up much. Brook jabs his bat and can't connect
+good length, just outside off, and that doesn't get up much. Brook jabs his bat and can't connect
 
 
 Balls faced: 4
 Bowler: Hazlewood
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Here's Brook. He's missed a lot of cricket for personal reasons. A big chance to get back up to speed now... if he doesn't, England might be sunk"}]Here's Brook. He's missed a lot of cricket for personal reasons. A big chance to get back up to speed now... if he doesn't, England might be sunk
+Here's Brook. He's missed a lot of cricket for personal reasons. A big chance to get back up to speed now... if he doesn't, England might be sunk
 
-[{"type": "HTML", "html": "tight lines from Hazlewood, angling in on middle and off, a solid front-foot block"}]tight lines from Hazlewood, angling in on middle and off, a solid front-foot block
+tight lines from Hazlewood, angling in on middle and off, a solid front-foot block
 
 
 Balls faced: 5
 Bowler: Cummins
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, sits up from back of a length, flashed out to deep cover. No timing in sight for England"}]slower ball, sits up from back of a length, flashed out to deep cover. No timing in sight for England
+slower ball, sits up from back of a length, flashed out to deep cover. No timing in sight for England
 
 
 Balls faced: 6
 Bowler: Hazlewood
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "outside off, back of a length, through to the keeper past a loose wipe. Another dot ball, and that 20-run over feels a long time ago again"}]outside off, back of a length, through to the keeper past a loose wipe. Another dot ball, and that 20-run over feels a long time ago again
+outside off, back of a length, through to the keeper past a loose wipe. Another dot ball, and that 20-run over feels a long time ago again
 
 
 Balls faced: 7
 Bowler: Hazlewood
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "lines up the ramp, but can't connect down the leg-side. Hazlewood gets away with the wide due to the premeditation"}]lines up the ramp, but can't connect down the leg-side. Hazlewood gets away with the wide due to the premeditation
+lines up the ramp, but can't connect down the leg-side. Hazlewood gets away with the wide due to the premeditation
 
 
 Balls faced: 8
 Bowler: Hazlewood
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, just outside off, and that doesn't get up much. Brook jabs his bat and can't connect"}]good length, just outside off, and that doesn't get up much. Brook jabs his bat and can't connect
+good length, just outside off, and that doesn't get up much. Brook jabs his bat and can't connect
 
 
 Balls faced: 9
 Bowler: Hazlewood
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Here's Brook. He's missed a lot of cricket for personal reasons. A big chance to get back up to speed now... if he doesn't, England might be sunk"}]Here's Brook. He's missed a lot of cricket for personal reasons. A big chance to get back up to speed now... if he doesn't, England might be sunk
+Here's Brook. He's missed a lot of cricket for personal reasons. A big chance to get back up to speed now... if he doesn't, England might be sunk
 
-[{"type": "HTML", "html": "tight lines from Hazlewood, angling in on middle and off, a solid front-foot block"}]tight lines from Hazlewood, angling in on middle and off, a solid front-foot block
+tight lines from Hazlewood, angling in on middle and off, a solid front-foot block
 
 
 Balls faced: 10
 Bowler: Hazlewood
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "better ambition that time, walking across the stumps to lift the ball into space behind square, but there's not enough timing to beat the sweeper"}]better ambition that time, walking across the stumps to lift the ball into space behind square, but there's not enough timing to beat the sweeper
+better ambition that time, walking across the stumps to lift the ball into space behind square, but there's not enough timing to beat the sweeper
 
 
 Balls faced: 11
 Bowler: Hazlewood
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "line and length, outside off, cuffed to deep point, Warner tracks round on the boundary's edge. This chase has flatlined"}]line and length, outside off, cuffed to deep point, Warner tracks round on the boundary's edge. This chase has flatlined
+line and length, outside off, cuffed to deep point, Warner tracks round on the boundary's edge. This chase has flatlined
 
 
 Balls faced: 12
 Bowler: Hazlewood
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "climbs into a pull, again, it's just a single out to midwicket. Nothing to get any leverage through"}]climbs into a pull, again, it's just a single out to midwicket. Nothing to get any leverage through
+climbs into a pull, again, it's just a single out to midwicket. Nothing to get any leverage through
 
 
 Balls faced: 13
 Bowler: Cummins
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, sits up from back of a length, flashed out to deep cover. No timing in sight for England"}]slower ball, sits up from back of a length, flashed out to deep cover. No timing in sight for England
+slower ball, sits up from back of a length, flashed out to deep cover. No timing in sight for England
 
 
 Balls faced: 14
 Bowler: Zampa
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "so tidy from Zampa, another ambitious cuff through the good length, but no timing or placement, gathered in the deep"}]so tidy from Zampa, another ambitious cuff through the good length, but no timing or placement, gathered in the deep
+so tidy from Zampa, another ambitious cuff through the good length, but no timing or placement, gathered in the deep
 
 
 Balls faced: 15
 Bowler: Zampa
 Over: 18
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "makes room to leg, meets the full length with another pushed single"}]makes room to leg, meets the full length with another pushed single
+makes room to leg, meets the full length with another pushed single
 
 
 Balls faced: 16
 Bowler: Hazlewood
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "better ambition that time, walking across the stumps to lift the ball into space behind square, but there's not enough timing to beat the sweeper"}]better ambition that time, walking across the stumps to lift the ball into space behind square, but there's not enough timing to beat the sweeper
+better ambition that time, walking across the stumps to lift the ball into space behind square, but there's not enough timing to beat the sweeper
 
 
 Balls faced: 17
 Bowler: Hazlewood
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "line and length, outside off, cuffed to deep point, Warner tracks round on the boundary's edge. This chase has flatlined"}]line and length, outside off, cuffed to deep point, Warner tracks round on the boundary's edge. This chase has flatlined
+line and length, outside off, cuffed to deep point, Warner tracks round on the boundary's edge. This chase has flatlined
 
 
 Balls faced: 18
 Bowler: Hazlewood
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "climbs into a pull, again, it's just a single out to midwicket. Nothing to get any leverage through"}]climbs into a pull, again, it's just a single out to midwicket. Nothing to get any leverage through
+climbs into a pull, again, it's just a single out to midwicket. Nothing to get any leverage through
 
 
 Balls faced: 19
 Bowler: Cummins
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<B>huge hack, big edge, Zampa almost holds a worldie!</B> Fires out his right hand, high above his head, but can't control it as he lands. It won't matter"}]<B>huge hack, big edge, Zampa almost holds a worldie!</B> Fires out his right hand, high above his head, but can't control it as he lands. It won't matter
+<B>huge hack, big edge, Zampa almost holds a worldie!</B> Fires out his right hand, high above his head, but can't control it as he lands. It won't matter
 
 
 Balls faced: 20
 Bowler: Cummins
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "It's nearly five a ball now... England want sixers!"}]It's nearly five a ball now... England want sixers!
+It's nearly five a ball now... England want sixers!
 
-[{"type": "HTML", "html": "back of a length, another ambitious swing, but the pace is off and Brook can't time that at all. Out to the leg side"}]back of a length, another ambitious swing, but the pace is off and Brook can't time that at all. Out to the leg side
+back of a length, another ambitious swing, but the pace is off and Brook can't time that at all. Out to the leg side
 
 
 Balls faced: 21
 Bowler: Zampa
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "so tidy from Zampa, another ambitious cuff through the good length, but no timing or placement, gathered in the deep"}]so tidy from Zampa, another ambitious cuff through the good length, but no timing or placement, gathered in the deep
+so tidy from Zampa, another ambitious cuff through the good length, but no timing or placement, gathered in the deep
 
 
 Balls faced: 22
 Bowler: Zampa
 Over: 18
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "makes room to leg, meets the full length with another pushed single"}]makes room to leg, meets the full length with another pushed single
+makes room to leg, meets the full length with another pushed single
 
 
 Balls faced: 23
 Bowler: Cummins
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<B>huge hack, big edge, Zampa almost holds a worldie!</B> Fires out his right hand, high above his head, but can't control it as he lands. It won't matter"}]<B>huge hack, big edge, Zampa almost holds a worldie!</B> Fires out his right hand, high above his head, but can't control it as he lands. It won't matter
+<B>huge hack, big edge, Zampa almost holds a worldie!</B> Fires out his right hand, high above his head, but can't control it as he lands. It won't matter
 
 
 Balls faced: 24
 Bowler: Cummins
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "It's nearly five a ball now... England want sixers!"}]It's nearly five a ball now... England want sixers!
+It's nearly five a ball now... England want sixers!
 
-[{"type": "HTML", "html": "back of a length, another ambitious swing, but the pace is off and Brook can't time that at all. Out to the leg side"}]back of a length, another ambitious swing, but the pace is off and Brook can't time that at all. Out to the leg side
+back of a length, another ambitious swing, but the pace is off and Brook can't time that at all. Out to the leg side
 
 
 
@@ -1240,398 +1382,438 @@ Match: all_games_1411166_1415734.json
 Balls faced: 1
 Bowler: Wiese
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the back foot, soft hands blocked into the off side"}]on the back foot, soft hands blocked into the off side
-[{"type": "HTML", "html": "Adnan: \"Really Bad Toss for Eng to lose.. Now they have to play full 11 overs.. Otherwise they want to end this match as quickly as possible, as they did against Oman.\" The added worry is that a low score reopens those net run-rate concerns, even if they scrape a win"}]Adnan: "Really Bad Toss for Eng to lose.. Now they have to play full 11 overs.. Otherwise they want to end this match as quickly as possible, as they did against Oman." The added worry is that a low score reopens those net run-rate concerns, even if they scrape a win
+on the back foot, soft hands blocked into the off side
+Adnan: "Really Bad Toss for Eng to lose.. Now they have to play full 11 overs.. Otherwise they want to end this match as quickly as possible, as they did against Oman." The added worry is that a low score reopens those net run-rate concerns, even if they scrape a win
 
 Balls faced: 2
 Bowler: Wiese
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length outswinger, that's met with a respectful block into the off side. England are in a serious scrap now"}]full length outswinger, that's met with a respectful block into the off side. England are in a serious scrap now
+full length outswinger, that's met with a respectful block into the off side. England are in a serious scrap now
 
 
 Balls faced: 3
 Bowler: Scholtz
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Right, the end of the powerplay, over to Scholtz and left-arm spin. Is this where England can get going?"}]Right, the end of the powerplay, over to Scholtz and left-arm spin. Is this where England can get going?
+Right, the end of the powerplay, over to Scholtz and left-arm spin. Is this where England can get going?
 
-[{"type": "HTML", "html": "round the wicket, probing length on the pads, tucked to midwicket"}]round the wicket, probing length on the pads, tucked to midwicket
+round the wicket, probing length on the pads, tucked to midwicket
 
 
 Balls faced: 4
 Bowler: Wiese
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the back foot, soft hands blocked into the off side"}]on the back foot, soft hands blocked into the off side
-[{"type": "HTML", "html": "Adnan: \"Really Bad Toss for Eng to lose.. Now they have to play full 11 overs.. Otherwise they want to end this match as quickly as possible, as they did against Oman.\" The added worry is that a low score reopens those net run-rate concerns, even if they scrape a win"}]Adnan: "Really Bad Toss for Eng to lose.. Now they have to play full 11 overs.. Otherwise they want to end this match as quickly as possible, as they did against Oman." The added worry is that a low score reopens those net run-rate concerns, even if they scrape a win
+on the back foot, soft hands blocked into the off side
+Adnan: "Really Bad Toss for Eng to lose.. Now they have to play full 11 overs.. Otherwise they want to end this match as quickly as possible, as they did against Oman." The added worry is that a low score reopens those net run-rate concerns, even if they scrape a win
 
 Balls faced: 5
 Bowler: Wiese
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length outswinger, that's met with a respectful block into the off side. England are in a serious scrap now"}]full length outswinger, that's met with a respectful block into the off side. England are in a serious scrap now
+full length outswinger, that's met with a respectful block into the off side. England are in a serious scrap now
 
 
 Balls faced: 6
 Bowler: Erasmus
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Erasmus the captain, with his offies, is next up"}]Erasmus the captain, with his offies, is next up
+Erasmus the captain, with his offies, is next up
 
-[{"type": "HTML", "html": "round the wicket, a real dart, back of a length and pushed across the right-hander, toe-ended out to cover"}]round the wicket, a real dart, back of a length and pushed across the right-hander, toe-ended out to cover
-[{"type": "HTML", "html": "Srini: \"@Andrew - NRR is out of equation for Eng.  If they lose, they go home.  If SCO wins, then ENG goes home.  If Eng wins and SCO loses, Eng then they qualify.\" There is a postscript to that saga. Because it is a cumulative total, a low score and a tight finish could cause problems to the average... hard to explain at high speed typing!"}]Srini: "@Andrew - NRR is out of equation for Eng.  If they lose, they go home.  If SCO wins, then ENG goes home.  If Eng wins and SCO loses, Eng then they qualify." There is a postscript to that saga. Because it is a cumulative total, a low score and a tight finish could cause problems to the average... hard to explain at high speed typing!
+round the wicket, a real dart, back of a length and pushed across the right-hander, toe-ended out to cover
+Srini: "@Andrew - NRR is out of equation for Eng.  If they lose, they go home.  If SCO wins, then ENG goes home.  If Eng wins and SCO loses, Eng then they qualify." There is a postscript to that saga. Because it is a cumulative total, a low score and a tight finish could cause problems to the average... hard to explain at high speed typing!
 
 Balls faced: 7
 Bowler: Scholtz
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Right, the end of the powerplay, over to Scholtz and left-arm spin. Is this where England can get going?"}]Right, the end of the powerplay, over to Scholtz and left-arm spin. Is this where England can get going?
+Right, the end of the powerplay, over to Scholtz and left-arm spin. Is this where England can get going?
 
-[{"type": "HTML", "html": "round the wicket, probing length on the pads, tucked to midwicket"}]round the wicket, probing length on the pads, tucked to midwicket
+round the wicket, probing length on the pads, tucked to midwicket
 
 
 Balls faced: 8
 Bowler: Brassell
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hits the pitch again, more good carry, slaps the keeper's gloves. A brace of dots to regain control in that over"}]Hits the pitch again, more good carry, slaps the keeper's gloves. A brace of dots to regain control in that over
-[{"type": "HTML", "html": "Tautoru: \"slow start but England heating up now. I reckon the score might be higher than the predicted 109. \" It might yet need to. Wiese in particular can launch it!"}]Tautoru: "slow start but England heating up now. I reckon the score might be higher than the predicted 109. " It might yet need to. Wiese in particular can launch it!
+Hits the pitch again, more good carry, slaps the keeper's gloves. A brace of dots to regain control in that over
+Tautoru: "slow start but England heating up now. I reckon the score might be higher than the predicted 109. " It might yet need to. Wiese in particular can launch it!
 
 Balls faced: 9
 Bowler: Brassell
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>good riposte!</B> Very full length, seemed to be in the slot for Brook, but that takes a piece out of the pitch and flies past the edge into the keeper's gloves"}]<B>good riposte!</B> Very full length, seemed to be in the slot for Brook, but that takes a piece out of the pitch and flies past the edge into the keeper's gloves
+<B>good riposte!</B> Very full length, seemed to be in the slot for Brook, but that takes a piece out of the pitch and flies past the edge into the keeper's gloves
 
 
 Balls faced: 10
 Bowler: Brassell
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>drags the length back, cuffed past point!</B> This is free-flowing now from England's Yorkies. Riding the extra bounce, and beating the diving fielder"}]<B>drags the length back, cuffed past point!</B> This is free-flowing now from England's Yorkies. Riding the extra bounce, and beating the diving fielder
+<B>drags the length back, cuffed past point!</B> This is free-flowing now from England's Yorkies. Riding the extra bounce, and beating the diving fielder
 
 
 Balls faced: 11
 Bowler: Brassell
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>bottom-handed blat, high over the leg-side!</B> That's Brook at his best, solid base, aggressive intent, dispatched over the ropes"}]<B>bottom-handed blat, high over the leg-side!</B> That's Brook at his best, solid base, aggressive intent, dispatched over the ropes
+<B>bottom-handed blat, high over the leg-side!</B> That's Brook at his best, solid base, aggressive intent, dispatched over the ropes
 
 
 Balls faced: 12
 Bowler: Brassell
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "width, and <B>crashed hard by Brook</B> but the point sweeper slides well to cut off the four"}]width, and <B>crashed hard by Brook</B> but the point sweeper slides well to cut off the four
+width, and <B>crashed hard by Brook</B> but the point sweeper slides well to cut off the four
 
 
 Balls faced: 13
 Bowler: Erasmus
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Erasmus the captain, with his offies, is next up"}]Erasmus the captain, with his offies, is next up
+Erasmus the captain, with his offies, is next up
 
-[{"type": "HTML", "html": "round the wicket, a real dart, back of a length and pushed across the right-hander, toe-ended out to cover"}]round the wicket, a real dart, back of a length and pushed across the right-hander, toe-ended out to cover
-[{"type": "HTML", "html": "Srini: \"@Andrew - NRR is out of equation for Eng.  If they lose, they go home.  If SCO wins, then ENG goes home.  If Eng wins and SCO loses, Eng then they qualify.\" There is a postscript to that saga. Because it is a cumulative total, a low score and a tight finish could cause problems to the average... hard to explain at high speed typing!"}]Srini: "@Andrew - NRR is out of equation for Eng.  If they lose, they go home.  If SCO wins, then ENG goes home.  If Eng wins and SCO loses, Eng then they qualify." There is a postscript to that saga. Because it is a cumulative total, a low score and a tight finish could cause problems to the average... hard to explain at high speed typing!
+round the wicket, a real dart, back of a length and pushed across the right-hander, toe-ended out to cover
+Srini: "@Andrew - NRR is out of equation for Eng.  If they lose, they go home.  If SCO wins, then ENG goes home.  If Eng wins and SCO loses, Eng then they qualify." There is a postscript to that saga. Because it is a cumulative total, a low score and a tight finish could cause problems to the average... hard to explain at high speed typing!
 
 Balls faced: 14
 Bowler: Erasmus
 Over: 7
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "in at the toes, Brook can't get any elevation into his launch to the on-side, but the lack of timing allows them to get back for the second"}]in at the toes, Brook can't get any elevation into his launch to the on-side, but the lack of timing allows them to get back for the second
-[{"type": "HTML", "html": "Ali Nawaz Khan : \"Even if England declare here and win a super over, and Scotland lose a superover, England will still progress. So yeah, run rates out the window. \" I don't have time to check any sums, but this sounds authoritative so there you go"}]Ali Nawaz Khan : "Even if England declare here and win a super over, and Scotland lose a superover, England will still progress. So yeah, run rates out the window. " I don't have time to check any sums, but this sounds authoritative so there you go
+in at the toes, Brook can't get any elevation into his launch to the on-side, but the lack of timing allows them to get back for the second
+Ali Nawaz Khan : "Even if England declare here and win a super over, and Scotland lose a superover, England will still progress. So yeah, run rates out the window. " I don't have time to check any sums, but this sounds authoritative so there you go
 
 Balls faced: 15
 Bowler: Erasmus
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>round the wicket, chopped uppishly through deep third!</B> 108kph from Erasmus, zippy angle into middle and off, Brook rocks back and lifts it past the diving backward point"}]<B>round the wicket, chopped uppishly through deep third!</B> 108kph from Erasmus, zippy angle into middle and off, Brook rocks back and lifts it past the diving backward point
+<B>round the wicket, chopped uppishly through deep third!</B> 108kph from Erasmus, zippy angle into middle and off, Brook rocks back and lifts it past the diving backward point
 
 
 Balls faced: 16
 Bowler: Erasmus
 Over: 7
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "leg-sided, Brook makes initial room as the bowler follows him. Tucked off the hip to backward square"}]leg-sided, Brook makes initial room as the bowler follows him. Tucked off the hip to backward square
+leg-sided, Brook makes initial room as the bowler follows him. Tucked off the hip to backward square
 
 
 Balls faced: 17
 Bowler: Erasmus
 Over: 7
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "dips on the toes, and nudged to the leg-side... <B>this could have been a run-out!</B> Bairstow was struggling as they turned for the second run, but <strong>Erasmus couldn't gather cleanly!</strong>"}]dips on the toes, and nudged to the leg-side... <B>this could have been a run-out!</B> Bairstow was struggling as they turned for the second run, but <strong>Erasmus couldn't gather cleanly!</strong>
+dips on the toes, and nudged to the leg-side... <B>this could have been a run-out!</B> Bairstow was struggling as they turned for the second run, but <strong>Erasmus couldn't gather cleanly!</strong>
 
 
 Balls faced: 18
 Bowler: Brassell
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hits the pitch again, more good carry, slaps the keeper's gloves. A brace of dots to regain control in that over"}]Hits the pitch again, more good carry, slaps the keeper's gloves. A brace of dots to regain control in that over
-[{"type": "HTML", "html": "Tautoru: \"slow start but England heating up now. I reckon the score might be higher than the predicted 109. \" It might yet need to. Wiese in particular can launch it!"}]Tautoru: "slow start but England heating up now. I reckon the score might be higher than the predicted 109. " It might yet need to. Wiese in particular can launch it!
+Hits the pitch again, more good carry, slaps the keeper's gloves. A brace of dots to regain control in that over
+Tautoru: "slow start but England heating up now. I reckon the score might be higher than the predicted 109. " It might yet need to. Wiese in particular can launch it!
 
 Balls faced: 19
 Bowler: Brassell
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>good riposte!</B> Very full length, seemed to be in the slot for Brook, but that takes a piece out of the pitch and flies past the edge into the keeper's gloves"}]<B>good riposte!</B> Very full length, seemed to be in the slot for Brook, but that takes a piece out of the pitch and flies past the edge into the keeper's gloves
+<B>good riposte!</B> Very full length, seemed to be in the slot for Brook, but that takes a piece out of the pitch and flies past the edge into the keeper's gloves
 
 
 Balls faced: 20
 Bowler: Brassell
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>drags the length back, cuffed past point!</B> This is free-flowing now from England's Yorkies. Riding the extra bounce, and beating the diving fielder"}]<B>drags the length back, cuffed past point!</B> This is free-flowing now from England's Yorkies. Riding the extra bounce, and beating the diving fielder
+<B>drags the length back, cuffed past point!</B> This is free-flowing now from England's Yorkies. Riding the extra bounce, and beating the diving fielder
 
 
 Balls faced: 21
 Bowler: Brassell
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>bottom-handed blat, high over the leg-side!</B> That's Brook at his best, solid base, aggressive intent, dispatched over the ropes"}]<B>bottom-handed blat, high over the leg-side!</B> That's Brook at his best, solid base, aggressive intent, dispatched over the ropes
+<B>bottom-handed blat, high over the leg-side!</B> That's Brook at his best, solid base, aggressive intent, dispatched over the ropes
 
 
 Balls faced: 22
 Bowler: Brassell
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "width, and <B>crashed hard by Brook</B> but the point sweeper slides well to cut off the four"}]width, and <B>crashed hard by Brook</B> but the point sweeper slides well to cut off the four
+width, and <B>crashed hard by Brook</B> but the point sweeper slides well to cut off the four
 
 
 Balls faced: 23
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "wide line, slammed out to deep cover, a good slide to intercept..."}]wide line, slammed out to deep cover, a good slide to intercept...
-[{"type": "HTML", "html": "<B>4.45pm</B> <B>It's a ten-over contest!</B> Just one lost. Perhaps handily for England, Wiese is now bowled out. Trumpelmann and Brassell could be the men for the final 12 balls."}, {"type": "HTML", "html": "<B>4.41pm</B> The rain has stopped... that is promising from England's point of view. And, frankly, Namibia's too. It's a World Cup! They will be keen to have their day out too."}, {"type": "HTML", "html": "Banshee : \"The weather may yet have the last say! Schadenfreude, anyone!\" Now now... this is a schadenfreude-free zone."}, {"type": "HTML", "html": "Brian: \"The shortened game actually helps ENG's NRR calculation. If ENG had won a 20 over game by 1 run, their NRR would have dropped to a level where it was just possible for SCO to lose a 10 over game to AUS but end up with a better NRR than ENG. But with this as an 11-over game, being shortened as I type, If ENG win even by just 1 run, their NRR doesn't drop so much as after a 20-over game. So if this game ends in an ENG win, then SCO must take a point, or two, from AUS to progress. \""}, {"type": "HTML", "html": "<B>4.39pm</B> If this is indeed the end of England's innings, here are the targets that Namibia could be chasing. That five-over target is especially tempting!"}, {"type": "HTML", "html": "93 - 8 overs<BR>"}, {"type": "HTML", "html": "83 - 7 overs<BR>"}, {"type": "HTML", "html": "73 - 6 overs<BR>"}, {"type": "HTML", "html": "63 - 5 overs<br>"}, {"type": "HTML", "html": "<B>4.37pm Rain stops play</B> The groundstaff take matters into their own hands, and drag the sheets on before the deluge arrives. There is still blue sky around. And there is still a smidgeon of wriggle room. But it's not impossible that England's innings is over. And maybe even their campaign..."}]<B>4.45pm</B> <B>It's a ten-over contest!</B> Just one lost. Perhaps handily for England, Wiese is now bowled out. Trumpelmann and Brassell could be the men for the final 12 balls. <B>4.41pm</B> The rain has stopped... that is promising from England's point of view. And, frankly, Namibia's too. It's a World Cup! They will be keen to have their day out too. Banshee : "The weather may yet have the last say! Schadenfreude, anyone!" Now now... this is a schadenfreude-free zone. Brian: "The shortened game actually helps ENG's NRR calculation. If ENG had won a 20 over game by 1 run, their NRR would have dropped to a level where it was just possible for SCO to lose a 10 over game to AUS but end up with a better NRR than ENG. But with this as an 11-over game, being shortened as I type, If ENG win even by just 1 run, their NRR doesn't drop so much as after a 20-over game. So if this game ends in an ENG win, then SCO must take a point, or two, from AUS to progress. " <B>4.39pm</B> If this is indeed the end of England's innings, here are the targets that Namibia could be chasing. That five-over target is especially tempting! 93 - 8 overs<BR> 83 - 7 overs<BR> 73 - 6 overs<BR> 63 - 5 overs<br> <B>4.37pm Rain stops play</B> The groundstaff take matters into their own hands, and drag the sheets on before the deluge arrives. There is still blue sky around. And there is still a smidgeon of wriggle room. But it's not impossible that England's innings is over. And maybe even their campaign...
+wide line, slammed out to deep cover, a good slide to intercept...
+<B>4.45pm</B> <B>It's a ten-over contest!</B> Just one lost. Perhaps handily for England, Wiese is now bowled out. Trumpelmann and Brassell could be the men for the final 12 balls. <B>4.41pm</B> The rain has stopped... that is promising from England's point of view. And, frankly, Namibia's too. It's a World Cup! They will be keen to have their day out too. Banshee : "The weather may yet have the last say! Schadenfreude, anyone!" Now now... this is a schadenfreude-free zone. Brian: "The shortened game actually helps ENG's NRR calculation. If ENG had won a 20 over game by 1 run, their NRR would have dropped to a level where it was just possible for SCO to lose a 10 over game to AUS but end up with a better NRR than ENG. But with this as an 11-over game, being shortened as I type, If ENG win even by just 1 run, their NRR doesn't drop so much as after a 20-over game. So if this game ends in an ENG win, then SCO must take a point, or two, from AUS to progress. " <B>4.39pm</B> If this is indeed the end of England's innings, here are the targets that Namibia could be chasing. That five-over target is especially tempting! 93 - 8 overs<BR> 83 - 7 overs<BR> 73 - 6 overs<BR> 63 - 5 overs<br> <B>4.37pm Rain stops play</B> The groundstaff take matters into their own hands, and drag the sheets on before the deluge arrives. There is still blue sky around. And there is still a smidgeon of wriggle room. But it's not impossible that England's innings is over. And maybe even their campaign...
 
 Balls faced: 24
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "round the wicket, dipping on a good length, and eased into the covers"}]round the wicket, dipping on a good length, and eased into the covers
-[{"type": "HTML", "html": "<B>There is drizzle in the air...</B> Uh oh... the groundstaff are in place"}]<B>There is drizzle in the air...</B> Uh oh... the groundstaff are in place
+round the wicket, dipping on a good length, and eased into the covers
+<B>There is drizzle in the air...</B> Uh oh... the groundstaff are in place
 
 Balls faced: 25
 Bowler: Erasmus
 Over: 7
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "in at the toes, Brook can't get any elevation into his launch to the on-side, but the lack of timing allows them to get back for the second"}]in at the toes, Brook can't get any elevation into his launch to the on-side, but the lack of timing allows them to get back for the second
-[{"type": "HTML", "html": "Ali Nawaz Khan : \"Even if England declare here and win a super over, and Scotland lose a superover, England will still progress. So yeah, run rates out the window. \" I don't have time to check any sums, but this sounds authoritative so there you go"}]Ali Nawaz Khan : "Even if England declare here and win a super over, and Scotland lose a superover, England will still progress. So yeah, run rates out the window. " I don't have time to check any sums, but this sounds authoritative so there you go
+in at the toes, Brook can't get any elevation into his launch to the on-side, but the lack of timing allows them to get back for the second
+Ali Nawaz Khan : "Even if England declare here and win a super over, and Scotland lose a superover, England will still progress. So yeah, run rates out the window. " I don't have time to check any sums, but this sounds authoritative so there you go
 
 Balls faced: 26
 Bowler: Erasmus
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>round the wicket, chopped uppishly through deep third!</B> 108kph from Erasmus, zippy angle into middle and off, Brook rocks back and lifts it past the diving backward point"}]<B>round the wicket, chopped uppishly through deep third!</B> 108kph from Erasmus, zippy angle into middle and off, Brook rocks back and lifts it past the diving backward point
+<B>round the wicket, chopped uppishly through deep third!</B> 108kph from Erasmus, zippy angle into middle and off, Brook rocks back and lifts it past the diving backward point
 
 
 Balls faced: 27
 Bowler: Erasmus
 Over: 7
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "leg-sided, Brook makes initial room as the bowler follows him. Tucked off the hip to backward square"}]leg-sided, Brook makes initial room as the bowler follows him. Tucked off the hip to backward square
+leg-sided, Brook makes initial room as the bowler follows him. Tucked off the hip to backward square
 
 
 Balls faced: 28
 Bowler: Erasmus
 Over: 7
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "dips on the toes, and nudged to the leg-side... <B>this could have been a run-out!</B> Bairstow was struggling as they turned for the second run, but <strong>Erasmus couldn't gather cleanly!</strong>"}]dips on the toes, and nudged to the leg-side... <B>this could have been a run-out!</B> Bairstow was struggling as they turned for the second run, but <strong>Erasmus couldn't gather cleanly!</strong>
+dips on the toes, and nudged to the leg-side... <B>this could have been a run-out!</B> Bairstow was struggling as they turned for the second run, but <strong>Erasmus couldn't gather cleanly!</strong>
 
 
 Balls faced: 29
 Bowler: Brassell
 Over: 9
+Pitch Line: DOWN_LEG Length: FULL
 Shot: No Shot
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>over fine leg once more!</B> Brassell fired it outside the legs, but Brook was walking all the way across his stumps, and just tapped it on the head as he went. Up and over fine leg to complete a damaging over, the hundred is up too"}]<B>over fine leg once more!</B> Brassell fired it outside the legs, but Brook was walking all the way across his stumps, and just tapped it on the head as he went. Up and over fine leg to complete a damaging over, the hundred is up too
+<B>over fine leg once more!</B> Brassell fired it outside the legs, but Brook was walking all the way across his stumps, and just tapped it on the head as he went. Up and over fine leg to complete a damaging over, the hundred is up too
 
 
 Balls faced: 30
 Bowler: Brassell
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: UPPER_CUT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>slower ball, waits and waits, and muscles the uppercut!</B> Hard over extra cover!"}]<B>slower ball, waits and waits, and muscles the uppercut!</B> Hard over extra cover!
+<B>slower ball, waits and waits, and muscles the uppercut!</B> Hard over extra cover!
 
 
 Balls faced: 31
 Bowler: Brassell
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: No Shot
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>wonderful contact on the ramp!</B> It's a very flat ramp, a very full length from the bowler, and the contact is sweet and true through fine leg"}]<B>wonderful contact on the ramp!</B> It's a very flat ramp, a very full length from the bowler, and the contact is sweet and true through fine leg
+<B>wonderful contact on the ramp!</B> It's a very flat ramp, a very full length from the bowler, and the contact is sweet and true through fine leg
 
 
 Balls faced: 32
 Bowler: Brassell
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "cramped on the pads, flicked in the air, good areas from Brassell, tight to Brook's body to prevent him from freeing his levers"}]cramped on the pads, flicked in the air, good areas from Brassell, tight to Brook's body to prevent him from freeing his levers
+cramped on the pads, flicked in the air, good areas from Brassell, tight to Brook's body to prevent him from freeing his levers
 
 
 Balls faced: 33
 Bowler: Brassell
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "very full, high hands from Brook as Brassell follows him down the leg-side, and lobbed to the on-side"}]very full, high hands from Brook as Brassell follows him down the leg-side, and lobbed to the on-side
+very full, high hands from Brook as Brassell follows him down the leg-side, and lobbed to the on-side
 
 
 Balls faced: 34
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "wide line, slammed out to deep cover, a good slide to intercept..."}]wide line, slammed out to deep cover, a good slide to intercept...
-[{"type": "HTML", "html": "<B>4.45pm</B> <B>It's a ten-over contest!</B> Just one lost. Perhaps handily for England, Wiese is now bowled out. Trumpelmann and Brassell could be the men for the final 12 balls."}, {"type": "HTML", "html": "<B>4.41pm</B> The rain has stopped... that is promising from England's point of view. And, frankly, Namibia's too. It's a World Cup! They will be keen to have their day out too."}, {"type": "HTML", "html": "Banshee : \"The weather may yet have the last say! Schadenfreude, anyone!\" Now now... this is a schadenfreude-free zone."}, {"type": "HTML", "html": "Brian: \"The shortened game actually helps ENG's NRR calculation. If ENG had won a 20 over game by 1 run, their NRR would have dropped to a level where it was just possible for SCO to lose a 10 over game to AUS but end up with a better NRR than ENG. But with this as an 11-over game, being shortened as I type, If ENG win even by just 1 run, their NRR doesn't drop so much as after a 20-over game. So if this game ends in an ENG win, then SCO must take a point, or two, from AUS to progress. \""}, {"type": "HTML", "html": "<B>4.39pm</B> If this is indeed the end of England's innings, here are the targets that Namibia could be chasing. That five-over target is especially tempting!"}, {"type": "HTML", "html": "93 - 8 overs<BR>"}, {"type": "HTML", "html": "83 - 7 overs<BR>"}, {"type": "HTML", "html": "73 - 6 overs<BR>"}, {"type": "HTML", "html": "63 - 5 overs<br>"}, {"type": "HTML", "html": "<B>4.37pm Rain stops play</B> The groundstaff take matters into their own hands, and drag the sheets on before the deluge arrives. There is still blue sky around. And there is still a smidgeon of wriggle room. But it's not impossible that England's innings is over. And maybe even their campaign..."}]<B>4.45pm</B> <B>It's a ten-over contest!</B> Just one lost. Perhaps handily for England, Wiese is now bowled out. Trumpelmann and Brassell could be the men for the final 12 balls. <B>4.41pm</B> The rain has stopped... that is promising from England's point of view. And, frankly, Namibia's too. It's a World Cup! They will be keen to have their day out too. Banshee : "The weather may yet have the last say! Schadenfreude, anyone!" Now now... this is a schadenfreude-free zone. Brian: "The shortened game actually helps ENG's NRR calculation. If ENG had won a 20 over game by 1 run, their NRR would have dropped to a level where it was just possible for SCO to lose a 10 over game to AUS but end up with a better NRR than ENG. But with this as an 11-over game, being shortened as I type, If ENG win even by just 1 run, their NRR doesn't drop so much as after a 20-over game. So if this game ends in an ENG win, then SCO must take a point, or two, from AUS to progress. " <B>4.39pm</B> If this is indeed the end of England's innings, here are the targets that Namibia could be chasing. That five-over target is especially tempting! 93 - 8 overs<BR> 83 - 7 overs<BR> 73 - 6 overs<BR> 63 - 5 overs<br> <B>4.37pm Rain stops play</B> The groundstaff take matters into their own hands, and drag the sheets on before the deluge arrives. There is still blue sky around. And there is still a smidgeon of wriggle room. But it's not impossible that England's innings is over. And maybe even their campaign...
+wide line, slammed out to deep cover, a good slide to intercept...
+<B>4.45pm</B> <B>It's a ten-over contest!</B> Just one lost. Perhaps handily for England, Wiese is now bowled out. Trumpelmann and Brassell could be the men for the final 12 balls. <B>4.41pm</B> The rain has stopped... that is promising from England's point of view. And, frankly, Namibia's too. It's a World Cup! They will be keen to have their day out too. Banshee : "The weather may yet have the last say! Schadenfreude, anyone!" Now now... this is a schadenfreude-free zone. Brian: "The shortened game actually helps ENG's NRR calculation. If ENG had won a 20 over game by 1 run, their NRR would have dropped to a level where it was just possible for SCO to lose a 10 over game to AUS but end up with a better NRR than ENG. But with this as an 11-over game, being shortened as I type, If ENG win even by just 1 run, their NRR doesn't drop so much as after a 20-over game. So if this game ends in an ENG win, then SCO must take a point, or two, from AUS to progress. " <B>4.39pm</B> If this is indeed the end of England's innings, here are the targets that Namibia could be chasing. That five-over target is especially tempting! 93 - 8 overs<BR> 83 - 7 overs<BR> 73 - 6 overs<BR> 63 - 5 overs<br> <B>4.37pm Rain stops play</B> The groundstaff take matters into their own hands, and drag the sheets on before the deluge arrives. There is still blue sky around. And there is still a smidgeon of wriggle room. But it's not impossible that England's innings is over. And maybe even their campaign...
 
 Balls faced: 35
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "round the wicket, dipping on a good length, and eased into the covers"}]round the wicket, dipping on a good length, and eased into the covers
-[{"type": "HTML", "html": "<B>There is drizzle in the air...</B> Uh oh... the groundstaff are in place"}]<B>There is drizzle in the air...</B> Uh oh... the groundstaff are in place
+round the wicket, dipping on a good length, and eased into the covers
+<B>There is drizzle in the air...</B> Uh oh... the groundstaff are in place
 
 Balls faced: 36
 Bowler: Brassell
 Over: 9
+Pitch Line: DOWN_LEG Length: FULL
 Shot: No Shot
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>over fine leg once more!</B> Brassell fired it outside the legs, but Brook was walking all the way across his stumps, and just tapped it on the head as he went. Up and over fine leg to complete a damaging over, the hundred is up too"}]<B>over fine leg once more!</B> Brassell fired it outside the legs, but Brook was walking all the way across his stumps, and just tapped it on the head as he went. Up and over fine leg to complete a damaging over, the hundred is up too
+<B>over fine leg once more!</B> Brassell fired it outside the legs, but Brook was walking all the way across his stumps, and just tapped it on the head as he went. Up and over fine leg to complete a damaging over, the hundred is up too
 
 
 Balls faced: 37
 Bowler: Brassell
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: UPPER_CUT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>slower ball, waits and waits, and muscles the uppercut!</B> Hard over extra cover!"}]<B>slower ball, waits and waits, and muscles the uppercut!</B> Hard over extra cover!
+<B>slower ball, waits and waits, and muscles the uppercut!</B> Hard over extra cover!
 
 
 Balls faced: 38
 Bowler: Brassell
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: No Shot
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>wonderful contact on the ramp!</B> It's a very flat ramp, a very full length from the bowler, and the contact is sweet and true through fine leg"}]<B>wonderful contact on the ramp!</B> It's a very flat ramp, a very full length from the bowler, and the contact is sweet and true through fine leg
+<B>wonderful contact on the ramp!</B> It's a very flat ramp, a very full length from the bowler, and the contact is sweet and true through fine leg
 
 
 Balls faced: 39
 Bowler: Brassell
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "cramped on the pads, flicked in the air, good areas from Brassell, tight to Brook's body to prevent him from freeing his levers"}]cramped on the pads, flicked in the air, good areas from Brassell, tight to Brook's body to prevent him from freeing his levers
+cramped on the pads, flicked in the air, good areas from Brassell, tight to Brook's body to prevent him from freeing his levers
 
 
 Balls faced: 40
 Bowler: Brassell
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "very full, high hands from Brook as Brassell follows him down the leg-side, and lobbed to the on-side"}]very full, high hands from Brook as Brassell follows him down the leg-side, and lobbed to the on-side
+very full, high hands from Brook as Brassell follows him down the leg-side, and lobbed to the on-side

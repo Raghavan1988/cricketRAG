@@ -2,6 +2,7 @@ Match: all_games_1410505_1410545.json
 Balls faced: 1
 Bowler: Cross
 Over: 1
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Cross
 Over: 1
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Cross
 Over: 1
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -82,6 +90,7 @@ Run scored: 4
 Balls faced: 9
 Bowler: Cross
 Over: 1
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -92,6 +101,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Cross
 Over: 1
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Cross
 Over: 1
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -112,6 +123,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Cross
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -122,6 +134,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Cross
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -132,6 +145,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -142,6 +156,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -152,6 +167,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -162,6 +178,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -172,6 +189,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Norris
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -182,6 +200,7 @@ Run scored: 4
 Balls faced: 19
 Bowler: Graham
 Over: 4
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 1
 
@@ -192,6 +211,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Graham
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Graham
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -212,6 +233,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Graham
 Over: 4
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -222,6 +244,7 @@ Run scored: 4
 Balls faced: 23
 Bowler: Cross
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -232,6 +255,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: Cross
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -242,6 +266,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Cross
 Over: 5
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 1
 
@@ -252,6 +277,7 @@ Run scored: 1
 Balls faced: 26
 Bowler: Cross
 Over: 5
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -262,6 +288,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Cross
 Over: 5
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -272,6 +299,7 @@ Run scored: 2
 Balls faced: 28
 Bowler: Cross
 Over: 5
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -282,6 +310,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: Graham
 Over: 4
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 1
 
@@ -292,6 +321,7 @@ Run scored: 1
 Balls faced: 30
 Bowler: Graham
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -302,6 +332,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Graham
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -312,6 +343,7 @@ Run scored: 0
 Balls faced: 32
 Bowler: Graham
 Over: 4
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -322,6 +354,7 @@ Run scored: 4
 Balls faced: 33
 Bowler: Morris
 Over: 6
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -332,6 +365,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Cross
 Over: 5
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 1
 
@@ -342,6 +376,7 @@ Run scored: 1
 Balls faced: 35
 Bowler: Cross
 Over: 5
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -352,6 +387,7 @@ Run scored: 0
 Balls faced: 36
 Bowler: Cross
 Over: 5
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -362,6 +398,7 @@ Run scored: 2
 Balls faced: 37
 Bowler: Cross
 Over: 5
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -372,6 +409,7 @@ Run scored: 0
 Balls faced: 38
 Bowler: Morris
 Over: 6
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -382,15 +420,23 @@ Run scored: 0
 Balls faced: 39
 Bowler: Morris
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Armitage is OUT! bowled
+ b Morris
+Hollie Armitage b Morris 15 (20b 2x4 0x6 33m) SR: 75
 
 
 
 Balls faced: 40
 Bowler: Morris
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
+
+Armitage is OUT! bowled
+ b Morris
+Hollie Armitage b Morris 15 (20b 2x4 0x6 33m) SR: 75

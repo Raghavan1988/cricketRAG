@@ -2,901 +2,995 @@ Match: all_games_1411166_1415702.json
 Balls faced: 1
 Bowler: Hosein
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slung down on off, poked through square leg"}]slung down on off, poked through square leg
+slung down on off, poked through square leg
 
 
 Balls faced: 2
 Bowler: Russell
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pitched up and thrashes back, through Russell's hands as he tumbles forward in his follow through, but mid-on cleans up"}]pitched up and thrashes back, through Russell's hands as he tumbles forward in his follow through, but mid-on cleans up
+pitched up and thrashes back, through Russell's hands as he tumbles forward in his follow through, but mid-on cleans up
 
 
 Balls faced: 3
 Bowler: Russell
 Over: 4
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length but sliding down leg"}]back of a length but sliding down leg
+back of a length but sliding down leg
 
 Wide: 1
 Balls faced: 4
 Bowler: Russell
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>clubbed down the ground, first boundary for PNG!</b> Too full and this time Bau boshes effectively past mid-off, despite the ball holding up as it trundles towards the rope"}]<b>clubbed down the ground, first boundary for PNG!</b> Too full and this time Bau boshes effectively past mid-off, despite the ball holding up as it trundles towards the rope
+<b>clubbed down the ground, first boundary for PNG!</b> Too full and this time Bau boshes effectively past mid-off, despite the ball holding up as it trundles towards the rope
 
 
 Balls faced: 5
 Bowler: Russell
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "very full again, almost yorker length outside off. Bunted back to the bowler"}]very full again, almost yorker length outside off. Bunted back to the bowler
+very full again, almost yorker length outside off. Bunted back to the bowler
 
 
 Balls faced: 6
 Bowler: Russell
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, brushes the hip as he looks to work it fine. Pooran is across to field"}]back of a length, brushes the hip as he looks to work it fine. Pooran is across to field
+back of a length, brushes the hip as he looks to work it fine. Pooran is across to field
 
 
 Balls faced: 7
 Bowler: Russell
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length, punched towards mid-off without much timing"}]full length, punched towards mid-off without much timing
+full length, punched towards mid-off without much timing
 
 
 Balls faced: 8
 Bowler: Russell
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Andre Russell replaces Shepherd"}]Andre Russell replaces Shepherd
+Andre Russell replaces Shepherd
 
-[{"type": "HTML", "html": "fired full, just outside off, beats Bau as he attempts to clamp down on it late"}]fired full, just outside off, beats Bau as he attempts to clamp down on it late
+fired full, just outside off, beats Bau as he attempts to clamp down on it late
 
 
 Balls faced: 9
 Bowler: Hosein
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slung down on off, poked through square leg"}]slung down on off, poked through square leg
+slung down on off, poked through square leg
 
 
 Balls faced: 10
 Bowler: Chase
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Chase loses his line down the leg side as Bau swings at it and misses, Pooran can't collect either"}]Chase loses his line down the leg side as Bau swings at it and misses, Pooran can't collect either
+Chase loses his line down the leg side as Bau swings at it and misses, Pooran can't collect either
 
 Wide: 2
 Balls faced: 11
 Bowler: Russell
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pitched up and thrashes back, through Russell's hands as he tumbles forward in his follow through, but mid-on cleans up"}]pitched up and thrashes back, through Russell's hands as he tumbles forward in his follow through, but mid-on cleans up
+pitched up and thrashes back, through Russell's hands as he tumbles forward in his follow through, but mid-on cleans up
 
 
 Balls faced: 12
 Bowler: Russell
 Over: 4
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length but sliding down leg"}]back of a length but sliding down leg
+back of a length but sliding down leg
 
 Wide: 1
 Balls faced: 13
 Bowler: Russell
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>clubbed down the ground, first boundary for PNG!</b> Too full and this time Bau boshes effectively past mid-off, despite the ball holding up as it trundles towards the rope"}]<b>clubbed down the ground, first boundary for PNG!</b> Too full and this time Bau boshes effectively past mid-off, despite the ball holding up as it trundles towards the rope
+<b>clubbed down the ground, first boundary for PNG!</b> Too full and this time Bau boshes effectively past mid-off, despite the ball holding up as it trundles towards the rope
 
 
 Balls faced: 14
 Bowler: Russell
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "very full again, almost yorker length outside off. Bunted back to the bowler"}]very full again, almost yorker length outside off. Bunted back to the bowler
+very full again, almost yorker length outside off. Bunted back to the bowler
 
 
 Balls faced: 15
 Bowler: Russell
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, brushes the hip as he looks to work it fine. Pooran is across to field"}]back of a length, brushes the hip as he looks to work it fine. Pooran is across to field
+back of a length, brushes the hip as he looks to work it fine. Pooran is across to field
 
 
 Balls faced: 16
 Bowler: Russell
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length, punched towards mid-off without much timing"}]full length, punched towards mid-off without much timing
+full length, punched towards mid-off without much timing
 
 
 Balls faced: 17
 Bowler: Russell
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Andre Russell replaces Shepherd"}]Andre Russell replaces Shepherd
+Andre Russell replaces Shepherd
 
-[{"type": "HTML", "html": "fired full, just outside off, beats Bau as he attempts to clamp down on it late"}]fired full, just outside off, beats Bau as he attempts to clamp down on it late
+fired full, just outside off, beats Bau as he attempts to clamp down on it late
 
 
 Balls faced: 18
 Bowler: Chase
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Chase loses his line down the leg side as Bau swings at it and misses, Pooran can't collect either"}]Chase loses his line down the leg side as Bau swings at it and misses, Pooran can't collect either
+Chase loses his line down the leg side as Bau swings at it and misses, Pooran can't collect either
 
 Wide: 2
 Balls faced: 19
 Bowler: Hosein
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and straight, Bau sweeps for one to fine leg"}]full and straight, Bau sweeps for one to fine leg
+full and straight, Bau sweeps for one to fine leg
 
 
 Balls faced: 20
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired down on the stumps, jabbed to leg"}]fired down on the stumps, jabbed to leg
+fired down on the stumps, jabbed to leg
 
 
 Balls faced: 21
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>time for some Bau fun</b>, shuffling around in the crease and lashing an effective reverse-hit past slip through third for four!"}]<b>time for some Bau fun</b>, shuffling around in the crease and lashing an effective reverse-hit past slip through third for four!
+<b>time for some Bau fun</b>, shuffling around in the crease and lashing an effective reverse-hit past slip through third for four!
 
 
 Balls faced: 22
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flat again, swinging away from over the wicket, tapped back"}]flat again, swinging away from over the wicket, tapped back
+flat again, swinging away from over the wicket, tapped back
 
 
 Balls faced: 23
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Hosein is back, still has a slip"}]Hosein is back, still has a slip
+Hosein is back, still has a slip
 
-[{"type": "HTML", "html": "pushed through on off, Bau punches back to the bowler"}]pushed through on off, Bau punches back to the bowler
+pushed through on off, Bau punches back to the bowler
 
 
 Balls faced: 24
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "round the wicket again, bowled into the pitch and flicked leg side going back"}]round the wicket again, bowled into the pitch and flicked leg side going back
+round the wicket again, bowled into the pitch and flicked leg side going back
 
 
 Balls faced: 25
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball, cut through point going back in the crease"}]length ball, cut through point going back in the crease
+length ball, cut through point going back in the crease
 
 
 Balls faced: 26
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted, gripping on off stump, defended coming across"}]flighted, gripping on off stump, defended coming across
+flighted, gripping on off stump, defended coming across
 
 
 Balls faced: 27
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Chase is back"}]Chase is back
+Chase is back
 
-[{"type": "HTML", "html": "<b>tossed up and boshed!</b> Bau goes pow, leaping down the track and lumping Chase back over his head through long-off"}]<b>tossed up and boshed!</b> Bau goes pow, leaping down the track and lumping Chase back over his head through long-off
+<b>tossed up and boshed!</b> Bau goes pow, leaping down the track and lumping Chase back over his head through long-off
 
 
 Balls faced: 28
 Bowler: Hosein
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and straight, Bau sweeps for one to fine leg"}]full and straight, Bau sweeps for one to fine leg
+full and straight, Bau sweeps for one to fine leg
 
 
 Balls faced: 29
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired down on the stumps, jabbed to leg"}]fired down on the stumps, jabbed to leg
+fired down on the stumps, jabbed to leg
 
 
 Balls faced: 30
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>time for some Bau fun</b>, shuffling around in the crease and lashing an effective reverse-hit past slip through third for four!"}]<b>time for some Bau fun</b>, shuffling around in the crease and lashing an effective reverse-hit past slip through third for four!
+<b>time for some Bau fun</b>, shuffling around in the crease and lashing an effective reverse-hit past slip through third for four!
 
 
 Balls faced: 31
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flat again, swinging away from over the wicket, tapped back"}]flat again, swinging away from over the wicket, tapped back
+flat again, swinging away from over the wicket, tapped back
 
 
 Balls faced: 32
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Hosein is back, still has a slip"}]Hosein is back, still has a slip
+Hosein is back, still has a slip
 
-[{"type": "HTML", "html": "pushed through on off, Bau punches back to the bowler"}]pushed through on off, Bau punches back to the bowler
+pushed through on off, Bau punches back to the bowler
 
 
 Balls faced: 33
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "\"Hetmyer is impact player?\" Good try, Aditya. But this isn't the IPL"}]"Hetmyer is impact player?" Good try, Aditya. But this isn't the IPL
+"Hetmyer is impact player?" Good try, Aditya. But this isn't the IPL
 
-[{"type": "HTML", "html": "back over the wicket, Bau advances and hoicks through midwicket"}]back over the wicket, Bau advances and hoicks through midwicket
+back over the wicket, Bau advances and hoicks through midwicket
 
 
 Balls faced: 34
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Speaking of Motie... here he is"}]Speaking of Motie... here he is
+Speaking of Motie... here he is
 
-[{"type": "HTML", "html": "over the wicket, skips down and loops the ball up outside off. Bau steers one through the covers"}]over the wicket, skips down and loops the ball up outside off. Bau steers one through the covers
+over the wicket, skips down and loops the ball up outside off. Bau steers one through the covers
 
 
 Balls faced: 35
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "round the wicket again, bowled into the pitch and flicked leg side going back"}]round the wicket again, bowled into the pitch and flicked leg side going back
+round the wicket again, bowled into the pitch and flicked leg side going back
 
 
 Balls faced: 36
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball, cut through point going back in the crease"}]length ball, cut through point going back in the crease
+length ball, cut through point going back in the crease
 
 
 Balls faced: 37
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted, gripping on off stump, defended coming across"}]flighted, gripping on off stump, defended coming across
+flighted, gripping on off stump, defended coming across
 
 
 Balls faced: 38
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Chase is back"}]Chase is back
+Chase is back
 
-[{"type": "HTML", "html": "<b>tossed up and boshed!</b> Bau goes pow, leaping down the track and lumping Chase back over his head through long-off"}]<b>tossed up and boshed!</b> Bau goes pow, leaping down the track and lumping Chase back over his head through long-off
+<b>tossed up and boshed!</b> Bau goes pow, leaping down the track and lumping Chase back over his head through long-off
 
 
 Balls faced: 39
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dragged down and Bau goes back on off stump to cut one more to the point sweeper"}]dragged down and Bau goes back on off stump to cut one more to the point sweeper
-[{"type": "HTML", "html": "Time for <b>drinks</b> in Providence, with West Indies leaning pretty comfortably against the bar after the first quarter of this contest"}]Time for <b>drinks</b> in Providence, with West Indies leaning pretty comfortably against the bar after the first quarter of this contest
+dragged down and Bau goes back on off stump to cut one more to the point sweeper
+Time for <b>drinks</b> in Providence, with West Indies leaning pretty comfortably against the bar after the first quarter of this contest
 
 Balls faced: 40
 Bowler: Chase
 Over: 10
+ Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up on the stumps and swept flat out to deep square leg"}]tossed up on the stumps and swept flat out to deep square leg
-[{"type": "HTML", "html": "Akindu is back, meanwhile: \"The day the 'impact rule' is brought in to t20wc is the day i stop watching it\""}]Akindu is back, meanwhile: "The day the 'impact rule' is brought in to t20wc is the day i stop watching it"
+tossed up on the stumps and swept flat out to deep square leg
+Akindu is back, meanwhile: "The day the 'impact rule' is brought in to t20wc is the day i stop watching it"
 
 Balls faced: 41
 Bowler: Chase
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "jumps out and swings leg side, shout of \"catch it!\" but lands well in front of deep midwicket"}]jumps out and swings leg side, shout of "catch it!" but lands well in front of deep midwicket
+jumps out and swings leg side, shout of "catch it!" but lands well in front of deep midwicket
 
 
 Balls faced: 42
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "\"Hetmyer is impact player?\" Good try, Aditya. But this isn't the IPL"}]"Hetmyer is impact player?" Good try, Aditya. But this isn't the IPL
+"Hetmyer is impact player?" Good try, Aditya. But this isn't the IPL
 
-[{"type": "HTML", "html": "back over the wicket, Bau advances and hoicks through midwicket"}]back over the wicket, Bau advances and hoicks through midwicket
+back over the wicket, Bau advances and hoicks through midwicket
 
 
 Balls faced: 43
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Speaking of Motie... here he is"}]Speaking of Motie... here he is
+Speaking of Motie... here he is
 
-[{"type": "HTML", "html": "over the wicket, skips down and loops the ball up outside off. Bau steers one through the covers"}]over the wicket, skips down and loops the ball up outside off. Bau steers one through the covers
+over the wicket, skips down and loops the ball up outside off. Bau steers one through the covers
 
 
 Balls faced: 44
 Bowler: Motie
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slow and loopy, 81kph and pulled away through backward square leg going deep in the crease"}]slow and loopy, 81kph and pulled away through backward square leg going deep in the crease
+slow and loopy, 81kph and pulled away through backward square leg going deep in the crease
 
 
 Balls faced: 45
 Bowler: Motie
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "drops a little short and Bau cuts into the wide open acres at backward point for a hustled two"}]drops a little short and Bau cuts into the wide open acres at backward point for a hustled two
+drops a little short and Bau cuts into the wide open acres at backward point for a hustled two
 
 
 Balls faced: 46
 Bowler: Motie
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up and punched down to long-off"}]tossed up and punched down to long-off
+tossed up and punched down to long-off
 
 
 Balls faced: 47
 Bowler: Motie
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Motie will continue after the break"}, {"type": "HTML", "html": "\"It's nice to see PNG going for their shots and giving it a go,\" opines Mark. \"You never know what can happen in the chase. As Kenya showed on that occasion, overconfidence can be a problem for the bigger side on occasions like this.\" They've not landed many punches yet, but still a way to go"}]Motie will continue after the break "It's nice to see PNG going for their shots and giving it a go," opines Mark. "You never know what can happen in the chase. As Kenya showed on that occasion, overconfidence can be a problem for the bigger side on occasions like this." They've not landed many punches yet, but still a way to go
+Motie will continue after the break "It's nice to see PNG going for their shots and giving it a go," opines Mark. "You never know what can happen in the chase. As Kenya showed on that occasion, overconfidence can be a problem for the bigger side on occasions like this." They've not landed many punches yet, but still a way to go
 
-[{"type": "HTML", "html": "lovely, flighted delivery, lures Bau into a drive and beats him on the inside"}]lovely, flighted delivery, lures Bau into a drive and beats him on the inside
+lovely, flighted delivery, lures Bau into a drive and beats him on the inside
 
 
 Balls faced: 48
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dragged down and Bau goes back on off stump to cut one more to the point sweeper"}]dragged down and Bau goes back on off stump to cut one more to the point sweeper
-[{"type": "HTML", "html": "Time for <b>drinks</b> in Providence, with West Indies leaning pretty comfortably against the bar after the first quarter of this contest"}]Time for <b>drinks</b> in Providence, with West Indies leaning pretty comfortably against the bar after the first quarter of this contest
+dragged down and Bau goes back on off stump to cut one more to the point sweeper
+Time for <b>drinks</b> in Providence, with West Indies leaning pretty comfortably against the bar after the first quarter of this contest
 
 Balls faced: 49
 Bowler: Chase
 Over: 10
+ Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up on the stumps and swept flat out to deep square leg"}]tossed up on the stumps and swept flat out to deep square leg
-[{"type": "HTML", "html": "Akindu is back, meanwhile: \"The day the 'impact rule' is brought in to t20wc is the day i stop watching it\""}]Akindu is back, meanwhile: "The day the 'impact rule' is brought in to t20wc is the day i stop watching it"
+tossed up on the stumps and swept flat out to deep square leg
+Akindu is back, meanwhile: "The day the 'impact rule' is brought in to t20wc is the day i stop watching it"
 
 Balls faced: 50
 Bowler: Chase
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "jumps out and swings leg side, shout of \"catch it!\" but lands well in front of deep midwicket"}]jumps out and swings leg side, shout of "catch it!" but lands well in front of deep midwicket
+jumps out and swings leg side, shout of "catch it!" but lands well in front of deep midwicket
 
 
 Balls faced: 51
 Bowler: Shepherd
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and flicked off the hip behind square for one more"}]short and flicked off the hip behind square for one more
+short and flicked off the hip behind square for one more
 
 
 Balls faced: 52
 Bowler: Shepherd
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, worked into the leg side"}]back of a length, worked into the leg side
+back of a length, worked into the leg side
 
 Legbyes: 1
 Balls faced: 53
 Bowler: Shepherd
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling in, hoicked over square leg. Aggressive intent but not much timing from Bau on this occasion"}]length ball angling in, hoicked over square leg. Aggressive intent but not much timing from Bau on this occasion
+length ball angling in, hoicked over square leg. Aggressive intent but not much timing from Bau on this occasion
 
 
 Balls faced: 54
 Bowler: Shepherd
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Shepherd back for a second over"}]Shepherd back for a second over
+Shepherd back for a second over
 
-[{"type": "HTML", "html": "round the wicket, 135kph outside off. Bau steers to backward point"}]round the wicket, 135kph outside off. Bau steers to backward point
+round the wicket, 135kph outside off. Bau steers to backward point
 
 
 Balls faced: 55
 Bowler: Motie
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slow and loopy, 81kph and pulled away through backward square leg going deep in the crease"}]slow and loopy, 81kph and pulled away through backward square leg going deep in the crease
+slow and loopy, 81kph and pulled away through backward square leg going deep in the crease
 
 
 Balls faced: 56
 Bowler: Motie
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "drops a little short and Bau cuts into the wide open acres at backward point for a hustled two"}]drops a little short and Bau cuts into the wide open acres at backward point for a hustled two
+drops a little short and Bau cuts into the wide open acres at backward point for a hustled two
 
 
 Balls faced: 57
 Bowler: Motie
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up and punched down to long-off"}]tossed up and punched down to long-off
+tossed up and punched down to long-off
 
 
 Balls faced: 58
 Bowler: Motie
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Motie will continue after the break"}, {"type": "HTML", "html": "\"It's nice to see PNG going for their shots and giving it a go,\" opines Mark. \"You never know what can happen in the chase. As Kenya showed on that occasion, overconfidence can be a problem for the bigger side on occasions like this.\" They've not landed many punches yet, but still a way to go"}]Motie will continue after the break "It's nice to see PNG going for their shots and giving it a go," opines Mark. "You never know what can happen in the chase. As Kenya showed on that occasion, overconfidence can be a problem for the bigger side on occasions like this." They've not landed many punches yet, but still a way to go
+Motie will continue after the break "It's nice to see PNG going for their shots and giving it a go," opines Mark. "You never know what can happen in the chase. As Kenya showed on that occasion, overconfidence can be a problem for the bigger side on occasions like this." They've not landed many punches yet, but still a way to go
 
-[{"type": "HTML", "html": "lovely, flighted delivery, lures Bau into a drive and beats him on the inside"}]lovely, flighted delivery, lures Bau into a drive and beats him on the inside
+lovely, flighted delivery, lures Bau into a drive and beats him on the inside
 
 
 Balls faced: 59
 Bowler: Motie
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes round the wicket, fired down on off stump, defended"}]goes round the wicket, fired down on off stump, defended
+goes round the wicket, fired down on off stump, defended
 
 
 Balls faced: 60
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>another boundary, Bau on fire!</b> This time a flowing cover drive - although it probably should have been stopped inside the ring"}]<b>another boundary, Bau on fire!</b> This time a flowing cover drive - although it probably should have been stopped inside the ring
-[{"type": "HTML", "html": "PNG's first really big over, and coming at a vital time"}]PNG's first really big over, and coming at a vital time
+<b>another boundary, Bau on fire!</b> This time a flowing cover drive - although it probably should have been stopped inside the ring
+PNG's first really big over, and coming at a vital time
 
 Balls faced: 61
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Bau wow wow! Battered over wide long-on!</b> Uses the feet and finds plenty of extra power to clear the ropes"}]<b>Bau wow wow! Battered over wide long-on!</b> Uses the feet and finds plenty of extra power to clear the ropes
+<b>Bau wow wow! Battered over wide long-on!</b> Uses the feet and finds plenty of extra power to clear the ropes
 
 
 Balls faced: 62
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flat and chopped into the off side"}]flat and chopped into the off side
+flat and chopped into the off side
 
 
 Balls faced: 63
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>Bau wow! Woofed back down the ground</b>, through Motie's up-thrust hands as he attempted a spectacular return catch"}]<b>Bau wow! Woofed back down the ground</b>, through Motie's up-thrust hands as he attempted a spectacular return catch
+<b>Bau wow! Woofed back down the ground</b>, through Motie's up-thrust hands as he attempted a spectacular return catch
 
 
 Balls faced: 64
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through, dipping on fourth stump. Punched back to the bowler"}]pushed through, dipping on fourth stump. Punched back to the bowler
+pushed through, dipping on fourth stump. Punched back to the bowler
 
 
 Balls faced: 65
 Bowler: Shepherd
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and flicked off the hip behind square for one more"}]short and flicked off the hip behind square for one more
+short and flicked off the hip behind square for one more
 
 
 Balls faced: 66
 Bowler: Shepherd
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, worked into the leg side"}]back of a length, worked into the leg side
+back of a length, worked into the leg side
 
 Legbyes: 1
 Balls faced: 67
 Bowler: Shepherd
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling in, hoicked over square leg. Aggressive intent but not much timing from Bau on this occasion"}]length ball angling in, hoicked over square leg. Aggressive intent but not much timing from Bau on this occasion
+length ball angling in, hoicked over square leg. Aggressive intent but not much timing from Bau on this occasion
 
 
 Balls faced: 68
 Bowler: Shepherd
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Shepherd back for a second over"}]Shepherd back for a second over
+Shepherd back for a second over
 
-[{"type": "HTML", "html": "round the wicket, 135kph outside off. Bau steers to backward point"}]round the wicket, 135kph outside off. Bau steers to backward point
+round the wicket, 135kph outside off. Bau steers to backward point
 
 
 Balls faced: 69
 Bowler: Alzarri Joseph
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back o f a length outside off, steered down into the backward point region"}]back o f a length outside off, steered down into the backward point region
+back o f a length outside off, steered down into the backward point region
 
 
 Balls faced: 70
 Bowler: Alzarri Joseph
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>top-edged over the keeper!</b> Bau makes the most of 139kph behind Joseph's short ball, gets enough bat to send it for four"}]<b>top-edged over the keeper!</b> Bau makes the most of 139kph behind Joseph's short ball, gets enough bat to send it for four
+<b>top-edged over the keeper!</b> Bau makes the most of 139kph behind Joseph's short ball, gets enough bat to send it for four
 
 
 Balls faced: 71
 Bowler: Alzarri Joseph
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short but with pace off, a cutter wide of the stumps. Bau swings hard and misses"}]short but with pace off, a cutter wide of the stumps. Bau swings hard and misses
+short but with pace off, a cutter wide of the stumps. Bau swings hard and misses
 
 
 Balls faced: 72
 Bowler: Motie
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes round the wicket, fired down on off stump, defended"}]goes round the wicket, fired down on off stump, defended
+goes round the wicket, fired down on off stump, defended
 
 
 Balls faced: 73
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>another boundary, Bau on fire!</b> This time a flowing cover drive - although it probably should have been stopped inside the ring"}]<b>another boundary, Bau on fire!</b> This time a flowing cover drive - although it probably should have been stopped inside the ring
-[{"type": "HTML", "html": "PNG's first really big over, and coming at a vital time"}]PNG's first really big over, and coming at a vital time
+<b>another boundary, Bau on fire!</b> This time a flowing cover drive - although it probably should have been stopped inside the ring
+PNG's first really big over, and coming at a vital time
 
 Balls faced: 74
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Bau wow wow! Battered over wide long-on!</b> Uses the feet and finds plenty of extra power to clear the ropes"}]<b>Bau wow wow! Battered over wide long-on!</b> Uses the feet and finds plenty of extra power to clear the ropes
+<b>Bau wow wow! Battered over wide long-on!</b> Uses the feet and finds plenty of extra power to clear the ropes
 
 
 Balls faced: 75
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flat and chopped into the off side"}]flat and chopped into the off side
+flat and chopped into the off side
 
 
 Balls faced: 76
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>Bau wow! Woofed back down the ground</b>, through Motie's up-thrust hands as he attempted a spectacular return catch"}]<b>Bau wow! Woofed back down the ground</b>, through Motie's up-thrust hands as he attempted a spectacular return catch
+<b>Bau wow! Woofed back down the ground</b>, through Motie's up-thrust hands as he attempted a spectacular return catch
 
 
 Balls faced: 77
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through, dipping on fourth stump. Punched back to the bowler"}]pushed through, dipping on fourth stump. Punched back to the bowler
+pushed through, dipping on fourth stump. Punched back to the bowler
 
 
 Balls faced: 78
 Bowler: Russell
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball, 136kph and worked through midwicket. Bau on to 49"}]length ball, 136kph and worked through midwicket. Bau on to 49
+length ball, 136kph and worked through midwicket. Bau on to 49
 
 
 Balls faced: 79
 Bowler: Russell
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "into the pitch, possibly another slower ball. Dabbed wide of backward point"}]into the pitch, possibly another slower ball. Dabbed wide of backward point
+into the pitch, possibly another slower ball. Dabbed wide of backward point
 
 
 Balls faced: 80
 Bowler: Russell
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "shortish and wide, 129kph. Bau swings and misses"}]shortish and wide, 129kph. Bau swings and misses
+shortish and wide, 129kph. Bau swings and misses
 
 
 Balls faced: 81
 Bowler: Alzarri Joseph
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back o f a length outside off, steered down into the backward point region"}]back o f a length outside off, steered down into the backward point region
+back o f a length outside off, steered down into the backward point region
 
 
 Balls faced: 82
 Bowler: Alzarri Joseph
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>top-edged over the keeper!</b> Bau makes the most of 139kph behind Joseph's short ball, gets enough bat to send it for four"}]<b>top-edged over the keeper!</b> Bau makes the most of 139kph behind Joseph's short ball, gets enough bat to send it for four
+<b>top-edged over the keeper!</b> Bau makes the most of 139kph behind Joseph's short ball, gets enough bat to send it for four
 
 
 Balls faced: 83
 Bowler: Alzarri Joseph
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short but with pace off, a cutter wide of the stumps. Bau swings hard and misses"}]short but with pace off, a cutter wide of the stumps. Bau swings hard and misses
+short but with pace off, a cutter wide of the stumps. Bau swings hard and misses
 
 
 Balls faced: 84
 Bowler: Chase
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Chase again"}]Chase again
+Chase again
 
-[{"type": "HTML", "html": "nudged into the leg side, <b>that's fifty for Bau!</b> From 42 balls, the rock around which PNG have built their innings. Fine work from the No. 4"}]nudged into the leg side, <b>that's fifty for Bau!</b> From 42 balls, the rock around which PNG have built their innings. Fine work from the No. 4
+nudged into the leg side, <b>that's fifty for Bau!</b> From 42 balls, the rock around which PNG have built their innings. Fine work from the No. 4
 
 
 Balls faced: 85
 Bowler: Russell
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball, 136kph and worked through midwicket. Bau on to 49"}]length ball, 136kph and worked through midwicket. Bau on to 49
+length ball, 136kph and worked through midwicket. Bau on to 49
 
 
 Balls faced: 86
 Bowler: Russell
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "into the pitch, possibly another slower ball. Dabbed wide of backward point"}]into the pitch, possibly another slower ball. Dabbed wide of backward point
+into the pitch, possibly another slower ball. Dabbed wide of backward point
 
 
 Balls faced: 87
 Bowler: Russell
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "shortish and wide, 129kph. Bau swings and misses"}]shortish and wide, 129kph. Bau swings and misses
+shortish and wide, 129kph. Bau swings and misses
 
 
 Balls faced: 88
 Bowler: Alzarri Joseph
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>slower ball, bowled 'im!</b> Bau is foxed and punch drunk, backing away and swinging without timing with his stumps exposed. The ball scuds low into middle and leg. Cracking innings from the PNG veteran but Joseph had his number there. West Indies maintaining their grip on proceedings"}]<b>slower ball, bowled 'im!</b> Bau is foxed and punch drunk, backing away and swinging without timing with his stumps exposed. The ball scuds low into middle and leg. Cracking innings from the PNG veteran but Joseph had his number there. West Indies maintaining their grip on proceedings
+Bau is OUT! bowled
+ b Joseph
+Sese Bau b Joseph 50 (43b 6x4 1x6 55m) SR: 116.27
+<b>slower ball, bowled 'im!</b> Bau is foxed and punch drunk, backing away and swinging without timing with his stumps exposed. The ball scuds low into middle and leg. Cracking innings from the PNG veteran but Joseph had his number there. West Indies maintaining their grip on proceedings
 
 
 Balls faced: 89
 Bowler: Chase
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Chase again"}]Chase again
+Chase again
 
-[{"type": "HTML", "html": "nudged into the leg side, <b>that's fifty for Bau!</b> From 42 balls, the rock around which PNG have built their innings. Fine work from the No. 4"}]nudged into the leg side, <b>that's fifty for Bau!</b> From 42 balls, the rock around which PNG have built their innings. Fine work from the No. 4
+nudged into the leg side, <b>that's fifty for Bau!</b> From 42 balls, the rock around which PNG have built their innings. Fine work from the No. 4
 
 
 Balls faced: 90
 Bowler: Alzarri Joseph
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>slower ball, bowled 'im!</b> Bau is foxed and punch drunk, backing away and swinging without timing with his stumps exposed. The ball scuds low into middle and leg. Cracking innings from the PNG veteran but Joseph had his number there. West Indies maintaining their grip on proceedings"}]<b>slower ball, bowled 'im!</b> Bau is foxed and punch drunk, backing away and swinging without timing with his stumps exposed. The ball scuds low into middle and leg. Cracking innings from the PNG veteran but Joseph had his number there. West Indies maintaining their grip on proceedings
+Bau is OUT! bowled
+ b Joseph
+Sese Bau b Joseph 50 (43b 6x4 1x6 55m) SR: 116.27
+<b>slower ball, bowled 'im!</b> Bau is foxed and punch drunk, backing away and swinging without timing with his stumps exposed. The ball scuds low into middle and leg. Cracking innings from the PNG veteran but Joseph had his number there. West Indies maintaining their grip on proceedings
 
 
 
@@ -904,21 +998,27 @@ Match: all_games_1411166_1415729.json
 Balls faced: 1
 Bowler: Fazalhaq Farooqi
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Bau in at 4"}]Bau in at 4
-
-[{"type": "HTML", "html": "<strong>proper peach, and Farooqi has two in two!</strong> Length in the channel and this decks back sharply after pitching. Bau has to play at it and can do nothing as the ball grazes the inside edge. Gurbaz flies to his right again and snaffles up another smart chance!"}]<strong>proper peach, and Farooqi has two in two!</strong> Length in the channel and this decks back sharply after pitching. Bau has to play at it and can do nothing as the ball grazes the inside edge. Gurbaz flies to his right again and snaffles up another smart chance!
+Bau in at 4
+Bau is OUT! caught
+c †Rahmanullah Gurbaz b Fazalhaq Farooqi
+Sese Bau c †Rahmanullah Gurbaz b Fazalhaq Farooqi 0 (1b 0x4 0x6 1m) SR: 0
+<strong>proper peach, and Farooqi has two in two!</strong> Length in the channel and this decks back sharply after pitching. Bau has to play at it and can do nothing as the ball grazes the inside edge. Gurbaz flies to his right again and snaffles up another smart chance!
 
 
 Balls faced: 2
 Bowler: Fazalhaq Farooqi
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Bau in at 4"}]Bau in at 4
-
-[{"type": "HTML", "html": "<strong>proper peach, and Farooqi has two in two!</strong> Length in the channel and this decks back sharply after pitching. Bau has to play at it and can do nothing as the ball grazes the inside edge. Gurbaz flies to his right again and snaffles up another smart chance!"}]<strong>proper peach, and Farooqi has two in two!</strong> Length in the channel and this decks back sharply after pitching. Bau has to play at it and can do nothing as the ball grazes the inside edge. Gurbaz flies to his right again and snaffles up another smart chance!
+Bau in at 4
+Bau is OUT! caught
+c †Rahmanullah Gurbaz b Fazalhaq Farooqi
+Sese Bau c †Rahmanullah Gurbaz b Fazalhaq Farooqi 0 (1b 0x4 0x6 1m) SR: 0
+<strong>proper peach, and Farooqi has two in two!</strong> Length in the channel and this decks back sharply after pitching. Bau has to play at it and can do nothing as the ball grazes the inside edge. Gurbaz flies to his right again and snaffles up another smart chance!
 
 
 
@@ -926,538 +1026,596 @@ Match: all_games_1411166_1415739.json
 Balls faced: 1
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flashing drive! Was there a noise? Maybe my speakers are playing tricks on me. Either way, no un"}]Flashing drive! Was there a noise? Maybe my speakers are playing tricks on me. Either way, no un
+Flashing drive! Was there a noise? Maybe my speakers are playing tricks on me. Either way, no un
 
 
 Balls faced: 2
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "This one leaps at Bau, who does well to get his hands up to his throat and keep the ball down"}]This one leaps at Bau, who does well to get his hands up to his throat and keep the ball down
+This one leaps at Bau, who does well to get his hands up to his throat and keep the ball down
 
 
 Balls faced: 3
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Two slips now"}]Two slips now
+Two slips now
 
-[{"type": "HTML", "html": "Play and miss! Gets big off a length, across the left-hander, who follows it"}]Play and miss! Gets big off a length, across the left-hander, who follows it
+Play and miss! Gets big off a length, across the left-hander, who follows it
 
 
 Balls faced: 4
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Big bounce again, this just full of a good length, through to the keeper"}]Big bounce again, this just full of a good length, through to the keeper
+Big bounce again, this just full of a good length, through to the keeper
 
 
 Balls faced: 5
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Sese Bau is the new batter"}]Sese Bau is the new batter
+Sese Bau is the new batter
 
-[{"type": "HTML", "html": "Full and on the stumps, skewed out into the off side where Phillips swoops from backward point and almost catches the nonstriker short of his ground! Throw just misses but would have been very, very interesting..."}]Full and on the stumps, skewed out into the off side where Phillips swoops from backward point and almost catches the nonstriker short of his ground! Throw just misses but would have been very, very interesting...
+Full and on the stumps, skewed out into the off side where Phillips swoops from backward point and almost catches the nonstriker short of his ground! Throw just misses but would have been very, very interesting...
 
 
 Balls faced: 6
 Bowler: Southee
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full, late movement, slapped towards mid off for a run"}]Full, late movement, slapped towards mid off for a run
+Full, late movement, slapped towards mid off for a run
 
 
 Balls faced: 7
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flashing drive! Was there a noise? Maybe my speakers are playing tricks on me. Either way, no un"}]Flashing drive! Was there a noise? Maybe my speakers are playing tricks on me. Either way, no un
+Flashing drive! Was there a noise? Maybe my speakers are playing tricks on me. Either way, no un
 
 
 Balls faced: 8
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "This one leaps at Bau, who does well to get his hands up to his throat and keep the ball down"}]This one leaps at Bau, who does well to get his hands up to his throat and keep the ball down
+This one leaps at Bau, who does well to get his hands up to his throat and keep the ball down
 
 
 Balls faced: 9
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Two slips now"}]Two slips now
+Two slips now
 
-[{"type": "HTML", "html": "Play and miss! Gets big off a length, across the left-hander, who follows it"}]Play and miss! Gets big off a length, across the left-hander, who follows it
+Play and miss! Gets big off a length, across the left-hander, who follows it
 
 
 Balls faced: 10
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Big bounce again, this just full of a good length, through to the keeper"}]Big bounce again, this just full of a good length, through to the keeper
+Big bounce again, this just full of a good length, through to the keeper
 
 
 Balls faced: 11
 Bowler: Ferguson
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Sese Bau is the new batter"}]Sese Bau is the new batter
+Sese Bau is the new batter
 
-[{"type": "HTML", "html": "Full and on the stumps, skewed out into the off side where Phillips swoops from backward point and almost catches the nonstriker short of his ground! Throw just misses but would have been very, very interesting..."}]Full and on the stumps, skewed out into the off side where Phillips swoops from backward point and almost catches the nonstriker short of his ground! Throw just misses but would have been very, very interesting...
+Full and on the stumps, skewed out into the off side where Phillips swoops from backward point and almost catches the nonstriker short of his ground! Throw just misses but would have been very, very interesting...
 
 
 Balls faced: 12
 Bowler: Ferguson
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tennis ball bounce through to keeper this time, but perfectly fine as it passes the batter at a cut-able length. For the umpteenth time, Bau cannot oblige"}]Tennis ball bounce through to keeper this time, but perfectly fine as it passes the batter at a cut-able length. For the umpteenth time, Bau cannot oblige
+Tennis ball bounce through to keeper this time, but perfectly fine as it passes the batter at a cut-able length. For the umpteenth time, Bau cannot oblige
 
 
 Balls faced: 13
 Bowler: Ferguson
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Into off stump, resolutely defended down the pitch"}]Into off stump, resolutely defended down the pitch
+Into off stump, resolutely defended down the pitch
 
 
 Balls faced: 14
 Bowler: Ferguson
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Ferguson around the wicket now"}]Ferguson around the wicket now
+Ferguson around the wicket now
 
-[{"type": "HTML", "html": "Fifth stump line, Bau has another go but cannot connect"}]Fifth stump line, Bau has another go but cannot connect
+Fifth stump line, Bau has another go but cannot connect
 
 
 Balls faced: 15
 Bowler: Ferguson
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Big lift across the leftie, who slashes wildly at another"}]Big lift across the leftie, who slashes wildly at another
+Big lift across the leftie, who slashes wildly at another
 
 
 Balls faced: 16
 Bowler: Ferguson
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Straight, full, thick edge onto the pads. PNG going nowhere fast..."}]Straight, full, thick edge onto the pads. PNG going nowhere fast...
+Straight, full, thick edge onto the pads. PNG going nowhere fast...
 
 
 Balls faced: 17
 Bowler: Ferguson
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Extra clarification regarding the Super 8s which I omitted, courtesy of Prashanth: \"Teams have been seeded early and if any seeded team doesn't qualify, automatically the other team that qualifies instead will replace that team in super eights\""}]Extra clarification regarding the Super 8s which I omitted, courtesy of Prashanth: "Teams have been seeded early and if any seeded team doesn't qualify, automatically the other team that qualifies instead will replace that team in super eights"
+Extra clarification regarding the Super 8s which I omitted, courtesy of Prashanth: "Teams have been seeded early and if any seeded team doesn't qualify, automatically the other team that qualifies instead will replace that team in super eights"
 
-[{"type": "HTML", "html": "Another play and miss brought on by the bounce of Ferguson"}]Another play and miss brought on by the bounce of Ferguson
+Another play and miss brought on by the bounce of Ferguson
 
 
 Balls faced: 18
 Bowler: Southee
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full, late movement, slapped towards mid off for a run"}]Full, late movement, slapped towards mid off for a run
+Full, late movement, slapped towards mid off for a run
 
 
 Balls faced: 19
 Bowler: Sodhi
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Down the pitch and drives a single down to long on"}]Down the pitch and drives a single down to long on
+Down the pitch and drives a single down to long on
 
 
 Balls faced: 20
 Bowler: Sodhi
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shorter length, Bau on the charge but nowhere near the pitch of the ball and ends up wearing it as it bounces up"}]Shorter length, Bau on the charge but nowhere near the pitch of the ball and ends up wearing it as it bounces up
+Shorter length, Bau on the charge but nowhere near the pitch of the ball and ends up wearing it as it bounces up
 
 
 Balls faced: 21
 Bowler: Sodhi
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "He's bowled him! No wait, he hasn't. Is that an appeal for LBW? IT was... but they're not reviewing it. Big sweep to a googly comes and goes. Phew, that looked very close"}]He's bowled him! No wait, he hasn't. Is that an appeal for LBW? IT was... but they're not reviewing it. Big sweep to a googly comes and goes. Phew, that looked very close
+He's bowled him! No wait, he hasn't. Is that an appeal for LBW? IT was... but they're not reviewing it. Big sweep to a googly comes and goes. Phew, that looked very close
 
 
 Balls faced: 22
 Bowler: Ferguson
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tennis ball bounce through to keeper this time, but perfectly fine as it passes the batter at a cut-able length. For the umpteenth time, Bau cannot oblige"}]Tennis ball bounce through to keeper this time, but perfectly fine as it passes the batter at a cut-able length. For the umpteenth time, Bau cannot oblige
+Tennis ball bounce through to keeper this time, but perfectly fine as it passes the batter at a cut-able length. For the umpteenth time, Bau cannot oblige
 
 
 Balls faced: 23
 Bowler: Ferguson
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Into off stump, resolutely defended down the pitch"}]Into off stump, resolutely defended down the pitch
+Into off stump, resolutely defended down the pitch
 
 
 Balls faced: 24
 Bowler: Ferguson
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Ferguson around the wicket now"}]Ferguson around the wicket now
+Ferguson around the wicket now
 
-[{"type": "HTML", "html": "Fifth stump line, Bau has another go but cannot connect"}]Fifth stump line, Bau has another go but cannot connect
+Fifth stump line, Bau has another go but cannot connect
 
 
 Balls faced: 25
 Bowler: Ferguson
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Big lift across the leftie, who slashes wildly at another"}]Big lift across the leftie, who slashes wildly at another
+Big lift across the leftie, who slashes wildly at another
 
 
 Balls faced: 26
 Bowler: Ferguson
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Straight, full, thick edge onto the pads. PNG going nowhere fast..."}]Straight, full, thick edge onto the pads. PNG going nowhere fast...
+Straight, full, thick edge onto the pads. PNG going nowhere fast...
 
 
 Balls faced: 27
 Bowler: Ferguson
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Extra clarification regarding the Super 8s which I omitted, courtesy of Prashanth: \"Teams have been seeded early and if any seeded team doesn't qualify, automatically the other team that qualifies instead will replace that team in super eights\""}]Extra clarification regarding the Super 8s which I omitted, courtesy of Prashanth: "Teams have been seeded early and if any seeded team doesn't qualify, automatically the other team that qualifies instead will replace that team in super eights"
+Extra clarification regarding the Super 8s which I omitted, courtesy of Prashanth: "Teams have been seeded early and if any seeded team doesn't qualify, automatically the other team that qualifies instead will replace that team in super eights"
 
-[{"type": "HTML", "html": "Another play and miss brought on by the bounce of Ferguson"}]Another play and miss brought on by the bounce of Ferguson
+Another play and miss brought on by the bounce of Ferguson
 
 
 Balls faced: 28
 Bowler: Santner
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PADDLE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Worked away behind square, but the man on the 45 is on it to prevent a single"}]Worked away behind square, but the man on the 45 is on it to prevent a single
+Worked away behind square, but the man on the 45 is on it to prevent a single
 
 
 Balls faced: 29
 Bowler: Santner
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Similar length, this time Bau plays it off the pitch on the back foot, tucking a single into the leg side"}]Similar length, this time Bau plays it off the pitch on the back foot, tucking a single into the leg side
+Similar length, this time Bau plays it off the pitch on the back foot, tucking a single into the leg side
 
 
 Balls faced: 30
 Bowler: Santner
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Drops on a length, defended into the leg side"}]Drops on a length, defended into the leg side
+Drops on a length, defended into the leg side
 
 
 Balls faced: 31
 Bowler: Santner
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Adarsh: \"@ Benny: New Zealand was pre-seeded as C1. Since Afghanistan qualified instead of NZ, they automatically become C1 now, irrespective of the position on the table.\" Here's Santner, ball very much in hand this time"}]Adarsh: "@ Benny: New Zealand was pre-seeded as C1. Since Afghanistan qualified instead of NZ, they automatically become C1 now, irrespective of the position on the table." Here's Santner, ball very much in hand this time
+Adarsh: "@ Benny: New Zealand was pre-seeded as C1. Since Afghanistan qualified instead of NZ, they automatically become C1 now, irrespective of the position on the table." Here's Santner, ball very much in hand this time
 
-[{"type": "HTML", "html": "Starts over the wicket, loopy and full, worn on the pad by Bau who can't flick it away down to fine leg"}]Starts over the wicket, loopy and full, worn on the pad by Bau who can't flick it away down to fine leg
+Starts over the wicket, loopy and full, worn on the pad by Bau who can't flick it away down to fine leg
 
 
 Balls faced: 32
 Bowler: Sodhi
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Down the pitch and drives a single down to long on"}]Down the pitch and drives a single down to long on
+Down the pitch and drives a single down to long on
 
 
 Balls faced: 33
 Bowler: Sodhi
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shorter length, Bau on the charge but nowhere near the pitch of the ball and ends up wearing it as it bounces up"}]Shorter length, Bau on the charge but nowhere near the pitch of the ball and ends up wearing it as it bounces up
+Shorter length, Bau on the charge but nowhere near the pitch of the ball and ends up wearing it as it bounces up
 
 
 Balls faced: 34
 Bowler: Sodhi
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "He's bowled him! No wait, he hasn't. Is that an appeal for LBW? IT was... but they're not reviewing it. Big sweep to a googly comes and goes. Phew, that looked very close"}]He's bowled him! No wait, he hasn't. Is that an appeal for LBW? IT was... but they're not reviewing it. Big sweep to a googly comes and goes. Phew, that looked very close
+He's bowled him! No wait, he hasn't. Is that an appeal for LBW? IT was... but they're not reviewing it. Big sweep to a googly comes and goes. Phew, that looked very close
 
 
 Balls faced: 35
 Bowler: Sodhi
 Over: 10
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "A repeat of the shot but the ball's not quite there and Bau settles for one to wide long on"}]A repeat of the shot but the ball's not quite there and Bau settles for one to wide long on
+A repeat of the shot but the ball's not quite there and Bau settles for one to wide long on
 
 
 Balls faced: 36
 Bowler: Sodhi
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Short and <b>carved away through midwicket!</b> Powerful and expertly placed by Bau, who rocks back as soon as he sees Sodhi's gone short"}]Short and <b>carved away through midwicket!</b> Powerful and expertly placed by Bau, who rocks back as soon as he sees Sodhi's gone short
+Short and <b>carved away through midwicket!</b> Powerful and expertly placed by Bau, who rocks back as soon as he sees Sodhi's gone short
 
 
 Balls faced: 37
 Bowler: Sodhi
 Over: 10
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Looped high - almost a moon ball - outside leg stump. Bau does to meet it on the full but ends up half-volleying it with his right foot as he dances down for the shot, and gets a leg bye away to third"}]Looped high - almost a moon ball - outside leg stump. Bau does to meet it on the full but ends up half-volleying it with his right foot as he dances down for the shot, and gets a leg bye away to third
+Looped high - almost a moon ball - outside leg stump. Bau does to meet it on the full but ends up half-volleying it with his right foot as he dances down for the shot, and gets a leg bye away to third
 
 Legbyes: 1
 Balls faced: 38
 Bowler: Santner
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PADDLE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Worked away behind square, but the man on the 45 is on it to prevent a single"}]Worked away behind square, but the man on the 45 is on it to prevent a single
+Worked away behind square, but the man on the 45 is on it to prevent a single
 
 
 Balls faced: 39
 Bowler: Santner
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Similar length, this time Bau plays it off the pitch on the back foot, tucking a single into the leg side"}]Similar length, this time Bau plays it off the pitch on the back foot, tucking a single into the leg side
+Similar length, this time Bau plays it off the pitch on the back foot, tucking a single into the leg side
 
 
 Balls faced: 40
 Bowler: Santner
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Drops on a length, defended into the leg side"}]Drops on a length, defended into the leg side
+Drops on a length, defended into the leg side
 
 
 Balls faced: 41
 Bowler: Santner
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Adarsh: \"@ Benny: New Zealand was pre-seeded as C1. Since Afghanistan qualified instead of NZ, they automatically become C1 now, irrespective of the position on the table.\" Here's Santner, ball very much in hand this time"}]Adarsh: "@ Benny: New Zealand was pre-seeded as C1. Since Afghanistan qualified instead of NZ, they automatically become C1 now, irrespective of the position on the table." Here's Santner, ball very much in hand this time
+Adarsh: "@ Benny: New Zealand was pre-seeded as C1. Since Afghanistan qualified instead of NZ, they automatically become C1 now, irrespective of the position on the table." Here's Santner, ball very much in hand this time
 
-[{"type": "HTML", "html": "Starts over the wicket, loopy and full, worn on the pad by Bau who can't flick it away down to fine leg"}]Starts over the wicket, loopy and full, worn on the pad by Bau who can't flick it away down to fine leg
+Starts over the wicket, loopy and full, worn on the pad by Bau who can't flick it away down to fine leg
 
 
 Balls faced: 42
 Bowler: Santner
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another one plopped in the air... but out of harm's reach on the leg side this time"}]Another one plopped in the air... but out of harm's reach on the leg side this time
+Another one plopped in the air... but out of harm's reach on the leg side this time
 
 
 Balls faced: 43
 Bowler: Santner
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 3
 
 
-[{"type": "HTML", "html": "Bit more pace on this one and Bau plays it nicely, contorting his wrists to paddle down to third. It requires a bit of chasing from two fielders allowing the pair to come back for a third"}]Bit more pace on this one and Bau plays it nicely, contorting his wrists to paddle down to third. It requires a bit of chasing from two fielders allowing the pair to come back for a third
+Bit more pace on this one and Bau plays it nicely, contorting his wrists to paddle down to third. It requires a bit of chasing from two fielders allowing the pair to come back for a third
 
 
 Balls faced: 44
 Bowler: Santner
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Turn but into the pads, allowing the leftie to work away to square leg"}]Turn but into the pads, allowing the leftie to work away to square leg
+Turn but into the pads, allowing the leftie to work away to square leg
 
 
 Balls faced: 45
 Bowler: Sodhi
 Over: 10
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "A repeat of the shot but the ball's not quite there and Bau settles for one to wide long on"}]A repeat of the shot but the ball's not quite there and Bau settles for one to wide long on
+A repeat of the shot but the ball's not quite there and Bau settles for one to wide long on
 
 
 Balls faced: 46
 Bowler: Sodhi
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Short and <b>carved away through midwicket!</b> Powerful and expertly placed by Bau, who rocks back as soon as he sees Sodhi's gone short"}]Short and <b>carved away through midwicket!</b> Powerful and expertly placed by Bau, who rocks back as soon as he sees Sodhi's gone short
+Short and <b>carved away through midwicket!</b> Powerful and expertly placed by Bau, who rocks back as soon as he sees Sodhi's gone short
 
 
 Balls faced: 47
 Bowler: Sodhi
 Over: 10
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Looped high - almost a moon ball - outside leg stump. Bau does to meet it on the full but ends up half-volleying it with his right foot as he dances down for the shot, and gets a leg bye away to third"}]Looped high - almost a moon ball - outside leg stump. Bau does to meet it on the full but ends up half-volleying it with his right foot as he dances down for the shot, and gets a leg bye away to third
+Looped high - almost a moon ball - outside leg stump. Bau does to meet it on the full but ends up half-volleying it with his right foot as he dances down for the shot, and gets a leg bye away to third
 
 Legbyes: 1
 Balls faced: 48
 Bowler: Santner
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another one plopped in the air... but out of harm's reach on the leg side this time"}]Another one plopped in the air... but out of harm's reach on the leg side this time
+Another one plopped in the air... but out of harm's reach on the leg side this time
 
 
 Balls faced: 49
 Bowler: Santner
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 3
 
 
-[{"type": "HTML", "html": "Bit more pace on this one and Bau plays it nicely, contorting his wrists to paddle down to third. It requires a bit of chasing from two fielders allowing the pair to come back for a third"}]Bit more pace on this one and Bau plays it nicely, contorting his wrists to paddle down to third. It requires a bit of chasing from two fielders allowing the pair to come back for a third
+Bit more pace on this one and Bau plays it nicely, contorting his wrists to paddle down to third. It requires a bit of chasing from two fielders allowing the pair to come back for a third
 
 
 Balls faced: 50
 Bowler: Santner
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Turn but into the pads, allowing the leftie to work away to square leg"}]Turn but into the pads, allowing the leftie to work away to square leg
+Turn but into the pads, allowing the leftie to work away to square leg
 
 
 Balls faced: 51
 Bowler: Santner
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Charge and launched... <b>straight to long on!</b> Easy as you like for Finn Allen, and Santner, who just had to drop that on a length and wait for Bau to mistime down the ground."}]Charge and launched... <b>straight to long on!</b> Easy as you like for Finn Allen, and Santner, who just had to drop that on a length and wait for Bau to mistime down the ground.
+Bau is OUT! caught
+c Allen b Santner
+Sese Bau c Allen b Santner 12 (27b 1x4 0x6 32m) SR: 44.44
+Charge and launched... <b>straight to long on!</b> Easy as you like for Finn Allen, and Santner, who just had to drop that on a length and wait for Bau to mistime down the ground.
 
 
 Balls faced: 52
 Bowler: Santner
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bit of bounce as Bau tries to sweep. Loops in the air towards the keeper but just short"}]Bit of bounce as Bau tries to sweep. Loops in the air towards the keeper but just short
+Bit of bounce as Bau tries to sweep. Loops in the air towards the keeper but just short
 
 
 Balls faced: 53
 Bowler: Santner
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Charge and launched... <b>straight to long on!</b> Easy as you like for Finn Allen, and Santner, who just had to drop that on a length and wait for Bau to mistime down the ground."}]Charge and launched... <b>straight to long on!</b> Easy as you like for Finn Allen, and Santner, who just had to drop that on a length and wait for Bau to mistime down the ground.
+Bau is OUT! caught
+c Allen b Santner
+Sese Bau c Allen b Santner 12 (27b 1x4 0x6 32m) SR: 44.44
+Charge and launched... <b>straight to long on!</b> Easy as you like for Finn Allen, and Santner, who just had to drop that on a length and wait for Bau to mistime down the ground.
 
 
 Balls faced: 54
 Bowler: Santner
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bit of bounce as Bau tries to sweep. Loops in the air towards the keeper but just short"}]Bit of bounce as Bau tries to sweep. Loops in the air towards the keeper but just short
+Bit of bounce as Bau tries to sweep. Loops in the air towards the keeper but just short

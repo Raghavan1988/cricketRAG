@@ -2,16 +2,20 @@ Match: all_games_1410505_1410546.json
 Balls faced: 1
 Bowler: Gordon
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Arlott is OUT! bowled
+ b Gordon
+Emily Arlott b Gordon 0 (2b 0x4 0x6 1m) SR: 0
 
 
 
 Balls faced: 2
 Bowler: Gordon
 Over: 19
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -22,15 +26,19 @@ Run scored: 0
 Balls faced: 3
 Bowler: Gordon
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Arlott is OUT! bowled
+ b Gordon
+Emily Arlott b Gordon 0 (2b 0x4 0x6 1m) SR: 0
 
 
 
 Balls faced: 4
 Bowler: Gordon
 Over: 19
+ 
 Shot: PUSH_SHOT
 Run scored: 0

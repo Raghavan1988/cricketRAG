@@ -2,6 +2,7 @@ Match: all_games_1421067_1421078.json
 Balls faced: 1
 Bowler: Jarvis
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Main
 Over: 18
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
@@ -22,6 +24,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Jarvis
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Main
 Over: 18
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
@@ -44,6 +48,7 @@ Match: all_games_1421067_1421079.json
 Balls faced: 1
 Bowler: Currie
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -54,16 +59,20 @@ Run scored: 1
 Balls faced: 2
 Bowler: Jarvis
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
+Aryan Lakra is OUT! caught
+c Munsey b Jarvis
+Aryan Lakra c Munsey b Jarvis 5 (3b 1x4 0x6) SR: 166.66
 
 
 
 Balls faced: 3
 Bowler: Jarvis
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
@@ -74,6 +83,7 @@ Run scored: 4
 Balls faced: 4
 Bowler: Currie
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -84,16 +94,20 @@ Run scored: 1
 Balls faced: 5
 Bowler: Jarvis
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
+Aryan Lakra is OUT! caught
+c Munsey b Jarvis
+Aryan Lakra c Munsey b Jarvis 5 (3b 1x4 0x6) SR: 166.66
 
 
 
 Balls faced: 6
 Bowler: Jarvis
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
@@ -106,6 +120,7 @@ Match: all_games_1421067_1421080.json
 Balls faced: 1
 Bowler: Currie
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -116,6 +131,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Currie
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -126,6 +142,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Jarvis
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -136,6 +153,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Currie
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -146,6 +164,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Currie
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -156,6 +175,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Jarvis
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -166,16 +186,20 @@ Run scored: 0
 Balls faced: 7
 Bowler: Jarvis
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
+Aryan Lakra is OUT! caught
+c †Tear b Jarvis
+Aryan Lakra c †Tear b Jarvis 0 (7b 0x4 0x6 21m) SR: 0
 
 
 
 Balls faced: 8
 Bowler: Jarvis
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -186,6 +210,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Jarvis
 Over: 4
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -196,6 +221,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Jarvis
 Over: 4
+Pitch Line: WIDE_DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -206,16 +232,20 @@ Run scored: 0
 Balls faced: 11
 Bowler: Jarvis
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
+Aryan Lakra is OUT! caught
+c †Tear b Jarvis
+Aryan Lakra c †Tear b Jarvis 0 (7b 0x4 0x6 21m) SR: 0
 
 
 
 Balls faced: 12
 Bowler: Jarvis
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -226,6 +256,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Jarvis
 Over: 4
+Pitch Line: WIDE_DOWN_LEG Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -236,5 +267,6 @@ Run scored: 0
 Balls faced: 14
 Bowler: Jarvis
 Over: 4
+Pitch Line: WIDE_DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0

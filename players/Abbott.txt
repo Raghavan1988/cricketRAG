@@ -2,1261 +2,1391 @@ Match: all_games_1375837_1375848.json
 Balls faced: 1
 Bowler: Motie
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Overpitched outside off, driven to cover"}]Overpitched outside off, driven to cover
+Overpitched outside off, driven to cover
 
 
 Balls faced: 2
 Bowler: Motie
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish around off, pushed to cover point"}]Fullish around off, pushed to cover point
+Fullish around off, pushed to cover point
 
 
 Balls faced: 3
 Bowler: Chase
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on leg, clipped to forward square leg. Australia's 150 is up"}]Full on leg, clipped to forward square leg. Australia's 150 is up
-[{"type": "HTML", "html": "Jrm: \"If Australia cross 250, it will be difficult for windies to chase this down. \" Yeah, pitch is offering turn, some variable bounce too. But West Indies can restrict them well under that"}]Jrm: "If Australia cross 250, it will be difficult for windies to chase this down. " Yeah, pitch is offering turn, some variable bounce too. But West Indies can restrict them well under that
+Full on leg, clipped to forward square leg. Australia's 150 is up
+Jrm: "If Australia cross 250, it will be difficult for windies to chase this down. " Yeah, pitch is offering turn, some variable bounce too. But West Indies can restrict them well under that
 
 Balls faced: 4
 Bowler: Chase
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fullish ball lands outside off, is clipped with the spin to long-on"}]Fullish ball lands outside off, is clipped with the spin to long-on
+Fullish ball lands outside off, is clipped with the spin to long-on
 
 
 Balls faced: 5
 Bowler: Motie
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Overpitched outside off, driven to cover"}]Overpitched outside off, driven to cover
+Overpitched outside off, driven to cover
 
 
 Balls faced: 6
 Bowler: Motie
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish around off, pushed to cover point"}]Fullish around off, pushed to cover point
+Fullish around off, pushed to cover point
 
 
 Balls faced: 7
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on off, driven to long-off"}]Full on off, driven to long-off
+Full on off, driven to long-off
 
 
 Balls faced: 8
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on middle, blocked off the back foot in front"}]Length on middle, blocked off the back foot in front
+Length on middle, blocked off the back foot in front
 
 
 Balls faced: 9
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on middle, blocked with a straightish bat"}]Full on middle, blocked with a straightish bat
+Full on middle, blocked with a straightish bat
 
 
 Balls faced: 10
 Bowler: Motie
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Around, slip in"}]Around, slip in
+Around, slip in
 
-[{"type": "HTML", "html": "Flat on a length, skids off the pitch. Driven to cover"}]Flat on a length, skids off the pitch. Driven to cover
+Flat on a length, skids off the pitch. Driven to cover
 
 
 Balls faced: 11
 Bowler: Chase
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on leg, clipped to forward square leg. Australia's 150 is up"}]Full on leg, clipped to forward square leg. Australia's 150 is up
-[{"type": "HTML", "html": "Jrm: \"If Australia cross 250, it will be difficult for windies to chase this down. \" Yeah, pitch is offering turn, some variable bounce too. But West Indies can restrict them well under that"}]Jrm: "If Australia cross 250, it will be difficult for windies to chase this down. " Yeah, pitch is offering turn, some variable bounce too. But West Indies can restrict them well under that
+Full on leg, clipped to forward square leg. Australia's 150 is up
+Jrm: "If Australia cross 250, it will be difficult for windies to chase this down. " Yeah, pitch is offering turn, some variable bounce too. But West Indies can restrict them well under that
 
 Balls faced: 12
 Bowler: Chase
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fullish ball lands outside off, is clipped with the spin to long-on"}]Fullish ball lands outside off, is clipped with the spin to long-on
+Fullish ball lands outside off, is clipped with the spin to long-on
 
 
 Balls faced: 13
 Bowler: Chase
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and seemingly wide, spins back in. Abbott tries driving through cover, flaps it back to the bowler"}]Full and seemingly wide, spins back in. Abbott tries driving through cover, flaps it back to the bowler
+Full and seemingly wide, spins back in. Abbott tries driving through cover, flaps it back to the bowler
 
 
 Balls faced: 14
 Bowler: Chase
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, spins back in towards off and gets good bounce. Abbott rises and works it to midwicket"}]Length outside off, spins back in towards off and gets good bounce. Abbott rises and works it to midwicket
+Length outside off, spins back in towards off and gets good bounce. Abbott rises and works it to midwicket
 
 
 Balls faced: 15
 Bowler: Chase
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full outside off, Abbott buckled his knee while his upper body was a tad stiff. Paddle-swept it along the ground, around the corner"}]Full outside off, Abbott buckled his knee while his upper body was a tad stiff. Paddle-swept it along the ground, around the corner
+Full outside off, Abbott buckled his knee while his upper body was a tad stiff. Paddle-swept it along the ground, around the corner
 
 
 Balls faced: 16
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on off, driven to long-off"}]Full on off, driven to long-off
+Full on off, driven to long-off
 
 
 Balls faced: 17
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on middle, blocked off the back foot in front"}]Length on middle, blocked off the back foot in front
+Length on middle, blocked off the back foot in front
 
 
 Balls faced: 18
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on middle, blocked with a straightish bat"}]Full on middle, blocked with a straightish bat
+Full on middle, blocked with a straightish bat
 
 
 Balls faced: 19
 Bowler: Motie
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Around, slip in"}]Around, slip in
+Around, slip in
 
-[{"type": "HTML", "html": "Flat on a length, skids off the pitch. Driven to cover"}]Flat on a length, skids off the pitch. Driven to cover
+Flat on a length, skids off the pitch. Driven to cover
 
 
 Balls faced: 20
 Bowler: Motie
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full just outside off, Abbott leans as he drives to cover"}]Full just outside off, Abbott leans as he drives to cover
-[{"type": "HTML", "html": "S Kishore: \"Windies should restrict Aus to under 200 as soon as possible. If you give them an inch, they will be all over it considering the nature of the pitch. \""}]S Kishore: "Windies should restrict Aus to under 200 as soon as possible. If you give them an inch, they will be all over it considering the nature of the pitch. "
+Full just outside off, Abbott leans as he drives to cover
+S Kishore: "Windies should restrict Aus to under 200 as soon as possible. If you give them an inch, they will be all over it considering the nature of the pitch. "
 
 Balls faced: 21
 Bowler: Motie
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on off, driven to long-off"}]Full on off, driven to long-off
+Full on off, driven to long-off
 
 
 Balls faced: 22
 Bowler: Chase
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and seemingly wide, spins back in. Abbott tries driving through cover, flaps it back to the bowler"}]Full and seemingly wide, spins back in. Abbott tries driving through cover, flaps it back to the bowler
+Full and seemingly wide, spins back in. Abbott tries driving through cover, flaps it back to the bowler
 
 
 Balls faced: 23
 Bowler: Chase
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, spins back in towards off and gets good bounce. Abbott rises and works it to midwicket"}]Length outside off, spins back in towards off and gets good bounce. Abbott rises and works it to midwicket
+Length outside off, spins back in towards off and gets good bounce. Abbott rises and works it to midwicket
 
 
 Balls faced: 24
 Bowler: Chase
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full outside off, Abbott buckled his knee while his upper body was a tad stiff. Paddle-swept it along the ground, around the corner"}]Full outside off, Abbott buckled his knee while his upper body was a tad stiff. Paddle-swept it along the ground, around the corner
+Full outside off, Abbott buckled his knee while his upper body was a tad stiff. Paddle-swept it along the ground, around the corner
 
 
 Balls faced: 25
 Bowler: Chase
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full ball in nurdled to square leg"}]Full ball in nurdled to square leg
+Full ball in nurdled to square leg
 
 
 Balls faced: 26
 Bowler: Chase
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Wide and full, slashed along the ground. Athanaze tries scraping it above but half-stops it"}]Wide and full, slashed along the ground. Athanaze tries scraping it above but half-stops it
+Wide and full, slashed along the ground. Athanaze tries scraping it above but half-stops it
 
 
 Balls faced: 27
 Bowler: Chase
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Abbott goes too far inside the line and misses the reverse. Great ball from Chase, landed on a length in front of off and ragged down leg. Got great bounce too"}]Abbott goes too far inside the line and misses the reverse. Great ball from Chase, landed on a length in front of off and ragged down leg. Got great bounce too
+Abbott goes too far inside the line and misses the reverse. Great ball from Chase, landed on a length in front of off and ragged down leg. Got great bounce too
 
 
 Balls faced: 28
 Bowler: Chase
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball outside off, Abbott covers the line and blocks towards cover"}]Fullish ball outside off, Abbott covers the line and blocks towards cover
+Fullish ball outside off, Abbott covers the line and blocks towards cover
 
 
 Balls faced: 29
 Bowler: Motie
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full just outside off, Abbott leans as he drives to cover"}]Full just outside off, Abbott leans as he drives to cover
-[{"type": "HTML", "html": "S Kishore: \"Windies should restrict Aus to under 200 as soon as possible. If you give them an inch, they will be all over it considering the nature of the pitch. \""}]S Kishore: "Windies should restrict Aus to under 200 as soon as possible. If you give them an inch, they will be all over it considering the nature of the pitch. "
+Full just outside off, Abbott leans as he drives to cover
+S Kishore: "Windies should restrict Aus to under 200 as soon as possible. If you give them an inch, they will be all over it considering the nature of the pitch. "
 
 Balls faced: 30
 Bowler: Motie
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on off, driven to long-off"}]Full on off, driven to long-off
+Full on off, driven to long-off
 
 
 Balls faced: 31
 Bowler: Motie
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle, driven to long-on"}]Full on middle, driven to long-on
+Full on middle, driven to long-on
 
 
 Balls faced: 32
 Bowler: Motie
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Slow on a length, outside off, slapped to cover"}]Slow on a length, outside off, slapped to cover
+Slow on a length, outside off, slapped to cover
 
 
 Balls faced: 33
 Bowler: Motie
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish dart on fourth, driven to cover"}]Fullish dart on fourth, driven to cover
+Fullish dart on fourth, driven to cover
 
 
 Balls faced: 34
 Bowler: Chase
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full ball in nurdled to square leg"}]Full ball in nurdled to square leg
+Full ball in nurdled to square leg
 
 
 Balls faced: 35
 Bowler: Chase
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Wide and full, slashed along the ground. Athanaze tries scraping it above but half-stops it"}]Wide and full, slashed along the ground. Athanaze tries scraping it above but half-stops it
+Wide and full, slashed along the ground. Athanaze tries scraping it above but half-stops it
 
 
 Balls faced: 36
 Bowler: Chase
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Abbott goes too far inside the line and misses the reverse. Great ball from Chase, landed on a length in front of off and ragged down leg. Got great bounce too"}]Abbott goes too far inside the line and misses the reverse. Great ball from Chase, landed on a length in front of off and ragged down leg. Got great bounce too
+Abbott goes too far inside the line and misses the reverse. Great ball from Chase, landed on a length in front of off and ragged down leg. Got great bounce too
 
 
 Balls faced: 37
 Bowler: Chase
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball outside off, Abbott covers the line and blocks towards cover"}]Fullish ball outside off, Abbott covers the line and blocks towards cover
+Fullish ball outside off, Abbott covers the line and blocks towards cover
 
 
 Balls faced: 38
 Bowler: Chase
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length, spinning into off, he pulls from the top of the stumps to fine leg"}]good length, spinning into off, he pulls from the top of the stumps to fine leg
+good length, spinning into off, he pulls from the top of the stumps to fine leg
 
 
 Balls faced: 39
 Bowler: Chase
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shorter spinning down leg, he's back to whip to deep backwards square"}]shorter spinning down leg, he's back to whip to deep backwards square
+shorter spinning down leg, he's back to whip to deep backwards square
 
 
 Balls faced: 40
 Bowler: Chase
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "86kph, shorter length outside off, he punches back to the bowler"}]86kph, shorter length outside off, he punches back to the bowler
+86kph, shorter length outside off, he punches back to the bowler
 
 
 Balls faced: 41
 Bowler: Motie
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle, driven to long-on"}]Full on middle, driven to long-on
+Full on middle, driven to long-on
 
 
 Balls faced: 42
 Bowler: Motie
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Slow on a length, outside off, slapped to cover"}]Slow on a length, outside off, slapped to cover
+Slow on a length, outside off, slapped to cover
 
 
 Balls faced: 43
 Bowler: Motie
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish dart on fourth, driven to cover"}]Fullish dart on fourth, driven to cover
+Fullish dart on fourth, driven to cover
 
 
 Balls faced: 44
 Bowler: Shepherd
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, top of off, he defends from the crease"}]good length, top of off, he defends from the crease
+good length, top of off, he defends from the crease
 
 
 Balls faced: 45
 Bowler: Shepherd
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 132kph, angled into off, he defends on the front foot"}]good length, 132kph, angled into off, he defends on the front foot
+good length, 132kph, angled into off, he defends on the front foot
 
 
 Balls faced: 46
 Bowler: Shepherd
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 133kph, top of off, he defends from the crease"}]good length, 133kph, top of off, he defends from the crease
+good length, 133kph, top of off, he defends from the crease
 
 
 Balls faced: 47
 Bowler: Shepherd
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>launched over deep midwicket!</strong> Fuller length, angled into off, he uses the bottom hand to whip it high over deep midwicket with power"}]<strong>launched over deep midwicket!</strong> Fuller length, angled into off, he uses the bottom hand to whip it high over deep midwicket with power
+<strong>launched over deep midwicket!</strong> Fuller length, angled into off, he uses the bottom hand to whip it high over deep midwicket with power
 
 
 Balls faced: 48
 Bowler: Shepherd
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full again fourth stump, he drives to cover and Greaves makes a diving stop"}]full again fourth stump, he drives to cover and Greaves makes a diving stop
+full again fourth stump, he drives to cover and Greaves makes a diving stop
 
 
 Balls faced: 49
 Bowler: Shepherd
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Shepherd back on"}]Shepherd back on
+Shepherd back on
 
-[{"type": "HTML", "html": "134kph, overpitched, he hammers a drive to cover"}]134kph, overpitched, he hammers a drive to cover
-[{"type": "HTML", "html": "Eye of Sauron : \"First time in almost 23 years that a spinner from the Windies men's cricket team has taken 3 wickets in an ODI vs Australia in Australia. Marlon Samuels took 3/71 at Melbourne in Feb 2001. And most recently Hayley Matthews took 3/42 at Sydney in nov 2014.\""}]Eye of Sauron : "First time in almost 23 years that a spinner from the Windies men's cricket team has taken 3 wickets in an ODI vs Australia in Australia. Marlon Samuels took 3/71 at Melbourne in Feb 2001. And most recently Hayley Matthews took 3/42 at Sydney in nov 2014."
+134kph, overpitched, he hammers a drive to cover
+Eye of Sauron : "First time in almost 23 years that a spinner from the Windies men's cricket team has taken 3 wickets in an ODI vs Australia in Australia. Marlon Samuels took 3/71 at Melbourne in Feb 2001. And most recently Hayley Matthews took 3/42 at Sydney in nov 2014."
 
 Balls faced: 50
 Bowler: Chase
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length, spinning into off, he pulls from the top of the stumps to fine leg"}]good length, spinning into off, he pulls from the top of the stumps to fine leg
+good length, spinning into off, he pulls from the top of the stumps to fine leg
 
 
 Balls faced: 51
 Bowler: Chase
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shorter spinning down leg, he's back to whip to deep backwards square"}]shorter spinning down leg, he's back to whip to deep backwards square
+shorter spinning down leg, he's back to whip to deep backwards square
 
 
 Balls faced: 52
 Bowler: Chase
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "86kph, shorter length outside off, he punches back to the bowler"}]86kph, shorter length outside off, he punches back to the bowler
+86kph, shorter length outside off, he punches back to the bowler
 
 
 Balls faced: 53
 Bowler: Chase
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "84kph, full on leg, he works to backward square and Shepherd is swooping but he fumbles! A clean collect and Sutherland might have been in trouble"}]84kph, full on leg, he works to backward square and Shepherd is swooping but he fumbles! A clean collect and Sutherland might have been in trouble
+84kph, full on leg, he works to backward square and Shepherd is swooping but he fumbles! A clean collect and Sutherland might have been in trouble
 
 
 Balls faced: 54
 Bowler: Chase
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted fuller outside off, he drives firmly to long-off"}]flighted fuller outside off, he drives firmly to long-off
+flighted fuller outside off, he drives firmly to long-off
 
 
 Balls faced: 55
 Bowler: Shepherd
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, top of off, he defends from the crease"}]good length, top of off, he defends from the crease
+good length, top of off, he defends from the crease
 
 
 Balls faced: 56
 Bowler: Shepherd
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 132kph, angled into off, he defends on the front foot"}]good length, 132kph, angled into off, he defends on the front foot
+good length, 132kph, angled into off, he defends on the front foot
 
 
 Balls faced: 57
 Bowler: Shepherd
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 133kph, top of off, he defends from the crease"}]good length, 133kph, top of off, he defends from the crease
+good length, 133kph, top of off, he defends from the crease
 
 
 Balls faced: 58
 Bowler: Shepherd
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>launched over deep midwicket!</strong> Fuller length, angled into off, he uses the bottom hand to whip it high over deep midwicket with power"}]<strong>launched over deep midwicket!</strong> Fuller length, angled into off, he uses the bottom hand to whip it high over deep midwicket with power
+<strong>launched over deep midwicket!</strong> Fuller length, angled into off, he uses the bottom hand to whip it high over deep midwicket with power
 
 
 Balls faced: 59
 Bowler: Shepherd
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full again fourth stump, he drives to cover and Greaves makes a diving stop"}]full again fourth stump, he drives to cover and Greaves makes a diving stop
+full again fourth stump, he drives to cover and Greaves makes a diving stop
 
 
 Balls faced: 60
 Bowler: Shepherd
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Shepherd back on"}]Shepherd back on
+Shepherd back on
 
-[{"type": "HTML", "html": "134kph, overpitched, he hammers a drive to cover"}]134kph, overpitched, he hammers a drive to cover
-[{"type": "HTML", "html": "Eye of Sauron : \"First time in almost 23 years that a spinner from the Windies men's cricket team has taken 3 wickets in an ODI vs Australia in Australia. Marlon Samuels took 3/71 at Melbourne in Feb 2001. And most recently Hayley Matthews took 3/42 at Sydney in nov 2014.\""}]Eye of Sauron : "First time in almost 23 years that a spinner from the Windies men's cricket team has taken 3 wickets in an ODI vs Australia in Australia. Marlon Samuels took 3/71 at Melbourne in Feb 2001. And most recently Hayley Matthews took 3/42 at Sydney in nov 2014."
+134kph, overpitched, he hammers a drive to cover
+Eye of Sauron : "First time in almost 23 years that a spinner from the Windies men's cricket team has taken 3 wickets in an ODI vs Australia in Australia. Marlon Samuels took 3/71 at Melbourne in Feb 2001. And most recently Hayley Matthews took 3/42 at Sydney in nov 2014."
 
 Balls faced: 61
 Bowler: Shepherd
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "135kph, angled into leg, he glances this to wide fine leg"}]135kph, angled into leg, he glances this to wide fine leg
-[{"type": "HTML", "html": "Kevin : \"Feel like Athanaze and Greaves have saved 20  runs inside the ring today!\""}]Kevin : "Feel like Athanaze and Greaves have saved 20  runs inside the ring today!"
+135kph, angled into leg, he glances this to wide fine leg
+Kevin : "Feel like Athanaze and Greaves have saved 20  runs inside the ring today!"
 
 Balls faced: 62
 Bowler: Shepherd
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 122kph, offcutter, he defends on the front foot"}]good length, 122kph, offcutter, he defends on the front foot
+good length, 122kph, offcutter, he defends on the front foot
 
 
 Balls faced: 63
 Bowler: Shepherd
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "129kph, back of a length, he pulls off the toe of the bat in the air but wide of midwicket and picks up two"}]129kph, back of a length, he pulls off the toe of the bat in the air but wide of midwicket and picks up two
+129kph, back of a length, he pulls off the toe of the bat in the air but wide of midwicket and picks up two
 
 
 Balls faced: 64
 Bowler: Shepherd
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short wide slower ball, he crunches a cut straight to cover"}]short wide slower ball, he crunches a cut straight to cover
+short wide slower ball, he crunches a cut straight to cover
 
 
 Balls faced: 65
 Bowler: Chase
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "84kph, full on leg, he works to backward square and Shepherd is swooping but he fumbles! A clean collect and Sutherland might have been in trouble"}]84kph, full on leg, he works to backward square and Shepherd is swooping but he fumbles! A clean collect and Sutherland might have been in trouble
+84kph, full on leg, he works to backward square and Shepherd is swooping but he fumbles! A clean collect and Sutherland might have been in trouble
 
 
 Balls faced: 66
 Bowler: Chase
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted fuller outside off, he drives firmly to long-off"}]flighted fuller outside off, he drives firmly to long-off
+flighted fuller outside off, he drives firmly to long-off
 
 
 Balls faced: 67
 Bowler: Chase
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "top edged reverse sweep flies high and safe over backward point! He tries to reverse swat a length ball but he gets away with it"}]top edged reverse sweep flies high and safe over backward point! He tries to reverse swat a length ball but he gets away with it
-[{"type": "HTML", "html": "Praman: \"How much can west indies chase here ? any thoughts..\" Anything north of 230 could be challenging. This pitch is nowhere near as good as the MCG track. And Hazlewood is back"}]Praman: "How much can west indies chase here ? any thoughts.." Anything north of 230 could be challenging. This pitch is nowhere near as good as the MCG track. And Hazlewood is back
+top edged reverse sweep flies high and safe over backward point! He tries to reverse swat a length ball but he gets away with it
+Praman: "How much can west indies chase here ? any thoughts.." Anything north of 230 could be challenging. This pitch is nowhere near as good as the MCG track. And Hazlewood is back
 
 Balls faced: 68
 Bowler: Chase
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "spinning into the top of leg, he gets inside the line and pulls to wide fine leg"}]spinning into the top of leg, he gets inside the line and pulls to wide fine leg
+spinning into the top of leg, he gets inside the line and pulls to wide fine leg
 
 
 Balls faced: 69
 Bowler: Chase
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 88kph, wider of off, he cracks it off the back foot straight to cover"}]good length, 88kph, wider of off, he cracks it off the back foot straight to cover
+good length, 88kph, wider of off, he cracks it off the back foot straight to cover
 
 
 Balls faced: 70
 Bowler: Shepherd
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "135kph, angled into leg, he glances this to wide fine leg"}]135kph, angled into leg, he glances this to wide fine leg
-[{"type": "HTML", "html": "Kevin : \"Feel like Athanaze and Greaves have saved 20  runs inside the ring today!\""}]Kevin : "Feel like Athanaze and Greaves have saved 20  runs inside the ring today!"
+135kph, angled into leg, he glances this to wide fine leg
+Kevin : "Feel like Athanaze and Greaves have saved 20  runs inside the ring today!"
 
 Balls faced: 71
 Bowler: Shepherd
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 122kph, offcutter, he defends on the front foot"}]good length, 122kph, offcutter, he defends on the front foot
+good length, 122kph, offcutter, he defends on the front foot
 
 
 Balls faced: 72
 Bowler: Shepherd
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "129kph, back of a length, he pulls off the toe of the bat in the air but wide of midwicket and picks up two"}]129kph, back of a length, he pulls off the toe of the bat in the air but wide of midwicket and picks up two
+129kph, back of a length, he pulls off the toe of the bat in the air but wide of midwicket and picks up two
 
 
 Balls faced: 73
 Bowler: Shepherd
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short wide slower ball, he crunches a cut straight to cover"}]short wide slower ball, he crunches a cut straight to cover
+short wide slower ball, he crunches a cut straight to cover
 
 
 Balls faced: 74
 Bowler: Alzarri Joseph
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "140kph, short ball, chest high, he nails a pull shot along the ground straight to deep square"}]140kph, short ball, chest high, he nails a pull shot along the ground straight to deep square
+140kph, short ball, chest high, he nails a pull shot along the ground straight to deep square
 
 
 Balls faced: 75
 Bowler: Alzarri Joseph
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "129kph, good length, he leans forward and opens the face to run it to deep third"}]129kph, good length, he leans forward and opens the face to run it to deep third
+129kph, good length, he leans forward and opens the face to run it to deep third
 
 
 Balls faced: 76
 Bowler: Chase
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "top edged reverse sweep flies high and safe over backward point! He tries to reverse swat a length ball but he gets away with it"}]top edged reverse sweep flies high and safe over backward point! He tries to reverse swat a length ball but he gets away with it
-[{"type": "HTML", "html": "Praman: \"How much can west indies chase here ? any thoughts..\" Anything north of 230 could be challenging. This pitch is nowhere near as good as the MCG track. And Hazlewood is back"}]Praman: "How much can west indies chase here ? any thoughts.." Anything north of 230 could be challenging. This pitch is nowhere near as good as the MCG track. And Hazlewood is back
+top edged reverse sweep flies high and safe over backward point! He tries to reverse swat a length ball but he gets away with it
+Praman: "How much can west indies chase here ? any thoughts.." Anything north of 230 could be challenging. This pitch is nowhere near as good as the MCG track. And Hazlewood is back
 
 Balls faced: 77
 Bowler: Chase
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "spinning into the top of leg, he gets inside the line and pulls to wide fine leg"}]spinning into the top of leg, he gets inside the line and pulls to wide fine leg
+spinning into the top of leg, he gets inside the line and pulls to wide fine leg
 
 
 Balls faced: 78
 Bowler: Chase
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length, 88kph, wider of off, he cracks it off the back foot straight to cover"}]good length, 88kph, wider of off, he cracks it off the back foot straight to cover
+good length, 88kph, wider of off, he cracks it off the back foot straight to cover
 
 
 Balls faced: 79
 Bowler: Chase
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "98kph, fuller on off, he drives to long-on"}]98kph, fuller on off, he drives to long-on
-[{"type": "HTML", "html": "Rmarsh: \"Roston Chase: As an off spinner, why are so many of his deliveries attacking or drifting into the leg stump? Does he not watch Nathan Lyon or Ashwin?\" Offspinners bowling stock balls into leg stump in limited overs cricket is quite a common modern defensive tactic to right-handers. He's conceded just one boundary in nine overs. It doesn't give batters any room to free the arms"}]Rmarsh: "Roston Chase: As an off spinner, why are so many of his deliveries attacking or drifting into the leg stump? Does he not watch Nathan Lyon or Ashwin?" Offspinners bowling stock balls into leg stump in limited overs cricket is quite a common modern defensive tactic to right-handers. He's conceded just one boundary in nine overs. It doesn't give batters any room to free the arms
+98kph, fuller on off, he drives to long-on
+Rmarsh: "Roston Chase: As an off spinner, why are so many of his deliveries attacking or drifting into the leg stump? Does he not watch Nathan Lyon or Ashwin?" Offspinners bowling stock balls into leg stump in limited overs cricket is quite a common modern defensive tactic to right-handers. He's conceded just one boundary in nine overs. It doesn't give batters any room to free the arms
 
 Balls faced: 80
 Bowler: Alzarri Joseph
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "140kph, short ball, chest high, he nails a pull shot along the ground straight to deep square"}]140kph, short ball, chest high, he nails a pull shot along the ground straight to deep square
+140kph, short ball, chest high, he nails a pull shot along the ground straight to deep square
 
 
 Balls faced: 81
 Bowler: Alzarri Joseph
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "129kph, good length, he leans forward and opens the face to run it to deep third"}]129kph, good length, he leans forward and opens the face to run it to deep third
+129kph, good length, he leans forward and opens the face to run it to deep third
 
 
 Balls faced: 82
 Bowler: Alzarri Joseph
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "136kph, full toss, flicked behind square but there is protection. Attempted yorker nearly went wrong but Abbott can't flick it fine enough"}]136kph, full toss, flicked behind square but there is protection. Attempted yorker nearly went wrong but Abbott can't flick it fine enough
+136kph, full toss, flicked behind square but there is protection. Attempted yorker nearly went wrong but Abbott can't flick it fine enough
 
 
 Balls faced: 83
 Bowler: Alzarri Joseph
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 3
 
 
-[{"type": "HTML", "html": "139kph, overpitched, angled into middle and leg, he clips it with great timing wide of mid-on"}]139kph, overpitched, angled into middle and leg, he clips it with great timing wide of mid-on
+139kph, overpitched, angled into middle and leg, he clips it with great timing wide of mid-on
 
 
 Balls faced: 84
 Bowler: Alzarri Joseph
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shorter length, he pulls to deep forward square"}]shorter length, he pulls to deep forward square
+shorter length, he pulls to deep forward square
 
 
 Balls faced: 85
 Bowler: Alzarri Joseph
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller on middle, he pushes towards mid-on"}]fuller on middle, he pushes towards mid-on
+fuller on middle, he pushes towards mid-on
 
 
 Balls faced: 86
 Bowler: Chase
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "98kph, fuller on off, he drives to long-on"}]98kph, fuller on off, he drives to long-on
-[{"type": "HTML", "html": "Rmarsh: \"Roston Chase: As an off spinner, why are so many of his deliveries attacking or drifting into the leg stump? Does he not watch Nathan Lyon or Ashwin?\" Offspinners bowling stock balls into leg stump in limited overs cricket is quite a common modern defensive tactic to right-handers. He's conceded just one boundary in nine overs. It doesn't give batters any room to free the arms"}]Rmarsh: "Roston Chase: As an off spinner, why are so many of his deliveries attacking or drifting into the leg stump? Does he not watch Nathan Lyon or Ashwin?" Offspinners bowling stock balls into leg stump in limited overs cricket is quite a common modern defensive tactic to right-handers. He's conceded just one boundary in nine overs. It doesn't give batters any room to free the arms
+98kph, fuller on off, he drives to long-on
+Rmarsh: "Roston Chase: As an off spinner, why are so many of his deliveries attacking or drifting into the leg stump? Does he not watch Nathan Lyon or Ashwin?" Offspinners bowling stock balls into leg stump in limited overs cricket is quite a common modern defensive tactic to right-handers. He's conceded just one boundary in nine overs. It doesn't give batters any room to free the arms
 
 Balls faced: 87
 Bowler: Chase
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "99kph, low full toss on leg, he whips this with control to deep midwicket"}]99kph, low full toss on leg, he whips this with control to deep midwicket
+99kph, low full toss on leg, he whips this with control to deep midwicket
 
 
 Balls faced: 88
 Bowler: Chase
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, 103kph, he whips to midwicket and a misfield allows a single"}]full on middle, 103kph, he whips to midwicket and a misfield allows a single
-[{"type": "HTML", "html": "Aby Mathew: \"If aus and Abbott bat the full 50 overs , even 290 is possible !!\" 84 in 41 balls seems a big ask Aby"}]Aby Mathew: "If aus and Abbott bat the full 50 overs , even 290 is possible !!" 84 in 41 balls seems a big ask Aby
+full on middle, 103kph, he whips to midwicket and a misfield allows a single
+Aby Mathew: "If aus and Abbott bat the full 50 overs , even 290 is possible !!" 84 in 41 balls seems a big ask Aby
 
 Balls faced: 89
 Bowler: Alzarri Joseph
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "136kph, full toss, flicked behind square but there is protection. Attempted yorker nearly went wrong but Abbott can't flick it fine enough"}]136kph, full toss, flicked behind square but there is protection. Attempted yorker nearly went wrong but Abbott can't flick it fine enough
+136kph, full toss, flicked behind square but there is protection. Attempted yorker nearly went wrong but Abbott can't flick it fine enough
 
 
 Balls faced: 90
 Bowler: Alzarri Joseph
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 3
 
 
-[{"type": "HTML", "html": "139kph, overpitched, angled into middle and leg, he clips it with great timing wide of mid-on"}]139kph, overpitched, angled into middle and leg, he clips it with great timing wide of mid-on
+139kph, overpitched, angled into middle and leg, he clips it with great timing wide of mid-on
 
 
 Balls faced: 91
 Bowler: Alzarri Joseph
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shorter length, he pulls to deep forward square"}]shorter length, he pulls to deep forward square
+shorter length, he pulls to deep forward square
 
 
 Balls faced: 92
 Bowler: Alzarri Joseph
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller on middle, he pushes towards mid-on"}]fuller on middle, he pushes towards mid-on
+fuller on middle, he pushes towards mid-on
 
 
 Balls faced: 93
 Bowler: Forde
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fuller length, 125kph, he drives and gets a thick inside edge that runs behind square"}]fuller length, 125kph, he drives and gets a thick inside edge that runs behind square
-[{"type": "HTML", "html": "Rahul Malnad : \"Last time these two teams played an ODI game here in this stadium was 11 years ago. Pollard got a magnificent century despite WI's shaky start. But Australia eventually went on to win the match thanks to Watson's 76. Interestingly, the late Phil Hughes played this match, scoring 23 off 43. \" Here is <a href=\"https://www.espncricinfo.com/series/west-indies-tour-of-australia-2012-13-572997/australia-vs-west-indies-4th-odi-573025/full-scorecard\">the scorecard</a>, Rahul"}]Rahul Malnad : "Last time these two teams played an ODI game here in this stadium was 11 years ago. Pollard got a magnificent century despite WI's shaky start. But Australia eventually went on to win the match thanks to Watson's 76. Interestingly, the late Phil Hughes played this match, scoring 23 off 43. " Here is <a href="https://www.espncricinfo.com/series/west-indies-tour-of-australia-2012-13-572997/australia-vs-west-indies-4th-odi-573025/full-scorecard">the scorecard</a>, Rahul
+fuller length, 125kph, he drives and gets a thick inside edge that runs behind square
+Rahul Malnad : "Last time these two teams played an ODI game here in this stadium was 11 years ago. Pollard got a magnificent century despite WI's shaky start. But Australia eventually went on to win the match thanks to Watson's 76. Interestingly, the late Phil Hughes played this match, scoring 23 off 43. " Here is <a href="https://www.espncricinfo.com/series/west-indies-tour-of-australia-2012-13-572997/australia-vs-west-indies-4th-odi-573025/full-scorecard">the scorecard</a>, Rahul
 
 Balls faced: 94
 Bowler: Forde
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short slower ball, he sits back and waits to pull forward of square"}]short slower ball, he sits back and waits to pull forward of square
+short slower ball, he sits back and waits to pull forward of square
 
 
 Balls faced: 95
 Bowler: Chase
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "99kph, low full toss on leg, he whips this with control to deep midwicket"}]99kph, low full toss on leg, he whips this with control to deep midwicket
+99kph, low full toss on leg, he whips this with control to deep midwicket
 
 
 Balls faced: 96
 Bowler: Chase
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, 103kph, he whips to midwicket and a misfield allows a single"}]full on middle, 103kph, he whips to midwicket and a misfield allows a single
-[{"type": "HTML", "html": "Aby Mathew: \"If aus and Abbott bat the full 50 overs , even 290 is possible !!\" 84 in 41 balls seems a big ask Aby"}]Aby Mathew: "If aus and Abbott bat the full 50 overs , even 290 is possible !!" 84 in 41 balls seems a big ask Aby
+full on middle, 103kph, he whips to midwicket and a misfield allows a single
+Aby Mathew: "If aus and Abbott bat the full 50 overs , even 290 is possible !!" 84 in 41 balls seems a big ask Aby
 
 Balls faced: 97
 Bowler: Shepherd
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg, he drives to long-on"}]full on leg, he drives to long-on
+full on leg, he drives to long-on
 
 
 Balls faced: 98
 Bowler: Shepherd
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>slapped high over cover!</strong> Good shot. Short slower ball outside off, he stands up and slaps it high over cover with power"}]<strong>slapped high over cover!</strong> Good shot. Short slower ball outside off, he stands up and slaps it high over cover with power
+<strong>slapped high over cover!</strong> Good shot. Short slower ball outside off, he stands up and slaps it high over cover with power
 
 
 Balls faced: 99
 Bowler: Shepherd
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>clubbed into the Members!</strong> Slower ball full toss and Abbott spots it, he slog sweeps with power and a bloke in the crowd drops the catch and is hit in the head! Straight through the hands"}]<strong>clubbed into the Members!</strong> Slower ball full toss and Abbott spots it, he slog sweeps with power and a bloke in the crowd drops the catch and is hit in the head! Straight through the hands
+<strong>clubbed into the Members!</strong> Slower ball full toss and Abbott spots it, he slog sweeps with power and a bloke in the crowd drops the catch and is hit in the head! Straight through the hands
 
 
 Balls faced: 100
 Bowler: Forde
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fuller length, 125kph, he drives and gets a thick inside edge that runs behind square"}]fuller length, 125kph, he drives and gets a thick inside edge that runs behind square
-[{"type": "HTML", "html": "Rahul Malnad : \"Last time these two teams played an ODI game here in this stadium was 11 years ago. Pollard got a magnificent century despite WI's shaky start. But Australia eventually went on to win the match thanks to Watson's 76. Interestingly, the late Phil Hughes played this match, scoring 23 off 43. \" Here is <a href=\"https://www.espncricinfo.com/series/west-indies-tour-of-australia-2012-13-572997/australia-vs-west-indies-4th-odi-573025/full-scorecard\">the scorecard</a>, Rahul"}]Rahul Malnad : "Last time these two teams played an ODI game here in this stadium was 11 years ago. Pollard got a magnificent century despite WI's shaky start. But Australia eventually went on to win the match thanks to Watson's 76. Interestingly, the late Phil Hughes played this match, scoring 23 off 43. " Here is <a href="https://www.espncricinfo.com/series/west-indies-tour-of-australia-2012-13-572997/australia-vs-west-indies-4th-odi-573025/full-scorecard">the scorecard</a>, Rahul
+fuller length, 125kph, he drives and gets a thick inside edge that runs behind square
+Rahul Malnad : "Last time these two teams played an ODI game here in this stadium was 11 years ago. Pollard got a magnificent century despite WI's shaky start. But Australia eventually went on to win the match thanks to Watson's 76. Interestingly, the late Phil Hughes played this match, scoring 23 off 43. " Here is <a href="https://www.espncricinfo.com/series/west-indies-tour-of-australia-2012-13-572997/australia-vs-west-indies-4th-odi-573025/full-scorecard">the scorecard</a>, Rahul
 
 Balls faced: 101
 Bowler: Forde
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short slower ball, he sits back and waits to pull forward of square"}]short slower ball, he sits back and waits to pull forward of square
+short slower ball, he sits back and waits to pull forward of square
 
 
 Balls faced: 102
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "139kph, full on off, he whips with no timing over midwicket but well short of the man in the deep"}]139kph, full on off, he whips with no timing over midwicket but well short of the man in the deep
-[{"type": "HTML", "html": "Dave: \"@Brad, If there is no dew, then it will most definitely be defendable on this wicket. Generally harder to bat in Sydney under lights, otherwise.\""}]Dave: "@Brad, If there is no dew, then it will most definitely be defendable on this wicket. Generally harder to bat in Sydney under lights, otherwise."
+139kph, full on off, he whips with no timing over midwicket but well short of the man in the deep
+Dave: "@Brad, If there is no dew, then it will most definitely be defendable on this wicket. Generally harder to bat in Sydney under lights, otherwise."
 
 Balls faced: 103
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off, he pulls with power to deep midwicket"}]back of a length outside off, he pulls with power to deep midwicket
+back of a length outside off, he pulls with power to deep midwicket
 
 
 Balls faced: 104
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "139kph, low full toss, he checks a drive to straight long-on and Zampa sprints back. <strong>Gem of a half-century from Abbott off just 54 balls</strong>. Showing why he is so highly regarded by Australia's selectors"}]139kph, low full toss, he checks a drive to straight long-on and Zampa sprints back. <strong>Gem of a half-century from Abbott off just 54 balls</strong>. Showing why he is so highly regarded by Australia's selectors
+139kph, low full toss, he checks a drive to straight long-on and Zampa sprints back. <strong>Gem of a half-century from Abbott off just 54 balls</strong>. Showing why he is so highly regarded by Australia's selectors
 
 
 Balls faced: 105
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "136kph, full, angled into leg, he whips this to deep square leg"}]136kph, full, angled into leg, he whips this to deep square leg
+136kph, full, angled into leg, he whips this to deep square leg
 
 
 Balls faced: 106
 Bowler: Shepherd
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on leg, he drives to long-on"}]full on leg, he drives to long-on
+full on leg, he drives to long-on
 
 
 Balls faced: 107
 Bowler: Shepherd
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>slapped high over cover!</strong> Good shot. Short slower ball outside off, he stands up and slaps it high over cover with power"}]<strong>slapped high over cover!</strong> Good shot. Short slower ball outside off, he stands up and slaps it high over cover with power
+<strong>slapped high over cover!</strong> Good shot. Short slower ball outside off, he stands up and slaps it high over cover with power
 
 
 Balls faced: 108
 Bowler: Shepherd
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>clubbed into the Members!</strong> Slower ball full toss and Abbott spots it, he slog sweeps with power and a bloke in the crowd drops the catch and is hit in the head! Straight through the hands"}]<strong>clubbed into the Members!</strong> Slower ball full toss and Abbott spots it, he slog sweeps with power and a bloke in the crowd drops the catch and is hit in the head! Straight through the hands
+<strong>clubbed into the Members!</strong> Slower ball full toss and Abbott spots it, he slog sweeps with power and a bloke in the crowd drops the catch and is hit in the head! Straight through the hands
 
 
 Balls faced: 109
 Bowler: Forde
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, he drives to long-on"}]full on middle, he drives to long-on
+full on middle, he drives to long-on
 
 
 Balls faced: 110
 Bowler: Forde
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short slower ball high outside off, he uppercuts over backward point for a couple"}]short slower ball high outside off, he uppercuts over backward point for a couple
-[{"type": "HTML", "html": "Graham: \"High score for Abbot\" Yeah. Beating the half-century he got in a losing game in Indore prior to the World Cup"}]Graham: "High score for Abbot" Yeah. Beating the half-century he got in a losing game in Indore prior to the World Cup
+short slower ball high outside off, he uppercuts over backward point for a couple
+Graham: "High score for Abbot" Yeah. Beating the half-century he got in a losing game in Indore prior to the World Cup
 
 Balls faced: 111
 Bowler: Forde
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>nearly bowled!</strong> Brilliant back of the hand slower ball, on middle, Abbott tries to heave it leg side and it just goes over middle!"}]<strong>nearly bowled!</strong> Brilliant back of the hand slower ball, on middle, Abbott tries to heave it leg side and it just goes over middle!
+<strong>nearly bowled!</strong> Brilliant back of the hand slower ball, on middle, Abbott tries to heave it leg side and it just goes over middle!
 
 
 Balls faced: 112
 Bowler: Forde
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker, 125kph, at the base of leg, he digs it out through midwicket"}]yorker, 125kph, at the base of leg, he digs it out through midwicket
-[{"type": "HTML", "html": "AB: \"Abbott with the half century not a complete surprise - he probably has the most recent experience with the Sydney decks due to Big Bash.\""}]AB: "Abbott with the half century not a complete surprise - he probably has the most recent experience with the Sydney decks due to Big Bash."
+yorker, 125kph, at the base of leg, he digs it out through midwicket
+AB: "Abbott with the half century not a complete surprise - he probably has the most recent experience with the Sydney decks due to Big Bash."
 
 Balls faced: 113
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "139kph, full on off, he whips with no timing over midwicket but well short of the man in the deep"}]139kph, full on off, he whips with no timing over midwicket but well short of the man in the deep
-[{"type": "HTML", "html": "Dave: \"@Brad, If there is no dew, then it will most definitely be defendable on this wicket. Generally harder to bat in Sydney under lights, otherwise.\""}]Dave: "@Brad, If there is no dew, then it will most definitely be defendable on this wicket. Generally harder to bat in Sydney under lights, otherwise."
+139kph, full on off, he whips with no timing over midwicket but well short of the man in the deep
+Dave: "@Brad, If there is no dew, then it will most definitely be defendable on this wicket. Generally harder to bat in Sydney under lights, otherwise."
 
 Balls faced: 114
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off, he pulls with power to deep midwicket"}]back of a length outside off, he pulls with power to deep midwicket
+back of a length outside off, he pulls with power to deep midwicket
 
 
 Balls faced: 115
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "139kph, low full toss, he checks a drive to straight long-on and Zampa sprints back. <strong>Gem of a half-century from Abbott off just 54 balls</strong>. Showing why he is so highly regarded by Australia's selectors"}]139kph, low full toss, he checks a drive to straight long-on and Zampa sprints back. <strong>Gem of a half-century from Abbott off just 54 balls</strong>. Showing why he is so highly regarded by Australia's selectors
+139kph, low full toss, he checks a drive to straight long-on and Zampa sprints back. <strong>Gem of a half-century from Abbott off just 54 balls</strong>. Showing why he is so highly regarded by Australia's selectors
 
 
 Balls faced: 116
 Bowler: Alzarri Joseph
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "136kph, full, angled into leg, he whips this to deep square leg"}]136kph, full, angled into leg, he whips this to deep square leg
+136kph, full, angled into leg, he whips this to deep square leg
 
 
 Balls faced: 117
 Bowler: Shepherd
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>dragged on!</strong> Short slower ball much wider than the last, he tries to launch it again but drags it off the inside edge onto middle and off"}]<strong>dragged on!</strong> Short slower ball much wider than the last, he tries to launch it again but drags it off the inside edge onto middle and off
-[{"type": "HTML", "html": "Abbott gets a great ovation as he leaves after a superb knock"}]Abbott gets a great ovation as he leaves after a superb knock
+Abbott is OUT! bowled
+ b Shepherd
+Sean Abbott b Shepherd 69 (63b 1x4 4x6 74m) SR: 109.52
+<strong>dragged on!</strong> Short slower ball much wider than the last, he tries to launch it again but drags it off the inside edge onto middle and off
+Abbott gets a great ovation as he leaves after a superb knock
 
 Balls faced: 118
 Bowler: Shepherd
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>launched over straight long-on!</strong> Spots the slower ball and launches it high and straight of long-on"}]<strong>launched over straight long-on!</strong> Spots the slower ball and launches it high and straight of long-on
+<strong>launched over straight long-on!</strong> Spots the slower ball and launches it high and straight of long-on
 
 
 Balls faced: 119
 Bowler: Shepherd
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>smeared over deep midwicket!</strong> Knee high full toss outside off smoked high over deep midwicket"}]<strong>smeared over deep midwicket!</strong> Knee high full toss outside off smoked high over deep midwicket
+<strong>smeared over deep midwicket!</strong> Knee high full toss outside off smoked high over deep midwicket
 
 
 Balls faced: 120
 Bowler: Forde
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, he drives to long-on"}]full on middle, he drives to long-on
+full on middle, he drives to long-on
 
 
 Balls faced: 121
 Bowler: Forde
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short slower ball high outside off, he uppercuts over backward point for a couple"}]short slower ball high outside off, he uppercuts over backward point for a couple
-[{"type": "HTML", "html": "Graham: \"High score for Abbot\" Yeah. Beating the half-century he got in a losing game in Indore prior to the World Cup"}]Graham: "High score for Abbot" Yeah. Beating the half-century he got in a losing game in Indore prior to the World Cup
+short slower ball high outside off, he uppercuts over backward point for a couple
+Graham: "High score for Abbot" Yeah. Beating the half-century he got in a losing game in Indore prior to the World Cup
 
 Balls faced: 122
 Bowler: Forde
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>nearly bowled!</strong> Brilliant back of the hand slower ball, on middle, Abbott tries to heave it leg side and it just goes over middle!"}]<strong>nearly bowled!</strong> Brilliant back of the hand slower ball, on middle, Abbott tries to heave it leg side and it just goes over middle!
+<strong>nearly bowled!</strong> Brilliant back of the hand slower ball, on middle, Abbott tries to heave it leg side and it just goes over middle!
 
 
 Balls faced: 123
 Bowler: Forde
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker, 125kph, at the base of leg, he digs it out through midwicket"}]yorker, 125kph, at the base of leg, he digs it out through midwicket
-[{"type": "HTML", "html": "AB: \"Abbott with the half century not a complete surprise - he probably has the most recent experience with the Sydney decks due to Big Bash.\""}]AB: "Abbott with the half century not a complete surprise - he probably has the most recent experience with the Sydney decks due to Big Bash."
+yorker, 125kph, at the base of leg, he digs it out through midwicket
+AB: "Abbott with the half century not a complete surprise - he probably has the most recent experience with the Sydney decks due to Big Bash."
 
 Balls faced: 124
 Bowler: Shepherd
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>dragged on!</strong> Short slower ball much wider than the last, he tries to launch it again but drags it off the inside edge onto middle and off"}]<strong>dragged on!</strong> Short slower ball much wider than the last, he tries to launch it again but drags it off the inside edge onto middle and off
-[{"type": "HTML", "html": "Abbott gets a great ovation as he leaves after a superb knock"}]Abbott gets a great ovation as he leaves after a superb knock
+Abbott is OUT! bowled
+ b Shepherd
+Sean Abbott b Shepherd 69 (63b 1x4 4x6 74m) SR: 109.52
+<strong>dragged on!</strong> Short slower ball much wider than the last, he tries to launch it again but drags it off the inside edge onto middle and off
+Abbott gets a great ovation as he leaves after a superb knock
 
 Balls faced: 125
 Bowler: Shepherd
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>launched over straight long-on!</strong> Spots the slower ball and launches it high and straight of long-on"}]<strong>launched over straight long-on!</strong> Spots the slower ball and launches it high and straight of long-on
+<strong>launched over straight long-on!</strong> Spots the slower ball and launches it high and straight of long-on
 
 
 Balls faced: 126
 Bowler: Shepherd
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>smeared over deep midwicket!</strong> Knee high full toss outside off smoked high over deep midwicket"}]<strong>smeared over deep midwicket!</strong> Knee high full toss outside off smoked high over deep midwicket
+<strong>smeared over deep midwicket!</strong> Knee high full toss outside off smoked high over deep midwicket
 
 
 
@@ -1264,19 +1394,25 @@ Match: all_games_1375837_1375850.json
 Balls faced: 1
 Bowler: Russell
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>through him!</b> Super delivery. Gets the yorker in and Abbott plays over it"}]<b>through him!</b> Super delivery. Gets the yorker in and Abbott plays over it
-[{"type": "HTML", "html": "So David will only face one ball of the last over. The new rule does make a difference"}]So David will only face one ball of the last over. The new rule does make a difference
+Abbott is OUT! bowled
+ b Russell
+Sean Abbott b Russell 0 (1b 0x4 0x6 1m) SR: 0
+<b>through him!</b> Super delivery. Gets the yorker in and Abbott plays over it
+So David will only face one ball of the last over. The new rule does make a difference
 
 Balls faced: 2
 Bowler: Russell
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>through him!</b> Super delivery. Gets the yorker in and Abbott plays over it"}]<b>through him!</b> Super delivery. Gets the yorker in and Abbott plays over it
-[{"type": "HTML", "html": "So David will only face one ball of the last over. The new rule does make a difference"}]So David will only face one ball of the last over. The new rule does make a difference
+Abbott is OUT! bowled
+ b Russell
+Sean Abbott b Russell 0 (1b 0x4 0x6 1m) SR: 0
+<b>through him!</b> Super delivery. Gets the yorker in and Abbott plays over it
+So David will only face one ball of the last over. The new rule does make a difference

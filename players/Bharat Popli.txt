@@ -2,6 +2,7 @@ Match: all_games_1388186_1418775.json
 Balls faced: 1
 Bowler: Piedt
 Over: 8
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Olivier
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Olivier
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Olivier
 Over: 9
+ 
 Shot: PUSH_SHOT
 Run scored: 2
 
@@ -42,6 +46,7 @@ No Balls: 1
 Balls faced: 5
 Bowler: Olivier
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Olivier
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Olivier
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -72,6 +79,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Olivier
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -82,6 +90,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Piedt
 Over: 8
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -92,6 +101,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Olivier
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Olivier
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -112,6 +123,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Olivier
 Over: 9
+ 
 Shot: PUSH_SHOT
 Run scored: 2
 
@@ -122,6 +134,7 @@ No Balls: 1
 Balls faced: 13
 Bowler: Olivier
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -132,6 +145,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Olivier
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -142,6 +156,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Olivier
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -152,6 +167,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Olivier
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -162,6 +178,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Olivier
 Over: 11
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -172,6 +189,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Olivier
 Over: 11
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -182,6 +200,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Olivier
 Over: 11
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -192,6 +211,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Olivier
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Olivier
 Over: 11
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -212,6 +233,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Piedt
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -222,6 +244,7 @@ Run scored: 4
 Balls faced: 23
 Bowler: Piedt
 Over: 12
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -232,6 +255,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Piedt
 Over: 12
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 6
 
@@ -242,6 +266,7 @@ Run scored: 6
 Balls faced: 25
 Bowler: Piedt
 Over: 12
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -252,6 +277,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Piedt
 Over: 12
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -262,6 +288,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Piedt
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -272,6 +299,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Olivier
 Over: 11
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -282,6 +310,7 @@ Run scored: 1
 Balls faced: 29
 Bowler: Olivier
 Over: 11
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -292,6 +321,7 @@ Run scored: 0
 Balls faced: 30
 Bowler: Olivier
 Over: 11
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -302,6 +332,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Olivier
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -312,6 +343,7 @@ Run scored: 0
 Balls faced: 32
 Bowler: Olivier
 Over: 11
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -322,6 +354,7 @@ Run scored: 0
 Balls faced: 33
 Bowler: Piedt
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -332,6 +365,7 @@ Run scored: 4
 Balls faced: 34
 Bowler: Piedt
 Over: 12
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -342,6 +376,7 @@ Run scored: 0
 Balls faced: 35
 Bowler: Piedt
 Over: 12
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 6
 
@@ -352,6 +387,7 @@ Run scored: 6
 Balls faced: 36
 Bowler: Piedt
 Over: 12
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -362,6 +398,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: Piedt
 Over: 12
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -372,6 +409,7 @@ Run scored: 0
 Balls faced: 38
 Bowler: Piedt
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -382,6 +420,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Piedt
 Over: 14
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -392,6 +431,7 @@ Run scored: 1
 Balls faced: 40
 Bowler: Paterson
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -402,6 +442,7 @@ Run scored: 1
 Balls faced: 41
 Bowler: Paterson
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -412,6 +453,7 @@ Run scored: 0
 Balls faced: 42
 Bowler: Piedt
 Over: 14
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -422,6 +464,7 @@ Run scored: 1
 Balls faced: 43
 Bowler: de Swardt
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -432,6 +475,7 @@ Run scored: 0
 Balls faced: 44
 Bowler: de Swardt
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -442,6 +486,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: de Swardt
 Over: 16
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -452,6 +497,7 @@ Run scored: 0
 Balls faced: 46
 Bowler: de Swardt
 Over: 16
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -462,6 +508,7 @@ Run scored: 0
 Balls faced: 47
 Bowler: de Swardt
 Over: 16
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -472,6 +519,7 @@ Run scored: 0
 Balls faced: 48
 Bowler: de Swardt
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -482,6 +530,7 @@ Run scored: 0
 Balls faced: 49
 Bowler: Paterson
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -492,6 +541,7 @@ Run scored: 1
 Balls faced: 50
 Bowler: Paterson
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -502,6 +552,7 @@ Run scored: 0
 Balls faced: 51
 Bowler: de Swardt
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -512,6 +563,7 @@ Run scored: 0
 Balls faced: 52
 Bowler: de Swardt
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -522,6 +574,7 @@ Run scored: 0
 Balls faced: 53
 Bowler: de Swardt
 Over: 16
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -532,6 +585,7 @@ Run scored: 0
 Balls faced: 54
 Bowler: de Swardt
 Over: 16
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -542,6 +596,7 @@ Run scored: 0
 Balls faced: 55
 Bowler: de Swardt
 Over: 16
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -552,6 +607,7 @@ Run scored: 0
 Balls faced: 56
 Bowler: de Swardt
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -562,6 +618,7 @@ Run scored: 0
 Balls faced: 57
 Bowler: de Swardt
 Over: 18
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -572,6 +629,7 @@ Run scored: 0
 Balls faced: 58
 Bowler: de Swardt
 Over: 18
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -582,6 +640,7 @@ Run scored: 0
 Balls faced: 59
 Bowler: de Swardt
 Over: 18
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -592,6 +651,7 @@ Run scored: 0
 Balls faced: 60
 Bowler: de Swardt
 Over: 18
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -602,6 +662,7 @@ Run scored: 2
 Balls faced: 61
 Bowler: de Swardt
 Over: 18
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -612,6 +673,7 @@ Run scored: 4
 Balls faced: 62
 Bowler: de Swardt
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -622,6 +684,7 @@ Run scored: 0
 Balls faced: 63
 Bowler: de Swardt
 Over: 18
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -632,6 +695,7 @@ Run scored: 0
 Balls faced: 64
 Bowler: de Swardt
 Over: 18
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -642,6 +706,7 @@ Run scored: 0
 Balls faced: 65
 Bowler: de Swardt
 Over: 18
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -652,6 +717,7 @@ Run scored: 0
 Balls faced: 66
 Bowler: de Swardt
 Over: 18
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -662,6 +728,7 @@ Run scored: 2
 Balls faced: 67
 Bowler: de Swardt
 Over: 18
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -672,6 +739,7 @@ Run scored: 4
 Balls faced: 68
 Bowler: de Swardt
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -682,6 +750,7 @@ Run scored: 0
 Balls faced: 69
 Bowler: de Swardt
 Over: 20
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -692,6 +761,7 @@ Run scored: 1
 Balls faced: 70
 Bowler: Moreki
 Over: 21
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -702,6 +772,7 @@ Run scored: 1
 Balls faced: 71
 Bowler: Moreki
 Over: 21
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -712,6 +783,7 @@ Run scored: 0
 Balls faced: 72
 Bowler: Moreki
 Over: 21
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -722,6 +794,7 @@ Run scored: 0
 Balls faced: 73
 Bowler: Moreki
 Over: 21
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -732,6 +805,7 @@ Run scored: 0
 Balls faced: 74
 Bowler: Moreki
 Over: 21
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -742,6 +816,7 @@ Run scored: 0
 Balls faced: 75
 Bowler: Moreki
 Over: 21
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -752,6 +827,7 @@ Run scored: 0
 Balls faced: 76
 Bowler: de Swardt
 Over: 20
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -762,6 +838,7 @@ Run scored: 1
 Balls faced: 77
 Bowler: de Swardt
 Over: 22
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -772,6 +849,7 @@ Run scored: 0
 Balls faced: 78
 Bowler: de Swardt
 Over: 22
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -782,6 +860,7 @@ Run scored: 0
 Balls faced: 79
 Bowler: de Swardt
 Over: 22
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -792,6 +871,7 @@ Run scored: 0
 Balls faced: 80
 Bowler: de Swardt
 Over: 22
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -802,6 +882,7 @@ Run scored: 0
 Balls faced: 81
 Bowler: de Swardt
 Over: 22
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -812,6 +893,7 @@ Run scored: 0
 Balls faced: 82
 Bowler: de Swardt
 Over: 22
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -822,6 +904,7 @@ Run scored: 0
 Balls faced: 83
 Bowler: Moreki
 Over: 21
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -832,6 +915,7 @@ Run scored: 1
 Balls faced: 84
 Bowler: Moreki
 Over: 21
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -842,6 +926,7 @@ Run scored: 0
 Balls faced: 85
 Bowler: Moreki
 Over: 21
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -852,6 +937,7 @@ Run scored: 0
 Balls faced: 86
 Bowler: Moreki
 Over: 21
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -862,6 +948,7 @@ Run scored: 0
 Balls faced: 87
 Bowler: Moreki
 Over: 21
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -872,6 +959,7 @@ Run scored: 0
 Balls faced: 88
 Bowler: Moreki
 Over: 21
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -882,6 +970,7 @@ Run scored: 0
 Balls faced: 89
 Bowler: Moreki
 Over: 23
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -892,6 +981,7 @@ Run scored: 4
 Balls faced: 90
 Bowler: Moreki
 Over: 23
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -902,6 +992,7 @@ Run scored: 0
 Balls faced: 91
 Bowler: Moreki
 Over: 23
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -912,6 +1003,7 @@ Run scored: 0
 Balls faced: 92
 Bowler: de Swardt
 Over: 22
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -922,6 +1014,7 @@ Run scored: 0
 Balls faced: 93
 Bowler: de Swardt
 Over: 22
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -932,6 +1025,7 @@ Run scored: 0
 Balls faced: 94
 Bowler: de Swardt
 Over: 22
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -942,6 +1036,7 @@ Run scored: 0
 Balls faced: 95
 Bowler: de Swardt
 Over: 22
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -952,6 +1047,7 @@ Run scored: 0
 Balls faced: 96
 Bowler: de Swardt
 Over: 22
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -962,6 +1058,7 @@ Run scored: 0
 Balls faced: 97
 Bowler: de Swardt
 Over: 22
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -972,6 +1069,7 @@ Run scored: 0
 Balls faced: 98
 Bowler: von Berg
 Over: 24
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -982,6 +1080,7 @@ Run scored: 1
 Balls faced: 99
 Bowler: Moreki
 Over: 23
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -992,6 +1091,7 @@ Run scored: 4
 Balls faced: 100
 Bowler: Moreki
 Over: 23
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1002,6 +1102,7 @@ Run scored: 0
 Balls faced: 101
 Bowler: Moreki
 Over: 23
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1012,6 +1113,7 @@ Run scored: 0
 Balls faced: 102
 Bowler: Moreki
 Over: 25
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1022,6 +1124,7 @@ Run scored: 0
 Balls faced: 103
 Bowler: Moreki
 Over: 25
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1032,6 +1135,7 @@ Run scored: 0
 Balls faced: 104
 Bowler: Moreki
 Over: 25
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1042,6 +1146,7 @@ Run scored: 0
 Balls faced: 105
 Bowler: Moreki
 Over: 25
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1052,6 +1157,7 @@ Byes: 4
 Balls faced: 106
 Bowler: Moreki
 Over: 25
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -1062,6 +1168,7 @@ Run scored: 0
 Balls faced: 107
 Bowler: Moreki
 Over: 25
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1072,6 +1179,7 @@ Run scored: 0
 Balls faced: 108
 Bowler: von Berg
 Over: 24
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -1082,6 +1190,7 @@ Run scored: 1
 Balls faced: 109
 Bowler: von Berg
 Over: 26
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1092,6 +1201,7 @@ Run scored: 0
 Balls faced: 110
 Bowler: Moreki
 Over: 25
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1102,6 +1212,7 @@ Run scored: 0
 Balls faced: 111
 Bowler: Moreki
 Over: 25
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1112,6 +1223,7 @@ Run scored: 0
 Balls faced: 112
 Bowler: Moreki
 Over: 25
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1122,6 +1234,7 @@ Run scored: 0
 Balls faced: 113
 Bowler: Moreki
 Over: 25
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1132,6 +1245,7 @@ Byes: 4
 Balls faced: 114
 Bowler: Moreki
 Over: 25
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -1142,6 +1256,7 @@ Run scored: 0
 Balls faced: 115
 Bowler: Moreki
 Over: 25
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1152,6 +1267,7 @@ Run scored: 0
 Balls faced: 116
 Bowler: von Berg
 Over: 26
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1162,6 +1278,7 @@ Run scored: 0
 Balls faced: 117
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -1172,6 +1289,7 @@ Run scored: 0
 Balls faced: 118
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -1182,6 +1300,7 @@ Run scored: 0
 Balls faced: 119
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1192,6 +1311,7 @@ Run scored: 0
 Balls faced: 120
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1202,6 +1322,7 @@ Run scored: 0
 Balls faced: 121
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1212,6 +1333,7 @@ Run scored: 0
 Balls faced: 122
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1222,6 +1344,7 @@ Run scored: 0
 Balls faced: 123
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -1232,6 +1355,7 @@ Run scored: 0
 Balls faced: 124
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -1242,6 +1366,7 @@ Run scored: 0
 Balls faced: 125
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1252,6 +1377,7 @@ Run scored: 0
 Balls faced: 126
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1262,6 +1388,7 @@ Run scored: 0
 Balls faced: 127
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1272,6 +1399,7 @@ Run scored: 0
 Balls faced: 128
 Bowler: Mpongwana
 Over: 28
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1282,6 +1410,7 @@ Run scored: 0
 Balls faced: 129
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1292,6 +1421,7 @@ Run scored: 0
 Balls faced: 130
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -1302,6 +1432,7 @@ Run scored: 4
 Balls faced: 131
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1312,6 +1443,7 @@ Run scored: 0
 Balls faced: 132
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1322,6 +1454,7 @@ Run scored: 0
 Balls faced: 133
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1332,6 +1465,7 @@ Run scored: 0
 Balls faced: 134
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1342,6 +1476,7 @@ Run scored: 0
 Balls faced: 135
 Bowler: Olivier
 Over: 31
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1352,6 +1487,7 @@ Run scored: 0
 Balls faced: 136
 Bowler: Olivier
 Over: 31
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -1362,6 +1498,7 @@ Run scored: 0
 Balls faced: 137
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1372,6 +1509,7 @@ Run scored: 0
 Balls faced: 138
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -1382,6 +1520,7 @@ Run scored: 4
 Balls faced: 139
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1392,6 +1531,7 @@ Run scored: 0
 Balls faced: 140
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1402,6 +1542,7 @@ Run scored: 0
 Balls faced: 141
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1412,6 +1553,7 @@ Run scored: 0
 Balls faced: 142
 Bowler: Mpongwana
 Over: 30
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1422,6 +1564,7 @@ Run scored: 0
 Balls faced: 143
 Bowler: Olivier
 Over: 31
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1432,6 +1575,7 @@ Run scored: 0
 Balls faced: 144
 Bowler: Olivier
 Over: 31
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -1442,6 +1586,7 @@ Run scored: 0
 Balls faced: 145
 Bowler: Olivier
 Over: 33
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -1452,6 +1597,7 @@ Run scored: 1
 Balls faced: 146
 Bowler: Olivier
 Over: 33
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1462,6 +1608,7 @@ Run scored: 0
 Balls faced: 147
 Bowler: Olivier
 Over: 33
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1472,6 +1619,7 @@ Run scored: 0
 Balls faced: 148
 Bowler: Olivier
 Over: 33
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1482,6 +1630,7 @@ Run scored: 0
 Balls faced: 149
 Bowler: Olivier
 Over: 33
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -1492,6 +1641,7 @@ Run scored: 4
 Balls faced: 150
 Bowler: Olivier
 Over: 33
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -1502,6 +1652,7 @@ Run scored: 1
 Balls faced: 151
 Bowler: Olivier
 Over: 33
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1512,6 +1663,7 @@ Run scored: 0
 Balls faced: 152
 Bowler: Olivier
 Over: 33
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1522,6 +1674,7 @@ Run scored: 0
 Balls faced: 153
 Bowler: Olivier
 Over: 33
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1532,6 +1685,7 @@ Run scored: 0
 Balls faced: 154
 Bowler: Olivier
 Over: 33
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -1542,6 +1696,7 @@ Run scored: 4
 Balls faced: 155
 Bowler: Olivier
 Over: 35
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -1552,6 +1707,7 @@ No Balls: 1
 Balls faced: 156
 Bowler: Mpongwana
 Over: 36
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -1562,6 +1718,7 @@ Run scored: 1
 Balls faced: 157
 Bowler: Olivier
 Over: 35
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -1572,6 +1729,7 @@ No Balls: 1
 Balls faced: 158
 Bowler: Paterson
 Over: 37
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -1582,6 +1740,7 @@ Run scored: 1
 Balls faced: 159
 Bowler: Paterson
 Over: 37
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1592,6 +1751,7 @@ Run scored: 0
 Balls faced: 160
 Bowler: Paterson
 Over: 37
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1602,6 +1762,7 @@ Run scored: 0
 Balls faced: 161
 Bowler: Paterson
 Over: 37
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1612,6 +1773,7 @@ Run scored: 0
 Balls faced: 162
 Bowler: Paterson
 Over: 37
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1622,6 +1784,7 @@ Run scored: 0
 Balls faced: 163
 Bowler: Paterson
 Over: 37
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1632,6 +1795,7 @@ Run scored: 0
 Balls faced: 164
 Bowler: Mpongwana
 Over: 36
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -1642,6 +1806,7 @@ Run scored: 1
 Balls faced: 165
 Bowler: Moreki
 Over: 38
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -1652,6 +1817,7 @@ Run scored: 4
 Balls faced: 166
 Bowler: Moreki
 Over: 38
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1662,6 +1828,7 @@ Run scored: 0
 Balls faced: 167
 Bowler: Moreki
 Over: 38
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1672,6 +1839,7 @@ Run scored: 0
 Balls faced: 168
 Bowler: Moreki
 Over: 38
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1682,6 +1850,7 @@ Run scored: 0
 Balls faced: 169
 Bowler: Moreki
 Over: 38
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1692,6 +1861,7 @@ Run scored: 0
 Balls faced: 170
 Bowler: Moreki
 Over: 38
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1702,6 +1872,7 @@ Run scored: 0
 Balls faced: 171
 Bowler: Paterson
 Over: 37
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -1712,6 +1883,7 @@ Run scored: 1
 Balls faced: 172
 Bowler: Paterson
 Over: 37
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1722,6 +1894,7 @@ Run scored: 0
 Balls faced: 173
 Bowler: Paterson
 Over: 37
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1732,6 +1905,7 @@ Run scored: 0
 Balls faced: 174
 Bowler: Paterson
 Over: 37
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1742,6 +1916,7 @@ Run scored: 0
 Balls faced: 175
 Bowler: Paterson
 Over: 37
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1752,6 +1927,7 @@ Run scored: 0
 Balls faced: 176
 Bowler: Paterson
 Over: 37
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1762,6 +1938,7 @@ Run scored: 0
 Balls faced: 177
 Bowler: Paterson
 Over: 39
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1772,6 +1949,7 @@ Run scored: 0
 Balls faced: 178
 Bowler: Moreki
 Over: 38
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -1782,6 +1960,7 @@ Run scored: 4
 Balls faced: 179
 Bowler: Moreki
 Over: 38
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1792,6 +1971,7 @@ Run scored: 0
 Balls faced: 180
 Bowler: Moreki
 Over: 38
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -1802,6 +1982,7 @@ Run scored: 0
 Balls faced: 181
 Bowler: Moreki
 Over: 38
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1812,6 +1993,7 @@ Run scored: 0
 Balls faced: 182
 Bowler: Moreki
 Over: 38
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1822,6 +2004,7 @@ Run scored: 0
 Balls faced: 183
 Bowler: Moreki
 Over: 38
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1832,6 +2015,7 @@ Run scored: 0
 Balls faced: 184
 Bowler: Paterson
 Over: 39
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1842,6 +2026,7 @@ Run scored: 0
 Balls faced: 185
 Bowler: Paterson
 Over: 41
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1852,6 +2037,7 @@ Run scored: 0
 Balls faced: 186
 Bowler: Paterson
 Over: 41
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1862,6 +2048,7 @@ Run scored: 0
 Balls faced: 187
 Bowler: Paterson
 Over: 41
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -1872,6 +2059,7 @@ Run scored: 0
 Balls faced: 188
 Bowler: Paterson
 Over: 41
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -1882,6 +2070,7 @@ Run scored: 0
 Balls faced: 189
 Bowler: Paterson
 Over: 41
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1892,6 +2081,7 @@ Run scored: 0
 Balls faced: 190
 Bowler: Paterson
 Over: 41
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1902,6 +2092,7 @@ Run scored: 0
 Balls faced: 191
 Bowler: Paterson
 Over: 41
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1912,6 +2103,7 @@ Run scored: 0
 Balls faced: 192
 Bowler: Paterson
 Over: 41
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1922,6 +2114,7 @@ Run scored: 0
 Balls faced: 193
 Bowler: Paterson
 Over: 41
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -1932,6 +2125,7 @@ Run scored: 0
 Balls faced: 194
 Bowler: Paterson
 Over: 41
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -1942,6 +2136,7 @@ Run scored: 0
 Balls faced: 195
 Bowler: Paterson
 Over: 41
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1952,6 +2147,7 @@ Run scored: 0
 Balls faced: 196
 Bowler: Paterson
 Over: 41
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1962,6 +2158,7 @@ Run scored: 0
 Balls faced: 197
 Bowler: Paterson
 Over: 43
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1972,6 +2169,7 @@ Run scored: 0
 Balls faced: 198
 Bowler: Paterson
 Over: 43
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -1982,6 +2180,7 @@ Run scored: 0
 Balls faced: 199
 Bowler: Paterson
 Over: 43
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1992,6 +2191,7 @@ Run scored: 0
 Balls faced: 200
 Bowler: Paterson
 Over: 43
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -2002,6 +2202,7 @@ Run scored: 1
 Balls faced: 201
 Bowler: Paterson
 Over: 43
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2012,6 +2213,7 @@ Run scored: 0
 Balls faced: 202
 Bowler: Paterson
 Over: 43
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2022,6 +2224,7 @@ Run scored: 0
 Balls faced: 203
 Bowler: Paterson
 Over: 43
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2032,6 +2235,7 @@ Run scored: 0
 Balls faced: 204
 Bowler: Paterson
 Over: 43
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -2042,6 +2246,7 @@ Run scored: 1
 Balls faced: 205
 Bowler: Piedt
 Over: 45
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -2052,6 +2257,7 @@ Run scored: 0
 Balls faced: 206
 Bowler: Piedt
 Over: 45
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2062,6 +2268,7 @@ Run scored: 0
 Balls faced: 207
 Bowler: Piedt
 Over: 45
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -2072,6 +2279,7 @@ Run scored: 1
 Balls faced: 208
 Bowler: Piedt
 Over: 45
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -2082,6 +2290,7 @@ Run scored: 0
 Balls faced: 209
 Bowler: Piedt
 Over: 45
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2092,6 +2301,7 @@ Run scored: 0
 Balls faced: 210
 Bowler: Piedt
 Over: 45
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -2102,6 +2312,7 @@ Run scored: 1
 Balls faced: 211
 Bowler: Piedt
 Over: 47
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -2112,6 +2323,7 @@ Run scored: 1
 Balls faced: 212
 Bowler: Piedt
 Over: 47
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2122,6 +2334,7 @@ Run scored: 0
 Balls faced: 213
 Bowler: Piedt
 Over: 47
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2132,6 +2345,7 @@ Run scored: 0
 Balls faced: 214
 Bowler: Piedt
 Over: 47
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -2142,6 +2356,7 @@ Run scored: 4
 Balls faced: 215
 Bowler: Piedt
 Over: 47
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2152,6 +2367,7 @@ Run scored: 0
 Balls faced: 216
 Bowler: von Berg
 Over: 48
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2162,6 +2378,7 @@ Run scored: 0
 Balls faced: 217
 Bowler: von Berg
 Over: 48
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2172,6 +2389,7 @@ Run scored: 0
 Balls faced: 218
 Bowler: von Berg
 Over: 48
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2182,6 +2400,7 @@ Run scored: 0
 Balls faced: 219
 Bowler: von Berg
 Over: 48
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2192,6 +2411,7 @@ Run scored: 0
 Balls faced: 220
 Bowler: von Berg
 Over: 48
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 4
 
@@ -2202,6 +2422,7 @@ Run scored: 4
 Balls faced: 221
 Bowler: von Berg
 Over: 48
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2212,6 +2433,7 @@ Run scored: 0
 Balls faced: 222
 Bowler: Piedt
 Over: 47
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -2222,6 +2444,7 @@ Run scored: 1
 Balls faced: 223
 Bowler: Piedt
 Over: 47
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2232,6 +2455,7 @@ Run scored: 0
 Balls faced: 224
 Bowler: Piedt
 Over: 47
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2242,6 +2466,7 @@ Run scored: 0
 Balls faced: 225
 Bowler: Piedt
 Over: 47
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -2252,6 +2477,7 @@ Run scored: 4
 Balls faced: 226
 Bowler: Piedt
 Over: 47
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2262,6 +2488,7 @@ Run scored: 0
 Balls faced: 227
 Bowler: von Berg
 Over: 48
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2272,6 +2499,7 @@ Run scored: 0
 Balls faced: 228
 Bowler: von Berg
 Over: 48
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2282,6 +2510,7 @@ Run scored: 0
 Balls faced: 229
 Bowler: von Berg
 Over: 48
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2292,6 +2521,7 @@ Run scored: 0
 Balls faced: 230
 Bowler: von Berg
 Over: 48
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2302,6 +2532,7 @@ Run scored: 0
 Balls faced: 231
 Bowler: von Berg
 Over: 48
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 4
 
@@ -2312,6 +2543,7 @@ Run scored: 4
 Balls faced: 232
 Bowler: von Berg
 Over: 48
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2322,6 +2554,7 @@ Run scored: 0
 Balls faced: 233
 Bowler: von Berg
 Over: 50
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2332,6 +2565,7 @@ Run scored: 0
 Balls faced: 234
 Bowler: von Berg
 Over: 50
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -2342,6 +2576,7 @@ Run scored: 0
 Balls faced: 235
 Bowler: von Berg
 Over: 50
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2352,6 +2587,7 @@ Run scored: 0
 Balls faced: 236
 Bowler: von Berg
 Over: 50
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -2362,6 +2598,7 @@ Run scored: 0
 Balls faced: 237
 Bowler: von Berg
 Over: 50
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -2372,5 +2609,6 @@ Run scored: 4
 Balls faced: 238
 Bowler: von Berg
 Over: 50
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0

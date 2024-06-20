@@ -2,6 +2,7 @@ Match: all_games_1383037_1383081.json
 Balls faced: 1
 Bowler: Leask
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Leask
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -32,6 +35,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Leask
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Leask
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -72,16 +79,20 @@ Run scored: 0
 Balls faced: 8
 Bowler: Greaves
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Abdullah Akbarjan is OUT! bowled
+ b Greaves
+Abdullah Akbarjan b Greaves 3 (8b 0x4 0x6) SR: 37.5
 
 
 
 Balls faced: 9
 Bowler: Greaves
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -92,6 +103,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Greaves
 Over: 15
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -102,6 +114,7 @@ Run scored: 2
 Balls faced: 11
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -112,6 +125,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -122,6 +136,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -132,16 +147,20 @@ Run scored: 0
 Balls faced: 14
 Bowler: Greaves
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Abdullah Akbarjan is OUT! bowled
+ b Greaves
+Abdullah Akbarjan b Greaves 3 (8b 0x4 0x6) SR: 37.5
 
 
 
 Balls faced: 15
 Bowler: Greaves
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -152,5 +171,6 @@ Run scored: 0
 Balls faced: 16
 Bowler: Greaves
 Over: 15
+ 
 Shot: No Shot
 Run scored: 2

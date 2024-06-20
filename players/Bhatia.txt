@@ -2,6 +2,7 @@ Match: all_games_1420525_1421071.json
 Balls faced: 1
 Bowler: Currie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Sharif
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -22,6 +24,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Sharif
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Currie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Watt
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -52,6 +57,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Watt
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Watt
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -72,6 +79,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Watt
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -82,6 +90,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Sharif
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -92,6 +101,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Sharif
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -102,16 +112,20 @@ Run scored: 0
 Balls faced: 11
 Bowler: Currie
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
+Bhatia is OUT! bowled
+ b Currie
+Rahul Bhatia b Currie 2 (10b 0x4 0x6 13m) SR: 20
 
 
 
 Balls faced: 12
 Bowler: Currie
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -122,6 +136,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Currie
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -132,6 +147,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Watt
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -142,6 +158,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Watt
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
@@ -152,6 +169,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Watt
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -162,6 +180,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Watt
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -172,16 +191,20 @@ Run scored: 0
 Balls faced: 18
 Bowler: Currie
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
+Bhatia is OUT! bowled
+ b Currie
+Rahul Bhatia b Currie 2 (10b 0x4 0x6 13m) SR: 20
 
 
 
 Balls faced: 19
 Bowler: Currie
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -192,5 +215,6 @@ Run scored: 0
 Balls faced: 20
 Bowler: Currie
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0

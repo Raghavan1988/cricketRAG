@@ -2,6 +2,7 @@ Match: all_games_1410505_1410545.json
 Balls faced: 1
 Bowler: Johnson
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Morris
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -22,6 +24,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Morris
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Morris
 Over: 10
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Morris
 Over: 10
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Morris
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Johnson
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Morris
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -82,6 +90,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Morris
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Morris
 Over: 10
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Morris
 Over: 10
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -112,6 +123,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Morris
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -122,6 +134,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Morris
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -132,6 +145,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Morris
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -142,6 +156,7 @@ Run scored: 2
 Balls faced: 15
 Bowler: Morris
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -152,16 +167,20 @@ Run scored: 0
 Balls faced: 16
 Bowler: Morris
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Burns is OUT! caught
+c Johnson b FMK Morris
+Erin Burns c Johnson b FMK Morris 5 (12b 0x4 0x6 15m) SR: 41.66
 
 
 
 Balls faced: 17
 Bowler: Morris
 Over: 13
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -172,6 +191,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Morris
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -182,6 +202,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Morris
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -192,6 +213,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Morris
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -202,6 +224,7 @@ Run scored: 2
 Balls faced: 21
 Bowler: Morris
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -212,16 +235,20 @@ Run scored: 0
 Balls faced: 22
 Bowler: Morris
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Burns is OUT! caught
+c Johnson b FMK Morris
+Erin Burns c Johnson b FMK Morris 5 (12b 0x4 0x6 15m) SR: 41.66
 
 
 
 Balls faced: 23
 Bowler: Morris
 Over: 13
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -232,5 +259,6 @@ Run scored: 0
 Balls faced: 24
 Bowler: Morris
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0

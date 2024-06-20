@@ -2,61 +2,71 @@ Match: all_games_1385666_1385688.json
 Balls faced: 1
 Bowler: Archer
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Change of field sees third go back on the fence, as Archer bowls this next one full and straight, driven out into the covers by Amir"}]Change of field sees third go back on the fence, as Archer bowls this next one full and straight, driven out into the covers by Amir
+Change of field sees third go back on the fence, as Archer bowls this next one full and straight, driven out into the covers by Amir
 
 
 Balls faced: 2
 Bowler: Archer
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Edged down to third!</strong> Amir suggest he meant to get it where he did, and it looks like it - jumping back to a length ball and opening the face at the last moment"}]<strong>Edged down to third!</strong> Amir suggest he meant to get it where he did, and it looks like it - jumping back to a length ball and opening the face at the last moment
+<strong>Edged down to third!</strong> Amir suggest he meant to get it where he did, and it looks like it - jumping back to a length ball and opening the face at the last moment
 
 
 Balls faced: 3
 Bowler: Jordan
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: SWEEP_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Slower ball yorker does the trick!</strong> Amir tries to ramp but is through the shot because of the lack of pace on an off cutter which goes on to light up the stumps"}]<strong>Slower ball yorker does the trick!</strong> Amir tries to ramp but is through the shot because of the lack of pace on an off cutter which goes on to light up the stumps
+Amir is OUT! bowled
+ b Jordan
+Mohammad Amir b Jordan 5 (3b 1x4 0x6 5m) SR: 166.66
+<strong>Slower ball yorker does the trick!</strong> Amir tries to ramp but is through the shot because of the lack of pace on an off cutter which goes on to light up the stumps
 
 
 Balls faced: 4
 Bowler: Archer
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Change of field sees third go back on the fence, as Archer bowls this next one full and straight, driven out into the covers by Amir"}]Change of field sees third go back on the fence, as Archer bowls this next one full and straight, driven out into the covers by Amir
+Change of field sees third go back on the fence, as Archer bowls this next one full and straight, driven out into the covers by Amir
 
 
 Balls faced: 5
 Bowler: Archer
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Edged down to third!</strong> Amir suggest he meant to get it where he did, and it looks like it - jumping back to a length ball and opening the face at the last moment"}]<strong>Edged down to third!</strong> Amir suggest he meant to get it where he did, and it looks like it - jumping back to a length ball and opening the face at the last moment
+<strong>Edged down to third!</strong> Amir suggest he meant to get it where he did, and it looks like it - jumping back to a length ball and opening the face at the last moment
 
 
 Balls faced: 6
 Bowler: Jordan
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: SWEEP_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Slower ball yorker does the trick!</strong> Amir tries to ramp but is through the shot because of the lack of pace on an off cutter which goes on to light up the stumps"}]<strong>Slower ball yorker does the trick!</strong> Amir tries to ramp but is through the shot because of the lack of pace on an off cutter which goes on to light up the stumps
+Amir is OUT! bowled
+ b Jordan
+Mohammad Amir b Jordan 5 (3b 1x4 0x6 5m) SR: 166.66
+<strong>Slower ball yorker does the trick!</strong> Amir tries to ramp but is through the shot because of the lack of pace on an off cutter which goes on to light up the stumps
 
 
 
@@ -64,18 +74,20 @@ Match: all_games_1424827_1424832.json
 Balls faced: 1
 Bowler: Neesham
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length just outside off with not much pace on offer, hammered away to deep point and<strong> brings Imad on strike</strong>"}]On a length just outside off with not much pace on offer, hammered away to deep point and<strong> brings Imad on strike</strong>
+On a length just outside off with not much pace on offer, hammered away to deep point and<strong> brings Imad on strike</strong>
 
 
 Balls faced: 2
 Bowler: Neesham
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length just outside off with not much pace on offer, hammered away to deep point and<strong> brings Imad on strike</strong>"}]On a length just outside off with not much pace on offer, hammered away to deep point and<strong> brings Imad on strike</strong>
+On a length just outside off with not much pace on offer, hammered away to deep point and<strong> brings Imad on strike</strong>

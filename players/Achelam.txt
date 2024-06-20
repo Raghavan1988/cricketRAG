@@ -2,278 +2,310 @@ Match: all_games_1411166_1415732.json
 Balls faced: 1
 Bowler: Ravindra
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Achelam goes back and knocks it to long off"}]back of a length outside off. Achelam goes back and knocks it to long off
+back of a length outside off. Achelam goes back and knocks it to long off
 
 
 Balls faced: 2
 Bowler: Ravindra
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Achelam is the new batter in"}]Achelam is the new batter in
+Achelam is the new batter in
 
-[{"type": "HTML", "html": "darted in on a length on middle and off. Straightens a touch and Achelam meets it with an even straighter bat"}]darted in on a length on middle and off. Straightens a touch and Achelam meets it with an even straighter bat
+darted in on a length on middle and off. Straightens a touch and Achelam meets it with an even straighter bat
 
 
 Balls faced: 3
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shortish outside off. Achelam gets on top of the bounce and runs it down to third man"}]shortish outside off. Achelam gets on top of the bounce and runs it down to third man
+shortish outside off. Achelam gets on top of the bounce and runs it down to third man
 
 
 Balls faced: 4
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "sprays this down leg. Achelam lets it go and the umpire calls it a wide"}]sprays this down leg. Achelam lets it go and the umpire calls it a wide
+sprays this down leg. Achelam lets it go and the umpire calls it a wide
 
 Wide: 1
 Balls faced: 5
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Ferguson to bowl out"}]Ferguson to bowl out
+Ferguson to bowl out
 
-[{"type": "HTML", "html": "back of a length on leg stump. Achelam is late on the flick and the ball thuds into his thigh pad"}]back of a length on leg stump. Achelam is late on the flick and the ball thuds into his thigh pad
+back of a length on leg stump. Achelam is late on the flick and the ball thuds into his thigh pad
 
 
 Balls faced: 6
 Bowler: Ravindra
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Achelam goes back and knocks it to long off"}]back of a length outside off. Achelam goes back and knocks it to long off
+back of a length outside off. Achelam goes back and knocks it to long off
 
 
 Balls faced: 7
 Bowler: Ravindra
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Achelam is the new batter in"}]Achelam is the new batter in
+Achelam is the new batter in
 
-[{"type": "HTML", "html": "darted in on a length on middle and off. Straightens a touch and Achelam meets it with an even straighter bat"}]darted in on a length on middle and off. Straightens a touch and Achelam meets it with an even straighter bat
+darted in on a length on middle and off. Straightens a touch and Achelam meets it with an even straighter bat
 
 
 Balls faced: 8
 Bowler: Ravindra
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PADDLE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fuller on off. Achelam brings out the sweep and collects a single to deep backward square leg"}]fuller on off. Achelam brings out the sweep and collects a single to deep backward square leg
+fuller on off. Achelam brings out the sweep and collects a single to deep backward square leg
 
 
 Balls faced: 9
 Bowler: Ravindra
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slowed up on a length on off. Achelam waits for it before patting it towards short extra cover"}]slowed up on a length on off. Achelam waits for it before patting it towards short extra cover
+slowed up on a length on off. Achelam waits for it before patting it towards short extra cover
 
 
 Balls faced: 10
 Bowler: Ravindra
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "loopy low full toss outside off. Driven down the ground to long on"}]loopy low full toss outside off. Driven down the ground to long on
+loopy low full toss outside off. Driven down the ground to long on
 
 
 Balls faced: 11
 Bowler: Ravindra
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Uganda are trickling along at less than two runs per over. Can they somehow get up to 50 from here?"}]Uganda are trickling along at less than two runs per over. Can they somehow get up to 50 from here?
+Uganda are trickling along at less than two runs per over. Can they somehow get up to 50 from here?
 
-[{"type": "HTML", "html": "<strong>shot!</strong> Full outside off and Achelam pounces. Gets down on one knee early and razes it to deep backward square leg's left!"}]<strong>shot!</strong> Full outside off and Achelam pounces. Gets down on one knee early and razes it to deep backward square leg's left!
+<strong>shot!</strong> Full outside off and Achelam pounces. Gets down on one knee early and razes it to deep backward square leg's left!
 
 
 Balls faced: 12
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shortish outside off. Achelam gets on top of the bounce and runs it down to third man"}]shortish outside off. Achelam gets on top of the bounce and runs it down to third man
+shortish outside off. Achelam gets on top of the bounce and runs it down to third man
 
 
 Balls faced: 13
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "sprays this down leg. Achelam lets it go and the umpire calls it a wide"}]sprays this down leg. Achelam lets it go and the umpire calls it a wide
+sprays this down leg. Achelam lets it go and the umpire calls it a wide
 
 Wide: 1
 Balls faced: 14
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Ferguson to bowl out"}]Ferguson to bowl out
+Ferguson to bowl out
 
-[{"type": "HTML", "html": "back of a length on leg stump. Achelam is late on the flick and the ball thuds into his thigh pad"}]back of a length on leg stump. Achelam is late on the flick and the ball thuds into his thigh pad
+back of a length on leg stump. Achelam is late on the flick and the ball thuds into his thigh pad
 
 
 Balls faced: 15
 Bowler: Boult
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full toss on the pads. Achelam tucks it away towards deep square leg and is content with the single"}]full toss on the pads. Achelam tucks it away towards deep square leg and is content with the single
+full toss on the pads. Achelam tucks it away towards deep square leg and is content with the single
 
 
 Balls faced: 16
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket again"}]Around the wicket again
+Around the wicket again
 
-[{"type": "HTML", "html": "back of a length outside off. Achelam advances before poking it towards mid on"}]back of a length outside off. Achelam advances before poking it towards mid on
+back of a length outside off. Achelam advances before poking it towards mid on
 
 
 Balls faced: 17
 Bowler: Ravindra
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PADDLE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fuller on off. Achelam brings out the sweep and collects a single to deep backward square leg"}]fuller on off. Achelam brings out the sweep and collects a single to deep backward square leg
+fuller on off. Achelam brings out the sweep and collects a single to deep backward square leg
 
 
 Balls faced: 18
 Bowler: Ravindra
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slowed up on a length on off. Achelam waits for it before patting it towards short extra cover"}]slowed up on a length on off. Achelam waits for it before patting it towards short extra cover
+slowed up on a length on off. Achelam waits for it before patting it towards short extra cover
 
 
 Balls faced: 19
 Bowler: Ravindra
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "loopy low full toss outside off. Driven down the ground to long on"}]loopy low full toss outside off. Driven down the ground to long on
+loopy low full toss outside off. Driven down the ground to long on
 
 
 Balls faced: 20
 Bowler: Ravindra
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Uganda are trickling along at less than two runs per over. Can they somehow get up to 50 from here?"}]Uganda are trickling along at less than two runs per over. Can they somehow get up to 50 from here?
+Uganda are trickling along at less than two runs per over. Can they somehow get up to 50 from here?
 
-[{"type": "HTML", "html": "<strong>shot!</strong> Full outside off and Achelam pounces. Gets down on one knee early and razes it to deep backward square leg's left!"}]<strong>shot!</strong> Full outside off and Achelam pounces. Gets down on one knee early and razes it to deep backward square leg's left!
+<strong>shot!</strong> Full outside off and Achelam pounces. Gets down on one knee early and razes it to deep backward square leg's left!
 
 
 Balls faced: 21
 Bowler: Southee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>trapped in front, and that is a no-brainer for the umpire!</strong> Back of a length on middle and off. Nips back in a smidgen and keeps low. Achelam, having moved across his stumps, plays all over it and gets pinned on the knee roll of the front pad. That was only heading one way, and that was into middle stump. No review from Achelam, and Uganda are eight down!"}]<strong>trapped in front, and that is a no-brainer for the umpire!</strong> Back of a length on middle and off. Nips back in a smidgen and keeps low. Achelam, having moved across his stumps, plays all over it and gets pinned on the knee roll of the front pad. That was only heading one way, and that was into middle stump. No review from Achelam, and Uganda are eight down!
+Achelam is OUT! lbw
+lbw b Southee
+Fred Achelam lbw b Southee 9 (13b 1x4 0x6 16m) SR: 69.23
+<strong>trapped in front, and that is a no-brainer for the umpire!</strong> Back of a length on middle and off. Nips back in a smidgen and keeps low. Achelam, having moved across his stumps, plays all over it and gets pinned on the knee roll of the front pad. That was only heading one way, and that was into middle stump. No review from Achelam, and Uganda are eight down!
 
 
 Balls faced: 22
 Bowler: Southee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on middle and off. Achelam comes forward and pushes it towards mid on"}]back of a length on middle and off. Achelam comes forward and pushes it towards mid on
+back of a length on middle and off. Achelam comes forward and pushes it towards mid on
 
 
 Balls faced: 23
 Bowler: Southee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Southee to bowl the 18th"}, {"type": "HTML", "html": "Sohum T: \"RR the most expensive bowler of the day for NZ. Going at 3 runs per over. :-)\" -- So far, yes"}]Southee to bowl the 18th Sohum T: "RR the most expensive bowler of the day for NZ. Going at 3 runs per over. :-)" -- So far, yes
+Southee to bowl the 18th Sohum T: "RR the most expensive bowler of the day for NZ. Going at 3 runs per over. :-)" -- So far, yes
 
-[{"type": "HTML", "html": "full and hung outside off. Achelam fishes at it away from his body and does not lay bat on ball"}]full and hung outside off. Achelam fishes at it away from his body and does not lay bat on ball
+full and hung outside off. Achelam fishes at it away from his body and does not lay bat on ball
 
 
 Balls faced: 24
 Bowler: Boult
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full toss on the pads. Achelam tucks it away towards deep square leg and is content with the single"}]full toss on the pads. Achelam tucks it away towards deep square leg and is content with the single
+full toss on the pads. Achelam tucks it away towards deep square leg and is content with the single
 
 
 Balls faced: 25
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket again"}]Around the wicket again
+Around the wicket again
 
-[{"type": "HTML", "html": "back of a length outside off. Achelam advances before poking it towards mid on"}]back of a length outside off. Achelam advances before poking it towards mid on
+back of a length outside off. Achelam advances before poking it towards mid on
 
 
 Balls faced: 26
 Bowler: Southee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>trapped in front, and that is a no-brainer for the umpire!</strong> Back of a length on middle and off. Nips back in a smidgen and keeps low. Achelam, having moved across his stumps, plays all over it and gets pinned on the knee roll of the front pad. That was only heading one way, and that was into middle stump. No review from Achelam, and Uganda are eight down!"}]<strong>trapped in front, and that is a no-brainer for the umpire!</strong> Back of a length on middle and off. Nips back in a smidgen and keeps low. Achelam, having moved across his stumps, plays all over it and gets pinned on the knee roll of the front pad. That was only heading one way, and that was into middle stump. No review from Achelam, and Uganda are eight down!
+Achelam is OUT! lbw
+lbw b Southee
+Fred Achelam lbw b Southee 9 (13b 1x4 0x6 16m) SR: 69.23
+<strong>trapped in front, and that is a no-brainer for the umpire!</strong> Back of a length on middle and off. Nips back in a smidgen and keeps low. Achelam, having moved across his stumps, plays all over it and gets pinned on the knee roll of the front pad. That was only heading one way, and that was into middle stump. No review from Achelam, and Uganda are eight down!
 
 
 Balls faced: 27
 Bowler: Southee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on middle and off. Achelam comes forward and pushes it towards mid on"}]back of a length on middle and off. Achelam comes forward and pushes it towards mid on
+back of a length on middle and off. Achelam comes forward and pushes it towards mid on
 
 
 Balls faced: 28
 Bowler: Southee
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Southee to bowl the 18th"}, {"type": "HTML", "html": "Sohum T: \"RR the most expensive bowler of the day for NZ. Going at 3 runs per over. :-)\" -- So far, yes"}]Southee to bowl the 18th Sohum T: "RR the most expensive bowler of the day for NZ. Going at 3 runs per over. :-)" -- So far, yes
+Southee to bowl the 18th Sohum T: "RR the most expensive bowler of the day for NZ. Going at 3 runs per over. :-)" -- So far, yes
 
-[{"type": "HTML", "html": "full and hung outside off. Achelam fishes at it away from his body and does not lay bat on ball"}]full and hung outside off. Achelam fishes at it away from his body and does not lay bat on ball
+full and hung outside off. Achelam fishes at it away from his body and does not lay bat on ball
