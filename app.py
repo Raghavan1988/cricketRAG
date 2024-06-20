@@ -25,11 +25,24 @@ player_files = get_player_files(player_directory)
 # Sidebar for player selection
 selected_file = st.sidebar.selectbox("Select a player file", player_files)
 
+# Remove the .txt extension to get the batsman's name
+BATSMAN_NAME = remove_extension(selected_file)
+
+# Text area for custom prompt
+default_prompt = f"""
+I am a cricket analyst for the Indian National cricket team
+1. Devise a ball-by-ball strategy that the Indian team can execute to get the batsman {BATSMAN_NAME} out in a T20 game
+2. Provide details on bowler names and field placements
+3. Provide evidence for why this strategy will work
+"""
+
 # Text box for custom prompt
-prompt = st.text_area("Enter your Custom Prompt (leave it empty if you want to get default strategy)")
+
+prompt = st.text_area("Enter your Custom Prompt (if you want to override)", value=default_prompt)
+
 
 # Text box for OpenAI API key
-api_key = st.text_input("Enter your OpenAI API key", type="password")
+##api_key = st.text_input("Enter your OpenAI API key", type="password")
 
 
 def analyze_player(text):
@@ -43,7 +56,7 @@ def analyze_player(text):
 
 
 # Button to trigger the analysis
-if st.button("Go! Get Strategy"):
+if st.button("Go!!"):
     if selected_file and prompt:
         # Read the content of the selected player file
         player_content = read_file(os.path.join(player_directory, selected_file))
