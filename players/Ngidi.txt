@@ -1,99 +1,159 @@
-Match: southafrica_1433350_1433362.json
+Match: all_games_1433350_1433362.json
 Balls faced: 1
 Bowler: McCoy
-Over:16
+Over: 16
 Shot: PUSH
-run scored: 1
-Length down leg but Ngidi, who may have been making room, instinctively went towards the line and hit it down the ground
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Length down leg but Ngidi, who may have been making room, instinctively went towards the line and hit it down the ground"}]Length down leg but Ngidi, who may have been making room, instinctively went towards the line and hit it down the ground
+
+
 Balls faced: 2
 Bowler: Allen
-Over:17
+Over: 17
 Shot: SLOG_SHOT
-run scored: 0
-Almost a replay, beaten again.
-Neville Smeda: "West Indies have done well at keeping Hendricks off strike and applying pressure to the other batters. The opener has faced just 36 balls out of the 96 bowled. "
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Almost a replay, beaten again."}]Almost a replay, beaten again.
+[{"type": "HTML", "html": "Neville Smeda: \"West Indies have done well at keeping Hendricks off strike and applying pressure to the other batters. The opener has faced just 36 balls out of the 96 bowled. \""}]Neville Smeda: "West Indies have done well at keeping Hendricks off strike and applying pressure to the other batters. The opener has faced just 36 balls out of the 96 bowled. "
+
 Balls faced: 3
 Bowler: Allen
-Over:17
+Over: 17
 Shot: CUT_SHOT
-run scored: 0
-Slow on a length, it's wide and spins away. Beats Ngidi's attempted slap over cover. "That's it x 3," is the message from the keeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Slow on a length, it's wide and spins away. Beats Ngidi's attempted slap over cover. \"That's it x 3,\" is the message from the keeper"}]Slow on a length, it's wide and spins away. Beats Ngidi's attempted slap over cover. "That's it x 3," is the message from the keeper
+
+
 Balls faced: 4
 Bowler: Allen
-Over:17
+Over: 17
 Shot: STRAIGHT_DRIVE
-run scored: 4
-Bulleted down the ground. Tossed up somwehat, still 92ks. It's wide enough for Ngidi to free his arms and cuff it past the bowler
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Bulleted down the ground. Tossed up somwehat, still 92ks. It's wide enough for Ngidi to free his arms and cuff it past the bowler"}]Bulleted down the ground. Tossed up somwehat, still 92ks. It's wide enough for Ngidi to free his arms and cuff it past the bowler
+
+
 Balls faced: 5
 Bowler: Allen
-Over:17
+Over: 17
 Shot: COVER_DRIVE
-run scored: 0
-Length ball outside off keeps low and goes under Ngidi's swipe
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball outside off keeps low and goes under Ngidi's swipe"}]Length ball outside off keeps low and goes under Ngidi's swipe
+
+
 Balls faced: 6
 Bowler: Allen
-Over:17
+Over: 17
 Shot: FLICK
-run scored: 0
-Edged, goes to short third. Ngidi wanted the run but got sent back. Ball was around a back of length at off, turned away a bit. Got the leading edge as he went for the flick
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Edged, goes to short third. Ngidi wanted the run but got sent back. Ball was around a back of length at off, turned away a bit. Got the leading edge as he went for the flick"}]Edged, goes to short third. Ngidi wanted the run but got sent back. Ball was around a back of length at off, turned away a bit. Got the leading edge as he went for the flick
+
+
 Balls faced: 7
 Bowler: McCoy
-Over:16
+Over: 16
 Shot: PUSH
-run scored: 1
-Length down leg but Ngidi, who may have been making room, instinctively went towards the line and hit it down the ground
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Length down leg but Ngidi, who may have been making room, instinctively went towards the line and hit it down the ground"}]Length down leg but Ngidi, who may have been making room, instinctively went towards the line and hit it down the ground
+
+
 Balls faced: 8
 Bowler: Shamar Joseph
-Over:18
+Over: 18
 Shot: ON_DRIVE
-run scored: 0
-Missed yorker ends up as a knee-roll high full bunger. Ngidi was taken aback a bit and could only defend it back to the bowler. He smiles, Shamar might've in return
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Missed yorker ends up as a knee-roll high full bunger. Ngidi was taken aback a bit and could only defend it back to the bowler. He smiles, Shamar might've in return"}]Missed yorker ends up as a knee-roll high full bunger. Ngidi was taken aback a bit and could only defend it back to the bowler. He smiles, Shamar might've in return
+
+
 Balls faced: 9
 Bowler: Allen
-Over:17
+Over: 17
 Shot: SLOG_SHOT
-run scored: 0
-Almost a replay, beaten again.
-Neville Smeda: "West Indies have done well at keeping Hendricks off strike and applying pressure to the other batters. The opener has faced just 36 balls out of the 96 bowled. "
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Almost a replay, beaten again."}]Almost a replay, beaten again.
+[{"type": "HTML", "html": "Neville Smeda: \"West Indies have done well at keeping Hendricks off strike and applying pressure to the other batters. The opener has faced just 36 balls out of the 96 bowled. \""}]Neville Smeda: "West Indies have done well at keeping Hendricks off strike and applying pressure to the other batters. The opener has faced just 36 balls out of the 96 bowled. "
+
 Balls faced: 10
 Bowler: Allen
-Over:17
+Over: 17
 Shot: CUT_SHOT
-run scored: 0
-Slow on a length, it's wide and spins away. Beats Ngidi's attempted slap over cover. "That's it x 3," is the message from the keeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Slow on a length, it's wide and spins away. Beats Ngidi's attempted slap over cover. \"That's it x 3,\" is the message from the keeper"}]Slow on a length, it's wide and spins away. Beats Ngidi's attempted slap over cover. "That's it x 3," is the message from the keeper
+
+
 Balls faced: 11
 Bowler: Allen
-Over:17
+Over: 17
 Shot: STRAIGHT_DRIVE
-run scored: 4
-Bulleted down the ground. Tossed up somwehat, still 92ks. It's wide enough for Ngidi to free his arms and cuff it past the bowler
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Bulleted down the ground. Tossed up somwehat, still 92ks. It's wide enough for Ngidi to free his arms and cuff it past the bowler"}]Bulleted down the ground. Tossed up somwehat, still 92ks. It's wide enough for Ngidi to free his arms and cuff it past the bowler
+
+
 Balls faced: 12
 Bowler: Allen
-Over:17
+Over: 17
 Shot: COVER_DRIVE
-run scored: 0
-Length ball outside off keeps low and goes under Ngidi's swipe
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball outside off keeps low and goes under Ngidi's swipe"}]Length ball outside off keeps low and goes under Ngidi's swipe
+
+
 Balls faced: 13
 Bowler: Allen
-Over:17
+Over: 17
 Shot: FLICK
-run scored: 0
-Edged, goes to short third. Ngidi wanted the run but got sent back. Ball was around a back of length at off, turned away a bit. Got the leading edge as he went for the flick
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Edged, goes to short third. Ngidi wanted the run but got sent back. Ball was around a back of length at off, turned away a bit. Got the leading edge as he went for the flick"}]Edged, goes to short third. Ngidi wanted the run but got sent back. Ball was around a back of length at off, turned away a bit. Got the leading edge as he went for the flick
+
+
 Balls faced: 14
 Bowler: Allen
-Over:19
+Over: 19
 Shot: COVER_DRIVE
-run scored: 0
-Around a yorker length outside off, darted at 97ks, Ngidi plinks a cover drive and <strong>with 39 needed off 6, WI have all but sealed the game</strong>
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Around a yorker length outside off, darted at 97ks, Ngidi plinks a cover drive and <strong>with 39 needed off 6, WI have all but sealed the game</strong>"}]Around a yorker length outside off, darted at 97ks, Ngidi plinks a cover drive and <strong>with 39 needed off 6, WI have all but sealed the game</strong>
+
+
 Balls faced: 15
 Bowler: Shamar Joseph
-Over:18
+Over: 18
 Shot: ON_DRIVE
-run scored: 0
-Missed yorker ends up as a knee-roll high full bunger. Ngidi was taken aback a bit and could only defend it back to the bowler. He smiles, Shamar might've in return
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Missed yorker ends up as a knee-roll high full bunger. Ngidi was taken aback a bit and could only defend it back to the bowler. He smiles, Shamar might've in return"}]Missed yorker ends up as a knee-roll high full bunger. Ngidi was taken aback a bit and could only defend it back to the bowler. He smiles, Shamar might've in return
+
+
 Balls faced: 16
 Bowler: Allen
-Over:19
+Over: 19
 Shot: COVER_DRIVE
-run scored: 0
-Around a yorker length outside off, darted at 97ks, Ngidi plinks a cover drive and <strong>with 39 needed off 6, WI have all but sealed the game</strong>
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Around a yorker length outside off, darted at 97ks, Ngidi plinks a cover drive and <strong>with 39 needed off 6, WI have all but sealed the game</strong>"}]Around a yorker length outside off, darted at 97ks, Ngidi plinks a cover drive and <strong>with 39 needed off 6, WI have all but sealed the game</strong>

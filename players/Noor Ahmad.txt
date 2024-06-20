@@ -1,405 +1,1089 @@
-Match: southafrica_1367856_1384433.json
+Match: all_games_1367856_1384433.json
 Balls faced: 1
 Bowler: Phehlukwayo
-Over:38
+Over: 38
 Shot: DEFENDED
-run scored: 0
-short ball aimed at the neck. Uncomfortably fended first ball
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball aimed at the neck. Uncomfortably fended first ball"}]short ball aimed at the neck. Uncomfortably fended first ball
+
+
 Balls faced: 2
 Bowler: Phehlukwayo
-Over:38
+Over: 38
 Shot: DEFENDED
-run scored: 0
-short ball aimed at the neck. Uncomfortably fended first ball
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball aimed at the neck. Uncomfortably fended first ball"}]short ball aimed at the neck. Uncomfortably fended first ball
+
+
 Balls faced: 3
 Bowler: Phehlukwayo
-Over:40
+Over: 40
 Shot: FLICK
-run scored: 0
-yorker length, misses the flick off his toes. Hits his boot and rolls away leg side. <B>LBW appeal turned down</b>
-Suhan: "If they manage to reach around 230, they can give a good fight."
+Run scored: 0
+
+
+[{"type": "HTML", "html": "yorker length, misses the flick off his toes. Hits his boot and rolls away leg side. <B>LBW appeal turned down</b>"}]yorker length, misses the flick off his toes. Hits his boot and rolls away leg side. <B>LBW appeal turned down</b>
+[{"type": "HTML", "html": "Suhan: \"If they manage to reach around 230, they can give a good fight.\""}]Suhan: "If they manage to reach around 230, they can give a good fight."
 Legbyes: 1
 Balls faced: 4
 Bowler: Phehlukwayo
-Over:40
+Over: 40
 Shot: PUSH
-run scored: 1
-good length ball outside off. Pushed to point for a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball outside off. Pushed to point for a single"}]good length ball outside off. Pushed to point for a single
+
+
 Balls faced: 5
 Bowler: Phehlukwayo
-Over:40
+Over: 40
 Shot: PUSH
-run scored: 4
-fullish ball, wider outside off. Sticks the bat out and gets a poke very fine past the keeper's right for four!
-Atefi: "Having IPL auction next month, I guess Azmatullah and Rachindra should get good bids."
+Run scored: 4
+
+
+[{"type": "HTML", "html": "fullish ball, wider outside off. Sticks the bat out and gets a poke very fine past the keeper's right for four!"}]fullish ball, wider outside off. Sticks the bat out and gets a poke very fine past the keeper's right for four!
+[{"type": "HTML", "html": "Atefi: \"Having IPL auction next month, I guess Azmatullah and Rachindra should get good bids.\""}]Atefi: "Having IPL auction next month, I guess Azmatullah and Rachindra should get good bids."
+
 Balls faced: 6
 Bowler: Phehlukwayo
-Over:40
+Over: 40
 Shot: DEFENDED
-run scored: 0
-full ball around off and middle. Tapped back to Andile - full face of the bat
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball around off and middle. Tapped back to Andile - full face of the bat"}]full ball around off and middle. Tapped back to Andile - full face of the bat
+
+
 Balls faced: 7
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: PUSH
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Big Bill, Buxto: \"Afghanistan doing their best to 'Netherlands' South Africa here. Another 50 runs will make this very interesting...\""}]Big Bill, Buxto: "Afghanistan doing their best to 'Netherlands' South Africa here. Another 50 runs will make this very interesting..."
-short ball angled into his body. Uncomfortably fended by getting the bat near his face. Ball trickles away to the leg side
+
+[{"type": "HTML", "html": "short ball angled into his body. Uncomfortably fended by getting the bat near his face. Ball trickles away to the leg side"}]short ball angled into his body. Uncomfortably fended by getting the bat near his face. Ball trickles away to the leg side
+
+
 Balls faced: 8
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: PUSH
-run scored: 1
-full ball just outside off. Toe-ends a lofted shot, but gets it just beyond Maharaj at cover
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball just outside off. Toe-ends a lofted shot, but gets it just beyond Maharaj at cover"}]full ball just outside off. Toe-ends a lofted shot, but gets it just beyond Maharaj at cover
+
+
 Balls faced: 9
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: STEERED
-run scored: 0
-back of a length outside off. Pushed to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length outside off. Pushed to point"}]back of a length outside off. Pushed to point
+
+
 Balls faced: 10
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: DEFENDED
-run scored: 0
-good length ball around middle and defended
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length ball around middle and defended"}]good length ball around middle and defended
+
+
 Balls faced: 11
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Last ten overs."}]Last ten overs.
-full ball just outside off. Firmly fended
+
+[{"type": "HTML", "html": "full ball just outside off. Firmly fended"}]full ball just outside off. Firmly fended
+
+
 Balls faced: 12
 Bowler: Phehlukwayo
-Over:40
+Over: 40
 Shot: FLICK
-run scored: 0
-yorker length, misses the flick off his toes. Hits his boot and rolls away leg side. <B>LBW appeal turned down</b>
-Suhan: "If they manage to reach around 230, they can give a good fight."
+Run scored: 0
+
+
+[{"type": "HTML", "html": "yorker length, misses the flick off his toes. Hits his boot and rolls away leg side. <B>LBW appeal turned down</b>"}]yorker length, misses the flick off his toes. Hits his boot and rolls away leg side. <B>LBW appeal turned down</b>
+[{"type": "HTML", "html": "Suhan: \"If they manage to reach around 230, they can give a good fight.\""}]Suhan: "If they manage to reach around 230, they can give a good fight."
 Legbyes: 1
 Balls faced: 13
 Bowler: Phehlukwayo
-Over:40
+Over: 40
 Shot: PUSH
-run scored: 1
-good length ball outside off. Pushed to point for a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "good length ball outside off. Pushed to point for a single"}]good length ball outside off. Pushed to point for a single
+
+
 Balls faced: 14
 Bowler: Phehlukwayo
-Over:40
+Over: 40
 Shot: PUSH
-run scored: 4
-fullish ball, wider outside off. Sticks the bat out and gets a poke very fine past the keeper's right for four!
-Atefi: "Having IPL auction next month, I guess Azmatullah and Rachindra should get good bids."
+Run scored: 4
+
+
+[{"type": "HTML", "html": "fullish ball, wider outside off. Sticks the bat out and gets a poke very fine past the keeper's right for four!"}]fullish ball, wider outside off. Sticks the bat out and gets a poke very fine past the keeper's right for four!
+[{"type": "HTML", "html": "Atefi: \"Having IPL auction next month, I guess Azmatullah and Rachindra should get good bids.\""}]Atefi: "Having IPL auction next month, I guess Azmatullah and Rachindra should get good bids."
+
 Balls faced: 15
 Bowler: Phehlukwayo
-Over:40
+Over: 40
 Shot: DEFENDED
-run scored: 0
-full ball around off and middle. Tapped back to Andile - full face of the bat
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball around off and middle. Tapped back to Andile - full face of the bat"}]full ball around off and middle. Tapped back to Andile - full face of the bat
+
+
 Balls faced: 16
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: STRAIGHT_DRIVE
-run scored: 4
-useful runs from Noor's bat, this his second four. Full on off and a <B>glorious</b> straight drive. Coetzee's chase from mid-on is futile
+Run scored: 4
+
+
+[{"type": "HTML", "html": "useful runs from Noor's bat, this his second four. Full on off and a <B>glorious</b> straight drive. Coetzee's chase from mid-on is futile"}]useful runs from Noor's bat, this his second four. Full on off and a <B>glorious</b> straight drive. Coetzee's chase from mid-on is futile
+
+
 Balls faced: 17
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: COVER_DRIVE
-run scored: 1
-low full toss on off. Mistimed drive to cover's left
-Savio: "South Africa missed a trick here. If I were SA, I would "allow" them to score about 270 to 320 runs. Since Qualification is not at stake here, it would have given the team a practice match on how to perform a run chase. Unfortunately, they do not seem to be doing this " -- Bold idea but losing the last game before a semi is not good for morale.
+Run scored: 1
+
+
+[{"type": "HTML", "html": "low full toss on off. Mistimed drive to cover's left"}]low full toss on off. Mistimed drive to cover's left
+[{"type": "HTML", "html": "Savio: \"South Africa missed a trick here. If I were SA, I would \"allow\" them to score about 270 to 320 runs. Since Qualification is not at stake here, it would have given the team a practice match on how to perform a run chase. Unfortunately, they do not seem to be doing this \" -- Bold idea but losing the last game before a semi is not good for morale."}]Savio: "South Africa missed a trick here. If I were SA, I would "allow" them to score about 270 to 320 runs. Since Qualification is not at stake here, it would have given the team a practice match on how to perform a run chase. Unfortunately, they do not seem to be doing this " -- Bold idea but losing the last game before a semi is not good for morale.
+
 Balls faced: 18
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: PUSH
-run scored: 0
-length ball angling in. Tapped to Markram at midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball angling in. Tapped to Markram at midwicket"}]length ball angling in. Tapped to Markram at midwicket
+
+
 Balls faced: 19
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: CUT_SHOT
-run scored: 0
-overpitched ball wide outside off. Play and miss from Ahmad
+Run scored: 0
+
+
+[{"type": "HTML", "html": "overpitched ball wide outside off. Play and miss from Ahmad"}]overpitched ball wide outside off. Play and miss from Ahmad
+
+
 Balls faced: 20
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: COVER_DRIVE
-run scored: 0
-slower ball wide yorker.  Dug out to the off side
-Jigar: "SA would not have asked for better timing to chase down 200 odds in an insignificant game to get their confidence"
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower ball wide yorker.  Dug out to the off side"}]slower ball wide yorker.  Dug out to the off side
+[{"type": "HTML", "html": "Jigar: \"SA would not have asked for better timing to chase down 200 odds in an insignificant game to get their confidence\""}]Jigar: "SA would not have asked for better timing to chase down 200 odds in an insignificant game to get their confidence"
+
 Balls faced: 21
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: PUSH
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Big Bill, Buxto: \"Afghanistan doing their best to 'Netherlands' South Africa here. Another 50 runs will make this very interesting...\""}]Big Bill, Buxto: "Afghanistan doing their best to 'Netherlands' South Africa here. Another 50 runs will make this very interesting..."
-short ball angled into his body. Uncomfortably fended by getting the bat near his face. Ball trickles away to the leg side
+
+[{"type": "HTML", "html": "short ball angled into his body. Uncomfortably fended by getting the bat near his face. Ball trickles away to the leg side"}]short ball angled into his body. Uncomfortably fended by getting the bat near his face. Ball trickles away to the leg side
+
+
 Balls faced: 22
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: PUSH
-run scored: 1
-full ball just outside off. Toe-ends a lofted shot, but gets it just beyond Maharaj at cover
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball just outside off. Toe-ends a lofted shot, but gets it just beyond Maharaj at cover"}]full ball just outside off. Toe-ends a lofted shot, but gets it just beyond Maharaj at cover
+
+
 Balls faced: 23
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: STEERED
-run scored: 0
-back of a length outside off. Pushed to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length outside off. Pushed to point"}]back of a length outside off. Pushed to point
+
+
 Balls faced: 24
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: DEFENDED
-run scored: 0
-good length ball around middle and defended
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length ball around middle and defended"}]good length ball around middle and defended
+
+
 Balls faced: 25
 Bowler: Rabada
-Over:41
+Over: 41
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Last ten overs."}]Last ten overs.
-full ball just outside off. Firmly fended
+
+[{"type": "HTML", "html": "full ball just outside off. Firmly fended"}]full ball just outside off. Firmly fended
+
+
 Balls faced: 26
 Bowler: Rabada
-Over:43
+Over: 43
 Shot: STRAIGHT_DRIVE
-run scored: 1
-full ball on off. Hits it well straight back but its uppish, and <B>Rabada drops it on the followthrough!</b> Catchable height but it burst through his hands
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball on off. Hits it well straight back but its uppish, and <B>Rabada drops it on the followthrough!</b> Catchable height but it burst through his hands"}]full ball on off. Hits it well straight back but its uppish, and <B>Rabada drops it on the followthrough!</b> Catchable height but it burst through his hands
+
+
 Balls faced: 27
 Bowler: Rabada
-Over:43
+Over: 43
 Shot: PULL
-run scored: 0
-short ball. Pull attempted. May have got a glove to de Kock? No
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball. Pull attempted. May have got a glove to de Kock? No"}]short ball. Pull attempted. May have got a glove to de Kock? No
+
+
 Balls faced: 28
 Bowler: Rabada
-Over:43
+Over: 43
 Shot: DEFENDED
-run scored: 0
-full ball driven well. On the bounce to mid off
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball driven well. On the bounce to mid off"}]full ball driven well. On the bounce to mid off
+
+
 Balls faced: 29
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: STRAIGHT_DRIVE
-run scored: 4
-useful runs from Noor's bat, this his second four. Full on off and a <B>glorious</b> straight drive. Coetzee's chase from mid-on is futile
+Run scored: 4
+
+
+[{"type": "HTML", "html": "useful runs from Noor's bat, this his second four. Full on off and a <B>glorious</b> straight drive. Coetzee's chase from mid-on is futile"}]useful runs from Noor's bat, this his second four. Full on off and a <B>glorious</b> straight drive. Coetzee's chase from mid-on is futile
+
+
 Balls faced: 30
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: COVER_DRIVE
-run scored: 1
-low full toss on off. Mistimed drive to cover's left
-Savio: "South Africa missed a trick here. If I were SA, I would "allow" them to score about 270 to 320 runs. Since Qualification is not at stake here, it would have given the team a practice match on how to perform a run chase. Unfortunately, they do not seem to be doing this " -- Bold idea but losing the last game before a semi is not good for morale.
+Run scored: 1
+
+
+[{"type": "HTML", "html": "low full toss on off. Mistimed drive to cover's left"}]low full toss on off. Mistimed drive to cover's left
+[{"type": "HTML", "html": "Savio: \"South Africa missed a trick here. If I were SA, I would \"allow\" them to score about 270 to 320 runs. Since Qualification is not at stake here, it would have given the team a practice match on how to perform a run chase. Unfortunately, they do not seem to be doing this \" -- Bold idea but losing the last game before a semi is not good for morale."}]Savio: "South Africa missed a trick here. If I were SA, I would "allow" them to score about 270 to 320 runs. Since Qualification is not at stake here, it would have given the team a practice match on how to perform a run chase. Unfortunately, they do not seem to be doing this " -- Bold idea but losing the last game before a semi is not good for morale.
+
 Balls faced: 31
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: PUSH
-run scored: 0
-length ball angling in. Tapped to Markram at midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball angling in. Tapped to Markram at midwicket"}]length ball angling in. Tapped to Markram at midwicket
+
+
 Balls faced: 32
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: CUT_SHOT
-run scored: 0
-overpitched ball wide outside off. Play and miss from Ahmad
+Run scored: 0
+
+
+[{"type": "HTML", "html": "overpitched ball wide outside off. Play and miss from Ahmad"}]overpitched ball wide outside off. Play and miss from Ahmad
+
+
 Balls faced: 33
 Bowler: Phehlukwayo
-Over:42
+Over: 42
 Shot: COVER_DRIVE
-run scored: 0
-slower ball wide yorker.  Dug out to the off side
-Jigar: "SA would not have asked for better timing to chase down 200 odds in an insignificant game to get their confidence"
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower ball wide yorker.  Dug out to the off side"}]slower ball wide yorker.  Dug out to the off side
+[{"type": "HTML", "html": "Jigar: \"SA would not have asked for better timing to chase down 200 odds in an insignificant game to get their confidence\""}]Jigar: "SA would not have asked for better timing to chase down 200 odds in an insignificant game to get their confidence"
+
 Balls faced: 34
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: PULL
-run scored: 1
-short ball. Pulls and falls just short of fine leg. Noor's being adventurous!
-kushagra: "Noor scoring some very crucial runs and giving a good support to Azmatullah, more so because he was slotted to come behind Mujheeb"
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short ball. Pulls and falls just short of fine leg. Noor's being adventurous!"}]short ball. Pulls and falls just short of fine leg. Noor's being adventurous!
+[{"type": "HTML", "html": "kushagra: \"Noor scoring some very crucial runs and giving a good support to Azmatullah, more so because he was slotted to come behind Mujheeb\""}]kushagra: "Noor scoring some very crucial runs and giving a good support to Azmatullah, more so because he was slotted to come behind Mujheeb"
+
 Balls faced: 35
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: PUSH
-run scored: 0
-yorker length on off. Dug out successfully
+Run scored: 0
+
+
+[{"type": "HTML", "html": "yorker length on off. Dug out successfully"}]yorker length on off. Dug out successfully
+
+
 Balls faced: 36
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: PUSH
-run scored: 0
-yorker. Noor's lucky that's aimed for just outside leg stump. A toe-crusher he does well to evade
+Run scored: 0
+
+
+[{"type": "HTML", "html": "yorker. Noor's lucky that's aimed for just outside leg stump. A toe-crusher he does well to evade"}]yorker. Noor's lucky that's aimed for just outside leg stump. A toe-crusher he does well to evade
+
+
 Balls faced: 37
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: CUT_SHOT
-run scored: 4
-stands tall and slaps this gloriously in front of square, beating the extra cover fielder running around the boundary! Short length ball dispatched
+Run scored: 4
+
+
+[{"type": "HTML", "html": "stands tall and slaps this gloriously in front of square, beating the extra cover fielder running around the boundary! Short length ball dispatched"}]stands tall and slaps this gloriously in front of square, beating the extra cover fielder running around the boundary! Short length ball dispatched
+
+
 Balls faced: 38
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: COVER_DRIVE
-run scored: 1
-full ball around off. Noor drives to deep extra cover
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball around off. Noor drives to deep extra cover"}]full ball around off. Noor drives to deep extra cover
+
+
 Balls faced: 39
 Bowler: Rabada
-Over:43
+Over: 43
 Shot: STRAIGHT_DRIVE
-run scored: 1
-full ball on off. Hits it well straight back but its uppish, and <B>Rabada drops it on the followthrough!</b> Catchable height but it burst through his hands
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball on off. Hits it well straight back but its uppish, and <B>Rabada drops it on the followthrough!</b> Catchable height but it burst through his hands"}]full ball on off. Hits it well straight back but its uppish, and <B>Rabada drops it on the followthrough!</b> Catchable height but it burst through his hands
+
+
 Balls faced: 40
 Bowler: Rabada
-Over:43
+Over: 43
 Shot: PULL
-run scored: 0
-short ball. Pull attempted. May have got a glove to de Kock? No
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball. Pull attempted. May have got a glove to de Kock? No"}]short ball. Pull attempted. May have got a glove to de Kock? No
+
+
 Balls faced: 41
 Bowler: Rabada
-Over:43
+Over: 43
 Shot: DEFENDED
-run scored: 0
-full ball driven well. On the bounce to mid off
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball driven well. On the bounce to mid off"}]full ball driven well. On the bounce to mid off
+
+
 Balls faced: 42
 Bowler: Rabada
-Over:45
+Over: 45
 Shot: LEG_GLANCE
-run scored: 1
-yorker length ball and he digs it away and takes a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "yorker length ball and he digs it away and takes a single"}]yorker length ball and he digs it away and takes a single
+
+
 Balls faced: 43
 Bowler: Rabada
-Over:45
+Over: 45
 Shot: PULL
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Niks: \"What if that catch was taken by Mujeeb, this match would have been on another energy level. \""}]Niks: "What if that catch was taken by Mujeeb, this match would have been on another energy level. "
-short ball on middle. Pull attempted, misses out
+
+[{"type": "HTML", "html": "short ball on middle. Pull attempted, misses out"}]short ball on middle. Pull attempted, misses out
+
+
 Balls faced: 44
 Bowler: Rabada
-Over:45
+Over: 45
 Shot: PUSH
-run scored: 1
-length ball angling in. Gently worked to square leg for one
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length ball angling in. Gently worked to square leg for one"}]length ball angling in. Gently worked to square leg for one
+
+
 Balls faced: 45
 Bowler: Rabada
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
-short of length ball. Blocked by riding the bounce
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short of length ball. Blocked by riding the bounce"}]short of length ball. Blocked by riding the bounce
+
+
 Balls faced: 46
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: PULL
-run scored: 1
-short ball. Pulls and falls just short of fine leg. Noor's being adventurous!
-kushagra: "Noor scoring some very crucial runs and giving a good support to Azmatullah, more so because he was slotted to come behind Mujheeb"
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short ball. Pulls and falls just short of fine leg. Noor's being adventurous!"}]short ball. Pulls and falls just short of fine leg. Noor's being adventurous!
+[{"type": "HTML", "html": "kushagra: \"Noor scoring some very crucial runs and giving a good support to Azmatullah, more so because he was slotted to come behind Mujheeb\""}]kushagra: "Noor scoring some very crucial runs and giving a good support to Azmatullah, more so because he was slotted to come behind Mujheeb"
+
 Balls faced: 47
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: PUSH
-run scored: 0
-yorker length on off. Dug out successfully
+Run scored: 0
+
+
+[{"type": "HTML", "html": "yorker length on off. Dug out successfully"}]yorker length on off. Dug out successfully
+
+
 Balls faced: 48
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: PUSH
-run scored: 0
-yorker. Noor's lucky that's aimed for just outside leg stump. A toe-crusher he does well to evade
+Run scored: 0
+
+
+[{"type": "HTML", "html": "yorker. Noor's lucky that's aimed for just outside leg stump. A toe-crusher he does well to evade"}]yorker. Noor's lucky that's aimed for just outside leg stump. A toe-crusher he does well to evade
+
+
 Balls faced: 49
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: CUT_SHOT
-run scored: 4
-stands tall and slaps this gloriously in front of square, beating the extra cover fielder running around the boundary! Short length ball dispatched
+Run scored: 4
+
+
+[{"type": "HTML", "html": "stands tall and slaps this gloriously in front of square, beating the extra cover fielder running around the boundary! Short length ball dispatched"}]stands tall and slaps this gloriously in front of square, beating the extra cover fielder running around the boundary! Short length ball dispatched
+
+
 Balls faced: 50
 Bowler: Coetzee
-Over:44
+Over: 44
 Shot: COVER_DRIVE
-run scored: 1
-full ball around off. Noor drives to deep extra cover
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball around off. Noor drives to deep extra cover"}]full ball around off. Noor drives to deep extra cover
+
+
 Balls faced: 51
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: PULL
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020de Kock b Coetzee", "commentary": "Noor Ahmad c \u2020de Kock b Coetzee 26 (32b 4x4 0x6 36m) SR: 81.25"}
-Quinton de Kock - third keeper to take six catches in a men's ODI World Cup match, after Adam Gilchrist and Sarfaraz Ahmed. Noor attempts the pull against a searing short ball, and gets a glove to the wicketkeeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Quinton de Kock - third keeper to take six catches in a men's ODI World Cup match, after Adam Gilchrist and Sarfaraz Ahmed. Noor attempts the pull against a searing short ball, and gets a glove to the wicketkeeper"}]Quinton de Kock - third keeper to take six catches in a men's ODI World Cup match, after Adam Gilchrist and Sarfaraz Ahmed. Noor attempts the pull against a searing short ball, and gets a glove to the wicketkeeper
+
+
 Balls faced: 52
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: PUSH
-run scored: 0
-full on middle. Driven to the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on middle. Driven to the off side"}]full on middle. Driven to the off side
+
+
 Balls faced: 53
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: SLOG_SHOT
-run scored: 4
-yorker length on middle. Noor swings across the line and he's very lucky that's got something off the bat. Past leg stump for four
+Run scored: 4
+
+
+[{"type": "HTML", "html": "yorker length on middle. Noor swings across the line and he's very lucky that's got something off the bat. Past leg stump for four"}]yorker length on middle. Noor swings across the line and he's very lucky that's got something off the bat. Past leg stump for four
+
+
 Balls faced: 54
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: PULL
-run scored: 0
-short ball. Noor attempts a pull but the ball rises and hits him on the helmet grille!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball. Noor attempts a pull but the ball rises and hits him on the helmet grille!"}]short ball. Noor attempts a pull but the ball rises and hits him on the helmet grille!
+
+
 Balls faced: 55
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: COVER_DRIVE
-run scored: 1
-caressed along the carpet square for a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "caressed along the carpet square for a single"}]caressed along the carpet square for a single
+
+
 Balls faced: 56
 Bowler: Rabada
-Over:45
+Over: 45
 Shot: LEG_GLANCE
-run scored: 1
-yorker length ball and he digs it away and takes a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "yorker length ball and he digs it away and takes a single"}]yorker length ball and he digs it away and takes a single
+
+
 Balls faced: 57
 Bowler: Rabada
-Over:45
+Over: 45
 Shot: PULL
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Niks: \"What if that catch was taken by Mujeeb, this match would have been on another energy level. \""}]Niks: "What if that catch was taken by Mujeeb, this match would have been on another energy level. "
-short ball on middle. Pull attempted, misses out
+
+[{"type": "HTML", "html": "short ball on middle. Pull attempted, misses out"}]short ball on middle. Pull attempted, misses out
+
+
 Balls faced: 58
 Bowler: Rabada
-Over:45
+Over: 45
 Shot: PUSH
-run scored: 1
-length ball angling in. Gently worked to square leg for one
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length ball angling in. Gently worked to square leg for one"}]length ball angling in. Gently worked to square leg for one
+
+
 Balls faced: 59
 Bowler: Rabada
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
-short of length ball. Blocked by riding the bounce
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short of length ball. Blocked by riding the bounce"}]short of length ball. Blocked by riding the bounce
+
+
 Balls faced: 60
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: PULL
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020de Kock b Coetzee", "commentary": "Noor Ahmad c \u2020de Kock b Coetzee 26 (32b 4x4 0x6 36m) SR: 81.25"}
-Quinton de Kock - third keeper to take six catches in a men's ODI World Cup match, after Adam Gilchrist and Sarfaraz Ahmed. Noor attempts the pull against a searing short ball, and gets a glove to the wicketkeeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Quinton de Kock - third keeper to take six catches in a men's ODI World Cup match, after Adam Gilchrist and Sarfaraz Ahmed. Noor attempts the pull against a searing short ball, and gets a glove to the wicketkeeper"}]Quinton de Kock - third keeper to take six catches in a men's ODI World Cup match, after Adam Gilchrist and Sarfaraz Ahmed. Noor attempts the pull against a searing short ball, and gets a glove to the wicketkeeper
+
+
 Balls faced: 61
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: PUSH
-run scored: 0
-full on middle. Driven to the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on middle. Driven to the off side"}]full on middle. Driven to the off side
+
+
 Balls faced: 62
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: SLOG_SHOT
-run scored: 4
-yorker length on middle. Noor swings across the line and he's very lucky that's got something off the bat. Past leg stump for four
+Run scored: 4
+
+
+[{"type": "HTML", "html": "yorker length on middle. Noor swings across the line and he's very lucky that's got something off the bat. Past leg stump for four"}]yorker length on middle. Noor swings across the line and he's very lucky that's got something off the bat. Past leg stump for four
+
+
 Balls faced: 63
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: PULL
-run scored: 0
-short ball. Noor attempts a pull but the ball rises and hits him on the helmet grille!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball. Noor attempts a pull but the ball rises and hits him on the helmet grille!"}]short ball. Noor attempts a pull but the ball rises and hits him on the helmet grille!
+
+
 Balls faced: 64
 Bowler: Coetzee
-Over:46
+Over: 46
 Shot: COVER_DRIVE
-run scored: 1
-caressed along the carpet square for a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "caressed along the carpet square for a single"}]caressed along the carpet square for a single
+
+
+
+Match: all_games_1389384_1389397.json
+Balls faced: 1
+Bowler: Arshdeep Singh
+Over: 20
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on the stumps. Helicoptered towards wide long-on. Kohli moves to his right and takes it comfortably"}]full on the stumps. Helicoptered towards wide long-on. Kohli moves to his right and takes it comfortably
+
+
+Balls faced: 2
+Bowler: Arshdeep Singh
+Over: 20
+Shot: SLOG_SHOT
+Run scored: 1
+[{"type": "HTML", "html": "Noor Ahmad"}]Noor Ahmad
+
+[{"type": "HTML", "html": "full at the stumps. Slogged towards deep midwicket"}]full at the stumps. Slogged towards deep midwicket
+
+
+Balls faced: 3
+Bowler: Arshdeep Singh
+Over: 20
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on the stumps. Helicoptered towards wide long-on. Kohli moves to his right and takes it comfortably"}]full on the stumps. Helicoptered towards wide long-on. Kohli moves to his right and takes it comfortably
+
+
+Balls faced: 4
+Bowler: Arshdeep Singh
+Over: 20
+Shot: SLOG_SHOT
+Run scored: 1
+[{"type": "HTML", "html": "Noor Ahmad"}]Noor Ahmad
+
+[{"type": "HTML", "html": "full at the stumps. Slogged towards deep midwicket"}]full at the stumps. Slogged towards deep midwicket
+
+
+
+Match: all_games_1411166_1415740.json
+Balls faced: 1
+Bowler: Russell
+Over: 14
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball, yorker length on off. Noor manages to nurdle a shot towards the leg side for a single"}]full ball, yorker length on off. Noor manages to nurdle a shot towards the leg side for a single
+[{"type": "HTML", "html": "Taha: \"Love to support West Indies. Fun team to watch (has nothing to do with being a Pakistani and not having a team to support)\" -- <i>Dil Dil West Indies</i> era? Niiice!"}]Taha: "Love to support West Indies. Fun team to watch (has nothing to do with being a Pakistani and not having a team to support)" -- <i>Dil Dil West Indies</i> era? Niiice!
+
+Balls faced: 2
+Bowler: Russell
+Over: 14
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball <i>just</i> outside off. Noor offers minimal footwork in his attempted flick from outside off stump. He's lucky his off stump is still upright"}]full ball <i>just</i> outside off. Noor offers minimal footwork in his attempted flick from outside off stump. He's lucky his off stump is still upright
+
+
+Balls faced: 3
+Bowler: Russell
+Over: 14
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length ball, fourth-stump line. Opens the bat's face and runs it down to deep third"}]length ball, fourth-stump line. Opens the bat's face and runs it down to deep third
+[{"type": "HTML", "html": "Mahesh Balaji: \"Recency bias seems to be the major influence in fans predicting teams' performances. Until yesterday, many, pundits included, were predicting Afg to reach finals and even win the cup.  Today, it's the WI and Aus that are predicted to be the finalists. Afg can still have good days on bowling-friendly pitches. WI bowling can still be taken apart by an accomplished batting order. \""}]Mahesh Balaji: "Recency bias seems to be the major influence in fans predicting teams' performances. Until yesterday, many, pundits included, were predicting Afg to reach finals and even win the cup.  Today, it's the WI and Aus that are predicted to be the finalists. Afg can still have good days on bowling-friendly pitches. WI bowling can still be taken apart by an accomplished batting order. "
+
+Balls faced: 4
+Bowler: Motie
+Over: 15
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<B>holes out at long on.</b> Full ball around leg and Noor backs away slightly before trying to launch a big shot down the V. He doesn't have the timing to find the distance and Rutherford runs square from wide long on to complete the formalities."}]<B>holes out at long on.</b> Full ball around leg and Noor backs away slightly before trying to launch a big shot down the V. He doesn't have the timing to find the distance and Rutherford runs square from wide long on to complete the formalities.
+
+
+Balls faced: 5
+Bowler: Russell
+Over: 14
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball, yorker length on off. Noor manages to nurdle a shot towards the leg side for a single"}]full ball, yorker length on off. Noor manages to nurdle a shot towards the leg side for a single
+[{"type": "HTML", "html": "Taha: \"Love to support West Indies. Fun team to watch (has nothing to do with being a Pakistani and not having a team to support)\" -- <i>Dil Dil West Indies</i> era? Niiice!"}]Taha: "Love to support West Indies. Fun team to watch (has nothing to do with being a Pakistani and not having a team to support)" -- <i>Dil Dil West Indies</i> era? Niiice!
+
+Balls faced: 6
+Bowler: Russell
+Over: 14
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball <i>just</i> outside off. Noor offers minimal footwork in his attempted flick from outside off stump. He's lucky his off stump is still upright"}]full ball <i>just</i> outside off. Noor offers minimal footwork in his attempted flick from outside off stump. He's lucky his off stump is still upright
+
+
+Balls faced: 7
+Bowler: Russell
+Over: 14
+Shot: STEERED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "length ball, fourth-stump line. Opens the bat's face and runs it down to deep third"}]length ball, fourth-stump line. Opens the bat's face and runs it down to deep third
+[{"type": "HTML", "html": "Mahesh Balaji: \"Recency bias seems to be the major influence in fans predicting teams' performances. Until yesterday, many, pundits included, were predicting Afg to reach finals and even win the cup.  Today, it's the WI and Aus that are predicted to be the finalists. Afg can still have good days on bowling-friendly pitches. WI bowling can still be taken apart by an accomplished batting order. \""}]Mahesh Balaji: "Recency bias seems to be the major influence in fans predicting teams' performances. Until yesterday, many, pundits included, were predicting Afg to reach finals and even win the cup.  Today, it's the WI and Aus that are predicted to be the finalists. Afg can still have good days on bowling-friendly pitches. WI bowling can still be taken apart by an accomplished batting order. "
+
+Balls faced: 8
+Bowler: Motie
+Over: 15
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<B>holes out at long on.</b> Full ball around leg and Noor backs away slightly before trying to launch a big shot down the V. He doesn't have the timing to find the distance and Rutherford runs square from wide long on to complete the formalities."}]<B>holes out at long on.</b> Full ball around leg and Noor backs away slightly before trying to launch a big shot down the V. He doesn't have the timing to find the distance and Rutherford runs square from wide long on to complete the formalities.
+
+
+
+Match: all_games_1416068_1416075.json
+Balls faced: 1
+Bowler: Madushanka
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Noor"}]Noor
+
+[{"type": "HTML", "html": "<strong>trapped first ball!</strong> Afghanistan don't have reviews remaining, so Noor has to walk back. <b>Madushanka is on a hat-trick</b>. He went from around the wicket, bowling a cross-seamer. It landed on middle and off, as the ball shaped back in to smack Noor on his back pad as he was beaten by pace looking to push at it"}]<strong>trapped first ball!</strong> Afghanistan don't have reviews remaining, so Noor has to walk back. <b>Madushanka is on a hat-trick</b>. He went from around the wicket, bowling a cross-seamer. It landed on middle and off, as the ball shaped back in to smack Noor on his back pad as he was beaten by pace looking to push at it
+
+
+Balls faced: 2
+Bowler: Madushanka
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Noor"}]Noor
+
+[{"type": "HTML", "html": "<strong>trapped first ball!</strong> Afghanistan don't have reviews remaining, so Noor has to walk back. <b>Madushanka is on a hat-trick</b>. He went from around the wicket, bowling a cross-seamer. It landed on middle and off, as the ball shaped back in to smack Noor on his back pad as he was beaten by pace looking to push at it"}]<strong>trapped first ball!</strong> Afghanistan don't have reviews remaining, so Noor has to walk back. <b>Madushanka is on a hat-trick</b>. He went from around the wicket, bowling a cross-seamer. It landed on middle and off, as the ball shaped back in to smack Noor on his back pad as he was beaten by pace looking to push at it
+
+
+
+Match: all_games_1416068_1416077.json
+Balls faced: 1
+Bowler: Theekshana
+Over: 18
+Shot: FLICK
+Run scored: 2
+[{"type": "HTML", "html": "Achiya Sollithu: \"Feel pathirana has given away some easy runs in the form of wides\""}]Achiya Sollithu: "Feel pathirana has given away some easy runs in the form of wides"
+
+[{"type": "HTML", "html": "Pushed full on middle, Noor flicks it between long-on and deep midwicket for an easy brace"}]Pushed full on middle, Noor flicks it between long-on and deep midwicket for an easy brace
+
+
+Balls faced: 2
+Bowler: Theekshana
+Over: 18
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "On a length on middle, Noor knocks it to midwicket's right for a quick single"}]On a length on middle, Noor knocks it to midwicket's right for a quick single
+
+
+Balls faced: 3
+Bowler: Theekshana
+Over: 18
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<strong>Swung down town for six!</strong> This is in the slot and he swings through the line, hitting it straight of long-on for a huge six"}]<strong>Swung down town for six!</strong> This is in the slot and he swings through the line, hitting it straight of long-on for a huge six
+
+
+Balls faced: 4
+Bowler: Theekshana
+Over: 18
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length around off blocked out down the ground"}]On a length around off blocked out down the ground
+
+
+Balls faced: 5
+Bowler: Pathirana
+Over: 19
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Castled!</strong> The yorker is on target there. Noor Ahmad got nowhere near the last one, he gets nowhere near this one. This one wasn't as full, but it goes under the bat and smashes into off stump. Pathirana has been fantastic today, except that last over when he gave away a bunch of wides. Other than that, absolutely brilliant!"}]<strong>Castled!</strong> The yorker is on target there. Noor Ahmad got nowhere near the last one, he gets nowhere near this one. This one wasn't as full, but it goes under the bat and smashes into off stump. Pathirana has been fantastic today, except that last over when he gave away a bunch of wides. Other than that, absolutely brilliant!
+
+
+Balls faced: 6
+Bowler: Pathirana
+Over: 19
+Shot: SQUARE_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Afghanistan will be happy with just singles here. Sri Lanka need wickets and/or dots!"}]Afghanistan will be happy with just singles here. Sri Lanka need wickets and/or dots!
+
+[{"type": "HTML", "html": "Yorker at 153kph, but it's just outside off! Zooms past the off stump!"}]Yorker at 153kph, but it's just outside off! Zooms past the off stump!
+
+
+Balls faced: 7
+Bowler: Theekshana
+Over: 18
+Shot: FLICK
+Run scored: 2
+[{"type": "HTML", "html": "Achiya Sollithu: \"Feel pathirana has given away some easy runs in the form of wides\""}]Achiya Sollithu: "Feel pathirana has given away some easy runs in the form of wides"
+
+[{"type": "HTML", "html": "Pushed full on middle, Noor flicks it between long-on and deep midwicket for an easy brace"}]Pushed full on middle, Noor flicks it between long-on and deep midwicket for an easy brace
+
+
+Balls faced: 8
+Bowler: Theekshana
+Over: 18
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "On a length on middle, Noor knocks it to midwicket's right for a quick single"}]On a length on middle, Noor knocks it to midwicket's right for a quick single
+
+
+Balls faced: 9
+Bowler: Theekshana
+Over: 18
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<strong>Swung down town for six!</strong> This is in the slot and he swings through the line, hitting it straight of long-on for a huge six"}]<strong>Swung down town for six!</strong> This is in the slot and he swings through the line, hitting it straight of long-on for a huge six
+
+
+Balls faced: 10
+Bowler: Theekshana
+Over: 18
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length around off blocked out down the ground"}]On a length around off blocked out down the ground
+
+
+Balls faced: 11
+Bowler: Pathirana
+Over: 19
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Castled!</strong> The yorker is on target there. Noor Ahmad got nowhere near the last one, he gets nowhere near this one. This one wasn't as full, but it goes under the bat and smashes into off stump. Pathirana has been fantastic today, except that last over when he gave away a bunch of wides. Other than that, absolutely brilliant!"}]<strong>Castled!</strong> The yorker is on target there. Noor Ahmad got nowhere near the last one, he gets nowhere near this one. This one wasn't as full, but it goes under the bat and smashes into off stump. Pathirana has been fantastic today, except that last over when he gave away a bunch of wides. Other than that, absolutely brilliant!
+
+
+Balls faced: 12
+Bowler: Pathirana
+Over: 19
+Shot: SQUARE_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Afghanistan will be happy with just singles here. Sri Lanka need wickets and/or dots!"}]Afghanistan will be happy with just singles here. Sri Lanka need wickets and/or dots!
+
+[{"type": "HTML", "html": "Yorker at 153kph, but it's just outside off! Zooms past the off stump!"}]Yorker at 153kph, but it's just outside off! Zooms past the off stump!
+
+
+
+Match: all_games_1416068_1416078.json
+Balls faced: 1
+Bowler: Hasaranga
+Over: 14
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Noor in at 9"}]Noor in at 9
+
+[{"type": "HTML", "html": "back of a length on leg stump. Noor goes back and helps it towards deep square leg"}]back of a length on leg stump. Noor goes back and helps it towards deep square leg
+
+
+Balls faced: 2
+Bowler: Theekshana
+Over: 15
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on off. Noor turns it into the mid wicket region and gets across to the other end"}]back of a length on off. Noor turns it into the mid wicket region and gets across to the other end
+
+
+Balls faced: 3
+Bowler: Theekshana
+Over: 15
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "into the blockhole on off stump. Noor pokes it back to the bowler"}]into the blockhole on off stump. Noor pokes it back to the bowler
+
+
+Balls faced: 4
+Bowler: Theekshana
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "carrom ball on a back of a length outside off. Nips away and rips past the outside edge of Noor's bat"}]carrom ball on a back of a length outside off. Nips away and rips past the outside edge of Noor's bat
+
+
+Balls faced: 5
+Bowler: Hasaranga
+Over: 14
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Noor in at 9"}]Noor in at 9
+
+[{"type": "HTML", "html": "back of a length on leg stump. Noor goes back and helps it towards deep square leg"}]back of a length on leg stump. Noor goes back and helps it towards deep square leg
+
+
+Balls faced: 6
+Bowler: Hasaranga
+Over: 16
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fuller on middle and leg. Noor clears his front leg and swings his bat like an axe. Shanks it to deep square leg"}]fuller on middle and leg. Noor clears his front leg and swings his bat like an axe. Shanks it to deep square leg
+
+
+Balls faced: 7
+Bowler: Hasaranga
+Over: 16
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fizzed through on a length on middle and off. Noor closes his bat face too early and gets a leading edge into the off side"}]fizzed through on a length on middle and off. Noor closes his bat face too early and gets a leading edge into the off side
+
+
+Balls faced: 8
+Bowler: Hasaranga
+Over: 16
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on off stump. Noor waits for it and tugs it towards deep mid wicket"}]back of a length on off stump. Noor waits for it and tugs it towards deep mid wicket
+
+
+Balls faced: 9
+Bowler: Theekshana
+Over: 15
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on off. Noor turns it into the mid wicket region and gets across to the other end"}]back of a length on off. Noor turns it into the mid wicket region and gets across to the other end
+
+
+Balls faced: 10
+Bowler: Theekshana
+Over: 15
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "into the blockhole on off stump. Noor pokes it back to the bowler"}]into the blockhole on off stump. Noor pokes it back to the bowler
+
+
+Balls faced: 11
+Bowler: Theekshana
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "carrom ball on a back of a length outside off. Nips away and rips past the outside edge of Noor's bat"}]carrom ball on a back of a length outside off. Nips away and rips past the outside edge of Noor's bat
+
+
+Balls faced: 12
+Bowler: Pathirana
+Over: 17
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "<strong>appeal, not given!</strong> Sizzling yorker on middle and off. Noor tries to flick it away and might have gotten a scratch before the ball thudded into his back pad. The umpire thinks so too and does not raise his finger. Sri Lanka, though, have taken this upstairs. <strong>Replays confirm that Noor has absolutely smashed it into his pad. Sri Lanka lose a review!</strong>"}]<strong>appeal, not given!</strong> Sizzling yorker on middle and off. Noor tries to flick it away and might have gotten a scratch before the ball thudded into his back pad. The umpire thinks so too and does not raise his finger. Sri Lanka, though, have taken this upstairs. <strong>Replays confirm that Noor has absolutely smashed it into his pad. Sri Lanka lose a review!</strong>
+
+
+Balls faced: 13
+Bowler: Pathirana
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Pathirana to bowl the 17th. 78 needed off 24"}]Pathirana to bowl the 17th. 78 needed off 24
+
+[{"type": "HTML", "html": "full on off stump. Noor is awfully late on the stroke and just manages to plonk it back to the bowler"}]full on off stump. Noor is awfully late on the stroke and just manages to plonk it back to the bowler
+
+
+Balls faced: 14
+Bowler: Hasaranga
+Over: 16
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fuller on middle and leg. Noor clears his front leg and swings his bat like an axe. Shanks it to deep square leg"}]fuller on middle and leg. Noor clears his front leg and swings his bat like an axe. Shanks it to deep square leg
+
+
+Balls faced: 15
+Bowler: Hasaranga
+Over: 16
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fizzed through on a length on middle and off. Noor closes his bat face too early and gets a leading edge into the off side"}]fizzed through on a length on middle and off. Noor closes his bat face too early and gets a leading edge into the off side
+
+
+Balls faced: 16
+Bowler: Hasaranga
+Over: 16
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on off stump. Noor waits for it and tugs it towards deep mid wicket"}]back of a length on off stump. Noor waits for it and tugs it towards deep mid wicket
+
+
+Balls faced: 17
+Bowler: Pathirana
+Over: 17
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "<strong>appeal, not given!</strong> Sizzling yorker on middle and off. Noor tries to flick it away and might have gotten a scratch before the ball thudded into his back pad. The umpire thinks so too and does not raise his finger. Sri Lanka, though, have taken this upstairs. <strong>Replays confirm that Noor has absolutely smashed it into his pad. Sri Lanka lose a review!</strong>"}]<strong>appeal, not given!</strong> Sizzling yorker on middle and off. Noor tries to flick it away and might have gotten a scratch before the ball thudded into his back pad. The umpire thinks so too and does not raise his finger. Sri Lanka, though, have taken this upstairs. <strong>Replays confirm that Noor has absolutely smashed it into his pad. Sri Lanka lose a review!</strong>
+
+
+Balls faced: 18
+Bowler: Pathirana
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Pathirana to bowl the 17th. 78 needed off 24"}]Pathirana to bowl the 17th. 78 needed off 24
+
+[{"type": "HTML", "html": "full on off stump. Noor is awfully late on the stroke and just manages to plonk it back to the bowler"}]full on off stump. Noor is awfully late on the stroke and just manages to plonk it back to the bowler

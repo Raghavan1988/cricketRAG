@@ -1,37 +1,791 @@
-Match: southafrica_1367856_1384433.json
+Match: all_games_1367856_1384433.json
 Balls faced: 1
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: LEFT_ALONE
-run scored: 0
-short ball just outside off. No shot offered
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball just outside off. No shot offered"}]short ball just outside off. No shot offered
+
+
 Balls faced: 2
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: DEFENDED
-run scored: 0
-full ball, blocked with the full face of the bat
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball, blocked with the full face of the bat"}]full ball, blocked with the full face of the bat
+
+
 Balls faced: 3
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: LEFT_ALONE
-run scored: 0
-short ball just outside off. No shot offered
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball just outside off. No shot offered"}]short ball just outside off. No shot offered
+
+
 Balls faced: 4
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: DEFENDED
-run scored: 0
-full ball, blocked with the full face of the bat
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball, blocked with the full face of the bat"}]full ball, blocked with the full face of the bat
+
+
 Balls faced: 5
 Bowler: Rabada
-Over:50
+Over: 50
 Shot: FLICK
-run scored: 1
-he's done it, passed the strike over to Azmat. Length ball flicked off his waist
+Run scored: 1
+
+
+[{"type": "HTML", "html": "he's done it, passed the strike over to Azmat. Length ball flicked off his waist"}]he's done it, passed the strike over to Azmat. Length ball flicked off his waist
+
+
 Balls faced: 6
 Bowler: Rabada
-Over:50
+Over: 50
 Shot: PUSH
-run scored: 1
-fullish ball on off. Pushes at it, gets enough at to send it towards cover where there's a gap. Omarzai on strike now
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fullish ball on off. Pushes at it, gets enough at to send it towards cover where there's a gap. Omarzai on strike now"}]fullish ball on off. Pushes at it, gets enough at to send it towards cover where there's a gap. Omarzai on strike now
+
+
+
+Match: all_games_1389384_1389397.json
+Balls faced: 1
+Bowler: Arshdeep Singh
+Over: 20
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Farooqi"}]Farooqi
+
+[{"type": "HTML", "html": "a yorker. Naveen jams his bat at it and takes off. Jitesh collects the ball and underarms it towards the stumps. And he misses. The batters are going for an overthrow but Jaiswal from square leg has the ball and it's race between Farooqi and him to the non-striker's end. Jaiswal wins, and breaks the stumps to run Farooqi out"}]a yorker. Naveen jams his bat at it and takes off. Jitesh collects the ball and underarms it towards the stumps. And he misses. The batters are going for an overthrow but Jaiswal from square leg has the ball and it's race between Farooqi and him to the non-striker's end. Jaiswal wins, and breaks the stumps to run Farooqi out
+[{"type": "HTML", "html": "<b>8.35pm</b> An innings of ebbs and flows. Gurbaz started aggressively before Naib took over. Axar and Dube struck in successive overs but Naib kept going and brought up his fifty off just 28 balls. But once Axar got it him out, the upcoming batters struggled a bit. Then, towards the end, Janat and Mujeeb combined for 41 off just 19 to take Afghanistan to 172. But will it be enough? Himanshu will be here soon to find out with you guys. Stay tuned."}]<b>8.35pm</b> An innings of ebbs and flows. Gurbaz started aggressively before Naib took over. Axar and Dube struck in successive overs but Naib kept going and brought up his fifty off just 28 balls. But once Axar got it him out, the upcoming batters struggled a bit. Then, towards the end, Janat and Mujeeb combined for 41 off just 19 to take Afghanistan to 172. But will it be enough? Himanshu will be here soon to find out with you guys. Stay tuned.
+
+Balls faced: 2
+Bowler: Arshdeep Singh
+Over: 20
+Shot: LEFT_ALONE
+Run scored: 0
+[{"type": "HTML", "html": "Naveen"}]Naveen
+
+[{"type": "HTML", "html": "a length ball but way outside off. Naveen swings and misses. Mujeeb took off for a bye but lack of game awareness from Naveen who didn't move. Jitesh lobs the ball to Arshdeep who breaks the stumps"}]a length ball but way outside off. Naveen swings and misses. Mujeeb took off for a bye but lack of game awareness from Naveen who didn't move. Jitesh lobs the ball to Arshdeep who breaks the stumps
+
+Wide: 1
+Balls faced: 3
+Bowler: Arshdeep Singh
+Over: 20
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Farooqi"}]Farooqi
+
+[{"type": "HTML", "html": "a yorker. Naveen jams his bat at it and takes off. Jitesh collects the ball and underarms it towards the stumps. And he misses. The batters are going for an overthrow but Jaiswal from square leg has the ball and it's race between Farooqi and him to the non-striker's end. Jaiswal wins, and breaks the stumps to run Farooqi out"}]a yorker. Naveen jams his bat at it and takes off. Jitesh collects the ball and underarms it towards the stumps. And he misses. The batters are going for an overthrow but Jaiswal from square leg has the ball and it's race between Farooqi and him to the non-striker's end. Jaiswal wins, and breaks the stumps to run Farooqi out
+[{"type": "HTML", "html": "<b>8.35pm</b> An innings of ebbs and flows. Gurbaz started aggressively before Naib took over. Axar and Dube struck in successive overs but Naib kept going and brought up his fifty off just 28 balls. But once Axar got it him out, the upcoming batters struggled a bit. Then, towards the end, Janat and Mujeeb combined for 41 off just 19 to take Afghanistan to 172. But will it be enough? Himanshu will be here soon to find out with you guys. Stay tuned."}]<b>8.35pm</b> An innings of ebbs and flows. Gurbaz started aggressively before Naib took over. Axar and Dube struck in successive overs but Naib kept going and brought up his fifty off just 28 balls. But once Axar got it him out, the upcoming batters struggled a bit. Then, towards the end, Janat and Mujeeb combined for 41 off just 19 to take Afghanistan to 172. But will it be enough? Himanshu will be here soon to find out with you guys. Stay tuned.
+
+Balls faced: 4
+Bowler: Arshdeep Singh
+Over: 20
+Shot: LEFT_ALONE
+Run scored: 0
+[{"type": "HTML", "html": "Naveen"}]Naveen
+
+[{"type": "HTML", "html": "a length ball but way outside off. Naveen swings and misses. Mujeeb took off for a bye but lack of game awareness from Naveen who didn't move. Jitesh lobs the ball to Arshdeep who breaks the stumps"}]a length ball but way outside off. Naveen swings and misses. Mujeeb took off for a bye but lack of game awareness from Naveen who didn't move. Jitesh lobs the ball to Arshdeep who breaks the stumps
+
+Wide: 1
+
+Match: all_games_1411166_1415740.json
+Balls faced: 1
+Bowler: Motie
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball around off and fended to see the over off. <B>Motie's figures: 4-0-28-2</b>"}]full ball around off and fended to see the over off. <B>Motie's figures: 4-0-28-2</b>
+
+
+Balls faced: 2
+Bowler: Motie
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball darting in and Naveen presses forward to defend. Inside edge onto his pad and that saves him from an lbw"}]full ball darting in and Naveen presses forward to defend. Inside edge onto his pad and that saves him from an lbw
+
+
+Balls faced: 3
+Bowler: Motie
+Over: 15
+Shot: DAB
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on off. Ball stays low. Fended to the off side"}]full on off. Ball stays low. Fended to the off side
+
+
+Balls faced: 4
+Bowler: Motie
+Over: 15
+Shot: DAB
+Run scored: 0
+
+
+[{"type": "HTML", "html": "played to the off side"}]played to the off side
+
+
+Balls faced: 5
+Bowler: Motie
+Over: 15
+Shot: STEERED
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<B>bouncer?!</b> Naveen, <B>with no helmet</b>, gets a rude welcome in terms of a testing line first up. He somehow manages to get his bat near his face, and manages to guide a shot awkwardly past first slip for four! Replay shows this was a back of a length delivery that zipped off the deck, generating extra bounce and surprising the batter."}]<B>bouncer?!</b> Naveen, <B>with no helmet</b>, gets a rude welcome in terms of a testing line first up. He somehow manages to get his bat near his face, and manages to guide a shot awkwardly past first slip for four! Replay shows this was a back of a length delivery that zipped off the deck, generating extra bounce and surprising the batter.
+
+
+Balls faced: 6
+Bowler: Alzarri Joseph
+Over: 16
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b>the bouncer does the trick!</b> Joseph digs it in short, and Naveen tries to duck, but doesn't really. He tries to get his glove and bat in front of his face, and the ball kisses the glove before going towards Pooran. Pooran has to put in an acrobatic jump to ensure the grab is secure."}]<b>the bouncer does the trick!</b> Joseph digs it in short, and Naveen tries to duck, but doesn't really. He tries to get his glove and bat in front of his face, and the ball kisses the glove before going towards Pooran. Pooran has to put in an acrobatic jump to ensure the grab is secure.
+
+
+Balls faced: 7
+Bowler: Motie
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball around off and fended to see the over off. <B>Motie's figures: 4-0-28-2</b>"}]full ball around off and fended to see the over off. <B>Motie's figures: 4-0-28-2</b>
+
+
+Balls faced: 8
+Bowler: Motie
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full ball darting in and Naveen presses forward to defend. Inside edge onto his pad and that saves him from an lbw"}]full ball darting in and Naveen presses forward to defend. Inside edge onto his pad and that saves him from an lbw
+
+
+Balls faced: 9
+Bowler: Motie
+Over: 15
+Shot: DAB
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full on off. Ball stays low. Fended to the off side"}]full on off. Ball stays low. Fended to the off side
+
+
+Balls faced: 10
+Bowler: Motie
+Over: 15
+Shot: DAB
+Run scored: 0
+
+
+[{"type": "HTML", "html": "played to the off side"}]played to the off side
+
+
+Balls faced: 11
+Bowler: Motie
+Over: 15
+Shot: STEERED
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<B>bouncer?!</b> Naveen, <B>with no helmet</b>, gets a rude welcome in terms of a testing line first up. He somehow manages to get his bat near his face, and manages to guide a shot awkwardly past first slip for four! Replay shows this was a back of a length delivery that zipped off the deck, generating extra bounce and surprising the batter."}]<B>bouncer?!</b> Naveen, <B>with no helmet</b>, gets a rude welcome in terms of a testing line first up. He somehow manages to get his bat near his face, and manages to guide a shot awkwardly past first slip for four! Replay shows this was a back of a length delivery that zipped off the deck, generating extra bounce and surprising the batter.
+
+
+Balls faced: 12
+Bowler: Alzarri Joseph
+Over: 16
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b>the bouncer does the trick!</b> Joseph digs it in short, and Naveen tries to duck, but doesn't really. He tries to get his glove and bat in front of his face, and the ball kisses the glove before going towards Pooran. Pooran has to put in an acrobatic jump to ensure the grab is secure."}]<b>the bouncer does the trick!</b> Joseph digs it in short, and Naveen tries to duck, but doesn't really. He tries to get his glove and bat in front of his face, and the ball kisses the glove before going towards Pooran. Pooran has to put in an acrobatic jump to ensure the grab is secure.
+
+
+
+Match: all_games_1416063_1416084.json
+Balls faced: 1
+Bowler: White
+Over: 15
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Naveen"}]Naveen
+
+[{"type": "HTML", "html": "length ball just outside off, and whipped towards midwicket with a hint of turn back in"}]length ball just outside off, and whipped towards midwicket with a hint of turn back in
+
+
+Balls faced: 2
+Bowler: McCarthy
+Over: 16
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower ball, and short and wide of off. Again Naveen looked to hack, but was beaten"}]slower ball, and short and wide of off. Again Naveen looked to hack, but was beaten
+
+
+Balls faced: 3
+Bowler: McCarthy
+Over: 16
+Shot: CUT_SHOT
+Run scored: 1
+[{"type": "HTML", "html": "Mike: \"What an evening for White. Competing with Afghani spinners is no easy task\""}]Mike: "What an evening for White. Competing with Afghani spinners is no easy task"
+
+[{"type": "HTML", "html": "this time manages to slash it away on the bounce to deep point, as the ball is short and wide outside off"}]this time manages to slash it away on the bounce to deep point, as the ball is short and wide outside off
+
+
+Balls faced: 4
+Bowler: McCarthy
+Over: 16
+Shot: STEERED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "another short ball, and this one gets up rather nicely on a sixth-stump line. Naveen looked to guide that to deep third, but was beaten"}]another short ball, and this one gets up rather nicely on a sixth-stump line. Naveen looked to guide that to deep third, but was beaten
+
+
+Balls faced: 5
+Bowler: White
+Over: 15
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Naveen"}]Naveen
+
+[{"type": "HTML", "html": "length ball just outside off, and whipped towards midwicket with a hint of turn back in"}]length ball just outside off, and whipped towards midwicket with a hint of turn back in
+
+
+Balls faced: 6
+Bowler: Little
+Over: 17
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower ball, as he goes fullish and around sixth stump. Naveen went for a swing, but was beaten"}]slower ball, as he goes fullish and around sixth stump. Naveen went for a swing, but was beaten
+
+
+Balls faced: 7
+Bowler: Little
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "quite full and angling into off. Driven to deep point from deep in the crease, but they don't run"}]quite full and angling into off. Driven to deep point from deep in the crease, but they don't run
+
+
+Balls faced: 8
+Bowler: Little
+Over: 17
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short of a length angling into leg, and swat pulled down the ground towards long-on"}]short of a length angling into leg, and swat pulled down the ground towards long-on
+
+
+Balls faced: 9
+Bowler: McCarthy
+Over: 16
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower ball, and short and wide of off. Again Naveen looked to hack, but was beaten"}]slower ball, and short and wide of off. Again Naveen looked to hack, but was beaten
+
+
+Balls faced: 10
+Bowler: McCarthy
+Over: 16
+Shot: CUT_SHOT
+Run scored: 1
+[{"type": "HTML", "html": "Mike: \"What an evening for White. Competing with Afghani spinners is no easy task\""}]Mike: "What an evening for White. Competing with Afghani spinners is no easy task"
+
+[{"type": "HTML", "html": "this time manages to slash it away on the bounce to deep point, as the ball is short and wide outside off"}]this time manages to slash it away on the bounce to deep point, as the ball is short and wide outside off
+
+
+Balls faced: 11
+Bowler: McCarthy
+Over: 16
+Shot: STEERED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "another short ball, and this one gets up rather nicely on a sixth-stump line. Naveen looked to guide that to deep third, but was beaten"}]another short ball, and this one gets up rather nicely on a sixth-stump line. Naveen looked to guide that to deep third, but was beaten
+
+
+Balls faced: 12
+Bowler: Adair
+Over: 18
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full and swinging into middle and off. Driven hard to long-on"}]full and swinging into middle and off. Driven hard to long-on
+
+
+Balls faced: 13
+Bowler: Adair
+Over: 18
+Shot: STEERED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "yorker a bit wide of off, and dragged to point with a flat bat"}]yorker a bit wide of off, and dragged to point with a flat bat
+
+
+Balls faced: 14
+Bowler: Adair
+Over: 18
+Shot: No Shot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "he opens his stance up, and then reverse scoops but is beaten by this fullish delivery which is wide of off"}]he opens his stance up, and then reverse scoops but is beaten by this fullish delivery which is wide of off
+
+
+Balls faced: 15
+Bowler: Adair
+Over: 18
+Shot: PULL
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<strong>pumped into the roof!</strong> That travelled hard and flat over deep midwicket. Short delivery from Adair just outside off, and Naveen skipped down the pitch to expertly slam that back"}]<strong>pumped into the roof!</strong> That travelled hard and flat over deep midwicket. Short delivery from Adair just outside off, and Naveen skipped down the pitch to expertly slam that back
+
+
+Balls faced: 16
+Bowler: Little
+Over: 17
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slower ball, as he goes fullish and around sixth stump. Naveen went for a swing, but was beaten"}]slower ball, as he goes fullish and around sixth stump. Naveen went for a swing, but was beaten
+
+
+Balls faced: 17
+Bowler: Little
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "quite full and angling into off. Driven to deep point from deep in the crease, but they don't run"}]quite full and angling into off. Driven to deep point from deep in the crease, but they don't run
+
+
+Balls faced: 18
+Bowler: Little
+Over: 17
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short of a length angling into leg, and swat pulled down the ground towards long-on"}]short of a length angling into leg, and swat pulled down the ground towards long-on
+
+
+Balls faced: 19
+Bowler: McCarthy
+Over: 19
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "taken at deep backward point! Naveen looked to slice it stylishly with a full swing of the arms, but fell this time. The ball flew off the outside half of the bat, as it was bowled full and wide of off. Simple catch for the man on the boundary, who took it with a reverse cup. <strong>Ireland go 1-0 up in the series</strong>"}]taken at deep backward point! Naveen looked to slice it stylishly with a full swing of the arms, but fell this time. The ball flew off the outside half of the bat, as it was bowled full and wide of off. Simple catch for the man on the boundary, who took it with a reverse cup. <strong>Ireland go 1-0 up in the series</strong>
+[{"type": "HTML", "html": "That is it from us tonight, as Ireland take a 1-0 lead in the three-match series. Not many gave them a chance, with the likes of Rashid and Nabi in the opposition's bowling attack, but Tector's fifty led the way for them. It is goodnight and goodbye from Ranjith and me, Himanshu, as we see you again for the second T20I in two days' time. Take care!"}, {"type": "HTML", "html": "<strong>Paul Stirling</strong>, Ireland captain: \"Really happy. It was a fantastic team performance. Their bowling attack is pretty special... We have a big two months ahead. So we've got to put this behind. We have to perform at our best to win games. As a team, we performed brilliantly - and that is where we want to be.\""}, {"type": "HTML", "html": "<strong>Rashid Khan</strong>, Afghanistan captain, says the early wickets lost is where it went wrong for his side."}, {"type": "HTML", "html": "<strong>Ben White is the Player of the Match</strong> for his 4 for 20: \"Really nice to contribute. It's really nice to be back [after the back injury]. Had to respect the umpire's decision [regarding the no-ball]. Nice to take a few [wickets].\""}, {"type": "HTML", "html": "<strong>Time for the presentations</strong>"}, {"type": "HTML", "html": "<strong>11.35pm</strong> A come-from-behind win by Ireland. With the bat, they were 72 for 5 in the 12th over, but went on to post 149 in 20 overs. When defending, Afghanistan were 43 for 3 in the seventh over, and the game was in the balance. But Ben White took four wickets after that - he finished with 4 for 20 - as Afghanistan folded for 111, and Ireland won by 38 runs. Hang around for the presentations."}]That is it from us tonight, as Ireland take a 1-0 lead in the three-match series. Not many gave them a chance, with the likes of Rashid and Nabi in the opposition's bowling attack, but Tector's fifty led the way for them. It is goodnight and goodbye from Ranjith and me, Himanshu, as we see you again for the second T20I in two days' time. Take care! <strong>Paul Stirling</strong>, Ireland captain: "Really happy. It was a fantastic team performance. Their bowling attack is pretty special... We have a big two months ahead. So we've got to put this behind. We have to perform at our best to win games. As a team, we performed brilliantly - and that is where we want to be." <strong>Rashid Khan</strong>, Afghanistan captain, says the early wickets lost is where it went wrong for his side. <strong>Ben White is the Player of the Match</strong> for his 4 for 20: "Really nice to contribute. It's really nice to be back [after the back injury]. Had to respect the umpire's decision [regarding the no-ball]. Nice to take a few [wickets]." <strong>Time for the presentations</strong> <strong>11.35pm</strong> A come-from-behind win by Ireland. With the bat, they were 72 for 5 in the 12th over, but went on to post 149 in 20 overs. When defending, Afghanistan were 43 for 3 in the seventh over, and the game was in the balance. But Ben White took four wickets after that - he finished with 4 for 20 - as Afghanistan folded for 111, and Ireland won by 38 runs. Hang around for the presentations.
+
+Balls faced: 20
+Bowler: McCarthy
+Over: 19
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "goes for a short ball on a slightly wide line outside off, and it is left alone by Naveen"}]goes for a short ball on a slightly wide line outside off, and it is left alone by Naveen
+
+
+Balls faced: 21
+Bowler: McCarthy
+Over: 19
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full and straight, and driven down to long-on. They don't run again"}]full and straight, and driven down to long-on. They don't run again
+
+
+Balls faced: 22
+Bowler: McCarthy
+Over: 19
+Shot: CUT_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>gone over short third!</strong> He goes deep in the crease, and a bit across while almost losing his balance, as he slices this full ball a bit wide of off"}]<strong>gone over short third!</strong> He goes deep in the crease, and a bit across while almost losing his balance, as he slices this full ball a bit wide of off
+
+
+Balls faced: 23
+Bowler: Adair
+Over: 18
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full and swinging into middle and off. Driven hard to long-on"}]full and swinging into middle and off. Driven hard to long-on
+
+
+Balls faced: 24
+Bowler: Adair
+Over: 18
+Shot: STEERED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "yorker a bit wide of off, and dragged to point with a flat bat"}]yorker a bit wide of off, and dragged to point with a flat bat
+
+
+Balls faced: 25
+Bowler: Adair
+Over: 18
+Shot: No Shot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "he opens his stance up, and then reverse scoops but is beaten by this fullish delivery which is wide of off"}]he opens his stance up, and then reverse scoops but is beaten by this fullish delivery which is wide of off
+
+
+Balls faced: 26
+Bowler: Adair
+Over: 18
+Shot: PULL
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<strong>pumped into the roof!</strong> That travelled hard and flat over deep midwicket. Short delivery from Adair just outside off, and Naveen skipped down the pitch to expertly slam that back"}]<strong>pumped into the roof!</strong> That travelled hard and flat over deep midwicket. Short delivery from Adair just outside off, and Naveen skipped down the pitch to expertly slam that back
+
+
+Balls faced: 27
+Bowler: McCarthy
+Over: 19
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "taken at deep backward point! Naveen looked to slice it stylishly with a full swing of the arms, but fell this time. The ball flew off the outside half of the bat, as it was bowled full and wide of off. Simple catch for the man on the boundary, who took it with a reverse cup. <strong>Ireland go 1-0 up in the series</strong>"}]taken at deep backward point! Naveen looked to slice it stylishly with a full swing of the arms, but fell this time. The ball flew off the outside half of the bat, as it was bowled full and wide of off. Simple catch for the man on the boundary, who took it with a reverse cup. <strong>Ireland go 1-0 up in the series</strong>
+[{"type": "HTML", "html": "That is it from us tonight, as Ireland take a 1-0 lead in the three-match series. Not many gave them a chance, with the likes of Rashid and Nabi in the opposition's bowling attack, but Tector's fifty led the way for them. It is goodnight and goodbye from Ranjith and me, Himanshu, as we see you again for the second T20I in two days' time. Take care!"}, {"type": "HTML", "html": "<strong>Paul Stirling</strong>, Ireland captain: \"Really happy. It was a fantastic team performance. Their bowling attack is pretty special... We have a big two months ahead. So we've got to put this behind. We have to perform at our best to win games. As a team, we performed brilliantly - and that is where we want to be.\""}, {"type": "HTML", "html": "<strong>Rashid Khan</strong>, Afghanistan captain, says the early wickets lost is where it went wrong for his side."}, {"type": "HTML", "html": "<strong>Ben White is the Player of the Match</strong> for his 4 for 20: \"Really nice to contribute. It's really nice to be back [after the back injury]. Had to respect the umpire's decision [regarding the no-ball]. Nice to take a few [wickets].\""}, {"type": "HTML", "html": "<strong>Time for the presentations</strong>"}, {"type": "HTML", "html": "<strong>11.35pm</strong> A come-from-behind win by Ireland. With the bat, they were 72 for 5 in the 12th over, but went on to post 149 in 20 overs. When defending, Afghanistan were 43 for 3 in the seventh over, and the game was in the balance. But Ben White took four wickets after that - he finished with 4 for 20 - as Afghanistan folded for 111, and Ireland won by 38 runs. Hang around for the presentations."}]That is it from us tonight, as Ireland take a 1-0 lead in the three-match series. Not many gave them a chance, with the likes of Rashid and Nabi in the opposition's bowling attack, but Tector's fifty led the way for them. It is goodnight and goodbye from Ranjith and me, Himanshu, as we see you again for the second T20I in two days' time. Take care! <strong>Paul Stirling</strong>, Ireland captain: "Really happy. It was a fantastic team performance. Their bowling attack is pretty special... We have a big two months ahead. So we've got to put this behind. We have to perform at our best to win games. As a team, we performed brilliantly - and that is where we want to be." <strong>Rashid Khan</strong>, Afghanistan captain, says the early wickets lost is where it went wrong for his side. <strong>Ben White is the Player of the Match</strong> for his 4 for 20: "Really nice to contribute. It's really nice to be back [after the back injury]. Had to respect the umpire's decision [regarding the no-ball]. Nice to take a few [wickets]." <strong>Time for the presentations</strong> <strong>11.35pm</strong> A come-from-behind win by Ireland. With the bat, they were 72 for 5 in the 12th over, but went on to post 149 in 20 overs. When defending, Afghanistan were 43 for 3 in the seventh over, and the game was in the balance. But Ben White took four wickets after that - he finished with 4 for 20 - as Afghanistan folded for 111, and Ireland won by 38 runs. Hang around for the presentations.
+
+Balls faced: 28
+Bowler: McCarthy
+Over: 19
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "goes for a short ball on a slightly wide line outside off, and it is left alone by Naveen"}]goes for a short ball on a slightly wide line outside off, and it is left alone by Naveen
+
+
+Balls faced: 29
+Bowler: McCarthy
+Over: 19
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full and straight, and driven down to long-on. They don't run again"}]full and straight, and driven down to long-on. They don't run again
+
+
+Balls faced: 30
+Bowler: McCarthy
+Over: 19
+Shot: CUT_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>gone over short third!</strong> He goes deep in the crease, and a bit across while almost losing his balance, as he slices this full ball a bit wide of off"}]<strong>gone over short third!</strong> He goes deep in the crease, and a bit across while almost losing his balance, as he slices this full ball a bit wide of off
+
+
+
+Match: all_games_1416063_1416085.json
+Balls faced: 1
+Bowler: McCarthy
+Over: 20
+Shot: COVER_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Naveen"}]Naveen
+
+[{"type": "HTML", "html": "finds deep backward point! <b>McCarthy on a hat-trick</b>. Naveen's face turns pale, as Dockrell takes it right on the edge of the rope. It was on a length from McCarthy, and around sixth stump, as Naveen tried to crush it away"}]finds deep backward point! <b>McCarthy on a hat-trick</b>. Naveen's face turns pale, as Dockrell takes it right on the edge of the rope. It was on a length from McCarthy, and around sixth stump, as Naveen tried to crush it away
+
+
+Balls faced: 2
+Bowler: McCarthy
+Over: 20
+Shot: COVER_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Naveen"}]Naveen
+
+[{"type": "HTML", "html": "finds deep backward point! <b>McCarthy on a hat-trick</b>. Naveen's face turns pale, as Dockrell takes it right on the edge of the rope. It was on a length from McCarthy, and around sixth stump, as Naveen tried to crush it away"}]finds deep backward point! <b>McCarthy on a hat-trick</b>. Naveen's face turns pale, as Dockrell takes it right on the edge of the rope. It was on a length from McCarthy, and around sixth stump, as Naveen tried to crush it away
+
+
+
+Match: all_games_1416068_1416077.json
+Balls faced: 1
+Bowler: Pathirana
+Over: 19
+Shot: STEERED
+Run scored: 0
+[{"type": "HTML", "html": "Achaambidiya : \"18.3 Too Good for Noor \""}]Achaambidiya : "18.3 Too Good for Noor "
+
+[{"type": "HTML", "html": "<strong>Oh Pathirana, you beauty! Knocks him over!</strong> That's fired in full and fast on middle and off. Naveen had backed away and tries to get his bat down, but the yorker is on the money again! What a stunning display of fast bowling today from Pathirana!"}]<strong>Oh Pathirana, you beauty! Knocks him over!</strong> That's fired in full and fast on middle and off. Naveen had backed away and tries to get his bat down, but the yorker is on the money again! What a stunning display of fast bowling today from Pathirana!
+
+
+Balls faced: 2
+Bowler: Pathirana
+Over: 19
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Naveen now"}]Naveen now
+
+[{"type": "HTML", "html": "Slower ball on a length on off, Naveen clips it out to deep square"}]Slower ball on a length on off, Naveen clips it out to deep square
+
+
+Balls faced: 3
+Bowler: Pathirana
+Over: 19
+Shot: STEERED
+Run scored: 0
+[{"type": "HTML", "html": "Achaambidiya : \"18.3 Too Good for Noor \""}]Achaambidiya : "18.3 Too Good for Noor "
+
+[{"type": "HTML", "html": "<strong>Oh Pathirana, you beauty! Knocks him over!</strong> That's fired in full and fast on middle and off. Naveen had backed away and tries to get his bat down, but the yorker is on the money again! What a stunning display of fast bowling today from Pathirana!"}]<strong>Oh Pathirana, you beauty! Knocks him over!</strong> That's fired in full and fast on middle and off. Naveen had backed away and tries to get his bat down, but the yorker is on the money again! What a stunning display of fast bowling today from Pathirana!
+
+
+Balls faced: 4
+Bowler: Pathirana
+Over: 19
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Naveen now"}]Naveen now
+
+[{"type": "HTML", "html": "Slower ball on a length on off, Naveen clips it out to deep square"}]Slower ball on a length on off, Naveen clips it out to deep square
+
+
+
+Match: all_games_1416068_1416078.json
+Balls faced: 1
+Bowler: Hasaranga
+Over: 14
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly looped up full outside off. Naveen stretches well forward and prods at it. Keeps it out via a combination of inside edge and pad"}]googly looped up full outside off. Naveen stretches well forward and prods at it. Keeps it out via a combination of inside edge and pad
+
+
+Balls faced: 2
+Bowler: Hasaranga
+Over: 14
+Shot: LEG_GLANCE
+Run scored: 0
+[{"type": "HTML", "html": "Naveen strides out. Slip in place. Watch out for the googly"}]Naveen strides out. Slip in place. Watch out for the googly
+
+[{"type": "HTML", "html": "the googly comes but it is short, giving Naveen the time to read it off the pitch and work it towards square leg"}]the googly comes but it is short, giving Naveen the time to read it off the pitch and work it towards square leg
+
+
+Balls faced: 3
+Bowler: Theekshana
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "right up in the blockhole on off stump. Naveen jams his bat down in time and keeps it out"}]right up in the blockhole on off stump. Naveen jams his bat down in time and keeps it out
+
+
+Balls faced: 4
+Bowler: Theekshana
+Over: 15
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slants this down leg. Naveen does not get bat on it and the umpire has no qualms in calling it a wide"}]slants this down leg. Naveen does not get bat on it and the umpire has no qualms in calling it a wide
+
+Wide: 1
+Balls faced: 5
+Bowler: Theekshana
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length on off. Comes back in as Naveen prods it towards the bowler"}]back of a length on off. Comes back in as Naveen prods it towards the bowler
+
+
+Balls faced: 6
+Bowler: Theekshana
+Over: 15
+Shot: STEERED
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>that races away to the fence!</strong> Fired in on a length outside off. Naveen opts to stay back and opens his bat face at the last moment, steering it through the backward point region for four!"}]<strong>that races away to the fence!</strong> Fired in on a length outside off. Naveen opts to stay back and opens his bat face at the last moment, steering it through the backward point region for four!
+
+
+Balls faced: 7
+Bowler: Hasaranga
+Over: 14
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly looped up full outside off. Naveen stretches well forward and prods at it. Keeps it out via a combination of inside edge and pad"}]googly looped up full outside off. Naveen stretches well forward and prods at it. Keeps it out via a combination of inside edge and pad
+
+
+Balls faced: 8
+Bowler: Hasaranga
+Over: 14
+Shot: LEG_GLANCE
+Run scored: 0
+[{"type": "HTML", "html": "Naveen strides out. Slip in place. Watch out for the googly"}]Naveen strides out. Slip in place. Watch out for the googly
+
+[{"type": "HTML", "html": "the googly comes but it is short, giving Naveen the time to read it off the pitch and work it towards square leg"}]the googly comes but it is short, giving Naveen the time to read it off the pitch and work it towards square leg
+
+
+Balls faced: 9
+Bowler: Hasaranga
+Over: 16
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "wrong'un on a back of a length on off. Naveen plays it right off his stumps and dabs it towards short third man"}]wrong'un on a back of a length on off. Naveen plays it right off his stumps and dabs it towards short third man
+
+
+Balls faced: 10
+Bowler: Hasaranga
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tossed up on a length on middle and off. Naveen comes forward and blocks"}]tossed up on a length on middle and off. Naveen comes forward and blocks
+
+
+Balls faced: 11
+Bowler: Hasaranga
+Over: 16
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly on a length on leg stump. Naveen goes deep into his crease and pushes it to short mid wicket"}]googly on a length on leg stump. Naveen goes deep into his crease and pushes it to short mid wicket
+
+
+Balls faced: 12
+Bowler: Theekshana
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "right up in the blockhole on off stump. Naveen jams his bat down in time and keeps it out"}]right up in the blockhole on off stump. Naveen jams his bat down in time and keeps it out
+
+
+Balls faced: 13
+Bowler: Theekshana
+Over: 15
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slants this down leg. Naveen does not get bat on it and the umpire has no qualms in calling it a wide"}]slants this down leg. Naveen does not get bat on it and the umpire has no qualms in calling it a wide
+
+Wide: 1
+Balls faced: 14
+Bowler: Theekshana
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length on off. Comes back in as Naveen prods it towards the bowler"}]back of a length on off. Comes back in as Naveen prods it towards the bowler
+
+
+Balls faced: 15
+Bowler: Theekshana
+Over: 15
+Shot: STEERED
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>that races away to the fence!</strong> Fired in on a length outside off. Naveen opts to stay back and opens his bat face at the last moment, steering it through the backward point region for four!"}]<strong>that races away to the fence!</strong> Fired in on a length outside off. Naveen opts to stay back and opens his bat face at the last moment, steering it through the backward point region for four!
+
+
+Balls faced: 16
+Bowler: Pathirana
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>no need for a review this time!</strong> Searing yorker that tails into leg stump very late. Naveen, more in hope than anything else, dangles his bat, only to see the ball whistle past the inside edge. Hears the death rattle soon after, and Sri Lanka are one wicket away from a convincing win!"}]<strong>no need for a review this time!</strong> Searing yorker that tails into leg stump very late. Naveen, more in hope than anything else, dangles his bat, only to see the ball whistle past the inside edge. Hears the death rattle soon after, and Sri Lanka are one wicket away from a convincing win!
+
+
+Balls faced: 17
+Bowler: Hasaranga
+Over: 16
+Shot: CUT_SHOT
+Run scored: 1
+
+
+[{"type": "HTML", "html": "wrong'un on a back of a length on off. Naveen plays it right off his stumps and dabs it towards short third man"}]wrong'un on a back of a length on off. Naveen plays it right off his stumps and dabs it towards short third man
+
+
+Balls faced: 18
+Bowler: Hasaranga
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tossed up on a length on middle and off. Naveen comes forward and blocks"}]tossed up on a length on middle and off. Naveen comes forward and blocks
+
+
+Balls faced: 19
+Bowler: Hasaranga
+Over: 16
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly on a length on leg stump. Naveen goes deep into his crease and pushes it to short mid wicket"}]googly on a length on leg stump. Naveen goes deep into his crease and pushes it to short mid wicket
+
+
+Balls faced: 20
+Bowler: Pathirana
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>no need for a review this time!</strong> Searing yorker that tails into leg stump very late. Naveen, more in hope than anything else, dangles his bat, only to see the ball whistle past the inside edge. Hears the death rattle soon after, and Sri Lanka are one wicket away from a convincing win!"}]<strong>no need for a review this time!</strong> Searing yorker that tails into leg stump very late. Naveen, more in hope than anything else, dangles his bat, only to see the ball whistle past the inside edge. Hears the death rattle soon after, and Sri Lanka are one wicket away from a convincing win!

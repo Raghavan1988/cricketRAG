@@ -1,63 +1,282 @@
-Match: southafrica_1367856_1384433.json
+Match: all_games_1367856_1384433.json
 Balls faced: 1
 Bowler: Ngidi
-Over:47
+Over: 47
 Shot: STEERED
-run scored: 1
-slower ball, deceives Mujeeb, gets an edge down to deep third
+Run scored: 1
+
+
+[{"type": "HTML", "html": "slower ball, deceives Mujeeb, gets an edge down to deep third"}]slower ball, deceives Mujeeb, gets an edge down to deep third
+
+
 Balls faced: 2
 Bowler: Ngidi
-Over:47
+Over: 47
 Shot: PULL
-run scored: 6
-Mujeeb makes room and swats this short ball away! Well, not exactly, because it is top edged, but Mujeeb will take these from No. 10! First ball six!
+Run scored: 6
+
+
+[{"type": "HTML", "html": "Mujeeb makes room and swats this short ball away! Well, not exactly, because it is top edged, but Mujeeb will take these from No. 10! First ball six!"}]Mujeeb makes room and swats this short ball away! Well, not exactly, because it is top edged, but Mujeeb will take these from No. 10! First ball six!
+
+
 Balls faced: 3
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: PULL
-run scored: 0
-OUT! {"short": "caught", "long": "c Markram b Coetzee", "commentary": "Mujeeb Ur Rahman c Markram b Coetzee 8 (5b 0x4 1x6 7m) SR: 160"}
-short ball gets big on Mujeeb as he attempts the pull. Hurried on as well, and all he can do is slice a catch to mid on
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball gets big on Mujeeb as he attempts the pull. Hurried on as well, and all he can do is slice a catch to mid on"}]short ball gets big on Mujeeb as he attempts the pull. Hurried on as well, and all he can do is slice a catch to mid on
+
+
 Balls faced: 4
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: CUT_SHOT
-run scored: 1
-full ball bunted away to the point fielder on the boundary line
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball bunted away to the point fielder on the boundary line"}]full ball bunted away to the point fielder on the boundary line
+
+
 Balls faced: 5
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: CUT_SHOT
-run scored: 0
-Mujeeb backs away too much. Can't reach and play after Coetzee goes full and slightly wide
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Mujeeb backs away too much. Can't reach and play after Coetzee goes full and slightly wide"}]Mujeeb backs away too much. Can't reach and play after Coetzee goes full and slightly wide
+
+
 Balls faced: 6
 Bowler: Ngidi
-Over:47
+Over: 47
 Shot: STEERED
-run scored: 1
-slower ball, deceives Mujeeb, gets an edge down to deep third
+Run scored: 1
+
+
+[{"type": "HTML", "html": "slower ball, deceives Mujeeb, gets an edge down to deep third"}]slower ball, deceives Mujeeb, gets an edge down to deep third
+
+
 Balls faced: 7
 Bowler: Ngidi
-Over:47
+Over: 47
 Shot: PULL
-run scored: 6
-Mujeeb makes room and swats this short ball away! Well, not exactly, because it is top edged, but Mujeeb will take these from No. 10! First ball six!
+Run scored: 6
+
+
+[{"type": "HTML", "html": "Mujeeb makes room and swats this short ball away! Well, not exactly, because it is top edged, but Mujeeb will take these from No. 10! First ball six!"}]Mujeeb makes room and swats this short ball away! Well, not exactly, because it is top edged, but Mujeeb will take these from No. 10! First ball six!
+
+
 Balls faced: 8
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: PULL
-run scored: 0
-OUT! {"short": "caught", "long": "c Markram b Coetzee", "commentary": "Mujeeb Ur Rahman c Markram b Coetzee 8 (5b 0x4 1x6 7m) SR: 160"}
-short ball gets big on Mujeeb as he attempts the pull. Hurried on as well, and all he can do is slice a catch to mid on
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short ball gets big on Mujeeb as he attempts the pull. Hurried on as well, and all he can do is slice a catch to mid on"}]short ball gets big on Mujeeb as he attempts the pull. Hurried on as well, and all he can do is slice a catch to mid on
+
+
 Balls faced: 9
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: CUT_SHOT
-run scored: 1
-full ball bunted away to the point fielder on the boundary line
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball bunted away to the point fielder on the boundary line"}]full ball bunted away to the point fielder on the boundary line
+
+
 Balls faced: 10
 Bowler: Coetzee
-Over:48
+Over: 48
 Shot: CUT_SHOT
-run scored: 0
-Mujeeb backs away too much. Can't reach and play after Coetzee goes full and slightly wide
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Mujeeb backs away too much. Can't reach and play after Coetzee goes full and slightly wide"}]Mujeeb backs away too much. Can't reach and play after Coetzee goes full and slightly wide
+
+
+
+Match: all_games_1389384_1389397.json
+Balls faced: 1
+Bowler: Arshdeep Singh
+Over: 18
+Shot: FLICK
+Run scored: 4
+
+
+[{"type": "HTML", "html": "full around off. Mujeeb throws his bat at it and gets outside edge that flies to the left of short third for four"}]full around off. Mujeeb throws his bat at it and gets outside edge that flies to the left of short third for four
+
+
+Balls faced: 2
+Bowler: Arshdeep Singh
+Over: 18
+Shot: CUT_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "Deep: \"The key differentiator is what does the team need? Jadeja has been (and still is) arguably the most complete fielder for India, if not world cricket. But Axar's batting is better, his T20I S/R (144) is way ahead of Jaddu(125). Bowling is pretty equal.\""}]Deep: "The key differentiator is what does the team need? Jadeja has been (and still is) arguably the most complete fielder for India, if not world cricket. But Axar's batting is better, his T20I S/R (144) is way ahead of Jaddu(125). Bowling is pretty equal."
+
+[{"type": "HTML", "html": "length outside off. Steered towards backward point. Looked like an offcutter"}]length outside off. Steered towards backward point. Looked like an offcutter
+
+
+Balls faced: 3
+Bowler: Arshdeep Singh
+Over: 18
+Shot: PULL
+Run scored: 6
+
+
+[{"type": "HTML", "html": "too predictable? Another short ball. Mujeeb backs away a bit and pulls it in front of square leg for six"}]too predictable? Another short ball. Mujeeb backs away a bit and pulls it in front of square leg for six
+
+
+Balls faced: 4
+Bowler: Arshdeep Singh
+Over: 18
+Shot: PULL
+Run scored: 0
+[{"type": "HTML", "html": "Mujeeb standing outside his crease"}]Mujeeb standing outside his crease
+
+[{"type": "HTML", "html": "another short ball. Mujeeb goes for the pull and misses"}]another short ball. Mujeeb goes for the pull and misses
+
+
+Balls faced: 5
+Bowler: Arshdeep Singh
+Over: 18
+Shot: LEFT_ALONE
+Run scored: 0
+[{"type": "HTML", "html": "Mujeeb"}]Mujeeb
+
+[{"type": "HTML", "html": "a short ball angling across. Mujeeb arches back and lets it go"}]a short ball angling across. Mujeeb arches back and lets it go
+
+
+Balls faced: 6
+Bowler: Dube
+Over: 19
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+[{"type": "HTML", "html": "and now he bowls one in the slot. Mujeeb swings across and sends it into the stands over deep midwicket - 82 metres"}]and now he bowls one in the slot. Mujeeb swings across and sends it into the stands over deep midwicket - 82 metres
+
+
+Balls faced: 7
+Bowler: Dube
+Over: 19
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a really slow ball that took eternity to reach the batter. Was back of the hand. Mujeeb went for the pull and missed"}]a really slow ball that took eternity to reach the batter. Was back of the hand. Mujeeb went for the pull and missed
+
+
+Balls faced: 8
+Bowler: Arshdeep Singh
+Over: 18
+Shot: FLICK
+Run scored: 4
+
+
+[{"type": "HTML", "html": "full around off. Mujeeb throws his bat at it and gets outside edge that flies to the left of short third for four"}]full around off. Mujeeb throws his bat at it and gets outside edge that flies to the left of short third for four
+
+
+Balls faced: 9
+Bowler: Arshdeep Singh
+Over: 18
+Shot: CUT_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "Deep: \"The key differentiator is what does the team need? Jadeja has been (and still is) arguably the most complete fielder for India, if not world cricket. But Axar's batting is better, his T20I S/R (144) is way ahead of Jaddu(125). Bowling is pretty equal.\""}]Deep: "The key differentiator is what does the team need? Jadeja has been (and still is) arguably the most complete fielder for India, if not world cricket. But Axar's batting is better, his T20I S/R (144) is way ahead of Jaddu(125). Bowling is pretty equal."
+
+[{"type": "HTML", "html": "length outside off. Steered towards backward point. Looked like an offcutter"}]length outside off. Steered towards backward point. Looked like an offcutter
+
+
+Balls faced: 10
+Bowler: Arshdeep Singh
+Over: 18
+Shot: PULL
+Run scored: 6
+
+
+[{"type": "HTML", "html": "too predictable? Another short ball. Mujeeb backs away a bit and pulls it in front of square leg for six"}]too predictable? Another short ball. Mujeeb backs away a bit and pulls it in front of square leg for six
+
+
+Balls faced: 11
+Bowler: Arshdeep Singh
+Over: 18
+Shot: PULL
+Run scored: 0
+[{"type": "HTML", "html": "Mujeeb standing outside his crease"}]Mujeeb standing outside his crease
+
+[{"type": "HTML", "html": "another short ball. Mujeeb goes for the pull and misses"}]another short ball. Mujeeb goes for the pull and misses
+
+
+Balls faced: 12
+Bowler: Arshdeep Singh
+Over: 18
+Shot: LEFT_ALONE
+Run scored: 0
+[{"type": "HTML", "html": "Mujeeb"}]Mujeeb
+
+[{"type": "HTML", "html": "a short ball angling across. Mujeeb arches back and lets it go"}]a short ball angling across. Mujeeb arches back and lets it go
+
+
+Balls faced: 13
+Bowler: Arshdeep Singh
+Over: 20
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "122.1kph. A slower bouncer. Mujeeb goes for the pull but the ball hits toe end and dribbles towards long-on"}]122.1kph. A slower bouncer. Mujeeb goes for the pull but the ball hits toe end and dribbles towards long-on
+
+
+Balls faced: 14
+Bowler: Arshdeep Singh
+Over: 20
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "a full toss around off and Mujeeb gets it between extra cover and mid-off. These are crucial runs. He moves to 20 off just eight"}]a full toss around off and Mujeeb gets it between extra cover and mid-off. These are crucial runs. He moves to 20 off just eight
+[{"type": "HTML", "html": "Naga: \"Where is Rashid Khan??\" --- Recovering from back surgery"}]Naga: "Where is Rashid Khan??" --- Recovering from back surgery
+
+Balls faced: 15
+Bowler: Dube
+Over: 19
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+[{"type": "HTML", "html": "and now he bowls one in the slot. Mujeeb swings across and sends it into the stands over deep midwicket - 82 metres"}]and now he bowls one in the slot. Mujeeb swings across and sends it into the stands over deep midwicket - 82 metres
+
+
+Balls faced: 16
+Bowler: Dube
+Over: 19
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a really slow ball that took eternity to reach the batter. Was back of the hand. Mujeeb went for the pull and missed"}]a really slow ball that took eternity to reach the batter. Was back of the hand. Mujeeb went for the pull and missed
+
+
+Balls faced: 17
+Bowler: Arshdeep Singh
+Over: 20
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "122.1kph. A slower bouncer. Mujeeb goes for the pull but the ball hits toe end and dribbles towards long-on"}]122.1kph. A slower bouncer. Mujeeb goes for the pull but the ball hits toe end and dribbles towards long-on
+
+
+Balls faced: 18
+Bowler: Arshdeep Singh
+Over: 20
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "a full toss around off and Mujeeb gets it between extra cover and mid-off. These are crucial runs. He moves to 20 off just eight"}]a full toss around off and Mujeeb gets it between extra cover and mid-off. These are crucial runs. He moves to 20 off just eight
+[{"type": "HTML", "html": "Naga: \"Where is Rashid Khan??\" --- Recovering from back surgery"}]Naga: "Where is Rashid Khan??" --- Recovering from back surgery
