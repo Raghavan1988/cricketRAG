@@ -38,7 +38,7 @@ default_prompt = f""" I am a cricket analyst for the Indian National cricket tea
 
 # Text box for custom prompt
 
-prompt = st.text_area("Enter your Custom Prompt (if you want to override)", value=default_prompt,height=100)
+prompt = st.text_area("Enter your Custom Prompt (if you want to override)", value=default_prompt,height=250)
 
 
 # Text box for OpenAI API key
