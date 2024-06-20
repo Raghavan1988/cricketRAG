@@ -14,7 +14,11 @@ def read_file(file_path):
         return file.read()
 
 # Streamlit app
-st.title("Player Analysis with GPT-4")
+st.title("Batsman Analysis with GPT-4o")
+st.markdown("Scraped cricinfo to develop a dataset based on ball by ball commentary of cricinfo of each batsman's last several matches")
+st.markdown("API Link example: https://hs-consumer-api.espncricinfo.com/v1/pages/match/comments?seriesId=1411166&matchId=1415725&inningNumber=2&commentType=ALL&fromInningOver=1")
+st.markdown("GPT does not have information on the latest form of individual players, this might help")
+st.markdown(f"<font color=red> Hallucinations happen as this is based on LLMs</font>", unsafe_allow_html=True)
 
 # Directory containing player files
 player_directory = 'players'  # Make sure this directory exists and contains .txt files
@@ -26,7 +30,7 @@ player_files = get_player_files(player_directory)
 selected_file = st.sidebar.selectbox("Select a player file", player_files)
 
 # Text box for custom prompt
-prompt = st.text_area("Enter your custom prompt")
+prompt = st.text_area("Enter your Custom Prompt (leave it empty if you want to get default strategy)")
 
 # Text box for OpenAI API key
 api_key = st.text_input("Enter your OpenAI API key", type="password")
