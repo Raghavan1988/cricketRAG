@@ -49,7 +49,7 @@ def analyze_player(text):
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=[
-            {"role": "system", "content": "You are an efficient Cricket Coach, Strategist and Analyst. You are supposed to develop a detailed ball by ball strategy and field placement understanding a batsman's stength, weakness. Always provide evidence."},
+            {"role": "system", "content": "You are an efficient Cricket Coach, Strategist and Analyst. You are supposed to develop a detailed ball by ball strategy and field placement understanding a batsman's stength, weakness. Always provide evidence and FOLLOW RULES OF CRICKET. For example, multiple bowlers cannot bowl the same over ."},
             {"role": "user", "content": text}
         ])
     return response.choices[0].message.content
