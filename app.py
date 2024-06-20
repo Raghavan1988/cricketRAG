@@ -34,6 +34,7 @@ default_prompt = f""" I am a cricket analyst for the Indian National cricket tea
 1. Devise a ball-by-ball strategy that the Indian team can execute to get the batsman {BATSMAN_NAME} out in a T20 game
 2. Provide details on bowler names and field placements
 3. Provide evidence for why this strategy will work
+4. Choose a few from the bowlers Jasprit Bumrah, Siraj , Yuzvendra Chahal, Arshdeep Singh, Hardik Pandya, Kuldeep Yadav and Axar Patel
 """
 
 # Text box for custom prompt
