@@ -2,261 +2,287 @@ Match: all_games_1373558_1373580.json
 Balls faced: 1
 Bowler: Hosein
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "over the wicket, 93kph on a length and clipped through midwicket"}]over the wicket, 93kph on a length and clipped through midwicket
+over the wicket, 93kph on a length and clipped through midwicket
 
 
 Balls faced: 2
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged in, short and wide outside off. Moeen swishes at it ineffectively"}]banged in, short and wide outside off. Moeen swishes at it ineffectively
+banged in, short and wide outside off. Moeen swishes at it ineffectively
 
 
 Balls faced: 3
 Bowler: Hosein
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "over the wicket, 93kph on a length and clipped through midwicket"}]over the wicket, 93kph on a length and clipped through midwicket
+over the wicket, 93kph on a length and clipped through midwicket
 
 
 Balls faced: 4
 Bowler: Russell
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nails his yorker, 133kph/82mph on middle and leg, Moeen forced to dig it out"}]nails his yorker, 133kph/82mph on middle and leg, Moeen forced to dig it out
+nails his yorker, 133kph/82mph on middle and leg, Moeen forced to dig it out
 
 
 Balls faced: 5
 Bowler: Russell
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball on off stump, jabbed into the covers"}]slower ball on off stump, jabbed into the covers
-[{"type": "HTML", "html": "\"The 4 bowlers WI left for the last 4 overs combined econ, Eng will get 53 in those 4 overs,\" declares Jave"}]"The 4 bowlers WI left for the last 4 overs combined econ, Eng will get 53 in those 4 overs," declares Jave
+slower ball on off stump, jabbed into the covers
+"The 4 bowlers WI left for the last 4 overs combined econ, Eng will get 53 in those 4 overs," declares Jave
 
 Balls faced: 6
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged in, short and wide outside off. Moeen swishes at it ineffectively"}]banged in, short and wide outside off. Moeen swishes at it ineffectively
+banged in, short and wide outside off. Moeen swishes at it ineffectively
 
 
 Balls faced: 7
 Bowler: Alzarri Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "swatted for one into the off side"}]swatted for one into the off side
+swatted for one into the off side
 
 
 Balls faced: 8
 Bowler: Alzarri Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>thumped over deep cover!</b> Moeen is alive and kicking here! Goes across his stumps to counter the line and fair smacks it for six"}]<b>thumped over deep cover!</b> Moeen is alive and kicking here! Goes across his stumps to counter the line and fair smacks it for six
+<b>thumped over deep cover!</b> Moeen is alive and kicking here! Goes across his stumps to counter the line and fair smacks it for six
 
 
 Balls faced: 9
 Bowler: Alzarri Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>smoked!</b> Length ball wide of off and Moeen connects. Lusty swing and it disappears out to the extra cover boundary"}]<b>smoked!</b> Length ball wide of off and Moeen connects. Lusty swing and it disappears out to the extra cover boundary
+<b>smoked!</b> Length ball wide of off and Moeen connects. Lusty swing and it disappears out to the extra cover boundary
 
 
 Balls faced: 10
 Bowler: Russell
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nails his yorker, 133kph/82mph on middle and leg, Moeen forced to dig it out"}]nails his yorker, 133kph/82mph on middle and leg, Moeen forced to dig it out
+nails his yorker, 133kph/82mph on middle and leg, Moeen forced to dig it out
 
 
 Balls faced: 11
 Bowler: Russell
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball on off stump, jabbed into the covers"}]slower ball on off stump, jabbed into the covers
-[{"type": "HTML", "html": "\"The 4 bowlers WI left for the last 4 overs combined econ, Eng will get 53 in those 4 overs,\" declares Jave"}]"The 4 bowlers WI left for the last 4 overs combined econ, Eng will get 53 in those 4 overs," declares Jave
+slower ball on off stump, jabbed into the covers
+"The 4 bowlers WI left for the last 4 overs combined econ, Eng will get 53 in those 4 overs," declares Jave
 
 Balls faced: 12
 Bowler: Holder
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slips in the yorker and Moeen does well to dig it out straight back past Holder's boot, but only gets one down the ground"}]slips in the yorker and Moeen does well to dig it out straight back past Holder's boot, but only gets one down the ground
+slips in the yorker and Moeen does well to dig it out straight back past Holder's boot, but only gets one down the ground
 
 
 Balls faced: 13
 Bowler: Holder
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Holder to bowl the penultimate over and try to make Russell's job easier"}, {"type": "HTML", "html": "England clinging to coattails of this chase, still a 15% chance according to Forecaster"}]Holder to bowl the penultimate over and try to make Russell's job easier England clinging to coattails of this chase, still a 15% chance according to Forecaster
+Holder to bowl the penultimate over and try to make Russell's job easier England clinging to coattails of this chase, still a 15% chance according to Forecaster
 
-[{"type": "HTML", "html": "round the wicket, full-length cutter outside off, Moeen plinks it down to long-off on the bounce"}]round the wicket, full-length cutter outside off, Moeen plinks it down to long-off on the bounce
-[{"type": "HTML", "html": "\"Why don't England try being good at cricket instead of being bad like this?\" Good question, Tom. It's a mystery to me"}]"Why don't England try being good at cricket instead of being bad like this?" Good question, Tom. It's a mystery to me
+round the wicket, full-length cutter outside off, Moeen plinks it down to long-off on the bounce
+"Why don't England try being good at cricket instead of being bad like this?" Good question, Tom. It's a mystery to me
 
 Balls faced: 14
 Bowler: Alzarri Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "swatted for one into the off side"}]swatted for one into the off side
+swatted for one into the off side
 
 
 Balls faced: 15
 Bowler: Alzarri Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>thumped over deep cover!</b> Moeen is alive and kicking here! Goes across his stumps to counter the line and fair smacks it for six"}]<b>thumped over deep cover!</b> Moeen is alive and kicking here! Goes across his stumps to counter the line and fair smacks it for six
+<b>thumped over deep cover!</b> Moeen is alive and kicking here! Goes across his stumps to counter the line and fair smacks it for six
 
 
 Balls faced: 16
 Bowler: Alzarri Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>smoked!</b> Length ball wide of off and Moeen connects. Lusty swing and it disappears out to the extra cover boundary"}]<b>smoked!</b> Length ball wide of off and Moeen connects. Lusty swing and it disappears out to the extra cover boundary
+<b>smoked!</b> Length ball wide of off and Moeen connects. Lusty swing and it disappears out to the extra cover boundary
 
 
 Balls faced: 17
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, 134kph/83mph and he can't get under it, clubbed to long-on and they take the single this time"}]full on off, 134kph/83mph and he can't get under it, clubbed to long-on and they take the single this time
+full on off, 134kph/83mph and he can't get under it, clubbed to long-on and they take the single this time
 
 
 Balls faced: 18
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length outside off, swing and a miss! It was there to hit, and Moeen knows it. He leans on his bat in frustration"}]full length outside off, swing and a miss! It was there to hit, and Moeen knows it. He leans on his bat in frustration
-[{"type": "HTML", "html": "England need snookers from here"}]England need snookers from here
+full length outside off, swing and a miss! It was there to hit, and Moeen knows it. He leans on his bat in frustration
+England need snookers from here
 
 Balls faced: 19
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide and Moeen drives to deep extra cover along the ground. He turns down the single, knows he's got to win it off his own bat here"}]full and wide and Moeen drives to deep extra cover along the ground. He turns down the single, knows he's got to win it off his own bat here
+full and wide and Moeen drives to deep extra cover along the ground. He turns down the single, knows he's got to win it off his own bat here
 
 
 Balls faced: 20
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "Russell to finish things, 28 needed for an English miracle"}]Russell to finish things, 28 needed for an English miracle
+Russell to finish things, 28 needed for an English miracle
 
-[{"type": "HTML", "html": "<b>misses the yorker and gets pumped!</b> Perfect start to the over for Moeen. Right under his eyes and nonchalantly bashed over long-on"}]<b>misses the yorker and gets pumped!</b> Perfect start to the over for Moeen. Right under his eyes and nonchalantly bashed over long-on
+<b>misses the yorker and gets pumped!</b> Perfect start to the over for Moeen. Right under his eyes and nonchalantly bashed over long-on
 
 
 Balls faced: 21
 Bowler: Holder
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slips in the yorker and Moeen does well to dig it out straight back past Holder's boot, but only gets one down the ground"}]slips in the yorker and Moeen does well to dig it out straight back past Holder's boot, but only gets one down the ground
+slips in the yorker and Moeen does well to dig it out straight back past Holder's boot, but only gets one down the ground
 
 
 Balls faced: 22
 Bowler: Holder
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Holder to bowl the penultimate over and try to make Russell's job easier"}, {"type": "HTML", "html": "England clinging to coattails of this chase, still a 15% chance according to Forecaster"}]Holder to bowl the penultimate over and try to make Russell's job easier England clinging to coattails of this chase, still a 15% chance according to Forecaster
+Holder to bowl the penultimate over and try to make Russell's job easier England clinging to coattails of this chase, still a 15% chance according to Forecaster
 
-[{"type": "HTML", "html": "round the wicket, full-length cutter outside off, Moeen plinks it down to long-off on the bounce"}]round the wicket, full-length cutter outside off, Moeen plinks it down to long-off on the bounce
-[{"type": "HTML", "html": "\"Why don't England try being good at cricket instead of being bad like this?\" Good question, Tom. It's a mystery to me"}]"Why don't England try being good at cricket instead of being bad like this?" Good question, Tom. It's a mystery to me
+round the wicket, full-length cutter outside off, Moeen plinks it down to long-off on the bounce
+"Why don't England try being good at cricket instead of being bad like this?" Good question, Tom. It's a mystery to me
 
 Balls faced: 23
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, 134kph/83mph and he can't get under it, clubbed to long-on and they take the single this time"}]full on off, 134kph/83mph and he can't get under it, clubbed to long-on and they take the single this time
+full on off, 134kph/83mph and he can't get under it, clubbed to long-on and they take the single this time
 
 
 Balls faced: 24
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length outside off, swing and a miss! It was there to hit, and Moeen knows it. He leans on his bat in frustration"}]full length outside off, swing and a miss! It was there to hit, and Moeen knows it. He leans on his bat in frustration
-[{"type": "HTML", "html": "England need snookers from here"}]England need snookers from here
+full length outside off, swing and a miss! It was there to hit, and Moeen knows it. He leans on his bat in frustration
+England need snookers from here
 
 Balls faced: 25
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide and Moeen drives to deep extra cover along the ground. He turns down the single, knows he's got to win it off his own bat here"}]full and wide and Moeen drives to deep extra cover along the ground. He turns down the single, knows he's got to win it off his own bat here
+full and wide and Moeen drives to deep extra cover along the ground. He turns down the single, knows he's got to win it off his own bat here
 
 
 Balls faced: 26
 Bowler: Russell
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "Russell to finish things, 28 needed for an English miracle"}]Russell to finish things, 28 needed for an English miracle
+Russell to finish things, 28 needed for an English miracle
 
-[{"type": "HTML", "html": "<b>misses the yorker and gets pumped!</b> Perfect start to the over for Moeen. Right under his eyes and nonchalantly bashed over long-on"}]<b>misses the yorker and gets pumped!</b> Perfect start to the over for Moeen. Right under his eyes and nonchalantly bashed over long-on
+<b>misses the yorker and gets pumped!</b> Perfect start to the over for Moeen. Right under his eyes and nonchalantly bashed over long-on
 
 
 
@@ -264,421 +290,467 @@ Match: all_games_1373558_1373583.json
 Balls faced: 1
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "over the wicket and clipped down to long-on"}]over the wicket and clipped down to long-on
+over the wicket and clipped down to long-on
 
 
 Balls faced: 2
 Bowler: Motie
 Over: 9
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "England's effort won't be troubling the records books today, you'd imagine. Moeen Ali strides out at No. 6"}]England's effort won't be troubling the records books today, you'd imagine. Moeen Ali strides out at No. 6
+England's effort won't be troubling the records books today, you'd imagine. Moeen Ali strides out at No. 6
 
-[{"type": "HTML", "html": "length ball worked into the gap at midwicket"}]length ball worked into the gap at midwicket
+length ball worked into the gap at midwicket
 
 
 Balls faced: 3
 Bowler: Holder
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length and driven straight to mid-off"}]full length and driven straight to mid-off
-[{"type": "HTML", "html": "That brings us to <b>drinks</b>, all relatively civilised so far. Here's Miller again to break the china"}]That brings us to <b>drinks</b>, all relatively civilised so far. Here's Miller again to break the china
+full length and driven straight to mid-off
+That brings us to <b>drinks</b>, all relatively civilised so far. Here's Miller again to break the china
 
 Balls faced: 4
 Bowler: Holder
 Over: 10
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "\"Boom - The sound of England imploding again,\" parps RobP"}]"Boom - The sound of England imploding again," parps RobP
+"Boom - The sound of England imploding again," parps RobP
 
-[{"type": "HTML", "html": "short with pace off, Moeen swings across the line... misses? There was a shout of \"catch it!\" but not the ball even carried, whether there was bat involved or not"}]short with pace off, Moeen swings across the line... misses? There was a shout of "catch it!" but not the ball even carried, whether there was bat involved or not
+short with pace off, Moeen swings across the line... misses? There was a shout of "catch it!" but not the ball even carried, whether there was bat involved or not
 
 
 Balls faced: 5
 Bowler: Holder
 Over: 10
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short ball, Moeen takes on the pull. Swatted out to the midwicket sweeper"}]short ball, Moeen takes on the pull. Swatted out to the midwicket sweeper
+short ball, Moeen takes on the pull. Swatted out to the midwicket sweeper
 
 
 Balls faced: 6
 Bowler: Holder
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "back of a length, clothed over the head of mid-off. Russell turns to give chase, prevents it running away to the boundary"}]back of a length, clothed over the head of mid-off. Russell turns to give chase, prevents it running away to the boundary
+back of a length, clothed over the head of mid-off. Russell turns to give chase, prevents it running away to the boundary
 
 
 Balls faced: 7
 Bowler: Holder
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Holder is back on"}, {"type": "HTML", "html": "Here's Rhys, quick to pounce while the getting is not so good: \"And now England's awful team selection is going to come home to roost. Salt had bailed them out in the last two games, but Livingstone, Ali, Curran are not good enough to bat any higher than 7 in this team.\""}]Holder is back on Here's Rhys, quick to pounce while the getting is not so good: "And now England's awful team selection is going to come home to roost. Salt had bailed them out in the last two games, but Livingstone, Ali, Curran are not good enough to bat any higher than 7 in this team."
+Holder is back on Here's Rhys, quick to pounce while the getting is not so good: "And now England's awful team selection is going to come home to roost. Salt had bailed them out in the last two games, but Livingstone, Ali, Curran are not good enough to bat any higher than 7 in this team."
 
-[{"type": "HTML", "html": "length ball wide of the stumps, 132kph/82mph and Moeen plinks a cut to cover"}]length ball wide of the stumps, 132kph/82mph and Moeen plinks a cut to cover
+length ball wide of the stumps, 132kph/82mph and Moeen plinks a cut to cover
 
 
 Balls faced: 8
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "over the wicket and clipped down to long-on"}]over the wicket and clipped down to long-on
+over the wicket and clipped down to long-on
 
 
 Balls faced: 9
 Bowler: Motie
 Over: 9
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "England's effort won't be troubling the records books today, you'd imagine. Moeen Ali strides out at No. 6"}]England's effort won't be troubling the records books today, you'd imagine. Moeen Ali strides out at No. 6
+England's effort won't be troubling the records books today, you'd imagine. Moeen Ali strides out at No. 6
 
-[{"type": "HTML", "html": "length ball worked into the gap at midwicket"}]length ball worked into the gap at midwicket
+length ball worked into the gap at midwicket
 
 
 Balls faced: 10
 Bowler: Hosein
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "outside off, wider line, cuffed to point but a miscommunication in the running. Another dot to tighten the tourniquet"}]outside off, wider line, cuffed to point but a miscommunication in the running. Another dot to tighten the tourniquet
-[{"type": "HTML", "html": "Ali: \"My two cents: English players look bored, uninterested, and possibly, lacking clarity (about roles, strategy, etc). Looking at Butler, Salt, and Brook wickets, one senses a preoccupied mindset. Dont know whats wrong here but this is at the surface of it. \" Not sure I buy that today. 2-2 after a stirring fightback, and one final push before Christmas? Boredom seems an odd diagnosis"}]Ali: "My two cents: English players look bored, uninterested, and possibly, lacking clarity (about roles, strategy, etc). Looking at Butler, Salt, and Brook wickets, one senses a preoccupied mindset. Dont know whats wrong here but this is at the surface of it. " Not sure I buy that today. 2-2 after a stirring fightback, and one final push before Christmas? Boredom seems an odd diagnosis
+outside off, wider line, cuffed to point but a miscommunication in the running. Another dot to tighten the tourniquet
+Ali: "My two cents: English players look bored, uninterested, and possibly, lacking clarity (about roles, strategy, etc). Looking at Butler, Salt, and Brook wickets, one senses a preoccupied mindset. Dont know whats wrong here but this is at the surface of it. " Not sure I buy that today. 2-2 after a stirring fightback, and one final push before Christmas? Boredom seems an odd diagnosis
 
 Balls faced: 11
 Bowler: Hosein
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the back foot, flicked with the turn to the on-side. A very different tempo kicking in now, compared to Tuesday's game"}]on the back foot, flicked with the turn to the on-side. A very different tempo kicking in now, compared to Tuesday's game
+on the back foot, flicked with the turn to the on-side. A very different tempo kicking in now, compared to Tuesday's game
 
 
 Balls faced: 12
 Bowler: Holder
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length and driven straight to mid-off"}]full length and driven straight to mid-off
-[{"type": "HTML", "html": "That brings us to <b>drinks</b>, all relatively civilised so far. Here's Miller again to break the china"}]That brings us to <b>drinks</b>, all relatively civilised so far. Here's Miller again to break the china
+full length and driven straight to mid-off
+That brings us to <b>drinks</b>, all relatively civilised so far. Here's Miller again to break the china
 
 Balls faced: 13
 Bowler: Holder
 Over: 10
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "\"Boom - The sound of England imploding again,\" parps RobP"}]"Boom - The sound of England imploding again," parps RobP
+"Boom - The sound of England imploding again," parps RobP
 
-[{"type": "HTML", "html": "short with pace off, Moeen swings across the line... misses? There was a shout of \"catch it!\" but not the ball even carried, whether there was bat involved or not"}]short with pace off, Moeen swings across the line... misses? There was a shout of "catch it!" but not the ball even carried, whether there was bat involved or not
+short with pace off, Moeen swings across the line... misses? There was a shout of "catch it!" but not the ball even carried, whether there was bat involved or not
 
 
 Balls faced: 14
 Bowler: Holder
 Over: 10
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short ball, Moeen takes on the pull. Swatted out to the midwicket sweeper"}]short ball, Moeen takes on the pull. Swatted out to the midwicket sweeper
+short ball, Moeen takes on the pull. Swatted out to the midwicket sweeper
 
 
 Balls faced: 15
 Bowler: Holder
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "back of a length, clothed over the head of mid-off. Russell turns to give chase, prevents it running away to the boundary"}]back of a length, clothed over the head of mid-off. Russell turns to give chase, prevents it running away to the boundary
+back of a length, clothed over the head of mid-off. Russell turns to give chase, prevents it running away to the boundary
 
 
 Balls faced: 16
 Bowler: Holder
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Holder is back on"}, {"type": "HTML", "html": "Here's Rhys, quick to pounce while the getting is not so good: \"And now England's awful team selection is going to come home to roost. Salt had bailed them out in the last two games, but Livingstone, Ali, Curran are not good enough to bat any higher than 7 in this team.\""}]Holder is back on Here's Rhys, quick to pounce while the getting is not so good: "And now England's awful team selection is going to come home to roost. Salt had bailed them out in the last two games, but Livingstone, Ali, Curran are not good enough to bat any higher than 7 in this team."
+Holder is back on Here's Rhys, quick to pounce while the getting is not so good: "And now England's awful team selection is going to come home to roost. Salt had bailed them out in the last two games, but Livingstone, Ali, Curran are not good enough to bat any higher than 7 in this team."
 
-[{"type": "HTML", "html": "length ball wide of the stumps, 132kph/82mph and Moeen plinks a cut to cover"}]length ball wide of the stumps, 132kph/82mph and Moeen plinks a cut to cover
+length ball wide of the stumps, 132kph/82mph and Moeen plinks a cut to cover
 
 
 Balls faced: 17
 Bowler: Thomas
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "moshed out to deep midwicket, a big top-edge on the pull but it plops well short of the boundary-riders"}]moshed out to deep midwicket, a big top-edge on the pull but it plops well short of the boundary-riders
+moshed out to deep midwicket, a big top-edge on the pull but it plops well short of the boundary-riders
 
 
 Balls faced: 18
 Bowler: Thomas
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "wide line across the bows again, rocks back on a forceful pull out to deep midwicket"}]wide line across the bows again, rocks back on a forceful pull out to deep midwicket
+wide line across the bows again, rocks back on a forceful pull out to deep midwicket
 
 
 Balls faced: 19
 Bowler: Thomas
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "outside off, hits the pitch on the angle across the left-hander, Moeen swishes into an uppercut but can't connect"}]outside off, hits the pitch on the angle across the left-hander, Moeen swishes into an uppercut but can't connect
+outside off, hits the pitch on the angle across the left-hander, Moeen swishes into an uppercut but can't connect
 
 
 Balls faced: 20
 Bowler: Hosein
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "outside off, wider line, cuffed to point but a miscommunication in the running. Another dot to tighten the tourniquet"}]outside off, wider line, cuffed to point but a miscommunication in the running. Another dot to tighten the tourniquet
-[{"type": "HTML", "html": "Ali: \"My two cents: English players look bored, uninterested, and possibly, lacking clarity (about roles, strategy, etc). Looking at Butler, Salt, and Brook wickets, one senses a preoccupied mindset. Dont know whats wrong here but this is at the surface of it. \" Not sure I buy that today. 2-2 after a stirring fightback, and one final push before Christmas? Boredom seems an odd diagnosis"}]Ali: "My two cents: English players look bored, uninterested, and possibly, lacking clarity (about roles, strategy, etc). Looking at Butler, Salt, and Brook wickets, one senses a preoccupied mindset. Dont know whats wrong here but this is at the surface of it. " Not sure I buy that today. 2-2 after a stirring fightback, and one final push before Christmas? Boredom seems an odd diagnosis
+outside off, wider line, cuffed to point but a miscommunication in the running. Another dot to tighten the tourniquet
+Ali: "My two cents: English players look bored, uninterested, and possibly, lacking clarity (about roles, strategy, etc). Looking at Butler, Salt, and Brook wickets, one senses a preoccupied mindset. Dont know whats wrong here but this is at the surface of it. " Not sure I buy that today. 2-2 after a stirring fightback, and one final push before Christmas? Boredom seems an odd diagnosis
 
 Balls faced: 21
 Bowler: Hosein
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the back foot, flicked with the turn to the on-side. A very different tempo kicking in now, compared to Tuesday's game"}]on the back foot, flicked with the turn to the on-side. A very different tempo kicking in now, compared to Tuesday's game
+on the back foot, flicked with the turn to the on-side. A very different tempo kicking in now, compared to Tuesday's game
 
 
 Balls faced: 22
 Bowler: Motie
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "chipped off the legs out to deep midwicket"}]chipped off the legs out to deep midwicket
-[{"type": "HTML", "html": "Greg: \"I missed the first 10 overs but I sense the pitch isn't playing quite as well as the other night?\" Indeed, it seems to be stickier, given the left-armers a bit of purchase, much as in the ODIs"}]Greg: "I missed the first 10 overs but I sense the pitch isn't playing quite as well as the other night?" Indeed, it seems to be stickier, given the left-armers a bit of purchase, much as in the ODIs
+chipped off the legs out to deep midwicket
+Greg: "I missed the first 10 overs but I sense the pitch isn't playing quite as well as the other night?" Indeed, it seems to be stickier, given the left-armers a bit of purchase, much as in the ODIs
 
 Balls faced: 23
 Bowler: Motie
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in fuller and flatter, targetting the base of leg stump as Moeen sidles to the off-side, tucked square"}]fired in fuller and flatter, targetting the base of leg stump as Moeen sidles to the off-side, tucked square
+fired in fuller and flatter, targetting the base of leg stump as Moeen sidles to the off-side, tucked square
 
 
 Balls faced: 24
 Bowler: Motie
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "dropped short, wide outside off,<strong> Moeen doesn't need to be asked twice!</strong> Tonked with effortless power, high over deep midwicket!"}]dropped short, wide outside off,<strong> Moeen doesn't need to be asked twice!</strong> Tonked with effortless power, high over deep midwicket!
+dropped short, wide outside off,<strong> Moeen doesn't need to be asked twice!</strong> Tonked with effortless power, high over deep midwicket!
 
 
 Balls faced: 25
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yanked across the line, hitting with the spin, out through square leg"}]yanked across the line, hitting with the spin, out through square leg
+yanked across the line, hitting with the spin, out through square leg
 
 
 Balls faced: 26
 Bowler: Thomas
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "moshed out to deep midwicket, a big top-edge on the pull but it plops well short of the boundary-riders"}]moshed out to deep midwicket, a big top-edge on the pull but it plops well short of the boundary-riders
+moshed out to deep midwicket, a big top-edge on the pull but it plops well short of the boundary-riders
 
 
 Balls faced: 27
 Bowler: Thomas
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "wide line across the bows again, rocks back on a forceful pull out to deep midwicket"}]wide line across the bows again, rocks back on a forceful pull out to deep midwicket
+wide line across the bows again, rocks back on a forceful pull out to deep midwicket
 
 
 Balls faced: 28
 Bowler: Thomas
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "outside off, hits the pitch on the angle across the left-hander, Moeen swishes into an uppercut but can't connect"}]outside off, hits the pitch on the angle across the left-hander, Moeen swishes into an uppercut but can't connect
+outside off, hits the pitch on the angle across the left-hander, Moeen swishes into an uppercut but can't connect
 
 
 Balls faced: 29
 Bowler: Russell
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "banged in short, has another swing, another top-edge, doesn't carry once more as deep square rushes in"}]banged in short, has another swing, another top-edge, doesn't carry once more as deep square rushes in
+banged in short, has another swing, another top-edge, doesn't carry once more as deep square rushes in
 
 
 Balls faced: 30
 Bowler: Russell
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "all the pace off, short ball, loops over Moeen's flappy pull across the line"}]all the pace off, short ball, loops over Moeen's flappy pull across the line
+all the pace off, short ball, loops over Moeen's flappy pull across the line
 
 
 Balls faced: 31
 Bowler: Russell
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed wide outside off as Moeen shapes to leg. Gets away with it as the umpire spotted the batter's movements"}]pushed wide outside off as Moeen shapes to leg. Gets away with it as the umpire spotted the batter's movements
+pushed wide outside off as Moeen shapes to leg. Gets away with it as the umpire spotted the batter's movements
 
 
 Balls faced: 32
 Bowler: Russell
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "hacks across the line, flying edge, <B>Pooran leaps but can't intercept!</B> Whistles through deep third at pace for another boundary"}]hacks across the line, flying edge, <B>Pooran leaps but can't intercept!</B> Whistles through deep third at pace for another boundary
+hacks across the line, flying edge, <B>Pooran leaps but can't intercept!</B> Whistles through deep third at pace for another boundary
 
 
 Balls faced: 33
 Bowler: Motie
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "chipped off the legs out to deep midwicket"}]chipped off the legs out to deep midwicket
-[{"type": "HTML", "html": "Greg: \"I missed the first 10 overs but I sense the pitch isn't playing quite as well as the other night?\" Indeed, it seems to be stickier, given the left-armers a bit of purchase, much as in the ODIs"}]Greg: "I missed the first 10 overs but I sense the pitch isn't playing quite as well as the other night?" Indeed, it seems to be stickier, given the left-armers a bit of purchase, much as in the ODIs
+chipped off the legs out to deep midwicket
+Greg: "I missed the first 10 overs but I sense the pitch isn't playing quite as well as the other night?" Indeed, it seems to be stickier, given the left-armers a bit of purchase, much as in the ODIs
 
 Balls faced: 34
 Bowler: Motie
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in fuller and flatter, targetting the base of leg stump as Moeen sidles to the off-side, tucked square"}]fired in fuller and flatter, targetting the base of leg stump as Moeen sidles to the off-side, tucked square
+fired in fuller and flatter, targetting the base of leg stump as Moeen sidles to the off-side, tucked square
 
 
 Balls faced: 35
 Bowler: Motie
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "dropped short, wide outside off,<strong> Moeen doesn't need to be asked twice!</strong> Tonked with effortless power, high over deep midwicket!"}]dropped short, wide outside off,<strong> Moeen doesn't need to be asked twice!</strong> Tonked with effortless power, high over deep midwicket!
+dropped short, wide outside off,<strong> Moeen doesn't need to be asked twice!</strong> Tonked with effortless power, high over deep midwicket!
 
 
 Balls faced: 36
 Bowler: Motie
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yanked across the line, hitting with the spin, out through square leg"}]yanked across the line, hitting with the spin, out through square leg
+yanked across the line, hitting with the spin, out through square leg
 
 
 Balls faced: 37
 Bowler: Hosein
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "steps down the track for a slap to long-on, doesn't get to the pitch but goes through the shot anyway... and it's a <B>stunning bit of boundary relaying!</B> Andre Russell, back on the rope at long-on, grabs the chance rushing back towards the rope, he unleashes the ball before his momentum takes him over the rope, but Rovman Powell has to fling himself forward to mop up the chance, and scoops it up inches from the turf!"}]steps down the track for a slap to long-on, doesn't get to the pitch but goes through the shot anyway... and it's a <B>stunning bit of boundary relaying!</B> Andre Russell, back on the rope at long-on, grabs the chance rushing back towards the rope, he unleashes the ball before his momentum takes him over the rope, but Rovman Powell has to fling himself forward to mop up the chance, and scoops it up inches from the turf!
+Moeen Ali is OUT! caught
+c Powell b Hosein
+Moeen Ali c Powell b Hosein 23 (21b 1x4 1x6 24m) SR: 109.52
+steps down the track for a slap to long-on, doesn't get to the pitch but goes through the shot anyway... and it's a <B>stunning bit of boundary relaying!</B> Andre Russell, back on the rope at long-on, grabs the chance rushing back towards the rope, he unleashes the ball before his momentum takes him over the rope, but Rovman Powell has to fling himself forward to mop up the chance, and scoops it up inches from the turf!
 
 
 Balls faced: 38
 Bowler: Russell
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "banged in short, has another swing, another top-edge, doesn't carry once more as deep square rushes in"}]banged in short, has another swing, another top-edge, doesn't carry once more as deep square rushes in
+banged in short, has another swing, another top-edge, doesn't carry once more as deep square rushes in
 
 
 Balls faced: 39
 Bowler: Russell
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "all the pace off, short ball, loops over Moeen's flappy pull across the line"}]all the pace off, short ball, loops over Moeen's flappy pull across the line
+all the pace off, short ball, loops over Moeen's flappy pull across the line
 
 
 Balls faced: 40
 Bowler: Russell
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed wide outside off as Moeen shapes to leg. Gets away with it as the umpire spotted the batter's movements"}]pushed wide outside off as Moeen shapes to leg. Gets away with it as the umpire spotted the batter's movements
+pushed wide outside off as Moeen shapes to leg. Gets away with it as the umpire spotted the batter's movements
 
 
 Balls faced: 41
 Bowler: Russell
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "hacks across the line, flying edge, <B>Pooran leaps but can't intercept!</B> Whistles through deep third at pace for another boundary"}]hacks across the line, flying edge, <B>Pooran leaps but can't intercept!</B> Whistles through deep third at pace for another boundary
+hacks across the line, flying edge, <B>Pooran leaps but can't intercept!</B> Whistles through deep third at pace for another boundary
 
 
 Balls faced: 42
 Bowler: Hosein
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "steps down the track for a slap to long-on, doesn't get to the pitch but goes through the shot anyway... and it's a <B>stunning bit of boundary relaying!</B> Andre Russell, back on the rope at long-on, grabs the chance rushing back towards the rope, he unleashes the ball before his momentum takes him over the rope, but Rovman Powell has to fling himself forward to mop up the chance, and scoops it up inches from the turf!"}]steps down the track for a slap to long-on, doesn't get to the pitch but goes through the shot anyway... and it's a <B>stunning bit of boundary relaying!</B> Andre Russell, back on the rope at long-on, grabs the chance rushing back towards the rope, he unleashes the ball before his momentum takes him over the rope, but Rovman Powell has to fling himself forward to mop up the chance, and scoops it up inches from the turf!
+Moeen Ali is OUT! caught
+c Powell b Hosein
+Moeen Ali c Powell b Hosein 23 (21b 1x4 1x6 24m) SR: 109.52
+steps down the track for a slap to long-on, doesn't get to the pitch but goes through the shot anyway... and it's a <B>stunning bit of boundary relaying!</B> Andre Russell, back on the rope at long-on, grabs the chance rushing back towards the rope, he unleashes the ball before his momentum takes him over the rope, but Rovman Powell has to fling himself forward to mop up the chance, and scoops it up inches from the turf!
 
 
 
@@ -686,161 +758,181 @@ Match: all_games_1385666_1385688.json
 Balls faced: 1
 Bowler: Imad Wasim
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "leaning onto the front foot, eased into the off side"}]leaning onto the front foot, eased into the off side
-[{"type": "HTML", "html": "Good lord, <a href=https://www.espn.co.uk/football/match/_/gameId/702151/manchester-united-manchester-city>drama upon drama at Wembley</A>"}]Good lord, <a href=https://www.espn.co.uk/football/match/_/gameId/702151/manchester-united-manchester-city>drama upon drama at Wembley</A>
+leaning onto the front foot, eased into the off side
+Good lord, <a href=https://www.espn.co.uk/football/match/_/gameId/702151/manchester-united-manchester-city>drama upon drama at Wembley</A>
 
 Balls faced: 2
 Bowler: Amir
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "picked off for another single"}]picked off for another single
+picked off for another single
 
 
 Balls faced: 3
 Bowler: Imad Wasim
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "leaning onto the front foot, eased into the off side"}]leaning onto the front foot, eased into the off side
-[{"type": "HTML", "html": "Good lord, <a href=https://www.espn.co.uk/football/match/_/gameId/702151/manchester-united-manchester-city>drama upon drama at Wembley</A>"}]Good lord, <a href=https://www.espn.co.uk/football/match/_/gameId/702151/manchester-united-manchester-city>drama upon drama at Wembley</A>
+leaning onto the front foot, eased into the off side
+Good lord, <a href=https://www.espn.co.uk/football/match/_/gameId/702151/manchester-united-manchester-city>drama upon drama at Wembley</A>
 
 Balls faced: 4
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "round the wicket, bottom-handed punch out of the full length, away to deep cover"}]round the wicket, bottom-handed punch out of the full length, away to deep cover
+round the wicket, bottom-handed punch out of the full length, away to deep cover
 
 
 Balls faced: 5
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sits back in the crease, wide outside off, inticing Moeen to launch to leg, but there's a field set to cut off the runs"}]sits back in the crease, wide outside off, inticing Moeen to launch to leg, but there's a field set to cut off the runs
+sits back in the crease, wide outside off, inticing Moeen to launch to leg, but there's a field set to cut off the runs
 
 
 Balls faced: 6
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "opens the face outside off, cuffed to point"}]opens the face outside off, cuffed to point
+opens the face outside off, cuffed to point
 
 
 Balls faced: 7
 Bowler: Amir
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "picked off for another single"}]picked off for another single
+picked off for another single
 
 
 Balls faced: 8
 Bowler: Shaheen Shah Afridi
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "low full toss, <B>Moeen holes out to long-on!</B> England's innings is ebbing away a touch now, Moeen can't time it at all as Rizwan tracks round to gather"}]low full toss, <B>Moeen holes out to long-on!</B> England's innings is ebbing away a touch now, Moeen can't time it at all as Rizwan tracks round to gather
+Moeen Ali is OUT! caught
+c Mohammad Rizwan b Shaheen Shah Afridi
+Moeen Ali c Mohammad Rizwan b Shaheen Shah Afridi 4 (7b 0x4 0x6 13m) SR: 57.14
+low full toss, <B>Moeen holes out to long-on!</B> England's innings is ebbing away a touch now, Moeen can't time it at all as Rizwan tracks round to gather
 
 
 Balls faced: 9
 Bowler: Shaheen Shah Afridi
 Over: 19
+Pitch Line: WIDE_DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired past the legs"}]fired past the legs
+fired past the legs
 
 Wide: 1
 Balls faced: 10
 Bowler: Shaheen Shah Afridi
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hint of reverse, Afridi pounces in his followthrough"}]hint of reverse, Afridi pounces in his followthrough
+hint of reverse, Afridi pounces in his followthrough
 
 
 Balls faced: 11
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "round the wicket, bottom-handed punch out of the full length, away to deep cover"}]round the wicket, bottom-handed punch out of the full length, away to deep cover
+round the wicket, bottom-handed punch out of the full length, away to deep cover
 
 
 Balls faced: 12
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sits back in the crease, wide outside off, inticing Moeen to launch to leg, but there's a field set to cut off the runs"}]sits back in the crease, wide outside off, inticing Moeen to launch to leg, but there's a field set to cut off the runs
+sits back in the crease, wide outside off, inticing Moeen to launch to leg, but there's a field set to cut off the runs
 
 
 Balls faced: 13
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "opens the face outside off, cuffed to point"}]opens the face outside off, cuffed to point
+opens the face outside off, cuffed to point
 
 
 Balls faced: 14
 Bowler: Shaheen Shah Afridi
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "low full toss, <B>Moeen holes out to long-on!</B> England's innings is ebbing away a touch now, Moeen can't time it at all as Rizwan tracks round to gather"}]low full toss, <B>Moeen holes out to long-on!</B> England's innings is ebbing away a touch now, Moeen can't time it at all as Rizwan tracks round to gather
+Moeen Ali is OUT! caught
+c Mohammad Rizwan b Shaheen Shah Afridi
+Moeen Ali c Mohammad Rizwan b Shaheen Shah Afridi 4 (7b 0x4 0x6 13m) SR: 57.14
+low full toss, <B>Moeen holes out to long-on!</B> England's innings is ebbing away a touch now, Moeen can't time it at all as Rizwan tracks round to gather
 
 
 Balls faced: 15
 Bowler: Shaheen Shah Afridi
 Over: 19
+Pitch Line: WIDE_DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired past the legs"}]fired past the legs
+fired past the legs
 
 Wide: 1
 Balls faced: 16
 Bowler: Shaheen Shah Afridi
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hint of reverse, Afridi pounces in his followthrough"}]hint of reverse, Afridi pounces in his followthrough
+hint of reverse, Afridi pounces in his followthrough
 
 
 
@@ -848,281 +940,313 @@ Match: all_games_1411166_1415717.json
 Balls faced: 1
 Bowler: Maxwell
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "a touch less pace, met on the back foot with a flick off the pads"}]a touch less pace, met on the back foot with a flick off the pads
+a touch less pace, met on the back foot with a flick off the pads
 
 
 Balls faced: 2
 Bowler: Maxwell
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "round the wicket, tidy dart, drawing a hasty stump-defending block"}]round the wicket, tidy dart, drawing a hasty stump-defending block
+round the wicket, tidy dart, drawing a hasty stump-defending block
 
 
 Balls faced: 3
 Bowler: Zampa
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "cracked into the covers, but just a single"}]cracked into the covers, but just a single
+cracked into the covers, but just a single
 
 
 Balls faced: 4
 Bowler: Zampa
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up, gripping on middle and leg, pressed into the off side. This is lovely bowling"}]tossed up, gripping on middle and leg, pressed into the off side. This is lovely bowling
+tossed up, gripping on middle and leg, pressed into the off side. This is lovely bowling
 
 
 Balls faced: 5
 Bowler: Zampa
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "A switch of ends for Zampa, Moeen's sweep will be taking on the long boundary now"}]A switch of ends for Zampa, Moeen's sweep will be taking on the long boundary now
+A switch of ends for Zampa, Moeen's sweep will be taking on the long boundary now
 
-[{"type": "HTML", "html": "strangulated appeal, but that pitched outside leg before thumping the pads"}]strangulated appeal, but that pitched outside leg before thumping the pads
+strangulated appeal, but that pitched outside leg before thumping the pads
 
 
 Balls faced: 6
 Bowler: Maxwell
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "a touch less pace, met on the back foot with a flick off the pads"}]a touch less pace, met on the back foot with a flick off the pads
+a touch less pace, met on the back foot with a flick off the pads
 
 
 Balls faced: 7
 Bowler: Maxwell
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "round the wicket, tidy dart, drawing a hasty stump-defending block"}]round the wicket, tidy dart, drawing a hasty stump-defending block
+round the wicket, tidy dart, drawing a hasty stump-defending block
 
 
 Balls faced: 8
 Bowler: Maxwell
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>flicked off the pads, mighty over midwicket!</B> That's the over England desperately needed! Full enough to take on the short side, and it's a 20-run over, the best of the innings"}]<B>flicked off the pads, mighty over midwicket!</B> That's the over England desperately needed! Full enough to take on the short side, and it's a 20-run over, the best of the innings
+<B>flicked off the pads, mighty over midwicket!</B> That's the over England desperately needed! Full enough to take on the short side, and it's a 20-run over, the best of the innings
 
 
 Balls faced: 9
 Bowler: Maxwell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "outside off again, dragged behind square for the single"}]outside off again, dragged behind square for the single
+outside off again, dragged behind square for the single
 
 
 Balls faced: 10
 Bowler: Maxwell
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "width on a full length, a flat-footed hack, can't connect. Well hidden outside off"}]width on a full length, a flat-footed hack, can't connect. Well hidden outside off
+width on a full length, a flat-footed hack, can't connect. Well hidden outside off
 
 
 Balls faced: 11
 Bowler: Maxwell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>in the slot again, launched over long-on!</B> That's more like it from Moeen, it's been pitched up, into the arc, and deposited!"}]<B>in the slot again, launched over long-on!</B> That's more like it from Moeen, it's been pitched up, into the arc, and deposited!
+<B>in the slot again, launched over long-on!</B> That's more like it from Moeen, it's been pitched up, into the arc, and deposited!
 
 
 Balls faced: 12
 Bowler: Maxwell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "round the wicket, <B>crashed up and over the leg side!</B> Moeen knows there's no time to wait, and connects massively!"}]round the wicket, <B>crashed up and over the leg side!</B> Moeen knows there's no time to wait, and connects massively!
+round the wicket, <B>crashed up and over the leg side!</B> Moeen knows there's no time to wait, and connects massively!
 
 
 Balls faced: 13
 Bowler: Zampa
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "cracked into the covers, but just a single"}]cracked into the covers, but just a single
+cracked into the covers, but just a single
 
 
 Balls faced: 14
 Bowler: Zampa
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up, gripping on middle and leg, pressed into the off side. This is lovely bowling"}]tossed up, gripping on middle and leg, pressed into the off side. This is lovely bowling
+tossed up, gripping on middle and leg, pressed into the off side. This is lovely bowling
 
 
 Balls faced: 15
 Bowler: Zampa
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "A switch of ends for Zampa, Moeen's sweep will be taking on the long boundary now"}]A switch of ends for Zampa, Moeen's sweep will be taking on the long boundary now
+A switch of ends for Zampa, Moeen's sweep will be taking on the long boundary now
 
-[{"type": "HTML", "html": "strangulated appeal, but that pitched outside leg before thumping the pads"}]strangulated appeal, but that pitched outside leg before thumping the pads
+strangulated appeal, but that pitched outside leg before thumping the pads
 
 
 Balls faced: 16
 Bowler: Hazlewood
 Over: 15
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "backs away, Hazlewood sees him going and follows him down the leg-side, a cramped pull to midwicket"}]backs away, Hazlewood sees him going and follows him down the leg-side, a cramped pull to midwicket
-[{"type": "HTML", "html": "srini: \"oh no, what have you done Hazelwood\u2026 \" Well, that's the other way of putting it..."}]srini: "oh no, what have you done Hazelwood… " Well, that's the other way of putting it...
+backs away, Hazlewood sees him going and follows him down the leg-side, a cramped pull to midwicket
+srini: "oh no, what have you done Hazelwood… " Well, that's the other way of putting it...
 
 Balls faced: 17
 Bowler: Maxwell
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>flicked off the pads, mighty over midwicket!</B> That's the over England desperately needed! Full enough to take on the short side, and it's a 20-run over, the best of the innings"}]<B>flicked off the pads, mighty over midwicket!</B> That's the over England desperately needed! Full enough to take on the short side, and it's a 20-run over, the best of the innings
+<B>flicked off the pads, mighty over midwicket!</B> That's the over England desperately needed! Full enough to take on the short side, and it's a 20-run over, the best of the innings
 
 
 Balls faced: 18
 Bowler: Maxwell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "outside off again, dragged behind square for the single"}]outside off again, dragged behind square for the single
+outside off again, dragged behind square for the single
 
 
 Balls faced: 19
 Bowler: Maxwell
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "width on a full length, a flat-footed hack, can't connect. Well hidden outside off"}]width on a full length, a flat-footed hack, can't connect. Well hidden outside off
+width on a full length, a flat-footed hack, can't connect. Well hidden outside off
 
 
 Balls faced: 20
 Bowler: Maxwell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>in the slot again, launched over long-on!</B> That's more like it from Moeen, it's been pitched up, into the arc, and deposited!"}]<B>in the slot again, launched over long-on!</B> That's more like it from Moeen, it's been pitched up, into the arc, and deposited!
+<B>in the slot again, launched over long-on!</B> That's more like it from Moeen, it's been pitched up, into the arc, and deposited!
 
 
 Balls faced: 21
 Bowler: Maxwell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "round the wicket, <B>crashed up and over the leg side!</B> Moeen knows there's no time to wait, and connects massively!"}]round the wicket, <B>crashed up and over the leg side!</B> Moeen knows there's no time to wait, and connects massively!
+round the wicket, <B>crashed up and over the leg side!</B> Moeen knows there's no time to wait, and connects massively!
 
 
 Balls faced: 22
 Bowler: Cummins
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>slashed in the air to deep cover!</B> Warner tracks around, staring into the sun, but the ball hangs up in the breeze, it's sliced out into the off-side, and England's dangerman is gone! Super bowling from Cummins, hiding the ball outside off, demanding that Moeen took on the long side, and he failed"}]<B>slashed in the air to deep cover!</B> Warner tracks around, staring into the sun, but the ball hangs up in the breeze, it's sliced out into the off-side, and England's dangerman is gone! Super bowling from Cummins, hiding the ball outside off, demanding that Moeen took on the long side, and he failed
+Moeen Ali is OUT! caught
+c Warner b Cummins
+Moeen Ali c Warner b Cummins 25 (15b 0x4 3x6 21m) SR: 166.66
+<B>slashed in the air to deep cover!</B> Warner tracks around, staring into the sun, but the ball hangs up in the breeze, it's sliced out into the off-side, and England's dangerman is gone! Super bowling from Cummins, hiding the ball outside off, demanding that Moeen took on the long side, and he failed
 
 
 Balls faced: 23
 Bowler: Cummins
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "walks to the off-side, seeking the uppercut through the long off-side boundary, Cummins hides the ball wide, one bounce to deep cover"}]walks to the off-side, seeking the uppercut through the long off-side boundary, Cummins hides the ball wide, one bounce to deep cover
+walks to the off-side, seeking the uppercut through the long off-side boundary, Cummins hides the ball wide, one bounce to deep cover
 
 
 Balls faced: 24
 Bowler: Cummins
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "76 from 30... it's not impossible to the short boundary... but England are in treacle for the moment. Cummins returns for his third over"}]76 from 30... it's not impossible to the short boundary... but England are in treacle for the moment. Cummins returns for his third over
+76 from 30... it's not impossible to the short boundary... but England are in treacle for the moment. Cummins returns for his third over
 
-[{"type": "HTML", "html": "round the wicket, back of a length, wristily cuffed into the covers,  no way through there"}]round the wicket, back of a length, wristily cuffed into the covers,  no way through there
+round the wicket, back of a length, wristily cuffed into the covers,  no way through there
 
 
 Balls faced: 25
 Bowler: Hazlewood
 Over: 15
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "backs away, Hazlewood sees him going and follows him down the leg-side, a cramped pull to midwicket"}]backs away, Hazlewood sees him going and follows him down the leg-side, a cramped pull to midwicket
-[{"type": "HTML", "html": "srini: \"oh no, what have you done Hazelwood\u2026 \" Well, that's the other way of putting it..."}]srini: "oh no, what have you done Hazelwood… " Well, that's the other way of putting it...
+backs away, Hazlewood sees him going and follows him down the leg-side, a cramped pull to midwicket
+srini: "oh no, what have you done Hazelwood… " Well, that's the other way of putting it...
 
 Balls faced: 26
 Bowler: Cummins
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>slashed in the air to deep cover!</B> Warner tracks around, staring into the sun, but the ball hangs up in the breeze, it's sliced out into the off-side, and England's dangerman is gone! Super bowling from Cummins, hiding the ball outside off, demanding that Moeen took on the long side, and he failed"}]<B>slashed in the air to deep cover!</B> Warner tracks around, staring into the sun, but the ball hangs up in the breeze, it's sliced out into the off-side, and England's dangerman is gone! Super bowling from Cummins, hiding the ball outside off, demanding that Moeen took on the long side, and he failed
+Moeen Ali is OUT! caught
+c Warner b Cummins
+Moeen Ali c Warner b Cummins 25 (15b 0x4 3x6 21m) SR: 166.66
+<B>slashed in the air to deep cover!</B> Warner tracks around, staring into the sun, but the ball hangs up in the breeze, it's sliced out into the off-side, and England's dangerman is gone! Super bowling from Cummins, hiding the ball outside off, demanding that Moeen took on the long side, and he failed
 
 
 Balls faced: 27
 Bowler: Cummins
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "walks to the off-side, seeking the uppercut through the long off-side boundary, Cummins hides the ball wide, one bounce to deep cover"}]walks to the off-side, seeking the uppercut through the long off-side boundary, Cummins hides the ball wide, one bounce to deep cover
+walks to the off-side, seeking the uppercut through the long off-side boundary, Cummins hides the ball wide, one bounce to deep cover
 
 
 Balls faced: 28
 Bowler: Cummins
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "76 from 30... it's not impossible to the short boundary... but England are in treacle for the moment. Cummins returns for his third over"}]76 from 30... it's not impossible to the short boundary... but England are in treacle for the moment. Cummins returns for his third over
+76 from 30... it's not impossible to the short boundary... but England are in treacle for the moment. Cummins returns for his third over
 
-[{"type": "HTML", "html": "round the wicket, back of a length, wristily cuffed into the covers,  no way through there"}]round the wicket, back of a length, wristily cuffed into the covers,  no way through there
+round the wicket, back of a length, wristily cuffed into the covers,  no way through there
 
 
 
@@ -1130,118 +1254,134 @@ Match: all_games_1411166_1415734.json
 Balls faced: 1
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "reaching for the width, and cuffed uppishly out to cover"}]reaching for the width, and cuffed uppishly out to cover
+reaching for the width, and cuffed uppishly out to cover
 
 
 Balls faced: 2
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Moeen goes long!</B> In his arc, from over the wicket, he plants the front dog, takes on the longer boundary, and clobbers the camera at wide long-off"}]<B>Moeen goes long!</B> In his arc, from over the wicket, he plants the front dog, takes on the longer boundary, and clobbers the camera at wide long-off
+<B>Moeen goes long!</B> In his arc, from over the wicket, he plants the front dog, takes on the longer boundary, and clobbers the camera at wide long-off
 
 
 Balls faced: 3
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "yanked across the line, off a good length outside off, into space at deep midwicket"}]yanked across the line, off a good length outside off, into space at deep midwicket
+yanked across the line, off a good length outside off, into space at deep midwicket
 
 
 Balls faced: 4
 Bowler: Brassell
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "<B>4.46pm</B> Back come the players, at the precise time, in fact that we had to get started in the event of a five-over match."}]<B>4.46pm</B> Back come the players, at the precise time, in fact that we had to get started in the event of a five-over match.
+<B>4.46pm</B> Back come the players, at the precise time, in fact that we had to get started in the event of a five-over match.
 
-[{"type": "HTML", "html": "hoisted around the corner, good contact on the full length, but deep square leg gathers"}]hoisted around the corner, good contact on the full length, but deep square leg gathers
+hoisted around the corner, good contact on the full length, but deep square leg gathers
 
 
 Balls faced: 5
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "reaching for the width, and cuffed uppishly out to cover"}]reaching for the width, and cuffed uppishly out to cover
+reaching for the width, and cuffed uppishly out to cover
 
 
 Balls faced: 6
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Moeen goes long!</B> In his arc, from over the wicket, he plants the front dog, takes on the longer boundary, and clobbers the camera at wide long-off"}]<B>Moeen goes long!</B> In his arc, from over the wicket, he plants the front dog, takes on the longer boundary, and clobbers the camera at wide long-off
+<B>Moeen goes long!</B> In his arc, from over the wicket, he plants the front dog, takes on the longer boundary, and clobbers the camera at wide long-off
 
 
 Balls faced: 7
 Bowler: Scholtz
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "yanked across the line, off a good length outside off, into space at deep midwicket"}]yanked across the line, off a good length outside off, into space at deep midwicket
+yanked across the line, off a good length outside off, into space at deep midwicket
 
 
 Balls faced: 8
 Bowler: Trumpelmann
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>seizes the short ball, but straight to deep midwicket!</B> Sticks in the pitch, taking on the longer boundary. Trumpelmann strikes, but Moeen has made his mark"}]<B>seizes the short ball, but straight to deep midwicket!</B> Sticks in the pitch, taking on the longer boundary. Trumpelmann strikes, but Moeen has made his mark
+Moeen Ali is OUT! caught
+c Davin b Trumpelmann
+Moeen Ali c Davin b Trumpelmann 16 (6b 0x4 2x6 10m) SR: 266.66
+<B>seizes the short ball, but straight to deep midwicket!</B> Sticks in the pitch, taking on the longer boundary. Trumpelmann strikes, but Moeen has made his mark
 
 
 Balls faced: 9
 Bowler: Trumpelmann
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
-[{"type": "HTML", "html": "Trumpelmann to finish. The loss of Wiese for that over was potentially significant. England, incidentally, need eight to prove that 109 from ten overs against Scotland might have been attainable..."}, {"type": "HTML", "html": "A bit of sawdust for the bowler's front foot. This will eat into the window before the next rain is incoming..."}]Trumpelmann to finish. The loss of Wiese for that over was potentially significant. England, incidentally, need eight to prove that 109 from ten overs against Scotland might have been attainable... A bit of sawdust for the bowler's front foot. This will eat into the window before the next rain is incoming...
+Trumpelmann to finish. The loss of Wiese for that over was potentially significant. England, incidentally, need eight to prove that 109 from ten overs against Scotland might have been attainable... A bit of sawdust for the bowler's front foot. This will eat into the window before the next rain is incoming...
 
-[{"type": "HTML", "html": "over the wicket, slower ball, in the arc, <B>Moeen latches on with alacrity!</B> He held his stroke wonderfully, waiting that split-second for the ball to arrive and mashed over long-on"}]over the wicket, slower ball, in the arc, <B>Moeen latches on with alacrity!</B> He held his stroke wonderfully, waiting that split-second for the ball to arrive and mashed over long-on
+over the wicket, slower ball, in the arc, <B>Moeen latches on with alacrity!</B> He held his stroke wonderfully, waiting that split-second for the ball to arrive and mashed over long-on
 
 
 Balls faced: 10
 Bowler: Brassell
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "<B>4.46pm</B> Back come the players, at the precise time, in fact that we had to get started in the event of a five-over match."}]<B>4.46pm</B> Back come the players, at the precise time, in fact that we had to get started in the event of a five-over match.
+<B>4.46pm</B> Back come the players, at the precise time, in fact that we had to get started in the event of a five-over match.
 
-[{"type": "HTML", "html": "hoisted around the corner, good contact on the full length, but deep square leg gathers"}]hoisted around the corner, good contact on the full length, but deep square leg gathers
+hoisted around the corner, good contact on the full length, but deep square leg gathers
 
 
 Balls faced: 11
 Bowler: Trumpelmann
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>seizes the short ball, but straight to deep midwicket!</B> Sticks in the pitch, taking on the longer boundary. Trumpelmann strikes, but Moeen has made his mark"}]<B>seizes the short ball, but straight to deep midwicket!</B> Sticks in the pitch, taking on the longer boundary. Trumpelmann strikes, but Moeen has made his mark
+Moeen Ali is OUT! caught
+c Davin b Trumpelmann
+Moeen Ali c Davin b Trumpelmann 16 (6b 0x4 2x6 10m) SR: 266.66
+<B>seizes the short ball, but straight to deep midwicket!</B> Sticks in the pitch, taking on the longer boundary. Trumpelmann strikes, but Moeen has made his mark
 
 
 Balls faced: 12
 Bowler: Trumpelmann
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
-[{"type": "HTML", "html": "Trumpelmann to finish. The loss of Wiese for that over was potentially significant. England, incidentally, need eight to prove that 109 from ten overs against Scotland might have been attainable..."}, {"type": "HTML", "html": "A bit of sawdust for the bowler's front foot. This will eat into the window before the next rain is incoming..."}]Trumpelmann to finish. The loss of Wiese for that over was potentially significant. England, incidentally, need eight to prove that 109 from ten overs against Scotland might have been attainable... A bit of sawdust for the bowler's front foot. This will eat into the window before the next rain is incoming...
+Trumpelmann to finish. The loss of Wiese for that over was potentially significant. England, incidentally, need eight to prove that 109 from ten overs against Scotland might have been attainable... A bit of sawdust for the bowler's front foot. This will eat into the window before the next rain is incoming...
 
-[{"type": "HTML", "html": "over the wicket, slower ball, in the arc, <B>Moeen latches on with alacrity!</B> He held his stroke wonderfully, waiting that split-second for the ball to arrive and mashed over long-on"}]over the wicket, slower ball, in the arc, <B>Moeen latches on with alacrity!</B> He held his stroke wonderfully, waiting that split-second for the ball to arrive and mashed over long-on
+over the wicket, slower ball, in the arc, <B>Moeen latches on with alacrity!</B> He held his stroke wonderfully, waiting that split-second for the ball to arrive and mashed over long-on

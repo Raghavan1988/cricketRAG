@@ -2,1101 +2,1215 @@ Match: all_games_1375837_1375848.json
 Balls faced: 1
 Bowler: Thomas
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Thanks, Alex."}]Thanks, Alex.
+Thanks, Alex.
 
-[{"type": "HTML", "html": "Clips the length ball off the pads to long leg"}]Clips the length ball off the pads to long leg
+Clips the length ball off the pads to long leg
 
 
 Balls faced: 2
 Bowler: Motie
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Quick single to mid-on. Very full again, Short gets it on the low full toss and punches it along the ground"}]Quick single to mid-on. Very full again, Short gets it on the low full toss and punches it along the ground
-[{"type": "HTML", "html": "Chris: \"Another disappointing, tacky Sydney wicket. Can someone explain how on earth Adelaide didn't end up with an ODI this summer?\""}]Chris: "Another disappointing, tacky Sydney wicket. Can someone explain how on earth Adelaide didn't end up with an ODI this summer?"
+Quick single to mid-on. Very full again, Short gets it on the low full toss and punches it along the ground
+Chris: "Another disappointing, tacky Sydney wicket. Can someone explain how on earth Adelaide didn't end up with an ODI this summer?"
 
 Balls faced: 3
 Bowler: Thomas
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Thanks, Alex."}]Thanks, Alex.
+Thanks, Alex.
 
-[{"type": "HTML", "html": "Clips the length ball off the pads to long leg"}]Clips the length ball off the pads to long leg
+Clips the length ball off the pads to long leg
 
 
 Balls faced: 4
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortish wide ball has been cut to the left of deep point"}]Shortish wide ball has been cut to the left of deep point
+Shortish wide ball has been cut to the left of deep point
 
 
 Balls faced: 5
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish on fifth, goes off the bottom-half of the cut to cover"}]Shortish on fifth, goes off the bottom-half of the cut to cover
+Shortish on fifth, goes off the bottom-half of the cut to cover
 
 
 Balls faced: 6
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on fourth, defended to cover"}]Fullish ball on fourth, defended to cover
+Fullish ball on fourth, defended to cover
 
 
 Balls faced: 7
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and wide, tries to drive through cover and gets beaten on the inside edge"}]Full and wide, tries to drive through cover and gets beaten on the inside edge
+Full and wide, tries to drive through cover and gets beaten on the inside edge
 
 
 Balls faced: 8
 Bowler: Motie
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Quick single to mid-on. Very full again, Short gets it on the low full toss and punches it along the ground"}]Quick single to mid-on. Very full again, Short gets it on the low full toss and punches it along the ground
-[{"type": "HTML", "html": "Chris: \"Another disappointing, tacky Sydney wicket. Can someone explain how on earth Adelaide didn't end up with an ODI this summer?\""}]Chris: "Another disappointing, tacky Sydney wicket. Can someone explain how on earth Adelaide didn't end up with an ODI this summer?"
+Quick single to mid-on. Very full again, Short gets it on the low full toss and punches it along the ground
+Chris: "Another disappointing, tacky Sydney wicket. Can someone explain how on earth Adelaide didn't end up with an ODI this summer?"
 
 Balls faced: 9
 Bowler: Motie
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Wide and full, very slow, Short gets on one knee with a forward stride and drives to deep cover"}]Wide and full, very slow, Short gets on one knee with a forward stride and drives to deep cover
+Wide and full, very slow, Short gets on one knee with a forward stride and drives to deep cover
 
 
 Balls faced: 10
 Bowler: Motie
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on middle and leg, pushed to the left of the bowler. Bowler cuts off the single"}]Full on middle and leg, pushed to the left of the bowler. Bowler cuts off the single
+Full on middle and leg, pushed to the left of the bowler. Bowler cuts off the single
 
 
 Balls faced: 11
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortish wide ball has been cut to the left of deep point"}]Shortish wide ball has been cut to the left of deep point
+Shortish wide ball has been cut to the left of deep point
 
 
 Balls faced: 12
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish on fifth, goes off the bottom-half of the cut to cover"}]Shortish on fifth, goes off the bottom-half of the cut to cover
+Shortish on fifth, goes off the bottom-half of the cut to cover
 
 
 Balls faced: 13
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on fourth, defended to cover"}]Fullish ball on fourth, defended to cover
+Fullish ball on fourth, defended to cover
 
 
 Balls faced: 14
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and wide, tries to drive through cover and gets beaten on the inside edge"}]Full and wide, tries to drive through cover and gets beaten on the inside edge
+Full and wide, tries to drive through cover and gets beaten on the inside edge
 
 
 Balls faced: 15
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Free hit has been dropped by the keeper. Was a wide full ball, Short strode forward rather than across. So, he didn't get the reach as he tried to flay over cover. Hope gets hands on it but spills it."}]Free hit has been dropped by the keeper. Was a wide full ball, Short strode forward rather than across. So, he didn't get the reach as he tried to flay over cover. Hope gets hands on it but spills it.
+Free hit has been dropped by the keeper. Was a wide full ball, Short strode forward rather than across. So, he didn't get the reach as he tried to flay over cover. Hope gets hands on it but spills it.
 
 
 Balls faced: 16
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short (length) and wide, slapped to the left of deep point. 139ks, was close to the off-side tramline. Stand and deliver from the batter"}]Short (length) and wide, slapped to the left of deep point. 139ks, was close to the off-side tramline. Stand and deliver from the batter
+Short (length) and wide, slapped to the left of deep point. 139ks, was close to the off-side tramline. Stand and deliver from the batter
 
 
 Balls faced: 17
 Bowler: Motie
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Wide and full, very slow, Short gets on one knee with a forward stride and drives to deep cover"}]Wide and full, very slow, Short gets on one knee with a forward stride and drives to deep cover
+Wide and full, very slow, Short gets on one knee with a forward stride and drives to deep cover
 
 
 Balls faced: 18
 Bowler: Motie
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on middle and leg, pushed to the left of the bowler. Bowler cuts off the single"}]Full on middle and leg, pushed to the left of the bowler. Bowler cuts off the single
+Full on middle and leg, pushed to the left of the bowler. Bowler cuts off the single
 
 
 Balls faced: 19
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flat on a fullish length, slapped to cover"}]Flat on a fullish length, slapped to cover
+Flat on a fullish length, slapped to cover
 
 
 Balls faced: 20
 Bowler: Motie
 Over: 21
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Leans forward and defends"}]Leans forward and defends
+Leans forward and defends
 
 
 Balls faced: 21
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full at the stumps, pushed to the bowler"}]Full at the stumps, pushed to the bowler
-[{"type": "HTML", "html": "prakash: \"4 matches concurrently at the moment. Very confusing to follow each match at their own phase and run rates.... \""}]prakash: "4 matches concurrently at the moment. Very confusing to follow each match at their own phase and run rates.... "
+Full at the stumps, pushed to the bowler
+prakash: "4 matches concurrently at the moment. Very confusing to follow each match at their own phase and run rates.... "
 
 Balls faced: 22
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Spins away to beat bat. 81ks on a fullish length, lands on fifth and rags away."}]Spins away to beat bat. 81ks on a fullish length, lands on fifth and rags away.
+Spins away to beat bat. 81ks on a fullish length, lands on fifth and rags away.
 
 
 Balls faced: 23
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Free hit has been dropped by the keeper. Was a wide full ball, Short strode forward rather than across. So, he didn't get the reach as he tried to flay over cover. Hope gets hands on it but spills it."}]Free hit has been dropped by the keeper. Was a wide full ball, Short strode forward rather than across. So, he didn't get the reach as he tried to flay over cover. Hope gets hands on it but spills it.
+Free hit has been dropped by the keeper. Was a wide full ball, Short strode forward rather than across. So, he didn't get the reach as he tried to flay over cover. Hope gets hands on it but spills it.
 
 
 Balls faced: 24
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short (length) and wide, slapped to the left of deep point. 139ks, was close to the off-side tramline. Stand and deliver from the batter"}]Short (length) and wide, slapped to the left of deep point. 139ks, was close to the off-side tramline. Stand and deliver from the batter
+Short (length) and wide, slapped to the left of deep point. 139ks, was close to the off-side tramline. Stand and deliver from the batter
 
 
 Balls faced: 25
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Driven on the up, goes to deep point. Fullish length on sixth, 139ks"}]Driven on the up, goes to deep point. Fullish length on sixth, 139ks
+Driven on the up, goes to deep point. Fullish length on sixth, 139ks
 
 
 Balls faced: 26
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length just outside off, tries to punch it towards mid-off. Gets cramped, inside edges it onto thigh pad"}]Length just outside off, tries to punch it towards mid-off. Gets cramped, inside edges it onto thigh pad
+Length just outside off, tries to punch it towards mid-off. Gets cramped, inside edges it onto thigh pad
 
 
 Balls faced: 27
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tries to pull the fourth-stump ball on a back of length, ball goes under bat"}]Tries to pull the fourth-stump ball on a back of length, ball goes under bat
+Tries to pull the fourth-stump ball on a back of length, ball goes under bat
 
 
 Balls faced: 28
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flat on a fullish length, slapped to cover"}]Flat on a fullish length, slapped to cover
+Flat on a fullish length, slapped to cover
 
 
 Balls faced: 29
 Bowler: Motie
 Over: 21
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Leans forward and defends"}]Leans forward and defends
+Leans forward and defends
 
 
 Balls faced: 30
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full at the stumps, pushed to the bowler"}]Full at the stumps, pushed to the bowler
-[{"type": "HTML", "html": "prakash: \"4 matches concurrently at the moment. Very confusing to follow each match at their own phase and run rates.... \""}]prakash: "4 matches concurrently at the moment. Very confusing to follow each match at their own phase and run rates.... "
+Full at the stumps, pushed to the bowler
+prakash: "4 matches concurrently at the moment. Very confusing to follow each match at their own phase and run rates.... "
 
 Balls faced: 31
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Spins away to beat bat. 81ks on a fullish length, lands on fifth and rags away."}]Spins away to beat bat. 81ks on a fullish length, lands on fifth and rags away.
+Spins away to beat bat. 81ks on a fullish length, lands on fifth and rags away.
 
 
 Balls faced: 32
 Bowler: Motie
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length outside off, driven to deep cover"}]Length outside off, driven to deep cover
-[{"type": "HTML", "html": "Adrian Holdstock has another word with the skip."}]Adrian Holdstock has another word with the skip.
+Length outside off, driven to deep cover
+Adrian Holdstock has another word with the skip.
 
 Balls faced: 33
 Bowler: Motie
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full ball has been stirred to cover"}]Full ball has been stirred to cover
+Full ball has been stirred to cover
 
 
 Balls faced: 34
 Bowler: Motie
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Slip remains, still around"}]Slip remains, still around
+Slip remains, still around
 
-[{"type": "HTML", "html": "Full around off, makes room and drives to long-off"}]Full around off, makes room and drives to long-off
+Full around off, makes room and drives to long-off
 
 
 Balls faced: 35
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Driven on the up, goes to deep point. Fullish length on sixth, 139ks"}]Driven on the up, goes to deep point. Fullish length on sixth, 139ks
+Driven on the up, goes to deep point. Fullish length on sixth, 139ks
 
 
 Balls faced: 36
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length just outside off, tries to punch it towards mid-off. Gets cramped, inside edges it onto thigh pad"}]Length just outside off, tries to punch it towards mid-off. Gets cramped, inside edges it onto thigh pad
+Length just outside off, tries to punch it towards mid-off. Gets cramped, inside edges it onto thigh pad
 
 
 Balls faced: 37
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tries to pull the fourth-stump ball on a back of length, ball goes under bat"}]Tries to pull the fourth-stump ball on a back of length, ball goes under bat
+Tries to pull the fourth-stump ball on a back of length, ball goes under bat
 
 
 Balls faced: 38
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Shortish ball at the body is pulled over fine leg. Short tries to pull"}]Shortish ball at the body is pulled over fine leg. Short tries to pull
+Shortish ball at the body is pulled over fine leg. Short tries to pull
 
 
 Balls faced: 39
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full around off, punched to mid-on"}]Full around off, punched to mid-on
+Full around off, punched to mid-on
 
 
 Balls faced: 40
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Outside edge goes straight of deep third. Short tries to punch it on the up through cover, off the back foot."}]Outside edge goes straight of deep third. Short tries to punch it on the up through cover, off the back foot.
+Outside edge goes straight of deep third. Short tries to punch it on the up through cover, off the back foot.
 
 
 Balls faced: 41
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball on off, decks back in a bit. Short tries to stab it square"}]Shortish ball on off, decks back in a bit. Short tries to stab it square
+Shortish ball on off, decks back in a bit. Short tries to stab it square
 
 
 Balls faced: 42
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pulled around the corner, deep square leg charges to the right and dives while interceptinng. Keeps it to one. Looked like it was Carty. Ball was shortish and at the body, Short swivelled and eased it"}]Pulled around the corner, deep square leg charges to the right and dives while interceptinng. Keeps it to one. Looked like it was Carty. Ball was shortish and at the body, Short swivelled and eased it
+Pulled around the corner, deep square leg charges to the right and dives while interceptinng. Keeps it to one. Looked like it was Carty. Ball was shortish and at the body, Short swivelled and eased it
 
 
 Balls faced: 43
 Bowler: Motie
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length outside off, driven to deep cover"}]Length outside off, driven to deep cover
-[{"type": "HTML", "html": "Adrian Holdstock has another word with the skip."}]Adrian Holdstock has another word with the skip.
+Length outside off, driven to deep cover
+Adrian Holdstock has another word with the skip.
 
 Balls faced: 44
 Bowler: Motie
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full ball has been stirred to cover"}]Full ball has been stirred to cover
+Full ball has been stirred to cover
 
 
 Balls faced: 45
 Bowler: Motie
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Slip remains, still around"}]Slip remains, still around
+Slip remains, still around
 
-[{"type": "HTML", "html": "Full around off, makes room and drives to long-off"}]Full around off, makes room and drives to long-off
+Full around off, makes room and drives to long-off
 
 
 Balls faced: 46
 Bowler: Motie
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full around middle, driven to long-off"}]Full around middle, driven to long-off
+Full around middle, driven to long-off
 
 
 Balls faced: 47
 Bowler: Motie
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, quicker, punched to cover"}]Length on off, quicker, punched to cover
+Length on off, quicker, punched to cover
 
 
 Balls faced: 48
 Bowler: Motie
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball outside off, cut to point"}]Shortish ball outside off, cut to point
+Shortish ball outside off, cut to point
 
 
 Balls faced: 49
 Bowler: Motie
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length outside off, back foot drive to deep cover"}]Length outside off, back foot drive to deep cover
+Length outside off, back foot drive to deep cover
 
 
 Balls faced: 50
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Shortish ball at the body is pulled over fine leg. Short tries to pull"}]Shortish ball at the body is pulled over fine leg. Short tries to pull
+Shortish ball at the body is pulled over fine leg. Short tries to pull
 
 
 Balls faced: 51
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full around off, punched to mid-on"}]Full around off, punched to mid-on
+Full around off, punched to mid-on
 
 
 Balls faced: 52
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Outside edge goes straight of deep third. Short tries to punch it on the up through cover, off the back foot."}]Outside edge goes straight of deep third. Short tries to punch it on the up through cover, off the back foot.
+Outside edge goes straight of deep third. Short tries to punch it on the up through cover, off the back foot.
 
 
 Balls faced: 53
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball on off, decks back in a bit. Short tries to stab it square"}]Shortish ball on off, decks back in a bit. Short tries to stab it square
+Shortish ball on off, decks back in a bit. Short tries to stab it square
 
 
 Balls faced: 54
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pulled around the corner, deep square leg charges to the right and dives while interceptinng. Keeps it to one. Looked like it was Carty. Ball was shortish and at the body, Short swivelled and eased it"}]Pulled around the corner, deep square leg charges to the right and dives while interceptinng. Keeps it to one. Looked like it was Carty. Ball was shortish and at the body, Short swivelled and eased it
+Pulled around the corner, deep square leg charges to the right and dives while interceptinng. Keeps it to one. Looked like it was Carty. Ball was shortish and at the body, Short swivelled and eased it
 
 
 Balls faced: 55
 Bowler: Chase
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortish on leg, punched off the back foot to long-on"}]Shortish on leg, punched off the back foot to long-on
+Shortish on leg, punched off the back foot to long-on
 
 
 Balls faced: 56
 Bowler: Chase
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish on leg again, big spin and bounce again, worked to short fine leg"}]Shortish on leg again, big spin and bounce again, worked to short fine leg
+Shortish on leg again, big spin and bounce again, worked to short fine leg
 
 Legbyes: 1
 Balls faced: 57
 Bowler: Chase
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball lands around off and spins back in to leg, beats the flick and goes off the thigh pad."}]Shortish ball lands around off and spins back in to leg, beats the flick and goes off the thigh pad.
+Shortish ball lands around off and spins back in to leg, beats the flick and goes off the thigh pad.
 
 
 Balls faced: 58
 Bowler: Motie
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full around middle, driven to long-off"}]Full around middle, driven to long-off
+Full around middle, driven to long-off
 
 
 Balls faced: 59
 Bowler: Motie
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, quicker, punched to cover"}]Length on off, quicker, punched to cover
+Length on off, quicker, punched to cover
 
 
 Balls faced: 60
 Bowler: Motie
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball outside off, cut to point"}]Shortish ball outside off, cut to point
+Shortish ball outside off, cut to point
 
 
 Balls faced: 61
 Bowler: Motie
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length outside off, back foot drive to deep cover"}]Length outside off, back foot drive to deep cover
+Length outside off, back foot drive to deep cover
 
 
 Balls faced: 62
 Bowler: Motie
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Around, slip i"}]Around, slip i
+Around, slip i
 
-[{"type": "HTML", "html": "Wide on a length, cut to deep point"}]Wide on a length, cut to deep point
+Wide on a length, cut to deep point
 
 
 Balls faced: 63
 Bowler: Chase
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortish on leg, punched off the back foot to long-on"}]Shortish on leg, punched off the back foot to long-on
+Shortish on leg, punched off the back foot to long-on
 
 
 Balls faced: 64
 Bowler: Chase
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish on leg again, big spin and bounce again, worked to short fine leg"}]Shortish on leg again, big spin and bounce again, worked to short fine leg
+Shortish on leg again, big spin and bounce again, worked to short fine leg
 
 Legbyes: 1
 Balls faced: 65
 Bowler: Chase
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball lands around off and spins back in to leg, beats the flick and goes off the thigh pad."}]Shortish ball lands around off and spins back in to leg, beats the flick and goes off the thigh pad.
+Shortish ball lands around off and spins back in to leg, beats the flick and goes off the thigh pad.
 
 
 Balls faced: 66
 Bowler: Chase
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on off, pushed to the left of the bowler"}]Fullish ball on off, pushed to the left of the bowler
+Fullish ball on off, pushed to the left of the bowler
 
 
 Balls faced: 67
 Bowler: Chase
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Flat length ball on off, punched with the spin to long-off. Fifty partnership up"}]Flat length ball on off, punched with the spin to long-off. Fifty partnership up
+Flat length ball on off, punched with the spin to long-off. Fifty partnership up
 
 
 Balls faced: 68
 Bowler: Motie
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Around, slip i"}]Around, slip i
+Around, slip i
 
-[{"type": "HTML", "html": "Wide on a length, cut to deep point"}]Wide on a length, cut to deep point
+Wide on a length, cut to deep point
 
 
 Balls faced: 69
 Bowler: Motie
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle, driven to long-on"}]Full on middle, driven to long-on
+Full on middle, driven to long-on
 
 
 Balls faced: 70
 Bowler: Motie
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off, leans forward and slashes it along the ground to cover"}]Full on off, leans forward and slashes it along the ground to cover
+Full on off, leans forward and slashes it along the ground to cover
 
 
 Balls faced: 71
 Bowler: Motie
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball lands around off and spins away, cut to cover"}]Length ball lands around off and spins away, cut to cover
+Length ball lands around off and spins away, cut to cover
 
 
 Balls faced: 72
 Bowler: Chase
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on off, pushed to the left of the bowler"}]Fullish ball on off, pushed to the left of the bowler
+Fullish ball on off, pushed to the left of the bowler
 
 
 Balls faced: 73
 Bowler: Chase
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Flat length ball on off, punched with the spin to long-off. Fifty partnership up"}]Flat length ball on off, punched with the spin to long-off. Fifty partnership up
+Flat length ball on off, punched with the spin to long-off. Fifty partnership up
 
 
 Balls faced: 74
 Bowler: Chase
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortish on leg, clears the front leg and pulls to long-on"}]Shortish on leg, clears the front leg and pulls to long-on
+Shortish on leg, clears the front leg and pulls to long-on
 
 
 Balls faced: 75
 Bowler: Chase
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball lands outside off spins to off, is pushed to cover"}]Fullish ball lands outside off spins to off, is pushed to cover
+Fullish ball lands outside off spins to off, is pushed to cover
 
 
 Balls faced: 76
 Bowler: Chase
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on leg, clipped through forward square leg"}]Length on leg, clipped through forward square leg
+Length on leg, clipped through forward square leg
 
 
 Balls faced: 77
 Bowler: Chase
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Length ball lands outside off and spins back in a bit, cut to the left of deep point"}]Length ball lands outside off and spins back in a bit, cut to the left of deep point
+Length ball lands outside off and spins back in a bit, cut to the left of deep point
 
 
 Balls faced: 78
 Bowler: Motie
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle, driven to long-on"}]Full on middle, driven to long-on
+Full on middle, driven to long-on
 
 
 Balls faced: 79
 Bowler: Motie
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off, leans forward and slashes it along the ground to cover"}]Full on off, leans forward and slashes it along the ground to cover
+Full on off, leans forward and slashes it along the ground to cover
 
 
 Balls faced: 80
 Bowler: Motie
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball lands around off and spins away, cut to cover"}]Length ball lands around off and spins away, cut to cover
+Length ball lands around off and spins away, cut to cover
 
 
 Balls faced: 81
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle and leg, whipped to long-on. 98ks"}]Full on middle and leg, whipped to long-on. 98ks
-[{"type": "HTML", "html": "Bernie: \"Tough wicket or good bowling?\" Bit of both, Motie and Chase have been excellent. A few soft dismissals too though."}]Bernie: "Tough wicket or good bowling?" Bit of both, Motie and Chase have been excellent. A few soft dismissals too though.
+Full on middle and leg, whipped to long-on. 98ks
+Bernie: "Tough wicket or good bowling?" Bit of both, Motie and Chase have been excellent. A few soft dismissals too though.
 
 Balls faced: 82
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, punched to cover"}]Length on off, punched to cover
+Length on off, punched to cover
 
 
 Balls faced: 83
 Bowler: Chase
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortish on leg, clears the front leg and pulls to long-on"}]Shortish on leg, clears the front leg and pulls to long-on
+Shortish on leg, clears the front leg and pulls to long-on
 
 
 Balls faced: 84
 Bowler: Chase
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball lands outside off spins to off, is pushed to cover"}]Fullish ball lands outside off spins to off, is pushed to cover
+Fullish ball lands outside off spins to off, is pushed to cover
 
 
 Balls faced: 85
 Bowler: Chase
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on leg, clipped through forward square leg"}]Length on leg, clipped through forward square leg
+Length on leg, clipped through forward square leg
 
 
 Balls faced: 86
 Bowler: Chase
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Length ball lands outside off and spins back in a bit, cut to the left of deep point"}]Length ball lands outside off and spins back in a bit, cut to the left of deep point
+Length ball lands outside off and spins back in a bit, cut to the left of deep point
 
 
 Balls faced: 87
 Bowler: Chase
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full outside off, driven to long-off"}]Full outside off, driven to long-off
-[{"type": "HTML", "html": "Steve: \"Great opportunity for Matt Short to make this middle order spot his own. Hope to see some carnage in the death overs from Will Sutherland.\""}]Steve: "Great opportunity for Matt Short to make this middle order spot his own. Hope to see some carnage in the death overs from Will Sutherland."
+Full outside off, driven to long-off
+Steve: "Great opportunity for Matt Short to make this middle order spot his own. Hope to see some carnage in the death overs from Will Sutherland."
 
 Balls faced: 88
 Bowler: Chase
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle and leg, worked to long-on"}]Full on middle and leg, worked to long-on
+Full on middle and leg, worked to long-on
 
 
 Balls faced: 89
 Bowler: Chase
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball outside off, pushed to point"}]Fullish ball outside off, pushed to point
+Fullish ball outside off, pushed to point
 
 
 Balls faced: 90
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle and leg, whipped to long-on. 98ks"}]Full on middle and leg, whipped to long-on. 98ks
-[{"type": "HTML", "html": "Bernie: \"Tough wicket or good bowling?\" Bit of both, Motie and Chase have been excellent. A few soft dismissals too though."}]Bernie: "Tough wicket or good bowling?" Bit of both, Motie and Chase have been excellent. A few soft dismissals too though.
+Full on middle and leg, whipped to long-on. 98ks
+Bernie: "Tough wicket or good bowling?" Bit of both, Motie and Chase have been excellent. A few soft dismissals too though.
 
 Balls faced: 91
 Bowler: Motie
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, punched to cover"}]Length on off, punched to cover
+Length on off, punched to cover
 
 
 Balls faced: 92
 Bowler: Motie
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Flat on a length, Short's T20 instincts come into play. He stands tall and muscles it off the back foot to long-on"}]Flat on a length, Short's T20 instincts come into play. He stands tall and muscles it off the back foot to long-on
+Flat on a length, Short's T20 instincts come into play. He stands tall and muscles it off the back foot to long-on
 
 
 Balls faced: 93
 Bowler: Motie
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full outside off, driven to cover"}]Full outside off, driven to cover
+Full outside off, driven to cover
 
 
 Balls faced: 94
 Bowler: Motie
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Sweeps the fullish ball from just outside off. Hit against the spin, manufactures all the pace and gets it in front of square"}]Sweeps the fullish ball from just outside off. Hit against the spin, manufactures all the pace and gets it in front of square
+Sweeps the fullish ball from just outside off. Hit against the spin, manufactures all the pace and gets it in front of square
 
 
 Balls faced: 95
 Bowler: Motie
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Arond, slip in, which has been Motie's go-to plan"}]Arond, slip in, which has been Motie's go-to plan
+Arond, slip in, which has been Motie's go-to plan
 
-[{"type": "HTML", "html": "Defends it to cover"}]Defends it to cover
+Defends it to cover
 
 
 Balls faced: 96
 Bowler: Chase
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full outside off, driven to long-off"}]Full outside off, driven to long-off
-[{"type": "HTML", "html": "Steve: \"Great opportunity for Matt Short to make this middle order spot his own. Hope to see some carnage in the death overs from Will Sutherland.\""}]Steve: "Great opportunity for Matt Short to make this middle order spot his own. Hope to see some carnage in the death overs from Will Sutherland."
+Full outside off, driven to long-off
+Steve: "Great opportunity for Matt Short to make this middle order spot his own. Hope to see some carnage in the death overs from Will Sutherland."
 
 Balls faced: 97
 Bowler: Chase
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle and leg, worked to long-on"}]Full on middle and leg, worked to long-on
+Full on middle and leg, worked to long-on
 
 
 Balls faced: 98
 Bowler: Chase
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball outside off, pushed to point"}]Fullish ball outside off, pushed to point
+Fullish ball outside off, pushed to point
 
 
 Balls faced: 99
 Bowler: Chase
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fullish ball on middle and off, offbreak at 83ks, driven to long-off"}]Fullish ball on middle and off, offbreak at 83ks, driven to long-off
+Fullish ball on middle and off, offbreak at 83ks, driven to long-off
 
 
 Balls faced: 100
 Bowler: Chase
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on middle, Short slides leg side and clips it to midwicket"}]Full on middle, Short slides leg side and clips it to midwicket
+Full on middle, Short slides leg side and clips it to midwicket
 
 
 Balls faced: 101
 Bowler: Motie
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Flat on a length, Short's T20 instincts come into play. He stands tall and muscles it off the back foot to long-on"}]Flat on a length, Short's T20 instincts come into play. He stands tall and muscles it off the back foot to long-on
+Flat on a length, Short's T20 instincts come into play. He stands tall and muscles it off the back foot to long-on
 
 
 Balls faced: 102
 Bowler: Motie
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full outside off, driven to cover"}]Full outside off, driven to cover
+Full outside off, driven to cover
 
 
 Balls faced: 103
 Bowler: Motie
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Sweeps the fullish ball from just outside off. Hit against the spin, manufactures all the pace and gets it in front of square"}]Sweeps the fullish ball from just outside off. Hit against the spin, manufactures all the pace and gets it in front of square
+Sweeps the fullish ball from just outside off. Hit against the spin, manufactures all the pace and gets it in front of square
 
 
 Balls faced: 104
 Bowler: Motie
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Arond, slip in, which has been Motie's go-to plan"}]Arond, slip in, which has been Motie's go-to plan
+Arond, slip in, which has been Motie's go-to plan
 
-[{"type": "HTML", "html": "Defends it to cover"}]Defends it to cover
+Defends it to cover
 
 
 Balls faced: 105
 Bowler: Motie
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Spooned back to the bowler!</strong>. This one might've stuck in the pitch. Shortish ball at the stumps, Short cleared his front leg and tried driving it on top of the bounce with a vertical bat. But the bounce and lack of pace had him splice it back to the bowler. Easy catch for Motie, just reward for good bowling."}]<strong>Spooned back to the bowler!</strong>. This one might've stuck in the pitch. Shortish ball at the stumps, Short cleared his front leg and tried driving it on top of the bounce with a vertical bat. But the bounce and lack of pace had him splice it back to the bowler. Easy catch for Motie, just reward for good bowling.
-[{"type": "HTML", "html": "Drinks. West Indies are in with a great chance. Can they close this innings out? Find out with Alex"}]Drinks. West Indies are in with a great chance. Can they close this innings out? Find out with Alex
+MW Short is OUT! caught
+c & b Motie
+Matthew Short c & b Motie 41 (55b 2x4 1x6 64m) SR: 74.54
+<strong>Spooned back to the bowler!</strong>. This one might've stuck in the pitch. Shortish ball at the stumps, Short cleared his front leg and tried driving it on top of the bounce with a vertical bat. But the bounce and lack of pace had him splice it back to the bowler. Easy catch for Motie, just reward for good bowling.
+Drinks. West Indies are in with a great chance. Can they close this innings out? Find out with Alex
 
 Balls faced: 106
 Bowler: Motie
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Motie to close out his excellent spell. Slip remains"}]Motie to close out his excellent spell. Slip remains
+Motie to close out his excellent spell. Slip remains
 
-[{"type": "HTML", "html": "Full on leg, whipped to long-on"}]Full on leg, whipped to long-on
+Full on leg, whipped to long-on
 
 
 Balls faced: 107
 Bowler: Chase
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fullish ball on middle and off, offbreak at 83ks, driven to long-off"}]Fullish ball on middle and off, offbreak at 83ks, driven to long-off
+Fullish ball on middle and off, offbreak at 83ks, driven to long-off
 
 
 Balls faced: 108
 Bowler: Chase
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on middle, Short slides leg side and clips it to midwicket"}]Full on middle, Short slides leg side and clips it to midwicket
+Full on middle, Short slides leg side and clips it to midwicket
 
 
 Balls faced: 109
 Bowler: Motie
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Spooned back to the bowler!</strong>. This one might've stuck in the pitch. Shortish ball at the stumps, Short cleared his front leg and tried driving it on top of the bounce with a vertical bat. But the bounce and lack of pace had him splice it back to the bowler. Easy catch for Motie, just reward for good bowling."}]<strong>Spooned back to the bowler!</strong>. This one might've stuck in the pitch. Shortish ball at the stumps, Short cleared his front leg and tried driving it on top of the bounce with a vertical bat. But the bounce and lack of pace had him splice it back to the bowler. Easy catch for Motie, just reward for good bowling.
-[{"type": "HTML", "html": "Drinks. West Indies are in with a great chance. Can they close this innings out? Find out with Alex"}]Drinks. West Indies are in with a great chance. Can they close this innings out? Find out with Alex
+MW Short is OUT! caught
+c & b Motie
+Matthew Short c & b Motie 41 (55b 2x4 1x6 64m) SR: 74.54
+<strong>Spooned back to the bowler!</strong>. This one might've stuck in the pitch. Shortish ball at the stumps, Short cleared his front leg and tried driving it on top of the bounce with a vertical bat. But the bounce and lack of pace had him splice it back to the bowler. Easy catch for Motie, just reward for good bowling.
+Drinks. West Indies are in with a great chance. Can they close this innings out? Find out with Alex
 
 Balls faced: 110
 Bowler: Motie
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Motie to close out his excellent spell. Slip remains"}]Motie to close out his excellent spell. Slip remains
+Motie to close out his excellent spell. Slip remains
 
-[{"type": "HTML", "html": "Full on leg, whipped to long-on"}]Full on leg, whipped to long-on
+Full on leg, whipped to long-on
 
 
 
@@ -1104,219 +1218,244 @@ Match: all_games_1388188_1388225.json
 Balls faced: 1
 Bowler: Milne
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Here's Short. He didn't bat or bowl in the opening T20I and was rotated out of the second match."}]Here's Short. He didn't bat or bowl in the opening T20I and was rotated out of the second match.
+Here's Short. He didn't bat or bowl in the opening T20I and was rotated out of the second match.
 
-[{"type": "HTML", "html": "good length and on middle and leg, 142ks, Short whips it away through the midwicket region"}]good length and on middle and leg, 142ks, Short whips it away through the midwicket region
+good length and on middle and leg, 142ks, Short whips it away through the midwicket region
 
 
 Balls faced: 2
 Bowler: Boult
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length and on top of off stump, Short punches to mid-off and scampers across to the other end"}]back of a length and on top of off stump, Short punches to mid-off and scampers across to the other end
+back of a length and on top of off stump, Short punches to mid-off and scampers across to the other end
 
 
 Balls faced: 3
 Bowler: Boult
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "much fuller and on the pads, firmly whipped away to deep midwicket"}]much fuller and on the pads, firmly whipped away to deep midwicket
+much fuller and on the pads, firmly whipped away to deep midwicket
 
 
 Balls faced: 4
 Bowler: Boult
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Caleb: \"That was a bit of a nothing shot from Smith. Given Australia said that Smith would need to score on this tour to make the World Cup squad, do these two failures mean he won't feature at the World Cup?\""}]Caleb: "That was a bit of a nothing shot from Smith. Given Australia said that Smith would need to score on this tour to make the World Cup squad, do these two failures mean he won't feature at the World Cup?"
+Caleb: "That was a bit of a nothing shot from Smith. Given Australia said that Smith would need to score on this tour to make the World Cup squad, do these two failures mean he won't feature at the World Cup?"
 
-[{"type": "HTML", "html": "<strong>punched on the up over extra-cover!</strong> On a length and just a shade outside off, Short plants his front leg and goes over the top"}]<strong>punched on the up over extra-cover!</strong> On a length and just a shade outside off, Short plants his front leg and goes over the top
+<strong>punched on the up over extra-cover!</strong> On a length and just a shade outside off, Short plants his front leg and goes over the top
 
 
 Balls faced: 5
 Bowler: Boult
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Can Boult find the right length in his second over?"}]Can Boult find the right length in his second over?
+Can Boult find the right length in his second over?
 
-[{"type": "HTML", "html": "hip-high short ball on middle, Short latches onto it and splices a pull over midwicket. Not middled, but still clears the boundary at Eden Park"}]hip-high short ball on middle, Short latches onto it and splices a pull over midwicket. Not middled, but still clears the boundary at Eden Park
+hip-high short ball on middle, Short latches onto it and splices a pull over midwicket. Not middled, but still clears the boundary at Eden Park
 
 
 Balls faced: 6
 Bowler: Milne
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Here's Short. He didn't bat or bowl in the opening T20I and was rotated out of the second match."}]Here's Short. He didn't bat or bowl in the opening T20I and was rotated out of the second match.
+Here's Short. He didn't bat or bowl in the opening T20I and was rotated out of the second match.
 
-[{"type": "HTML", "html": "good length and on middle and leg, 142ks, Short whips it away through the midwicket region"}]good length and on middle and leg, 142ks, Short whips it away through the midwicket region
+good length and on middle and leg, 142ks, Short whips it away through the midwicket region
 
 
 Balls faced: 7
 Bowler: Sears
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
-[{"type": "HTML", "html": "Sears comes into the attack. Over the wicket"}]Sears comes into the attack. Over the wicket
+Sears comes into the attack. Over the wicket
 
-[{"type": "HTML", "html": "nice and full on middle and leg, offcutter? tucked away through the square-leg region"}]nice and full on middle and leg, offcutter? tucked away through the square-leg region
+nice and full on middle and leg, offcutter? tucked away through the square-leg region
 
 
 Balls faced: 8
 Bowler: Boult
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length and on top of off stump, Short punches to mid-off and scampers across to the other end"}]back of a length and on top of off stump, Short punches to mid-off and scampers across to the other end
+back of a length and on top of off stump, Short punches to mid-off and scampers across to the other end
 
 
 Balls faced: 9
 Bowler: Boult
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "much fuller and on the pads, firmly whipped away to deep midwicket"}]much fuller and on the pads, firmly whipped away to deep midwicket
+much fuller and on the pads, firmly whipped away to deep midwicket
 
 
 Balls faced: 10
 Bowler: Boult
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Caleb: \"That was a bit of a nothing shot from Smith. Given Australia said that Smith would need to score on this tour to make the World Cup squad, do these two failures mean he won't feature at the World Cup?\""}]Caleb: "That was a bit of a nothing shot from Smith. Given Australia said that Smith would need to score on this tour to make the World Cup squad, do these two failures mean he won't feature at the World Cup?"
+Caleb: "That was a bit of a nothing shot from Smith. Given Australia said that Smith would need to score on this tour to make the World Cup squad, do these two failures mean he won't feature at the World Cup?"
 
-[{"type": "HTML", "html": "<strong>punched on the up over extra-cover!</strong> On a length and just a shade outside off, Short plants his front leg and goes over the top"}]<strong>punched on the up over extra-cover!</strong> On a length and just a shade outside off, Short plants his front leg and goes over the top
+<strong>punched on the up over extra-cover!</strong> On a length and just a shade outside off, Short plants his front leg and goes over the top
 
 
 Balls faced: 11
 Bowler: Boult
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Can Boult find the right length in his second over?"}]Can Boult find the right length in his second over?
+Can Boult find the right length in his second over?
 
-[{"type": "HTML", "html": "hip-high short ball on middle, Short latches onto it and splices a pull over midwicket. Not middled, but still clears the boundary at Eden Park"}]hip-high short ball on middle, Short latches onto it and splices a pull over midwicket. Not middled, but still clears the boundary at Eden Park
+hip-high short ball on middle, Short latches onto it and splices a pull over midwicket. Not middled, but still clears the boundary at Eden Park
 
 
 Balls faced: 12
 Bowler: Milne
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length and outside off, Short attacks the ball once again, swiped away to the right of deep midwicket this time"}]back of a length and outside off, Short attacks the ball once again, swiped away to the right of deep midwicket this time
+back of a length and outside off, Short attacks the ball once again, swiped away to the right of deep midwicket this time
 
 
 Balls faced: 13
 Bowler: Milne
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>swatted away straight of mid-on for six more</strong>. He hangs back to this short, slower ball outside off and swings it down the ground once again"}]<strong>swatted away straight of mid-on for six more</strong>. He hangs back to this short, slower ball outside off and swings it down the ground once again
+<strong>swatted away straight of mid-on for six more</strong>. He hangs back to this short, slower ball outside off and swings it down the ground once again
 
 
 Balls faced: 14
 Bowler: Milne
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>pumped over mid-off for an imposing six.</strong> Milne overpitches this outside off, Short plants his front leg and launches an 82-metre six"}]<strong>pumped over mid-off for an imposing six.</strong> Milne overpitches this outside off, Short plants his front leg and launches an 82-metre six
+<strong>pumped over mid-off for an imposing six.</strong> Milne overpitches this outside off, Short plants his front leg and launches an 82-metre six
 
 
 Balls faced: 15
 Bowler: Milne
 Over: 5
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and thudding into the thigh pad as Milne beats Short for pace"}]back of a length and thudding into the thigh pad as Milne beats Short for pace
+back of a length and thudding into the thigh pad as Milne beats Short for pace
 
 
 Balls faced: 16
 Bowler: Sears
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
-[{"type": "HTML", "html": "Sears comes into the attack. Over the wicket"}]Sears comes into the attack. Over the wicket
+Sears comes into the attack. Over the wicket
 
-[{"type": "HTML", "html": "nice and full on middle and leg, offcutter? tucked away through the square-leg region"}]nice and full on middle and leg, offcutter? tucked away through the square-leg region
+nice and full on middle and leg, offcutter? tucked away through the square-leg region
 
 
 Balls faced: 17
 Bowler: Sears
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
+MW Short is OUT! caught
+c †Seifert b Sears
+Matthew Short c †Seifert b Sears 27 (11b 1x4 3x6 21m) SR: 245.45
+<strong>Another chance, Seifert hangs onto this skier!</strong> Relief for Sears. Possibly a slower variation from Sears, Short aims to thump it over the leg side but only skews it in the air. Seifert runs in but the ball keeps swirling away from him. He dives and clings onto the ball
 
-[{"type": "HTML", "html": "<strong>Another chance, Seifert hangs onto this skier!</strong> Relief for Sears. Possibly a slower variation from Sears, Short aims to thump it over the leg side but only skews it in the air. Seifert runs in but the ball keeps swirling away from him. He dives and clings onto the ball"}]<strong>Another chance, Seifert hangs onto this skier!</strong> Relief for Sears. Possibly a slower variation from Sears, Short aims to thump it over the leg side but only skews it in the air. Seifert runs in but the ball keeps swirling away from him. He dives and clings onto the ball
-[{"type": "TWITTER", "url": "https://twitter.com/ESPNcricinfo/status/1761548829088973249"}]
 
 Balls faced: 18
 Bowler: Milne
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length and outside off, Short attacks the ball once again, swiped away to the right of deep midwicket this time"}]back of a length and outside off, Short attacks the ball once again, swiped away to the right of deep midwicket this time
+back of a length and outside off, Short attacks the ball once again, swiped away to the right of deep midwicket this time
 
 
 Balls faced: 19
 Bowler: Milne
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>swatted away straight of mid-on for six more</strong>. He hangs back to this short, slower ball outside off and swings it down the ground once again"}]<strong>swatted away straight of mid-on for six more</strong>. He hangs back to this short, slower ball outside off and swings it down the ground once again
+<strong>swatted away straight of mid-on for six more</strong>. He hangs back to this short, slower ball outside off and swings it down the ground once again
 
 
 Balls faced: 20
 Bowler: Milne
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>pumped over mid-off for an imposing six.</strong> Milne overpitches this outside off, Short plants his front leg and launches an 82-metre six"}]<strong>pumped over mid-off for an imposing six.</strong> Milne overpitches this outside off, Short plants his front leg and launches an 82-metre six
+<strong>pumped over mid-off for an imposing six.</strong> Milne overpitches this outside off, Short plants his front leg and launches an 82-metre six
 
 
 Balls faced: 21
 Bowler: Milne
 Over: 5
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and thudding into the thigh pad as Milne beats Short for pace"}]back of a length and thudding into the thigh pad as Milne beats Short for pace
+back of a length and thudding into the thigh pad as Milne beats Short for pace
 
 
 Balls faced: 22
 Bowler: Sears
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Another chance, Seifert hangs onto this skier!</strong> Relief for Sears. Possibly a slower variation from Sears, Short aims to thump it over the leg side but only skews it in the air. Seifert runs in but the ball keeps swirling away from him. He dives and clings onto the ball"}]<strong>Another chance, Seifert hangs onto this skier!</strong> Relief for Sears. Possibly a slower variation from Sears, Short aims to thump it over the leg side but only skews it in the air. Seifert runs in but the ball keeps swirling away from him. He dives and clings onto the ball
-[{"type": "TWITTER", "url": "https://twitter.com/ESPNcricinfo/status/1761548829088973249"}]
+MW Short is OUT! caught
+c †Seifert b Sears
+Matthew Short c †Seifert b Sears 27 (11b 1x4 3x6 21m) SR: 245.45
+<strong>Another chance, Seifert hangs onto this skier!</strong> Relief for Sears. Possibly a slower variation from Sears, Short aims to thump it over the leg side but only skews it in the air. Seifert runs in but the ball keeps swirling away from him. He dives and clings onto the ball

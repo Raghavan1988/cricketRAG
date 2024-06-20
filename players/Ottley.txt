@@ -2,281 +2,313 @@ Match: all_games_1375837_1375848.json
 Balls faced: 1
 Bowler: Hardie
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller ball is pushed down the ground"}]Fuller ball is pushed down the ground
+Fuller ball is pushed down the ground
 
 
 Balls faced: 2
 Bowler: Hardie
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beats the outside edge. Cross seam on a length, lands around off and shapes away. Ottley shaped to push towards mid-off"}]Beats the outside edge. Cross seam on a length, lands around off and shapes away. Ottley shaped to push towards mid-off
+Beats the outside edge. Cross seam on a length, lands around off and shapes away. Ottley shaped to push towards mid-off
 
 
 Balls faced: 3
 Bowler: Hazlewood
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Comes back in, well handled by Ottley. Looked like straightened off the seam, length ball lands around fourth and was stabbed to the off side"}]Comes back in, well handled by Ottley. Looked like straightened off the seam, length ball lands around fourth and was stabbed to the off side
+Comes back in, well handled by Ottley. Looked like straightened off the seam, length ball lands around fourth and was stabbed to the off side
 
 
 Balls faced: 4
 Bowler: Hazlewood
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball lands around off and leaves it"}]Fullish ball lands around off and leaves it
+Fullish ball lands around off and leaves it
 
 
 Balls faced: 5
 Bowler: Hardie
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller ball is pushed down the ground"}]Fuller ball is pushed down the ground
+Fuller ball is pushed down the ground
 
 
 Balls faced: 6
 Bowler: Hardie
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beats the outside edge. Cross seam on a length, lands around off and shapes away. Ottley shaped to push towards mid-off"}]Beats the outside edge. Cross seam on a length, lands around off and shapes away. Ottley shaped to push towards mid-off
+Beats the outside edge. Cross seam on a length, lands around off and shapes away. Ottley shaped to push towards mid-off
 
 
 Balls faced: 7
 Bowler: Hardie
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pitched up at the stumps, 131ks, punched back to the bowler. Stopped in the follow-through"}]Pitched up at the stumps, 131ks, punched back to the bowler. Stopped in the follow-through
-[{"type": "HTML", "html": "Rahul Malnad : \"Shai HOPE to steady the sinking ship yet again:) \""}]Rahul Malnad : "Shai HOPE to steady the sinking ship yet again:) "
+Pitched up at the stumps, 131ks, punched back to the bowler. Stopped in the follow-through
+Rahul Malnad : "Shai HOPE to steady the sinking ship yet again:) "
 
 Balls faced: 8
 Bowler: Hardie
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Leans into the cover drive, Abbott runs from mid-off and stops it in the outfield. Was a full ball angling away through fifth, Ottley got back and across and eased it along the ground"}]Leans into the cover drive, Abbott runs from mid-off and stops it in the outfield. Was a full ball angling away through fifth, Ottley got back and across and eased it along the ground
+Leans into the cover drive, Abbott runs from mid-off and stops it in the outfield. Was a full ball angling away through fifth, Ottley got back and across and eased it along the ground
 
 
 Balls faced: 9
 Bowler: Hazlewood
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Comes back in, well handled by Ottley. Looked like straightened off the seam, length ball lands around fourth and was stabbed to the off side"}]Comes back in, well handled by Ottley. Looked like straightened off the seam, length ball lands around fourth and was stabbed to the off side
+Comes back in, well handled by Ottley. Looked like straightened off the seam, length ball lands around fourth and was stabbed to the off side
 
 
 Balls faced: 10
 Bowler: Hazlewood
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball lands around off and leaves it"}]Fullish ball lands around off and leaves it
+Fullish ball lands around off and leaves it
 
 
 Balls faced: 11
 Bowler: Hazlewood
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller length ball outside off, let go"}]Fuller length ball outside off, let go
+Fuller length ball outside off, let go
 
 
 Balls faced: 12
 Bowler: Hazlewood
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Goes for the bumper this time, doesn't rise at pace and Ottley has ample time to pull it through square leg. Slight swivel, easy follow-through, he's looking good"}]Goes for the bumper this time, doesn't rise at pace and Ottley has ample time to pull it through square leg. Slight swivel, easy follow-through, he's looking good
+Goes for the bumper this time, doesn't rise at pace and Ottley has ample time to pull it through square leg. Slight swivel, easy follow-through, he's looking good
 
 
 Balls faced: 13
 Bowler: Hazlewood
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on off, punched off the front foot to mid-off"}]Fullish ball on off, punched off the front foot to mid-off
-[{"type": "HTML", "html": "Hazlewood's bowling he lengths of a swing bowler generally. Great control too"}]Hazlewood's bowling he lengths of a swing bowler generally. Great control too
+Fullish ball on off, punched off the front foot to mid-off
+Hazlewood's bowling he lengths of a swing bowler generally. Great control too
 
 Balls faced: 14
 Bowler: Hardie
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pitched up at the stumps, 131ks, punched back to the bowler. Stopped in the follow-through"}]Pitched up at the stumps, 131ks, punched back to the bowler. Stopped in the follow-through
-[{"type": "HTML", "html": "Rahul Malnad : \"Shai HOPE to steady the sinking ship yet again:) \""}]Rahul Malnad : "Shai HOPE to steady the sinking ship yet again:) "
+Pitched up at the stumps, 131ks, punched back to the bowler. Stopped in the follow-through
+Rahul Malnad : "Shai HOPE to steady the sinking ship yet again:) "
 
 Balls faced: 15
 Bowler: Hardie
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Leans into the cover drive, Abbott runs from mid-off and stops it in the outfield. Was a full ball angling away through fifth, Ottley got back and across and eased it along the ground"}]Leans into the cover drive, Abbott runs from mid-off and stops it in the outfield. Was a full ball angling away through fifth, Ottley got back and across and eased it along the ground
+Leans into the cover drive, Abbott runs from mid-off and stops it in the outfield. Was a full ball angling away through fifth, Ottley got back and across and eased it along the ground
 
 
 Balls faced: 16
 Bowler: Hazlewood
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller length ball outside off, let go"}]Fuller length ball outside off, let go
+Fuller length ball outside off, let go
 
 
 Balls faced: 17
 Bowler: Hazlewood
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Goes for the bumper this time, doesn't rise at pace and Ottley has ample time to pull it through square leg. Slight swivel, easy follow-through, he's looking good"}]Goes for the bumper this time, doesn't rise at pace and Ottley has ample time to pull it through square leg. Slight swivel, easy follow-through, he's looking good
+Goes for the bumper this time, doesn't rise at pace and Ottley has ample time to pull it through square leg. Slight swivel, easy follow-through, he's looking good
 
 
 Balls faced: 18
 Bowler: Hazlewood
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on off, punched off the front foot to mid-off"}]Fullish ball on off, punched off the front foot to mid-off
-[{"type": "HTML", "html": "Hazlewood's bowling he lengths of a swing bowler generally. Great control too"}]Hazlewood's bowling he lengths of a swing bowler generally. Great control too
+Fullish ball on off, punched off the front foot to mid-off
+Hazlewood's bowling he lengths of a swing bowler generally. Great control too
 
 Balls faced: 19
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Abbott strikes in his first over after starring with the bat, nicks off Ottley with a fullish ball outside off. He went for an expansive drive through cover. Ball landed around fourth and angled away, found the edge along the way to the keeper. Four balls on a back of length followed by a full one does the trick"}]Abbott strikes in his first over after starring with the bat, nicks off Ottley with a fullish ball outside off. He went for an expansive drive through cover. Ball landed around fourth and angled away, found the edge along the way to the keeper. Four balls on a back of length followed by a full one does the trick
+Ottley is OUT! caught
+c †Inglis b Abbott
+Kjorn Ottley c †Inglis b Abbott 8 (14b 1x4 0x6 23m) SR: 57.14
+Abbott strikes in his first over after starring with the bat, nicks off Ottley with a fullish ball outside off. He went for an expansive drive through cover. Ball landed around fourth and angled away, found the edge along the way to the keeper. Four balls on a back of length followed by a full one does the trick
 
 
 Balls faced: 20
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, punched to cover"}]Length outside off, punched to cover
+Length outside off, punched to cover
 
 
 Balls faced: 21
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Did that hit the stump? Yes, tickled leg pole but the bails didn't come off</strong> Length ball just down the pads, Ottley tried to help it behind square off the back foot. It went off the trouser"}]<strong>Did that hit the stump? Yes, tickled leg pole but the bails didn't come off</strong> Length ball just down the pads, Ottley tried to help it behind square off the back foot. It went off the trouser
+<strong>Did that hit the stump? Yes, tickled leg pole but the bails didn't come off</strong> Length ball just down the pads, Ottley tried to help it behind square off the back foot. It went off the trouser
 
 
 Balls faced: 22
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on leg, beats the flick and goes off the thigh to fine leg"}]Length on leg, beats the flick and goes off the thigh to fine leg
+Length on leg, beats the flick and goes off the thigh to fine leg
 
 Legbyes: 1
 Balls faced: 23
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Two slips for the star with the bat"}]Two slips for the star with the bat
+Two slips for the star with the bat
 
-[{"type": "HTML", "html": "Length just outside off, punched to cover point"}]Length just outside off, punched to cover point
+Length just outside off, punched to cover point
 
 
 Balls faced: 24
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Abbott strikes in his first over after starring with the bat, nicks off Ottley with a fullish ball outside off. He went for an expansive drive through cover. Ball landed around fourth and angled away, found the edge along the way to the keeper. Four balls on a back of length followed by a full one does the trick"}]Abbott strikes in his first over after starring with the bat, nicks off Ottley with a fullish ball outside off. He went for an expansive drive through cover. Ball landed around fourth and angled away, found the edge along the way to the keeper. Four balls on a back of length followed by a full one does the trick
+Ottley is OUT! caught
+c †Inglis b Abbott
+Kjorn Ottley c †Inglis b Abbott 8 (14b 1x4 0x6 23m) SR: 57.14
+Abbott strikes in his first over after starring with the bat, nicks off Ottley with a fullish ball outside off. He went for an expansive drive through cover. Ball landed around fourth and angled away, found the edge along the way to the keeper. Four balls on a back of length followed by a full one does the trick
 
 
 Balls faced: 25
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, punched to cover"}]Length outside off, punched to cover
+Length outside off, punched to cover
 
 
 Balls faced: 26
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Did that hit the stump? Yes, tickled leg pole but the bails didn't come off</strong> Length ball just down the pads, Ottley tried to help it behind square off the back foot. It went off the trouser"}]<strong>Did that hit the stump? Yes, tickled leg pole but the bails didn't come off</strong> Length ball just down the pads, Ottley tried to help it behind square off the back foot. It went off the trouser
+<strong>Did that hit the stump? Yes, tickled leg pole but the bails didn't come off</strong> Length ball just down the pads, Ottley tried to help it behind square off the back foot. It went off the trouser
 
 
 Balls faced: 27
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on leg, beats the flick and goes off the thigh to fine leg"}]Length on leg, beats the flick and goes off the thigh to fine leg
+Length on leg, beats the flick and goes off the thigh to fine leg
 
 Legbyes: 1
 Balls faced: 28
 Bowler: Abbott
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Two slips for the star with the bat"}]Two slips for the star with the bat
+Two slips for the star with the bat
 
-[{"type": "HTML", "html": "Length just outside off, punched to cover point"}]Length just outside off, punched to cover point
+Length just outside off, punched to cover point
 
 
 
@@ -284,178 +316,200 @@ Match: all_games_1375837_1375849.json
 Balls faced: 1
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "137kph, back of a length, fourth stump, he's back to defend and gets a thick inside edge into the leg side"}]137kph, back of a length, fourth stump, he's back to defend and gets a thick inside edge into the leg side
+137kph, back of a length, fourth stump, he's back to defend and gets a thick inside edge into the leg side
 
 
 Balls faced: 2
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>carved through point!</strong> Another wide half volley and he opens the bat face to scythe a square drive through the gap at point"}]<strong>carved through point!</strong> Another wide half volley and he opens the bat face to scythe a square drive through the gap at point
+<strong>carved through point!</strong> Another wide half volley and he opens the bat face to scythe a square drive through the gap at point
 
 
 Balls faced: 3
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "139kph, half volley wide of off, he cracks a drive straight to cover-point"}]139kph, half volley wide of off, he cracks a drive straight to cover-point
+139kph, half volley wide of off, he cracks a drive straight to cover-point
 
 
 Balls faced: 4
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "136kph, good length, he leaves on length as it wobbles back in"}]136kph, good length, he leaves on length as it wobbles back in
-[{"type": "HTML", "html": "Lachlan: \"Magnificent seam position from Greeny, he's just got the ball the wrong way around. \""}]Lachlan: "Magnificent seam position from Greeny, he's just got the ball the wrong way around. "
+136kph, good length, he leaves on length as it wobbles back in
+Lachlan: "Magnificent seam position from Greeny, he's just got the ball the wrong way around. "
 
 Balls faced: 5
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>crunched through cover!</strong> 139kph, cross seam half volley and it comes off the middle of the bat like a gun shot! Through the gap"}]<strong>crunched through cover!</strong> 139kph, cross seam half volley and it comes off the middle of the bat like a gun shot! Through the gap
+<strong>crunched through cover!</strong> 139kph, cross seam half volley and it comes off the middle of the bat like a gun shot! Through the gap
 
 
 Balls faced: 6
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Through him!</strong> Cross seam, good length, past the inside edge and over off!"}]<strong>Through him!</strong> Cross seam, good length, past the inside edge and over off!
+<strong>Through him!</strong> Cross seam, good length, past the inside edge and over off!
 
 
 Balls faced: 7
 Bowler: Green
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "136kph, back of a length, hooping away wide again! Sharp swing"}]136kph, back of a length, hooping away wide again! Sharp swing
+136kph, back of a length, hooping away wide again! Sharp swing
 
 Wide: 1
 Balls faced: 8
 Bowler: Green
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Cameron Green has the other new ball. Was rested from bowling in Sydney after taking two wickets in Melbourne. Around the wicket. Two slips"}]Cameron Green has the other new ball. Was rested from bowling in Sydney after taking two wickets in Melbourne. Around the wicket. Two slips
+Cameron Green has the other new ball. Was rested from bowling in Sydney after taking two wickets in Melbourne. Around the wicket. Two slips
 
-[{"type": "HTML", "html": "130kph, full and swinging off the pitch! That shaped miles and nearly went to first slip before Inglis dived across"}]130kph, full and swinging off the pitch! That shaped miles and nearly went to first slip before Inglis dived across
+130kph, full and swinging off the pitch! That shaped miles and nearly went to first slip before Inglis dived across
 
 Wide: 1
 Balls faced: 9
 Bowler: Bartlett
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>given lbw!</strong> Ottley has a chat to his partner. But no review. He walks off. Full and shaping back into middle, Ottley <strong>got a huge inside edge!</strong> He hit his pad just before so maybe he thought he hit his pad. That would/should have been not out. It was a massive deflection off the inside edge!"}]<strong>given lbw!</strong> Ottley has a chat to his partner. But no review. He walks off. Full and shaping back into middle, Ottley <strong>got a huge inside edge!</strong> He hit his pad just before so maybe he thought he hit his pad. That would/should have been not out. It was a massive deflection off the inside edge!
+Ottley is OUT! lbw
+lbw b Bartlett
+Kjorn Ottley lbw b Bartlett 8 (7b 2x4 0x6 12m) SR: 114.28
+<strong>given lbw!</strong> Ottley has a chat to his partner. But no review. He walks off. Full and shaping back into middle, Ottley <strong>got a huge inside edge!</strong> He hit his pad just before so maybe he thought he hit his pad. That would/should have been not out. It was a massive deflection off the inside edge!
 
 
 Balls faced: 10
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "137kph, back of a length, fourth stump, he's back to defend and gets a thick inside edge into the leg side"}]137kph, back of a length, fourth stump, he's back to defend and gets a thick inside edge into the leg side
+137kph, back of a length, fourth stump, he's back to defend and gets a thick inside edge into the leg side
 
 
 Balls faced: 11
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>carved through point!</strong> Another wide half volley and he opens the bat face to scythe a square drive through the gap at point"}]<strong>carved through point!</strong> Another wide half volley and he opens the bat face to scythe a square drive through the gap at point
+<strong>carved through point!</strong> Another wide half volley and he opens the bat face to scythe a square drive through the gap at point
 
 
 Balls faced: 12
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "139kph, half volley wide of off, he cracks a drive straight to cover-point"}]139kph, half volley wide of off, he cracks a drive straight to cover-point
+139kph, half volley wide of off, he cracks a drive straight to cover-point
 
 
 Balls faced: 13
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "136kph, good length, he leaves on length as it wobbles back in"}]136kph, good length, he leaves on length as it wobbles back in
-[{"type": "HTML", "html": "Lachlan: \"Magnificent seam position from Greeny, he's just got the ball the wrong way around. \""}]Lachlan: "Magnificent seam position from Greeny, he's just got the ball the wrong way around. "
+136kph, good length, he leaves on length as it wobbles back in
+Lachlan: "Magnificent seam position from Greeny, he's just got the ball the wrong way around. "
 
 Balls faced: 14
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>crunched through cover!</strong> 139kph, cross seam half volley and it comes off the middle of the bat like a gun shot! Through the gap"}]<strong>crunched through cover!</strong> 139kph, cross seam half volley and it comes off the middle of the bat like a gun shot! Through the gap
+<strong>crunched through cover!</strong> 139kph, cross seam half volley and it comes off the middle of the bat like a gun shot! Through the gap
 
 
 Balls faced: 15
 Bowler: Green
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Through him!</strong> Cross seam, good length, past the inside edge and over off!"}]<strong>Through him!</strong> Cross seam, good length, past the inside edge and over off!
+<strong>Through him!</strong> Cross seam, good length, past the inside edge and over off!
 
 
 Balls faced: 16
 Bowler: Green
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "136kph, back of a length, hooping away wide again! Sharp swing"}]136kph, back of a length, hooping away wide again! Sharp swing
+136kph, back of a length, hooping away wide again! Sharp swing
 
 Wide: 1
 Balls faced: 17
 Bowler: Green
 Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Cameron Green has the other new ball. Was rested from bowling in Sydney after taking two wickets in Melbourne. Around the wicket. Two slips"}]Cameron Green has the other new ball. Was rested from bowling in Sydney after taking two wickets in Melbourne. Around the wicket. Two slips
+Cameron Green has the other new ball. Was rested from bowling in Sydney after taking two wickets in Melbourne. Around the wicket. Two slips
 
-[{"type": "HTML", "html": "130kph, full and swinging off the pitch! That shaped miles and nearly went to first slip before Inglis dived across"}]130kph, full and swinging off the pitch! That shaped miles and nearly went to first slip before Inglis dived across
+130kph, full and swinging off the pitch! That shaped miles and nearly went to first slip before Inglis dived across
 
 Wide: 1
 Balls faced: 18
 Bowler: Bartlett
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>given lbw!</strong> Ottley has a chat to his partner. But no review. He walks off. Full and shaping back into middle, Ottley <strong>got a huge inside edge!</strong> He hit his pad just before so maybe he thought he hit his pad. That would/should have been not out. It was a massive deflection off the inside edge!"}]<strong>given lbw!</strong> Ottley has a chat to his partner. But no review. He walks off. Full and shaping back into middle, Ottley <strong>got a huge inside edge!</strong> He hit his pad just before so maybe he thought he hit his pad. That would/should have been not out. It was a massive deflection off the inside edge!
+Ottley is OUT! lbw
+lbw b Bartlett
+Kjorn Ottley lbw b Bartlett 8 (7b 2x4 0x6 12m) SR: 114.28
+<strong>given lbw!</strong> Ottley has a chat to his partner. But no review. He walks off. Full and shaping back into middle, Ottley <strong>got a huge inside edge!</strong> He hit his pad just before so maybe he thought he hit his pad. That would/should have been not out. It was a massive deflection off the inside edge!

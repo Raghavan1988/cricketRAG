@@ -2,21 +2,23 @@ Match: all_games_1373558_1373582.json
 Balls faced: 1
 Bowler: Topley
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Into the last rites. Motie at No. 11."}]Into the last rites. Motie at No. 11.
+Into the last rites. Motie at No. 11.
 
-[{"type": "HTML", "html": "full and straight, presents a straight bat in defence"}]full and straight, presents a straight bat in defence
+full and straight, presents a straight bat in defence
 
 
 Balls faced: 2
 Bowler: Topley
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Into the last rites. Motie at No. 11."}]Into the last rites. Motie at No. 11.
+Into the last rites. Motie at No. 11.
 
-[{"type": "HTML", "html": "full and straight, presents a straight bat in defence"}]full and straight, presents a straight bat in defence
+full and straight, presents a straight bat in defence
 
 
 
@@ -24,141 +26,159 @@ Match: all_games_1375837_1375845.json
 Balls faced: 1
 Bowler: Cummins
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Angling in on the pads, tucked away through backward square leg"}]Angling in on the pads, tucked away through backward square leg
+Angling in on the pads, tucked away through backward square leg
 
 
 Balls faced: 2
 Bowler: Starc
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "A nothing shot from Motie. Backs away and looks to swing over the off side. It was on a length on middle and leg. Ends up skying it high towards backward point. Lyon takes a few steps to his right and takes that. Starc on the board"}]A nothing shot from Motie. Backs away and looks to swing over the off side. It was on a length on middle and leg. Ends up skying it high towards backward point. Lyon takes a few steps to his right and takes that. Starc on the board
+Motie is OUT! caught
+c Lyon b Starc
+Gudakesh Motie c Lyon b Starc 1 (7b 0x4 0x6 6m) SR: 14.28
+A nothing shot from Motie. Backs away and looks to swing over the off side. It was on a length on middle and leg. Ends up skying it high towards backward point. Lyon takes a few steps to his right and takes that. Starc on the board
 
 
 Balls faced: 3
 Bowler: Starc
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Mark B: \"Early days (literally Day 1) of this series, but I feel like what we are going to see here is a good argument for a two tier World Test Championship with promotion relegation. A non-competitive one sided series is not a good advertisement for Test Cricket. Also, this is a team that didn't qualify for the World Cup. The idea that the deserve a seat at the big table based on their history is going to be long term detrimental. Old stuff don't count.\" If you divide teams based on tiers, how will the lower-ranked teams improve? As it is they play very little against the top teams..."}]Mark B: "Early days (literally Day 1) of this series, but I feel like what we are going to see here is a good argument for a two tier World Test Championship with promotion relegation. A non-competitive one sided series is not a good advertisement for Test Cricket. Also, this is a team that didn't qualify for the World Cup. The idea that the deserve a seat at the big table based on their history is going to be long term detrimental. Old stuff don't count." If you divide teams based on tiers, how will the lower-ranked teams improve? As it is they play very little against the top teams...
+Mark B: "Early days (literally Day 1) of this series, but I feel like what we are going to see here is a good argument for a two tier World Test Championship with promotion relegation. A non-competitive one sided series is not a good advertisement for Test Cricket. Also, this is a team that didn't qualify for the World Cup. The idea that the deserve a seat at the big table based on their history is going to be long term detrimental. Old stuff don't count." If you divide teams based on tiers, how will the lower-ranked teams improve? As it is they play very little against the top teams...
 
-[{"type": "HTML", "html": "Back of a length, down leg again, Motie lets it pass"}]Back of a length, down leg again, Motie lets it pass
+Back of a length, down leg again, Motie lets it pass
 
 
 Balls faced: 4
 Bowler: Starc
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Dave: \"Rotation and giving people experience are all well and good, but if you're the best player in the position and you're available on an ongoing basis, shouldn't you be able to play unless your workload necessitates a rest. I doubt Cummins, Starc, Hazlewood and Lyon would thank the selectors if they followed the various commenters' suggestions not to play them. \""}]Dave: "Rotation and giving people experience are all well and good, but if you're the best player in the position and you're available on an ongoing basis, shouldn't you be able to play unless your workload necessitates a rest. I doubt Cummins, Starc, Hazlewood and Lyon would thank the selectors if they followed the various commenters' suggestions not to play them. "
+Dave: "Rotation and giving people experience are all well and good, but if you're the best player in the position and you're available on an ongoing basis, shouldn't you be able to play unless your workload necessitates a rest. I doubt Cummins, Starc, Hazlewood and Lyon would thank the selectors if they followed the various commenters' suggestions not to play them. "
 
-[{"type": "HTML", "html": "Banged short outside off, he ducks and lets it pass"}]Banged short outside off, he ducks and lets it pass
+Banged short outside off, he ducks and lets it pass
 
 
 Balls faced: 5
 Bowler: Starc
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, steers it to backward point"}]Length ball outside off, steers it to backward point
+Length ball outside off, steers it to backward point
 
 
 Balls faced: 6
 Bowler: Starc
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Lands it on a length just outside off, at high pace, Motie looks to defend but ends up playing inside the line of the ball"}]Lands it on a length just outside off, at high pace, Motie looks to defend but ends up playing inside the line of the ball
+Lands it on a length just outside off, at high pace, Motie looks to defend but ends up playing inside the line of the ball
 
 
 Balls faced: 7
 Bowler: Starc
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sprays the full ball down leg, he misses the flick"}]Sprays the full ball down leg, he misses the flick
+Sprays the full ball down leg, he misses the flick
 
 
 Balls faced: 8
 Bowler: Cummins
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Angling in on the pads, tucked away through backward square leg"}]Angling in on the pads, tucked away through backward square leg
+Angling in on the pads, tucked away through backward square leg
 
 
 Balls faced: 9
 Bowler: Starc
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "A nothing shot from Motie. Backs away and looks to swing over the off side. It was on a length on middle and leg. Ends up skying it high towards backward point. Lyon takes a few steps to his right and takes that. Starc on the board"}]A nothing shot from Motie. Backs away and looks to swing over the off side. It was on a length on middle and leg. Ends up skying it high towards backward point. Lyon takes a few steps to his right and takes that. Starc on the board
+Motie is OUT! caught
+c Lyon b Starc
+Gudakesh Motie c Lyon b Starc 1 (7b 0x4 0x6 6m) SR: 14.28
+A nothing shot from Motie. Backs away and looks to swing over the off side. It was on a length on middle and leg. Ends up skying it high towards backward point. Lyon takes a few steps to his right and takes that. Starc on the board
 
 
 Balls faced: 10
 Bowler: Starc
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Mark B: \"Early days (literally Day 1) of this series, but I feel like what we are going to see here is a good argument for a two tier World Test Championship with promotion relegation. A non-competitive one sided series is not a good advertisement for Test Cricket. Also, this is a team that didn't qualify for the World Cup. The idea that the deserve a seat at the big table based on their history is going to be long term detrimental. Old stuff don't count.\" If you divide teams based on tiers, how will the lower-ranked teams improve? As it is they play very little against the top teams..."}]Mark B: "Early days (literally Day 1) of this series, but I feel like what we are going to see here is a good argument for a two tier World Test Championship with promotion relegation. A non-competitive one sided series is not a good advertisement for Test Cricket. Also, this is a team that didn't qualify for the World Cup. The idea that the deserve a seat at the big table based on their history is going to be long term detrimental. Old stuff don't count." If you divide teams based on tiers, how will the lower-ranked teams improve? As it is they play very little against the top teams...
+Mark B: "Early days (literally Day 1) of this series, but I feel like what we are going to see here is a good argument for a two tier World Test Championship with promotion relegation. A non-competitive one sided series is not a good advertisement for Test Cricket. Also, this is a team that didn't qualify for the World Cup. The idea that the deserve a seat at the big table based on their history is going to be long term detrimental. Old stuff don't count." If you divide teams based on tiers, how will the lower-ranked teams improve? As it is they play very little against the top teams...
 
-[{"type": "HTML", "html": "Back of a length, down leg again, Motie lets it pass"}]Back of a length, down leg again, Motie lets it pass
+Back of a length, down leg again, Motie lets it pass
 
 
 Balls faced: 11
 Bowler: Starc
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Dave: \"Rotation and giving people experience are all well and good, but if you're the best player in the position and you're available on an ongoing basis, shouldn't you be able to play unless your workload necessitates a rest. I doubt Cummins, Starc, Hazlewood and Lyon would thank the selectors if they followed the various commenters' suggestions not to play them. \""}]Dave: "Rotation and giving people experience are all well and good, but if you're the best player in the position and you're available on an ongoing basis, shouldn't you be able to play unless your workload necessitates a rest. I doubt Cummins, Starc, Hazlewood and Lyon would thank the selectors if they followed the various commenters' suggestions not to play them. "
+Dave: "Rotation and giving people experience are all well and good, but if you're the best player in the position and you're available on an ongoing basis, shouldn't you be able to play unless your workload necessitates a rest. I doubt Cummins, Starc, Hazlewood and Lyon would thank the selectors if they followed the various commenters' suggestions not to play them. "
 
-[{"type": "HTML", "html": "Banged short outside off, he ducks and lets it pass"}]Banged short outside off, he ducks and lets it pass
+Banged short outside off, he ducks and lets it pass
 
 
 Balls faced: 12
 Bowler: Starc
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, steers it to backward point"}]Length ball outside off, steers it to backward point
+Length ball outside off, steers it to backward point
 
 
 Balls faced: 13
 Bowler: Starc
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Lands it on a length just outside off, at high pace, Motie looks to defend but ends up playing inside the line of the ball"}]Lands it on a length just outside off, at high pace, Motie looks to defend but ends up playing inside the line of the ball
+Lands it on a length just outside off, at high pace, Motie looks to defend but ends up playing inside the line of the ball
 
 
 Balls faced: 14
 Bowler: Starc
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sprays the full ball down leg, he misses the flick"}]Sprays the full ball down leg, he misses the flick
+Sprays the full ball down leg, he misses the flick
 
 
 
@@ -166,121 +186,137 @@ Match: all_games_1375837_1375847.json
 Balls faced: 1
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length at the stumps. Pulled towards midwicket"}]short of length at the stumps. Pulled towards midwicket
+short of length at the stumps. Pulled towards midwicket
 
 
 Balls faced: 2
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one outside off. Motie swings and misses"}]slower one outside off. Motie swings and misses
+slower one outside off. Motie swings and misses
 
 
 Balls faced: 3
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a bouncer but too high and called a wide"}]a bouncer but too high and called a wide
+a bouncer but too high and called a wide
 
 Wide: 1
 Balls faced: 4
 Bowler: Abbott
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<b>a comedy of errors.</b> A length ball around off. Motie backs away and smashes it through extra cover. Head was a few yards inside the boundary line, He had to dive to his left but the ball bursts through his hands. He recovers and fires in the throw to the keeper. Motie was looking for the third. It's not a great throw and the keeper had to move forward to collect it. He still had the chance as Motie was almost halfway down the pitch. Inglis looks to flick it on the stumps but misses and Motie makes back home safely"}]<b>a comedy of errors.</b> A length ball around off. Motie backs away and smashes it through extra cover. Head was a few yards inside the boundary line, He had to dive to his left but the ball bursts through his hands. He recovers and fires in the throw to the keeper. Motie was looking for the third. It's not a great throw and the keeper had to move forward to collect it. He still had the chance as Motie was almost halfway down the pitch. Inglis looks to flick it on the stumps but misses and Motie makes back home safely
+<b>a comedy of errors.</b> A length ball around off. Motie backs away and smashes it through extra cover. Head was a few yards inside the boundary line, He had to dive to his left but the ball bursts through his hands. He recovers and fires in the throw to the keeper. Motie was looking for the third. It's not a great throw and the keeper had to move forward to collect it. He still had the chance as Motie was almost halfway down the pitch. Inglis looks to flick it on the stumps but misses and Motie makes back home safely
 
 
 Balls faced: 5
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Gudakesh Motie"}]Gudakesh Motie
+Gudakesh Motie
 
-[{"type": "HTML", "html": "length ball on the stumps. Tucked away towards short midwicket"}]length ball on the stumps. Tucked away towards short midwicket
+length ball on the stumps. Tucked away towards short midwicket
 
 
 Balls faced: 6
 Bowler: Bartlett
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Bartlett is back"}]Bartlett is back
-
-[{"type": "HTML", "html": "short of length around off. Motie goes for the big hit but ends up miscuing it. An easy catch for mid-off and a fourth wicket for Bartlett"}]short of length around off. Motie goes for the big hit but ends up miscuing it. An easy catch for mid-off and a fourth wicket for Bartlett
+Bartlett is back
+Motie is OUT! caught
+c Labuschagne b Bartlett
+Gudakesh Motie c Labuschagne b Bartlett 3 (5b 0x4 0x6 4m) SR: 60
+short of length around off. Motie goes for the big hit but ends up miscuing it. An easy catch for mid-off and a fourth wicket for Bartlett
 
 
 Balls faced: 7
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of length at the stumps. Pulled towards midwicket"}]short of length at the stumps. Pulled towards midwicket
+short of length at the stumps. Pulled towards midwicket
 
 
 Balls faced: 8
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one outside off. Motie swings and misses"}]slower one outside off. Motie swings and misses
+slower one outside off. Motie swings and misses
 
 
 Balls faced: 9
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a bouncer but too high and called a wide"}]a bouncer but too high and called a wide
+a bouncer but too high and called a wide
 
 Wide: 1
 Balls faced: 10
 Bowler: Abbott
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<b>a comedy of errors.</b> A length ball around off. Motie backs away and smashes it through extra cover. Head was a few yards inside the boundary line, He had to dive to his left but the ball bursts through his hands. He recovers and fires in the throw to the keeper. Motie was looking for the third. It's not a great throw and the keeper had to move forward to collect it. He still had the chance as Motie was almost halfway down the pitch. Inglis looks to flick it on the stumps but misses and Motie makes back home safely"}]<b>a comedy of errors.</b> A length ball around off. Motie backs away and smashes it through extra cover. Head was a few yards inside the boundary line, He had to dive to his left but the ball bursts through his hands. He recovers and fires in the throw to the keeper. Motie was looking for the third. It's not a great throw and the keeper had to move forward to collect it. He still had the chance as Motie was almost halfway down the pitch. Inglis looks to flick it on the stumps but misses and Motie makes back home safely
+<b>a comedy of errors.</b> A length ball around off. Motie backs away and smashes it through extra cover. Head was a few yards inside the boundary line, He had to dive to his left but the ball bursts through his hands. He recovers and fires in the throw to the keeper. Motie was looking for the third. It's not a great throw and the keeper had to move forward to collect it. He still had the chance as Motie was almost halfway down the pitch. Inglis looks to flick it on the stumps but misses and Motie makes back home safely
 
 
 Balls faced: 11
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Gudakesh Motie"}]Gudakesh Motie
+Gudakesh Motie
 
-[{"type": "HTML", "html": "length ball on the stumps. Tucked away towards short midwicket"}]length ball on the stumps. Tucked away towards short midwicket
+length ball on the stumps. Tucked away towards short midwicket
 
 
 Balls faced: 12
 Bowler: Bartlett
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Bartlett is back"}]Bartlett is back
-
-[{"type": "HTML", "html": "short of length around off. Motie goes for the big hit but ends up miscuing it. An easy catch for mid-off and a fourth wicket for Bartlett"}]short of length around off. Motie goes for the big hit but ends up miscuing it. An easy catch for mid-off and a fourth wicket for Bartlett
+Bartlett is back
+Motie is OUT! caught
+c Labuschagne b Bartlett
+Gudakesh Motie c Labuschagne b Bartlett 3 (5b 0x4 0x6 4m) SR: 60
+short of length around off. Motie goes for the big hit but ends up miscuing it. An easy catch for mid-off and a fourth wicket for Bartlett
 
 
 
@@ -288,421 +324,463 @@ Match: all_games_1375837_1375848.json
 Balls faced: 1
 Bowler: Sutherland
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Around"}]Around
+Around
 
-[{"type": "HTML", "html": "Full on off, pushed to cover off the front foot"}]Full on off, pushed to cover off the front foot
+Full on off, pushed to cover off the front foot
 
 
 Balls faced: 2
 Bowler: Abbott
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on fifth, steered to deep third"}]Length on fifth, steered to deep third
+Length on fifth, steered to deep third
 
 
 Balls faced: 3
 Bowler: Abbott
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball angling in towards fifth, knocks it with a full face to point"}]Length ball angling in towards fifth, knocks it with a full face to point
+Length ball angling in towards fifth, knocks it with a full face to point
 
 
 Balls faced: 4
 Bowler: Abbott
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on leg, tries to whip it across the line. Gets hit on the front pad, was straying down leg"}]Full on leg, tries to whip it across the line. Gets hit on the front pad, was straying down leg
+Full on leg, tries to whip it across the line. Gets hit on the front pad, was straying down leg
 
 
 Balls faced: 5
 Bowler: Abbott
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Around"}]Around
+Around
 
-[{"type": "HTML", "html": "Length on off, blocked in front"}]Length on off, blocked in front
+Length on off, blocked in front
 
 
 Balls faced: 6
 Bowler: Sutherland
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Around"}]Around
+Around
 
-[{"type": "HTML", "html": "Full on off, pushed to cover off the front foot"}]Full on off, pushed to cover off the front foot
+Full on off, pushed to cover off the front foot
 
 
 Balls faced: 7
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and wide, opens the face and pushes it to the right of Marnus at point. He fumbles to allow a single"}]Full and wide, opens the face and pushes it to the right of Marnus at point. He fumbles to allow a single
+Full and wide, opens the face and pushes it to the right of Marnus at point. He fumbles to allow a single
 
 
 Balls faced: 8
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, defended to cover point"}]Length on off, defended to cover point
+Length on off, defended to cover point
 
 
 Balls faced: 9
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on middle, 131ks, slides leg side as he pushes it to point"}]Length on middle, 131ks, slides leg side as he pushes it to point
+Length on middle, 131ks, slides leg side as he pushes it to point
 
 
 Balls faced: 10
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and wide, tries to slap it over cover. Beats him"}]Full and wide, tries to slap it over cover. Beats him
+Full and wide, tries to slap it over cover. Beats him
 
 
 Balls faced: 11
 Bowler: Hardie
 Over: 40
+ 
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length just outside off, guided to the right of backward point. Marnus there, is swift to slide across and bring Motie back from the attempted run"}]Length just outside off, guided to the right of backward point. Marnus there, is swift to slide across and bring Motie back from the attempted run
-[{"type": "HTML", "html": "Tiger Ged: \"Bring back Zampa to clean up the final 2\""}]Tiger Ged: "Bring back Zampa to clean up the final 2"
+Length just outside off, guided to the right of backward point. Marnus there, is swift to slide across and bring Motie back from the attempted run
+Tiger Ged: "Bring back Zampa to clean up the final 2"
 
 Balls faced: 12
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Around"}]Around
+Around
 
-[{"type": "HTML", "html": "Fullish ball comes back in with the angle and hits high on the sticker. Motie tried to play it low and with a straight bat"}]Fullish ball comes back in with the angle and hits high on the sticker. Motie tried to play it low and with a straight bat
+Fullish ball comes back in with the angle and hits high on the sticker. Motie tried to play it low and with a straight bat
 
 
 Balls faced: 13
 Bowler: Abbott
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on fifth, steered to deep third"}]Length on fifth, steered to deep third
+Length on fifth, steered to deep third
 
 
 Balls faced: 14
 Bowler: Abbott
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball angling in towards fifth, knocks it with a full face to point"}]Length ball angling in towards fifth, knocks it with a full face to point
+Length ball angling in towards fifth, knocks it with a full face to point
 
 
 Balls faced: 15
 Bowler: Abbott
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on leg, tries to whip it across the line. Gets hit on the front pad, was straying down leg"}]Full on leg, tries to whip it across the line. Gets hit on the front pad, was straying down leg
+Full on leg, tries to whip it across the line. Gets hit on the front pad, was straying down leg
 
 
 Balls faced: 16
 Bowler: Abbott
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Around"}]Around
+Around
 
-[{"type": "HTML", "html": "Length on off, blocked in front"}]Length on off, blocked in front
+Length on off, blocked in front
 
 
 Balls faced: 17
 Bowler: Abbott
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length just over off stump, opens the bat face to run it past the right of backward point. Marnus dives and falls on his belly. Holds onto the flank, where he may have felt discomfort"}]Length just over off stump, opens the bat face to run it past the right of backward point. Marnus dives and falls on his belly. Holds onto the flank, where he may have felt discomfort
+Length just over off stump, opens the bat face to run it past the right of backward point. Marnus dives and falls on his belly. Holds onto the flank, where he may have felt discomfort
 
 
 Balls faced: 18
 Bowler: Abbott
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on leg, worked to midwicket's right"}]Fullish ball on leg, worked to midwicket's right
+Fullish ball on leg, worked to midwicket's right
 
 
 Balls faced: 19
 Bowler: Abbott
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Crashes it over cover off one hand. Target now under 100. Wide length ball, Motie went back and threw his hands across the line"}]Crashes it over cover off one hand. Target now under 100. Wide length ball, Motie went back and threw his hands across the line
+Crashes it over cover off one hand. Target now under 100. Wide length ball, Motie went back and threw his hands across the line
 
 
 Balls faced: 20
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and wide, opens the face and pushes it to the right of Marnus at point. He fumbles to allow a single"}]Full and wide, opens the face and pushes it to the right of Marnus at point. He fumbles to allow a single
+Full and wide, opens the face and pushes it to the right of Marnus at point. He fumbles to allow a single
 
 
 Balls faced: 21
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, defended to cover point"}]Length on off, defended to cover point
+Length on off, defended to cover point
 
 
 Balls faced: 22
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on middle, 131ks, slides leg side as he pushes it to point"}]Length on middle, 131ks, slides leg side as he pushes it to point
+Length on middle, 131ks, slides leg side as he pushes it to point
 
 
 Balls faced: 23
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and wide, tries to slap it over cover. Beats him"}]Full and wide, tries to slap it over cover. Beats him
+Full and wide, tries to slap it over cover. Beats him
 
 
 Balls faced: 24
 Bowler: Hardie
 Over: 40
+ 
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length just outside off, guided to the right of backward point. Marnus there, is swift to slide across and bring Motie back from the attempted run"}]Length just outside off, guided to the right of backward point. Marnus there, is swift to slide across and bring Motie back from the attempted run
-[{"type": "HTML", "html": "Tiger Ged: \"Bring back Zampa to clean up the final 2\""}]Tiger Ged: "Bring back Zampa to clean up the final 2"
+Length just outside off, guided to the right of backward point. Marnus there, is swift to slide across and bring Motie back from the attempted run
+Tiger Ged: "Bring back Zampa to clean up the final 2"
 
 Balls faced: 25
 Bowler: Hardie
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Around"}]Around
+Around
 
-[{"type": "HTML", "html": "Fullish ball comes back in with the angle and hits high on the sticker. Motie tried to play it low and with a straight bat"}]Fullish ball comes back in with the angle and hits high on the sticker. Motie tried to play it low and with a straight bat
+Fullish ball comes back in with the angle and hits high on the sticker. Motie tried to play it low and with a straight bat
 
 
 Balls faced: 26
 Bowler: Zampa
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full ball spins in towards off, beats the sweep and hit on the knee-roll. Lbw not given, Zampa shook his head straight away. Impact and wickets umpire's call says Hawk-Eye"}]Full ball spins in towards off, beats the sweep and hit on the knee-roll. Lbw not given, Zampa shook his head straight away. Impact and wickets umpire's call says Hawk-Eye
+Full ball spins in towards off, beats the sweep and hit on the knee-roll. Lbw not given, Zampa shook his head straight away. Impact and wickets umpire's call says Hawk-Eye
 
 
 Balls faced: 27
 Bowler: Zampa
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Googly lands around off on a fullish length and rags past the outside edge of the full bat"}]Googly lands around off on a fullish length and rags past the outside edge of the full bat
+Googly lands around off on a fullish length and rags past the outside edge of the full bat
 
 
 Balls faced: 28
 Bowler: Zampa
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on leg gets good bounce, tucked off the back foot to square leg"}]Fullish ball on leg gets good bounce, tucked off the back foot to square leg
+Fullish ball on leg gets good bounce, tucked off the back foot to square leg
 
 
 Balls faced: 29
 Bowler: Zampa
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Seven things happened within the time Motie started to paddle and finished with a reverse. The low full toss took the outside edge, went into the pitch and through where Steven Smith was at first slip. He'd moved to the left in anticipation"}]Seven things happened within the time Motie started to paddle and finished with a reverse. The low full toss took the outside edge, went into the pitch and through where Steven Smith was at first slip. He'd moved to the left in anticipation
+Seven things happened within the time Motie started to paddle and finished with a reverse. The low full toss took the outside edge, went into the pitch and through where Steven Smith was at first slip. He'd moved to the left in anticipation
 
 Byes: 1
 Balls faced: 30
 Bowler: Zampa
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on fourth, spins in towards off and is blocked to the bowler"}]Length on fourth, spins in towards off and is blocked to the bowler
+Length on fourth, spins in towards off and is blocked to the bowler
 
 
 Balls faced: 31
 Bowler: Abbott
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length just over off stump, opens the bat face to run it past the right of backward point. Marnus dives and falls on his belly. Holds onto the flank, where he may have felt discomfort"}]Length just over off stump, opens the bat face to run it past the right of backward point. Marnus dives and falls on his belly. Holds onto the flank, where he may have felt discomfort
+Length just over off stump, opens the bat face to run it past the right of backward point. Marnus dives and falls on his belly. Holds onto the flank, where he may have felt discomfort
 
 
 Balls faced: 32
 Bowler: Abbott
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on leg, worked to midwicket's right"}]Fullish ball on leg, worked to midwicket's right
+Fullish ball on leg, worked to midwicket's right
 
 
 Balls faced: 33
 Bowler: Abbott
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Crashes it over cover off one hand. Target now under 100. Wide length ball, Motie went back and threw his hands across the line"}]Crashes it over cover off one hand. Target now under 100. Wide length ball, Motie went back and threw his hands across the line
+Crashes it over cover off one hand. Target now under 100. Wide length ball, Motie went back and threw his hands across the line
 
 
 Balls faced: 34
 Bowler: Zampa
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full ball spins in towards off, beats the sweep and hit on the knee-roll. Lbw not given, Zampa shook his head straight away. Impact and wickets umpire's call says Hawk-Eye"}]Full ball spins in towards off, beats the sweep and hit on the knee-roll. Lbw not given, Zampa shook his head straight away. Impact and wickets umpire's call says Hawk-Eye
+Full ball spins in towards off, beats the sweep and hit on the knee-roll. Lbw not given, Zampa shook his head straight away. Impact and wickets umpire's call says Hawk-Eye
 
 
 Balls faced: 35
 Bowler: Zampa
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Googly lands around off on a fullish length and rags past the outside edge of the full bat"}]Googly lands around off on a fullish length and rags past the outside edge of the full bat
+Googly lands around off on a fullish length and rags past the outside edge of the full bat
 
 
 Balls faced: 36
 Bowler: Zampa
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on leg gets good bounce, tucked off the back foot to square leg"}]Fullish ball on leg gets good bounce, tucked off the back foot to square leg
+Fullish ball on leg gets good bounce, tucked off the back foot to square leg
 
 
 Balls faced: 37
 Bowler: Zampa
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Seven things happened within the time Motie started to paddle and finished with a reverse. The low full toss took the outside edge, went into the pitch and through where Steven Smith was at first slip. He'd moved to the left in anticipation"}]Seven things happened within the time Motie started to paddle and finished with a reverse. The low full toss took the outside edge, went into the pitch and through where Steven Smith was at first slip. He'd moved to the left in anticipation
+Seven things happened within the time Motie started to paddle and finished with a reverse. The low full toss took the outside edge, went into the pitch and through where Steven Smith was at first slip. He'd moved to the left in anticipation
 
 Byes: 1
 Balls faced: 38
 Bowler: Zampa
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on fourth, spins in towards off and is blocked to the bowler"}]Length on fourth, spins in towards off and is blocked to the bowler
+Length on fourth, spins in towards off and is blocked to the bowler
 
 
 Balls faced: 39
 Bowler: Zampa
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pulls the slightly short ball to mid-on from outside off"}]Pulls the slightly short ball to mid-on from outside off
+Pulls the slightly short ball to mid-on from outside off
 
 
 Balls faced: 40
 Bowler: Zampa
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip in"}]Slip in
+Slip in
 
-[{"type": "HTML", "html": "Full outside off, 84ks, pushed to cover"}]Full outside off, 84ks, pushed to cover
+Full outside off, 84ks, pushed to cover
 
 
 Balls faced: 41
 Bowler: Zampa
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pulls the slightly short ball to mid-on from outside off"}]Pulls the slightly short ball to mid-on from outside off
+Pulls the slightly short ball to mid-on from outside off
 
 
 Balls faced: 42
 Bowler: Zampa
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip in"}]Slip in
+Slip in
 
-[{"type": "HTML", "html": "Full outside off, 84ks, pushed to cover"}]Full outside off, 84ks, pushed to cover
+Full outside off, 84ks, pushed to cover
 
 
 
@@ -710,101 +788,115 @@ Match: all_games_1375837_1375849.json
 Balls faced: 1
 Bowler: Bartlett
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "that's more like it, good length outside off, hint of shape back and left alone"}]that's more like it, good length outside off, hint of shape back and left alone
+that's more like it, good length outside off, hint of shape back and left alone
 
 
 Balls faced: 2
 Bowler: Bartlett
 Over: 23
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "oops, this goes wrong, starts well outside leg and swings away further...five bonus runs"}]oops, this goes wrong, starts well outside leg and swings away further...five bonus runs
-[{"type": "HTML", "html": "JD: \"Ben Stokes has now been relieved of having the worst run out this week.\""}]JD: "Ben Stokes has now been relieved of having the worst run out this week."
+oops, this goes wrong, starts well outside leg and swings away further...five bonus runs
+JD: "Ben Stokes has now been relieved of having the worst run out this week."
 Wide: 5
 Balls faced: 3
 Bowler: Zampa
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>big appeal for lbw and given!</strong> Going for the sweep. Motie calls the <strong>review</strong>. Only question is where it pitches. A very full delivery. No bat in it. Pitches on leg. Smashing leg"}]<strong>big appeal for lbw and given!</strong> Going for the sweep. Motie calls the <strong>review</strong>. Only question is where it pitches. A very full delivery. No bat in it. Pitches on leg. Smashing leg
+Motie is OUT! lbw
+lbw b Zampa
+Gudakesh Motie lbw b Zampa 0 (4b 0x4 0x6 5m) SR: 0
+<strong>big appeal for lbw and given!</strong> Going for the sweep. Motie calls the <strong>review</strong>. Only question is where it pitches. A very full delivery. No bat in it. Pitches on leg. Smashing leg
 
 
 Balls faced: 4
 Bowler: Zampa
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended off the stumps to the off side"}]defended off the stumps to the off side
+defended off the stumps to the off side
 
 
 Balls faced: 5
 Bowler: Zampa
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Short leg comes in"}]Short leg comes in
+Short leg comes in
 
-[{"type": "HTML", "html": "big full toss, drives into the covers"}]big full toss, drives into the covers
+big full toss, drives into the covers
 
 
 Balls faced: 6
 Bowler: Bartlett
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "that's more like it, good length outside off, hint of shape back and left alone"}]that's more like it, good length outside off, hint of shape back and left alone
+that's more like it, good length outside off, hint of shape back and left alone
 
 
 Balls faced: 7
 Bowler: Bartlett
 Over: 23
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "oops, this goes wrong, starts well outside leg and swings away further...five bonus runs"}]oops, this goes wrong, starts well outside leg and swings away further...five bonus runs
-[{"type": "HTML", "html": "JD: \"Ben Stokes has now been relieved of having the worst run out this week.\""}]JD: "Ben Stokes has now been relieved of having the worst run out this week."
+oops, this goes wrong, starts well outside leg and swings away further...five bonus runs
+JD: "Ben Stokes has now been relieved of having the worst run out this week."
 Wide: 5
 Balls faced: 8
 Bowler: Zampa
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>big appeal for lbw and given!</strong> Going for the sweep. Motie calls the <strong>review</strong>. Only question is where it pitches. A very full delivery. No bat in it. Pitches on leg. Smashing leg"}]<strong>big appeal for lbw and given!</strong> Going for the sweep. Motie calls the <strong>review</strong>. Only question is where it pitches. A very full delivery. No bat in it. Pitches on leg. Smashing leg
+Motie is OUT! lbw
+lbw b Zampa
+Gudakesh Motie lbw b Zampa 0 (4b 0x4 0x6 5m) SR: 0
+<strong>big appeal for lbw and given!</strong> Going for the sweep. Motie calls the <strong>review</strong>. Only question is where it pitches. A very full delivery. No bat in it. Pitches on leg. Smashing leg
 
 
 Balls faced: 9
 Bowler: Zampa
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended off the stumps to the off side"}]defended off the stumps to the off side
+defended off the stumps to the off side
 
 
 Balls faced: 10
 Bowler: Zampa
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Short leg comes in"}]Short leg comes in
+Short leg comes in
 
-[{"type": "HTML", "html": "big full toss, drives into the covers"}]big full toss, drives into the covers
+big full toss, drives into the covers
 
 
 
@@ -812,21 +904,23 @@ Match: all_games_1411166_1415726.json
 Balls faced: 1
 Bowler: Boult
 Over: 18
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Motie is the last batter in. Boult stays around the wicket"}]Motie is the last batter in. Boult stays around the wicket
+Motie is the last batter in. Boult stays around the wicket
 
-[{"type": "HTML", "html": "back of a length on middle and off. Motie gets behind the line and defends"}]back of a length on middle and off. Motie gets behind the line and defends
+back of a length on middle and off. Motie gets behind the line and defends
 
 
 Balls faced: 2
 Bowler: Boult
 Over: 18
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Motie is the last batter in. Boult stays around the wicket"}]Motie is the last batter in. Boult stays around the wicket
+Motie is the last batter in. Boult stays around the wicket
 
-[{"type": "HTML", "html": "back of a length on middle and off. Motie gets behind the line and defends"}]back of a length on middle and off. Motie gets behind the line and defends
+back of a length on middle and off. Motie gets behind the line and defends
 
 
 
@@ -834,21 +928,23 @@ Match: all_games_1433350_1433362.json
 Balls faced: 1
 Bowler: Ngidi
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Clears the front leg but, Motie too, has to reach out, and wait as well as Ngidi (from around) went shortish and wide. Cuts it off the bottom of the stick towards cover"}]Clears the front leg but, Motie too, has to reach out, and wait as well as Ngidi (from around) went shortish and wide. Cuts it off the bottom of the stick towards cover
+Clears the front leg but, Motie too, has to reach out, and wait as well as Ngidi (from around) went shortish and wide. Cuts it off the bottom of the stick towards cover
 
 
 Balls faced: 2
 Bowler: Ngidi
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Clears the front leg but, Motie too, has to reach out, and wait as well as Ngidi (from around) went shortish and wide. Cuts it off the bottom of the stick towards cover"}]Clears the front leg but, Motie too, has to reach out, and wait as well as Ngidi (from around) went shortish and wide. Cuts it off the bottom of the stick towards cover
+Clears the front leg but, Motie too, has to reach out, and wait as well as Ngidi (from around) went shortish and wide. Cuts it off the bottom of the stick towards cover
 
 
 
@@ -856,38 +952,42 @@ Match: all_games_1433350_1433363.json
 Balls faced: 1
 Bowler: Ngidi
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball clubbed to cow corner and they call for two. They get there and <B>West Indies finish on 207 for 7</b>"}]full ball clubbed to cow corner and they call for two. They get there and <B>West Indies finish on 207 for 7</b>
-[{"type": "HTML", "html": "<B>3.36pm</b> A sensational 38-ball 67 from Chase lifts WI to 207. But he was starved of strike in the 20th over, so SA have escaped from conceding more in the back end. King, Mayers, Fletcher and Shepherd were all impressive too.<BR><BR>As for South Africa, debutant legspinner Peter impressed with 2 for 32. Fortuin was miserly with 1-21. Phehlukwayo conceded a bowling half-century while Ngidi bowled the tough overs. Himanshu will be back with the chase soon."}, {"type": "HTML", "html": "<B>Here's the legspinner Peter:</b> \"It's gone well if I can put it that way. Few stuff I can do better but happy to do this for the team. (First wicket) First wicket is always special. Definitely felt that all the hard work finally got a time to shine. (Target) Wicket is starting to crumble a bit but better wicket than yesterday. We can fancy our chances with the arsenal we've got. (From net bowler to playing for SA) Me being here shows that keep working hard. Sometimes you might not get chances, maybe its not the right time. Keep working, be patient.\""}, {"type": "POLL", "poll": {"id": 2240, "objectId": 1435355, "title": "Which team will do better at T20 World Cup?", "modifiedAt": "2024-05-25T19:53:06.000Z", "generatedAt": "2024-06-20T00:41:00.460Z", "options": [{"id": 7807, "title": "West Indies", "votes": 3080}, {"id": 7808, "title": "South Africa", "votes": 1430}]}}]<B>3.36pm</b> A sensational 38-ball 67 from Chase lifts WI to 207. But he was starved of strike in the 20th over, so SA have escaped from conceding more in the back end. King, Mayers, Fletcher and Shepherd were all impressive too.<BR><BR>As for South Africa, debutant legspinner Peter impressed with 2 for 32. Fortuin was miserly with 1-21. Phehlukwayo conceded a bowling half-century while Ngidi bowled the tough overs. Himanshu will be back with the chase soon. <B>Here's the legspinner Peter:</b> "It's gone well if I can put it that way. Few stuff I can do better but happy to do this for the team. (First wicket) First wicket is always special. Definitely felt that all the hard work finally got a time to shine. (Target) Wicket is starting to crumble a bit but better wicket than yesterday. We can fancy our chances with the arsenal we've got. (From net bowler to playing for SA) Me being here shows that keep working hard. Sometimes you might not get chances, maybe its not the right time. Keep working, be patient."
+full ball clubbed to cow corner and they call for two. They get there and <B>West Indies finish on 207 for 7</b>
+<B>3.36pm</b> A sensational 38-ball 67 from Chase lifts WI to 207. But he was starved of strike in the 20th over, so SA have escaped from conceding more in the back end. King, Mayers, Fletcher and Shepherd were all impressive too.<BR><BR>As for South Africa, debutant legspinner Peter impressed with 2 for 32. Fortuin was miserly with 1-21. Phehlukwayo conceded a bowling half-century while Ngidi bowled the tough overs. Himanshu will be back with the chase soon. <B>Here's the legspinner Peter:</b> "It's gone well if I can put it that way. Few stuff I can do better but happy to do this for the team. (First wicket) First wicket is always special. Definitely felt that all the hard work finally got a time to shine. (Target) Wicket is starting to crumble a bit but better wicket than yesterday. We can fancy our chances with the arsenal we've got. (From net bowler to playing for SA) Me being here shows that keep working hard. Sometimes you might not get chances, maybe its not the right time. Keep working, be patient."
 
 Balls faced: 2
 Bowler: Ngidi
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "misses the hat-trick. Slower ball, full outside off stump. Big swing and misses"}]misses the hat-trick. Slower ball, full outside off stump. Big swing and misses
+misses the hat-trick. Slower ball, full outside off stump. Big swing and misses
 
 
 Balls faced: 3
 Bowler: Ngidi
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball clubbed to cow corner and they call for two. They get there and <B>West Indies finish on 207 for 7</b>"}]full ball clubbed to cow corner and they call for two. They get there and <B>West Indies finish on 207 for 7</b>
-[{"type": "HTML", "html": "<B>3.36pm</b> A sensational 38-ball 67 from Chase lifts WI to 207. But he was starved of strike in the 20th over, so SA have escaped from conceding more in the back end. King, Mayers, Fletcher and Shepherd were all impressive too.<BR><BR>As for South Africa, debutant legspinner Peter impressed with 2 for 32. Fortuin was miserly with 1-21. Phehlukwayo conceded a bowling half-century while Ngidi bowled the tough overs. Himanshu will be back with the chase soon."}, {"type": "HTML", "html": "<B>Here's the legspinner Peter:</b> \"It's gone well if I can put it that way. Few stuff I can do better but happy to do this for the team. (First wicket) First wicket is always special. Definitely felt that all the hard work finally got a time to shine. (Target) Wicket is starting to crumble a bit but better wicket than yesterday. We can fancy our chances with the arsenal we've got. (From net bowler to playing for SA) Me being here shows that keep working hard. Sometimes you might not get chances, maybe its not the right time. Keep working, be patient.\""}, {"type": "POLL", "poll": {"id": 2240, "objectId": 1435355, "title": "Which team will do better at T20 World Cup?", "modifiedAt": "2024-05-25T19:53:06.000Z", "generatedAt": "2024-06-20T00:41:00.460Z", "options": [{"id": 7807, "title": "West Indies", "votes": 3080}, {"id": 7808, "title": "South Africa", "votes": 1430}]}}]<B>3.36pm</b> A sensational 38-ball 67 from Chase lifts WI to 207. But he was starved of strike in the 20th over, so SA have escaped from conceding more in the back end. King, Mayers, Fletcher and Shepherd were all impressive too.<BR><BR>As for South Africa, debutant legspinner Peter impressed with 2 for 32. Fortuin was miserly with 1-21. Phehlukwayo conceded a bowling half-century while Ngidi bowled the tough overs. Himanshu will be back with the chase soon. <B>Here's the legspinner Peter:</b> "It's gone well if I can put it that way. Few stuff I can do better but happy to do this for the team. (First wicket) First wicket is always special. Definitely felt that all the hard work finally got a time to shine. (Target) Wicket is starting to crumble a bit but better wicket than yesterday. We can fancy our chances with the arsenal we've got. (From net bowler to playing for SA) Me being here shows that keep working hard. Sometimes you might not get chances, maybe its not the right time. Keep working, be patient."
+full ball clubbed to cow corner and they call for two. They get there and <B>West Indies finish on 207 for 7</b>
+<B>3.36pm</b> A sensational 38-ball 67 from Chase lifts WI to 207. But he was starved of strike in the 20th over, so SA have escaped from conceding more in the back end. King, Mayers, Fletcher and Shepherd were all impressive too.<BR><BR>As for South Africa, debutant legspinner Peter impressed with 2 for 32. Fortuin was miserly with 1-21. Phehlukwayo conceded a bowling half-century while Ngidi bowled the tough overs. Himanshu will be back with the chase soon. <B>Here's the legspinner Peter:</b> "It's gone well if I can put it that way. Few stuff I can do better but happy to do this for the team. (First wicket) First wicket is always special. Definitely felt that all the hard work finally got a time to shine. (Target) Wicket is starting to crumble a bit but better wicket than yesterday. We can fancy our chances with the arsenal we've got. (From net bowler to playing for SA) Me being here shows that keep working hard. Sometimes you might not get chances, maybe its not the right time. Keep working, be patient."
 
 Balls faced: 4
 Bowler: Ngidi
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "misses the hat-trick. Slower ball, full outside off stump. Big swing and misses"}]misses the hat-trick. Slower ball, full outside off stump. Big swing and misses
+misses the hat-trick. Slower ball, full outside off stump. Big swing and misses

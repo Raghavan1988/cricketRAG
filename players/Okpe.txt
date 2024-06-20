@@ -2,6 +2,7 @@ Match: all_games_1407043_1407104.json
 Balls faced: 1
 Bowler: Burl
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Burl
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -22,6 +24,7 @@ Wide: 1
 Balls faced: 3
 Bowler: Burl
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -32,6 +35,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Burl
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -42,6 +46,7 @@ Wide: 1
 Balls faced: 5
 Bowler: Burl
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -52,6 +57,7 @@ Byes: 1
 Balls faced: 6
 Bowler: Burl
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Burl
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -72,6 +79,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Burl
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -82,6 +90,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -92,6 +101,7 @@ Legbyes: 1
 Balls faced: 10
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -112,6 +123,7 @@ Run scored: 2
 Balls faced: 12
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -122,6 +134,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -132,6 +145,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -142,6 +156,7 @@ Wide: 5
 Balls faced: 15
 Bowler: Burl
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -152,6 +167,7 @@ Byes: 1
 Balls faced: 16
 Bowler: Burl
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -162,6 +178,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Burl
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -172,6 +189,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Burl
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -182,6 +200,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Burl
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -192,6 +211,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Burl
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Burl
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -212,6 +233,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -222,6 +244,7 @@ Legbyes: 1
 Balls faced: 23
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -232,6 +255,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -242,6 +266,7 @@ Run scored: 2
 Balls faced: 25
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -252,6 +277,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -262,6 +288,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Madhevere
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -272,6 +299,7 @@ Wide: 5
 Balls faced: 28
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -282,6 +310,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -292,6 +321,7 @@ Run scored: 0
 Balls faced: 30
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -302,16 +332,20 @@ Run scored: 0
 Balls faced: 31
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Okpe is OUT! caught
+c Madhevere b Sikandar Raza
+Sylvester Okpe c Madhevere b Sikandar Raza 4 (16b 0x4 0x6) SR: 25
 
 
 
 Balls faced: 32
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -322,6 +356,7 @@ Run scored: 0
 Balls faced: 33
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -332,6 +367,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Burl
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -342,6 +378,7 @@ Run scored: 1
 Balls faced: 35
 Bowler: Burl
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -352,6 +389,7 @@ Run scored: 0
 Balls faced: 36
 Bowler: Burl
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -362,6 +400,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: Burl
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -372,6 +411,7 @@ Run scored: 1
 Balls faced: 38
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -382,6 +422,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -392,6 +433,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -402,16 +444,20 @@ Run scored: 0
 Balls faced: 41
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Okpe is OUT! caught
+c Madhevere b Sikandar Raza
+Sylvester Okpe c Madhevere b Sikandar Raza 4 (16b 0x4 0x6) SR: 25
 
 
 
 Balls faced: 42
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -422,6 +468,7 @@ Run scored: 0
 Balls faced: 43
 Bowler: Raza
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -432,6 +479,7 @@ Run scored: 0
 Balls faced: 44
 Bowler: Raza
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -442,6 +490,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: Raza
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -452,6 +501,7 @@ Run scored: 0
 Balls faced: 46
 Bowler: Raza
 Over: 16
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -462,6 +512,7 @@ Run scored: 2
 Balls faced: 47
 Bowler: Raza
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -472,6 +523,7 @@ Run scored: 1
 Balls faced: 48
 Bowler: Burl
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -482,6 +534,7 @@ Run scored: 1
 Balls faced: 49
 Bowler: Ngarava
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -492,6 +545,7 @@ Run scored: 0
 Balls faced: 50
 Bowler: Ngarava
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -502,6 +556,7 @@ Run scored: 1
 Balls faced: 51
 Bowler: Raza
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -512,6 +567,7 @@ Run scored: 0
 Balls faced: 52
 Bowler: Raza
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -522,6 +578,7 @@ Run scored: 0
 Balls faced: 53
 Bowler: Raza
 Over: 16
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -532,6 +589,7 @@ Run scored: 2
 Balls faced: 54
 Bowler: Raza
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -542,6 +600,7 @@ Run scored: 1
 Balls faced: 55
 Bowler: Ngarava
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -552,6 +611,7 @@ Run scored: 0
 Balls faced: 56
 Bowler: Ngarava
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -562,16 +622,20 @@ Run scored: 1
 Balls faced: 57
 Bowler: Ngarava
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Okpe is OUT! caught
+c †Madande b Ngarava
+Isaac Okpe c †Madande b Ngarava 10 (13b 1x4 0x6) SR: 76.92
 
 
 
 Balls faced: 58
 Bowler: Ngarava
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -582,6 +646,7 @@ Run scored: 1
 Balls faced: 59
 Bowler: Ngarava
 Over: 19
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -592,16 +657,20 @@ Run scored: 4
 Balls faced: 60
 Bowler: Ngarava
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Okpe is OUT! caught
+c †Madande b Ngarava
+Isaac Okpe c †Madande b Ngarava 10 (13b 1x4 0x6) SR: 76.92
 
 
 
 Balls faced: 61
 Bowler: Ngarava
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -612,5 +681,6 @@ Run scored: 1
 Balls faced: 62
 Bowler: Ngarava
 Over: 19
+ 
 Shot: No Shot
 Run scored: 4

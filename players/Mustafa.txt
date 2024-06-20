@@ -2,6 +2,7 @@ Match: all_games_1377745_1377777.json
 Balls faced: 1
 Bowler: Netravalkar
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Netravalkar
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Netravalkar
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Kenjige
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -42,6 +46,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Kenjige
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Kenjige
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Kenjige
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -72,6 +79,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Netravalkar
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -82,6 +90,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Netravalkar
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Netravalkar
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Jasdeep
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Jasdeep
 Over: 30
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -122,6 +134,7 @@ Run scored: 2
 Balls faced: 13
 Bowler: Jasdeep
 Over: 30
+Pitch Line: WIDE_DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
@@ -132,6 +145,7 @@ Wide: 1
 Balls faced: 14
 Bowler: Jasdeep
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -142,6 +156,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Kenjige
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -152,6 +167,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Kenjige
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -162,6 +178,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Kenjige
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -172,6 +189,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Kenjige
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -182,6 +200,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Kenjige
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -192,6 +211,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Kenjige
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Kenjige
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -212,6 +233,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Kenjige
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -222,6 +244,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Kenjige
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -232,6 +255,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Jasdeep
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -242,6 +266,7 @@ Run scored: 1
 Balls faced: 25
 Bowler: Jasdeep
 Over: 30
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -252,6 +277,7 @@ Run scored: 2
 Balls faced: 26
 Bowler: Jasdeep
 Over: 30
+Pitch Line: WIDE_DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
@@ -262,6 +288,7 @@ Wide: 1
 Balls faced: 27
 Bowler: Jasdeep
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -272,6 +299,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Jasdeep
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -282,6 +310,7 @@ Run scored: 1
 Balls faced: 29
 Bowler: Jasdeep
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -292,6 +321,7 @@ Run scored: 0
 Balls faced: 30
 Bowler: Jasdeep
 Over: 32
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -302,6 +332,7 @@ Wide: 1
 Balls faced: 31
 Bowler: Kenjige
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -312,6 +343,7 @@ Run scored: 0
 Balls faced: 32
 Bowler: Kenjige
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -322,6 +354,7 @@ Run scored: 0
 Balls faced: 33
 Bowler: Kenjige
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -332,6 +365,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Kenjige
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -342,6 +376,7 @@ Run scored: 1
 Balls faced: 35
 Bowler: Kenjige
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -352,6 +387,7 @@ Run scored: 0
 Balls faced: 36
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -362,6 +398,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: Kenjige
 Over: 33
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -372,6 +409,7 @@ Run scored: 4
 Balls faced: 38
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -382,6 +420,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -392,6 +431,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -402,6 +442,7 @@ Run scored: 0
 Balls faced: 41
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
@@ -412,6 +453,7 @@ Run scored: 6
 Balls faced: 42
 Bowler: Jasdeep
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -422,6 +464,7 @@ Run scored: 1
 Balls faced: 43
 Bowler: Jasdeep
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -432,6 +475,7 @@ Run scored: 0
 Balls faced: 44
 Bowler: Jasdeep
 Over: 32
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -442,6 +486,7 @@ Wide: 1
 Balls faced: 45
 Bowler: Jasdeep
 Over: 34
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -452,6 +497,7 @@ Run scored: 1
 Balls faced: 46
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -462,6 +508,7 @@ Run scored: 0
 Balls faced: 47
 Bowler: Kenjige
 Over: 33
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -472,6 +519,7 @@ Run scored: 4
 Balls faced: 48
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -482,6 +530,7 @@ Run scored: 0
 Balls faced: 49
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -492,6 +541,7 @@ Run scored: 0
 Balls faced: 50
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -502,6 +552,7 @@ Run scored: 0
 Balls faced: 51
 Bowler: Kenjige
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
@@ -512,16 +563,20 @@ Run scored: 6
 Balls faced: 52
 Bowler: Ali Khan
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
-
+Mustafa is OUT! bowled
+ b Ali Khan
+Rohan Mustafa b Ali Khan 17 (25b 1x4 1x6 28m) SR: 68
 
 
 
 Balls faced: 53
 Bowler: Jasdeep
 Over: 34
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -532,5 +587,10 @@ Run scored: 1
 Balls faced: 54
 Bowler: Ali Khan
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
+
+Mustafa is OUT! bowled
+ b Ali Khan
+Rohan Mustafa b Ali Khan 17 (25b 1x4 1x6 28m) SR: 68

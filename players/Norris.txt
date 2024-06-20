@@ -2,6 +2,7 @@ Match: all_games_1410505_1410545.json
 Balls faced: 1
 Bowler: Burns
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Turner
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Turner
 Over: 11
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Turner
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -42,6 +46,7 @@ Run scored: 4
 Balls faced: 5
 Bowler: Turner
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -52,6 +57,7 @@ Run scored: 4
 Balls faced: 6
 Bowler: Burns
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Levick
 Over: 12
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -72,6 +79,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Levick
 Over: 12
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -82,6 +90,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Levick
 Over: 12
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Levick
 Over: 12
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Turner
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -112,6 +123,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Turner
 Over: 11
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -122,6 +134,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Turner
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -132,6 +145,7 @@ Run scored: 4
 Balls faced: 14
 Bowler: Turner
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -142,16 +156,20 @@ Run scored: 4
 Balls faced: 15
 Bowler: Fraser
 Over: 13
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
-
+Norris is OUT! bowled
+ b Fraser
+Tara Norris b Fraser 13 (12b 3x4 0x6 12m) SR: 108.33
 
 
 
 Balls faced: 16
 Bowler: Fraser
 Over: 13
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -162,6 +180,7 @@ Run scored: 4
 Balls faced: 17
 Bowler: Fraser
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -172,6 +191,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Levick
 Over: 12
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -182,6 +202,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Levick
 Over: 12
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -192,6 +213,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Levick
 Over: 12
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -202,6 +224,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Levick
 Over: 12
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -212,16 +235,20 @@ Run scored: 0
 Balls faced: 22
 Bowler: Fraser
 Over: 13
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
-
+Norris is OUT! bowled
+ b Fraser
+Tara Norris b Fraser 13 (12b 3x4 0x6 12m) SR: 108.33
 
 
 
 Balls faced: 23
 Bowler: Fraser
 Over: 13
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -232,5 +259,6 @@ Run scored: 4
 Balls faced: 24
 Bowler: Fraser
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0

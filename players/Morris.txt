@@ -2,6 +2,7 @@ Match: all_games_1410505_1410545.json
 Balls faced: 1
 Bowler: Slater
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Slater
 Over: 1
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Slater
 Over: 1
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -32,6 +35,7 @@ Wide: 1
 Balls faced: 4
 Bowler: Slater
 Over: 1
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Slater
 Over: 1
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -52,16 +57,20 @@ Wide: 1
 Balls faced: 6
 Bowler: Scott
 Over: 2
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
-
+Morris is OUT! caught
+c Turner b Scott
+Fi Morris c Turner b Scott 0 (4b 0x4 0x6 7m) SR: 0
 
 
 
 Balls faced: 7
 Bowler: Slater
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -72,6 +81,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Slater
 Over: 1
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -82,6 +92,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Slater
 Over: 1
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -92,6 +103,7 @@ Wide: 1
 Balls faced: 10
 Bowler: Slater
 Over: 1
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -102,6 +114,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Slater
 Over: 1
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -112,16 +125,20 @@ Wide: 1
 Balls faced: 12
 Bowler: Scott
 Over: 2
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
-
+Morris is OUT! caught
+c Turner b Scott
+Fi Morris c Turner b Scott 0 (4b 0x4 0x6 7m) SR: 0
 
 
 
 Balls faced: 13
 Bowler: Levick
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 3
 
@@ -132,6 +149,7 @@ Run scored: 3
 Balls faced: 14
 Bowler: Levick
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -142,6 +160,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Levick
 Over: 14
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -152,6 +171,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Levick
 Over: 14
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -162,6 +182,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Levick
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -172,16 +193,20 @@ Run scored: 0
 Balls faced: 18
 Bowler: Burns
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Morris is OUT! caught
+c Armitage b Burns
+Sophie Morris c Armitage b Burns 3 (7b 0x4 0x6 4m) SR: 42.85
 
 
 
 Balls faced: 19
 Bowler: Burns
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -192,6 +217,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Levick
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 3
 
@@ -202,6 +228,7 @@ Run scored: 3
 Balls faced: 21
 Bowler: Levick
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -212,6 +239,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Levick
 Over: 14
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -222,6 +250,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: Levick
 Over: 14
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -232,6 +261,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Levick
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -242,15 +272,19 @@ Run scored: 0
 Balls faced: 25
 Bowler: Burns
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Morris is OUT! caught
+c Armitage b Burns
+Sophie Morris c Armitage b Burns 3 (7b 0x4 0x6 4m) SR: 42.85
 
 
 
 Balls faced: 26
 Bowler: Burns
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0

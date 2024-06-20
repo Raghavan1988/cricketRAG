@@ -2,301 +2,335 @@ Match: all_games_1385666_1385690.json
 Balls faced: 1
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full again, angled in at the top of off, stabbed out to point to keep the strike. Tidy from England, who are well placed to keep this below 150"}]full again, angled in at the top of off, stabbed out to point to keep the strike. Tidy from England, who are well placed to keep this below 150
+full again, angled in at the top of off, stabbed out to point to keep the strike. Tidy from England, who are well placed to keep this below 150
 
 
 Balls faced: 2
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sharp from Archer, good lift from a good length, fenced off the back foot to Rashid at backward point. One stump to aim at, and a direct hit would have been tight"}]sharp from Archer, good lift from a good length, fenced off the back foot to Rashid at backward point. One stump to aim at, and a direct hit would have been tight
+sharp from Archer, good lift from a good length, fenced off the back foot to Rashid at backward point. One stump to aim at, and a direct hit would have been tight
 
 
 Balls faced: 3
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full once more, off-stump line, met on the back foot with an open face. Into the covers"}]full once more, off-stump line, met on the back foot with an open face. Into the covers
+full once more, off-stump line, met on the back foot with an open face. Into the covers
 
 
 Balls faced: 4
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>huge hoick!</B> That is absolutely massive! Got right underneath the length ball, and aimed as high as he did long! Clears long-on by a distance, and England's most threatening weapon is seen off"}]<B>huge hoick!</B> That is absolutely massive! Got right underneath the length ball, and aimed as high as he did long! Clears long-on by a distance, and England's most threatening weapon is seen off
-[{"type": "HTML", "html": "Now then, Rashid out of the way... can Pakistan find a big finish. Here's Jordan"}]Now then, Rashid out of the way... can Pakistan find a big finish. Here's Jordan
+<B>huge hoick!</B> That is absolutely massive! Got right underneath the length ball, and aimed as high as he did long! Clears long-on by a distance, and England's most threatening weapon is seen off
+Now then, Rashid out of the way... can Pakistan find a big finish. Here's Jordan
 
 Balls faced: 5
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "bowled into the pitch as Iftikhar gives it the charge, deep midwicket gathers"}]bowled into the pitch as Iftikhar gives it the charge, deep midwicket gathers
+bowled into the pitch as Iftikhar gives it the charge, deep midwicket gathers
 
 
 Balls faced: 6
 Bowler: Rashid
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up outside off, and dragged across the line, under-edged into the crease"}]tossed up outside off, and dragged across the line, under-edged into the crease
+tossed up outside off, and dragged across the line, under-edged into the crease
 
 
 Balls faced: 7
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dipping into the toes, tucked to the on-side"}]dipping into the toes, tucked to the on-side
+dipping into the toes, tucked to the on-side
 
 
 Balls faced: 8
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full again, angled in at the top of off, stabbed out to point to keep the strike. Tidy from England, who are well placed to keep this below 150"}]full again, angled in at the top of off, stabbed out to point to keep the strike. Tidy from England, who are well placed to keep this below 150
+full again, angled in at the top of off, stabbed out to point to keep the strike. Tidy from England, who are well placed to keep this below 150
 
 
 Balls faced: 9
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sharp from Archer, good lift from a good length, fenced off the back foot to Rashid at backward point. One stump to aim at, and a direct hit would have been tight"}]sharp from Archer, good lift from a good length, fenced off the back foot to Rashid at backward point. One stump to aim at, and a direct hit would have been tight
+sharp from Archer, good lift from a good length, fenced off the back foot to Rashid at backward point. One stump to aim at, and a direct hit would have been tight
 
 
 Balls faced: 10
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full once more, off-stump line, met on the back foot with an open face. Into the covers"}]full once more, off-stump line, met on the back foot with an open face. Into the covers
+full once more, off-stump line, met on the back foot with an open face. Into the covers
 
 
 Balls faced: 11
 Bowler: Jordan
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short, into the body, Naseem swings into a cramped pull and gets off strike as Buttler rushes round but can't reach the ball in time"}]short, into the body, Naseem swings into a cramped pull and gets off strike as Buttler rushes round but can't reach the ball in time
-[{"type": "HTML", "html": "Naeem Chishti: \"World Cup is just here! And Pak batting line up is all baffled yet. Hmmm?\" Name. On. The. Trophy"}]Naeem Chishti: "World Cup is just here! And Pak batting line up is all baffled yet. Hmmm?" Name. On. The. Trophy
+short, into the body, Naseem swings into a cramped pull and gets off strike as Buttler rushes round but can't reach the ball in time
+Naeem Chishti: "World Cup is just here! And Pak batting line up is all baffled yet. Hmmm?" Name. On. The. Trophy
 
 Balls faced: 12
 Bowler: Jordan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide outside off, a big hack, Naseem wants the wide, and is perhaps unlucky not to get it. Dot ball"}]wide outside off, a big hack, Naseem wants the wide, and is perhaps unlucky not to get it. Dot ball
+wide outside off, a big hack, Naseem wants the wide, and is perhaps unlucky not to get it. Dot ball
 
 
 Balls faced: 13
 Bowler: Jordan
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "well bowled again, a pacy cutter, hitting the pitch and lifting on the angle, as Naseem made room to leg and couldn't connect"}]well bowled again, a pacy cutter, hitting the pitch and lifting on the angle, as Naseem made room to leg and couldn't connect
+well bowled again, a pacy cutter, hitting the pitch and lifting on the angle, as Naseem made room to leg and couldn't connect
 
 
 Balls faced: 14
 Bowler: Jordan
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good delivery, angled in on the full length, attacking the tailender's stumps. Naseem hops into line to defend"}]good delivery, angled in on the full length, attacking the tailender's stumps. Naseem hops into line to defend
+good delivery, angled in on the full length, attacking the tailender's stumps. Naseem hops into line to defend
 
 
 Balls faced: 15
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>huge hoick!</B> That is absolutely massive! Got right underneath the length ball, and aimed as high as he did long! Clears long-on by a distance, and England's most threatening weapon is seen off"}]<B>huge hoick!</B> That is absolutely massive! Got right underneath the length ball, and aimed as high as he did long! Clears long-on by a distance, and England's most threatening weapon is seen off
-[{"type": "HTML", "html": "Now then, Rashid out of the way... can Pakistan find a big finish. Here's Jordan"}]Now then, Rashid out of the way... can Pakistan find a big finish. Here's Jordan
+<B>huge hoick!</B> That is absolutely massive! Got right underneath the length ball, and aimed as high as he did long! Clears long-on by a distance, and England's most threatening weapon is seen off
+Now then, Rashid out of the way... can Pakistan find a big finish. Here's Jordan
 
 Balls faced: 16
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "bowled into the pitch as Iftikhar gives it the charge, deep midwicket gathers"}]bowled into the pitch as Iftikhar gives it the charge, deep midwicket gathers
+bowled into the pitch as Iftikhar gives it the charge, deep midwicket gathers
 
 
 Balls faced: 17
 Bowler: Rashid
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up outside off, and dragged across the line, under-edged into the crease"}]tossed up outside off, and dragged across the line, under-edged into the crease
+tossed up outside off, and dragged across the line, under-edged into the crease
 
 
 Balls faced: 18
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dipping into the toes, tucked to the on-side"}]dipping into the toes, tucked to the on-side
+dipping into the toes, tucked to the on-side
 
 
 Balls faced: 19
 Bowler: Wood
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>banged in again, spliced to Buttler!</B> That's the riposte. Naseem was turned inside-out by the cramping angle into his body. A leading edge as his bat came across the line and Pakistan are nine-down"}]<B>banged in again, spliced to Buttler!</B> That's the riposte. Naseem was turned inside-out by the cramping angle into his body. A leading edge as his bat came across the line and Pakistan are nine-down
+Naseem Shah is OUT! caught
+c †Buttler b Wood
+Naseem Shah c †Buttler b Wood 16 (18b 1x4 1x6 18m) SR: 88.88
+<B>banged in again, spliced to Buttler!</B> That's the riposte. Naseem was turned inside-out by the cramping angle into his body. A leading edge as his bat came across the line and Pakistan are nine-down
 
 
 Balls faced: 20
 Bowler: Wood
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>slammed over mid-off!</strong> Lovely pose-holding blow from Naseem, driving up into the fuller length, through to the boundary"}]<strong>slammed over mid-off!</strong> Lovely pose-holding blow from Naseem, driving up into the fuller length, through to the boundary
-[{"type": "HTML", "html": "Mark: \"At least Pakistan can console themselves that Nat Sciver-Brunt isn't playing today.\" <a href=https://www.espncricinfo.com/series/pakistan-women-in-england-2024-1398242/england-women-vs-pakistan-women-3rd-odi-1398273/match-report>I see what you did there</a>"}]Mark: "At least Pakistan can console themselves that Nat Sciver-Brunt isn't playing today." <a href=https://www.espncricinfo.com/series/pakistan-women-in-england-2024-1398242/england-women-vs-pakistan-women-3rd-odi-1398273/match-report>I see what you did there</a>
+<strong>slammed over mid-off!</strong> Lovely pose-holding blow from Naseem, driving up into the fuller length, through to the boundary
+Mark: "At least Pakistan can console themselves that Nat Sciver-Brunt isn't playing today." <a href=https://www.espncricinfo.com/series/pakistan-women-in-england-2024-1398242/england-women-vs-pakistan-women-3rd-odi-1398273/match-report>I see what you did there</a>
 
 Balls faced: 21
 Bowler: Wood
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, that's followed him down the leg-side, a flapped swat from Naseem, but no contact"}]bouncer, that's followed him down the leg-side, a flapped swat from Naseem, but no contact
+bouncer, that's followed him down the leg-side, a flapped swat from Naseem, but no contact
 
 
 Balls faced: 22
 Bowler: Wood
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Wood"}]Wood
+Wood
 
-[{"type": "HTML", "html": "length ball, good heat, a swing and a miss. That's probably the spot to bowl to the tail-enders. No need to mix it up, just serve rockets!"}]length ball, good heat, a swing and a miss. That's probably the spot to bowl to the tail-enders. No need to mix it up, just serve rockets!
+length ball, good heat, a swing and a miss. That's probably the spot to bowl to the tail-enders. No need to mix it up, just serve rockets!
 
 
 Balls faced: 23
 Bowler: Jordan
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short, into the body, Naseem swings into a cramped pull and gets off strike as Buttler rushes round but can't reach the ball in time"}]short, into the body, Naseem swings into a cramped pull and gets off strike as Buttler rushes round but can't reach the ball in time
-[{"type": "HTML", "html": "Naeem Chishti: \"World Cup is just here! And Pak batting line up is all baffled yet. Hmmm?\" Name. On. The. Trophy"}]Naeem Chishti: "World Cup is just here! And Pak batting line up is all baffled yet. Hmmm?" Name. On. The. Trophy
+short, into the body, Naseem swings into a cramped pull and gets off strike as Buttler rushes round but can't reach the ball in time
+Naeem Chishti: "World Cup is just here! And Pak batting line up is all baffled yet. Hmmm?" Name. On. The. Trophy
 
 Balls faced: 24
 Bowler: Jordan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide outside off, a big hack, Naseem wants the wide, and is perhaps unlucky not to get it. Dot ball"}]wide outside off, a big hack, Naseem wants the wide, and is perhaps unlucky not to get it. Dot ball
+wide outside off, a big hack, Naseem wants the wide, and is perhaps unlucky not to get it. Dot ball
 
 
 Balls faced: 25
 Bowler: Jordan
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "well bowled again, a pacy cutter, hitting the pitch and lifting on the angle, as Naseem made room to leg and couldn't connect"}]well bowled again, a pacy cutter, hitting the pitch and lifting on the angle, as Naseem made room to leg and couldn't connect
+well bowled again, a pacy cutter, hitting the pitch and lifting on the angle, as Naseem made room to leg and couldn't connect
 
 
 Balls faced: 26
 Bowler: Jordan
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good delivery, angled in on the full length, attacking the tailender's stumps. Naseem hops into line to defend"}]good delivery, angled in on the full length, attacking the tailender's stumps. Naseem hops into line to defend
+good delivery, angled in on the full length, attacking the tailender's stumps. Naseem hops into line to defend
 
 
 Balls faced: 27
 Bowler: Wood
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>banged in again, spliced to Buttler!</B> That's the riposte. Naseem was turned inside-out by the cramping angle into his body. A leading edge as his bat came across the line and Pakistan are nine-down"}]<B>banged in again, spliced to Buttler!</B> That's the riposte. Naseem was turned inside-out by the cramping angle into his body. A leading edge as his bat came across the line and Pakistan are nine-down
+Naseem Shah is OUT! caught
+c †Buttler b Wood
+Naseem Shah c †Buttler b Wood 16 (18b 1x4 1x6 18m) SR: 88.88
+<B>banged in again, spliced to Buttler!</B> That's the riposte. Naseem was turned inside-out by the cramping angle into his body. A leading edge as his bat came across the line and Pakistan are nine-down
 
 
 Balls faced: 28
 Bowler: Wood
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>slammed over mid-off!</strong> Lovely pose-holding blow from Naseem, driving up into the fuller length, through to the boundary"}]<strong>slammed over mid-off!</strong> Lovely pose-holding blow from Naseem, driving up into the fuller length, through to the boundary
-[{"type": "HTML", "html": "Mark: \"At least Pakistan can console themselves that Nat Sciver-Brunt isn't playing today.\" <a href=https://www.espncricinfo.com/series/pakistan-women-in-england-2024-1398242/england-women-vs-pakistan-women-3rd-odi-1398273/match-report>I see what you did there</a>"}]Mark: "At least Pakistan can console themselves that Nat Sciver-Brunt isn't playing today." <a href=https://www.espncricinfo.com/series/pakistan-women-in-england-2024-1398242/england-women-vs-pakistan-women-3rd-odi-1398273/match-report>I see what you did there</a>
+<strong>slammed over mid-off!</strong> Lovely pose-holding blow from Naseem, driving up into the fuller length, through to the boundary
+Mark: "At least Pakistan can console themselves that Nat Sciver-Brunt isn't playing today." <a href=https://www.espncricinfo.com/series/pakistan-women-in-england-2024-1398242/england-women-vs-pakistan-women-3rd-odi-1398273/match-report>I see what you did there</a>
 
 Balls faced: 29
 Bowler: Wood
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, that's followed him down the leg-side, a flapped swat from Naseem, but no contact"}]bouncer, that's followed him down the leg-side, a flapped swat from Naseem, but no contact
+bouncer, that's followed him down the leg-side, a flapped swat from Naseem, but no contact
 
 
 Balls faced: 30
 Bowler: Wood
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Wood"}]Wood
+Wood
 
-[{"type": "HTML", "html": "length ball, good heat, a swing and a miss. That's probably the spot to bowl to the tail-enders. No need to mix it up, just serve rockets!"}]length ball, good heat, a swing and a miss. That's probably the spot to bowl to the tail-enders. No need to mix it up, just serve rockets!
+length ball, good heat, a swing and a miss. That's probably the spot to bowl to the tail-enders. No need to mix it up, just serve rockets!
 
 
 
@@ -304,78 +338,86 @@ Match: all_games_1411166_1415719.json
 Balls faced: 1
 Bowler: Arshdeep Singh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "All India need now is for Arshdeep to not bowl a wide or no-ball."}]All India need now is for Arshdeep to not bowl a wide or no-ball.
+All India need now is for Arshdeep to not bowl a wide or no-ball.
 
-[{"type": "HTML", "html": "and he does his bit. Low full-toss on off stump, jabbed back down the ground, past the other end, and India have defended 119. What a performance, and what a match this has been"}]and he does his bit. Low full-toss on off stump, jabbed back down the ground, past the other end, and India have defended 119. What a performance, and what a match this has been
-[{"type": "HTML", "html": "<b>3.57pm</b> And that is that. Fantastic win for India, puts them on top of their group above USA. Pakistan, well... they're in some trouble now. They've been in these situations before in world tournaments and come back from them, as we all know, so never say never. Anyway, we've just witnessed one hell of a contest, and my fingers need all the rest they can get. I shall take your leave, therefore, and bid you a warm goodbye on behalf of myself, Danyal, Thilak and Ranjith. Enjoy the rest of your Sunday!"}, {"type": "HTML", "html": "<b>Rohit Sharma</b>: \"We didn't bat well enough. I thought halfway through, after 10 overs, we were in a good position, you expect guys to stitch partnerships. We were 15-20 runs short, and every run matters. We were looking at 140, but nevertheless the bowlers did the job. It was a good wicket compared to the one we played on here [against Ireland]. There's that never-say-die attitude in the team. Only 119 on the board, and we wanted to make early inroads which we didn't. But at the halfway stage we got together and said if things can happen to us, they can happen to them too. The little contributions from everyone makes the difference. Whoever has the ball wants to make the difference. Bumrah is going from strength to strength. I'm not going to talk too much about him, we want him to be in that kind of mindset till the end of this World Cup, he's a genius with the ball. The crowd was superb, they never disappoint, wherever we play in the world, they come out in huge numbers and support us. They'll be going home with a big smile on their face as well. Just the start of the tournament, we have a long way to go.\""}, {"type": "HTML", "html": "<b>Babar Azam</b>: \"I think they bowled well after 10 overs. We were chasing 120, we were run a ball for the first 10 overs, but back to back wickets and then [we left too much in the end]. Tactics was simple, play normally, rotate strike, 5-6 an over. But in that period we had too many dot balls, the pressure was on us, and we lost three quick wickets. Can't expect too much from tailenders. We were not up to the mark in the first six overs, we had targeted 40-45 runs, we have not capitalised properly. Pitch looked decent, ball coming nicely. Little bit slow, some balls are bouncing a bit more, but you expect it with a drop-in pitch.\""}, {"type": "HTML", "html": "<b>Jasprit Bumrah is the Player of the Match</b>. \"It feels really good,\" he says. \"We felt we were a little under par, and when the sun came out, the wicket got a little better, so we had to be really disciplined. I tried to keep it simple, tried to hit the seam as much as I can, focus on my execution. It felt like we were in India, and the cheering is really appreciated, we were really happy with the support we got, it gave us a lot of energy. Focus on the now. We've played two games, played very good cricket. We'll stick to our processes, and come out and try our best.\""}, {"type": "HTML", "html": "Mustafa Moudi : \"That shot at 19.4 brings back the historical 2007 World Cup Winning Moment !!\""}, {"type": "HTML", "html": "Asahel: \"@Karthik even then they would have to beat the NRR of USA. It's quite a gap\" -- Yup."}, {"type": "HTML", "html": "Enish: \"Sure, India-Pak is the big hype, but don't let this game distract you from the fact England is <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/oman-vs-scotland-20th-match-group-b-1415720/full-scorecard\">on the brink of getting knocked out</a> with Scotland cruising towards victory. As an Australian Cricket fan, gotta be honest here- I love this!\""}, {"type": "HTML", "html": "Arjit: \"The terror of Bumrah is such that even his full tosses aren't dispatched, one was single and another got him the wicket.\""}, {"type": "HTML", "html": "Nilesh Thakker : \"I guess we underestimate Rishabh Pant's performance here.. 42 runs, 3 excellent catches.  He's my PoTM\""}, {"type": "HTML", "html": "Anser: \"Pakistan is now almost out of the World Cup.\" -- They will need to beat Ireland and Canada now, and hope that USA lose to both India and Ireland. That's their route to the Super 8s, if my calculations are right."}, {"type": "HTML", "html": "<b>3.38pm</b> Phew. The smallest total that India have successfully defended in T20Is. The lowest target that Pakistan have failed to chase down. Tears for Naseem as he walks off, with Shaheen's arm around his shoulder. Two teams gave it their all today, on a tricky, tricky pitch, and we've all witnessed a contest that's lived up to all the India-Pakistan hype. You always felt that Jasprit Bumrah would be key in defending a total this small, and he finishes with figures of 4-0-14-3. What a man. Excellent support from the other quicks too. Siraj has gone at below 5, and Hardik came back with 2 for 6 from two overs after conceding 18 in his first two."}, {"type": "HTML", "html": "Utsav Mukherjee: \"How important were the 16 runs from Arshdeep and Siraj! Incredible win!\""}, {"type": "HTML", "html": "Venkatesh : \"How good was that bumrahs over 3 runs and 1 wkt, just extraordinary \""}]<b>3.57pm</b> And that is that. Fantastic win for India, puts them on top of their group above USA. Pakistan, well... they're in some trouble now. They've been in these situations before in world tournaments and come back from them, as we all know, so never say never. Anyway, we've just witnessed one hell of a contest, and my fingers need all the rest they can get. I shall take your leave, therefore, and bid you a warm goodbye on behalf of myself, Danyal, Thilak and Ranjith. Enjoy the rest of your Sunday! <b>Rohit Sharma</b>: "We didn't bat well enough. I thought halfway through, after 10 overs, we were in a good position, you expect guys to stitch partnerships. We were 15-20 runs short, and every run matters. We were looking at 140, but nevertheless the bowlers did the job. It was a good wicket compared to the one we played on here [against Ireland]. There's that never-say-die attitude in the team. Only 119 on the board, and we wanted to make early inroads which we didn't. But at the halfway stage we got together and said if things can happen to us, they can happen to them too. The little contributions from everyone makes the difference. Whoever has the ball wants to make the difference. Bumrah is going from strength to strength. I'm not going to talk too much about him, we want him to be in that kind of mindset till the end of this World Cup, he's a genius with the ball. The crowd was superb, they never disappoint, wherever we play in the world, they come out in huge numbers and support us. They'll be going home with a big smile on their face as well. Just the start of the tournament, we have a long way to go." <b>Babar Azam</b>: "I think they bowled well after 10 overs. We were chasing 120, we were run a ball for the first 10 overs, but back to back wickets and then [we left too much in the end]. Tactics was simple, play normally, rotate strike, 5-6 an over. But in that period we had too many dot balls, the pressure was on us, and we lost three quick wickets. Can't expect too much from tailenders. We were not up to the mark in the first six overs, we had targeted 40-45 runs, we have not capitalised properly. Pitch looked decent, ball coming nicely. Little bit slow, some balls are bouncing a bit more, but you expect it with a drop-in pitch." <b>Jasprit Bumrah is the Player of the Match</b>. "It feels really good," he says. "We felt we were a little under par, and when the sun came out, the wicket got a little better, so we had to be really disciplined. I tried to keep it simple, tried to hit the seam as much as I can, focus on my execution. It felt like we were in India, and the cheering is really appreciated, we were really happy with the support we got, it gave us a lot of energy. Focus on the now. We've played two games, played very good cricket. We'll stick to our processes, and come out and try our best." Mustafa Moudi : "That shot at 19.4 brings back the historical 2007 World Cup Winning Moment !!" Asahel: "@Karthik even then they would have to beat the NRR of USA. It's quite a gap" -- Yup. Enish: "Sure, India-Pak is the big hype, but don't let this game distract you from the fact England is <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/oman-vs-scotland-20th-match-group-b-1415720/full-scorecard">on the brink of getting knocked out</a> with Scotland cruising towards victory. As an Australian Cricket fan, gotta be honest here- I love this!" Arjit: "The terror of Bumrah is such that even his full tosses aren't dispatched, one was single and another got him the wicket." Nilesh Thakker : "I guess we underestimate Rishabh Pant's performance here.. 42 runs, 3 excellent catches.  He's my PoTM" Anser: "Pakistan is now almost out of the World Cup." -- They will need to beat Ireland and Canada now, and hope that USA lose to both India and Ireland. That's their route to the Super 8s, if my calculations are right. <b>3.38pm</b> Phew. The smallest total that India have successfully defended in T20Is. The lowest target that Pakistan have failed to chase down. Tears for Naseem as he walks off, with Shaheen's arm around his shoulder. Two teams gave it their all today, on a tricky, tricky pitch, and we've all witnessed a contest that's lived up to all the India-Pakistan hype. You always felt that Jasprit Bumrah would be key in defending a total this small, and he finishes with figures of 4-0-14-3. What a man. Excellent support from the other quicks too. Siraj has gone at below 5, and Hardik came back with 2 for 6 from two overs after conceding 18 in his first two. Utsav Mukherjee: "How important were the 16 runs from Arshdeep and Siraj! Incredible win!" Venkatesh : "How good was that bumrahs over 3 runs and 1 wkt, just extraordinary "
+and he does his bit. Low full-toss on off stump, jabbed back down the ground, past the other end, and India have defended 119. What a performance, and what a match this has been
+<b>3.57pm</b> And that is that. Fantastic win for India, puts them on top of their group above USA. Pakistan, well... they're in some trouble now. They've been in these situations before in world tournaments and come back from them, as we all know, so never say never. Anyway, we've just witnessed one hell of a contest, and my fingers need all the rest they can get. I shall take your leave, therefore, and bid you a warm goodbye on behalf of myself, Danyal, Thilak and Ranjith. Enjoy the rest of your Sunday! <b>Rohit Sharma</b>: "We didn't bat well enough. I thought halfway through, after 10 overs, we were in a good position, you expect guys to stitch partnerships. We were 15-20 runs short, and every run matters. We were looking at 140, but nevertheless the bowlers did the job. It was a good wicket compared to the one we played on here [against Ireland]. There's that never-say-die attitude in the team. Only 119 on the board, and we wanted to make early inroads which we didn't. But at the halfway stage we got together and said if things can happen to us, they can happen to them too. The little contributions from everyone makes the difference. Whoever has the ball wants to make the difference. Bumrah is going from strength to strength. I'm not going to talk too much about him, we want him to be in that kind of mindset till the end of this World Cup, he's a genius with the ball. The crowd was superb, they never disappoint, wherever we play in the world, they come out in huge numbers and support us. They'll be going home with a big smile on their face as well. Just the start of the tournament, we have a long way to go." <b>Babar Azam</b>: "I think they bowled well after 10 overs. We were chasing 120, we were run a ball for the first 10 overs, but back to back wickets and then [we left too much in the end]. Tactics was simple, play normally, rotate strike, 5-6 an over. But in that period we had too many dot balls, the pressure was on us, and we lost three quick wickets. Can't expect too much from tailenders. We were not up to the mark in the first six overs, we had targeted 40-45 runs, we have not capitalised properly. Pitch looked decent, ball coming nicely. Little bit slow, some balls are bouncing a bit more, but you expect it with a drop-in pitch." <b>Jasprit Bumrah is the Player of the Match</b>. "It feels really good," he says. "We felt we were a little under par, and when the sun came out, the wicket got a little better, so we had to be really disciplined. I tried to keep it simple, tried to hit the seam as much as I can, focus on my execution. It felt like we were in India, and the cheering is really appreciated, we were really happy with the support we got, it gave us a lot of energy. Focus on the now. We've played two games, played very good cricket. We'll stick to our processes, and come out and try our best." Mustafa Moudi : "That shot at 19.4 brings back the historical 2007 World Cup Winning Moment !!" Asahel: "@Karthik even then they would have to beat the NRR of USA. It's quite a gap" -- Yup. Enish: "Sure, India-Pak is the big hype, but don't let this game distract you from the fact England is <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/oman-vs-scotland-20th-match-group-b-1415720/full-scorecard">on the brink of getting knocked out</a> with Scotland cruising towards victory. As an Australian Cricket fan, gotta be honest here- I love this!" Arjit: "The terror of Bumrah is such that even his full tosses aren't dispatched, one was single and another got him the wicket." Nilesh Thakker : "I guess we underestimate Rishabh Pant's performance here.. 42 runs, 3 excellent catches.  He's my PoTM" Anser: "Pakistan is now almost out of the World Cup." -- They will need to beat Ireland and Canada now, and hope that USA lose to both India and Ireland. That's their route to the Super 8s, if my calculations are right. <b>3.38pm</b> Phew. The smallest total that India have successfully defended in T20Is. The lowest target that Pakistan have failed to chase down. Tears for Naseem as he walks off, with Shaheen's arm around his shoulder. Two teams gave it their all today, on a tricky, tricky pitch, and we've all witnessed a contest that's lived up to all the India-Pakistan hype. You always felt that Jasprit Bumrah would be key in defending a total this small, and he finishes with figures of 4-0-14-3. What a man. Excellent support from the other quicks too. Siraj has gone at below 5, and Hardik came back with 2 for 6 from two overs after conceding 18 in his first two. Utsav Mukherjee: "How important were the 16 runs from Arshdeep and Siraj! Incredible win!" Venkatesh : "How good was that bumrahs over 3 runs and 1 wkt, just extraordinary "
 
 Balls faced: 2
 Bowler: Arshdeep Singh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Two sixes needed..."}]Two sixes needed...
+Two sixes needed...
 
-[{"type": "HTML", "html": "and he slices it up in the air, and briefly it seems as though it may carry all the way... Full, slantin g away from off stump, and he slices it up and away, to the right of Kohli at deep backward point. Dives to his right, but can't stop it, but all India will worry about is that it bounced before it reached the boundary"}]and he slices it up in the air, and briefly it seems as though it may carry all the way... Full, slantin g away from off stump, and he slices it up and away, to the right of Kohli at deep backward point. Dives to his right, but can't stop it, but all India will worry about is that it bounced before it reached the boundary
+and he slices it up in the air, and briefly it seems as though it may carry all the way... Full, slantin g away from off stump, and he slices it up and away, to the right of Kohli at deep backward point. Dives to his right, but can't stop it, but all India will worry about is that it bounced before it reached the boundary
 
 
 Balls faced: 3
 Bowler: Arshdeep Singh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: No Shot
 Run scored: 4
-[{"type": "HTML", "html": "16 off 3."}]16 off 3.
+16 off 3.
 
-[{"type": "HTML", "html": "wow, Naseem Shah! Terrific shot from the No. 10! Steps across, expecting the attempted yorker at the stumps, and Arshdeep delivers what he expects. Meets it on the full, and scoops it over the keeper, and it runs away despite Siraj's chase from short fine"}]wow, Naseem Shah! Terrific shot from the No. 10! Steps across, expecting the attempted yorker at the stumps, and Arshdeep delivers what he expects. Meets it on the full, and scoops it over the keeper, and it runs away despite Siraj's chase from short fine
+wow, Naseem Shah! Terrific shot from the No. 10! Steps across, expecting the attempted yorker at the stumps, and Arshdeep delivers what he expects. Meets it on the full, and scoops it over the keeper, and it runs away despite Siraj's chase from short fine
 
 
 Balls faced: 4
 Bowler: Arshdeep Singh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Here's Naseem Shah. Shaheen, already in, is at 0 off 0 at the other end. Arshdeep stays over the wicket."}]Here's Naseem Shah. Shaheen, already in, is at 0 off 0 at the other end. Arshdeep stays over the wicket.
+Here's Naseem Shah. Shaheen, already in, is at 0 off 0 at the other end. Arshdeep stays over the wicket.
 
-[{"type": "HTML", "html": "full, slanting across, driven to the left of long-off"}]full, slanting across, driven to the left of long-off
+full, slanting across, driven to the left of long-off
 
 
 Balls faced: 5
 Bowler: Arshdeep Singh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "All India need now is for Arshdeep to not bowl a wide or no-ball."}]All India need now is for Arshdeep to not bowl a wide or no-ball.
+All India need now is for Arshdeep to not bowl a wide or no-ball.
 
-[{"type": "HTML", "html": "and he does his bit. Low full-toss on off stump, jabbed back down the ground, past the other end, and India have defended 119. What a performance, and what a match this has been"}]and he does his bit. Low full-toss on off stump, jabbed back down the ground, past the other end, and India have defended 119. What a performance, and what a match this has been
-[{"type": "HTML", "html": "<b>3.57pm</b> And that is that. Fantastic win for India, puts them on top of their group above USA. Pakistan, well... they're in some trouble now. They've been in these situations before in world tournaments and come back from them, as we all know, so never say never. Anyway, we've just witnessed one hell of a contest, and my fingers need all the rest they can get. I shall take your leave, therefore, and bid you a warm goodbye on behalf of myself, Danyal, Thilak and Ranjith. Enjoy the rest of your Sunday!"}, {"type": "HTML", "html": "<b>Rohit Sharma</b>: \"We didn't bat well enough. I thought halfway through, after 10 overs, we were in a good position, you expect guys to stitch partnerships. We were 15-20 runs short, and every run matters. We were looking at 140, but nevertheless the bowlers did the job. It was a good wicket compared to the one we played on here [against Ireland]. There's that never-say-die attitude in the team. Only 119 on the board, and we wanted to make early inroads which we didn't. But at the halfway stage we got together and said if things can happen to us, they can happen to them too. The little contributions from everyone makes the difference. Whoever has the ball wants to make the difference. Bumrah is going from strength to strength. I'm not going to talk too much about him, we want him to be in that kind of mindset till the end of this World Cup, he's a genius with the ball. The crowd was superb, they never disappoint, wherever we play in the world, they come out in huge numbers and support us. They'll be going home with a big smile on their face as well. Just the start of the tournament, we have a long way to go.\""}, {"type": "HTML", "html": "<b>Babar Azam</b>: \"I think they bowled well after 10 overs. We were chasing 120, we were run a ball for the first 10 overs, but back to back wickets and then [we left too much in the end]. Tactics was simple, play normally, rotate strike, 5-6 an over. But in that period we had too many dot balls, the pressure was on us, and we lost three quick wickets. Can't expect too much from tailenders. We were not up to the mark in the first six overs, we had targeted 40-45 runs, we have not capitalised properly. Pitch looked decent, ball coming nicely. Little bit slow, some balls are bouncing a bit more, but you expect it with a drop-in pitch.\""}, {"type": "HTML", "html": "<b>Jasprit Bumrah is the Player of the Match</b>. \"It feels really good,\" he says. \"We felt we were a little under par, and when the sun came out, the wicket got a little better, so we had to be really disciplined. I tried to keep it simple, tried to hit the seam as much as I can, focus on my execution. It felt like we were in India, and the cheering is really appreciated, we were really happy with the support we got, it gave us a lot of energy. Focus on the now. We've played two games, played very good cricket. We'll stick to our processes, and come out and try our best.\""}, {"type": "HTML", "html": "Mustafa Moudi : \"That shot at 19.4 brings back the historical 2007 World Cup Winning Moment !!\""}, {"type": "HTML", "html": "Asahel: \"@Karthik even then they would have to beat the NRR of USA. It's quite a gap\" -- Yup."}, {"type": "HTML", "html": "Enish: \"Sure, India-Pak is the big hype, but don't let this game distract you from the fact England is <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/oman-vs-scotland-20th-match-group-b-1415720/full-scorecard\">on the brink of getting knocked out</a> with Scotland cruising towards victory. As an Australian Cricket fan, gotta be honest here- I love this!\""}, {"type": "HTML", "html": "Arjit: \"The terror of Bumrah is such that even his full tosses aren't dispatched, one was single and another got him the wicket.\""}, {"type": "HTML", "html": "Nilesh Thakker : \"I guess we underestimate Rishabh Pant's performance here.. 42 runs, 3 excellent catches.  He's my PoTM\""}, {"type": "HTML", "html": "Anser: \"Pakistan is now almost out of the World Cup.\" -- They will need to beat Ireland and Canada now, and hope that USA lose to both India and Ireland. That's their route to the Super 8s, if my calculations are right."}, {"type": "HTML", "html": "<b>3.38pm</b> Phew. The smallest total that India have successfully defended in T20Is. The lowest target that Pakistan have failed to chase down. Tears for Naseem as he walks off, with Shaheen's arm around his shoulder. Two teams gave it their all today, on a tricky, tricky pitch, and we've all witnessed a contest that's lived up to all the India-Pakistan hype. You always felt that Jasprit Bumrah would be key in defending a total this small, and he finishes with figures of 4-0-14-3. What a man. Excellent support from the other quicks too. Siraj has gone at below 5, and Hardik came back with 2 for 6 from two overs after conceding 18 in his first two."}, {"type": "HTML", "html": "Utsav Mukherjee: \"How important were the 16 runs from Arshdeep and Siraj! Incredible win!\""}, {"type": "HTML", "html": "Venkatesh : \"How good was that bumrahs over 3 runs and 1 wkt, just extraordinary \""}]<b>3.57pm</b> And that is that. Fantastic win for India, puts them on top of their group above USA. Pakistan, well... they're in some trouble now. They've been in these situations before in world tournaments and come back from them, as we all know, so never say never. Anyway, we've just witnessed one hell of a contest, and my fingers need all the rest they can get. I shall take your leave, therefore, and bid you a warm goodbye on behalf of myself, Danyal, Thilak and Ranjith. Enjoy the rest of your Sunday! <b>Rohit Sharma</b>: "We didn't bat well enough. I thought halfway through, after 10 overs, we were in a good position, you expect guys to stitch partnerships. We were 15-20 runs short, and every run matters. We were looking at 140, but nevertheless the bowlers did the job. It was a good wicket compared to the one we played on here [against Ireland]. There's that never-say-die attitude in the team. Only 119 on the board, and we wanted to make early inroads which we didn't. But at the halfway stage we got together and said if things can happen to us, they can happen to them too. The little contributions from everyone makes the difference. Whoever has the ball wants to make the difference. Bumrah is going from strength to strength. I'm not going to talk too much about him, we want him to be in that kind of mindset till the end of this World Cup, he's a genius with the ball. The crowd was superb, they never disappoint, wherever we play in the world, they come out in huge numbers and support us. They'll be going home with a big smile on their face as well. Just the start of the tournament, we have a long way to go." <b>Babar Azam</b>: "I think they bowled well after 10 overs. We were chasing 120, we were run a ball for the first 10 overs, but back to back wickets and then [we left too much in the end]. Tactics was simple, play normally, rotate strike, 5-6 an over. But in that period we had too many dot balls, the pressure was on us, and we lost three quick wickets. Can't expect too much from tailenders. We were not up to the mark in the first six overs, we had targeted 40-45 runs, we have not capitalised properly. Pitch looked decent, ball coming nicely. Little bit slow, some balls are bouncing a bit more, but you expect it with a drop-in pitch." <b>Jasprit Bumrah is the Player of the Match</b>. "It feels really good," he says. "We felt we were a little under par, and when the sun came out, the wicket got a little better, so we had to be really disciplined. I tried to keep it simple, tried to hit the seam as much as I can, focus on my execution. It felt like we were in India, and the cheering is really appreciated, we were really happy with the support we got, it gave us a lot of energy. Focus on the now. We've played two games, played very good cricket. We'll stick to our processes, and come out and try our best." Mustafa Moudi : "That shot at 19.4 brings back the historical 2007 World Cup Winning Moment !!" Asahel: "@Karthik even then they would have to beat the NRR of USA. It's quite a gap" -- Yup. Enish: "Sure, India-Pak is the big hype, but don't let this game distract you from the fact England is <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/oman-vs-scotland-20th-match-group-b-1415720/full-scorecard">on the brink of getting knocked out</a> with Scotland cruising towards victory. As an Australian Cricket fan, gotta be honest here- I love this!" Arjit: "The terror of Bumrah is such that even his full tosses aren't dispatched, one was single and another got him the wicket." Nilesh Thakker : "I guess we underestimate Rishabh Pant's performance here.. 42 runs, 3 excellent catches.  He's my PoTM" Anser: "Pakistan is now almost out of the World Cup." -- They will need to beat Ireland and Canada now, and hope that USA lose to both India and Ireland. That's their route to the Super 8s, if my calculations are right. <b>3.38pm</b> Phew. The smallest total that India have successfully defended in T20Is. The lowest target that Pakistan have failed to chase down. Tears for Naseem as he walks off, with Shaheen's arm around his shoulder. Two teams gave it their all today, on a tricky, tricky pitch, and we've all witnessed a contest that's lived up to all the India-Pakistan hype. You always felt that Jasprit Bumrah would be key in defending a total this small, and he finishes with figures of 4-0-14-3. What a man. Excellent support from the other quicks too. Siraj has gone at below 5, and Hardik came back with 2 for 6 from two overs after conceding 18 in his first two. Utsav Mukherjee: "How important were the 16 runs from Arshdeep and Siraj! Incredible win!" Venkatesh : "How good was that bumrahs over 3 runs and 1 wkt, just extraordinary "
+and he does his bit. Low full-toss on off stump, jabbed back down the ground, past the other end, and India have defended 119. What a performance, and what a match this has been
+<b>3.57pm</b> And that is that. Fantastic win for India, puts them on top of their group above USA. Pakistan, well... they're in some trouble now. They've been in these situations before in world tournaments and come back from them, as we all know, so never say never. Anyway, we've just witnessed one hell of a contest, and my fingers need all the rest they can get. I shall take your leave, therefore, and bid you a warm goodbye on behalf of myself, Danyal, Thilak and Ranjith. Enjoy the rest of your Sunday! <b>Rohit Sharma</b>: "We didn't bat well enough. I thought halfway through, after 10 overs, we were in a good position, you expect guys to stitch partnerships. We were 15-20 runs short, and every run matters. We were looking at 140, but nevertheless the bowlers did the job. It was a good wicket compared to the one we played on here [against Ireland]. There's that never-say-die attitude in the team. Only 119 on the board, and we wanted to make early inroads which we didn't. But at the halfway stage we got together and said if things can happen to us, they can happen to them too. The little contributions from everyone makes the difference. Whoever has the ball wants to make the difference. Bumrah is going from strength to strength. I'm not going to talk too much about him, we want him to be in that kind of mindset till the end of this World Cup, he's a genius with the ball. The crowd was superb, they never disappoint, wherever we play in the world, they come out in huge numbers and support us. They'll be going home with a big smile on their face as well. Just the start of the tournament, we have a long way to go." <b>Babar Azam</b>: "I think they bowled well after 10 overs. We were chasing 120, we were run a ball for the first 10 overs, but back to back wickets and then [we left too much in the end]. Tactics was simple, play normally, rotate strike, 5-6 an over. But in that period we had too many dot balls, the pressure was on us, and we lost three quick wickets. Can't expect too much from tailenders. We were not up to the mark in the first six overs, we had targeted 40-45 runs, we have not capitalised properly. Pitch looked decent, ball coming nicely. Little bit slow, some balls are bouncing a bit more, but you expect it with a drop-in pitch." <b>Jasprit Bumrah is the Player of the Match</b>. "It feels really good," he says. "We felt we were a little under par, and when the sun came out, the wicket got a little better, so we had to be really disciplined. I tried to keep it simple, tried to hit the seam as much as I can, focus on my execution. It felt like we were in India, and the cheering is really appreciated, we were really happy with the support we got, it gave us a lot of energy. Focus on the now. We've played two games, played very good cricket. We'll stick to our processes, and come out and try our best." Mustafa Moudi : "That shot at 19.4 brings back the historical 2007 World Cup Winning Moment !!" Asahel: "@Karthik even then they would have to beat the NRR of USA. It's quite a gap" -- Yup. Enish: "Sure, India-Pak is the big hype, but don't let this game distract you from the fact England is <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/oman-vs-scotland-20th-match-group-b-1415720/full-scorecard">on the brink of getting knocked out</a> with Scotland cruising towards victory. As an Australian Cricket fan, gotta be honest here- I love this!" Arjit: "The terror of Bumrah is such that even his full tosses aren't dispatched, one was single and another got him the wicket." Nilesh Thakker : "I guess we underestimate Rishabh Pant's performance here.. 42 runs, 3 excellent catches.  He's my PoTM" Anser: "Pakistan is now almost out of the World Cup." -- They will need to beat Ireland and Canada now, and hope that USA lose to both India and Ireland. That's their route to the Super 8s, if my calculations are right. <b>3.38pm</b> Phew. The smallest total that India have successfully defended in T20Is. The lowest target that Pakistan have failed to chase down. Tears for Naseem as he walks off, with Shaheen's arm around his shoulder. Two teams gave it their all today, on a tricky, tricky pitch, and we've all witnessed a contest that's lived up to all the India-Pakistan hype. You always felt that Jasprit Bumrah would be key in defending a total this small, and he finishes with figures of 4-0-14-3. What a man. Excellent support from the other quicks too. Siraj has gone at below 5, and Hardik came back with 2 for 6 from two overs after conceding 18 in his first two. Utsav Mukherjee: "How important were the 16 runs from Arshdeep and Siraj! Incredible win!" Venkatesh : "How good was that bumrahs over 3 runs and 1 wkt, just extraordinary "
 
 Balls faced: 6
 Bowler: Arshdeep Singh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Two sixes needed..."}]Two sixes needed...
+Two sixes needed...
 
-[{"type": "HTML", "html": "and he slices it up in the air, and briefly it seems as though it may carry all the way... Full, slantin g away from off stump, and he slices it up and away, to the right of Kohli at deep backward point. Dives to his right, but can't stop it, but all India will worry about is that it bounced before it reached the boundary"}]and he slices it up in the air, and briefly it seems as though it may carry all the way... Full, slantin g away from off stump, and he slices it up and away, to the right of Kohli at deep backward point. Dives to his right, but can't stop it, but all India will worry about is that it bounced before it reached the boundary
+and he slices it up in the air, and briefly it seems as though it may carry all the way... Full, slantin g away from off stump, and he slices it up and away, to the right of Kohli at deep backward point. Dives to his right, but can't stop it, but all India will worry about is that it bounced before it reached the boundary
 
 
 Balls faced: 7
 Bowler: Arshdeep Singh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: No Shot
 Run scored: 4
-[{"type": "HTML", "html": "16 off 3."}]16 off 3.
+16 off 3.
 
-[{"type": "HTML", "html": "wow, Naseem Shah! Terrific shot from the No. 10! Steps across, expecting the attempted yorker at the stumps, and Arshdeep delivers what he expects. Meets it on the full, and scoops it over the keeper, and it runs away despite Siraj's chase from short fine"}]wow, Naseem Shah! Terrific shot from the No. 10! Steps across, expecting the attempted yorker at the stumps, and Arshdeep delivers what he expects. Meets it on the full, and scoops it over the keeper, and it runs away despite Siraj's chase from short fine
+wow, Naseem Shah! Terrific shot from the No. 10! Steps across, expecting the attempted yorker at the stumps, and Arshdeep delivers what he expects. Meets it on the full, and scoops it over the keeper, and it runs away despite Siraj's chase from short fine
 
 
 Balls faced: 8
 Bowler: Arshdeep Singh
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Here's Naseem Shah. Shaheen, already in, is at 0 off 0 at the other end. Arshdeep stays over the wicket."}]Here's Naseem Shah. Shaheen, already in, is at 0 off 0 at the other end. Arshdeep stays over the wicket.
+Here's Naseem Shah. Shaheen, already in, is at 0 off 0 at the other end. Arshdeep stays over the wicket.
 
-[{"type": "HTML", "html": "full, slanting across, driven to the left of long-off"}]full, slanting across, driven to the left of long-off
+full, slanting across, driven to the left of long-off

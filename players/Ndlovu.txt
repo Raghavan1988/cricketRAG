@@ -2,78 +2,86 @@ Match: all_games_1425117_1425127.json
 Balls faced: 1
 Bowler: Taskin
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller length ball on the fifth stump, tries to tap it through third man, beaten by the pace"}]Fuller length ball on the fifth stump, tries to tap it through third man, beaten by the pace
+Fuller length ball on the fifth stump, tries to tap it through third man, beaten by the pace
 
 
 Balls faced: 2
 Bowler: Taskin
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length ball outside off, left alone to the keeper"}]Short of a length ball outside off, left alone to the keeper
+Short of a length ball outside off, left alone to the keeper
 
 
 Balls faced: 3
 Bowler: Saifuddin
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short pitched delivery on the stumps, forced away past the bowler to long off"}]Short pitched delivery on the stumps, forced away past the bowler to long off
+Short pitched delivery on the stumps, forced away past the bowler to long off
 
 
 Balls faced: 4
 Bowler: Saifuddin
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Full in the slot, misses the yorker length and punished by Ndlovu! Hangs back and swats it firmly through the mid wicket region, outfield fielder fails to cut it off"}]Full in the slot, misses the yorker length and punished by Ndlovu! Hangs back and swats it firmly through the mid wicket region, outfield fielder fails to cut it off
+Full in the slot, misses the yorker length and punished by Ndlovu! Hangs back and swats it firmly through the mid wicket region, outfield fielder fails to cut it off
 
 
 Balls faced: 5
 Bowler: Taskin
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller length ball on the fifth stump, tries to tap it through third man, beaten by the pace"}]Fuller length ball on the fifth stump, tries to tap it through third man, beaten by the pace
+Fuller length ball on the fifth stump, tries to tap it through third man, beaten by the pace
 
 
 Balls faced: 6
 Bowler: Taskin
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length ball outside off, left alone to the keeper"}]Short of a length ball outside off, left alone to the keeper
+Short of a length ball outside off, left alone to the keeper
 
 
 Balls faced: 7
 Bowler: Saifuddin
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short pitched delivery on the stumps, forced away past the bowler to long off"}]Short pitched delivery on the stumps, forced away past the bowler to long off
+Short pitched delivery on the stumps, forced away past the bowler to long off
 
 
 Balls faced: 8
 Bowler: Saifuddin
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Full in the slot, misses the yorker length and punished by Ndlovu! Hangs back and swats it firmly through the mid wicket region, outfield fielder fails to cut it off"}]Full in the slot, misses the yorker length and punished by Ndlovu! Hangs back and swats it firmly through the mid wicket region, outfield fielder fails to cut it off
+Full in the slot, misses the yorker length and punished by Ndlovu! Hangs back and swats it firmly through the mid wicket region, outfield fielder fails to cut it off

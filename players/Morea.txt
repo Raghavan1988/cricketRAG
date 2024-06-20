@@ -2,41 +2,45 @@ Match: all_games_1411166_1415702.json
 Balls faced: 1
 Bowler: Alzarri Joseph
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "low full toss, swatted to mid-off - <del>and that's job done for WI</del> oh dear, Joseph has overstepped. Still a ball to come"}]low full toss, swatted to mid-off - <del>and that's job done for WI</del> oh dear, Joseph has overstepped. Still a ball to come
+low full toss, swatted to mid-off - <del>and that's job done for WI</del> oh dear, Joseph has overstepped. Still a ball to come
 
 No Balls: 1
 Balls faced: 2
 Bowler: Alzarri Joseph
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "And now the new batter, Kabua Morea, is on strike"}]And now the new batter, Kabua Morea, is on strike
+And now the new batter, Kabua Morea, is on strike
 
-[{"type": "HTML", "html": "full, straight and turned to leg. They are looking for two, but probably better off with Doriga on strike"}]full, straight and turned to leg. They are looking for two, but probably better off with Doriga on strike
+full, straight and turned to leg. They are looking for two, but probably better off with Doriga on strike
 
 
 Balls faced: 3
 Bowler: Alzarri Joseph
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "low full toss, swatted to mid-off - <del>and that's job done for WI</del> oh dear, Joseph has overstepped. Still a ball to come"}]low full toss, swatted to mid-off - <del>and that's job done for WI</del> oh dear, Joseph has overstepped. Still a ball to come
+low full toss, swatted to mid-off - <del>and that's job done for WI</del> oh dear, Joseph has overstepped. Still a ball to come
 
 No Balls: 1
 Balls faced: 4
 Bowler: Alzarri Joseph
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "And now the new batter, Kabua Morea, is on strike"}]And now the new batter, Kabua Morea, is on strike
+And now the new batter, Kabua Morea, is on strike
 
-[{"type": "HTML", "html": "full, straight and turned to leg. They are looking for two, but probably better off with Doriga on strike"}]full, straight and turned to leg. They are looking for two, but probably better off with Doriga on strike
+full, straight and turned to leg. They are looking for two, but probably better off with Doriga on strike
 
 
 
@@ -44,59 +48,69 @@ Match: all_games_1411166_1415739.json
 Balls faced: 1
 Bowler: Boult
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "round the wicket, attacking the base of the stumps, poked out to point. Boult is done. He takes the plaudits from his team-mates, as one of the great champions of NZ cricket exits the world stage"}]round the wicket, attacking the base of the stumps, poked out to point. Boult is done. He takes the plaudits from his team-mates, as one of the great champions of NZ cricket exits the world stage
+round the wicket, attacking the base of the stumps, poked out to point. Boult is done. He takes the plaudits from his team-mates, as one of the great champions of NZ cricket exits the world stage
 
 
 Balls faced: 2
 Bowler: Boult
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "round the wicket, attacking the stumps, fenced to the on-side with a swish of blade"}]round the wicket, attacking the stumps, fenced to the on-side with a swish of blade
+round the wicket, attacking the stumps, fenced to the on-side with a swish of blade
 
 
 Balls faced: 3
 Bowler: Sodhi
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>stumped!</B> Tossed up outside off, dips past an aggressive charge, grips and turns past the edge, off come the bails with the batter stranded. Regulation, and PNG are all but done"}]<B>stumped!</B> Tossed up outside off, dips past an aggressive charge, grips and turns past the edge, off come the bails with the batter stranded. Regulation, and PNG are all but done
-[{"type": "HTML", "html": "Pete: \"Santner might make it, but none of the other bowlers are likely to play in the next World T20.Possible attack for 2026: Nathan Smith, Ben Sears/Will O'Rourke, Zak Foulkes, Adithya Ashok, Santner .  Phillips and Ravindra might have developed into fully-fledged allrounders by then too.\""}]Pete: "Santner might make it, but none of the other bowlers are likely to play in the next World T20.Possible attack for 2026: Nathan Smith, Ben Sears/Will O'Rourke, Zak Foulkes, Adithya Ashok, Santner .  Phillips and Ravindra might have developed into fully-fledged allrounders by then too."
+Morea is OUT! stumped
+st †Conway b Sodhi
+Kabua Morea st †Conway b Sodhi 0 (3b 0x4 0x6 3m) SR: 0
+<B>stumped!</B> Tossed up outside off, dips past an aggressive charge, grips and turns past the edge, off come the bails with the batter stranded. Regulation, and PNG are all but done
+Pete: "Santner might make it, but none of the other bowlers are likely to play in the next World T20.Possible attack for 2026: Nathan Smith, Ben Sears/Will O'Rourke, Zak Foulkes, Adithya Ashok, Santner .  Phillips and Ravindra might have developed into fully-fledged allrounders by then too."
 
 Balls faced: 4
 Bowler: Boult
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "round the wicket, attacking the base of the stumps, poked out to point. Boult is done. He takes the plaudits from his team-mates, as one of the great champions of NZ cricket exits the world stage"}]round the wicket, attacking the base of the stumps, poked out to point. Boult is done. He takes the plaudits from his team-mates, as one of the great champions of NZ cricket exits the world stage
+round the wicket, attacking the base of the stumps, poked out to point. Boult is done. He takes the plaudits from his team-mates, as one of the great champions of NZ cricket exits the world stage
 
 
 Balls faced: 5
 Bowler: Boult
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "round the wicket, attacking the stumps, fenced to the on-side with a swish of blade"}]round the wicket, attacking the stumps, fenced to the on-side with a swish of blade
+round the wicket, attacking the stumps, fenced to the on-side with a swish of blade
 
 
 Balls faced: 6
 Bowler: Sodhi
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>stumped!</B> Tossed up outside off, dips past an aggressive charge, grips and turns past the edge, off come the bails with the batter stranded. Regulation, and PNG are all but done"}]<B>stumped!</B> Tossed up outside off, dips past an aggressive charge, grips and turns past the edge, off come the bails with the batter stranded. Regulation, and PNG are all but done
-[{"type": "HTML", "html": "Pete: \"Santner might make it, but none of the other bowlers are likely to play in the next World T20.Possible attack for 2026: Nathan Smith, Ben Sears/Will O'Rourke, Zak Foulkes, Adithya Ashok, Santner .  Phillips and Ravindra might have developed into fully-fledged allrounders by then too.\""}]Pete: "Santner might make it, but none of the other bowlers are likely to play in the next World T20.Possible attack for 2026: Nathan Smith, Ben Sears/Will O'Rourke, Zak Foulkes, Adithya Ashok, Santner .  Phillips and Ravindra might have developed into fully-fledged allrounders by then too."
+Morea is OUT! stumped
+st †Conway b Sodhi
+Kabua Morea st †Conway b Sodhi 0 (3b 0x4 0x6 3m) SR: 0
+<B>stumped!</B> Tossed up outside off, dips past an aggressive charge, grips and turns past the edge, off come the bails with the batter stranded. Regulation, and PNG are all but done
+Pete: "Santner might make it, but none of the other bowlers are likely to play in the next World T20.Possible attack for 2026: Nathan Smith, Ben Sears/Will O'Rourke, Zak Foulkes, Adithya Ashok, Santner .  Phillips and Ravindra might have developed into fully-fledged allrounders by then too."

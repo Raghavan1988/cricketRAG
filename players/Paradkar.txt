@@ -2,681 +2,753 @@ Match: all_games_1377745_1377762.json
 Balls faced: 1
 Bowler: Raza
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Flighted delivery, curling away slightly outside off, was pitched up, leans out and presses it down to wide long-off"}]Flighted delivery, curling away slightly outside off, was pitched up, leans out and presses it down to wide long-off
+Flighted delivery, curling away slightly outside off, was pitched up, leans out and presses it down to wide long-off
 
 
 Balls faced: 2
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Round the wicket, lobbed up on a length, turning away outside off, lunges forward and glides it away to point"}]Round the wicket, lobbed up on a length, turning away outside off, lunges forward and glides it away to point
+Round the wicket, lobbed up on a length, turning away outside off, lunges forward and glides it away to point
 
 
 Balls faced: 3
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Lobbed up, spinning away outside off, defended down into the covers"}]Lobbed up, spinning away outside off, defended down into the covers
+Lobbed up, spinning away outside off, defended down into the covers
 
 
 Balls faced: 4
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Dylan: \"Zimbabwe's biggest winning margin by runs is 202 runs vs Kenya in 1999. Hopefully this team can break another record today. \""}, {"type": "HTML", "html": "Khalid: \"I just came home and opened cricinfo. What really happened that 782 runs were scored today in the first two innings? Good batting or bad bowling? Or a mixture of both?\" Mixture of both"}]Dylan: "Zimbabwe's biggest winning margin by runs is 202 runs vs Kenya in 1999. Hopefully this team can break another record today. " Khalid: "I just came home and opened cricinfo. What really happened that 782 runs were scored today in the first two innings? Good batting or bad bowling? Or a mixture of both?" Mixture of both
+Dylan: "Zimbabwe's biggest winning margin by runs is 202 runs vs Kenya in 1999. Hopefully this team can break another record today. " Khalid: "I just came home and opened cricinfo. What really happened that 782 runs were scored today in the first two innings? Good batting or bad bowling? Or a mixture of both?" Mixture of both
 
-[{"type": "HTML", "html": "Slightly short angled across off, nurdles it down past slip"}]Slightly short angled across off, nurdles it down past slip
+Slightly short angled across off, nurdles it down past slip
 
 
 Balls faced: 5
 Bowler: Jongwe
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Dropped short, albeit not that short, strangled down the leg, flicked to the leg side and sneaks a run. Dodgy call for a run, shy at the striker's end, would have been curtains had that hit"}]Dropped short, albeit not that short, strangled down the leg, flicked to the leg side and sneaks a run. Dodgy call for a run, shy at the striker's end, would have been curtains had that hit
+Dropped short, albeit not that short, strangled down the leg, flicked to the leg side and sneaks a run. Dodgy call for a run, shy at the striker's end, would have been curtains had that hit
 
 
 Balls faced: 6
 Bowler: Jongwe
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "A touch short and plenty of width on offer, laces a drive past cover, fumble at deep by Ngarava leaks a boundary"}]A touch short and plenty of width on offer, laces a drive past cover, fumble at deep by Ngarava leaks a boundary
+A touch short and plenty of width on offer, laces a drive past cover, fumble at deep by Ngarava leaks a boundary
 
 
 Balls faced: 7
 Bowler: Jongwe
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, pace off the bacll, wicket to wicket stuff, he stays back and works it to the on side"}]Short of a length, pace off the bacll, wicket to wicket stuff, he stays back and works it to the on side
+Short of a length, pace off the bacll, wicket to wicket stuff, he stays back and works it to the on side
 
 
 Balls faced: 8
 Bowler: Jongwe
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, plugging away in the corridor, nurdles it down to the slip off the backfoot. Zimbabwe going for the kill"}]Short of a length, plugging away in the corridor, nurdles it down to the slip off the backfoot. Zimbabwe going for the kill
+Short of a length, plugging away in the corridor, nurdles it down to the slip off the backfoot. Zimbabwe going for the kill
 
 
 Balls faced: 9
 Bowler: Raza
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Flighted delivery, curling away slightly outside off, was pitched up, leans out and presses it down to wide long-off"}]Flighted delivery, curling away slightly outside off, was pitched up, leans out and presses it down to wide long-off
+Flighted delivery, curling away slightly outside off, was pitched up, leans out and presses it down to wide long-off
 
 
 Balls faced: 10
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Round the wicket, lobbed up on a length, turning away outside off, lunges forward and glides it away to point"}]Round the wicket, lobbed up on a length, turning away outside off, lunges forward and glides it away to point
+Round the wicket, lobbed up on a length, turning away outside off, lunges forward and glides it away to point
 
 
 Balls faced: 11
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Lobbed up, spinning away outside off, defended down into the covers"}]Lobbed up, spinning away outside off, defended down into the covers
+Lobbed up, spinning away outside off, defended down into the covers
 
 
 Balls faced: 12
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Dylan: \"Zimbabwe's biggest winning margin by runs is 202 runs vs Kenya in 1999. Hopefully this team can break another record today. \""}, {"type": "HTML", "html": "Khalid: \"I just came home and opened cricinfo. What really happened that 782 runs were scored today in the first two innings? Good batting or bad bowling? Or a mixture of both?\" Mixture of both"}]Dylan: "Zimbabwe's biggest winning margin by runs is 202 runs vs Kenya in 1999. Hopefully this team can break another record today. " Khalid: "I just came home and opened cricinfo. What really happened that 782 runs were scored today in the first two innings? Good batting or bad bowling? Or a mixture of both?" Mixture of both
+Dylan: "Zimbabwe's biggest winning margin by runs is 202 runs vs Kenya in 1999. Hopefully this team can break another record today. " Khalid: "I just came home and opened cricinfo. What really happened that 782 runs were scored today in the first two innings? Good batting or bad bowling? Or a mixture of both?" Mixture of both
 
-[{"type": "HTML", "html": "Slightly short angled across off, nurdles it down past slip"}]Slightly short angled across off, nurdles it down past slip
+Slightly short angled across off, nurdles it down past slip
 
 
 Balls faced: 13
 Bowler: Raza
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 3
 
 
-[{"type": "HTML", "html": "Round the wicket, dropped short outside off, tapped away off the backfoot, pierces the gap on the off side, gets it past the man at point and runs hard for the third run. Excellent running between the wickets"}]Round the wicket, dropped short outside off, tapped away off the backfoot, pierces the gap on the off side, gets it past the man at point and runs hard for the third run. Excellent running between the wickets
+Round the wicket, dropped short outside off, tapped away off the backfoot, pierces the gap on the off side, gets it past the man at point and runs hard for the third run. Excellent running between the wickets
 
 
 Balls faced: 14
 Bowler: Jongwe
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Dropped short, albeit not that short, strangled down the leg, flicked to the leg side and sneaks a run. Dodgy call for a run, shy at the striker's end, would have been curtains had that hit"}]Dropped short, albeit not that short, strangled down the leg, flicked to the leg side and sneaks a run. Dodgy call for a run, shy at the striker's end, would have been curtains had that hit
+Dropped short, albeit not that short, strangled down the leg, flicked to the leg side and sneaks a run. Dodgy call for a run, shy at the striker's end, would have been curtains had that hit
 
 
 Balls faced: 15
 Bowler: Jongwe
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "A touch short and plenty of width on offer, laces a drive past cover, fumble at deep by Ngarava leaks a boundary"}]A touch short and plenty of width on offer, laces a drive past cover, fumble at deep by Ngarava leaks a boundary
+A touch short and plenty of width on offer, laces a drive past cover, fumble at deep by Ngarava leaks a boundary
 
 
 Balls faced: 16
 Bowler: Jongwe
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, pace off the bacll, wicket to wicket stuff, he stays back and works it to the on side"}]Short of a length, pace off the bacll, wicket to wicket stuff, he stays back and works it to the on side
+Short of a length, pace off the bacll, wicket to wicket stuff, he stays back and works it to the on side
 
 
 Balls faced: 17
 Bowler: Jongwe
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, plugging away in the corridor, nurdles it down to the slip off the backfoot. Zimbabwe going for the kill"}]Short of a length, plugging away in the corridor, nurdles it down to the slip off the backfoot. Zimbabwe going for the kill
+Short of a length, plugging away in the corridor, nurdles it down to the slip off the backfoot. Zimbabwe going for the kill
 
 
 Balls faced: 18
 Bowler: Jongwe
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short and down leg, heaves it behind square and it lands a few yards in front of deep fine leg and the players will take a drinks break"}]Short and down leg, heaves it behind square and it lands a few yards in front of deep fine leg and the players will take a drinks break
-[{"type": "HTML", "html": "<b>If you're in the USA, you can watch the <a href=\"https://www.espn.com/watch/player/_/id/cdc8fbf5-628d-4564-a59a-0ceb29901bec/country/us/redirected/true#bucketId=23396\">Zimbabwe vs USA</a> match LIVE on ESPN+.</b>"}]<b>If you're in the USA, you can watch the <a href="https://www.espn.com/watch/player/_/id/cdc8fbf5-628d-4564-a59a-0ceb29901bec/country/us/redirected/true#bucketId=23396">Zimbabwe vs USA</a> match LIVE on ESPN+.</b>
+Short and down leg, heaves it behind square and it lands a few yards in front of deep fine leg and the players will take a drinks break
+<b>If you're in the USA, you can watch the <a href="https://www.espn.com/watch/player/_/id/cdc8fbf5-628d-4564-a59a-0ceb29901bec/country/us/redirected/true#bucketId=23396">Zimbabwe vs USA</a> match LIVE on ESPN+.</b>
 
 Balls faced: 19
 Bowler: Jongwe
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Darts in a bumper on leg stump line, he jumps and fends it to the leg side, fielder at square leg sprints in and intercepts the ball"}]Darts in a bumper on leg stump line, he jumps and fends it to the leg side, fielder at square leg sprints in and intercepts the ball
+Darts in a bumper on leg stump line, he jumps and fends it to the leg side, fielder at square leg sprints in and intercepts the ball
 
 
 Balls faced: 20
 Bowler: Jongwe
 Over: 14
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Strays in his line and pays the price, tickles it away fine of fine leg, good work in the deep to flick the ball inside the rope"}]Strays in his line and pays the price, tickles it away fine of fine leg, good work in the deep to flick the ball inside the rope
+Strays in his line and pays the price, tickles it away fine of fine leg, good work in the deep to flick the ball inside the rope
 
 
 Balls faced: 21
 Bowler: Jongwe
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a shorter length and wide of off, slams at it and gets beaten, kept a touch low"}]On a shorter length and wide of off, slams at it and gets beaten, kept a touch low
+On a shorter length and wide of off, slams at it and gets beaten, kept a touch low
 
 
 Balls faced: 22
 Bowler: Jongwe
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller length, shaping away outside off, opens the face of the bat and caresses it away to wide long-off"}]Fuller length, shaping away outside off, opens the face of the bat and caresses it away to wide long-off
+Fuller length, shaping away outside off, opens the face of the bat and caresses it away to wide long-off
 
 
 Balls faced: 23
 Bowler: Raza
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 3
 
 
-[{"type": "HTML", "html": "Round the wicket, dropped short outside off, tapped away off the backfoot, pierces the gap on the off side, gets it past the man at point and runs hard for the third run. Excellent running between the wickets"}]Round the wicket, dropped short outside off, tapped away off the backfoot, pierces the gap on the off side, gets it past the man at point and runs hard for the third run. Excellent running between the wickets
+Round the wicket, dropped short outside off, tapped away off the backfoot, pierces the gap on the off side, gets it past the man at point and runs hard for the third run. Excellent running between the wickets
 
 
 Balls faced: 24
 Bowler: Raza
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up on a full length outside off, forces it away and gets it past point"}]Tossed up on a full length outside off, forces it away and gets it past point
+Tossed up on a full length outside off, forces it away and gets it past point
 
 
 Balls faced: 25
 Bowler: Raza
 Over: 15
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tossed up right up to the toes on leg stump, prods it down to square leg while leaning forward"}]Tossed up right up to the toes on leg stump, prods it down to square leg while leaning forward
+Tossed up right up to the toes on leg stump, prods it down to square leg while leaning forward
 
 
 Balls faced: 26
 Bowler: Raza
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Lobbed up on a length, driven in front of square for a run"}]Lobbed up on a length, driven in front of square for a run
+Lobbed up on a length, driven in front of square for a run
 
 
 Balls faced: 27
 Bowler: Raza
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Marcus Feaver: \"USA need a total of 92 or better to avoid Sri Lanka's world record for worst ODI defeat set earlier in 2023\""}, {"type": "HTML", "html": "Suman: \"From Nepal, I came early from my office to watch live match between USA vs Zimbawe but match is almost finished. My bad luck.\""}, {"type": "HTML", "html": "Hassan: \"Zimbabwe have a great chance to set a new Largest margin of victory (by runs)\""}, {"type": "HTML", "html": "Shaf: \"How good is Zimbabwe's cricket over the last 3 years? If they qualify for the world cup,can they cope up with the Indian condition as they have played many matches in Bangladesh.\""}]Marcus Feaver: "USA need a total of 92 or better to avoid Sri Lanka's world record for worst ODI defeat set earlier in 2023" Suman: "From Nepal, I came early from my office to watch live match between USA vs Zimbawe but match is almost finished. My bad luck." Hassan: "Zimbabwe have a great chance to set a new Largest margin of victory (by runs)" Shaf: "How good is Zimbabwe's cricket over the last 3 years? If they qualify for the world cup,can they cope up with the Indian condition as they have played many matches in Bangladesh."
+Marcus Feaver: "USA need a total of 92 or better to avoid Sri Lanka's world record for worst ODI defeat set earlier in 2023" Suman: "From Nepal, I came early from my office to watch live match between USA vs Zimbawe but match is almost finished. My bad luck." Hassan: "Zimbabwe have a great chance to set a new Largest margin of victory (by runs)" Shaf: "How good is Zimbabwe's cricket over the last 3 years? If they qualify for the world cup,can they cope up with the Indian condition as they have played many matches in Bangladesh."
 
-[{"type": "HTML", "html": "Summons a slower one form round the wicket and it turns away outside off, punched away to the off side off the backfoot"}]Summons a slower one form round the wicket and it turns away outside off, punched away to the off side off the backfoot
+Summons a slower one form round the wicket and it turns away outside off, punched away to the off side off the backfoot
 
 
 Balls faced: 28
 Bowler: Jongwe
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short and down leg, heaves it behind square and it lands a few yards in front of deep fine leg and the players will take a drinks break"}]Short and down leg, heaves it behind square and it lands a few yards in front of deep fine leg and the players will take a drinks break
-[{"type": "HTML", "html": "<b>If you're in the USA, you can watch the <a href=\"https://www.espn.com/watch/player/_/id/cdc8fbf5-628d-4564-a59a-0ceb29901bec/country/us/redirected/true#bucketId=23396\">Zimbabwe vs USA</a> match LIVE on ESPN+.</b>"}]<b>If you're in the USA, you can watch the <a href="https://www.espn.com/watch/player/_/id/cdc8fbf5-628d-4564-a59a-0ceb29901bec/country/us/redirected/true#bucketId=23396">Zimbabwe vs USA</a> match LIVE on ESPN+.</b>
+Short and down leg, heaves it behind square and it lands a few yards in front of deep fine leg and the players will take a drinks break
+<b>If you're in the USA, you can watch the <a href="https://www.espn.com/watch/player/_/id/cdc8fbf5-628d-4564-a59a-0ceb29901bec/country/us/redirected/true#bucketId=23396">Zimbabwe vs USA</a> match LIVE on ESPN+.</b>
 
 Balls faced: 29
 Bowler: Jongwe
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Darts in a bumper on leg stump line, he jumps and fends it to the leg side, fielder at square leg sprints in and intercepts the ball"}]Darts in a bumper on leg stump line, he jumps and fends it to the leg side, fielder at square leg sprints in and intercepts the ball
+Darts in a bumper on leg stump line, he jumps and fends it to the leg side, fielder at square leg sprints in and intercepts the ball
 
 
 Balls faced: 30
 Bowler: Jongwe
 Over: 14
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEG_GLANCE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Strays in his line and pays the price, tickles it away fine of fine leg, good work in the deep to flick the ball inside the rope"}]Strays in his line and pays the price, tickles it away fine of fine leg, good work in the deep to flick the ball inside the rope
+Strays in his line and pays the price, tickles it away fine of fine leg, good work in the deep to flick the ball inside the rope
 
 
 Balls faced: 31
 Bowler: Jongwe
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a shorter length and wide of off, slams at it and gets beaten, kept a touch low"}]On a shorter length and wide of off, slams at it and gets beaten, kept a touch low
+On a shorter length and wide of off, slams at it and gets beaten, kept a touch low
 
 
 Balls faced: 32
 Bowler: Jongwe
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller length, shaping away outside off, opens the face of the bat and caresses it away to wide long-off"}]Fuller length, shaping away outside off, opens the face of the bat and caresses it away to wide long-off
+Fuller length, shaping away outside off, opens the face of the bat and caresses it away to wide long-off
 
 
 Balls faced: 33
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pitched up and angled across off, goes for the late cut and gets beaten"}]Pitched up and angled across off, goes for the late cut and gets beaten
+Pitched up and angled across off, goes for the late cut and gets beaten
 
 
 Balls faced: 34
 Bowler: Jongwe
 Over: 16
+Pitch Line: WIDE_DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of a length, errs in his line and sprays it down the leg side, another wide"}]Back of a length, errs in his line and sprays it down the leg side, another wide
+Back of a length, errs in his line and sprays it down the leg side, another wide
 
 Wide: 1
 Balls faced: 35
 Bowler: Jongwe
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tough chance at short cover, shelled! Length ball on off, slashes at it and it goes straight to the fielder who can't hang onto it"}]Tough chance at short cover, shelled! Length ball on off, slashes at it and it goes straight to the fielder who can't hang onto it
+Tough chance at short cover, shelled! Length ball on off, slashes at it and it goes straight to the fielder who can't hang onto it
 
 
 Balls faced: 36
 Bowler: Jongwe
 Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Back of a length, overcompensates and it lands it outside leg stump, gets a faint tickle and goes past the keeper who tried to get his hand on it but couldn't stop the ball, flutters away to fine leg boundary"}]Back of a length, overcompensates and it lands it outside leg stump, gets a faint tickle and goes past the keeper who tried to get his hand on it but couldn't stop the ball, flutters away to fine leg boundary
+Back of a length, overcompensates and it lands it outside leg stump, gets a faint tickle and goes past the keeper who tried to get his hand on it but couldn't stop the ball, flutters away to fine leg boundary
 
 
 Balls faced: 37
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fraction short and goes swirling away outside off and not inside the guidelines"}]Fraction short and goes swirling away outside off and not inside the guidelines
+Fraction short and goes swirling away outside off and not inside the guidelines
 
 Wide: 1
 Balls faced: 38
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Good length, wide of off, hacks it away off the backfoot and it goes past the man at backward point for a boundary"}]Good length, wide of off, hacks it away off the backfoot and it goes past the man at backward point for a boundary
+Good length, wide of off, hacks it away off the backfoot and it goes past the man at backward point for a boundary
 
 
 Balls faced: 39
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, angling across off, opens the face of the bat and carves it away on the up to short cover"}]Short of a length, angling across off, opens the face of the bat and carves it away on the up to short cover
+Short of a length, angling across off, opens the face of the bat and carves it away on the up to short cover
 
 
 Balls faced: 40
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fraction shorter and waltzed outside the off stump, gets stuck on the pitch and feels for it in the end, not far away from chopping it back onto the stumps"}]Fraction shorter and waltzed outside the off stump, gets stuck on the pitch and feels for it in the end, not far away from chopping it back onto the stumps
+Fraction shorter and waltzed outside the off stump, gets stuck on the pitch and feels for it in the end, not far away from chopping it back onto the stumps
 
 
 Balls faced: 41
 Bowler: Jongwe
 Over: 16
+Pitch Line: WIDE_DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortens his length, fires it outside the line of leg stump, wide called"}]Shortens his length, fires it outside the line of leg stump, wide called
+Shortens his length, fires it outside the line of leg stump, wide called
 
 Wide: 1
 Balls faced: 42
 Bowler: Raza
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up on a full length outside off, forces it away and gets it past point"}]Tossed up on a full length outside off, forces it away and gets it past point
+Tossed up on a full length outside off, forces it away and gets it past point
 
 
 Balls faced: 43
 Bowler: Raza
 Over: 15
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tossed up right up to the toes on leg stump, prods it down to square leg while leaning forward"}]Tossed up right up to the toes on leg stump, prods it down to square leg while leaning forward
+Tossed up right up to the toes on leg stump, prods it down to square leg while leaning forward
 
 
 Balls faced: 44
 Bowler: Raza
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Lobbed up on a length, driven in front of square for a run"}]Lobbed up on a length, driven in front of square for a run
+Lobbed up on a length, driven in front of square for a run
 
 
 Balls faced: 45
 Bowler: Raza
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Marcus Feaver: \"USA need a total of 92 or better to avoid Sri Lanka's world record for worst ODI defeat set earlier in 2023\""}, {"type": "HTML", "html": "Suman: \"From Nepal, I came early from my office to watch live match between USA vs Zimbawe but match is almost finished. My bad luck.\""}, {"type": "HTML", "html": "Hassan: \"Zimbabwe have a great chance to set a new Largest margin of victory (by runs)\""}, {"type": "HTML", "html": "Shaf: \"How good is Zimbabwe's cricket over the last 3 years? If they qualify for the world cup,can they cope up with the Indian condition as they have played many matches in Bangladesh.\""}]Marcus Feaver: "USA need a total of 92 or better to avoid Sri Lanka's world record for worst ODI defeat set earlier in 2023" Suman: "From Nepal, I came early from my office to watch live match between USA vs Zimbawe but match is almost finished. My bad luck." Hassan: "Zimbabwe have a great chance to set a new Largest margin of victory (by runs)" Shaf: "How good is Zimbabwe's cricket over the last 3 years? If they qualify for the world cup,can they cope up with the Indian condition as they have played many matches in Bangladesh."
+Marcus Feaver: "USA need a total of 92 or better to avoid Sri Lanka's world record for worst ODI defeat set earlier in 2023" Suman: "From Nepal, I came early from my office to watch live match between USA vs Zimbawe but match is almost finished. My bad luck." Hassan: "Zimbabwe have a great chance to set a new Largest margin of victory (by runs)" Shaf: "How good is Zimbabwe's cricket over the last 3 years? If they qualify for the world cup,can they cope up with the Indian condition as they have played many matches in Bangladesh."
 
-[{"type": "HTML", "html": "Summons a slower one form round the wicket and it turns away outside off, punched away to the off side off the backfoot"}]Summons a slower one form round the wicket and it turns away outside off, punched away to the off side off the backfoot
+Summons a slower one form round the wicket and it turns away outside off, punched away to the off side off the backfoot
 
 
 Balls faced: 46
 Bowler: Raza
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Makes room, steps away a little to the on side and knocks it down to wide long off"}]Makes room, steps away a little to the on side and knocks it down to wide long off
+Makes room, steps away a little to the on side and knocks it down to wide long off
 
 
 Balls faced: 47
 Bowler: Raza
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flighted delivery from round the wicket on a length that goes on with the arm on middle, leans forward and pats it to cover"}]Flighted delivery from round the wicket on a length that goes on with the arm on middle, leans forward and pats it to cover
+Flighted delivery from round the wicket on a length that goes on with the arm on middle, leans forward and pats it to cover
 
 
 Balls faced: 48
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pitched up and angled across off, goes for the late cut and gets beaten"}]Pitched up and angled across off, goes for the late cut and gets beaten
+Pitched up and angled across off, goes for the late cut and gets beaten
 
 
 Balls faced: 49
 Bowler: Jongwe
 Over: 16
+Pitch Line: WIDE_DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of a length, errs in his line and sprays it down the leg side, another wide"}]Back of a length, errs in his line and sprays it down the leg side, another wide
+Back of a length, errs in his line and sprays it down the leg side, another wide
 
 Wide: 1
 Balls faced: 50
 Bowler: Jongwe
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tough chance at short cover, shelled! Length ball on off, slashes at it and it goes straight to the fielder who can't hang onto it"}]Tough chance at short cover, shelled! Length ball on off, slashes at it and it goes straight to the fielder who can't hang onto it
+Tough chance at short cover, shelled! Length ball on off, slashes at it and it goes straight to the fielder who can't hang onto it
 
 
 Balls faced: 51
 Bowler: Jongwe
 Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Back of a length, overcompensates and it lands it outside leg stump, gets a faint tickle and goes past the keeper who tried to get his hand on it but couldn't stop the ball, flutters away to fine leg boundary"}]Back of a length, overcompensates and it lands it outside leg stump, gets a faint tickle and goes past the keeper who tried to get his hand on it but couldn't stop the ball, flutters away to fine leg boundary
+Back of a length, overcompensates and it lands it outside leg stump, gets a faint tickle and goes past the keeper who tried to get his hand on it but couldn't stop the ball, flutters away to fine leg boundary
 
 
 Balls faced: 52
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fraction short and goes swirling away outside off and not inside the guidelines"}]Fraction short and goes swirling away outside off and not inside the guidelines
+Fraction short and goes swirling away outside off and not inside the guidelines
 
 Wide: 1
 Balls faced: 53
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Good length, wide of off, hacks it away off the backfoot and it goes past the man at backward point for a boundary"}]Good length, wide of off, hacks it away off the backfoot and it goes past the man at backward point for a boundary
+Good length, wide of off, hacks it away off the backfoot and it goes past the man at backward point for a boundary
 
 
 Balls faced: 54
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, angling across off, opens the face of the bat and carves it away on the up to short cover"}]Short of a length, angling across off, opens the face of the bat and carves it away on the up to short cover
+Short of a length, angling across off, opens the face of the bat and carves it away on the up to short cover
 
 
 Balls faced: 55
 Bowler: Jongwe
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fraction shorter and waltzed outside the off stump, gets stuck on the pitch and feels for it in the end, not far away from chopping it back onto the stumps"}]Fraction shorter and waltzed outside the off stump, gets stuck on the pitch and feels for it in the end, not far away from chopping it back onto the stumps
+Fraction shorter and waltzed outside the off stump, gets stuck on the pitch and feels for it in the end, not far away from chopping it back onto the stumps
 
 
 Balls faced: 56
 Bowler: Jongwe
 Over: 16
+Pitch Line: WIDE_DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortens his length, fires it outside the line of leg stump, wide called"}]Shortens his length, fires it outside the line of leg stump, wide called
+Shortens his length, fires it outside the line of leg stump, wide called
 
 Wide: 1
 Balls faced: 57
 Bowler: Jongwe
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Edged and taken!</strong> Back of a length, that's a perfect line and he finds the edge, Gumbie does the rest. Jongwe wheels away into the arms of his converging teammates. Paradkar slashes at it, playing away from his body, ball got enough seam movement as he induces an error"}]<strong>Edged and taken!</strong> Back of a length, that's a perfect line and he finds the edge, Gumbie does the rest. Jongwe wheels away into the arms of his converging teammates. Paradkar slashes at it, playing away from his body, ball got enough seam movement as he induces an error
+Paradkar is OUT! caught
+c †Gumbie b Jongwe
+Abhishek Paradkar c †Gumbie b Jongwe 24 (31b 3x4 0x6 36m) SR: 77.41
+<strong>Edged and taken!</strong> Back of a length, that's a perfect line and he finds the edge, Gumbie does the rest. Jongwe wheels away into the arms of his converging teammates. Paradkar slashes at it, playing away from his body, ball got enough seam movement as he induces an error
 
 
 Balls faced: 58
 Bowler: Jongwe
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length, slanting across off, leans out and checks his shot down to cover-point"}]Good length, slanting across off, leans out and checks his shot down to cover-point
+Good length, slanting across off, leans out and checks his shot down to cover-point
 
 
 Balls faced: 59
 Bowler: Jongwe
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of a lenth, tight off stump line, squirts it away to point"}]Back of a lenth, tight off stump line, squirts it away to point
+Back of a lenth, tight off stump line, squirts it away to point
 
 
 Balls faced: 60
 Bowler: Jongwe
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball, angled wide across off, leans out and stabs it down into the covers, a touch late in cutting that away"}]Length ball, angled wide across off, leans out and stabs it down into the covers, a touch late in cutting that away
+Length ball, angled wide across off, leans out and stabs it down into the covers, a touch late in cutting that away
 
 
 Balls faced: 61
 Bowler: Jongwe
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "A touch short and gets a hint of away seam movement off the deck, tries to steer it behind square but only grabs fresh air"}]A touch short and gets a hint of away seam movement off the deck, tries to steer it behind square but only grabs fresh air
+A touch short and gets a hint of away seam movement off the deck, tries to steer it behind square but only grabs fresh air
 
 
 Balls faced: 62
 Bowler: Raza
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Makes room, steps away a little to the on side and knocks it down to wide long off"}]Makes room, steps away a little to the on side and knocks it down to wide long off
+Makes room, steps away a little to the on side and knocks it down to wide long off
 
 
 Balls faced: 63
 Bowler: Raza
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flighted delivery from round the wicket on a length that goes on with the arm on middle, leans forward and pats it to cover"}]Flighted delivery from round the wicket on a length that goes on with the arm on middle, leans forward and pats it to cover
+Flighted delivery from round the wicket on a length that goes on with the arm on middle, leans forward and pats it to cover
 
 
 Balls faced: 64
 Bowler: Jongwe
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Edged and taken!</strong> Back of a length, that's a perfect line and he finds the edge, Gumbie does the rest. Jongwe wheels away into the arms of his converging teammates. Paradkar slashes at it, playing away from his body, ball got enough seam movement as he induces an error"}]<strong>Edged and taken!</strong> Back of a length, that's a perfect line and he finds the edge, Gumbie does the rest. Jongwe wheels away into the arms of his converging teammates. Paradkar slashes at it, playing away from his body, ball got enough seam movement as he induces an error
+Paradkar is OUT! caught
+c †Gumbie b Jongwe
+Abhishek Paradkar c †Gumbie b Jongwe 24 (31b 3x4 0x6 36m) SR: 77.41
+<strong>Edged and taken!</strong> Back of a length, that's a perfect line and he finds the edge, Gumbie does the rest. Jongwe wheels away into the arms of his converging teammates. Paradkar slashes at it, playing away from his body, ball got enough seam movement as he induces an error
 
 
 Balls faced: 65
 Bowler: Jongwe
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length, slanting across off, leans out and checks his shot down to cover-point"}]Good length, slanting across off, leans out and checks his shot down to cover-point
+Good length, slanting across off, leans out and checks his shot down to cover-point
 
 
 Balls faced: 66
 Bowler: Jongwe
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of a lenth, tight off stump line, squirts it away to point"}]Back of a lenth, tight off stump line, squirts it away to point
+Back of a lenth, tight off stump line, squirts it away to point
 
 
 Balls faced: 67
 Bowler: Jongwe
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball, angled wide across off, leans out and stabs it down into the covers, a touch late in cutting that away"}]Length ball, angled wide across off, leans out and stabs it down into the covers, a touch late in cutting that away
+Length ball, angled wide across off, leans out and stabs it down into the covers, a touch late in cutting that away
 
 
 Balls faced: 68
 Bowler: Jongwe
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "A touch short and gets a hint of away seam movement off the deck, tries to steer it behind square but only grabs fresh air"}]A touch short and gets a hint of away seam movement off the deck, tries to steer it behind square but only grabs fresh air
+A touch short and gets a hint of away seam movement off the deck, tries to steer it behind square but only grabs fresh air
 
 
 
@@ -684,6 +756,7 @@ Match: all_games_1377745_1377768.json
 Balls faced: 1
 Bowler: McBrine
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
@@ -694,16 +767,20 @@ Run scored: 0
 Balls faced: 2
 Bowler: McCarthy
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
-
+Paradkar is OUT! caught
+c †Tucker b McCarthy
+Abhishek Paradkar c †Tucker b McCarthy 0 (4b 0x4 0x6 4m) SR: 0
 
 
 
 Balls faced: 3
 Bowler: McCarthy
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -714,6 +791,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: McCarthy
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
@@ -724,6 +802,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: McBrine
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
@@ -734,16 +813,20 @@ Run scored: 0
 Balls faced: 6
 Bowler: McCarthy
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
-
+Paradkar is OUT! caught
+c †Tucker b McCarthy
+Abhishek Paradkar c †Tucker b McCarthy 0 (4b 0x4 0x6 4m) SR: 0
 
 
 
 Balls faced: 7
 Bowler: McCarthy
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -754,5 +837,6 @@ Run scored: 0
 Balls faced: 8
 Bowler: McCarthy
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0

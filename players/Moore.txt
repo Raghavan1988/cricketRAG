@@ -2,1008 +2,1113 @@ Match: all_games_1388186_1388221.json
 Balls faced: 1
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, left alone"}]Length outside off, left alone
+Length outside off, left alone
 
 
 Balls faced: 2
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Oh, that's a superb delivery. Length ball angling sharply back into Moore, who was in two minds whether to play or leave the ball. Shoulders arms eventually and the ball goes over the top of off stump."}]Oh, that's a superb delivery. Length ball angling sharply back into Moore, who was in two minds whether to play or leave the ball. Shoulders arms eventually and the ball goes over the top of off stump.
+Oh, that's a superb delivery. Length ball angling sharply back into Moore, who was in two minds whether to play or leave the ball. Shoulders arms eventually and the ball goes over the top of off stump.
 
 
 Balls faced: 3
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Southee switches to around the wicket"}]Southee switches to around the wicket
+Southee switches to around the wicket
 
-[{"type": "HTML", "html": "Length just outside off, he defends towards point"}]Length just outside off, he defends towards point
+Length just outside off, he defends towards point
 
 
 Balls faced: 4
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "And again! What a start for Moore's Test career. Good length ball with a hint of away movement. He punches past point for four more"}]And again! What a start for Moore's Test career. Good length ball with a hint of away movement. He punches past point for four more
+And again! What a start for Moore's Test career. Good length ball with a hint of away movement. He punches past point for four more
 
 
 Balls faced: 5
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Gets his first runs of his Test career with a four. Not as short but there was enough width and he gets the cut going past point for four"}]Gets his first runs of his Test career with a four. Not as short but there was enough width and he gets the cut going past point for four
+Gets his first runs of his Test career with a four. Not as short but there was enough width and he gets the cut going past point for four
 
 
 Balls faced: 6
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "<strong>4.24pm</strong> Out come the New Zealand team followed by the two South Africa openers, Neil Brand and Edward Moore. Both batters on debut. Tim Southee has the new ball in his hand. He will be bowling from over the wicket with three slips and a gully. Mid-off, mid-on in place. Moore on strike."}]<strong>4.24pm</strong> Out come the New Zealand team followed by the two South Africa openers, Neil Brand and Edward Moore. Both batters on debut. Tim Southee has the new ball in his hand. He will be bowling from over the wicket with three slips and a gully. Mid-off, mid-on in place. Moore on strike.
+<strong>4.24pm</strong> Out come the New Zealand team followed by the two South Africa openers, Neil Brand and Edward Moore. Both batters on debut. Tim Southee has the new ball in his hand. He will be bowling from over the wicket with three slips and a gully. Mid-off, mid-on in place. Moore on strike.
 
-[{"type": "HTML", "html": "On a length with a hint of shape away from the batter, who lets the first ball go through to the keeper"}]On a length with a hint of shape away from the batter, who lets the first ball go through to the keeper
+On a length with a hint of shape away from the batter, who lets the first ball go through to the keeper
 
 
 Balls faced: 7
 Bowler: Henry
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on middle and leg, worked to midwicket"}]On a length on middle and leg, worked to midwicket
+On a length on middle and leg, worked to midwicket
 
 
 Balls faced: 8
 Bowler: Henry
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hint of shape away from Moore on the short of a length ball outside off. He pushes to the right of point. No run there"}]Hint of shape away from Moore on the short of a length ball outside off. He pushes to the right of point. No run there
+Hint of shape away from Moore on the short of a length ball outside off. He pushes to the right of point. No run there
 
 
 Balls faced: 9
 Bowler: Henry
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Bit of an inside-edge but Moore gets two more to his name. Was the length ball jagging back into Moore, he is stuck on the crease and gets a thick inside-edge onto the pad down to fine leg"}]Bit of an inside-edge but Moore gets two more to his name. Was the length ball jagging back into Moore, he is stuck on the crease and gets a thick inside-edge onto the pad down to fine leg
+Bit of an inside-edge but Moore gets two more to his name. Was the length ball jagging back into Moore, he is stuck on the crease and gets a thick inside-edge onto the pad down to fine leg
 
 
 Balls faced: 10
 Bowler: Henry
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on off stump, he pushes towards mid-on"}]On a length on off stump, he pushes towards mid-on
+On a length on off stump, he pushes towards mid-on
 
 
 Balls faced: 11
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, left alone"}]Length outside off, left alone
+Length outside off, left alone
 
 
 Balls faced: 12
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Oh, that's a superb delivery. Length ball angling sharply back into Moore, who was in two minds whether to play or leave the ball. Shoulders arms eventually and the ball goes over the top of off stump."}]Oh, that's a superb delivery. Length ball angling sharply back into Moore, who was in two minds whether to play or leave the ball. Shoulders arms eventually and the ball goes over the top of off stump.
+Oh, that's a superb delivery. Length ball angling sharply back into Moore, who was in two minds whether to play or leave the ball. Shoulders arms eventually and the ball goes over the top of off stump.
 
 
 Balls faced: 13
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Southee switches to around the wicket"}]Southee switches to around the wicket
+Southee switches to around the wicket
 
-[{"type": "HTML", "html": "Length just outside off, he defends towards point"}]Length just outside off, he defends towards point
+Length just outside off, he defends towards point
 
 
 Balls faced: 14
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "And again! What a start for Moore's Test career. Good length ball with a hint of away movement. He punches past point for four more"}]And again! What a start for Moore's Test career. Good length ball with a hint of away movement. He punches past point for four more
+And again! What a start for Moore's Test career. Good length ball with a hint of away movement. He punches past point for four more
 
 
 Balls faced: 15
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Gets his first runs of his Test career with a four. Not as short but there was enough width and he gets the cut going past point for four"}]Gets his first runs of his Test career with a four. Not as short but there was enough width and he gets the cut going past point for four
+Gets his first runs of his Test career with a four. Not as short but there was enough width and he gets the cut going past point for four
 
 
 Balls faced: 16
 Bowler: Southee
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "<strong>4.24pm</strong> Out come the New Zealand team followed by the two South Africa openers, Neil Brand and Edward Moore. Both batters on debut. Tim Southee has the new ball in his hand. He will be bowling from over the wicket with three slips and a gully. Mid-off, mid-on in place. Moore on strike."}]<strong>4.24pm</strong> Out come the New Zealand team followed by the two South Africa openers, Neil Brand and Edward Moore. Both batters on debut. Tim Southee has the new ball in his hand. He will be bowling from over the wicket with three slips and a gully. Mid-off, mid-on in place. Moore on strike.
+<strong>4.24pm</strong> Out come the New Zealand team followed by the two South Africa openers, Neil Brand and Edward Moore. Both batters on debut. Tim Southee has the new ball in his hand. He will be bowling from over the wicket with three slips and a gully. Mid-off, mid-on in place. Moore on strike.
 
-[{"type": "HTML", "html": "On a length with a hint of shape away from the batter, who lets the first ball go through to the keeper"}]On a length with a hint of shape away from the batter, who lets the first ball go through to the keeper
+On a length with a hint of shape away from the batter, who lets the first ball go through to the keeper
 
 
 Balls faced: 17
 Bowler: Southee
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "And again. The length ball angling sharply back into the batter. He works it past square leg for a brace"}]And again. The length ball angling sharply back into the batter. He works it past square leg for a brace
+And again. The length ball angling sharply back into the batter. He works it past square leg for a brace
 
 
 Balls faced: 18
 Bowler: Southee
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Ooh, close. Angles the inswinger back into the left-hander aiming for the pads. Moore looks to work it away, gets a thick inside-edge onto the pad"}]Ooh, close. Angles the inswinger back into the left-hander aiming for the pads. Moore looks to work it away, gets a thick inside-edge onto the pad
+Ooh, close. Angles the inswinger back into the left-hander aiming for the pads. Moore looks to work it away, gets a thick inside-edge onto the pad
 
 
 Balls faced: 19
 Bowler: Southee
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Keeps it on a length just outside off as Moore shoulders arms"}]Keeps it on a length just outside off as Moore shoulders arms
+Keeps it on a length just outside off as Moore shoulders arms
 
 
 Balls faced: 20
 Bowler: Southee
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, he punches to cover"}]Length outside off, he punches to cover
+Length outside off, he punches to cover
 
 
 Balls faced: 21
 Bowler: Henry
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on middle and leg, worked to midwicket"}]On a length on middle and leg, worked to midwicket
+On a length on middle and leg, worked to midwicket
 
 
 Balls faced: 22
 Bowler: Henry
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hint of shape away from Moore on the short of a length ball outside off. He pushes to the right of point. No run there"}]Hint of shape away from Moore on the short of a length ball outside off. He pushes to the right of point. No run there
+Hint of shape away from Moore on the short of a length ball outside off. He pushes to the right of point. No run there
 
 
 Balls faced: 23
 Bowler: Henry
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Bit of an inside-edge but Moore gets two more to his name. Was the length ball jagging back into Moore, he is stuck on the crease and gets a thick inside-edge onto the pad down to fine leg"}]Bit of an inside-edge but Moore gets two more to his name. Was the length ball jagging back into Moore, he is stuck on the crease and gets a thick inside-edge onto the pad down to fine leg
+Bit of an inside-edge but Moore gets two more to his name. Was the length ball jagging back into Moore, he is stuck on the crease and gets a thick inside-edge onto the pad down to fine leg
 
 
 Balls faced: 24
 Bowler: Henry
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on off stump, he pushes towards mid-on"}]On a length on off stump, he pushes towards mid-on
+On a length on off stump, he pushes towards mid-on
 
 
 Balls faced: 25
 Bowler: Henry
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full again just on off, he pushes through covers for a run"}]Full again just on off, he pushes through covers for a run
+Full again just on off, he pushes through covers for a run
 
 
 Balls faced: 26
 Bowler: Henry
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length around off stump, Moore gets across and defends solidly"}]Length around off stump, Moore gets across and defends solidly
+Length around off stump, Moore gets across and defends solidly
 
 
 Balls faced: 27
 Bowler: Henry
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes fuller and aiming the pads of Moore who blocks"}]Goes fuller and aiming the pads of Moore who blocks
+Goes fuller and aiming the pads of Moore who blocks
 
 
 Balls faced: 28
 Bowler: Southee
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "And again. The length ball angling sharply back into the batter. He works it past square leg for a brace"}]And again. The length ball angling sharply back into the batter. He works it past square leg for a brace
+And again. The length ball angling sharply back into the batter. He works it past square leg for a brace
 
 
 Balls faced: 29
 Bowler: Southee
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Ooh, close. Angles the inswinger back into the left-hander aiming for the pads. Moore looks to work it away, gets a thick inside-edge onto the pad"}]Ooh, close. Angles the inswinger back into the left-hander aiming for the pads. Moore looks to work it away, gets a thick inside-edge onto the pad
+Ooh, close. Angles the inswinger back into the left-hander aiming for the pads. Moore looks to work it away, gets a thick inside-edge onto the pad
 
 
 Balls faced: 30
 Bowler: Southee
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Keeps it on a length just outside off as Moore shoulders arms"}]Keeps it on a length just outside off as Moore shoulders arms
+Keeps it on a length just outside off as Moore shoulders arms
 
 
 Balls faced: 31
 Bowler: Southee
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, he punches to cover"}]Length outside off, he punches to cover
+Length outside off, he punches to cover
 
 
 Balls faced: 32
 Bowler: Southee
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, he gets across and defends back to the bowler with a straight bat"}]Length on off, he gets across and defends back to the bowler with a straight bat
+Length on off, he gets across and defends back to the bowler with a straight bat
 
 
 Balls faced: 33
 Bowler: Southee
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Present the full face of the bat to the fuller ball on off and middle. The ball goes to mid-on"}]Present the full face of the bat to the fuller ball on off and middle. The ball goes to mid-on
+Present the full face of the bat to the fuller ball on off and middle. The ball goes to mid-on
 
 
 Balls faced: 34
 Bowler: Southee
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball on middle stump, pushed to mid-on with a straighter bat"}]Length ball on middle stump, pushed to mid-on with a straighter bat
+Length ball on middle stump, pushed to mid-on with a straighter bat
 
 
 Balls faced: 35
 Bowler: Southee
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length jagging back sharply into the batter, who mistimes back towards the bowler again. Southee isn't giving him any room"}]Length jagging back sharply into the batter, who mistimes back towards the bowler again. Southee isn't giving him any room
+Length jagging back sharply into the batter, who mistimes back towards the bowler again. Southee isn't giving him any room
 
 
 Balls faced: 36
 Bowler: Southee
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length outside off stump, he defends back to the bowler"}]On a length outside off stump, he defends back to the bowler
+On a length outside off stump, he defends back to the bowler
 
 
 Balls faced: 37
 Bowler: Southee
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short and wide, he smashes the cut but can't beat point where Conway does well leaping to his right"}]Short and wide, he smashes the cut but can't beat point where Conway does well leaping to his right
+Short and wide, he smashes the cut but can't beat point where Conway does well leaping to his right
 
 
 Balls faced: 38
 Bowler: Henry
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full again just on off, he pushes through covers for a run"}]Full again just on off, he pushes through covers for a run
+Full again just on off, he pushes through covers for a run
 
 
 Balls faced: 39
 Bowler: Henry
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length around off stump, Moore gets across and defends solidly"}]Length around off stump, Moore gets across and defends solidly
+Length around off stump, Moore gets across and defends solidly
 
 
 Balls faced: 40
 Bowler: Henry
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes fuller and aiming the pads of Moore who blocks"}]Goes fuller and aiming the pads of Moore who blocks
+Goes fuller and aiming the pads of Moore who blocks
 
 
 Balls faced: 41
 Bowler: Southee
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, he gets across and defends back to the bowler with a straight bat"}]Length on off, he gets across and defends back to the bowler with a straight bat
+Length on off, he gets across and defends back to the bowler with a straight bat
 
 
 Balls faced: 42
 Bowler: Southee
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Present the full face of the bat to the fuller ball on off and middle. The ball goes to mid-on"}]Present the full face of the bat to the fuller ball on off and middle. The ball goes to mid-on
+Present the full face of the bat to the fuller ball on off and middle. The ball goes to mid-on
 
 
 Balls faced: 43
 Bowler: Southee
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball on middle stump, pushed to mid-on with a straighter bat"}]Length ball on middle stump, pushed to mid-on with a straighter bat
+Length ball on middle stump, pushed to mid-on with a straighter bat
 
 
 Balls faced: 44
 Bowler: Southee
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length jagging back sharply into the batter, who mistimes back towards the bowler again. Southee isn't giving him any room"}]Length jagging back sharply into the batter, who mistimes back towards the bowler again. Southee isn't giving him any room
+Length jagging back sharply into the batter, who mistimes back towards the bowler again. Southee isn't giving him any room
 
 
 Balls faced: 45
 Bowler: Southee
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length outside off stump, he defends back to the bowler"}]On a length outside off stump, he defends back to the bowler
+On a length outside off stump, he defends back to the bowler
 
 
 Balls faced: 46
 Bowler: Southee
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short and wide, he smashes the cut but can't beat point where Conway does well leaping to his right"}]Short and wide, he smashes the cut but can't beat point where Conway does well leaping to his right
+Short and wide, he smashes the cut but can't beat point where Conway does well leaping to his right
 
 
 Balls faced: 47
 Bowler: Southee
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "The ball almost sneaks through Moore's defences. Was the inswinger aiming the pads, Moore looks for a flick, gets an inside-edge onto his pad that rolls to midwicket. They take a quick run"}]The ball almost sneaks through Moore's defences. Was the inswinger aiming the pads, Moore looks for a flick, gets an inside-edge onto his pad that rolls to midwicket. They take a quick run
+The ball almost sneaks through Moore's defences. Was the inswinger aiming the pads, Moore looks for a flick, gets an inside-edge onto his pad that rolls to midwicket. They take a quick run
 
 
 Balls faced: 48
 Bowler: Southee
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Miscue. Goes fuller just outside off, he looks for a drive, gets a thick inside-edge towards the bowler."}]Miscue. Goes fuller just outside off, he looks for a drive, gets a thick inside-edge towards the bowler.
+Miscue. Goes fuller just outside off, he looks for a drive, gets a thick inside-edge towards the bowler.
 
 
 Balls faced: 49
 Bowler: Southee
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Krishna: \"What I like is, SA openers are not overwhelmed by the occasion of facing one of the modern day test bowling greats.\""}]Krishna: "What I like is, SA openers are not overwhelmed by the occasion of facing one of the modern day test bowling greats."
+Krishna: "What I like is, SA openers are not overwhelmed by the occasion of facing one of the modern day test bowling greats."
 
-[{"type": "HTML", "html": "Hint of away shape on the length ball outside off. Moore is squared up just a touch with the ball going towards gully"}]Hint of away shape on the length ball outside off. Moore is squared up just a touch with the ball going towards gully
+Hint of away shape on the length ball outside off. Moore is squared up just a touch with the ball going towards gully
 
 
 Balls faced: 50
 Bowler: Southee
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Shot! Back of a length ball around chest high. Moore stays on the backfoot and pulls through square leg for a four"}]Shot! Back of a length ball around chest high. Moore stays on the backfoot and pulls through square leg for a four
+Shot! Back of a length ball around chest high. Moore stays on the backfoot and pulls through square leg for a four
 
 
 Balls faced: 51
 Bowler: Southee
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "jake: \"when was the last time 2 openers debuted in a test together? \" Last year, ZIM vs WI - Kaia, Makoni."}]jake: "when was the last time 2 openers debuted in a test together? " Last year, ZIM vs WI - Kaia, Makoni.
+jake: "when was the last time 2 openers debuted in a test together? " Last year, ZIM vs WI - Kaia, Makoni.
 
-[{"type": "HTML", "html": "Southee continues to hammer that length ball ball just around off stump as Moore gets across to defend"}]Southee continues to hammer that length ball ball just around off stump as Moore gets across to defend
+Southee continues to hammer that length ball ball just around off stump as Moore gets across to defend
 
 
 Balls faced: 52
 Bowler: Jamieson
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hint of nibble away on the length ball outside off. Moore gets his leave on point"}]Hint of nibble away on the length ball outside off. Moore gets his leave on point
-[{"type": "HTML", "html": "Frase: \"There has been a lot of talk about the South African team here being inexperienced underdogs, but if you look at the FC averages, they are pretty much all at around or above 40, including de Swardt at number 7. Could be an interesting match, or a recipe for a draw.\""}]Frase: "There has been a lot of talk about the South African team here being inexperienced underdogs, but if you look at the FC averages, they are pretty much all at around or above 40, including de Swardt at number 7. Could be an interesting match, or a recipe for a draw."
+Hint of nibble away on the length ball outside off. Moore gets his leave on point
+Frase: "There has been a lot of talk about the South African team here being inexperienced underdogs, but if you look at the FC averages, they are pretty much all at around or above 40, including de Swardt at number 7. Could be an interesting match, or a recipe for a draw."
 
 Balls faced: 53
 Bowler: Jamieson
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Almost gets a chop back on to his stumps. Fuller on off stump, he looks to drive it through covers, gets an inside-edge back onto his pad"}]Almost gets a chop back on to his stumps. Fuller on off stump, he looks to drive it through covers, gets an inside-edge back onto his pad
+Almost gets a chop back on to his stumps. Fuller on off stump, he looks to drive it through covers, gets an inside-edge back onto his pad
 
 
 Balls faced: 54
 Bowler: Jamieson
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes fuller now outside off as Moore watches carefully and lets the ball go"}]Goes fuller now outside off as Moore watches carefully and lets the ball go
+Goes fuller now outside off as Moore watches carefully and lets the ball go
 
 
 Balls faced: 55
 Bowler: Jamieson
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes back to the length ball outside off, Moore shoulders arms"}]Goes back to the length ball outside off, Moore shoulders arms
+Goes back to the length ball outside off, Moore shoulders arms
 
 
 Balls faced: 56
 Bowler: Jamieson
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Down leg and those are easy pickings for Moore.</strong> Full on the pads and Moore clips it fine to the vacant fine leg boundary"}]<strong>Down leg and those are easy pickings for Moore.</strong> Full on the pads and Moore clips it fine to the vacant fine leg boundary
+<strong>Down leg and those are easy pickings for Moore.</strong> Full on the pads and Moore clips it fine to the vacant fine leg boundary
 
 
 Balls faced: 57
 Bowler: Jamieson
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kyle Jamieson into the attack. He is coming from an injury. Will be interesting to see how he goes."}]Kyle Jamieson into the attack. He is coming from an injury. Will be interesting to see how he goes.
+Kyle Jamieson into the attack. He is coming from an injury. Will be interesting to see how he goes.
 
-[{"type": "HTML", "html": "Goes fuller at 129kph on off stump, Moore pushes towards cover"}]Goes fuller at 129kph on off stump, Moore pushes towards cover
+Goes fuller at 129kph on off stump, Moore pushes towards cover
 
 
 Balls faced: 58
 Bowler: Southee
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "The ball almost sneaks through Moore's defences. Was the inswinger aiming the pads, Moore looks for a flick, gets an inside-edge onto his pad that rolls to midwicket. They take a quick run"}]The ball almost sneaks through Moore's defences. Was the inswinger aiming the pads, Moore looks for a flick, gets an inside-edge onto his pad that rolls to midwicket. They take a quick run
+The ball almost sneaks through Moore's defences. Was the inswinger aiming the pads, Moore looks for a flick, gets an inside-edge onto his pad that rolls to midwicket. They take a quick run
 
 
 Balls faced: 59
 Bowler: Southee
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Miscue. Goes fuller just outside off, he looks for a drive, gets a thick inside-edge towards the bowler."}]Miscue. Goes fuller just outside off, he looks for a drive, gets a thick inside-edge towards the bowler.
+Miscue. Goes fuller just outside off, he looks for a drive, gets a thick inside-edge towards the bowler.
 
 
 Balls faced: 60
 Bowler: Southee
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Krishna: \"What I like is, SA openers are not overwhelmed by the occasion of facing one of the modern day test bowling greats.\""}]Krishna: "What I like is, SA openers are not overwhelmed by the occasion of facing one of the modern day test bowling greats."
+Krishna: "What I like is, SA openers are not overwhelmed by the occasion of facing one of the modern day test bowling greats."
 
-[{"type": "HTML", "html": "Hint of away shape on the length ball outside off. Moore is squared up just a touch with the ball going towards gully"}]Hint of away shape on the length ball outside off. Moore is squared up just a touch with the ball going towards gully
+Hint of away shape on the length ball outside off. Moore is squared up just a touch with the ball going towards gully
 
 
 Balls faced: 61
 Bowler: Southee
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Shot! Back of a length ball around chest high. Moore stays on the backfoot and pulls through square leg for a four"}]Shot! Back of a length ball around chest high. Moore stays on the backfoot and pulls through square leg for a four
+Shot! Back of a length ball around chest high. Moore stays on the backfoot and pulls through square leg for a four
 
 
 Balls faced: 62
 Bowler: Southee
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "jake: \"when was the last time 2 openers debuted in a test together? \" Last year, ZIM vs WI - Kaia, Makoni."}]jake: "when was the last time 2 openers debuted in a test together? " Last year, ZIM vs WI - Kaia, Makoni.
+jake: "when was the last time 2 openers debuted in a test together? " Last year, ZIM vs WI - Kaia, Makoni.
 
-[{"type": "HTML", "html": "Southee continues to hammer that length ball ball just around off stump as Moore gets across to defend"}]Southee continues to hammer that length ball ball just around off stump as Moore gets across to defend
+Southee continues to hammer that length ball ball just around off stump as Moore gets across to defend
 
 
 Balls faced: 63
 Bowler: Southee
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller on off stump, Moore defends solidly"}]Fuller on off stump, Moore defends solidly
-[{"type": "HTML", "html": "Aby Mathew: \"Kiwis will definelty miss Wagner the enforcer on this flat pitch .\""}]Aby Mathew: "Kiwis will definelty miss Wagner the enforcer on this flat pitch ."
+Fuller on off stump, Moore defends solidly
+Aby Mathew: "Kiwis will definelty miss Wagner the enforcer on this flat pitch ."
 
 Balls faced: 64
 Bowler: Jamieson
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hint of nibble away on the length ball outside off. Moore gets his leave on point"}]Hint of nibble away on the length ball outside off. Moore gets his leave on point
-[{"type": "HTML", "html": "Frase: \"There has been a lot of talk about the South African team here being inexperienced underdogs, but if you look at the FC averages, they are pretty much all at around or above 40, including de Swardt at number 7. Could be an interesting match, or a recipe for a draw.\""}]Frase: "There has been a lot of talk about the South African team here being inexperienced underdogs, but if you look at the FC averages, they are pretty much all at around or above 40, including de Swardt at number 7. Could be an interesting match, or a recipe for a draw."
+Hint of nibble away on the length ball outside off. Moore gets his leave on point
+Frase: "There has been a lot of talk about the South African team here being inexperienced underdogs, but if you look at the FC averages, they are pretty much all at around or above 40, including de Swardt at number 7. Could be an interesting match, or a recipe for a draw."
 
 Balls faced: 65
 Bowler: Jamieson
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Almost gets a chop back on to his stumps. Fuller on off stump, he looks to drive it through covers, gets an inside-edge back onto his pad"}]Almost gets a chop back on to his stumps. Fuller on off stump, he looks to drive it through covers, gets an inside-edge back onto his pad
+Almost gets a chop back on to his stumps. Fuller on off stump, he looks to drive it through covers, gets an inside-edge back onto his pad
 
 
 Balls faced: 66
 Bowler: Jamieson
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes fuller now outside off as Moore watches carefully and lets the ball go"}]Goes fuller now outside off as Moore watches carefully and lets the ball go
+Goes fuller now outside off as Moore watches carefully and lets the ball go
 
 
 Balls faced: 67
 Bowler: Jamieson
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes back to the length ball outside off, Moore shoulders arms"}]Goes back to the length ball outside off, Moore shoulders arms
+Goes back to the length ball outside off, Moore shoulders arms
 
 
 Balls faced: 68
 Bowler: Jamieson
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Down leg and those are easy pickings for Moore.</strong> Full on the pads and Moore clips it fine to the vacant fine leg boundary"}]<strong>Down leg and those are easy pickings for Moore.</strong> Full on the pads and Moore clips it fine to the vacant fine leg boundary
+<strong>Down leg and those are easy pickings for Moore.</strong> Full on the pads and Moore clips it fine to the vacant fine leg boundary
 
 
 Balls faced: 69
 Bowler: Jamieson
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kyle Jamieson into the attack. He is coming from an injury. Will be interesting to see how he goes."}]Kyle Jamieson into the attack. He is coming from an injury. Will be interesting to see how he goes.
+Kyle Jamieson into the attack. He is coming from an injury. Will be interesting to see how he goes.
 
-[{"type": "HTML", "html": "Goes fuller at 129kph on off stump, Moore pushes towards cover"}]Goes fuller at 129kph on off stump, Moore pushes towards cover
+Goes fuller at 129kph on off stump, Moore pushes towards cover
 
 
 Balls faced: 70
 Bowler: Southee
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller on off stump, Moore defends solidly"}]Fuller on off stump, Moore defends solidly
-[{"type": "HTML", "html": "Aby Mathew: \"Kiwis will definelty miss Wagner the enforcer on this flat pitch .\""}]Aby Mathew: "Kiwis will definelty miss Wagner the enforcer on this flat pitch ."
+Fuller on off stump, Moore defends solidly
+Aby Mathew: "Kiwis will definelty miss Wagner the enforcer on this flat pitch ."
 
 Balls faced: 71
 Bowler: Southee
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "And again, a full-length ball shaping sharply back into the batter who is stuck on the crease and defends towards mid-off"}]And again, a full-length ball shaping sharply back into the batter who is stuck on the crease and defends towards mid-off
+And again, a full-length ball shaping sharply back into the batter who is stuck on the crease and defends towards mid-off
 
 
 Balls faced: 72
 Bowler: Southee
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller on off stump, he presses half-forward and pushes back to the bowler"}]Fuller on off stump, he presses half-forward and pushes back to the bowler
+Fuller on off stump, he presses half-forward and pushes back to the bowler
 
 
 Balls faced: 73
 Bowler: Southee
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shapes the full back into the batter, who presents the full face of the bat and drives to mid-on"}]Shapes the full back into the batter, who presents the full face of the bat and drives to mid-on
+Shapes the full back into the batter, who presents the full face of the bat and drives to mid-on
 
 
 Balls faced: 74
 Bowler: Southee
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Very full threatening to hoop back into the batter outside off. Moore shoulders arms"}]Very full threatening to hoop back into the batter outside off. Moore shoulders arms
+Very full threatening to hoop back into the batter outside off. Moore shoulders arms
 
 
 Balls faced: 75
 Bowler: Southee
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on middle stump, defends it staunchly once more"}]On a length on middle stump, defends it staunchly once more
+On a length on middle stump, defends it staunchly once more
 
 
 Balls faced: 76
 Bowler: Southee
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Zubayr Hamza in at No. 4"}]Zubayr Hamza in at No. 4
+Zubayr Hamza in at No. 4
 
-[{"type": "HTML", "html": "Length on middle stump, he defends"}]Length on middle stump, he defends
+Length on middle stump, he defends
 
 
 Balls faced: 77
 Bowler: Jamieson
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length on his hips as he nudges it to deep backward square leg for a run"}]On a length on his hips as he nudges it to deep backward square leg for a run
+On a length on his hips as he nudges it to deep backward square leg for a run
 
 
 Balls faced: 78
 Bowler: Jamieson
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off stump, he brings out the full face of the bat and pushes back to the bowler"}]Full on off stump, he brings out the full face of the bat and pushes back to the bowler
+Full on off stump, he brings out the full face of the bat and pushes back to the bowler
 
 
 Balls faced: 79
 Bowler: Southee
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "And again, a full-length ball shaping sharply back into the batter who is stuck on the crease and defends towards mid-off"}]And again, a full-length ball shaping sharply back into the batter who is stuck on the crease and defends towards mid-off
+And again, a full-length ball shaping sharply back into the batter who is stuck on the crease and defends towards mid-off
 
 
 Balls faced: 80
 Bowler: Southee
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller on off stump, he presses half-forward and pushes back to the bowler"}]Fuller on off stump, he presses half-forward and pushes back to the bowler
+Fuller on off stump, he presses half-forward and pushes back to the bowler
 
 
 Balls faced: 81
 Bowler: Southee
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shapes the full back into the batter, who presents the full face of the bat and drives to mid-on"}]Shapes the full back into the batter, who presents the full face of the bat and drives to mid-on
+Shapes the full back into the batter, who presents the full face of the bat and drives to mid-on
 
 
 Balls faced: 82
 Bowler: Southee
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Very full threatening to hoop back into the batter outside off. Moore shoulders arms"}]Very full threatening to hoop back into the batter outside off. Moore shoulders arms
+Very full threatening to hoop back into the batter outside off. Moore shoulders arms
 
 
 Balls faced: 83
 Bowler: Southee
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on middle stump, defends it staunchly once more"}]On a length on middle stump, defends it staunchly once more
+On a length on middle stump, defends it staunchly once more
 
 
 Balls faced: 84
 Bowler: Southee
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Zubayr Hamza in at No. 4"}]Zubayr Hamza in at No. 4
+Zubayr Hamza in at No. 4
 
-[{"type": "HTML", "html": "Length on middle stump, he defends"}]Length on middle stump, he defends
+Length on middle stump, he defends
 
 
 Balls faced: 85
 Bowler: Jamieson
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length on his hips as he nudges it to deep backward square leg for a run"}]On a length on his hips as he nudges it to deep backward square leg for a run
+On a length on his hips as he nudges it to deep backward square leg for a run
 
 
 Balls faced: 86
 Bowler: Jamieson
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off stump, he brings out the full face of the bat and pushes back to the bowler"}]Full on off stump, he brings out the full face of the bat and pushes back to the bowler
+Full on off stump, he brings out the full face of the bat and pushes back to the bowler
 
 
 Balls faced: 87
 Bowler: Jamieson
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Goes over the wicket for the last ball"}]Goes over the wicket for the last ball
+Goes over the wicket for the last ball
 
-[{"type": "HTML", "html": "angles it across the batter who shoulders arms on the last ball"}]angles it across the batter who shoulders arms on the last ball
-[{"type": "HTML", "html": "With the experience the others in the list have, I feel Jamieson still has some distance to cover"}]With the experience the others in the list have, I feel Jamieson still has some distance to cover
+angles it across the batter who shoulders arms on the last ball
+With the experience the others in the list have, I feel Jamieson still has some distance to cover
 
 Balls faced: 88
 Bowler: Jamieson
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "132.3kmh, bit too full on off and Moore bunts it back after some nimble footwork"}]132.3kmh, bit too full on off and Moore bunts it back after some nimble footwork
+132.3kmh, bit too full on off and Moore bunts it back after some nimble footwork
 
 
 Balls faced: 89
 Bowler: Jamieson
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slightly closer to off, Moore pushes at it with hard hands again"}]slightly closer to off, Moore pushes at it with hard hands again
+slightly closer to off, Moore pushes at it with hard hands again
 
 
 Balls faced: 90
 Bowler: Jamieson
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Savita: \"Shamar Joseph, Pope, Jaiswal, Rachin.....2024 belongs to GenX in Cricket!!\" And hopefully we'll get a name or two from this South Africa XI"}]Savita: "Shamar Joseph, Pope, Jaiswal, Rachin.....2024 belongs to GenX in Cricket!!" And hopefully we'll get a name or two from this South Africa XI
+Savita: "Shamar Joseph, Pope, Jaiswal, Rachin.....2024 belongs to GenX in Cricket!!" And hopefully we'll get a name or two from this South Africa XI
 
-[{"type": "HTML", "html": "pushes at this short of length delivery towards cover"}]pushes at this short of length delivery towards cover
+pushes at this short of length delivery towards cover
 
 
 Balls faced: 91
 Bowler: Jamieson
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pretty full and wide too, Moore shoulders arms this time"}]pretty full and wide too, Moore shoulders arms this time
+pretty full and wide too, Moore shoulders arms this time
 
 
 Balls faced: 92
 Bowler: Jamieson
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Jamieson around the wicket"}]Jamieson around the wicket
+Jamieson around the wicket
 
-[{"type": "HTML", "html": "back of length with width, Moore punches it to cover"}]back of length with width, Moore punches it to cover
+back of length with width, Moore punches it to cover
 
 
 Balls faced: 93
 Bowler: Henry
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hayden: \"This is the Jamieson of old. SA finding it as tough as a mandrake root at the moment. Great test cricket\""}]Hayden: "This is the Jamieson of old. SA finding it as tough as a mandrake root at the moment. Great test cricket"
-
-[{"type": "HTML", "html": "<b>he's bounced him out</b>, Moore is gone! Bangs in a bouncer from around the wicket, the left-handed Moore hops on his toes, takes his eyes off the ball while sticking his bat out in front of his face. The ball rises and takes the edge, goes off the helmet and balloons towards short cover point where Conway dives forward from the ring to complete an excellent catch"}]<b>he's bounced him out</b>, Moore is gone! Bangs in a bouncer from around the wicket, the left-handed Moore hops on his toes, takes his eyes off the ball while sticking his bat out in front of his face. The ball rises and takes the edge, goes off the helmet and balloons towards short cover point where Conway dives forward from the ring to complete an excellent catch
-[{"type": "HTML", "html": "South Africa three down and it's time for drinks. Bedingham walks out meanwhile"}]South Africa three down and it's time for drinks. Bedingham walks out meanwhile
+Hayden: "This is the Jamieson of old. SA finding it as tough as a mandrake root at the moment. Great test cricket"
+Moore is OUT! caught
+c Conway b Henry
+Edward Moore c Conway b Henry 23 (50b 4x4 0x6 66m) SR: 46
+<b>he's bounced him out</b>, Moore is gone! Bangs in a bouncer from around the wicket, the left-handed Moore hops on his toes, takes his eyes off the ball while sticking his bat out in front of his face. The ball rises and takes the edge, goes off the helmet and balloons towards short cover point where Conway dives forward from the ring to complete an excellent catch
+South Africa three down and it's time for drinks. Bedingham walks out meanwhile
 
 Balls faced: 94
 Bowler: Jamieson
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Goes over the wicket for the last ball"}]Goes over the wicket for the last ball
+Goes over the wicket for the last ball
 
-[{"type": "HTML", "html": "angles it across the batter who shoulders arms on the last ball"}]angles it across the batter who shoulders arms on the last ball
-[{"type": "HTML", "html": "With the experience the others in the list have, I feel Jamieson still has some distance to cover"}]With the experience the others in the list have, I feel Jamieson still has some distance to cover
+angles it across the batter who shoulders arms on the last ball
+With the experience the others in the list have, I feel Jamieson still has some distance to cover
 
 Balls faced: 95
 Bowler: Jamieson
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "132.3kmh, bit too full on off and Moore bunts it back after some nimble footwork"}]132.3kmh, bit too full on off and Moore bunts it back after some nimble footwork
+132.3kmh, bit too full on off and Moore bunts it back after some nimble footwork
 
 
 Balls faced: 96
 Bowler: Jamieson
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slightly closer to off, Moore pushes at it with hard hands again"}]slightly closer to off, Moore pushes at it with hard hands again
+slightly closer to off, Moore pushes at it with hard hands again
 
 
 Balls faced: 97
 Bowler: Jamieson
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Savita: \"Shamar Joseph, Pope, Jaiswal, Rachin.....2024 belongs to GenX in Cricket!!\" And hopefully we'll get a name or two from this South Africa XI"}]Savita: "Shamar Joseph, Pope, Jaiswal, Rachin.....2024 belongs to GenX in Cricket!!" And hopefully we'll get a name or two from this South Africa XI
+Savita: "Shamar Joseph, Pope, Jaiswal, Rachin.....2024 belongs to GenX in Cricket!!" And hopefully we'll get a name or two from this South Africa XI
 
-[{"type": "HTML", "html": "pushes at this short of length delivery towards cover"}]pushes at this short of length delivery towards cover
+pushes at this short of length delivery towards cover
 
 
 Balls faced: 98
 Bowler: Jamieson
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pretty full and wide too, Moore shoulders arms this time"}]pretty full and wide too, Moore shoulders arms this time
+pretty full and wide too, Moore shoulders arms this time
 
 
 Balls faced: 99
 Bowler: Jamieson
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Jamieson around the wicket"}]Jamieson around the wicket
+Jamieson around the wicket
 
-[{"type": "HTML", "html": "back of length with width, Moore punches it to cover"}]back of length with width, Moore punches it to cover
+back of length with width, Moore punches it to cover
 
 
 Balls faced: 100
 Bowler: Henry
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hayden: \"This is the Jamieson of old. SA finding it as tough as a mandrake root at the moment. Great test cricket\""}]Hayden: "This is the Jamieson of old. SA finding it as tough as a mandrake root at the moment. Great test cricket"
-
-[{"type": "HTML", "html": "<b>he's bounced him out</b>, Moore is gone! Bangs in a bouncer from around the wicket, the left-handed Moore hops on his toes, takes his eyes off the ball while sticking his bat out in front of his face. The ball rises and takes the edge, goes off the helmet and balloons towards short cover point where Conway dives forward from the ring to complete an excellent catch"}]<b>he's bounced him out</b>, Moore is gone! Bangs in a bouncer from around the wicket, the left-handed Moore hops on his toes, takes his eyes off the ball while sticking his bat out in front of his face. The ball rises and takes the edge, goes off the helmet and balloons towards short cover point where Conway dives forward from the ring to complete an excellent catch
-[{"type": "HTML", "html": "South Africa three down and it's time for drinks. Bedingham walks out meanwhile"}]South Africa three down and it's time for drinks. Bedingham walks out meanwhile
+Hayden: "This is the Jamieson of old. SA finding it as tough as a mandrake root at the moment. Great test cricket"
+Moore is OUT! caught
+c Conway b Henry
+Edward Moore c Conway b Henry 23 (50b 4x4 0x6 66m) SR: 46
+<b>he's bounced him out</b>, Moore is gone! Bangs in a bouncer from around the wicket, the left-handed Moore hops on his toes, takes his eyes off the ball while sticking his bat out in front of his face. The ball rises and takes the edge, goes off the helmet and balloons towards short cover point where Conway dives forward from the ring to complete an excellent catch
+South Africa three down and it's time for drinks. Bedingham walks out meanwhile
 
 
 Match: all_games_1410505_1410547.json
 Balls faced: 1
 Bowler: Dean
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -1014,6 +1119,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Dean
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1024,6 +1130,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Dean
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1034,6 +1141,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Smith
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -1044,6 +1152,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Smith
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -1054,6 +1163,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Smith
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -1064,6 +1174,7 @@ Run scored: 4
 Balls faced: 7
 Bowler: Smith
 Over: 4
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -1074,6 +1185,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Smith
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -1084,6 +1196,7 @@ Run scored: 2
 Balls faced: 9
 Bowler: Smith
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1094,6 +1207,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Dean
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -1104,6 +1218,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Dean
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1114,6 +1229,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Dean
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1124,6 +1240,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Davies
 Over: 5
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -1134,6 +1251,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Smith
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -1144,6 +1262,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Smith
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -1154,6 +1273,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Smith
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -1164,6 +1284,7 @@ Run scored: 4
 Balls faced: 17
 Bowler: Smith
 Over: 4
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -1174,6 +1295,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Smith
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -1184,6 +1306,7 @@ Run scored: 2
 Balls faced: 19
 Bowler: Smith
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1194,16 +1317,20 @@ Run scored: 0
 Balls faced: 20
 Bowler: Smith
 Over: 6
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Moore is OUT! caught
+c Adams b Smith
+Kalea Moore c Adams b Smith 8 (11b 1x4 0x6 13m) SR: 72.72
 
 
 
 Balls faced: 21
 Bowler: Davies
 Over: 5
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -1214,5 +1341,10 @@ Run scored: 1
 Balls faced: 22
 Bowler: Smith
 Over: 6
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
+
+Moore is OUT! caught
+c Adams b Smith
+Kalea Moore c Adams b Smith 8 (11b 1x4 0x6 13m) SR: 72.72

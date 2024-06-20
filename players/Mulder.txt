@@ -2,21 +2,27 @@ Match: all_games_1387592_1387600.json
 Balls faced: 1
 Bowler: Avesh Khan
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "In comes Wiaan Mulder. Two batters on 0 (0). South Africa 52 for 5. A young Indian attack making full use of helpful conditions"}]In comes Wiaan Mulder. Two batters on 0 (0). South Africa 52 for 5. A young Indian attack making full use of helpful conditions
-
-[{"type": "HTML", "html": "what a ball to get first up. Angling in, pitching and seaming, hitting him in front. Given out lbw. They decide they may as well review it. This has seamed away like a legcutter and clearly missed the outside edge to hit his back leg. Umpire's call on impact and progression. The on-field decision stays. Avesh on a hat-trick"}]what a ball to get first up. Angling in, pitching and seaming, hitting him in front. Given out lbw. They decide they may as well review it. This has seamed away like a legcutter and clearly missed the outside edge to hit his back leg. Umpire's call on impact and progression. The on-field decision stays. Avesh on a hat-trick
+In comes Wiaan Mulder. Two batters on 0 (0). South Africa 52 for 5. A young Indian attack making full use of helpful conditions
+Mulder is OUT! lbw
+lbw b Avesh Khan
+Wiaan Mulder lbw b Avesh Khan 0 (1b 0x4 0x6 2m) SR: 0
+what a ball to get first up. Angling in, pitching and seaming, hitting him in front. Given out lbw. They decide they may as well review it. This has seamed away like a legcutter and clearly missed the outside edge to hit his back leg. Umpire's call on impact and progression. The on-field decision stays. Avesh on a hat-trick
 
 
 Balls faced: 2
 Bowler: Avesh Khan
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "In comes Wiaan Mulder. Two batters on 0 (0). South Africa 52 for 5. A young Indian attack making full use of helpful conditions"}]In comes Wiaan Mulder. Two batters on 0 (0). South Africa 52 for 5. A young Indian attack making full use of helpful conditions
-
-[{"type": "HTML", "html": "what a ball to get first up. Angling in, pitching and seaming, hitting him in front. Given out lbw. They decide they may as well review it. This has seamed away like a legcutter and clearly missed the outside edge to hit his back leg. Umpire's call on impact and progression. The on-field decision stays. Avesh on a hat-trick"}]what a ball to get first up. Angling in, pitching and seaming, hitting him in front. Given out lbw. They decide they may as well review it. This has seamed away like a legcutter and clearly missed the outside edge to hit his back leg. Umpire's call on impact and progression. The on-field decision stays. Avesh on a hat-trick
+In comes Wiaan Mulder. Two batters on 0 (0). South Africa 52 for 5. A young Indian attack making full use of helpful conditions
+Mulder is OUT! lbw
+lbw b Avesh Khan
+Wiaan Mulder lbw b Avesh Khan 0 (1b 0x4 0x6 2m) SR: 0
+what a ball to get first up. Angling in, pitching and seaming, hitting him in front. Given out lbw. They decide they may as well review it. This has seamed away like a legcutter and clearly missed the outside edge to hit his back leg. Umpire's call on impact and progression. The on-field decision stays. Avesh on a hat-trick
 
 
 
@@ -24,163 +30,187 @@ Match: all_games_1387592_1387602.json
 Balls faced: 1
 Bowler: Avesh Khan
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball outside off. Cut square to the sweeper fielder"}]good length ball outside off. Cut square to the sweeper fielder
+good length ball outside off. Cut square to the sweeper fielder
 
 
 Balls faced: 2
 Bowler: Avesh Khan
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball just outside off and defended"}]fullish ball just outside off and defended
+fullish ball just outside off and defended
 
 
 Balls faced: 3
 Bowler: Sundar
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "length ball just outside off. Batter pokes at it, Rahul collects and appeals for caught behind. Both Washington and Rahul seem confident but the <B>umpire turns it down. India, though, review</b> and there is a tiny murmur on UltraEdge! Enough to declare it out."}]length ball just outside off. Batter pokes at it, Rahul collects and appeals for caught behind. Both Washington and Rahul seem confident but the <B>umpire turns it down. India, though, review</b> and there is a tiny murmur on UltraEdge! Enough to declare it out.
-[{"type": "HTML", "html": "SLN: \"I really thought Washy lost his bowling touch, he had a poor ipl with the ball and was out for long periods due to injuries, really nice to see him improve and contribute\" -- that height also gets some extra bounce"}]SLN: "I really thought Washy lost his bowling touch, he had a poor ipl with the ball and was out for long periods due to injuries, really nice to see him improve and contribute" -- that height also gets some extra bounce
+Mulder is OUT! caught
+c †Rahul b Washington Sundar
+Wiaan Mulder c †Rahul b Washington Sundar 1 (3b 0x4 0x6 7m) SR: 33.33
+length ball just outside off. Batter pokes at it, Rahul collects and appeals for caught behind. Both Washington and Rahul seem confident but the <B>umpire turns it down. India, though, review</b> and there is a tiny murmur on UltraEdge! Enough to declare it out.
+SLN: "I really thought Washy lost his bowling touch, he had a poor ipl with the ball and was out for long periods due to injuries, really nice to see him improve and contribute" -- that height also gets some extra bounce
 
 Balls faced: 4
 Bowler: Avesh Khan
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball outside off. Cut square to the sweeper fielder"}]good length ball outside off. Cut square to the sweeper fielder
+good length ball outside off. Cut square to the sweeper fielder
 
 
 Balls faced: 5
 Bowler: Avesh Khan
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball just outside off and defended"}]fullish ball just outside off and defended
+fullish ball just outside off and defended
 
 
 Balls faced: 6
 Bowler: Sundar
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "length ball just outside off. Batter pokes at it, Rahul collects and appeals for caught behind. Both Washington and Rahul seem confident but the <B>umpire turns it down. India, though, review</b> and there is a tiny murmur on UltraEdge! Enough to declare it out."}]length ball just outside off. Batter pokes at it, Rahul collects and appeals for caught behind. Both Washington and Rahul seem confident but the <B>umpire turns it down. India, though, review</b> and there is a tiny murmur on UltraEdge! Enough to declare it out.
-[{"type": "HTML", "html": "SLN: \"I really thought Washy lost his bowling touch, he had a poor ipl with the ball and was out for long periods due to injuries, really nice to see him improve and contribute\" -- that height also gets some extra bounce"}]SLN: "I really thought Washy lost his bowling touch, he had a poor ipl with the ball and was out for long periods due to injuries, really nice to see him improve and contribute" -- that height also gets some extra bounce
+Mulder is OUT! caught
+c †Rahul b Washington Sundar
+Wiaan Mulder c †Rahul b Washington Sundar 1 (3b 0x4 0x6 7m) SR: 33.33
+length ball just outside off. Batter pokes at it, Rahul collects and appeals for caught behind. Both Washington and Rahul seem confident but the <B>umpire turns it down. India, though, review</b> and there is a tiny murmur on UltraEdge! Enough to declare it out.
+SLN: "I really thought Washy lost his bowling touch, he had a poor ipl with the ball and was out for long periods due to injuries, really nice to see him improve and contribute" -- that height also gets some extra bounce
 
 
 Match: all_games_1433350_1433362.json
 Balls faced: 1
 Bowler: Motie
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Motie seemed to have erred on the shorter side but has Mulder pull it straight to cow corner</strong>. Allen takes a tumbling catch and stands nonchalantly with hands folded in celebration. Was a slow, shortish ball that landed outside off and ragged away. It's the turn and bounce that Mulder couldn't adjust for. His eyes seemed to light up after the tight first three balls. So, the front foot went out of the way to power the pull, but he had to check the shot a bit and couldn't middle it"}]<strong>Motie seemed to have erred on the shorter side but has Mulder pull it straight to cow corner</strong>. Allen takes a tumbling catch and stands nonchalantly with hands folded in celebration. Was a slow, shortish ball that landed outside off and ragged away. It's the turn and bounce that Mulder couldn't adjust for. His eyes seemed to light up after the tight first three balls. So, the front foot went out of the way to power the pull, but he had to check the shot a bit and couldn't middle it
-[{"type": "HTML", "html": "Igsaan: \"Poor batting by the Proteas\" Yep, but this over the bowling has been excellent too"}]Igsaan: "Poor batting by the Proteas" Yep, but this over the bowling has been excellent too
+Mulder is OUT! caught
+c Allen b Motie
+Wiaan Mulder c Allen b Motie 0 (4b 0x4 0x6 2m) SR: 0
+<strong>Motie seemed to have erred on the shorter side but has Mulder pull it straight to cow corner</strong>. Allen takes a tumbling catch and stands nonchalantly with hands folded in celebration. Was a slow, shortish ball that landed outside off and ragged away. It's the turn and bounce that Mulder couldn't adjust for. His eyes seemed to light up after the tight first three balls. So, the front foot went out of the way to power the pull, but he had to check the shot a bit and couldn't middle it
+Igsaan: "Poor batting by the Proteas" Yep, but this over the bowling has been excellent too
 
 Balls faced: 2
 Bowler: Motie
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball is punched back in front"}]Length ball is punched back in front
+Length ball is punched back in front
 
 
 Balls faced: 3
 Bowler: Motie
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sharp turn to beat bat. Lands on off and rags away past the defending bat"}]Sharp turn to beat bat. Lands on off and rags away past the defending bat
+Sharp turn to beat bat. Lands on off and rags away past the defending bat
 
 
 Balls faced: 4
 Bowler: Motie
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Ooh, turn away finds the edge</strong>. Goes wide of slip and to backward point. 81ks, length ball around off, turned away"}]<strong>Ooh, turn away finds the edge</strong>. Goes wide of slip and to backward point. 81ks, length ball around off, turned away
+<strong>Ooh, turn away finds the edge</strong>. Goes wide of slip and to backward point. 81ks, length ball around off, turned away
 
 
 Balls faced: 5
 Bowler: Motie
 Over: 11
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Stays around, slip in"}]Stays around, slip in
+Stays around, slip in
 
-[{"type": "HTML", "html": "Low full dart down leg, goes past the flick"}]Low full dart down leg, goes past the flick
+Low full dart down leg, goes past the flick
 
 Wide: 1
 Balls faced: 6
 Bowler: Motie
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Motie seemed to have erred on the shorter side but has Mulder pull it straight to cow corner</strong>. Allen takes a tumbling catch and stands nonchalantly with hands folded in celebration. Was a slow, shortish ball that landed outside off and ragged away. It's the turn and bounce that Mulder couldn't adjust for. His eyes seemed to light up after the tight first three balls. So, the front foot went out of the way to power the pull, but he had to check the shot a bit and couldn't middle it"}]<strong>Motie seemed to have erred on the shorter side but has Mulder pull it straight to cow corner</strong>. Allen takes a tumbling catch and stands nonchalantly with hands folded in celebration. Was a slow, shortish ball that landed outside off and ragged away. It's the turn and bounce that Mulder couldn't adjust for. His eyes seemed to light up after the tight first three balls. So, the front foot went out of the way to power the pull, but he had to check the shot a bit and couldn't middle it
-[{"type": "HTML", "html": "Igsaan: \"Poor batting by the Proteas\" Yep, but this over the bowling has been excellent too"}]Igsaan: "Poor batting by the Proteas" Yep, but this over the bowling has been excellent too
+Mulder is OUT! caught
+c Allen b Motie
+Wiaan Mulder c Allen b Motie 0 (4b 0x4 0x6 2m) SR: 0
+<strong>Motie seemed to have erred on the shorter side but has Mulder pull it straight to cow corner</strong>. Allen takes a tumbling catch and stands nonchalantly with hands folded in celebration. Was a slow, shortish ball that landed outside off and ragged away. It's the turn and bounce that Mulder couldn't adjust for. His eyes seemed to light up after the tight first three balls. So, the front foot went out of the way to power the pull, but he had to check the shot a bit and couldn't middle it
+Igsaan: "Poor batting by the Proteas" Yep, but this over the bowling has been excellent too
 
 Balls faced: 7
 Bowler: Motie
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball is punched back in front"}]Length ball is punched back in front
+Length ball is punched back in front
 
 
 Balls faced: 8
 Bowler: Motie
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sharp turn to beat bat. Lands on off and rags away past the defending bat"}]Sharp turn to beat bat. Lands on off and rags away past the defending bat
+Sharp turn to beat bat. Lands on off and rags away past the defending bat
 
 
 Balls faced: 9
 Bowler: Motie
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Ooh, turn away finds the edge</strong>. Goes wide of slip and to backward point. 81ks, length ball around off, turned away"}]<strong>Ooh, turn away finds the edge</strong>. Goes wide of slip and to backward point. 81ks, length ball around off, turned away
+<strong>Ooh, turn away finds the edge</strong>. Goes wide of slip and to backward point. 81ks, length ball around off, turned away
 
 
 Balls faced: 10
 Bowler: Motie
 Over: 11
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Stays around, slip in"}]Stays around, slip in
+Stays around, slip in
 
-[{"type": "HTML", "html": "Low full dart down leg, goes past the flick"}]Low full dart down leg, goes past the flick
+Low full dart down leg, goes past the flick
 
 Wide: 1
 
@@ -188,181 +218,203 @@ Match: all_games_1433350_1433363.json
 Balls faced: 1
 Bowler: Motie
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off and middle. Tries to whack it over square leg but misses. Hits his leg"}]length ball on off and middle. Tries to whack it over square leg but misses. Hits his leg
+length ball on off and middle. Tries to whack it over square leg but misses. Hits his leg
 
 
 Balls faced: 2
 Bowler: Motie
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball on off and middle. Once again knocked gently to the leg side and then they call for two. But the fielder from the deep swoops in and throws to Fletcher, and <B>Muder would've been out had Fletcher not knocked one bail off the groove before collecting.</b> Reprieve for Mulder and Fletcher pays the price for trying to collect the ball from in front of the stumps"}]full ball on off and middle. Once again knocked gently to the leg side and then they call for two. But the fielder from the deep swoops in and throws to Fletcher, and <B>Muder would've been out had Fletcher not knocked one bail off the groove before collecting.</b> Reprieve for Mulder and Fletcher pays the price for trying to collect the ball from in front of the stumps
+full ball on off and middle. Once again knocked gently to the leg side and then they call for two. But the fielder from the deep swoops in and throws to Fletcher, and <B>Muder would've been out had Fletcher not knocked one bail off the groove before collecting.</b> Reprieve for Mulder and Fletcher pays the price for trying to collect the ball from in front of the stumps
 
 
 Balls faced: 3
 Bowler: Motie
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "South Africa sinking after a blazing start to their innings."}]South Africa sinking after a blazing start to their innings.
+South Africa sinking after a blazing start to their innings.
 
-[{"type": "HTML", "html": "full ball on middle, and tucked with the bat's closed face to square leg gently. Acres of space there"}]full ball on middle, and tucked with the bat's closed face to square leg gently. Acres of space there
+full ball on middle, and tucked with the bat's closed face to square leg gently. Acres of space there
 
 
 Balls faced: 4
 Bowler: McCoy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball around off. He drags a slog to deep midwicket"}]full ball around off. He drags a slog to deep midwicket
-[{"type": "HTML", "html": "Ian : \"Why give the ball to McCoy.Aint Shepherd bowling good?Are you trying to lose from.a winning position \""}]Ian : "Why give the ball to McCoy.Aint Shepherd bowling good?Are you trying to lose from.a winning position "
+full ball around off. He drags a slog to deep midwicket
+Ian : "Why give the ball to McCoy.Aint Shepherd bowling good?Are you trying to lose from.a winning position "
 
 Balls faced: 5
 Bowler: McCoy
 Over: 16
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another wide by McCoy"}]another wide by McCoy
+another wide by McCoy
 
 Wide: 1
 Balls faced: 6
 Bowler: McCoy
 Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>gets another one away!</b> Mulder backs away and McCoy follows him with a length ball meant to cramp him up. But it grazes his hip, and past the keeper too!"}]<B>gets another one away!</b> Mulder backs away and McCoy follows him with a length ball meant to cramp him up. But it grazes his hip, and past the keeper too!
+<B>gets another one away!</b> Mulder backs away and McCoy follows him with a length ball meant to cramp him up. But it grazes his hip, and past the keeper too!
 
 Legbyes: 4
 Balls faced: 7
 Bowler: McCoy
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "around the stumps, bowls a shin-high full toss around off and Mulder punches it back right past the bowler!"}]around the stumps, bowls a shin-high full toss around off and Mulder punches it back right past the bowler!
+around the stumps, bowls a shin-high full toss around off and Mulder punches it back right past the bowler!
 
 
 Balls faced: 8
 Bowler: Motie
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off and middle. Tries to whack it over square leg but misses. Hits his leg"}]length ball on off and middle. Tries to whack it over square leg but misses. Hits his leg
+length ball on off and middle. Tries to whack it over square leg but misses. Hits his leg
 
 
 Balls faced: 9
 Bowler: Motie
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full ball on off and middle. Once again knocked gently to the leg side and then they call for two. But the fielder from the deep swoops in and throws to Fletcher, and <B>Muder would've been out had Fletcher not knocked one bail off the groove before collecting.</b> Reprieve for Mulder and Fletcher pays the price for trying to collect the ball from in front of the stumps"}]full ball on off and middle. Once again knocked gently to the leg side and then they call for two. But the fielder from the deep swoops in and throws to Fletcher, and <B>Muder would've been out had Fletcher not knocked one bail off the groove before collecting.</b> Reprieve for Mulder and Fletcher pays the price for trying to collect the ball from in front of the stumps
+full ball on off and middle. Once again knocked gently to the leg side and then they call for two. But the fielder from the deep swoops in and throws to Fletcher, and <B>Muder would've been out had Fletcher not knocked one bail off the groove before collecting.</b> Reprieve for Mulder and Fletcher pays the price for trying to collect the ball from in front of the stumps
 
 
 Balls faced: 10
 Bowler: Motie
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "South Africa sinking after a blazing start to their innings."}]South Africa sinking after a blazing start to their innings.
+South Africa sinking after a blazing start to their innings.
 
-[{"type": "HTML", "html": "full ball on middle, and tucked with the bat's closed face to square leg gently. Acres of space there"}]full ball on middle, and tucked with the bat's closed face to square leg gently. Acres of space there
+full ball on middle, and tucked with the bat's closed face to square leg gently. Acres of space there
 
 
 Balls faced: 11
 Bowler: Motie
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>SA are crumbling!</b> And Motie has another! Full ball outside off stump and Mulder ends up smacking an aggressive shot to long-off again!"}]<B>SA are crumbling!</b> And Motie has another! Full ball outside off stump and Mulder ends up smacking an aggressive shot to long-off again!
+Mulder is OUT! caught
+c Hosein b Motie
+Wiaan Mulder c Hosein b Motie 9 (8b 1x4 0x6 12m) SR: 112.5
+<B>SA are crumbling!</b> And Motie has another! Full ball outside off stump and Mulder ends up smacking an aggressive shot to long-off again!
 
 
 Balls faced: 12
 Bowler: Motie
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed to the off side"}]pushed to the off side
+pushed to the off side
 
 
 Balls faced: 13
 Bowler: McCoy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball around off. He drags a slog to deep midwicket"}]full ball around off. He drags a slog to deep midwicket
-[{"type": "HTML", "html": "Ian : \"Why give the ball to McCoy.Aint Shepherd bowling good?Are you trying to lose from.a winning position \""}]Ian : "Why give the ball to McCoy.Aint Shepherd bowling good?Are you trying to lose from.a winning position "
+full ball around off. He drags a slog to deep midwicket
+Ian : "Why give the ball to McCoy.Aint Shepherd bowling good?Are you trying to lose from.a winning position "
 
 Balls faced: 14
 Bowler: McCoy
 Over: 16
+Pitch Line: DOWN_LEG Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another wide by McCoy"}]another wide by McCoy
+another wide by McCoy
 
 Wide: 1
 Balls faced: 15
 Bowler: McCoy
 Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>gets another one away!</b> Mulder backs away and McCoy follows him with a length ball meant to cramp him up. But it grazes his hip, and past the keeper too!"}]<B>gets another one away!</b> Mulder backs away and McCoy follows him with a length ball meant to cramp him up. But it grazes his hip, and past the keeper too!
+<B>gets another one away!</b> Mulder backs away and McCoy follows him with a length ball meant to cramp him up. But it grazes his hip, and past the keeper too!
 
 Legbyes: 4
 Balls faced: 16
 Bowler: McCoy
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "around the stumps, bowls a shin-high full toss around off and Mulder punches it back right past the bowler!"}]around the stumps, bowls a shin-high full toss around off and Mulder punches it back right past the bowler!
+around the stumps, bowls a shin-high full toss around off and Mulder punches it back right past the bowler!
 
 
 Balls faced: 17
 Bowler: Motie
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>SA are crumbling!</b> And Motie has another! Full ball outside off stump and Mulder ends up smacking an aggressive shot to long-off again!"}]<B>SA are crumbling!</b> And Motie has another! Full ball outside off stump and Mulder ends up smacking an aggressive shot to long-off again!
+Mulder is OUT! caught
+c Hosein b Motie
+Wiaan Mulder c Hosein b Motie 9 (8b 1x4 0x6 12m) SR: 112.5
+<B>SA are crumbling!</b> And Motie has another! Full ball outside off stump and Mulder ends up smacking an aggressive shot to long-off again!
 
 
 Balls faced: 18
 Bowler: Motie
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed to the off side"}]pushed to the off side
+pushed to the off side
 
 
 
@@ -370,558 +422,618 @@ Match: all_games_1433350_1433364.json
 Balls faced: 1
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another full ball angled into off, and nudged towards point for a single this time"}]another full ball angled into off, and nudged towards point for a single this time
+another full ball angled into off, and nudged towards point for a single this time
 
 
 Balls faced: 2
 Bowler: Motie
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish on off, and a hint of turn away. Blocked to cover for another dot"}]fullish on off, and a hint of turn away. Blocked to cover for another dot
+fullish on off, and a hint of turn away. Blocked to cover for another dot
 
 
 Balls faced: 3
 Bowler: Motie
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and straight, and defended off the inside half of the bat"}]full and straight, and defended off the inside half of the bat
+full and straight, and defended off the inside half of the bat
 
 
 Balls faced: 4
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Mulder"}]Mulder
+Mulder
 
-[{"type": "HTML", "html": "fuller, quicker and flatter on off, and driven to deep point"}]fuller, quicker and flatter on off, and driven to deep point
+fuller, quicker and flatter on off, and driven to deep point
 
 
 Balls faced: 5
 Bowler: Allen
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "fullish ball on middle, and he goes deep in the crease to clip towards midwicket. They pinch two in quick time, as Allen gives the chase"}]fullish ball on middle, and he goes deep in the crease to clip towards midwicket. They pinch two in quick time, as Allen gives the chase
-[{"type": "HTML", "html": "Time for Sreshth to step in. Say hello!"}]Time for Sreshth to step in. Say hello!
+fullish ball on middle, and he goes deep in the crease to clip towards midwicket. They pinch two in quick time, as Allen gives the chase
+Time for Sreshth to step in. Say hello!
 
 Balls faced: 6
 Bowler: Allen
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "turns away towards off from a fullish length on middle, and whipped to long-on"}]turns away towards off from a fullish length on middle, and whipped to long-on
+turns away towards off from a fullish length on middle, and whipped to long-on
 
 
 Balls faced: 7
 Bowler: Allen
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ahh, this goes on with the arm off a length on off. Punched towards cover"}]ahh, this goes on with the arm off a length on off. Punched towards cover
+ahh, this goes on with the arm off a length on off. Punched towards cover
 
 
 Balls faced: 8
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another full ball angled into off, and nudged towards point for a single this time"}]another full ball angled into off, and nudged towards point for a single this time
+another full ball angled into off, and nudged towards point for a single this time
 
 
 Balls faced: 9
 Bowler: Motie
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish on off, and a hint of turn away. Blocked to cover for another dot"}]fullish on off, and a hint of turn away. Blocked to cover for another dot
+fullish on off, and a hint of turn away. Blocked to cover for another dot
 
 
 Balls faced: 10
 Bowler: Motie
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and straight, and defended off the inside half of the bat"}]full and straight, and defended off the inside half of the bat
+full and straight, and defended off the inside half of the bat
 
 
 Balls faced: 11
 Bowler: Motie
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Mulder"}]Mulder
+Mulder
 
-[{"type": "HTML", "html": "fuller, quicker and flatter on off, and driven to deep point"}]fuller, quicker and flatter on off, and driven to deep point
+fuller, quicker and flatter on off, and driven to deep point
 
 
 Balls faced: 12
 Bowler: Walsh
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball around off stump, and clipped to deep square leg for a single"}]full ball around off stump, and clipped to deep square leg for a single
+full ball around off stump, and clipped to deep square leg for a single
 
 
 Balls faced: 13
 Bowler: Allen
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "fullish ball on middle, and he goes deep in the crease to clip towards midwicket. They pinch two in quick time, as Allen gives the chase"}]fullish ball on middle, and he goes deep in the crease to clip towards midwicket. They pinch two in quick time, as Allen gives the chase
-[{"type": "HTML", "html": "Time for Sreshth to step in. Say hello!"}]Time for Sreshth to step in. Say hello!
+fullish ball on middle, and he goes deep in the crease to clip towards midwicket. They pinch two in quick time, as Allen gives the chase
+Time for Sreshth to step in. Say hello!
 
 Balls faced: 14
 Bowler: Allen
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "turns away towards off from a fullish length on middle, and whipped to long-on"}]turns away towards off from a fullish length on middle, and whipped to long-on
+turns away towards off from a fullish length on middle, and whipped to long-on
 
 
 Balls faced: 15
 Bowler: Allen
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ahh, this goes on with the arm off a length on off. Punched towards cover"}]ahh, this goes on with the arm off a length on off. Punched towards cover
+ahh, this goes on with the arm off a length on off. Punched towards cover
 
 
 Balls faced: 16
 Bowler: Hosein
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off stump and tapped towards mid on. Big gap there but only one"}]full on off stump and tapped towards mid on. Big gap there but only one
+full on off stump and tapped towards mid on. Big gap there but only one
 
 
 Balls faced: 17
 Bowler: Hosein
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball outside off. Turning away. Tries to drive to cover but it takes an inside edge towards square leg instead"}]full ball outside off. Turning away. Tries to drive to cover but it takes an inside edge towards square leg instead
+full ball outside off. Turning away. Tries to drive to cover but it takes an inside edge towards square leg instead
 
 
 Balls faced: 18
 Bowler: Hosein
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "good length ball on off. Pulled in front of square to deep midwicket"}]good length ball on off. Pulled in front of square to deep midwicket
+good length ball on off. Pulled in front of square to deep midwicket
 
 
 Balls faced: 19
 Bowler: Walsh
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball around off stump, and clipped to deep square leg for a single"}]full ball around off stump, and clipped to deep square leg for a single
+full ball around off stump, and clipped to deep square leg for a single
 
 
 Balls faced: 20
 Bowler: Walsh
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide ball, and slapped to deep point. Protection there on the off-side region"}]short and wide ball, and slapped to deep point. Protection there on the off-side region
+short and wide ball, and slapped to deep point. Protection there on the off-side region
 
 
 Balls faced: 21
 Bowler: Walsh
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Stays on the back foot, and cut towards point"}]full ball outside off. Stays on the back foot, and cut towards point
+full ball outside off. Stays on the back foot, and cut towards point
 
 
 Balls faced: 22
 Bowler: Walsh
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>appeal for lbw but turned down!</b> WI review but lose it. Impact was outside off stump with Mulder moving across so the umpire does not bother checking for ball-tracking thereafter"}]<B>appeal for lbw but turned down!</b> WI review but lose it. Impact was outside off stump with Mulder moving across so the umpire does not bother checking for ball-tracking thereafter
+<B>appeal for lbw but turned down!</b> WI review but lose it. Impact was outside off stump with Mulder moving across so the umpire does not bother checking for ball-tracking thereafter
 
 
 Balls faced: 23
 Bowler: Walsh
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "driven with the bat's open face towards the fielder at deep backward point for a couple"}]driven with the bat's open face towards the fielder at deep backward point for a couple
+driven with the bat's open face towards the fielder at deep backward point for a couple
 
 
 Balls faced: 24
 Bowler: Walsh
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>takes on the legspinner!</b> Like the previous over, Walsh is sent over long on."}]<B>takes on the legspinner!</b> Like the previous over, Walsh is sent over long on.
+<B>takes on the legspinner!</b> Like the previous over, Walsh is sent over long on.
 
 
 Balls faced: 25
 Bowler: Hosein
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off stump and tapped towards mid on. Big gap there but only one"}]full on off stump and tapped towards mid on. Big gap there but only one
+full on off stump and tapped towards mid on. Big gap there but only one
 
 
 Balls faced: 26
 Bowler: Hosein
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball outside off. Turning away. Tries to drive to cover but it takes an inside edge towards square leg instead"}]full ball outside off. Turning away. Tries to drive to cover but it takes an inside edge towards square leg instead
+full ball outside off. Turning away. Tries to drive to cover but it takes an inside edge towards square leg instead
 
 
 Balls faced: 27
 Bowler: Hosein
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "good length ball on off. Pulled in front of square to deep midwicket"}]good length ball on off. Pulled in front of square to deep midwicket
+good length ball on off. Pulled in front of square to deep midwicket
 
 
 Balls faced: 28
 Bowler: McCoy
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around off and the drive is hit to the fielder at mid off"}]full ball around off and the drive is hit to the fielder at mid off
+full ball around off and the drive is hit to the fielder at mid off
 
 
 Balls faced: 29
 Bowler: McCoy
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full ball outside off. Looks to drive towards point with the bat's open face and gets the ball to kiss the face of the bat before running away to deep third!"}]full ball outside off. Looks to drive towards point with the bat's open face and gets the ball to kiss the face of the bat before running away to deep third!
+full ball outside off. Looks to drive towards point with the bat's open face and gets the ball to kiss the face of the bat before running away to deep third!
 
 
 Balls faced: 30
 Bowler: McCoy
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "nurdles this full ball towards midwicket for a quick single"}]nurdles this full ball towards midwicket for a quick single
+nurdles this full ball towards midwicket for a quick single
 
 
 Balls faced: 31
 Bowler: McCoy
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>edged past the keeper!</b> McCoy would've had Mulder if there was a first slip. He tried to push at this ball angling across him from near off stump, only to get the edge"}]<B>edged past the keeper!</b> McCoy would've had Mulder if there was a first slip. He tried to push at this ball angling across him from near off stump, only to get the edge
+<B>edged past the keeper!</b> McCoy would've had Mulder if there was a first slip. He tried to push at this ball angling across him from near off stump, only to get the edge
 
 
 Balls faced: 32
 Bowler: McCoy
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "McCoy."}]McCoy.
+McCoy.
 
-[{"type": "HTML", "html": "uses the natural angle from over the stumps to get the ball across the right-hand batter. Misses the shot and through to the keeper"}]uses the natural angle from over the stumps to get the ball across the right-hand batter. Misses the shot and through to the keeper
+uses the natural angle from over the stumps to get the ball across the right-hand batter. Misses the shot and through to the keeper
 
 
 Balls faced: 33
 Bowler: Walsh
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide ball, and slapped to deep point. Protection there on the off-side region"}]short and wide ball, and slapped to deep point. Protection there on the off-side region
+short and wide ball, and slapped to deep point. Protection there on the off-side region
 
 
 Balls faced: 34
 Bowler: Walsh
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Stays on the back foot, and cut towards point"}]full ball outside off. Stays on the back foot, and cut towards point
+full ball outside off. Stays on the back foot, and cut towards point
 
 
 Balls faced: 35
 Bowler: Walsh
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>appeal for lbw but turned down!</b> WI review but lose it. Impact was outside off stump with Mulder moving across so the umpire does not bother checking for ball-tracking thereafter"}]<B>appeal for lbw but turned down!</b> WI review but lose it. Impact was outside off stump with Mulder moving across so the umpire does not bother checking for ball-tracking thereafter
+<B>appeal for lbw but turned down!</b> WI review but lose it. Impact was outside off stump with Mulder moving across so the umpire does not bother checking for ball-tracking thereafter
 
 
 Balls faced: 36
 Bowler: Walsh
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "driven with the bat's open face towards the fielder at deep backward point for a couple"}]driven with the bat's open face towards the fielder at deep backward point for a couple
+driven with the bat's open face towards the fielder at deep backward point for a couple
 
 
 Balls faced: 37
 Bowler: Walsh
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>takes on the legspinner!</b> Like the previous over, Walsh is sent over long on."}]<B>takes on the legspinner!</b> Like the previous over, Walsh is sent over long on.
+<B>takes on the legspinner!</b> Like the previous over, Walsh is sent over long on.
 
 
 Balls faced: 38
 Bowler: Motie
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on off stump. Punched to long on for a single. <B>Partnership now 57</b>"}]length ball on off stump. Punched to long on for a single. <B>Partnership now 57</b>
+length ball on off stump. Punched to long on for a single. <B>Partnership now 57</b>
 
 
 Balls faced: 39
 Bowler: Motie
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Tapped towards deep point for a single"}]good length ball just outside off. Tapped towards deep point for a single
+good length ball just outside off. Tapped towards deep point for a single
 
 
 Balls faced: 40
 Bowler: McCoy
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball around off and the drive is hit to the fielder at mid off"}]full ball around off and the drive is hit to the fielder at mid off
+full ball around off and the drive is hit to the fielder at mid off
 
 
 Balls faced: 41
 Bowler: McCoy
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full ball outside off. Looks to drive towards point with the bat's open face and gets the ball to kiss the face of the bat before running away to deep third!"}]full ball outside off. Looks to drive towards point with the bat's open face and gets the ball to kiss the face of the bat before running away to deep third!
+full ball outside off. Looks to drive towards point with the bat's open face and gets the ball to kiss the face of the bat before running away to deep third!
 
 
 Balls faced: 42
 Bowler: McCoy
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "nurdles this full ball towards midwicket for a quick single"}]nurdles this full ball towards midwicket for a quick single
+nurdles this full ball towards midwicket for a quick single
 
 
 Balls faced: 43
 Bowler: McCoy
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>edged past the keeper!</b> McCoy would've had Mulder if there was a first slip. He tried to push at this ball angling across him from near off stump, only to get the edge"}]<B>edged past the keeper!</b> McCoy would've had Mulder if there was a first slip. He tried to push at this ball angling across him from near off stump, only to get the edge
+<B>edged past the keeper!</b> McCoy would've had Mulder if there was a first slip. He tried to push at this ball angling across him from near off stump, only to get the edge
 
 
 Balls faced: 44
 Bowler: McCoy
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "McCoy."}]McCoy.
+McCoy.
 
-[{"type": "HTML", "html": "uses the natural angle from over the stumps to get the ball across the right-hand batter. Misses the shot and through to the keeper"}]uses the natural angle from over the stumps to get the ball across the right-hand batter. Misses the shot and through to the keeper
+uses the natural angle from over the stumps to get the ball across the right-hand batter. Misses the shot and through to the keeper
 
 
 Balls faced: 45
 Bowler: Hosein
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle. Stays on the back foot and works it to square leg for one"}]full on middle. Stays on the back foot and works it to square leg for one
+full on middle. Stays on the back foot and works it to square leg for one
 
 
 Balls faced: 46
 Bowler: Hosein
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off and cut towards deep extra cover for a single"}]good length ball just outside off and cut towards deep extra cover for a single
+good length ball just outside off and cut towards deep extra cover for a single
 
 
 Balls faced: 47
 Bowler: Hosein
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "good length ball outside off. Shuffles onto the back foot before pulling out a cut, and he has hit it rather well! Beating backward point for four"}]good length ball outside off. Shuffles onto the back foot before pulling out a cut, and he has hit it rather well! Beating backward point for four
+good length ball outside off. Shuffles onto the back foot before pulling out a cut, and he has hit it rather well! Beating backward point for four
 
 
 Balls faced: 48
 Bowler: Motie
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on off stump. Punched to long on for a single. <B>Partnership now 57</b>"}]length ball on off stump. Punched to long on for a single. <B>Partnership now 57</b>
+length ball on off stump. Punched to long on for a single. <B>Partnership now 57</b>
 
 
 Balls faced: 49
 Bowler: Motie
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off. Tapped towards deep point for a single"}]good length ball just outside off. Tapped towards deep point for a single
+good length ball just outside off. Tapped towards deep point for a single
 
 
 Balls faced: 50
 Bowler: McCoy
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Mayers with some acrobatics at long on!</b> Full ball in the slot, and Mulder appeared to launch into a big shot, but the slower pace forced a mis-hit, and Mayers takes a tumble backwards in the deep"}]<B>Mayers with some acrobatics at long on!</b> Full ball in the slot, and Mulder appeared to launch into a big shot, but the slower pace forced a mis-hit, and Mayers takes a tumble backwards in the deep
+Mulder is OUT! caught
+c Mayers b McCoy
+Wiaan Mulder c Mayers b McCoy 36 (28b 3x4 1x6 31m) SR: 128.57
+<B>Mayers with some acrobatics at long on!</b> Full ball in the slot, and Mulder appeared to launch into a big shot, but the slower pace forced a mis-hit, and Mayers takes a tumble backwards in the deep
 
 
 Balls faced: 51
 Bowler: McCoy
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Fifty runs in the last four overs."}]Fifty runs in the last four overs.
+Fifty runs in the last four overs.
 
-[{"type": "HTML", "html": "Mulder moves off side before the ball is bowled. McCoy sticks with his line trying to get the ball to angle across. Mulder swings across the line but misses"}]Mulder moves off side before the ball is bowled. McCoy sticks with his line trying to get the ball to angle across. Mulder swings across the line but misses
+Mulder moves off side before the ball is bowled. McCoy sticks with his line trying to get the ball to angle across. Mulder swings across the line but misses
 
 
 Balls faced: 52
 Bowler: Hosein
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle. Stays on the back foot and works it to square leg for one"}]full on middle. Stays on the back foot and works it to square leg for one
+full on middle. Stays on the back foot and works it to square leg for one
 
 
 Balls faced: 53
 Bowler: Hosein
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball just outside off and cut towards deep extra cover for a single"}]good length ball just outside off and cut towards deep extra cover for a single
+good length ball just outside off and cut towards deep extra cover for a single
 
 
 Balls faced: 54
 Bowler: Hosein
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "good length ball outside off. Shuffles onto the back foot before pulling out a cut, and he has hit it rather well! Beating backward point for four"}]good length ball outside off. Shuffles onto the back foot before pulling out a cut, and he has hit it rather well! Beating backward point for four
+good length ball outside off. Shuffles onto the back foot before pulling out a cut, and he has hit it rather well! Beating backward point for four
 
 
 Balls faced: 55
 Bowler: McCoy
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Mayers with some acrobatics at long on!</b> Full ball in the slot, and Mulder appeared to launch into a big shot, but the slower pace forced a mis-hit, and Mayers takes a tumble backwards in the deep"}]<B>Mayers with some acrobatics at long on!</b> Full ball in the slot, and Mulder appeared to launch into a big shot, but the slower pace forced a mis-hit, and Mayers takes a tumble backwards in the deep
+Mulder is OUT! caught
+c Mayers b McCoy
+Wiaan Mulder c Mayers b McCoy 36 (28b 3x4 1x6 31m) SR: 128.57
+<B>Mayers with some acrobatics at long on!</b> Full ball in the slot, and Mulder appeared to launch into a big shot, but the slower pace forced a mis-hit, and Mayers takes a tumble backwards in the deep
 
 
 Balls faced: 56
 Bowler: McCoy
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Fifty runs in the last four overs."}]Fifty runs in the last four overs.
+Fifty runs in the last four overs.
 
-[{"type": "HTML", "html": "Mulder moves off side before the ball is bowled. McCoy sticks with his line trying to get the ball to angle across. Mulder swings across the line but misses"}]Mulder moves off side before the ball is bowled. McCoy sticks with his line trying to get the ball to angle across. Mulder swings across the line but misses
+Mulder moves off side before the ball is bowled. McCoy sticks with his line trying to get the ball to angle across. Mulder swings across the line but misses

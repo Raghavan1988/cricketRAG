@@ -2,200 +2,220 @@ Match: all_games_1387592_1387601.json
 Balls faced: 1
 Bowler: Hendricks
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off. Mukesh dangles his bat and the ball rolls off the sticker into the on side"}]back of a length on off. Mukesh dangles his bat and the ball rolls off the sticker into the on side
+back of a length on off. Mukesh dangles his bat and the ball rolls off the sticker into the on side
 
 
 Balls faced: 2
 Bowler: Hendricks
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length in the channel. Mukesh nibbles at it without any foot movement and is beaten on the outside"}]back of a length in the channel. Mukesh nibbles at it without any foot movement and is beaten on the outside
+back of a length in the channel. Mukesh nibbles at it without any foot movement and is beaten on the outside
 
 
 Balls faced: 3
 Bowler: Hendricks
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Mukesh Kumar is the last man in. He does average 10.75 in List A cricket"}]Mukesh Kumar is the last man in. He does average 10.75 in List A cricket
+Mukesh Kumar is the last man in. He does average 10.75 in List A cricket
 
-[{"type": "HTML", "html": "back of a length delivery hung outside off. Mukesh watches it go through to the keeper"}]back of a length delivery hung outside off. Mukesh watches it go through to the keeper
+back of a length delivery hung outside off. Mukesh watches it go through to the keeper
 
 
 Balls faced: 4
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track on leg stump. Mukesh gauges the length early enough and ducks under it"}]banged into the track on leg stump. Mukesh gauges the length early enough and ducks under it
+banged into the track on leg stump. Mukesh gauges the length early enough and ducks under it
 
 
 Balls faced: 5
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on middle and off. Mukesh gets his front foot out of the way before presenting the full face of the bat"}]length on middle and off. Mukesh gets his front foot out of the way before presenting the full face of the bat
+length on middle and off. Mukesh gets his front foot out of the way before presenting the full face of the bat
 
 
 Balls faced: 6
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off. Mukesh sits deep in his crease and absolutely laces his cover drive. A pity he could not beat the fielder in the ring"}]full outside off. Mukesh sits deep in his crease and absolutely laces his cover drive. A pity he could not beat the fielder in the ring
+full outside off. Mukesh sits deep in his crease and absolutely laces his cover drive. A pity he could not beat the fielder in the ring
 
 
 Balls faced: 7
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>edged and four!</strong> Full and wide outside off. Mukesh throws the plumbing at it and the ball flies off the outside edge past third man!"}]<strong>edged and four!</strong> Full and wide outside off. Mukesh throws the plumbing at it and the ball flies off the outside edge past third man!
+<strong>edged and four!</strong> Full and wide outside off. Mukesh throws the plumbing at it and the ball flies off the outside edge past third man!
 
 
 Balls faced: 8
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "expectedly short, outside off. Mukesh finally gets bat on it but scuffs it towards extra cover"}]expectedly short, outside off. Mukesh finally gets bat on it but scuffs it towards extra cover
+expectedly short, outside off. Mukesh finally gets bat on it but scuffs it towards extra cover
 
 
 Balls faced: 9
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bumper on off stump. Mukesh ducks under it and this time, it is called a wide for height. <strong>Okay, hang on, this has now been called a No ball. Mukesh will have a Free hit to tuck into...</strong>"}]bumper on off stump. Mukesh ducks under it and this time, it is called a wide for height. <strong>Okay, hang on, this has now been called a No ball. Mukesh will have a Free hit to tuck into...</strong>
+bumper on off stump. Mukesh ducks under it and this time, it is called a wide for height. <strong>Okay, hang on, this has now been called a No ball. Mukesh will have a Free hit to tuck into...</strong>
 
 No Balls: 1
 Balls faced: 10
 Bowler: Williams
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "dug in short but well down the leg side. Some more exercise for the umpire"}]dug in short but well down the leg side. Some more exercise for the umpire
+dug in short but well down the leg side. Some more exercise for the umpire
 
 Wide: 1
 Balls faced: 11
 Bowler: Hendricks
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off. Mukesh dangles his bat and the ball rolls off the sticker into the on side"}]back of a length on off. Mukesh dangles his bat and the ball rolls off the sticker into the on side
+back of a length on off. Mukesh dangles his bat and the ball rolls off the sticker into the on side
 
 
 Balls faced: 12
 Bowler: Hendricks
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length in the channel. Mukesh nibbles at it without any foot movement and is beaten on the outside"}]back of a length in the channel. Mukesh nibbles at it without any foot movement and is beaten on the outside
+back of a length in the channel. Mukesh nibbles at it without any foot movement and is beaten on the outside
 
 
 Balls faced: 13
 Bowler: Hendricks
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Mukesh Kumar is the last man in. He does average 10.75 in List A cricket"}]Mukesh Kumar is the last man in. He does average 10.75 in List A cricket
+Mukesh Kumar is the last man in. He does average 10.75 in List A cricket
 
-[{"type": "HTML", "html": "back of a length delivery hung outside off. Mukesh watches it go through to the keeper"}]back of a length delivery hung outside off. Mukesh watches it go through to the keeper
+back of a length delivery hung outside off. Mukesh watches it go through to the keeper
 
 
 Balls faced: 14
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track on leg stump. Mukesh gauges the length early enough and ducks under it"}]banged into the track on leg stump. Mukesh gauges the length early enough and ducks under it
+banged into the track on leg stump. Mukesh gauges the length early enough and ducks under it
 
 
 Balls faced: 15
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on middle and off. Mukesh gets his front foot out of the way before presenting the full face of the bat"}]length on middle and off. Mukesh gets his front foot out of the way before presenting the full face of the bat
+length on middle and off. Mukesh gets his front foot out of the way before presenting the full face of the bat
 
 
 Balls faced: 16
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off. Mukesh sits deep in his crease and absolutely laces his cover drive. A pity he could not beat the fielder in the ring"}]full outside off. Mukesh sits deep in his crease and absolutely laces his cover drive. A pity he could not beat the fielder in the ring
+full outside off. Mukesh sits deep in his crease and absolutely laces his cover drive. A pity he could not beat the fielder in the ring
 
 
 Balls faced: 17
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>edged and four!</strong> Full and wide outside off. Mukesh throws the plumbing at it and the ball flies off the outside edge past third man!"}]<strong>edged and four!</strong> Full and wide outside off. Mukesh throws the plumbing at it and the ball flies off the outside edge past third man!
+<strong>edged and four!</strong> Full and wide outside off. Mukesh throws the plumbing at it and the ball flies off the outside edge past third man!
 
 
 Balls faced: 18
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "expectedly short, outside off. Mukesh finally gets bat on it but scuffs it towards extra cover"}]expectedly short, outside off. Mukesh finally gets bat on it but scuffs it towards extra cover
+expectedly short, outside off. Mukesh finally gets bat on it but scuffs it towards extra cover
 
 
 Balls faced: 19
 Bowler: Williams
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bumper on off stump. Mukesh ducks under it and this time, it is called a wide for height. <strong>Okay, hang on, this has now been called a No ball. Mukesh will have a Free hit to tuck into...</strong>"}]bumper on off stump. Mukesh ducks under it and this time, it is called a wide for height. <strong>Okay, hang on, this has now been called a No ball. Mukesh will have a Free hit to tuck into...</strong>
+bumper on off stump. Mukesh ducks under it and this time, it is called a wide for height. <strong>Okay, hang on, this has now been called a No ball. Mukesh will have a Free hit to tuck into...</strong>
 
 No Balls: 1
 Balls faced: 20
 Bowler: Williams
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "dug in short but well down the leg side. Some more exercise for the umpire"}]dug in short but well down the leg side. Some more exercise for the umpire
+dug in short but well down the leg side. Some more exercise for the umpire
 
 Wide: 1

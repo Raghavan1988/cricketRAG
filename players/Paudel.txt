@@ -2,623 +2,693 @@ Match: all_games_1377745_1377751.json
 Balls faced: 1
 Bowler: Kenjige
 Over: 17
+Pitch Line: DOWN_LEG Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on the legs, chipped gently in front of square leg for a single to get off the mark."}]full on the legs, chipped gently in front of square leg for a single to get off the mark.
+full on the legs, chipped gently in front of square leg for a single to get off the mark.
 
 
 Balls faced: 2
 Bowler: Kenjige
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on the stumps, defended."}]good length ball on the stumps, defended.
+good length ball on the stumps, defended.
 
 
 Balls faced: 3
 Bowler: Kenjige
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, smothered on the front foot."}]full on fourth stump, smothered on the front foot.
+full on fourth stump, smothered on the front foot.
 
 
 Balls faced: 4
 Bowler: Kenjige
 Over: 17
+Pitch Line: DOWN_LEG Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on the legs, chipped gently in front of square leg for a single to get off the mark."}]full on the legs, chipped gently in front of square leg for a single to get off the mark.
+full on the legs, chipped gently in front of square leg for a single to get off the mark.
 
 
 Balls faced: 5
 Bowler: Kenjige
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on the stumps, defended."}]good length ball on the stumps, defended.
+good length ball on the stumps, defended.
 
 
 Balls faced: 6
 Bowler: Kenjige
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, smothered on the front foot."}]full on fourth stump, smothered on the front foot.
+full on fourth stump, smothered on the front foot.
 
 
 Balls faced: 7
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off, defended."}]full on off, defended.
+full on off, defended.
 
 
 Balls faced: 8
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, chipped out to long-off for one."}]full on middle, chipped out to long-off for one.
+full on middle, chipped out to long-off for one.
 
 
 Balls faced: 9
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the stumps, defended back to Kenjige."}]full on the stumps, defended back to Kenjige.
+full on the stumps, defended back to Kenjige.
 
 
 Balls faced: 10
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fourth stump, pushed gently to long-off for one."}]full on fourth stump, pushed gently to long-off for one.
+full on fourth stump, pushed gently to long-off for one.
 
 
 Balls faced: 11
 Bowler: Jasdeep
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on the stumps, defended back down the pitch."}]back of a length on the stumps, defended back down the pitch.
+back of a length on the stumps, defended back down the pitch.
 
 
 Balls faced: 12
 Bowler: Jasdeep
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on fourth stump, Paudel is beaten playing inside the line on the back foot. Huge appeal for caught behind from Jahangir but Jessy isn't interested at all. Keeper and bowler don't appear to be on the same page with their appeals in this over."}]back of a length on fourth stump, Paudel is beaten playing inside the line on the back foot. Huge appeal for caught behind from Jahangir but Jessy isn't interested at all. Keeper and bowler don't appear to be on the same page with their appeals in this over.
+back of a length on fourth stump, Paudel is beaten playing inside the line on the back foot. Huge appeal for caught behind from Jahangir but Jessy isn't interested at all. Keeper and bowler don't appear to be on the same page with their appeals in this over.
 
 
 Balls faced: 13
 Bowler: Jasdeep
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on the stumps, Paudel misses prodding down the wrong line on the back foot and is hit high above the knee roll. Big lbw shout denied from Singh. Didn't get much support behind the stumps. Height was an issue as was the angle heading past leg stump."}]length ball on the stumps, Paudel misses prodding down the wrong line on the back foot and is hit high above the knee roll. Big lbw shout denied from Singh. Didn't get much support behind the stumps. Height was an issue as was the angle heading past leg stump.
+length ball on the stumps, Paudel misses prodding down the wrong line on the back foot and is hit high above the knee roll. Big lbw shout denied from Singh. Didn't get much support behind the stumps. Height was an issue as was the angle heading past leg stump.
 
 
 Balls faced: 14
 Bowler: Jasdeep
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on sixth stump, defended to cover for none."}]back of a length on sixth stump, defended to cover for none.
+back of a length on sixth stump, defended to cover for none.
 
 
 Balls faced: 15
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off, defended."}]full on off, defended.
+full on off, defended.
 
 
 Balls faced: 16
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, chipped out to long-off for one."}]full on middle, chipped out to long-off for one.
+full on middle, chipped out to long-off for one.
 
 
 Balls faced: 17
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the stumps, defended back to Kenjige."}]full on the stumps, defended back to Kenjige.
+full on the stumps, defended back to Kenjige.
 
 
 Balls faced: 18
 Bowler: Kenjige
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fourth stump, pushed gently to long-off for one."}]full on fourth stump, pushed gently to long-off for one.
+full on fourth stump, pushed gently to long-off for one.
 
 
 Balls faced: 19
 Bowler: Kenjige
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another very flighted delivery lands on a fullish length on fifth stump, defended again on the front foot."}]another very flighted delivery lands on a fullish length on fifth stump, defended again on the front foot.
+another very flighted delivery lands on a fullish length on fifth stump, defended again on the front foot.
 
 
 Balls faced: 20
 Bowler: Jasdeep
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on the stumps, defended back down the pitch."}]back of a length on the stumps, defended back down the pitch.
+back of a length on the stumps, defended back down the pitch.
 
 
 Balls faced: 21
 Bowler: Jasdeep
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on fourth stump, Paudel is beaten playing inside the line on the back foot. Huge appeal for caught behind from Jahangir but Jessy isn't interested at all. Keeper and bowler don't appear to be on the same page with their appeals in this over."}]back of a length on fourth stump, Paudel is beaten playing inside the line on the back foot. Huge appeal for caught behind from Jahangir but Jessy isn't interested at all. Keeper and bowler don't appear to be on the same page with their appeals in this over.
+back of a length on fourth stump, Paudel is beaten playing inside the line on the back foot. Huge appeal for caught behind from Jahangir but Jessy isn't interested at all. Keeper and bowler don't appear to be on the same page with their appeals in this over.
 
 
 Balls faced: 22
 Bowler: Jasdeep
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on the stumps, Paudel misses prodding down the wrong line on the back foot and is hit high above the knee roll. Big lbw shout denied from Singh. Didn't get much support behind the stumps. Height was an issue as was the angle heading past leg stump."}]length ball on the stumps, Paudel misses prodding down the wrong line on the back foot and is hit high above the knee roll. Big lbw shout denied from Singh. Didn't get much support behind the stumps. Height was an issue as was the angle heading past leg stump.
+length ball on the stumps, Paudel misses prodding down the wrong line on the back foot and is hit high above the knee roll. Big lbw shout denied from Singh. Didn't get much support behind the stumps. Height was an issue as was the angle heading past leg stump.
 
 
 Balls faced: 23
 Bowler: Jasdeep
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on sixth stump, defended to cover for none."}]back of a length on sixth stump, defended to cover for none.
+back of a length on sixth stump, defended to cover for none.
 
 
 Balls faced: 24
 Bowler: Jasdeep
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on eighth stump, sliced to the cover sweeper for one."}]length ball on eighth stump, sliced to the cover sweeper for one.
+length ball on eighth stump, sliced to the cover sweeper for one.
 
 
 Balls faced: 25
 Bowler: Jasdeep
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the stumps, defended again."}]full on the stumps, defended again.
-[{"type": "HTML", "html": "Karan: \"Why is Nepal slowing down? Why are they taking pressure?\" It's been a peculiar sequence from their perspective for sure. Give credit to the USA bowlers for staying disciplined in the last 30 minutes."}]Karan: "Why is Nepal slowing down? Why are they taking pressure?" It's been a peculiar sequence from their perspective for sure. Give credit to the USA bowlers for staying disciplined in the last 30 minutes.
+full on the stumps, defended again.
+Karan: "Why is Nepal slowing down? Why are they taking pressure?" It's been a peculiar sequence from their perspective for sure. Give credit to the USA bowlers for staying disciplined in the last 30 minutes.
 
 Balls faced: 26
 Bowler: Jasdeep
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, defended back down the pitch to Jessy."}]full on middle, defended back down the pitch to Jessy.
+full on middle, defended back down the pitch to Jessy.
 
 
 Balls faced: 27
 Bowler: Jasdeep
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on sixth stump, slapped to point for none."}]length ball on sixth stump, slapped to point for none.
+length ball on sixth stump, slapped to point for none.
 
 
 Balls faced: 28
 Bowler: Kenjige
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another very flighted delivery lands on a fullish length on fifth stump, defended again on the front foot."}]another very flighted delivery lands on a fullish length on fifth stump, defended again on the front foot.
+another very flighted delivery lands on a fullish length on fifth stump, defended again on the front foot.
 
 
 Balls faced: 29
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fifth stump, guided in front of point for one."}]full on fifth stump, guided in front of point for one.
+full on fifth stump, guided in front of point for one.
 
 
 Balls faced: 30
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted on a fullish length on fifth stump to suck Paudel into an expansive drive but misses. The back foot is out of the crease for a brief moment but Paudel stretches back in time before Jahangir can take the bails off."}]flighted on a fullish length on fifth stump to suck Paudel into an expansive drive but misses. The back foot is out of the crease for a brief moment but Paudel stretches back in time before Jahangir can take the bails off.
+flighted on a fullish length on fifth stump to suck Paudel into an expansive drive but misses. The back foot is out of the crease for a brief moment but Paudel stretches back in time before Jahangir can take the bails off.
 
 
 Balls faced: 31
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on off, goes back to defend."}]good length ball on off, goes back to defend.
+good length ball on off, goes back to defend.
 
 
 Balls faced: 32
 Bowler: Kenjige
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on the stumps, defended."}]good length ball on the stumps, defended.
+good length ball on the stumps, defended.
 
 
 Balls faced: 33
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on seventh stump, Paudel chases after this trying to guide this with an open face past the keeper but misses. Huge appeal for caught behind denied. Plenty of daylight between bat and ball."}]good length ball on seventh stump, Paudel chases after this trying to guide this with an open face past the keeper but misses. Huge appeal for caught behind denied. Plenty of daylight between bat and ball.
+good length ball on seventh stump, Paudel chases after this trying to guide this with an open face past the keeper but misses. Huge appeal for caught behind denied. Plenty of daylight between bat and ball.
 
 
 Balls faced: 34
 Bowler: Jasdeep
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on eighth stump, sliced to the cover sweeper for one."}]length ball on eighth stump, sliced to the cover sweeper for one.
+length ball on eighth stump, sliced to the cover sweeper for one.
 
 
 Balls faced: 35
 Bowler: Jasdeep
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the stumps, defended again."}]full on the stumps, defended again.
-[{"type": "HTML", "html": "Karan: \"Why is Nepal slowing down? Why are they taking pressure?\" It's been a peculiar sequence from their perspective for sure. Give credit to the USA bowlers for staying disciplined in the last 30 minutes."}]Karan: "Why is Nepal slowing down? Why are they taking pressure?" It's been a peculiar sequence from their perspective for sure. Give credit to the USA bowlers for staying disciplined in the last 30 minutes.
+full on the stumps, defended again.
+Karan: "Why is Nepal slowing down? Why are they taking pressure?" It's been a peculiar sequence from their perspective for sure. Give credit to the USA bowlers for staying disciplined in the last 30 minutes.
 
 Balls faced: 36
 Bowler: Jasdeep
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, defended back down the pitch to Jessy."}]full on middle, defended back down the pitch to Jessy.
+full on middle, defended back down the pitch to Jessy.
 
 
 Balls faced: 37
 Bowler: Jasdeep
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on sixth stump, slapped to point for none."}]length ball on sixth stump, slapped to point for none.
+length ball on sixth stump, slapped to point for none.
 
 
 Balls faced: 38
 Bowler: Jasdeep
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on seventh stump, punched firmly straight to extra cover for none."}]full on seventh stump, punched firmly straight to extra cover for none.
+full on seventh stump, punched firmly straight to extra cover for none.
 
 
 Balls faced: 39
 Bowler: Jasdeep
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish length on sixth stump, slapped to the cover sweeper for one."}]fullish length on sixth stump, slapped to the cover sweeper for one.
+fullish length on sixth stump, slapped to the cover sweeper for one.
 
 
 Balls faced: 40
 Bowler: Jasdeep
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle and leg, chipped into midwicket for a very long single. They thought about two but Mukkamalla retrieved the ball coming in off the boundary quickly enough to deny the second."}]full on middle and leg, chipped into midwicket for a very long single. They thought about two but Mukkamalla retrieved the ball coming in off the boundary quickly enough to deny the second.
+full on middle and leg, chipped into midwicket for a very long single. They thought about two but Mukkamalla retrieved the ball coming in off the boundary quickly enough to deny the second.
 
 
 Balls faced: 41
 Bowler: Jasdeep
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "charge down the pitch and Paudel slams a length ball on off stump back over Jessy's head to the boundary."}]charge down the pitch and Paudel slams a length ball on off stump back over Jessy's head to the boundary.
+charge down the pitch and Paudel slams a length ball on off stump back over Jessy's head to the boundary.
 
 
 Balls faced: 42
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fifth stump, guided in front of point for one."}]full on fifth stump, guided in front of point for one.
+full on fifth stump, guided in front of point for one.
 
 
 Balls faced: 43
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted on a fullish length on fifth stump to suck Paudel into an expansive drive but misses. The back foot is out of the crease for a brief moment but Paudel stretches back in time before Jahangir can take the bails off."}]flighted on a fullish length on fifth stump to suck Paudel into an expansive drive but misses. The back foot is out of the crease for a brief moment but Paudel stretches back in time before Jahangir can take the bails off.
+flighted on a fullish length on fifth stump to suck Paudel into an expansive drive but misses. The back foot is out of the crease for a brief moment but Paudel stretches back in time before Jahangir can take the bails off.
 
 
 Balls faced: 44
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on off, goes back to defend."}]good length ball on off, goes back to defend.
+good length ball on off, goes back to defend.
 
 
 Balls faced: 45
 Bowler: Kenjige
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on the stumps, defended."}]good length ball on the stumps, defended.
+good length ball on the stumps, defended.
 
 
 Balls faced: 46
 Bowler: Kenjige
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on seventh stump, Paudel chases after this trying to guide this with an open face past the keeper but misses. Huge appeal for caught behind denied. Plenty of daylight between bat and ball."}]good length ball on seventh stump, Paudel chases after this trying to guide this with an open face past the keeper but misses. Huge appeal for caught behind denied. Plenty of daylight between bat and ball.
+good length ball on seventh stump, Paudel chases after this trying to guide this with an open face past the keeper but misses. Huge appeal for caught behind denied. Plenty of daylight between bat and ball.
 
 
 Balls faced: 47
 Bowler: Patel
 Over: 25
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>the matador red cape is out!</b> Full outside leg, another sweep and this time middles it past Phillip tumbling over the top of the ball at short fine leg to turn a dot into a another four."}]<b>the matador red cape is out!</b> Full outside leg, another sweep and this time middles it past Phillip tumbling over the top of the ball at short fine leg to turn a dot into a another four.
+<b>the matador red cape is out!</b> Full outside leg, another sweep and this time middles it past Phillip tumbling over the top of the ball at short fine leg to turn a dot into a another four.
 
 
 Balls faced: 48
 Bowler: Patel
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, defended."}]full on middle, defended.
+full on middle, defended.
 
 
 Balls faced: 49
 Bowler: Jasdeep
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on seventh stump, punched firmly straight to extra cover for none."}]full on seventh stump, punched firmly straight to extra cover for none.
+full on seventh stump, punched firmly straight to extra cover for none.
 
 
 Balls faced: 50
 Bowler: Jasdeep
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish length on sixth stump, slapped to the cover sweeper for one."}]fullish length on sixth stump, slapped to the cover sweeper for one.
+fullish length on sixth stump, slapped to the cover sweeper for one.
 
 
 Balls faced: 51
 Bowler: Jasdeep
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle and leg, chipped into midwicket for a very long single. They thought about two but Mukkamalla retrieved the ball coming in off the boundary quickly enough to deny the second."}]full on middle and leg, chipped into midwicket for a very long single. They thought about two but Mukkamalla retrieved the ball coming in off the boundary quickly enough to deny the second.
+full on middle and leg, chipped into midwicket for a very long single. They thought about two but Mukkamalla retrieved the ball coming in off the boundary quickly enough to deny the second.
 
 
 Balls faced: 52
 Bowler: Jasdeep
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "charge down the pitch and Paudel slams a length ball on off stump back over Jessy's head to the boundary."}]charge down the pitch and Paudel slams a length ball on off stump back over Jessy's head to the boundary.
+charge down the pitch and Paudel slams a length ball on off stump back over Jessy's head to the boundary.
 
 
 Balls faced: 53
 Bowler: Netravalkar
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball on fifth stump, tap and run for a sharp single in front of point."}]good length ball on fifth stump, tap and run for a sharp single in front of point.
+good length ball on fifth stump, tap and run for a sharp single in front of point.
 
 
 Balls faced: 54
 Bowler: Patel
 Over: 25
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>the matador red cape is out!</b> Full outside leg, another sweep and this time middles it past Phillip tumbling over the top of the ball at short fine leg to turn a dot into a another four."}]<b>the matador red cape is out!</b> Full outside leg, another sweep and this time middles it past Phillip tumbling over the top of the ball at short fine leg to turn a dot into a another four.
+<b>the matador red cape is out!</b> Full outside leg, another sweep and this time middles it past Phillip tumbling over the top of the ball at short fine leg to turn a dot into a another four.
 
 
 Balls faced: 55
 Bowler: Patel
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, defended."}]full on middle, defended.
+full on middle, defended.
 
 
 Balls faced: 56
 Bowler: Patel
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "soft dismissal chipping to mid-off. Flighted full on off stump by Nisarg, Paudel steps away from leg stump to drive inside out in the air trying to clear Jessy Singh in the ring at mid-off but miscues it and it floats up gently to Jessy who dives forward to pluck this at ankle height."}]soft dismissal chipping to mid-off. Flighted full on off stump by Nisarg, Paudel steps away from leg stump to drive inside out in the air trying to clear Jessy Singh in the ring at mid-off but miscues it and it floats up gently to Jessy who dives forward to pluck this at ankle height.
-[{"type": "HTML", "html": "USA tried to tease Paudel into playing that shot by keeping mid-off inside the ring and the ploy worked."}]USA tried to tease Paudel into playing that shot by keeping mid-off inside the ring and the ploy worked.
+Paudel is OUT! caught
+c Jasdeep Singh b Patel
+Rohit Paudel c Jasdeep Singh b Patel 16 (29b 2x4 0x6 39m) SR: 55.17
+soft dismissal chipping to mid-off. Flighted full on off stump by Nisarg, Paudel steps away from leg stump to drive inside out in the air trying to clear Jessy Singh in the ring at mid-off but miscues it and it floats up gently to Jessy who dives forward to pluck this at ankle height.
+USA tried to tease Paudel into playing that shot by keeping mid-off inside the ring and the ploy worked.
 
 Balls faced: 57
 Bowler: Netravalkar
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball on fifth stump, tap and run for a sharp single in front of point."}]good length ball on fifth stump, tap and run for a sharp single in front of point.
+good length ball on fifth stump, tap and run for a sharp single in front of point.
 
 
 Balls faced: 58
 Bowler: Patel
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "soft dismissal chipping to mid-off. Flighted full on off stump by Nisarg, Paudel steps away from leg stump to drive inside out in the air trying to clear Jessy Singh in the ring at mid-off but miscues it and it floats up gently to Jessy who dives forward to pluck this at ankle height."}]soft dismissal chipping to mid-off. Flighted full on off stump by Nisarg, Paudel steps away from leg stump to drive inside out in the air trying to clear Jessy Singh in the ring at mid-off but miscues it and it floats up gently to Jessy who dives forward to pluck this at ankle height.
-[{"type": "HTML", "html": "USA tried to tease Paudel into playing that shot by keeping mid-off inside the ring and the ploy worked."}]USA tried to tease Paudel into playing that shot by keeping mid-off inside the ring and the ploy worked.
+Paudel is OUT! caught
+c Jasdeep Singh b Patel
+Rohit Paudel c Jasdeep Singh b Patel 16 (29b 2x4 0x6 39m) SR: 55.17
+soft dismissal chipping to mid-off. Flighted full on off stump by Nisarg, Paudel steps away from leg stump to drive inside out in the air trying to clear Jessy Singh in the ring at mid-off but miscues it and it floats up gently to Jessy who dives forward to pluck this at ankle height.
+USA tried to tease Paudel into playing that shot by keeping mid-off inside the ring and the ploy worked.
 
 
 Match: all_games_1411166_1415731.json
 Balls faced: 1
 Bowler: Shamsi
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Ripper!</b> That spun back in a mile! Tossed up full and wide of off, Paudel looks for the drive but the ball turns sharply and crashes into off stump. Shamsi has just brought South Africa back to life!"}]<b>Ripper!</b> That spun back in a mile! Tossed up full and wide of off, Paudel looks for the drive but the ball turns sharply and crashes into off stump. Shamsi has just brought South Africa back to life!
+Paudel is OUT! bowled
+ b Shamsi
+Rohit Paudel b Shamsi 0 (2b 0x4 0x6 1m) SR: 0
+<b>Ripper!</b> That spun back in a mile! Tossed up full and wide of off, Paudel looks for the drive but the ball turns sharply and crashes into off stump. Shamsi has just brought South Africa back to life!
 
 
 Balls faced: 2
 Bowler: Shamsi
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Out walks Nepal skipper Rohit Paudel. Leg slip in place"}]Out walks Nepal skipper Rohit Paudel. Leg slip in place
+Out walks Nepal skipper Rohit Paudel. Leg slip in place
 
-[{"type": "HTML", "html": "Full around middle and off, pushed out to midwicket"}]Full around middle and off, pushed out to midwicket
+Full around middle and off, pushed out to midwicket
 
 
 Balls faced: 3
 Bowler: Shamsi
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Ripper!</b> That spun back in a mile! Tossed up full and wide of off, Paudel looks for the drive but the ball turns sharply and crashes into off stump. Shamsi has just brought South Africa back to life!"}]<b>Ripper!</b> That spun back in a mile! Tossed up full and wide of off, Paudel looks for the drive but the ball turns sharply and crashes into off stump. Shamsi has just brought South Africa back to life!
+Paudel is OUT! bowled
+ b Shamsi
+Rohit Paudel b Shamsi 0 (2b 0x4 0x6 1m) SR: 0
+<b>Ripper!</b> That spun back in a mile! Tossed up full and wide of off, Paudel looks for the drive but the ball turns sharply and crashes into off stump. Shamsi has just brought South Africa back to life!
 
 
 Balls faced: 4
 Bowler: Shamsi
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Out walks Nepal skipper Rohit Paudel. Leg slip in place"}]Out walks Nepal skipper Rohit Paudel. Leg slip in place
+Out walks Nepal skipper Rohit Paudel. Leg slip in place
 
-[{"type": "HTML", "html": "Full around middle and off, pushed out to midwicket"}]Full around middle and off, pushed out to midwicket
+Full around middle and off, pushed out to midwicket
 
 
 
@@ -626,118 +696,134 @@ Match: all_games_1411166_1415737.json
 Balls faced: 1
 Bowler: Tanzim Hasan Sakib
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length just outside off. Paudel gets up on his toes and defends"}]hard length just outside off. Paudel gets up on his toes and defends
-[{"type": "HTML", "html": "A bit of argy-bargy between Tanzim and the Nepal skipper. The umpires are now having a word with Shanto"}]A bit of argy-bargy between Tanzim and the Nepal skipper. The umpires are now having a word with Shanto
+hard length just outside off. Paudel gets up on his toes and defends
+A bit of argy-bargy between Tanzim and the Nepal skipper. The umpires are now having a word with Shanto
 
 Balls faced: 2
 Bowler: Tanzim Hasan Sakib
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Skipper Paudel strides out. He has a job on his hands. Bangladesh in the ascendancy. Two slips in place"}]Skipper Paudel strides out. He has a job on his hands. Bangladesh in the ascendancy. Two slips in place
+Skipper Paudel strides out. He has a job on his hands. Bangladesh in the ascendancy. Two slips in place
 
-[{"type": "HTML", "html": "back of a length outside off. Paudel goes feeling for it away from his body and is beaten on the outside"}]back of a length outside off. Paudel goes feeling for it away from his body and is beaten on the outside
+back of a length outside off. Paudel goes feeling for it away from his body and is beaten on the outside
 
 
 Balls faced: 3
 Bowler: Taskin
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>fortune favouring Paudel!</strong> Sharp bumper on middle and leg, and this rushes Paudel considerably. He has a swipe at it and splices it. Luckily for him, it evades Jaker at square leg"}]<strong>fortune favouring Paudel!</strong> Sharp bumper on middle and leg, and this rushes Paudel considerably. He has a swipe at it and splices it. Luckily for him, it evades Jaker at square leg
+<strong>fortune favouring Paudel!</strong> Sharp bumper on middle and leg, and this rushes Paudel considerably. He has a swipe at it and splices it. Luckily for him, it evades Jaker at square leg
 
 
 Balls faced: 4
 Bowler: Taskin
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track on middle and leg. Seems to sail over the batter's head as he looks to pull but not called a wide"}]banged into the track on middle and leg. Seems to sail over the batter's head as he looks to pull but not called a wide
+banged into the track on middle and leg. Seems to sail over the batter's head as he looks to pull but not called a wide
 
 
 Balls faced: 5
 Bowler: Tanzim Hasan Sakib
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length just outside off. Paudel gets up on his toes and defends"}]hard length just outside off. Paudel gets up on his toes and defends
-[{"type": "HTML", "html": "A bit of argy-bargy between Tanzim and the Nepal skipper. The umpires are now having a word with Shanto"}]A bit of argy-bargy between Tanzim and the Nepal skipper. The umpires are now having a word with Shanto
+hard length just outside off. Paudel gets up on his toes and defends
+A bit of argy-bargy between Tanzim and the Nepal skipper. The umpires are now having a word with Shanto
 
 Balls faced: 6
 Bowler: Tanzim Hasan Sakib
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Skipper Paudel strides out. He has a job on his hands. Bangladesh in the ascendancy. Two slips in place"}]Skipper Paudel strides out. He has a job on his hands. Bangladesh in the ascendancy. Two slips in place
+Skipper Paudel strides out. He has a job on his hands. Bangladesh in the ascendancy. Two slips in place
 
-[{"type": "HTML", "html": "back of a length outside off. Paudel goes feeling for it away from his body and is beaten on the outside"}]back of a length outside off. Paudel goes feeling for it away from his body and is beaten on the outside
+back of a length outside off. Paudel goes feeling for it away from his body and is beaten on the outside
 
 
 Balls faced: 7
 Bowler: Tanzim Hasan Sakib
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Tanzim gets Paudel, and the Nepal skipper is livid with himself!</strong> Short, wide and there to be hit. Paudel gives it the lot and laces it. The only problem, though, is that he hits it straight to Rishad at backward point, and Nepal are now three down inside the powerplay!"}]<strong>Tanzim gets Paudel, and the Nepal skipper is livid with himself!</strong> Short, wide and there to be hit. Paudel gives it the lot and laces it. The only problem, though, is that he hits it straight to Rishad at backward point, and Nepal are now three down inside the powerplay!
+Paudel is OUT! caught
+c Rishad Hossain b Tanzim Hasan Sakib
+Rohit Paudel c Rishad Hossain b Tanzim Hasan Sakib 1 (6b 0x4 0x6 8m) SR: 16.66
+<strong>Tanzim gets Paudel, and the Nepal skipper is livid with himself!</strong> Short, wide and there to be hit. Paudel gives it the lot and laces it. The only problem, though, is that he hits it straight to Rishad at backward point, and Nepal are now three down inside the powerplay!
 
 
 Balls faced: 8
 Bowler: Tanzim Hasan Sakib
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Tanzim gets his third. Something could give this over"}]Tanzim gets his third. Something could give this over
+Tanzim gets his third. Something could give this over
 
-[{"type": "HTML", "html": "hard length on middle and off. Paudel hops up onto his toes and blocks. Stares Tanzim down as the ball trickles towards him"}]hard length on middle and off. Paudel hops up onto his toes and blocks. Stares Tanzim down as the ball trickles towards him
+hard length on middle and off. Paudel hops up onto his toes and blocks. Stares Tanzim down as the ball trickles towards him
 
 
 Balls faced: 9
 Bowler: Taskin
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>fortune favouring Paudel!</strong> Sharp bumper on middle and leg, and this rushes Paudel considerably. He has a swipe at it and splices it. Luckily for him, it evades Jaker at square leg"}]<strong>fortune favouring Paudel!</strong> Sharp bumper on middle and leg, and this rushes Paudel considerably. He has a swipe at it and splices it. Luckily for him, it evades Jaker at square leg
+<strong>fortune favouring Paudel!</strong> Sharp bumper on middle and leg, and this rushes Paudel considerably. He has a swipe at it and splices it. Luckily for him, it evades Jaker at square leg
 
 
 Balls faced: 10
 Bowler: Taskin
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track on middle and leg. Seems to sail over the batter's head as he looks to pull but not called a wide"}]banged into the track on middle and leg. Seems to sail over the batter's head as he looks to pull but not called a wide
+banged into the track on middle and leg. Seems to sail over the batter's head as he looks to pull but not called a wide
 
 
 Balls faced: 11
 Bowler: Tanzim Hasan Sakib
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Tanzim gets Paudel, and the Nepal skipper is livid with himself!</strong> Short, wide and there to be hit. Paudel gives it the lot and laces it. The only problem, though, is that he hits it straight to Rishad at backward point, and Nepal are now three down inside the powerplay!"}]<strong>Tanzim gets Paudel, and the Nepal skipper is livid with himself!</strong> Short, wide and there to be hit. Paudel gives it the lot and laces it. The only problem, though, is that he hits it straight to Rishad at backward point, and Nepal are now three down inside the powerplay!
+Paudel is OUT! caught
+c Rishad Hossain b Tanzim Hasan Sakib
+Rohit Paudel c Rishad Hossain b Tanzim Hasan Sakib 1 (6b 0x4 0x6 8m) SR: 16.66
+<strong>Tanzim gets Paudel, and the Nepal skipper is livid with himself!</strong> Short, wide and there to be hit. Paudel gives it the lot and laces it. The only problem, though, is that he hits it straight to Rishad at backward point, and Nepal are now three down inside the powerplay!
 
 
 Balls faced: 12
 Bowler: Tanzim Hasan Sakib
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Tanzim gets his third. Something could give this over"}]Tanzim gets his third. Something could give this over
+Tanzim gets his third. Something could give this over
 
-[{"type": "HTML", "html": "hard length on middle and off. Paudel hops up onto his toes and blocks. Stares Tanzim down as the ball trickles towards him"}]hard length on middle and off. Paudel hops up onto his toes and blocks. Stares Tanzim down as the ball trickles towards him
+hard length on middle and off. Paudel hops up onto his toes and blocks. Stares Tanzim down as the ball trickles towards him

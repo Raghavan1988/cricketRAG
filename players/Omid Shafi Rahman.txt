@@ -2,6 +2,7 @@ Match: all_games_1421067_1421080.json
 Balls faced: 1
 Bowler: Jarvis
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Jarvis
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Jarvis
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Jarvis
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -42,16 +46,20 @@ Run scored: 0
 Balls faced: 5
 Bowler: Greaves
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
+Omid Shafi Rahman is OUT! lbw
+lbw b Greaves
+Omid Shafi Rahman lbw b Greaves 0 (6b 0x4 0x6 7m) SR: 0
 
 
 
 Balls faced: 6
 Bowler: Greaves
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -62,6 +70,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Jarvis
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -72,6 +81,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Jarvis
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -82,6 +92,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Jarvis
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -92,6 +103,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Jarvis
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -102,15 +114,19 @@ Run scored: 0
 Balls faced: 11
 Bowler: Greaves
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
+Omid Shafi Rahman is OUT! lbw
+lbw b Greaves
+Omid Shafi Rahman lbw b Greaves 0 (6b 0x4 0x6 7m) SR: 0
 
 
 
 Balls faced: 12
 Bowler: Greaves
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0

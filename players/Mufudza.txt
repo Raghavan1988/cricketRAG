@@ -2,46 +2,51 @@ Match: all_games_1412536_1412540.json
 Balls faced: 1
 Bowler: Theekshana
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "toe-ends a full pitched ball to the off side"}]toe-ends a full pitched ball to the off side
+toe-ends a full pitched ball to the off side
 
 
 Balls faced: 2
 Bowler: Theekshana
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Bit of turn away with the batter fishing outside off."}]full ball outside off. Bit of turn away with the batter fishing outside off.
+full ball outside off. Bit of turn away with the batter fishing outside off.
 
 
 Balls faced: 3
 Bowler: Theekshana
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball turning in as he tries to defend. Hits the pad and they appeal for LBW. Given not out. <B>Sri Lanka review</b> but it is clipping the outside of leg stump. Umpire's call on stump impact, so the review is not lost"}]length ball turning in as he tries to defend. Hits the pad and they appeal for LBW. Given not out. <B>Sri Lanka review</b> but it is clipping the outside of leg stump. Umpire's call on stump impact, so the review is not lost
+length ball turning in as he tries to defend. Hits the pad and they appeal for LBW. Given not out. <B>Sri Lanka review</b> but it is clipping the outside of leg stump. Umpire's call on stump impact, so the review is not lost
 
 
 Balls faced: 4
 Bowler: Vandersay
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball outside off. Turning away. Bunted to the off side"}]length ball outside off. Turning away. Bunted to the off side
-[{"type": "HTML", "html": "Naveen: \"This series is a waste of time. Even though Sri Lanka underperformed recently, their track record against strong teams are evident. They should fought against the strong sides. This series will be one sided for sure. Sri Lanka will take all games home. \" -- Zimbabwe have a strong record against SL though"}]Naveen: "This series is a waste of time. Even though Sri Lanka underperformed recently, their track record against strong teams are evident. They should fought against the strong sides. This series will be one sided for sure. Sri Lanka will take all games home. " -- Zimbabwe have a strong record against SL though
+length ball outside off. Turning away. Bunted to the off side
+Naveen: "This series is a waste of time. Even though Sri Lanka underperformed recently, their track record against strong teams are evident. They should fought against the strong sides. This series will be one sided for sure. Sri Lanka will take all games home. " -- Zimbabwe have a strong record against SL though
 
 Balls faced: 5
 Bowler: Vandersay
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -52,86 +57,97 @@ Run scored: 0
 Balls faced: 6
 Bowler: Theekshana
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "toe-ends a full pitched ball to the off side"}]toe-ends a full pitched ball to the off side
+toe-ends a full pitched ball to the off side
 
 
 Balls faced: 7
 Bowler: Theekshana
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball outside off. Bit of turn away with the batter fishing outside off."}]full ball outside off. Bit of turn away with the batter fishing outside off.
+full ball outside off. Bit of turn away with the batter fishing outside off.
 
 
 Balls faced: 8
 Bowler: Theekshana
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball turning in as he tries to defend. Hits the pad and they appeal for LBW. Given not out. <B>Sri Lanka review</b> but it is clipping the outside of leg stump. Umpire's call on stump impact, so the review is not lost"}]length ball turning in as he tries to defend. Hits the pad and they appeal for LBW. Given not out. <B>Sri Lanka review</b> but it is clipping the outside of leg stump. Umpire's call on stump impact, so the review is not lost
+length ball turning in as he tries to defend. Hits the pad and they appeal for LBW. Given not out. <B>Sri Lanka review</b> but it is clipping the outside of leg stump. Umpire's call on stump impact, so the review is not lost
 
 
 Balls faced: 9
 Bowler: Theekshana
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>over and out - Theekshana finishes with four!</b> Classical googly landing full outside off and turning in while Mufudza drives away from his body. Through the gap and the stumps are broken. <B>Sri Lanka need 209 to win</b>"}]<B>over and out - Theekshana finishes with four!</b> Classical googly landing full outside off and turning in while Mufudza drives away from his body. Through the gap and the stumps are broken. <B>Sri Lanka need 209 to win</b>
-[{"type": "HTML", "html": "<hr>"}, {"type": "HTML", "html": "<B>5.52pm</b> That's the fifth four-wicket haul for Theekshana in ODI cricket. The innings has been all Sri Lanka after Zimbabwe chose to bat, troubled only by the visiting captain Sean Ervine. His 82 moved this innings along in the company of Shumba (26) and Burl (31). Vandersay was also terrific on this turning surface, as was Madushanka with the early wicket and Chameera in his return spell."}, {"type": "HTML", "html": "Can Sri Lanka finally take a lead? Will Zimbabwe produce a sterling fightback? Or will rain spoil another second innings? Join Himanshu soon for the chase."}]<hr> <B>5.52pm</b> That's the fifth four-wicket haul for Theekshana in ODI cricket. The innings has been all Sri Lanka after Zimbabwe chose to bat, troubled only by the visiting captain Sean Ervine. His 82 moved this innings along in the company of Shumba (26) and Burl (31). Vandersay was also terrific on this turning surface, as was Madushanka with the early wicket and Chameera in his return spell. Can Sri Lanka finally take a lead? Will Zimbabwe produce a sterling fightback? Or will rain spoil another second innings? Join Himanshu soon for the chase.
+Mufudza is OUT! bowled
+ b Theekshana
+Tapiwa Mufudza b Theekshana 1 (9b 0x4 0x6 7m) SR: 11.11
+<B>over and out - Theekshana finishes with four!</b> Classical googly landing full outside off and turning in while Mufudza drives away from his body. Through the gap and the stumps are broken. <B>Sri Lanka need 209 to win</b>
+<hr> <B>5.52pm</b> That's the fifth four-wicket haul for Theekshana in ODI cricket. The innings has been all Sri Lanka after Zimbabwe chose to bat, troubled only by the visiting captain Sean Ervine. His 82 moved this innings along in the company of Shumba (26) and Burl (31). Vandersay was also terrific on this turning surface, as was Madushanka with the early wicket and Chameera in his return spell. Can Sri Lanka finally take a lead? Will Zimbabwe produce a sterling fightback? Or will rain spoil another second innings? Join Himanshu soon for the chase.
 
 Balls faced: 10
 Bowler: Theekshana
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Bunted to midwicket"}]full ball on off. Bunted to midwicket
-[{"type": "HTML", "html": "Beastmaster: \"This series brings revenue to SL cricket board. That is good enough. plus the strong sides don't want to play us anymore...for the exact same reason. It is a waste of Their time...\""}]Beastmaster: "This series brings revenue to SL cricket board. That is good enough. plus the strong sides don't want to play us anymore...for the exact same reason. It is a waste of Their time..."
+full ball on off. Bunted to midwicket
+Beastmaster: "This series brings revenue to SL cricket board. That is good enough. plus the strong sides don't want to play us anymore...for the exact same reason. It is a waste of Their time..."
 
 Balls faced: 11
 Bowler: Theekshana
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball outside off. Bit of turn in. Mufudza tries to cut but misses"}]good length ball outside off. Bit of turn in. Mufudza tries to cut but misses
+good length ball outside off. Bit of turn in. Mufudza tries to cut but misses
 
 
 Balls faced: 12
 Bowler: Theekshana
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off. Presses forward to fend. Bat-pad"}]length ball on off. Presses forward to fend. Bat-pad
+length ball on off. Presses forward to fend. Bat-pad
 
 
 Balls faced: 13
 Bowler: Vandersay
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball outside off. Turning away. Bunted to the off side"}]length ball outside off. Turning away. Bunted to the off side
-[{"type": "HTML", "html": "Naveen: \"This series is a waste of time. Even though Sri Lanka underperformed recently, their track record against strong teams are evident. They should fought against the strong sides. This series will be one sided for sure. Sri Lanka will take all games home. \" -- Zimbabwe have a strong record against SL though"}]Naveen: "This series is a waste of time. Even though Sri Lanka underperformed recently, their track record against strong teams are evident. They should fought against the strong sides. This series will be one sided for sure. Sri Lanka will take all games home. " -- Zimbabwe have a strong record against SL though
+length ball outside off. Turning away. Bunted to the off side
+Naveen: "This series is a waste of time. Even though Sri Lanka underperformed recently, their track record against strong teams are evident. They should fought against the strong sides. This series will be one sided for sure. Sri Lanka will take all games home. " -- Zimbabwe have a strong record against SL though
 
 Balls faced: 14
 Bowler: Vandersay
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -142,38 +158,44 @@ Run scored: 0
 Balls faced: 15
 Bowler: Theekshana
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>over and out - Theekshana finishes with four!</b> Classical googly landing full outside off and turning in while Mufudza drives away from his body. Through the gap and the stumps are broken. <B>Sri Lanka need 209 to win</b>"}]<B>over and out - Theekshana finishes with four!</b> Classical googly landing full outside off and turning in while Mufudza drives away from his body. Through the gap and the stumps are broken. <B>Sri Lanka need 209 to win</b>
-[{"type": "HTML", "html": "<hr>"}, {"type": "HTML", "html": "<B>5.52pm</b> That's the fifth four-wicket haul for Theekshana in ODI cricket. The innings has been all Sri Lanka after Zimbabwe chose to bat, troubled only by the visiting captain Sean Ervine. His 82 moved this innings along in the company of Shumba (26) and Burl (31). Vandersay was also terrific on this turning surface, as was Madushanka with the early wicket and Chameera in his return spell."}, {"type": "HTML", "html": "Can Sri Lanka finally take a lead? Will Zimbabwe produce a sterling fightback? Or will rain spoil another second innings? Join Himanshu soon for the chase."}]<hr> <B>5.52pm</b> That's the fifth four-wicket haul for Theekshana in ODI cricket. The innings has been all Sri Lanka after Zimbabwe chose to bat, troubled only by the visiting captain Sean Ervine. His 82 moved this innings along in the company of Shumba (26) and Burl (31). Vandersay was also terrific on this turning surface, as was Madushanka with the early wicket and Chameera in his return spell. Can Sri Lanka finally take a lead? Will Zimbabwe produce a sterling fightback? Or will rain spoil another second innings? Join Himanshu soon for the chase.
+Mufudza is OUT! bowled
+ b Theekshana
+Tapiwa Mufudza b Theekshana 1 (9b 0x4 0x6 7m) SR: 11.11
+<B>over and out - Theekshana finishes with four!</b> Classical googly landing full outside off and turning in while Mufudza drives away from his body. Through the gap and the stumps are broken. <B>Sri Lanka need 209 to win</b>
+<hr> <B>5.52pm</b> That's the fifth four-wicket haul for Theekshana in ODI cricket. The innings has been all Sri Lanka after Zimbabwe chose to bat, troubled only by the visiting captain Sean Ervine. His 82 moved this innings along in the company of Shumba (26) and Burl (31). Vandersay was also terrific on this turning surface, as was Madushanka with the early wicket and Chameera in his return spell. Can Sri Lanka finally take a lead? Will Zimbabwe produce a sterling fightback? Or will rain spoil another second innings? Join Himanshu soon for the chase.
 
 Balls faced: 16
 Bowler: Theekshana
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball on off. Bunted to midwicket"}]full ball on off. Bunted to midwicket
-[{"type": "HTML", "html": "Beastmaster: \"This series brings revenue to SL cricket board. That is good enough. plus the strong sides don't want to play us anymore...for the exact same reason. It is a waste of Their time...\""}]Beastmaster: "This series brings revenue to SL cricket board. That is good enough. plus the strong sides don't want to play us anymore...for the exact same reason. It is a waste of Their time..."
+full ball on off. Bunted to midwicket
+Beastmaster: "This series brings revenue to SL cricket board. That is good enough. plus the strong sides don't want to play us anymore...for the exact same reason. It is a waste of Their time..."
 
 Balls faced: 17
 Bowler: Theekshana
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball outside off. Bit of turn in. Mufudza tries to cut but misses"}]good length ball outside off. Bit of turn in. Mufudza tries to cut but misses
+good length ball outside off. Bit of turn in. Mufudza tries to cut but misses
 
 
 Balls faced: 18
 Bowler: Theekshana
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off. Presses forward to fend. Bat-pad"}]length ball on off. Presses forward to fend. Bat-pad
+length ball on off. Presses forward to fend. Bat-pad

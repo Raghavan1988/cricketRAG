@@ -2,81 +2,93 @@ Match: all_games_1411166_1415704.json
 Balls faced: 1
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Swings and misses! Good length just outside off, and Theekshana gets nowhere near it"}]Swings and misses! Good length just outside off, and Theekshana gets nowhere near it
+Swings and misses! Good length just outside off, and Theekshana gets nowhere near it
 
 
 Balls faced: 2
 Bowler: Nortje
 Over: 16
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Well directed yorker, and well kept out by Pathirana as well"}]Well directed yorker, and well kept out by Pathirana as well
+Well directed yorker, and well kept out by Pathirana as well
 
 
 Balls faced: 3
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Swings and misses! Good length just outside off, and Theekshana gets nowhere near it"}]Swings and misses! Good length just outside off, and Theekshana gets nowhere near it
+Swings and misses! Good length just outside off, and Theekshana gets nowhere near it
 
 
 Balls faced: 4
 Bowler: Nortje
 Over: 16
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Well directed yorker, and well kept out by Pathirana as well"}]Well directed yorker, and well kept out by Pathirana as well
+Well directed yorker, and well kept out by Pathirana as well
 
 
 Balls faced: 5
 Bowler: Rabada
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Top edge and taken easily at mid-on!</b> This was full on middle and leg, Pathirana gets a leading edge as he looks to work it onside. Ends up going high but not very far. <B>Sri Lanka are 9 down</b>"}]<B>Top edge and taken easily at mid-on!</b> This was full on middle and leg, Pathirana gets a leading edge as he looks to work it onside. Ends up going high but not very far. <B>Sri Lanka are 9 down</b>
+Pathirana is OUT! caught
+c Markram b Rabada
+Matheesha Pathirana c Markram b Rabada 0 (4b 0x4 0x6 8m) SR: 0
+<B>Top edge and taken easily at mid-on!</b> This was full on middle and leg, Pathirana gets a leading edge as he looks to work it onside. Ends up going high but not very far. <B>Sri Lanka are 9 down</b>
 
 
 Balls faced: 6
 Bowler: Rabada
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Makes room and swings hard. Misses by a wide margin as this bounces over off stump"}]Makes room and swings hard. Misses by a wide margin as this bounces over off stump
+Makes room and swings hard. Misses by a wide margin as this bounces over off stump
 
 
 Balls faced: 7
 Bowler: Rabada
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Top edge and taken easily at mid-on!</b> This was full on middle and leg, Pathirana gets a leading edge as he looks to work it onside. Ends up going high but not very far. <B>Sri Lanka are 9 down</b>"}]<B>Top edge and taken easily at mid-on!</b> This was full on middle and leg, Pathirana gets a leading edge as he looks to work it onside. Ends up going high but not very far. <B>Sri Lanka are 9 down</b>
+Pathirana is OUT! caught
+c Markram b Rabada
+Matheesha Pathirana c Markram b Rabada 0 (4b 0x4 0x6 8m) SR: 0
+<B>Top edge and taken easily at mid-on!</b> This was full on middle and leg, Pathirana gets a leading edge as he looks to work it onside. Ends up going high but not very far. <B>Sri Lanka are 9 down</b>
 
 
 Balls faced: 8
 Bowler: Rabada
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Makes room and swings hard. Misses by a wide margin as this bounces over off stump"}]Makes room and swings hard. Misses by a wide margin as this bounces over off stump
+Makes room and swings hard. Misses by a wide margin as this bounces over off stump
 
 
 
@@ -84,21 +96,23 @@ Match: all_games_1411166_1415715.json
 Balls faced: 1
 Bowler: Mustafizur
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Pathirana the new batter"}]Pathirana the new batter
+Pathirana the new batter
 
-[{"type": "HTML", "html": "Leading edge lands safe. Length ball angled into Pathirana who ends up chipping it to the vacant mid-on region. They don't take the single"}]Leading edge lands safe. Length ball angled into Pathirana who ends up chipping it to the vacant mid-on region. They don't take the single
+Leading edge lands safe. Length ball angled into Pathirana who ends up chipping it to the vacant mid-on region. They don't take the single
 
 
 Balls faced: 2
 Bowler: Mustafizur
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Pathirana the new batter"}]Pathirana the new batter
+Pathirana the new batter
 
-[{"type": "HTML", "html": "Leading edge lands safe. Length ball angled into Pathirana who ends up chipping it to the vacant mid-on region. They don't take the single"}]Leading edge lands safe. Length ball angled into Pathirana who ends up chipping it to the vacant mid-on region. They don't take the single
+Leading edge lands safe. Length ball angled into Pathirana who ends up chipping it to the vacant mid-on region. They don't take the single
 
 
 
@@ -106,78 +120,86 @@ Match: all_games_1416068_1416077.json
 Balls faced: 1
 Bowler: Azmatullah
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Yorker on middle, Pathirana jams his bat down to dig it out towards backward point for a quick single"}]Yorker on middle, Pathirana jams his bat down to dig it out towards backward point for a quick single
+Yorker on middle, Pathirana jams his bat down to dig it out towards backward point for a quick single
 
 
 Balls faced: 2
 Bowler: Azmatullah
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: HOOK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Top edge on the pull takes it past the short fine fielder. A couple of bounces and four! That was dug in short and into Pathirana who was jumping and pulling"}]Top edge on the pull takes it past the short fine fielder. A couple of bounces and four! That was dug in short and into Pathirana who was jumping and pulling
+Top edge on the pull takes it past the short fine fielder. A couple of bounces and four! That was dug in short and into Pathirana who was jumping and pulling
 
 
 Balls faced: 3
 Bowler: Azmatullah
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Backs away to a back of length delivery to try and punch it on the offside, but doesn't connect"}]Backs away to a back of length delivery to try and punch it on the offside, but doesn't connect
+Backs away to a back of length delivery to try and punch it on the offside, but doesn't connect
 
 
 Balls faced: 4
 Bowler: Azmatullah
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
-[{"type": "HTML", "html": "This has been such a great comeback from Afghanistan after that Hasaranga-Samarawickrama stand"}]This has been such a great comeback from Afghanistan after that Hasaranga-Samarawickrama stand
+This has been such a great comeback from Afghanistan after that Hasaranga-Samarawickrama stand
 
-[{"type": "HTML", "html": "Full aorund off, Pathirana digs it out"}]Full aorund off, Pathirana digs it out
+Full aorund off, Pathirana digs it out
 
 
 Balls faced: 5
 Bowler: Azmatullah
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Yorker on middle, Pathirana jams his bat down to dig it out towards backward point for a quick single"}]Yorker on middle, Pathirana jams his bat down to dig it out towards backward point for a quick single
+Yorker on middle, Pathirana jams his bat down to dig it out towards backward point for a quick single
 
 
 Balls faced: 6
 Bowler: Azmatullah
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: HOOK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Top edge on the pull takes it past the short fine fielder. A couple of bounces and four! That was dug in short and into Pathirana who was jumping and pulling"}]Top edge on the pull takes it past the short fine fielder. A couple of bounces and four! That was dug in short and into Pathirana who was jumping and pulling
+Top edge on the pull takes it past the short fine fielder. A couple of bounces and four! That was dug in short and into Pathirana who was jumping and pulling
 
 
 Balls faced: 7
 Bowler: Azmatullah
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Backs away to a back of length delivery to try and punch it on the offside, but doesn't connect"}]Backs away to a back of length delivery to try and punch it on the offside, but doesn't connect
+Backs away to a back of length delivery to try and punch it on the offside, but doesn't connect
 
 
 Balls faced: 8
 Bowler: Azmatullah
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
-[{"type": "HTML", "html": "This has been such a great comeback from Afghanistan after that Hasaranga-Samarawickrama stand"}]This has been such a great comeback from Afghanistan after that Hasaranga-Samarawickrama stand
+This has been such a great comeback from Afghanistan after that Hasaranga-Samarawickrama stand
 
-[{"type": "HTML", "html": "Full aorund off, Pathirana digs it out"}]Full aorund off, Pathirana digs it out
+Full aorund off, Pathirana digs it out

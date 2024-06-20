@@ -2,341 +2,379 @@ Match: all_games_1411166_1415710.json
 Balls faced: 1
 Bowler: Starc
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Inswinger, full on leg, Prajapati digs it out square on the leg side"}]Inswinger, full on leg, Prajapati digs it out square on the leg side
+Inswinger, full on leg, Prajapati digs it out square on the leg side
 
 
 Balls faced: 2
 Bowler: Starc
 Over: 1
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and swinging down leg. Good stop by Wade behind the wicket"}]Full and swinging down leg. Good stop by Wade behind the wicket
+Full and swinging down leg. Good stop by Wade behind the wicket
 
 Wide: 1
 Balls faced: 3
 Bowler: Starc
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "<strong>10.20pm</strong> So, two fifties of differing natures have powered Australia to 164. Can Oman chase this down? The openers - Kashyap Prajapati and Pratik Athavale -  step out. Mitchell Starc - but of course - has the new ball in hand. Ashton Agar, meanwhile, is on as a substitute fielder for Australia."}]<strong>10.20pm</strong> So, two fifties of differing natures have powered Australia to 164. Can Oman chase this down? The openers - Kashyap Prajapati and Pratik Athavale -  step out. Mitchell Starc - but of course - has the new ball in hand. Ashton Agar, meanwhile, is on as a substitute fielder for Australia.
+<strong>10.20pm</strong> So, two fifties of differing natures have powered Australia to 164. Can Oman chase this down? The openers - Kashyap Prajapati and Pratik Athavale -  step out. Mitchell Starc - but of course - has the new ball in hand. Ashton Agar, meanwhile, is on as a substitute fielder for Australia.
 
-[{"type": "HTML", "html": "<b>Gorgeous square drive to begin with!</b> It's full outside off, swinging back in. Prajapati leans into the drive and caresses it through point"}]<b>Gorgeous square drive to begin with!</b> It's full outside off, swinging back in. Prajapati leans into the drive and caresses it through point
+<b>Gorgeous square drive to begin with!</b> It's full outside off, swinging back in. Prajapati leans into the drive and caresses it through point
 
 
 Balls faced: 4
 Bowler: Hazlewood
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball steered fine on the off side for a single"}]Length ball steered fine on the off side for a single
-[{"type": "HTML", "html": "I agree with all of you saying that should have been a rule! This dead ball if given out rule does need another look, with the reviews now in place."}]I agree with all of you saying that should have been a rule! This dead ball if given out rule does need another look, with the reviews now in place.
+Length ball steered fine on the off side for a single
+I agree with all of you saying that should have been a rule! This dead ball if given out rule does need another look, with the reviews now in place.
 
 Balls faced: 5
 Bowler: Hazlewood
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on a fourth stump line and angling into the stumps, he looks to work it leg side and gets an inside edge onto the pads"}]Full on a fourth stump line and angling into the stumps, he looks to work it leg side and gets an inside edge onto the pads
+Full on a fourth stump line and angling into the stumps, he looks to work it leg side and gets an inside edge onto the pads
 
 
 Balls faced: 6
 Bowler: Hazlewood
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball around off, tapped towards backward point. They can't sneak a single"}]Length ball around off, tapped towards backward point. They can't sneak a single
-[{"type": "HTML", "html": "Siddhu: \"I don't get why the batsman has to pay for the umpiring mistake. They should've been given the run.\""}]Siddhu: "I don't get why the batsman has to pay for the umpiring mistake. They should've been given the run."
+Length ball around off, tapped towards backward point. They can't sneak a single
+Siddhu: "I don't get why the batsman has to pay for the umpiring mistake. They should've been given the run."
 
 Balls faced: 7
 Bowler: Hazlewood
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, left alone by Prajapati"}]Length ball outside off, left alone by Prajapati
-[{"type": "HTML", "html": "Kane Cross: \"Classic first over for Starc ... Boundary off the loose first delivery, then a wide, then a wicket! Always a rollercoaster with ball in hand. \""}]Kane Cross: "Classic first over for Starc ... Boundary off the loose first delivery, then a wide, then a wicket! Always a rollercoaster with ball in hand. "
+Length ball outside off, left alone by Prajapati
+Kane Cross: "Classic first over for Starc ... Boundary off the loose first delivery, then a wide, then a wicket! Always a rollercoaster with ball in hand. "
 
 Balls faced: 8
 Bowler: Starc
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Inswinger, full on leg, Prajapati digs it out square on the leg side"}]Inswinger, full on leg, Prajapati digs it out square on the leg side
+Inswinger, full on leg, Prajapati digs it out square on the leg side
 
 
 Balls faced: 9
 Bowler: Starc
 Over: 1
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and swinging down leg. Good stop by Wade behind the wicket"}]Full and swinging down leg. Good stop by Wade behind the wicket
+Full and swinging down leg. Good stop by Wade behind the wicket
 
 Wide: 1
 Balls faced: 10
 Bowler: Starc
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "<strong>10.20pm</strong> So, two fifties of differing natures have powered Australia to 164. Can Oman chase this down? The openers - Kashyap Prajapati and Pratik Athavale -  step out. Mitchell Starc - but of course - has the new ball in hand. Ashton Agar, meanwhile, is on as a substitute fielder for Australia."}]<strong>10.20pm</strong> So, two fifties of differing natures have powered Australia to 164. Can Oman chase this down? The openers - Kashyap Prajapati and Pratik Athavale -  step out. Mitchell Starc - but of course - has the new ball in hand. Ashton Agar, meanwhile, is on as a substitute fielder for Australia.
+<strong>10.20pm</strong> So, two fifties of differing natures have powered Australia to 164. Can Oman chase this down? The openers - Kashyap Prajapati and Pratik Athavale -  step out. Mitchell Starc - but of course - has the new ball in hand. Ashton Agar, meanwhile, is on as a substitute fielder for Australia.
 
-[{"type": "HTML", "html": "<b>Gorgeous square drive to begin with!</b> It's full outside off, swinging back in. Prajapati leans into the drive and caresses it through point"}]<b>Gorgeous square drive to begin with!</b> It's full outside off, swinging back in. Prajapati leans into the drive and caresses it through point
+<b>Gorgeous square drive to begin with!</b> It's full outside off, swinging back in. Prajapati leans into the drive and caresses it through point
 
 
 Balls faced: 11
 Bowler: Starc
 Over: 3
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball around leg, he misses the flick and the ball drops to his left off his pads"}]Length ball around leg, he misses the flick and the ball drops to his left off his pads
+Length ball around leg, he misses the flick and the ball drops to his left off his pads
 
 Legbyes: 1
 Balls faced: 12
 Bowler: Starc
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on middle and off, 135.1kph, defended back to the bowler by Prajapati"}]Full on middle and off, 135.1kph, defended back to the bowler by Prajapati
+Full on middle and off, 135.1kph, defended back to the bowler by Prajapati
 
 
 Balls faced: 13
 Bowler: Hazlewood
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball steered fine on the off side for a single"}]Length ball steered fine on the off side for a single
-[{"type": "HTML", "html": "I agree with all of you saying that should have been a rule! This dead ball if given out rule does need another look, with the reviews now in place."}]I agree with all of you saying that should have been a rule! This dead ball if given out rule does need another look, with the reviews now in place.
+Length ball steered fine on the off side for a single
+I agree with all of you saying that should have been a rule! This dead ball if given out rule does need another look, with the reviews now in place.
 
 Balls faced: 14
 Bowler: Hazlewood
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on a fourth stump line and angling into the stumps, he looks to work it leg side and gets an inside edge onto the pads"}]Full on a fourth stump line and angling into the stumps, he looks to work it leg side and gets an inside edge onto the pads
+Full on a fourth stump line and angling into the stumps, he looks to work it leg side and gets an inside edge onto the pads
 
 
 Balls faced: 15
 Bowler: Hazlewood
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball around off, tapped towards backward point. They can't sneak a single"}]Length ball around off, tapped towards backward point. They can't sneak a single
-[{"type": "HTML", "html": "Siddhu: \"I don't get why the batsman has to pay for the umpiring mistake. They should've been given the run.\""}]Siddhu: "I don't get why the batsman has to pay for the umpiring mistake. They should've been given the run."
+Length ball around off, tapped towards backward point. They can't sneak a single
+Siddhu: "I don't get why the batsman has to pay for the umpiring mistake. They should've been given the run."
 
 Balls faced: 16
 Bowler: Hazlewood
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, left alone by Prajapati"}]Length ball outside off, left alone by Prajapati
-[{"type": "HTML", "html": "Kane Cross: \"Classic first over for Starc ... Boundary off the loose first delivery, then a wide, then a wicket! Always a rollercoaster with ball in hand. \""}]Kane Cross: "Classic first over for Starc ... Boundary off the loose first delivery, then a wide, then a wicket! Always a rollercoaster with ball in hand. "
+Length ball outside off, left alone by Prajapati
+Kane Cross: "Classic first over for Starc ... Boundary off the loose first delivery, then a wide, then a wicket! Always a rollercoaster with ball in hand. "
 
 Balls faced: 17
 Bowler: Hazlewood
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, hint of movement away from the right-hander. Prajapati prods at it but is beaten on the outside edge"}]Length ball outside off, hint of movement away from the right-hander. Prajapati prods at it but is beaten on the outside edge
+Length ball outside off, hint of movement away from the right-hander. Prajapati prods at it but is beaten on the outside edge
 
 
 Balls faced: 18
 Bowler: Hazlewood
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length delivery around off, steered to backward point"}]Length delivery around off, steered to backward point
+Length delivery around off, steered to backward point
 
 
 Balls faced: 19
 Bowler: Hazlewood
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "James: \"Aus and missing easy run-outs...a tale as old as time., and yet they continously make the impossible look possible with some outrageous fielding.\""}]James: "Aus and missing easy run-outs...a tale as old as time., and yet they continously make the impossible look possible with some outrageous fielding."
+James: "Aus and missing easy run-outs...a tale as old as time., and yet they continously make the impossible look possible with some outrageous fielding."
 
-[{"type": "HTML", "html": "Full outside off, Prajapati defends"}]Full outside off, Prajapati defends
-[{"type": "HTML", "html": "Manu Gill: \"A simple solution to this problem should be that umpires should wait for the ball to become dead before giving a decision.\""}]Manu Gill: "A simple solution to this problem should be that umpires should wait for the ball to become dead before giving a decision."
+Full outside off, Prajapati defends
+Manu Gill: "A simple solution to this problem should be that umpires should wait for the ball to become dead before giving a decision."
 
 Balls faced: 20
 Bowler: Hazlewood
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of length delivery angled into Prajapati, hurries him for pace as he looks to hook it fine on the leg side. Gets it to the fine leg region for a single"}]Back of length delivery angled into Prajapati, hurries him for pace as he looks to hook it fine on the leg side. Gets it to the fine leg region for a single
+Back of length delivery angled into Prajapati, hurries him for pace as he looks to hook it fine on the leg side. Gets it to the fine leg region for a single
 
 
 Balls faced: 21
 Bowler: Starc
 Over: 3
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball around leg, he misses the flick and the ball drops to his left off his pads"}]Length ball around leg, he misses the flick and the ball drops to his left off his pads
+Length ball around leg, he misses the flick and the ball drops to his left off his pads
 
 Legbyes: 1
 Balls faced: 22
 Bowler: Starc
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on middle and off, 135.1kph, defended back to the bowler by Prajapati"}]Full on middle and off, 135.1kph, defended back to the bowler by Prajapati
+Full on middle and off, 135.1kph, defended back to the bowler by Prajapati
 
 
 Balls faced: 23
 Bowler: Ellis
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>That looks plumb! And given immediately.</strong> But Oman review. This is on full around middle. Was there an inside edge as Prajapati looked to flick? Nope, no bat, and that's shown to be clipping leg stump, so the decision stands! Prajapati has to go and Australia have the second wicket"}]<strong>That looks plumb! And given immediately.</strong> But Oman review. This is on full around middle. Was there an inside edge as Prajapati looked to flick? Nope, no bat, and that's shown to be clipping leg stump, so the decision stands! Prajapati has to go and Australia have the second wicket
+Prajapati is OUT! lbw
+lbw b Ellis
+Kashyap Prajapati lbw b Ellis 7 (16b 1x4 0x6 27m) SR: 43.75
+<strong>That looks plumb! And given immediately.</strong> But Oman review. This is on full around middle. Was there an inside edge as Prajapati looked to flick? Nope, no bat, and that's shown to be clipping leg stump, so the decision stands! Prajapati has to go and Australia have the second wicket
 
 
 Balls faced: 24
 Bowler: Ellis
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Slower ball, on a length around off, Prajapati taps it in front"}]Slower ball, on a length around off, Prajapati taps it in front
+Slower ball, on a length around off, Prajapati taps it in front
 
 
 Balls faced: 25
 Bowler: Ellis
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in short around off, Prajapati is beaten on the pull"}]Banged in short around off, Prajapati is beaten on the pull
+Banged in short around off, Prajapati is beaten on the pull
 
 
 Balls faced: 26
 Bowler: Ellis
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "140kph length ball bounces sharply and stings Prajapati on the gloves as he looks to fend at it. The ball drops in front to his right and they don't try a risky single"}]140kph length ball bounces sharply and stings Prajapati on the gloves as he looks to fend at it. The ball drops in front to his right and they don't try a risky single
+140kph length ball bounces sharply and stings Prajapati on the gloves as he looks to fend at it. The ball drops in front to his right and they don't try a risky single
 
 
 Balls faced: 27
 Bowler: Hazlewood
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, hint of movement away from the right-hander. Prajapati prods at it but is beaten on the outside edge"}]Length ball outside off, hint of movement away from the right-hander. Prajapati prods at it but is beaten on the outside edge
+Length ball outside off, hint of movement away from the right-hander. Prajapati prods at it but is beaten on the outside edge
 
 
 Balls faced: 28
 Bowler: Hazlewood
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length delivery around off, steered to backward point"}]Length delivery around off, steered to backward point
+Length delivery around off, steered to backward point
 
 
 Balls faced: 29
 Bowler: Hazlewood
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "James: \"Aus and missing easy run-outs...a tale as old as time., and yet they continously make the impossible look possible with some outrageous fielding.\""}]James: "Aus and missing easy run-outs...a tale as old as time., and yet they continously make the impossible look possible with some outrageous fielding."
+James: "Aus and missing easy run-outs...a tale as old as time., and yet they continously make the impossible look possible with some outrageous fielding."
 
-[{"type": "HTML", "html": "Full outside off, Prajapati defends"}]Full outside off, Prajapati defends
-[{"type": "HTML", "html": "Manu Gill: \"A simple solution to this problem should be that umpires should wait for the ball to become dead before giving a decision.\""}]Manu Gill: "A simple solution to this problem should be that umpires should wait for the ball to become dead before giving a decision."
+Full outside off, Prajapati defends
+Manu Gill: "A simple solution to this problem should be that umpires should wait for the ball to become dead before giving a decision."
 
 Balls faced: 30
 Bowler: Hazlewood
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of length delivery angled into Prajapati, hurries him for pace as he looks to hook it fine on the leg side. Gets it to the fine leg region for a single"}]Back of length delivery angled into Prajapati, hurries him for pace as he looks to hook it fine on the leg side. Gets it to the fine leg region for a single
+Back of length delivery angled into Prajapati, hurries him for pace as he looks to hook it fine on the leg side. Gets it to the fine leg region for a single
 
 
 Balls faced: 31
 Bowler: Ellis
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>That looks plumb! And given immediately.</strong> But Oman review. This is on full around middle. Was there an inside edge as Prajapati looked to flick? Nope, no bat, and that's shown to be clipping leg stump, so the decision stands! Prajapati has to go and Australia have the second wicket"}]<strong>That looks plumb! And given immediately.</strong> But Oman review. This is on full around middle. Was there an inside edge as Prajapati looked to flick? Nope, no bat, and that's shown to be clipping leg stump, so the decision stands! Prajapati has to go and Australia have the second wicket
+Prajapati is OUT! lbw
+lbw b Ellis
+Kashyap Prajapati lbw b Ellis 7 (16b 1x4 0x6 27m) SR: 43.75
+<strong>That looks plumb! And given immediately.</strong> But Oman review. This is on full around middle. Was there an inside edge as Prajapati looked to flick? Nope, no bat, and that's shown to be clipping leg stump, so the decision stands! Prajapati has to go and Australia have the second wicket
 
 
 Balls faced: 32
 Bowler: Ellis
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Slower ball, on a length around off, Prajapati taps it in front"}]Slower ball, on a length around off, Prajapati taps it in front
+Slower ball, on a length around off, Prajapati taps it in front
 
 
 Balls faced: 33
 Bowler: Ellis
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in short around off, Prajapati is beaten on the pull"}]Banged in short around off, Prajapati is beaten on the pull
+Banged in short around off, Prajapati is beaten on the pull
 
 
 Balls faced: 34
 Bowler: Ellis
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "140kph length ball bounces sharply and stings Prajapati on the gloves as he looks to fend at it. The ball drops in front to his right and they don't try a risky single"}]140kph length ball bounces sharply and stings Prajapati on the gloves as he looks to fend at it. The ball drops in front to his right and they don't try a risky single
+140kph length ball bounces sharply and stings Prajapati on the gloves as he looks to fend at it. The ball drops in front to his right and they don't try a risky single
 
 
 
@@ -344,321 +382,357 @@ Match: all_games_1411166_1415728.json
 Balls faced: 1
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short enough to pull, but no real timing as midwicket scooches low to gather. Solid start"}]Short enough to pull, but no real timing as midwicket scooches low to gather. Solid start
-[{"type": "HTML", "html": "By the way, this is Reece Topley's first appearance in a T20 World Cup since... <a href=\"https://www.espncricinfo.com/series/world-t20-2015-16-901359/england-vs-south-africa-18th-match-super-10-group-1-951339/full-scorecard\">2016</a>!"}]By the way, this is Reece Topley's first appearance in a T20 World Cup since... <a href="https://www.espncricinfo.com/series/world-t20-2015-16-901359/england-vs-south-africa-18th-match-super-10-group-1-951339/full-scorecard">2016</a>!
+Short enough to pull, but no real timing as midwicket scooches low to gather. Solid start
+By the way, this is Reece Topley's first appearance in a T20 World Cup since... <a href="https://www.espncricinfo.com/series/world-t20-2015-16-901359/england-vs-south-africa-18th-match-super-10-group-1-951339/full-scorecard">2016</a>!
 
 Balls faced: 2
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Straighter, still length, dropped into the leg side"}]Straighter, still length, dropped into the leg side
+Straighter, still length, dropped into the leg side
 
 
 Balls faced: 3
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Not as much movement, good carry thought, defended on the hop towards backward point"}]Not as much movement, good carry thought, defended on the hop towards backward point
+Not as much movement, good carry thought, defended on the hop towards backward point
 
 
 Balls faced: 4
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Quicker, also nipping in but starts on a straighter line and ends up in the hip of Prajapati"}]Quicker, also nipping in but starts on a straighter line and ends up in the hip of Prajapati
+Quicker, also nipping in but starts on a straighter line and ends up in the hip of Prajapati
 
 
 Balls faced: 5
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller, swinging in, played out with bat jammed firmly next to bad by the right-hander"}]Fuller, swinging in, played out with bat jammed firmly next to bad by the right-hander
+Fuller, swinging in, played out with bat jammed firmly next to bad by the right-hander
 
 
 Balls faced: 6
 Bowler: Archer
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullest of the lot, in with the arm, defended into cover point"}]Fullest of the lot, in with the arm, defended into cover point
+Fullest of the lot, in with the arm, defended into cover point
 
 
 Balls faced: 7
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short enough to pull, but no real timing as midwicket scooches low to gather. Solid start"}]Short enough to pull, but no real timing as midwicket scooches low to gather. Solid start
-[{"type": "HTML", "html": "By the way, this is Reece Topley's first appearance in a T20 World Cup since... <a href=\"https://www.espncricinfo.com/series/world-t20-2015-16-901359/england-vs-south-africa-18th-match-super-10-group-1-951339/full-scorecard\">2016</a>!"}]By the way, this is Reece Topley's first appearance in a T20 World Cup since... <a href="https://www.espncricinfo.com/series/world-t20-2015-16-901359/england-vs-south-africa-18th-match-super-10-group-1-951339/full-scorecard">2016</a>!
+Short enough to pull, but no real timing as midwicket scooches low to gather. Solid start
+By the way, this is Reece Topley's first appearance in a T20 World Cup since... <a href="https://www.espncricinfo.com/series/world-t20-2015-16-901359/england-vs-south-africa-18th-match-super-10-group-1-951339/full-scorecard">2016</a>!
 
 Balls faced: 8
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Straighter, still length, dropped into the leg side"}]Straighter, still length, dropped into the leg side
+Straighter, still length, dropped into the leg side
 
 
 Balls faced: 9
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Not as much movement, good carry thought, defended on the hop towards backward point"}]Not as much movement, good carry thought, defended on the hop towards backward point
+Not as much movement, good carry thought, defended on the hop towards backward point
 
 
 Balls faced: 10
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Quicker, also nipping in but starts on a straighter line and ends up in the hip of Prajapati"}]Quicker, also nipping in but starts on a straighter line and ends up in the hip of Prajapati
+Quicker, also nipping in but starts on a straighter line and ends up in the hip of Prajapati
 
 
 Balls faced: 11
 Bowler: Topley
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller, swinging in, played out with bat jammed firmly next to bad by the right-hander"}]Fuller, swinging in, played out with bat jammed firmly next to bad by the right-hander
+Fuller, swinging in, played out with bat jammed firmly next to bad by the right-hander
 
 
 Balls faced: 12
 Bowler: Topley
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Scoop attempt! Prajapati moves across, outside off stump, and tries to get a full ball over the top but ends up nutmegging himself to fine leg, who is up in the circle"}]Scoop attempt! Prajapati moves across, outside off stump, and tries to get a full ball over the top but ends up nutmegging himself to fine leg, who is up in the circle
+Scoop attempt! Prajapati moves across, outside off stump, and tries to get a full ball over the top but ends up nutmegging himself to fine leg, who is up in the circle
 
 
 Balls faced: 13
 Bowler: Archer
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullest of the lot, in with the arm, defended into cover point"}]Fullest of the lot, in with the arm, defended into cover point
+Fullest of the lot, in with the arm, defended into cover point
 
 
 Balls faced: 14
 Bowler: Archer
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another attempted scoop, this one the worst of the lot. The length and line are right, but Prajapati ends up wearing it on the pads, away to fine leg. A muted appeal for LBW but he got well outside the line there"}]Another attempted scoop, this one the worst of the lot. The length and line are right, but Prajapati ends up wearing it on the pads, away to fine leg. A muted appeal for LBW but he got well outside the line there
+Another attempted scoop, this one the worst of the lot. The length and line are right, but Prajapati ends up wearing it on the pads, away to fine leg. A muted appeal for LBW but he got well outside the line there
 
 
 Balls faced: 15
 Bowler: Topley
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Scoop attempt! Prajapati moves across, outside off stump, and tries to get a full ball over the top but ends up nutmegging himself to fine leg, who is up in the circle"}]Scoop attempt! Prajapati moves across, outside off stump, and tries to get a full ball over the top but ends up nutmegging himself to fine leg, who is up in the circle
+Scoop attempt! Prajapati moves across, outside off stump, and tries to get a full ball over the top but ends up nutmegging himself to fine leg, who is up in the circle
 
 
 Balls faced: 16
 Bowler: Topley
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full, straight, dug out"}]Full, straight, dug out
+Full, straight, dug out
 
 
 Balls faced: 17
 Bowler: Topley
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Wowzer!</strong> It's a length delivery going across the right-hander who drives and lets his arms go to lift it high and away for six over backward point! It's a 54m hit that side. Expect to see that in play for the rest of the afternoon..."}]<strong>Wowzer!</strong> It's a length delivery going across the right-hander who drives and lets his arms go to lift it high and away for six over backward point! It's a 54m hit that side. Expect to see that in play for the rest of the afternoon...
+<strong>Wowzer!</strong> It's a length delivery going across the right-hander who drives and lets his arms go to lift it high and away for six over backward point! It's a 54m hit that side. Expect to see that in play for the rest of the afternoon...
 
 
 Balls faced: 18
 Bowler: Topley
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short, doesn't get up all that much, and cut tamely to Jacks"}]Short, doesn't get up all that much, and cut tamely to Jacks
+Short, doesn't get up all that much, and cut tamely to Jacks
 
 
 Balls faced: 19
 Bowler: Topley
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Wide, driven not all that convincingly but beat a weak hand from Jacks and allows two"}]Wide, driven not all that convincingly but beat a weak hand from Jacks and allows two
+Wide, driven not all that convincingly but beat a weak hand from Jacks and allows two
 
 
 Balls faced: 20
 Bowler: Topley
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Topley to bowl his third over"}]Topley to bowl his third over
+Topley to bowl his third over
 
-[{"type": "HTML", "html": "Corker! Full of a length, angling in, nipping away, beyond the right-hander's outside edge"}]Corker! Full of a length, angling in, nipping away, beyond the right-hander's outside edge
+Corker! Full of a length, angling in, nipping away, beyond the right-hander's outside edge
 
 
 Balls faced: 21
 Bowler: Archer
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another attempted scoop, this one the worst of the lot. The length and line are right, but Prajapati ends up wearing it on the pads, away to fine leg. A muted appeal for LBW but he got well outside the line there"}]Another attempted scoop, this one the worst of the lot. The length and line are right, but Prajapati ends up wearing it on the pads, away to fine leg. A muted appeal for LBW but he got well outside the line there
+Another attempted scoop, this one the worst of the lot. The length and line are right, but Prajapati ends up wearing it on the pads, away to fine leg. A muted appeal for LBW but he got well outside the line there
 
 
 Balls faced: 22
 Bowler: Wood
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Too quick!</strong> Length into the batter, Prajpati swishes a pull more in hope than expectation, clothing in the air to Livingstone at midwicket."}]<strong>Too quick!</strong> Length into the batter, Prajpati swishes a pull more in hope than expectation, clothing in the air to Livingstone at midwicket.
+Prajapati is OUT! caught
+c Livingstone b Wood
+Kashyap Prajapati c Livingstone b Wood 9 (16b 0x4 1x6 28m) SR: 56.25
+<strong>Too quick!</strong> Length into the batter, Prajpati swishes a pull more in hope than expectation, clothing in the air to Livingstone at midwicket.
 
 
 Balls faced: 23
 Bowler: Wood
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Angling into the pads, chipped in the air but short of midwicket"}]Angling into the pads, chipped in the air but short of midwicket
+Angling into the pads, chipped in the air but short of midwicket
 
 
 Balls faced: 24
 Bowler: Wood
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Snorter! Sharp - 91mph - leaping off a length, almost taking the glove with it through to Jos Buttler"}]Snorter! Sharp - 91mph - leaping off a length, almost taking the glove with it through to Jos Buttler
+Snorter! Sharp - 91mph - leaping off a length, almost taking the glove with it through to Jos Buttler
 
 
 Balls faced: 25
 Bowler: Topley
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full, straight, dug out"}]Full, straight, dug out
+Full, straight, dug out
 
 
 Balls faced: 26
 Bowler: Topley
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Wowzer!</strong> It's a length delivery going across the right-hander who drives and lets his arms go to lift it high and away for six over backward point! It's a 54m hit that side. Expect to see that in play for the rest of the afternoon..."}]<strong>Wowzer!</strong> It's a length delivery going across the right-hander who drives and lets his arms go to lift it high and away for six over backward point! It's a 54m hit that side. Expect to see that in play for the rest of the afternoon...
+<strong>Wowzer!</strong> It's a length delivery going across the right-hander who drives and lets his arms go to lift it high and away for six over backward point! It's a 54m hit that side. Expect to see that in play for the rest of the afternoon...
 
 
 Balls faced: 27
 Bowler: Topley
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short, doesn't get up all that much, and cut tamely to Jacks"}]Short, doesn't get up all that much, and cut tamely to Jacks
+Short, doesn't get up all that much, and cut tamely to Jacks
 
 
 Balls faced: 28
 Bowler: Topley
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Wide, driven not all that convincingly but beat a weak hand from Jacks and allows two"}]Wide, driven not all that convincingly but beat a weak hand from Jacks and allows two
+Wide, driven not all that convincingly but beat a weak hand from Jacks and allows two
 
 
 Balls faced: 29
 Bowler: Topley
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Topley to bowl his third over"}]Topley to bowl his third over
+Topley to bowl his third over
 
-[{"type": "HTML", "html": "Corker! Full of a length, angling in, nipping away, beyond the right-hander's outside edge"}]Corker! Full of a length, angling in, nipping away, beyond the right-hander's outside edge
+Corker! Full of a length, angling in, nipping away, beyond the right-hander's outside edge
 
 
 Balls faced: 30
 Bowler: Wood
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Too quick!</strong> Length into the batter, Prajpati swishes a pull more in hope than expectation, clothing in the air to Livingstone at midwicket."}]<strong>Too quick!</strong> Length into the batter, Prajpati swishes a pull more in hope than expectation, clothing in the air to Livingstone at midwicket.
+Prajapati is OUT! caught
+c Livingstone b Wood
+Kashyap Prajapati c Livingstone b Wood 9 (16b 0x4 1x6 28m) SR: 56.25
+<strong>Too quick!</strong> Length into the batter, Prajpati swishes a pull more in hope than expectation, clothing in the air to Livingstone at midwicket.
 
 
 Balls faced: 31
 Bowler: Wood
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Angling into the pads, chipped in the air but short of midwicket"}]Angling into the pads, chipped in the air but short of midwicket
+Angling into the pads, chipped in the air but short of midwicket
 
 
 Balls faced: 32
 Bowler: Wood
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Snorter! Sharp - 91mph - leaping off a length, almost taking the glove with it through to Jos Buttler"}]Snorter! Sharp - 91mph - leaping off a length, almost taking the glove with it through to Jos Buttler
+Snorter! Sharp - 91mph - leaping off a length, almost taking the glove with it through to Jos Buttler
 
 
 
@@ -666,6 +740,7 @@ Match: all_games_1434088_1434097.json
 Balls faced: 1
 Bowler: Fazalhaq Farooqi
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -676,6 +751,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Fazalhaq Farooqi
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -686,6 +762,7 @@ Wide: 1
 Balls faced: 3
 Bowler: Fazalhaq Farooqi
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -696,9 +773,10 @@ Run scored: 0
 Balls faced: 4
 Bowler: Fazalhaq Farooqi
 Over: 1
+ 
 Shot: No Shot
 Run scored: 4
-[{"type": "HTML", "html": "Match State: Delay - Rain"}]Match State: Delay - Rain
+Match State: Delay - Rain
 
 
 
@@ -706,6 +784,7 @@ Run scored: 4
 Balls faced: 5
 Bowler: Azmatullah
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -716,6 +795,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Azmatullah
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -726,6 +806,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Fazalhaq Farooqi
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -736,6 +817,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Fazalhaq Farooqi
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -746,6 +828,7 @@ Wide: 1
 Balls faced: 9
 Bowler: Fazalhaq Farooqi
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -756,9 +839,10 @@ Run scored: 0
 Balls faced: 10
 Bowler: Fazalhaq Farooqi
 Over: 1
+ 
 Shot: No Shot
 Run scored: 4
-[{"type": "HTML", "html": "Match State: Delay - Rain"}]Match State: Delay - Rain
+Match State: Delay - Rain
 
 
 
@@ -766,6 +850,7 @@ Run scored: 4
 Balls faced: 11
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -776,6 +861,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -786,6 +872,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -796,6 +883,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -806,6 +894,7 @@ Run scored: 4
 Balls faced: 15
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -816,6 +905,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -826,6 +916,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Azmatullah
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -836,6 +927,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Azmatullah
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -846,6 +938,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Azmatullah
 Over: 4
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -856,6 +949,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Azmatullah
 Over: 4
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -866,6 +960,7 @@ Run scored: 6
 Balls faced: 21
 Bowler: Azmatullah
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -876,6 +971,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -886,6 +982,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -896,6 +993,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -906,6 +1004,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -916,6 +1015,7 @@ Run scored: 4
 Balls faced: 26
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -926,6 +1026,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Naveen-ul-Haq
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -936,6 +1037,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Nangeyalia Kharote
 Over: 5
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -946,6 +1048,7 @@ Run scored: 1
 Balls faced: 29
 Bowler: Nangeyalia Kharote
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -956,6 +1059,7 @@ Run scored: 0
 Balls faced: 30
 Bowler: Nangeyalia Kharote
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -966,6 +1070,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Nangeyalia Kharote
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -976,6 +1081,7 @@ Run scored: 0
 Balls faced: 32
 Bowler: Azmatullah
 Over: 4
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -986,6 +1092,7 @@ Run scored: 1
 Balls faced: 33
 Bowler: Azmatullah
 Over: 4
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -996,6 +1103,7 @@ Run scored: 6
 Balls faced: 34
 Bowler: Azmatullah
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1006,6 +1114,7 @@ Run scored: 0
 Balls faced: 35
 Bowler: Fazalhaq Farooqi
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1016,6 +1125,7 @@ Run scored: 1
 Balls faced: 36
 Bowler: Nangeyalia Kharote
 Over: 5
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1026,6 +1136,7 @@ Run scored: 1
 Balls faced: 37
 Bowler: Nangeyalia Kharote
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1036,6 +1147,7 @@ Run scored: 0
 Balls faced: 38
 Bowler: Nangeyalia Kharote
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1046,6 +1158,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Nangeyalia Kharote
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1056,6 +1169,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: Nangeyalia Kharote
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1066,6 +1180,7 @@ Run scored: 1
 Balls faced: 41
 Bowler: Nangeyalia Kharote
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1076,6 +1191,7 @@ Run scored: 1
 Balls faced: 42
 Bowler: Fazalhaq Farooqi
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1086,6 +1202,7 @@ Run scored: 1
 Balls faced: 43
 Bowler: Fareed Ahmad
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1096,6 +1213,7 @@ Run scored: 1
 Balls faced: 44
 Bowler: Fareed Ahmad
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1106,6 +1224,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: Nangeyalia Kharote
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1116,6 +1235,7 @@ Run scored: 1
 Balls faced: 46
 Bowler: Nangeyalia Kharote
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1126,6 +1246,7 @@ Run scored: 1
 Balls faced: 47
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1136,6 +1257,7 @@ Run scored: 0
 Balls faced: 48
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1146,6 +1268,7 @@ Run scored: 0
 Balls faced: 49
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1156,6 +1279,7 @@ Run scored: 4
 Balls faced: 50
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1166,6 +1290,7 @@ Run scored: 1
 Balls faced: 51
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1176,6 +1301,7 @@ Run scored: 0
 Balls faced: 52
 Bowler: Fareed Ahmad
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1186,6 +1312,7 @@ Run scored: 1
 Balls faced: 53
 Bowler: Fareed Ahmad
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1196,6 +1323,7 @@ Run scored: 0
 Balls faced: 54
 Bowler: Fareed Ahmad
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1206,6 +1334,7 @@ Run scored: 1
 Balls faced: 55
 Bowler: Fareed Ahmad
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1216,6 +1345,7 @@ Run scored: 0
 Balls faced: 56
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1226,6 +1356,7 @@ Run scored: 0
 Balls faced: 57
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1236,6 +1367,7 @@ Run scored: 0
 Balls faced: 58
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1246,6 +1378,7 @@ Run scored: 4
 Balls faced: 59
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1256,6 +1389,7 @@ Run scored: 1
 Balls faced: 60
 Bowler: Rashid Khan
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1266,6 +1400,7 @@ Run scored: 0
 Balls faced: 61
 Bowler: Rashid Khan
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1276,6 +1411,7 @@ Run scored: 1
 Balls faced: 62
 Bowler: Rashid Khan
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1286,6 +1422,7 @@ Run scored: 0
 Balls faced: 63
 Bowler: Rashid Khan
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1296,6 +1433,7 @@ Run scored: 1
 Balls faced: 64
 Bowler: Rashid Khan
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1306,6 +1444,7 @@ Run scored: 0
 Balls faced: 65
 Bowler: Fareed Ahmad
 Over: 10
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1316,6 +1455,7 @@ Run scored: 1
 Balls faced: 66
 Bowler: Fareed Ahmad
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1326,6 +1466,7 @@ Run scored: 0
 Balls faced: 67
 Bowler: M Nabi
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1336,6 +1477,7 @@ Run scored: 1
 Balls faced: 68
 Bowler: M Nabi
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1346,6 +1488,7 @@ Run scored: 1
 Balls faced: 69
 Bowler: Rashid Khan
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1356,6 +1499,7 @@ Run scored: 1
 Balls faced: 70
 Bowler: Rashid Khan
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1366,6 +1510,7 @@ Run scored: 0
 Balls faced: 71
 Bowler: Rashid Khan
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1376,6 +1521,7 @@ Run scored: 1
 Balls faced: 72
 Bowler: Rashid Khan
 Over: 11
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1386,6 +1532,7 @@ Run scored: 0
 Balls faced: 73
 Bowler: Noor Ahmad
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1396,6 +1543,7 @@ Run scored: 1
 Balls faced: 74
 Bowler: M Nabi
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1406,6 +1554,7 @@ Run scored: 1
 Balls faced: 75
 Bowler: M Nabi
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1416,6 +1565,7 @@ Run scored: 1
 Balls faced: 76
 Bowler: M Nabi
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1426,6 +1576,7 @@ Run scored: 1
 Balls faced: 77
 Bowler: Noor Ahmad
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1436,5 +1587,6 @@ Run scored: 1
 Balls faced: 78
 Bowler: M Nabi
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1

@@ -2,21 +2,27 @@ Match: all_games_1411166_1415705.json
 Balls faced: 1
 Bowler: Fazalhaq Farooqi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Mukasa in at 3"}]Mukasa in at 3
-
-[{"type": "HTML", "html": "<strong>huge appeal, and given! Farooqi has two in two!</strong> Devilish in-swinging delivery, bowled very full on middle and leg. Mukasa is all at sea and plays down the wrong line completely. The ball kisses the back pad, and the umpire has no hesitation in raising his finger. Mukasa does not bother with the review, and Uganda are two down!"}]<strong>huge appeal, and given! Farooqi has two in two!</strong> Devilish in-swinging delivery, bowled very full on middle and leg. Mukasa is all at sea and plays down the wrong line completely. The ball kisses the back pad, and the umpire has no hesitation in raising his finger. Mukasa does not bother with the review, and Uganda are two down!
+Mukasa in at 3
+Mukasa is OUT! lbw
+lbw b Fazalhaq Farooqi
+Roger Mukasa lbw b Fazalhaq Farooqi 0 (1b 0x4 0x6 1m) SR: 0
+<strong>huge appeal, and given! Farooqi has two in two!</strong> Devilish in-swinging delivery, bowled very full on middle and leg. Mukasa is all at sea and plays down the wrong line completely. The ball kisses the back pad, and the umpire has no hesitation in raising his finger. Mukasa does not bother with the review, and Uganda are two down!
 
 
 Balls faced: 2
 Bowler: Fazalhaq Farooqi
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Mukasa in at 3"}]Mukasa in at 3
-
-[{"type": "HTML", "html": "<strong>huge appeal, and given! Farooqi has two in two!</strong> Devilish in-swinging delivery, bowled very full on middle and leg. Mukasa is all at sea and plays down the wrong line completely. The ball kisses the back pad, and the umpire has no hesitation in raising his finger. Mukasa does not bother with the review, and Uganda are two down!"}]<strong>huge appeal, and given! Farooqi has two in two!</strong> Devilish in-swinging delivery, bowled very full on middle and leg. Mukasa is all at sea and plays down the wrong line completely. The ball kisses the back pad, and the umpire has no hesitation in raising his finger. Mukasa does not bother with the review, and Uganda are two down!
+Mukasa in at 3
+Mukasa is OUT! lbw
+lbw b Fazalhaq Farooqi
+Roger Mukasa lbw b Fazalhaq Farooqi 0 (1b 0x4 0x6 1m) SR: 0
+<strong>huge appeal, and given! Farooqi has two in two!</strong> Devilish in-swinging delivery, bowled very full on middle and leg. Mukasa is all at sea and plays down the wrong line completely. The ball kisses the back pad, and the umpire has no hesitation in raising his finger. Mukasa does not bother with the review, and Uganda are two down!
 
 
 
@@ -24,38 +30,46 @@ Match: all_games_1411166_1415718.json
 Balls faced: 1
 Bowler: Hosein
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>huge appeal, and Mukasa has three ducks in a row! He cannot buy a run at this T20 World Cup!</strong> Arm-ball, slanting into middle and off. Mukasa, having seen the last ball turn, thinks he can reverse sweep this. Does not account for the ball swerving in and gets rapped right in front. The finger goes up, and Mukasa's horror T20 World Cup continues!"}]<strong>huge appeal, and Mukasa has three ducks in a row! He cannot buy a run at this T20 World Cup!</strong> Arm-ball, slanting into middle and off. Mukasa, having seen the last ball turn, thinks he can reverse sweep this. Does not account for the ball swerving in and gets rapped right in front. The finger goes up, and Mukasa's horror T20 World Cup continues!
+Mukasa is OUT! lbw
+lbw b Hosein
+Roger Mukasa lbw b Hosein 0 (2b 0x4 0x6 1m) SR: 0
+<strong>huge appeal, and Mukasa has three ducks in a row! He cannot buy a run at this T20 World Cup!</strong> Arm-ball, slanting into middle and off. Mukasa, having seen the last ball turn, thinks he can reverse sweep this. Does not account for the ball swerving in and gets rapped right in front. The finger goes up, and Mukasa's horror T20 World Cup continues!
 
 
 Balls faced: 2
 Bowler: Hosein
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "<strong>10:15pm</strong> Right. We are back. Mukasa and Ssesazi will open the batting for Uganda. Mukasa, in particular, could do with a few runs, having registered two ducks in the tournament so far. Hosein will take the new ball for the West Indies. Around the wicket to Mukasa - here we go!"}]<strong>10:15pm</strong> Right. We are back. Mukasa and Ssesazi will open the batting for Uganda. Mukasa, in particular, could do with a few runs, having registered two ducks in the tournament so far. Hosein will take the new ball for the West Indies. Around the wicket to Mukasa - here we go!
+<strong>10:15pm</strong> Right. We are back. Mukasa and Ssesazi will open the batting for Uganda. Mukasa, in particular, could do with a few runs, having registered two ducks in the tournament so far. Hosein will take the new ball for the West Indies. Around the wicket to Mukasa - here we go!
 
-[{"type": "HTML", "html": "<strong>big turn!</strong> Flighted up on a length just outside off. Drifts in before gripping and ripping away past the outside edge"}]<strong>big turn!</strong> Flighted up on a length just outside off. Drifts in before gripping and ripping away past the outside edge
+<strong>big turn!</strong> Flighted up on a length just outside off. Drifts in before gripping and ripping away past the outside edge
 
 
 Balls faced: 3
 Bowler: Hosein
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>huge appeal, and Mukasa has three ducks in a row! He cannot buy a run at this T20 World Cup!</strong> Arm-ball, slanting into middle and off. Mukasa, having seen the last ball turn, thinks he can reverse sweep this. Does not account for the ball swerving in and gets rapped right in front. The finger goes up, and Mukasa's horror T20 World Cup continues!"}]<strong>huge appeal, and Mukasa has three ducks in a row! He cannot buy a run at this T20 World Cup!</strong> Arm-ball, slanting into middle and off. Mukasa, having seen the last ball turn, thinks he can reverse sweep this. Does not account for the ball swerving in and gets rapped right in front. The finger goes up, and Mukasa's horror T20 World Cup continues!
+Mukasa is OUT! lbw
+lbw b Hosein
+Roger Mukasa lbw b Hosein 0 (2b 0x4 0x6 1m) SR: 0
+<strong>huge appeal, and Mukasa has three ducks in a row! He cannot buy a run at this T20 World Cup!</strong> Arm-ball, slanting into middle and off. Mukasa, having seen the last ball turn, thinks he can reverse sweep this. Does not account for the ball swerving in and gets rapped right in front. The finger goes up, and Mukasa's horror T20 World Cup continues!
 
 
 Balls faced: 4
 Bowler: Hosein
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "<strong>10:15pm</strong> Right. We are back. Mukasa and Ssesazi will open the batting for Uganda. Mukasa, in particular, could do with a few runs, having registered two ducks in the tournament so far. Hosein will take the new ball for the West Indies. Around the wicket to Mukasa - here we go!"}]<strong>10:15pm</strong> Right. We are back. Mukasa and Ssesazi will open the batting for Uganda. Mukasa, in particular, could do with a few runs, having registered two ducks in the tournament so far. Hosein will take the new ball for the West Indies. Around the wicket to Mukasa - here we go!
+<strong>10:15pm</strong> Right. We are back. Mukasa and Ssesazi will open the batting for Uganda. Mukasa, in particular, could do with a few runs, having registered two ducks in the tournament so far. Hosein will take the new ball for the West Indies. Around the wicket to Mukasa - here we go!
 
-[{"type": "HTML", "html": "<strong>big turn!</strong> Flighted up on a length just outside off. Drifts in before gripping and ripping away past the outside edge"}]<strong>big turn!</strong> Flighted up on a length just outside off. Drifts in before gripping and ripping away past the outside edge
+<strong>big turn!</strong> Flighted up on a length just outside off. Drifts in before gripping and ripping away past the outside edge
