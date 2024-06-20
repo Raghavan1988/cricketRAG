@@ -74,6 +74,9 @@ if st.button("Go!!"):
     else:
         st.error("Please select a file, enter a prompt, and provide your OpenAI API key.")
 
+
+st.markdown(f"<br>----------------------------------<br><font color=green> Thanks to Cricinfo</font>", unsafe_allow_html=True)
+
 st.markdown("Scraped cricinfo to develop a dataset based on ball by ball commentary of cricinfo of each batsman's last several matches")
 st.markdown("API Link example: https://hs-consumer-api.espncricinfo.com/v1/pages/match/comments?seriesId=1411166&matchId=1415725&inningNumber=2&commentType=ALL&fromInningOver=1")
 st.markdown("GPT does not have information on the latest form of individual players, this might help")
