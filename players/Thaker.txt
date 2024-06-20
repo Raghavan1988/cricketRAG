@@ -1,0 +1,4506 @@
+Match: all_games_1420525_1421070.json
+Balls faced: 1
+Bowler: Greaves
+Over: 39
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Greaves
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Greaves
+Over: 39
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Greaves
+Over: 39
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Watt
+Over: 40
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Watt
+Over: 40
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Watt
+Over: 40
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 8
+Bowler: Greaves
+Over: 39
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Greaves
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Greaves
+Over: 39
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Greaves
+Over: 39
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Greaves
+Over: 41
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+
+
+
+Balls faced: 13
+Bowler: Greaves
+Over: 41
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Greaves
+Over: 41
+Shot: DAB
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Watt
+Over: 40
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Watt
+Over: 40
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Watt
+Over: 40
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 18
+Bowler: Greaves
+Over: 41
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+
+
+
+Balls faced: 19
+Bowler: Greaves
+Over: 41
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Greaves
+Over: 41
+Shot: DAB
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1420525_1421073.json
+Balls faced: 1
+Bowler: Wheal
+Over: 5
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Wheal
+Over: 5
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Wheal
+Over: 5
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Wheal
+Over: 5
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Currie
+Over: 6
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Currie
+Over: 6
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Currie
+Over: 6
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Wheal
+Over: 5
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Wheal
+Over: 5
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Wheal
+Over: 5
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Wheal
+Over: 5
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Wheal
+Over: 7
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: Wheal
+Over: 7
+Shot: FLICK
+Run scored: 4
+
+
+
+
+
+Balls faced: 14
+Bowler: Wheal
+Over: 7
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Wheal
+Over: 7
+Shot: PUSH
+Run scored: 2
+
+
+
+
+
+Balls faced: 16
+Bowler: Currie
+Over: 6
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Currie
+Over: 6
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Currie
+Over: 6
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Currie
+Over: 8
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Currie
+Over: 8
+Shot: STEERED
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Wheal
+Over: 7
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 22
+Bowler: Wheal
+Over: 7
+Shot: FLICK
+Run scored: 4
+
+
+
+
+
+Balls faced: 23
+Bowler: Wheal
+Over: 7
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 24
+Bowler: Wheal
+Over: 7
+Shot: PUSH
+Run scored: 2
+
+
+
+
+
+Balls faced: 25
+Bowler: Wheal
+Over: 9
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Wheal
+Over: 9
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 27
+Bowler: Wheal
+Over: 9
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Wheal
+Over: 9
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 29
+Bowler: Wheal
+Over: 9
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Currie
+Over: 8
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 31
+Bowler: Currie
+Over: 8
+Shot: STEERED
+Run scored: 0
+
+
+
+
+
+Balls faced: 32
+Bowler: Wheal
+Over: 9
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 33
+Bowler: Wheal
+Over: 9
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: Wheal
+Over: 9
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 35
+Bowler: Wheal
+Over: 9
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 36
+Bowler: Wheal
+Over: 9
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 37
+Bowler: Watt
+Over: 11
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 38
+Bowler: Watt
+Over: 11
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 39
+Bowler: Watt
+Over: 11
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 40
+Bowler: Currie
+Over: 12
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 41
+Bowler: Currie
+Over: 12
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 42
+Bowler: Currie
+Over: 12
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 43
+Bowler: Currie
+Over: 12
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 44
+Bowler: Currie
+Over: 12
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 45
+Bowler: Currie
+Over: 12
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 46
+Bowler: Watt
+Over: 11
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 47
+Bowler: Watt
+Over: 11
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 48
+Bowler: Watt
+Over: 11
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 49
+Bowler: Watt
+Over: 13
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 50
+Bowler: Watt
+Over: 13
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 51
+Bowler: Currie
+Over: 12
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 52
+Bowler: Currie
+Over: 12
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 53
+Bowler: Currie
+Over: 12
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 54
+Bowler: Currie
+Over: 12
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 55
+Bowler: Currie
+Over: 12
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 56
+Bowler: Currie
+Over: 12
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 57
+Bowler: Currie
+Over: 14
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 58
+Bowler: Currie
+Over: 14
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 59
+Bowler: Currie
+Over: 14
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 60
+Bowler: Watt
+Over: 13
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 61
+Bowler: Watt
+Over: 13
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 62
+Bowler: Watt
+Over: 15
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 63
+Bowler: Watt
+Over: 15
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 64
+Bowler: Watt
+Over: 15
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 65
+Bowler: Watt
+Over: 15
+Shot: SLOG_SWEEP
+Run scored: 4
+
+
+
+
+
+Balls faced: 66
+Bowler: Currie
+Over: 14
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 67
+Bowler: Currie
+Over: 14
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 68
+Bowler: Currie
+Over: 14
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 69
+Bowler: Currie
+Over: 16
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 70
+Bowler: Currie
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 71
+Bowler: Currie
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 72
+Bowler: Currie
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 73
+Bowler: Currie
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 74
+Bowler: Watt
+Over: 15
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 75
+Bowler: Watt
+Over: 15
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 76
+Bowler: Watt
+Over: 15
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 77
+Bowler: Watt
+Over: 15
+Shot: SLOG_SWEEP
+Run scored: 4
+
+
+
+
+
+Balls faced: 78
+Bowler: Leask
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 79
+Bowler: Leask
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 80
+Bowler: Leask
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 81
+Bowler: Leask
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 82
+Bowler: Leask
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 83
+Bowler: Leask
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 84
+Bowler: Currie
+Over: 16
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 85
+Bowler: Currie
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 86
+Bowler: Currie
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 87
+Bowler: Currie
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 88
+Bowler: Currie
+Over: 16
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 89
+Bowler: Currie
+Over: 18
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 90
+Bowler: Currie
+Over: 18
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 91
+Bowler: Currie
+Over: 18
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 92
+Bowler: Currie
+Over: 18
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 93
+Bowler: Leask
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 94
+Bowler: Leask
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 95
+Bowler: Leask
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 96
+Bowler: Leask
+Over: 17
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 97
+Bowler: Leask
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 98
+Bowler: Leask
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 99
+Bowler: Leask
+Over: 19
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 100
+Bowler: Leask
+Over: 19
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 101
+Bowler: Leask
+Over: 19
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 102
+Bowler: Currie
+Over: 18
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 103
+Bowler: Currie
+Over: 18
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 104
+Bowler: Currie
+Over: 18
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 105
+Bowler: Currie
+Over: 18
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 106
+Bowler: Currie
+Over: 20
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 107
+Bowler: Currie
+Over: 20
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 108
+Bowler: Currie
+Over: 20
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 109
+Bowler: Currie
+Over: 20
+Shot: FLICK
+Run scored: 4
+
+
+
+
+
+Balls faced: 110
+Bowler: Currie
+Over: 20
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 111
+Bowler: Leask
+Over: 19
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 112
+Bowler: Leask
+Over: 19
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 113
+Bowler: Leask
+Over: 19
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 114
+Bowler: Sharif
+Over: 21
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 115
+Bowler: Sharif
+Over: 21
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 116
+Bowler: Currie
+Over: 20
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 117
+Bowler: Currie
+Over: 20
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 118
+Bowler: Currie
+Over: 20
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 119
+Bowler: Currie
+Over: 20
+Shot: FLICK
+Run scored: 4
+
+
+
+
+
+Balls faced: 120
+Bowler: Currie
+Over: 20
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 121
+Bowler: Currie
+Over: 22
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 122
+Bowler: Currie
+Over: 22
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 123
+Bowler: Sharif
+Over: 21
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 124
+Bowler: Sharif
+Over: 21
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 125
+Bowler: Sharif
+Over: 23
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 126
+Bowler: Sharif
+Over: 23
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 127
+Bowler: Sharif
+Over: 23
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 128
+Bowler: Sharif
+Over: 23
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 129
+Bowler: Sharif
+Over: 23
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 130
+Bowler: Sharif
+Over: 23
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 131
+Bowler: Currie
+Over: 22
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 132
+Bowler: Currie
+Over: 22
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 133
+Bowler: Watt
+Over: 24
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 134
+Bowler: Watt
+Over: 24
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 135
+Bowler: Watt
+Over: 24
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 136
+Bowler: Watt
+Over: 24
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 137
+Bowler: Sharif
+Over: 23
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 138
+Bowler: Sharif
+Over: 23
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 139
+Bowler: Sharif
+Over: 23
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 140
+Bowler: Sharif
+Over: 23
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 141
+Bowler: Sharif
+Over: 23
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 142
+Bowler: Sharif
+Over: 23
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 143
+Bowler: Sharif
+Over: 25
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 144
+Bowler: Sharif
+Over: 25
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 145
+Bowler: Sharif
+Over: 25
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 146
+Bowler: Sharif
+Over: 25
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 147
+Bowler: Watt
+Over: 24
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 148
+Bowler: Watt
+Over: 24
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 149
+Bowler: Watt
+Over: 24
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 150
+Bowler: Watt
+Over: 24
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 151
+Bowler: Watt
+Over: 26
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 152
+Bowler: Watt
+Over: 26
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 153
+Bowler: Watt
+Over: 26
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 154
+Bowler: Sharif
+Over: 25
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 155
+Bowler: Sharif
+Over: 25
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 156
+Bowler: Sharif
+Over: 25
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 157
+Bowler: Sharif
+Over: 25
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 158
+Bowler: Wheal
+Over: 27
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 159
+Bowler: Wheal
+Over: 27
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 160
+Bowler: Wheal
+Over: 27
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 161
+Bowler: Wheal
+Over: 27
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 162
+Bowler: Watt
+Over: 26
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 163
+Bowler: Watt
+Over: 26
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 164
+Bowler: Watt
+Over: 26
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 165
+Bowler: Watt
+Over: 28
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 166
+Bowler: Watt
+Over: 28
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 167
+Bowler: Watt
+Over: 28
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 168
+Bowler: Wheal
+Over: 27
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 169
+Bowler: Wheal
+Over: 27
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 170
+Bowler: Wheal
+Over: 27
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 171
+Bowler: Wheal
+Over: 27
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 172
+Bowler: Wheal
+Over: 29
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 173
+Bowler: Wheal
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 174
+Bowler: Wheal
+Over: 29
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 175
+Bowler: Wheal
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 176
+Bowler: Watt
+Over: 28
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 177
+Bowler: Watt
+Over: 28
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 178
+Bowler: Watt
+Over: 28
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 179
+Bowler: Leask
+Over: 30
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 180
+Bowler: Leask
+Over: 30
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 181
+Bowler: Leask
+Over: 30
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 182
+Bowler: Leask
+Over: 30
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 183
+Bowler: Wheal
+Over: 29
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 184
+Bowler: Wheal
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 185
+Bowler: Wheal
+Over: 29
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 186
+Bowler: Wheal
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 187
+Bowler: Sharif
+Over: 31
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 188
+Bowler: Sharif
+Over: 31
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 189
+Bowler: Sharif
+Over: 31
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 190
+Bowler: Sharif
+Over: 31
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 191
+Bowler: Leask
+Over: 30
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 192
+Bowler: Leask
+Over: 30
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 193
+Bowler: Leask
+Over: 30
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 194
+Bowler: Leask
+Over: 30
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 195
+Bowler: Leask
+Over: 32
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 196
+Bowler: Leask
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 197
+Bowler: Leask
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 198
+Bowler: Leask
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 199
+Bowler: Sharif
+Over: 31
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 200
+Bowler: Sharif
+Over: 31
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 201
+Bowler: Sharif
+Over: 31
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 202
+Bowler: Sharif
+Over: 31
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 203
+Bowler: Sharif
+Over: 33
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 204
+Bowler: Sharif
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 205
+Bowler: Leask
+Over: 32
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 206
+Bowler: Leask
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 207
+Bowler: Leask
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 208
+Bowler: Leask
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 209
+Bowler: Leask
+Over: 34
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 210
+Bowler: Leask
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 211
+Bowler: Leask
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 212
+Bowler: Leask
+Over: 34
+Shot: FLICK
+Run scored: 0
+
+
+
+
+Legbyes: 2
+Balls faced: 213
+Bowler: Sharif
+Over: 33
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 214
+Bowler: Sharif
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 215
+Bowler: Sharif
+Over: 35
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 216
+Bowler: Sharif
+Over: 35
+Shot: ON_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 217
+Bowler: Sharif
+Over: 35
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 218
+Bowler: Sharif
+Over: 35
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 219
+Bowler: Leask
+Over: 34
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 220
+Bowler: Leask
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 221
+Bowler: Leask
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 222
+Bowler: Leask
+Over: 34
+Shot: FLICK
+Run scored: 0
+
+
+
+
+Legbyes: 2
+Balls faced: 223
+Bowler: Currie
+Over: 36
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 224
+Bowler: Currie
+Over: 36
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 225
+Bowler: Currie
+Over: 36
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 226
+Bowler: Currie
+Over: 36
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 227
+Bowler: Currie
+Over: 36
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 228
+Bowler: Currie
+Over: 36
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 229
+Bowler: Sharif
+Over: 35
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 230
+Bowler: Sharif
+Over: 35
+Shot: ON_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 231
+Bowler: Sharif
+Over: 35
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 232
+Bowler: Sharif
+Over: 35
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 233
+Bowler: Sharif
+Over: 37
+Shot: STEERED
+Run scored: 3
+
+
+
+
+
+Balls faced: 234
+Bowler: Sharif
+Over: 37
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 235
+Bowler: Sharif
+Over: 37
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 236
+Bowler: Currie
+Over: 36
+Shot: STEERED
+Run scored: 1
+
+
+
+
+
+Balls faced: 237
+Bowler: Currie
+Over: 36
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 238
+Bowler: Currie
+Over: 36
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 239
+Bowler: Currie
+Over: 36
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 240
+Bowler: Currie
+Over: 36
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 241
+Bowler: Currie
+Over: 36
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 242
+Bowler: Currie
+Over: 38
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 243
+Bowler: Sharif
+Over: 37
+Shot: STEERED
+Run scored: 3
+
+
+
+
+
+Balls faced: 244
+Bowler: Sharif
+Over: 37
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 245
+Bowler: Sharif
+Over: 37
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 246
+Bowler: Watt
+Over: 39
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 247
+Bowler: Watt
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 248
+Bowler: Watt
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 249
+Bowler: Watt
+Over: 39
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 250
+Bowler: Watt
+Over: 39
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 251
+Bowler: Currie
+Over: 38
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 252
+Bowler: Currie
+Over: 40
+Shot: DEFENDED
+Run scored: 1
+
+
+
+
+
+Balls faced: 253
+Bowler: Currie
+Over: 40
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 254
+Bowler: Currie
+Over: 40
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 255
+Bowler: Watt
+Over: 39
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 256
+Bowler: Watt
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 257
+Bowler: Watt
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 258
+Bowler: Watt
+Over: 39
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 259
+Bowler: Watt
+Over: 39
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 260
+Bowler: Wheal
+Over: 41
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 261
+Bowler: Wheal
+Over: 41
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 262
+Bowler: Wheal
+Over: 41
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 263
+Bowler: Wheal
+Over: 41
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 264
+Bowler: Currie
+Over: 40
+Shot: DEFENDED
+Run scored: 1
+
+
+
+
+
+Balls faced: 265
+Bowler: Currie
+Over: 40
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 266
+Bowler: Currie
+Over: 40
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 267
+Bowler: Currie
+Over: 42
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 268
+Bowler: Currie
+Over: 42
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 269
+Bowler: Currie
+Over: 42
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 270
+Bowler: Currie
+Over: 42
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 271
+Bowler: Currie
+Over: 42
+Shot: ON_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 272
+Bowler: Currie
+Over: 42
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 273
+Bowler: Wheal
+Over: 41
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 274
+Bowler: Wheal
+Over: 41
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 275
+Bowler: Wheal
+Over: 41
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 276
+Bowler: Wheal
+Over: 41
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 277
+Bowler: Wheal
+Over: 43
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 278
+Bowler: Wheal
+Over: 43
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 279
+Bowler: Wheal
+Over: 43
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 280
+Bowler: Currie
+Over: 42
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 281
+Bowler: Currie
+Over: 42
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 282
+Bowler: Currie
+Over: 42
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 283
+Bowler: Currie
+Over: 42
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 284
+Bowler: Currie
+Over: 42
+Shot: ON_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 285
+Bowler: Currie
+Over: 42
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 286
+Bowler: Watt
+Over: 44
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 287
+Bowler: Watt
+Over: 44
+Shot: CUT_SHOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 288
+Bowler: Watt
+Over: 44
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 289
+Bowler: Wheal
+Over: 43
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 290
+Bowler: Wheal
+Over: 43
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 291
+Bowler: Wheal
+Over: 43
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 292
+Bowler: Leask
+Over: 45
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 293
+Bowler: Leask
+Over: 45
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 294
+Bowler: Watt
+Over: 44
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 295
+Bowler: Watt
+Over: 44
+Shot: CUT_SHOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 296
+Bowler: Watt
+Over: 44
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 297
+Bowler: Watt
+Over: 46
+Shot: PADDLE_SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 298
+Bowler: Watt
+Over: 46
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 299
+Bowler: Leask
+Over: 45
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 300
+Bowler: Leask
+Over: 45
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 301
+Bowler: Watt
+Over: 46
+Shot: PADDLE_SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 302
+Bowler: Watt
+Over: 46
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1425115_1425121.json
+Balls faced: 1
+Bowler: Harmeet Singh
+Over: 8
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Harmeet Singh
+Over: 8
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Jasdeep
+Over: 9
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Jasdeep
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 5
+Bowler: Jasdeep
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Jasdeep
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Harmeet Singh
+Over: 8
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Harmeet Singh
+Over: 8
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Harmeet Singh
+Over: 10
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Harmeet Singh
+Over: 10
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 11
+Bowler: Harmeet Singh
+Over: 10
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Jasdeep
+Over: 9
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: Jasdeep
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 14
+Bowler: Jasdeep
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Jasdeep
+Over: 9
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: van Schalkwyk
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: van Schalkwyk
+Over: 11
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 18
+Bowler: van Schalkwyk
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Harmeet Singh
+Over: 10
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Harmeet Singh
+Over: 10
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 21
+Bowler: Harmeet Singh
+Over: 10
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 22
+Bowler: van Schalkwyk
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: van Schalkwyk
+Over: 11
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 24
+Bowler: van Schalkwyk
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1425115_1425122.json
+Balls faced: 1
+Bowler: Taylor
+Over: 14
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: van Schalkwyk
+Over: 15
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: van Schalkwyk
+Over: 15
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 4
+Bowler: van Schalkwyk
+Over: 15
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Taylor
+Over: 14
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Patel
+Over: 16
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Patel
+Over: 16
+Shot: LEG_GLANCE
+Run scored: 4
+
+
+
+
+
+Balls faced: 8
+Bowler: Patel
+Over: 16
+Shot: COVER_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 9
+Bowler: Patel
+Over: 16
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 10
+Bowler: van Schalkwyk
+Over: 15
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: van Schalkwyk
+Over: 15
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 12
+Bowler: van Schalkwyk
+Over: 15
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Jasdeep
+Over: 17
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: Jasdeep
+Over: 17
+Shot: STRAIGHT_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Patel
+Over: 16
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Patel
+Over: 16
+Shot: LEG_GLANCE
+Run scored: 4
+
+
+
+
+
+Balls faced: 17
+Bowler: Patel
+Over: 16
+Shot: COVER_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 18
+Bowler: Patel
+Over: 16
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 19
+Bowler: Kenjige
+Over: 18
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Kenjige
+Over: 18
+Shot: SLOG_SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 21
+Bowler: Kenjige
+Over: 18
+Shot: CUT_SHOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 22
+Bowler: Jasdeep
+Over: 17
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Jasdeep
+Over: 17
+Shot: STRAIGHT_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: van Schalkwyk
+Over: 19
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 25
+Bowler: van Schalkwyk
+Over: 19
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 26
+Bowler: van Schalkwyk
+Over: 19
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 27
+Bowler: van Schalkwyk
+Over: 19
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 28
+Bowler: Kenjige
+Over: 18
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Kenjige
+Over: 18
+Shot: SLOG_SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: Kenjige
+Over: 18
+Shot: CUT_SHOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 31
+Bowler: van Schalkwyk
+Over: 19
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 32
+Bowler: van Schalkwyk
+Over: 19
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 33
+Bowler: van Schalkwyk
+Over: 19
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: van Schalkwyk
+Over: 19
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+
+
+
+
+Match: all_games_1425115_1425124.json
+Balls faced: 1
+Bowler: Taylor
+Over: 14
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 2
+Bowler: Harmeet Singh
+Over: 15
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Taylor
+Over: 14
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 4
+Bowler: Patel
+Over: 16
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Patel
+Over: 16
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Harmeet Singh
+Over: 15
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: van Schalkwyk
+Over: 17
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: van Schalkwyk
+Over: 17
+Shot: FLICK
+Run scored: 4
+
+
+
+
+
+Balls faced: 9
+Bowler: van Schalkwyk
+Over: 17
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Patel
+Over: 16
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Patel
+Over: 16
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Harmeet Singh
+Over: 18
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Harmeet Singh
+Over: 18
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Harmeet Singh
+Over: 18
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: van Schalkwyk
+Over: 17
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: van Schalkwyk
+Over: 17
+Shot: FLICK
+Run scored: 4
+
+
+
+
+
+Balls faced: 17
+Bowler: van Schalkwyk
+Over: 17
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Jasdeep
+Over: 19
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Harmeet Singh
+Over: 18
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Harmeet Singh
+Over: 18
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Harmeet Singh
+Over: 18
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 22
+Bowler: Jasdeep
+Over: 19
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1425115_1425125.json
+Balls faced: 1
+Bowler: van Schalkwyk
+Over: 7
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: van Schalkwyk
+Over: 7
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Patel
+Over: 8
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Patel
+Over: 8
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: van Schalkwyk
+Over: 7
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: van Schalkwyk
+Over: 7
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Kenjige
+Over: 9
+Shot: ON_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 8
+Bowler: Kenjige
+Over: 9
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Kenjige
+Over: 9
+Shot: FLICK
+Run scored: 0
+
+
+
+
+Byes: 2
+Balls faced: 10
+Bowler: Patel
+Over: 8
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Patel
+Over: 8
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Patel
+Over: 10
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Patel
+Over: 10
+Shot: DAB
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Kenjige
+Over: 9
+Shot: ON_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 15
+Bowler: Kenjige
+Over: 9
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Kenjige
+Over: 9
+Shot: FLICK
+Run scored: 0
+
+
+
+
+Byes: 2
+Balls faced: 17
+Bowler: Netravalkar
+Over: 11
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Patel
+Over: 10
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Patel
+Over: 10
+Shot: DAB
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Usman Rafiq
+Over: 12
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 21
+Bowler: Usman Rafiq
+Over: 12
+Shot: ON_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 22
+Bowler: Usman Rafiq
+Over: 12
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Netravalkar
+Over: 11
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Harmeet Singh
+Over: 13
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 25
+Bowler: Harmeet Singh
+Over: 13
+Shot: ON_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 26
+Bowler: Usman Rafiq
+Over: 12
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 27
+Bowler: Usman Rafiq
+Over: 12
+Shot: ON_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 28
+Bowler: Usman Rafiq
+Over: 12
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Patel
+Over: 14
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: Patel
+Over: 14
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 31
+Bowler: Patel
+Over: 14
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 32
+Bowler: Harmeet Singh
+Over: 13
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 33
+Bowler: Harmeet Singh
+Over: 13
+Shot: ON_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 34
+Bowler: Harmeet Singh
+Over: 15
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 35
+Bowler: Harmeet Singh
+Over: 15
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 36
+Bowler: Patel
+Over: 14
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 37
+Bowler: Patel
+Over: 14
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 38
+Bowler: Patel
+Over: 14
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 39
+Bowler: Patel
+Over: 16
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 40
+Bowler: Patel
+Over: 16
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 41
+Bowler: Harmeet Singh
+Over: 15
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 42
+Bowler: Harmeet Singh
+Over: 15
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 43
+Bowler: van Schalkwyk
+Over: 17
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 44
+Bowler: van Schalkwyk
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 6
+
+
+
+
+
+Balls faced: 45
+Bowler: Patel
+Over: 16
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 46
+Bowler: Patel
+Over: 16
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 47
+Bowler: van Schalkwyk
+Over: 17
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 48
+Bowler: van Schalkwyk
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 6
