@@ -2,7 +2,7 @@
 
 ## Overview
 
-CricRAG is a Streamlit application that leverages OpenAI's GPT-4o to provide detailed ball-by-ball strategies and field placements for cricket batsmen. The application reads player profiles from text files and allows users to input custom prompts to generate tailored strategies. CricGPT also incorporates the latest player information by scraping ball-by-ball commentary from Cricinfo, ensuring up-to-date analyses.
+CricRAG is a Streamlit application that leverages OpenAI's GPT-4o to provide detailed ball-by-ball strategies and field placements for cricket batsmen. Using Cricinfo's API, we have built specific dataset for many batsmen. The application reads recent ball by ball commentary from the dataset text files and allows users to input custom prompts to generate tailored strategies, ensuring up-to-date analyses.
 
 ## Features
 
