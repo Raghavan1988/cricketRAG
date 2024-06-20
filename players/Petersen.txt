@@ -1,1356 +1,2242 @@
-Match: southafrica_1387592_1387603.json
+Match: all_games_1387592_1387603.json
 Balls faced: 1
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-hops right back and defends it gently into the off side.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "hops right back and defends it gently into the off side."}]hops right back and defends it gently into the off side.
+
+
 Balls faced: 2
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-beauty! Plays at this away from the body as the away-swinger beats the outside edge.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "beauty! Plays at this away from the body as the away-swinger beats the outside edge."}]beauty! Plays at this away from the body as the away-swinger beats the outside edge.
+
+
 Balls faced: 3
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-gets outside the line of off to defend, the ball nips back in to hit him high on the thigh pad.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "gets outside the line of off to defend, the ball nips back in to hit him high on the thigh pad."}]gets outside the line of off to defend, the ball nips back in to hit him high on the thigh pad.
+
+
 Balls faced: 4
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: FLICK
-run scored: 2
-straying into the pads and Petersen flicks him up and over to long leg. Rinku, on as 12th man, cuts that off
+Run scored: 2
+
+
+[{"type": "HTML", "html": "straying into the pads and Petersen flicks him up and over to long leg. Rinku, on as 12th man, cuts that off"}]straying into the pads and Petersen flicks him up and over to long leg. Rinku, on as 12th man, cuts that off
+
+
 Balls faced: 5
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-draws him forward with the length, Petersen confidently defends it to the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "draws him forward with the length, Petersen confidently defends it to the off side"}]draws him forward with the length, Petersen confidently defends it to the off side
+
+
 Balls faced: 6
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-squares him up with the length, Petersen takes the bottom hand off the bat grip as he pushes at that. Siraj has overstepped.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "squares him up with the length, Petersen takes the bottom hand off the bat grip as he pushes at that. Siraj has overstepped."}]squares him up with the length, Petersen takes the bottom hand off the bat grip as he pushes at that. Siraj has overstepped.
+
 No Balls: 1
 Balls faced: 7
 Bowler: Bumrah
-Over:31
+Over: 31
 Shot: CUT_SHOT
-run scored: 0
-OUT! {"short": "bowled", "long": " b Bumrah", "commentary": "Keegan Petersen b Bumrah 2 (7b 0x4 0x6 9m) SR: 28.57"}
-<b> chopped on! </b> India have two in two overs and it's that man Bumrah again. This wasn't all that short for Petersen to try and go for a cut, the ball was also angling in so he was denied room, he still went through with the shot and ended up playing on.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b> chopped on! </b> India have two in two overs and it's that man Bumrah again. This wasn't all that short for Petersen to try and go for a cut, the ball was also angling in so he was denied room, he still went through with the shot and ended up playing on."}]<b> chopped on! </b> India have two in two overs and it's that man Bumrah again. This wasn't all that short for Petersen to try and go for a cut, the ball was also angling in so he was denied room, he still went through with the shot and ended up playing on.
+
+
 Balls faced: 8
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-hops right back and defends it gently into the off side.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "hops right back and defends it gently into the off side."}]hops right back and defends it gently into the off side.
+
+
 Balls faced: 9
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-beauty! Plays at this away from the body as the away-swinger beats the outside edge.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "beauty! Plays at this away from the body as the away-swinger beats the outside edge."}]beauty! Plays at this away from the body as the away-swinger beats the outside edge.
+
+
 Balls faced: 10
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-gets outside the line of off to defend, the ball nips back in to hit him high on the thigh pad.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "gets outside the line of off to defend, the ball nips back in to hit him high on the thigh pad."}]gets outside the line of off to defend, the ball nips back in to hit him high on the thigh pad.
+
+
 Balls faced: 11
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: FLICK
-run scored: 2
-straying into the pads and Petersen flicks him up and over to long leg. Rinku, on as 12th man, cuts that off
+Run scored: 2
+
+
+[{"type": "HTML", "html": "straying into the pads and Petersen flicks him up and over to long leg. Rinku, on as 12th man, cuts that off"}]straying into the pads and Petersen flicks him up and over to long leg. Rinku, on as 12th man, cuts that off
+
+
 Balls faced: 12
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-draws him forward with the length, Petersen confidently defends it to the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "draws him forward with the length, Petersen confidently defends it to the off side"}]draws him forward with the length, Petersen confidently defends it to the off side
+
+
 Balls faced: 13
 Bowler: Siraj
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-squares him up with the length, Petersen takes the bottom hand off the bat grip as he pushes at that. Siraj has overstepped.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "squares him up with the length, Petersen takes the bottom hand off the bat grip as he pushes at that. Siraj has overstepped."}]squares him up with the length, Petersen takes the bottom hand off the bat grip as he pushes at that. Siraj has overstepped.
+
 No Balls: 1
 Balls faced: 14
 Bowler: Bumrah
-Over:31
+Over: 31
 Shot: CUT_SHOT
-run scored: 0
-OUT! {"short": "bowled", "long": " b Bumrah", "commentary": "Keegan Petersen b Bumrah 2 (7b 0x4 0x6 9m) SR: 28.57"}
-<b> chopped on! </b> India have two in two overs and it's that man Bumrah again. This wasn't all that short for Petersen to try and go for a cut, the ball was also angling in so he was denied room, he still went through with the shot and ended up playing on.
-Match: southafrica_1388186_1388221.json
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b> chopped on! </b> India have two in two overs and it's that man Bumrah again. This wasn't all that short for Petersen to try and go for a cut, the ball was also angling in so he was denied room, he still went through with the shot and ended up playing on."}]<b> chopped on! </b> India have two in two overs and it's that man Bumrah again. This wasn't all that short for Petersen to try and go for a cut, the ball was also angling in so he was denied room, he still went through with the shot and ended up playing on.
+
+
+
+Match: all_games_1388186_1388221.json
 Balls faced: 1
 Bowler: Santner
-Over:24
+Over: 24
 Shot: COVER_DRIVE
-run scored: 1
-full and wide, off the mark straightaway with a drive wide of cover for one
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full and wide, off the mark straightaway with a drive wide of cover for one"}]full and wide, off the mark straightaway with a drive wide of cover for one
+
+
 Balls faced: 2
 Bowler: Jamieson
-Over:25
+Over: 25
 Shot: PULL
-run scored: 1
-short again, this time he gets on top of the ball to pull it down for one
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short again, this time he gets on top of the ball to pull it down for one"}]short again, this time he gets on top of the ball to pull it down for one
+
+
 Balls faced: 3
 Bowler: Jamieson
-Over:25
+Over: 25
 Shot: LEFT_ALONE
-run scored: 0
-130.9kmh, really good rising short ball from Jamieson and Petersen also does well to sway out of the line just in time
+Run scored: 0
+
+
+[{"type": "HTML", "html": "130.9kmh, really good rising short ball from Jamieson and Petersen also does well to sway out of the line just in time"}]130.9kmh, really good rising short ball from Jamieson and Petersen also does well to sway out of the line just in time
+
+
 Balls faced: 4
 Bowler: Santner
-Over:24
+Over: 24
 Shot: COVER_DRIVE
-run scored: 1
-full and wide, off the mark straightaway with a drive wide of cover for one
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full and wide, off the mark straightaway with a drive wide of cover for one"}]full and wide, off the mark straightaway with a drive wide of cover for one
+
+
 Balls faced: 5
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
-presses forward for the length ball around off and blocks confidently
+Run scored: 0
+
+
+[{"type": "HTML", "html": "presses forward for the length ball around off and blocks confidently"}]presses forward for the length ball around off and blocks confidently
+
+
 Balls faced: 6
 Bowler: Santner
-Over:26
+Over: 26
 Shot: COVER_DRIVE
-run scored: 0
-generously flighted because there's a short cover in place, Petersen still goes for the drive but keeps it down
+Run scored: 0
+
+
+[{"type": "HTML", "html": "generously flighted because there's a short cover in place, Petersen still goes for the drive but keeps it down"}]generously flighted because there's a short cover in place, Petersen still goes for the drive but keeps it down
+
+
 Balls faced: 7
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
-84.7kmh, quicker on the stumps and he defends it back
+Run scored: 0
+
+
+[{"type": "HTML", "html": "84.7kmh, quicker on the stumps and he defends it back"}]84.7kmh, quicker on the stumps and he defends it back
+
+
 Balls faced: 8
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
-slows it down to 79.8kmh on the stumps and Petersen goes back to open up and then play to leg
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slows it down to 79.8kmh on the stumps and Petersen goes back to open up and then play to leg"}]slows it down to 79.8kmh on the stumps and Petersen goes back to open up and then play to leg
+
+
 Balls faced: 9
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
-nicely drifts it in towards off and Petersen blocks
+Run scored: 0
+
+
+[{"type": "HTML", "html": "nicely drifts it in towards off and Petersen blocks"}]nicely drifts it in towards off and Petersen blocks
+
+
 Balls faced: 10
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Ten minutes left in the day"}]Ten minutes left in the day
-92.4kmh, pretty tight on off stump and he dabs it late towards point
+
+[{"type": "HTML", "html": "92.4kmh, pretty tight on off stump and he dabs it late towards point"}]92.4kmh, pretty tight on off stump and he dabs it late towards point
+
+
 Balls faced: 11
 Bowler: Jamieson
-Over:25
+Over: 25
 Shot: PULL
-run scored: 1
-short again, this time he gets on top of the ball to pull it down for one
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short again, this time he gets on top of the ball to pull it down for one"}]short again, this time he gets on top of the ball to pull it down for one
+
+
 Balls faced: 12
 Bowler: Jamieson
-Over:25
+Over: 25
 Shot: LEFT_ALONE
-run scored: 0
-130.9kmh, really good rising short ball from Jamieson and Petersen also does well to sway out of the line just in time
+Run scored: 0
+
+
+[{"type": "HTML", "html": "130.9kmh, really good rising short ball from Jamieson and Petersen also does well to sway out of the line just in time"}]130.9kmh, really good rising short ball from Jamieson and Petersen also does well to sway out of the line just in time
+
+
 Balls faced: 13
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: LEFT_ALONE
-run scored: 0
-ends the over with a bouncer and the batter sways out of the line nicely
+Run scored: 0
+
+
+[{"type": "HTML", "html": "ends the over with a bouncer and the batter sways out of the line nicely"}]ends the over with a bouncer and the batter sways out of the line nicely
+
+
 Balls faced: 14
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: DEFENDED
-run scored: 0
-133kmh, leans forward towards off and defends that nicely towards point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "133kmh, leans forward towards off and defends that nicely towards point"}]133kmh, leans forward towards off and defends that nicely towards point
+
+
 Balls faced: 15
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: DEFENDED
-run scored: 0
-133.3kmh, more on middle and leg now for the lbw but no real movement there and Petersen clips it to mid-on
+Run scored: 0
+
+
+[{"type": "HTML", "html": "133.3kmh, more on middle and leg now for the lbw but no real movement there and Petersen clips it to mid-on"}]133.3kmh, more on middle and leg now for the lbw but no real movement there and Petersen clips it to mid-on
+
+
 Balls faced: 16
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: DEFENDED
-run scored: 0
-134.2kmh, short of length on off and Petersen blocks it down on the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "134.2kmh, short of length on off and Petersen blocks it down on the off side"}]134.2kmh, short of length on off and Petersen blocks it down on the off side
+
+
 Balls faced: 17
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: LEFT_ALONE
-run scored: 0
-135.9kmh, enough width on that one to let it go outside off
+Run scored: 0
+
+
+[{"type": "HTML", "html": "135.9kmh, enough width on that one to let it go outside off"}]135.9kmh, enough width on that one to let it go outside off
+
+
 Balls faced: 18
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
-presses forward for the length ball around off and blocks confidently
+Run scored: 0
+
+
+[{"type": "HTML", "html": "presses forward for the length ball around off and blocks confidently"}]presses forward for the length ball around off and blocks confidently
+
+
 Balls faced: 19
 Bowler: Santner
-Over:26
+Over: 26
 Shot: COVER_DRIVE
-run scored: 0
-generously flighted because there's a short cover in place, Petersen still goes for the drive but keeps it down
+Run scored: 0
+
+
+[{"type": "HTML", "html": "generously flighted because there's a short cover in place, Petersen still goes for the drive but keeps it down"}]generously flighted because there's a short cover in place, Petersen still goes for the drive but keeps it down
+
+
 Balls faced: 20
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
-84.7kmh, quicker on the stumps and he defends it back
+Run scored: 0
+
+
+[{"type": "HTML", "html": "84.7kmh, quicker on the stumps and he defends it back"}]84.7kmh, quicker on the stumps and he defends it back
+
+
 Balls faced: 21
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
-slows it down to 79.8kmh on the stumps and Petersen goes back to open up and then play to leg
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slows it down to 79.8kmh on the stumps and Petersen goes back to open up and then play to leg"}]slows it down to 79.8kmh on the stumps and Petersen goes back to open up and then play to leg
+
+
 Balls faced: 22
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
-nicely drifts it in towards off and Petersen blocks
+Run scored: 0
+
+
+[{"type": "HTML", "html": "nicely drifts it in towards off and Petersen blocks"}]nicely drifts it in towards off and Petersen blocks
+
+
 Balls faced: 23
 Bowler: Santner
-Over:26
+Over: 26
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Ten minutes left in the day"}]Ten minutes left in the day
-92.4kmh, pretty tight on off stump and he dabs it late towards point
+
+[{"type": "HTML", "html": "92.4kmh, pretty tight on off stump and he dabs it late towards point"}]92.4kmh, pretty tight on off stump and he dabs it late towards point
+
+
 Balls faced: 24
 Bowler: Santner
-Over:28
+Over: 28
 Shot: DEFENDED
-run scored: 0
-oh my, goes back dangerously because Santner pulls the length back but Petersen dead-bats it in the end in front of middle
-<b>6.30pm</b> New Zealand dominate the day again and it all started with an epic double-century from Rachin Ravindra who scored 240 the first time he crossed the 100-mark. New Zealand racked up 511 and will be quite happy with the four wickets they took out of the seven that fell in the last session. The South Africa openers started quite well, survived nicely for more than half hour before Jamieson struck twice in an over with the new ball and Henry bounced out a well-set and impressive Edward Moore. It looked like Bedingham and Hamza were going to take them through, the way they were middling those boundaries, but Hamza was bowled in strange fashion and South Africa finish 431 runs behind with only six wickets in hand. They will hope conditions get even better for batting tomorrow, whereas the hosts will hunt for more wickets because they've done half the job of batting big. Ashish Pant and I, Vishal Dikshit, will be back in time again tomorrow while rubbing our eyes so do join us again. And if you've missed today's action, <a href="https://www.espncricinfo.com/series/south-africa-in-new-zealand-2023-24-1388186/new-zealand-vs-south-africa-1st-test-1388221/match-report">Ashish's day report</a> will be up here soon enough. Until tomorrow, it's goodbye and good luck!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "oh my, goes back dangerously because Santner pulls the length back but Petersen dead-bats it in the end in front of middle"}]oh my, goes back dangerously because Santner pulls the length back but Petersen dead-bats it in the end in front of middle
+[{"type": "HTML", "html": "<b>6.30pm</b> New Zealand dominate the day again and it all started with an epic double-century from Rachin Ravindra who scored 240 the first time he crossed the 100-mark. New Zealand racked up 511 and will be quite happy with the four wickets they took out of the seven that fell in the last session. The South Africa openers started quite well, survived nicely for more than half hour before Jamieson struck twice in an over with the new ball and Henry bounced out a well-set and impressive Edward Moore. It looked like Bedingham and Hamza were going to take them through, the way they were middling those boundaries, but Hamza was bowled in strange fashion and South Africa finish 431 runs behind with only six wickets in hand. They will hope conditions get even better for batting tomorrow, whereas the hosts will hunt for more wickets because they've done half the job of batting big. Ashish Pant and I, Vishal Dikshit, will be back in time again tomorrow while rubbing our eyes so do join us again. And if you've missed today's action, <a href=\"https://www.espncricinfo.com/series/south-africa-in-new-zealand-2023-24-1388186/new-zealand-vs-south-africa-1st-test-1388221/match-report\">Ashish's day report</a> will be up here soon enough. Until tomorrow, it's goodbye and good luck!"}]<b>6.30pm</b> New Zealand dominate the day again and it all started with an epic double-century from Rachin Ravindra who scored 240 the first time he crossed the 100-mark. New Zealand racked up 511 and will be quite happy with the four wickets they took out of the seven that fell in the last session. The South Africa openers started quite well, survived nicely for more than half hour before Jamieson struck twice in an over with the new ball and Henry bounced out a well-set and impressive Edward Moore. It looked like Bedingham and Hamza were going to take them through, the way they were middling those boundaries, but Hamza was bowled in strange fashion and South Africa finish 431 runs behind with only six wickets in hand. They will hope conditions get even better for batting tomorrow, whereas the hosts will hunt for more wickets because they've done half the job of batting big. Ashish Pant and I, Vishal Dikshit, will be back in time again tomorrow while rubbing our eyes so do join us again. And if you've missed today's action, <a href="https://www.espncricinfo.com/series/south-africa-in-new-zealand-2023-24-1388186/new-zealand-vs-south-africa-1st-test-1388221/match-report">Ashish's day report</a> will be up here soon enough. Until tomorrow, it's goodbye and good luck!
+
 Balls faced: 25
 Bowler: Santner
-Over:28
+Over: 28
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "A leg slip comes in for Petersen, and a short cover point too"}]A leg slip comes in for Petersen, and a short cover point too
-he presses forward confidently and blocks the ball on off
+
+[{"type": "HTML", "html": "he presses forward confidently and blocks the ball on off"}]he presses forward confidently and blocks the ball on off
+
+
 Balls faced: 26
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: LEFT_ALONE
-run scored: 0
-ends the over with a bouncer and the batter sways out of the line nicely
+Run scored: 0
+
+
+[{"type": "HTML", "html": "ends the over with a bouncer and the batter sways out of the line nicely"}]ends the over with a bouncer and the batter sways out of the line nicely
+
+
 Balls faced: 27
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: DEFENDED
-run scored: 0
-133kmh, leans forward towards off and defends that nicely towards point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "133kmh, leans forward towards off and defends that nicely towards point"}]133kmh, leans forward towards off and defends that nicely towards point
+
+
 Balls faced: 28
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: DEFENDED
-run scored: 0
-133.3kmh, more on middle and leg now for the lbw but no real movement there and Petersen clips it to mid-on
+Run scored: 0
+
+
+[{"type": "HTML", "html": "133.3kmh, more on middle and leg now for the lbw but no real movement there and Petersen clips it to mid-on"}]133.3kmh, more on middle and leg now for the lbw but no real movement there and Petersen clips it to mid-on
+
+
 Balls faced: 29
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: DEFENDED
-run scored: 0
-134.2kmh, short of length on off and Petersen blocks it down on the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "134.2kmh, short of length on off and Petersen blocks it down on the off side"}]134.2kmh, short of length on off and Petersen blocks it down on the off side
+
+
 Balls faced: 30
 Bowler: Jamieson
-Over:27
+Over: 27
 Shot: LEFT_ALONE
-run scored: 0
-135.9kmh, enough width on that one to let it go outside off
+Run scored: 0
+
+
+[{"type": "HTML", "html": "135.9kmh, enough width on that one to let it go outside off"}]135.9kmh, enough width on that one to let it go outside off
+
+
 Balls faced: 31
 Bowler: Santner
-Over:28
+Over: 28
 Shot: DEFENDED
-run scored: 0
-oh my, goes back dangerously because Santner pulls the length back but Petersen dead-bats it in the end in front of middle
-<b>6.30pm</b> New Zealand dominate the day again and it all started with an epic double-century from Rachin Ravindra who scored 240 the first time he crossed the 100-mark. New Zealand racked up 511 and will be quite happy with the four wickets they took out of the seven that fell in the last session. The South Africa openers started quite well, survived nicely for more than half hour before Jamieson struck twice in an over with the new ball and Henry bounced out a well-set and impressive Edward Moore. It looked like Bedingham and Hamza were going to take them through, the way they were middling those boundaries, but Hamza was bowled in strange fashion and South Africa finish 431 runs behind with only six wickets in hand. They will hope conditions get even better for batting tomorrow, whereas the hosts will hunt for more wickets because they've done half the job of batting big. Ashish Pant and I, Vishal Dikshit, will be back in time again tomorrow while rubbing our eyes so do join us again. And if you've missed today's action, <a href="https://www.espncricinfo.com/series/south-africa-in-new-zealand-2023-24-1388186/new-zealand-vs-south-africa-1st-test-1388221/match-report">Ashish's day report</a> will be up here soon enough. Until tomorrow, it's goodbye and good luck!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "oh my, goes back dangerously because Santner pulls the length back but Petersen dead-bats it in the end in front of middle"}]oh my, goes back dangerously because Santner pulls the length back but Petersen dead-bats it in the end in front of middle
+[{"type": "HTML", "html": "<b>6.30pm</b> New Zealand dominate the day again and it all started with an epic double-century from Rachin Ravindra who scored 240 the first time he crossed the 100-mark. New Zealand racked up 511 and will be quite happy with the four wickets they took out of the seven that fell in the last session. The South Africa openers started quite well, survived nicely for more than half hour before Jamieson struck twice in an over with the new ball and Henry bounced out a well-set and impressive Edward Moore. It looked like Bedingham and Hamza were going to take them through, the way they were middling those boundaries, but Hamza was bowled in strange fashion and South Africa finish 431 runs behind with only six wickets in hand. They will hope conditions get even better for batting tomorrow, whereas the hosts will hunt for more wickets because they've done half the job of batting big. Ashish Pant and I, Vishal Dikshit, will be back in time again tomorrow while rubbing our eyes so do join us again. And if you've missed today's action, <a href=\"https://www.espncricinfo.com/series/south-africa-in-new-zealand-2023-24-1388186/new-zealand-vs-south-africa-1st-test-1388221/match-report\">Ashish's day report</a> will be up here soon enough. Until tomorrow, it's goodbye and good luck!"}]<b>6.30pm</b> New Zealand dominate the day again and it all started with an epic double-century from Rachin Ravindra who scored 240 the first time he crossed the 100-mark. New Zealand racked up 511 and will be quite happy with the four wickets they took out of the seven that fell in the last session. The South Africa openers started quite well, survived nicely for more than half hour before Jamieson struck twice in an over with the new ball and Henry bounced out a well-set and impressive Edward Moore. It looked like Bedingham and Hamza were going to take them through, the way they were middling those boundaries, but Hamza was bowled in strange fashion and South Africa finish 431 runs behind with only six wickets in hand. They will hope conditions get even better for batting tomorrow, whereas the hosts will hunt for more wickets because they've done half the job of batting big. Ashish Pant and I, Vishal Dikshit, will be back in time again tomorrow while rubbing our eyes so do join us again. And if you've missed today's action, <a href="https://www.espncricinfo.com/series/south-africa-in-new-zealand-2023-24-1388186/new-zealand-vs-south-africa-1st-test-1388221/match-report">Ashish's day report</a> will be up here soon enough. Until tomorrow, it's goodbye and good luck!
+
 Balls faced: 32
 Bowler: Santner
-Over:28
+Over: 28
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "A leg slip comes in for Petersen, and a short cover point too"}]A leg slip comes in for Petersen, and a short cover point too
-he presses forward confidently and blocks the ball on off
+
+[{"type": "HTML", "html": "he presses forward confidently and blocks the ball on off"}]he presses forward confidently and blocks the ball on off
+
+
 Balls faced: 33
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-ball of the day so far! Good length on off, Petersen has to play at it, and the ball moves away to beat the bat again. Another maiden
-Mustafa: "Both of us backing NZ for the win here. But let's hope these SA youngsters can put up a brave fight."
+Run scored: 0
+
+
+[{"type": "HTML", "html": "ball of the day so far! Good length on off, Petersen has to play at it, and the ball moves away to beat the bat again. Another maiden"}]ball of the day so far! Good length on off, Petersen has to play at it, and the ball moves away to beat the bat again. Another maiden
+[{"type": "HTML", "html": "Mustafa: \"Both of us backing NZ for the win here. But let's hope these SA youngsters can put up a brave fight.\""}]Mustafa: "Both of us backing NZ for the win here. But let's hope these SA youngsters can put up a brave fight."
+
 Balls faced: 34
 Bowler: Henry
-Over:30
+Over: 30
 Shot: COVER_DRIVE
-run scored: 0
-fuller and wider and Petersen drives it nicely to short cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fuller and wider and Petersen drives it nicely to short cover"}]fuller and wider and Petersen drives it nicely to short cover
+
+
 Balls faced: 35
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-more on off and Petersen pushes at it with the outer half of the bat to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "more on off and Petersen pushes at it with the outer half of the bat to point"}]more on off and Petersen pushes at it with the outer half of the bat to point
+
+
 Balls faced: 36
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-beaten with some good outswing! Petersen pushes at it outside off and it shapes away enough from length to nearly take the outside edge
+Run scored: 0
+
+
+[{"type": "HTML", "html": "beaten with some good outswing! Petersen pushes at it outside off and it shapes away enough from length to nearly take the outside edge"}]beaten with some good outswing! Petersen pushes at it outside off and it shapes away enough from length to nearly take the outside edge
+
+
 Balls faced: 37
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-backing of length and shaping away while also rising, he steers it nicely to point while keeping it down
+Run scored: 0
+
+
+[{"type": "HTML", "html": "backing of length and shaping away while also rising, he steers it nicely to point while keeping it down"}]backing of length and shaping away while also rising, he steers it nicely to point while keeping it down
+
+
 Balls faced: 38
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Henry from the other end, not Jamieson. Two slips for him and a cover, not short midwicket which Southee had"}]Henry from the other end, not Jamieson. Two slips for him and a cover, not short midwicket which Southee had
-125.6kmh, not so quick to start with outside off and Petersen pushes to cover point
+
+[{"type": "HTML", "html": "125.6kmh, not so quick to start with outside off and Petersen pushes to cover point"}]125.6kmh, not so quick to start with outside off and Petersen pushes to cover point
+
+
 Balls faced: 39
 Bowler: Southee
-Over:31
+Over: 31
 Shot: LEFT_ALONE
-run scored: 0
-brings this one in a tad outside off to end the over, he shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "brings this one in a tad outside off to end the over, he shoulders arms"}]brings this one in a tad outside off to end the over, he shoulders arms
+
+
 Balls faced: 40
 Bowler: Southee
-Over:31
+Over: 31
 Shot: SQUARE_DRIVE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "\"Stuck in the office on a public holiday here in NZ ... where would I be without cricinfo?? A couple of early poles here would be good, fingers crossed for some Southee magic\" What holiday is it, Jordan?"}]"Stuck in the office on a public holiday here in NZ ... where would I be without cricinfo?? A couple of early poles here would be good, fingers crossed for some Southee magic" What holiday is it, Jordan?
-129kmh, fuller and wider to tempt for the drive a bit more and Petersen goes for the drive on the up but it reaches point after a bounce
+
+[{"type": "HTML", "html": "129kmh, fuller and wider to tempt for the drive a bit more and Petersen goes for the drive on the up but it reaches point after a bounce"}]129kmh, fuller and wider to tempt for the drive a bit more and Petersen goes for the drive on the up but it reaches point after a bounce
+
+
 Balls faced: 41
 Bowler: Southee
-Over:31
+Over: 31
 Shot: LEFT_ALONE
-run scored: 0
-a forward lean for the outswinger outside off and left again
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a forward lean for the outswinger outside off and left again"}]a forward lean for the outswinger outside off and left again
+
+
 Balls faced: 42
 Bowler: Southee
-Over:31
+Over: 31
 Shot: LEFT_ALONE
-run scored: 0
-good swing again for Southee but wide enough to be left alone
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good swing again for Southee but wide enough to be left alone"}]good swing again for Southee but wide enough to be left alone
+
+
 Balls faced: 43
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-ball of the day so far! Good length on off, Petersen has to play at it, and the ball moves away to beat the bat again. Another maiden
-Mustafa: "Both of us backing NZ for the win here. But let's hope these SA youngsters can put up a brave fight."
+Run scored: 0
+
+
+[{"type": "HTML", "html": "ball of the day so far! Good length on off, Petersen has to play at it, and the ball moves away to beat the bat again. Another maiden"}]ball of the day so far! Good length on off, Petersen has to play at it, and the ball moves away to beat the bat again. Another maiden
+[{"type": "HTML", "html": "Mustafa: \"Both of us backing NZ for the win here. But let's hope these SA youngsters can put up a brave fight.\""}]Mustafa: "Both of us backing NZ for the win here. But let's hope these SA youngsters can put up a brave fight."
+
 Balls faced: 44
 Bowler: Henry
-Over:30
+Over: 30
 Shot: COVER_DRIVE
-run scored: 0
-fuller and wider and Petersen drives it nicely to short cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fuller and wider and Petersen drives it nicely to short cover"}]fuller and wider and Petersen drives it nicely to short cover
+
+
 Balls faced: 45
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-more on off and Petersen pushes at it with the outer half of the bat to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "more on off and Petersen pushes at it with the outer half of the bat to point"}]more on off and Petersen pushes at it with the outer half of the bat to point
+
+
 Balls faced: 46
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-beaten with some good outswing! Petersen pushes at it outside off and it shapes away enough from length to nearly take the outside edge
+Run scored: 0
+
+
+[{"type": "HTML", "html": "beaten with some good outswing! Petersen pushes at it outside off and it shapes away enough from length to nearly take the outside edge"}]beaten with some good outswing! Petersen pushes at it outside off and it shapes away enough from length to nearly take the outside edge
+
+
 Balls faced: 47
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
-backing of length and shaping away while also rising, he steers it nicely to point while keeping it down
+Run scored: 0
+
+
+[{"type": "HTML", "html": "backing of length and shaping away while also rising, he steers it nicely to point while keeping it down"}]backing of length and shaping away while also rising, he steers it nicely to point while keeping it down
+
+
 Balls faced: 48
 Bowler: Henry
-Over:30
+Over: 30
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Henry from the other end, not Jamieson. Two slips for him and a cover, not short midwicket which Southee had"}]Henry from the other end, not Jamieson. Two slips for him and a cover, not short midwicket which Southee had
-125.6kmh, not so quick to start with outside off and Petersen pushes to cover point
+
+[{"type": "HTML", "html": "125.6kmh, not so quick to start with outside off and Petersen pushes to cover point"}]125.6kmh, not so quick to start with outside off and Petersen pushes to cover point
+
+
 Balls faced: 49
 Bowler: Henry
-Over:32
+Over: 32
 Shot: DEFENDED
-run scored: 0
-right on target on the stumps and Petersen also blocks it back
+Run scored: 0
+
+
+[{"type": "HTML", "html": "right on target on the stumps and Petersen also blocks it back"}]right on target on the stumps and Petersen also blocks it back
+
+
 Balls faced: 50
 Bowler: Southee
-Over:31
+Over: 31
 Shot: LEFT_ALONE
-run scored: 0
-brings this one in a tad outside off to end the over, he shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "brings this one in a tad outside off to end the over, he shoulders arms"}]brings this one in a tad outside off to end the over, he shoulders arms
+
+
 Balls faced: 51
 Bowler: Southee
-Over:31
+Over: 31
 Shot: SQUARE_DRIVE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "\"Stuck in the office on a public holiday here in NZ ... where would I be without cricinfo?? A couple of early poles here would be good, fingers crossed for some Southee magic\" What holiday is it, Jordan?"}]"Stuck in the office on a public holiday here in NZ ... where would I be without cricinfo?? A couple of early poles here would be good, fingers crossed for some Southee magic" What holiday is it, Jordan?
-129kmh, fuller and wider to tempt for the drive a bit more and Petersen goes for the drive on the up but it reaches point after a bounce
+
+[{"type": "HTML", "html": "129kmh, fuller and wider to tempt for the drive a bit more and Petersen goes for the drive on the up but it reaches point after a bounce"}]129kmh, fuller and wider to tempt for the drive a bit more and Petersen goes for the drive on the up but it reaches point after a bounce
+
+
 Balls faced: 52
 Bowler: Southee
-Over:31
+Over: 31
 Shot: LEFT_ALONE
-run scored: 0
-a forward lean for the outswinger outside off and left again
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a forward lean for the outswinger outside off and left again"}]a forward lean for the outswinger outside off and left again
+
+
 Balls faced: 53
 Bowler: Southee
-Over:31
+Over: 31
 Shot: LEFT_ALONE
-run scored: 0
-good swing again for Southee but wide enough to be left alone
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good swing again for Southee but wide enough to be left alone"}]good swing again for Southee but wide enough to be left alone
+
+
 Balls faced: 54
 Bowler: Southee
-Over:33
+Over: 33
 Shot: DEFENDED
-run scored: 0
-more towards off stump and Petersen blocks to end the over
-28 balls now since Petersen scored a run
+Run scored: 0
+
+
+[{"type": "HTML", "html": "more towards off stump and Petersen blocks to end the over"}]more towards off stump and Petersen blocks to end the over
+[{"type": "HTML", "html": "28 balls now since Petersen scored a run"}]28 balls now since Petersen scored a run
+
 Balls faced: 55
 Bowler: Southee
-Over:33
+Over: 33
 Shot: LEFT_ALONE
-run scored: 0
-shaping away just a tad outside off and Petersen shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shaping away just a tad outside off and Petersen shoulders arms"}]shaping away just a tad outside off and Petersen shoulders arms
+
+
 Balls faced: 56
 Bowler: Southee
-Over:33
+Over: 33
 Shot: STEERED
-run scored: 0
-a thick edge from Petersen this time as he defends outside off. He doesn't push at it, so not hard hands and the ball doesn't carry at all
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a thick edge from Petersen this time as he defends outside off. He doesn't push at it, so not hard hands and the ball doesn't carry at all"}]a thick edge from Petersen this time as he defends outside off. He doesn't push at it, so not hard hands and the ball doesn't carry at all
+
+
 Balls faced: 57
 Bowler: Southee
-Over:33
+Over: 33
 Shot: LEFT_ALONE
-run scored: 0
-slightly shorter and wider, going away too and Petersen lets it go
-Joel: "Waitangi Day, in commemoration of the signing of the founding document of Aotearoa/New Zealand on this day in 1840." Donald Alexande: "Waitangi Day is the public holiday "
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slightly shorter and wider, going away too and Petersen lets it go"}]slightly shorter and wider, going away too and Petersen lets it go
+[{"type": "HTML", "html": "Joel: \"Waitangi Day, in commemoration of the signing of the founding document of Aotearoa/New Zealand on this day in 1840.\""}, {"type": "HTML", "html": "Donald Alexande: \"Waitangi Day is the public holiday \""}]Joel: "Waitangi Day, in commemoration of the signing of the founding document of Aotearoa/New Zealand on this day in 1840." Donald Alexande: "Waitangi Day is the public holiday "
+
 Balls faced: 58
 Bowler: Henry
-Over:32
+Over: 32
 Shot: DEFENDED
-run scored: 0
-right on target on the stumps and Petersen also blocks it back
+Run scored: 0
+
+
+[{"type": "HTML", "html": "right on target on the stumps and Petersen also blocks it back"}]right on target on the stumps and Petersen also blocks it back
+
+
 Balls faced: 59
 Bowler: Southee
-Over:33
+Over: 33
 Shot: DEFENDED
-run scored: 0
-more towards off stump and Petersen blocks to end the over
-28 balls now since Petersen scored a run
+Run scored: 0
+
+
+[{"type": "HTML", "html": "more towards off stump and Petersen blocks to end the over"}]more towards off stump and Petersen blocks to end the over
+[{"type": "HTML", "html": "28 balls now since Petersen scored a run"}]28 balls now since Petersen scored a run
+
 Balls faced: 60
 Bowler: Southee
-Over:33
+Over: 33
 Shot: LEFT_ALONE
-run scored: 0
-shaping away just a tad outside off and Petersen shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shaping away just a tad outside off and Petersen shoulders arms"}]shaping away just a tad outside off and Petersen shoulders arms
+
+
 Balls faced: 61
 Bowler: Southee
-Over:33
+Over: 33
 Shot: STEERED
-run scored: 0
-a thick edge from Petersen this time as he defends outside off. He doesn't push at it, so not hard hands and the ball doesn't carry at all
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a thick edge from Petersen this time as he defends outside off. He doesn't push at it, so not hard hands and the ball doesn't carry at all"}]a thick edge from Petersen this time as he defends outside off. He doesn't push at it, so not hard hands and the ball doesn't carry at all
+
+
 Balls faced: 62
 Bowler: Southee
-Over:33
+Over: 33
 Shot: LEFT_ALONE
-run scored: 0
-slightly shorter and wider, going away too and Petersen lets it go
-Joel: "Waitangi Day, in commemoration of the signing of the founding document of Aotearoa/New Zealand on this day in 1840." Donald Alexande: "Waitangi Day is the public holiday "
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slightly shorter and wider, going away too and Petersen lets it go"}]slightly shorter and wider, going away too and Petersen lets it go
+[{"type": "HTML", "html": "Joel: \"Waitangi Day, in commemoration of the signing of the founding document of Aotearoa/New Zealand on this day in 1840.\""}, {"type": "HTML", "html": "Donald Alexande: \"Waitangi Day is the public holiday \""}]Joel: "Waitangi Day, in commemoration of the signing of the founding document of Aotearoa/New Zealand on this day in 1840." Donald Alexande: "Waitangi Day is the public holiday "
+
 Balls faced: 63
 Bowler: Jamieson
-Over:35
+Over: 35
 Shot: PULL
-run scored: 1
-Petersen gets his first runs after 31 balls by pulling a short ball to long leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Petersen gets his first runs after 31 balls by pulling a short ball to long leg"}]Petersen gets his first runs after 31 balls by pulling a short ball to long leg
+
+
 Balls faced: 64
 Bowler: Jamieson
-Over:35
+Over: 35
 Shot: DEFENDED
-run scored: 0
-wider outside off and Petersen pokes at it dangerously to defend to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "wider outside off and Petersen pokes at it dangerously to defend to point"}]wider outside off and Petersen pokes at it dangerously to defend to point
+
+
 Balls faced: 65
 Bowler: Jamieson
-Over:35
+Over: 35
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Jamieson from the other end with two slips. He had 2 for 21 yesterday"}]Jamieson from the other end with two slips. He had 2 for 21 yesterday
-length ball on off stump and Petersen blocks it back. Oops, that's a no-ball for overstepping
+
+[{"type": "HTML", "html": "length ball on off stump and Petersen blocks it back. Oops, that's a no-ball for overstepping"}]length ball on off stump and Petersen blocks it back. Oops, that's a no-ball for overstepping
+
 No Balls: 1
 Balls faced: 66
 Bowler: Henry
-Over:36
+Over: 36
 Shot: COVER_DRIVE
-run scored: 4
-128.9kmh short outside off and not so quick, Petersen gets on top of that nicely to punch it away past a diving cover point for his first four of the day
-Iain Charles-Jo: "Wow that felt like a tough decision - shocked that it was going on to hit.Of course I want NZ to roll SA, but not with marginal calls."
+Run scored: 4
+
+
+[{"type": "HTML", "html": "128.9kmh short outside off and not so quick, Petersen gets on top of that nicely to punch it away past a diving cover point for his first four of the day"}]128.9kmh short outside off and not so quick, Petersen gets on top of that nicely to punch it away past a diving cover point for his first four of the day
+[{"type": "HTML", "html": "Iain Charles-Jo: \"Wow that felt like a tough decision - shocked that it was going on to hit.Of course I want NZ to roll SA, but not with marginal calls.\""}]Iain Charles-Jo: "Wow that felt like a tough decision - shocked that it was going on to hit.Of course I want NZ to roll SA, but not with marginal calls."
+
 Balls faced: 67
 Bowler: Henry
-Over:36
+Over: 36
 Shot: LEFT_ALONE
-run scored: 0
-short of length outside off and it's left alone
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short of length outside off and it's left alone"}]short of length outside off and it's left alone
+
+
 Balls faced: 68
 Bowler: Henry
-Over:36
+Over: 36
 Shot: DEFENDED
-run scored: 0
-131.4kmh, pretty tight outside off and it's blocked on the front foot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "131.4kmh, pretty tight outside off and it's blocked on the front foot"}]131.4kmh, pretty tight outside off and it's blocked on the front foot
+
+
 Balls faced: 69
 Bowler: Henry
-Over:36
+Over: 36
 Shot: STEERED
-run scored: 2
-126.7kmh, keeps a bit low and Petersen gets a thick outside edge rolling away past second slip for two
-Alex: "The element never considered in ball tracking - would the ball have dislodged the bails?" Fair point
+Run scored: 2
+
+
+[{"type": "HTML", "html": "126.7kmh, keeps a bit low and Petersen gets a thick outside edge rolling away past second slip for two"}]126.7kmh, keeps a bit low and Petersen gets a thick outside edge rolling away past second slip for two
+[{"type": "HTML", "html": "Alex: \"The element never considered in ball tracking - would the ball have dislodged the bails?\" Fair point"}]Alex: "The element never considered in ball tracking - would the ball have dislodged the bails?" Fair point
+
 Balls faced: 70
 Bowler: Henry
-Over:36
+Over: 36
 Shot: STEERED
-run scored: 0
-on sixth stump line outside off and Petersen pokes to steer it to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on sixth stump line outside off and Petersen pokes to steer it to point"}]on sixth stump line outside off and Petersen pokes to steer it to point
+
+
 Balls faced: 71
 Bowler: Henry
-Over:36
+Over: 36
 Shot: ON_DRIVE
-run scored: 0
-low full toss to start with and Petersen drives it down
+Run scored: 0
+
+
+[{"type": "HTML", "html": "low full toss to start with and Petersen drives it down"}]low full toss to start with and Petersen drives it down
+
+
 Balls faced: 72
 Bowler: Jamieson
-Over:35
+Over: 35
 Shot: PULL
-run scored: 1
-Petersen gets his first runs after 31 balls by pulling a short ball to long leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Petersen gets his first runs after 31 balls by pulling a short ball to long leg"}]Petersen gets his first runs after 31 balls by pulling a short ball to long leg
+
+
 Balls faced: 73
 Bowler: Jamieson
-Over:35
+Over: 35
 Shot: DEFENDED
-run scored: 0
-wider outside off and Petersen pokes at it dangerously to defend to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "wider outside off and Petersen pokes at it dangerously to defend to point"}]wider outside off and Petersen pokes at it dangerously to defend to point
+
+
 Balls faced: 74
 Bowler: Jamieson
-Over:35
+Over: 35
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Jamieson from the other end with two slips. He had 2 for 21 yesterday"}]Jamieson from the other end with two slips. He had 2 for 21 yesterday
-length ball on off stump and Petersen blocks it back. Oops, that's a no-ball for overstepping
+
+[{"type": "HTML", "html": "length ball on off stump and Petersen blocks it back. Oops, that's a no-ball for overstepping"}]length ball on off stump and Petersen blocks it back. Oops, that's a no-ball for overstepping
+
 No Balls: 1
 Balls faced: 75
 Bowler: Henry
-Over:36
+Over: 36
 Shot: COVER_DRIVE
-run scored: 4
-128.9kmh short outside off and not so quick, Petersen gets on top of that nicely to punch it away past a diving cover point for his first four of the day
-Iain Charles-Jo: "Wow that felt like a tough decision - shocked that it was going on to hit.Of course I want NZ to roll SA, but not with marginal calls."
+Run scored: 4
+
+
+[{"type": "HTML", "html": "128.9kmh short outside off and not so quick, Petersen gets on top of that nicely to punch it away past a diving cover point for his first four of the day"}]128.9kmh short outside off and not so quick, Petersen gets on top of that nicely to punch it away past a diving cover point for his first four of the day
+[{"type": "HTML", "html": "Iain Charles-Jo: \"Wow that felt like a tough decision - shocked that it was going on to hit.Of course I want NZ to roll SA, but not with marginal calls.\""}]Iain Charles-Jo: "Wow that felt like a tough decision - shocked that it was going on to hit.Of course I want NZ to roll SA, but not with marginal calls."
+
 Balls faced: 76
 Bowler: Henry
-Over:36
+Over: 36
 Shot: LEFT_ALONE
-run scored: 0
-short of length outside off and it's left alone
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short of length outside off and it's left alone"}]short of length outside off and it's left alone
+
+
 Balls faced: 77
 Bowler: Henry
-Over:36
+Over: 36
 Shot: DEFENDED
-run scored: 0
-131.4kmh, pretty tight outside off and it's blocked on the front foot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "131.4kmh, pretty tight outside off and it's blocked on the front foot"}]131.4kmh, pretty tight outside off and it's blocked on the front foot
+
+
 Balls faced: 78
 Bowler: Henry
-Over:36
+Over: 36
 Shot: STEERED
-run scored: 2
-126.7kmh, keeps a bit low and Petersen gets a thick outside edge rolling away past second slip for two
-Alex: "The element never considered in ball tracking - would the ball have dislodged the bails?" Fair point
+Run scored: 2
+
+
+[{"type": "HTML", "html": "126.7kmh, keeps a bit low and Petersen gets a thick outside edge rolling away past second slip for two"}]126.7kmh, keeps a bit low and Petersen gets a thick outside edge rolling away past second slip for two
+[{"type": "HTML", "html": "Alex: \"The element never considered in ball tracking - would the ball have dislodged the bails?\" Fair point"}]Alex: "The element never considered in ball tracking - would the ball have dislodged the bails?" Fair point
+
 Balls faced: 79
 Bowler: Henry
-Over:36
+Over: 36
 Shot: STEERED
-run scored: 0
-on sixth stump line outside off and Petersen pokes to steer it to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on sixth stump line outside off and Petersen pokes to steer it to point"}]on sixth stump line outside off and Petersen pokes to steer it to point
+
+
 Balls faced: 80
 Bowler: Henry
-Over:36
+Over: 36
 Shot: ON_DRIVE
-run scored: 0
-low full toss to start with and Petersen drives it down
+Run scored: 0
+
+
+[{"type": "HTML", "html": "low full toss to start with and Petersen drives it down"}]low full toss to start with and Petersen drives it down
+
+
 Balls faced: 81
 Bowler: Southee
-Over:38
+Over: 38
 Shot: DEFENDED
-run scored: 0
-129.3kmh, targets the stumps to end the over and Petersen defends it to midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "129.3kmh, targets the stumps to end the over and Petersen defends it to midwicket"}]129.3kmh, targets the stumps to end the over and Petersen defends it to midwicket
+
+
 Balls faced: 82
 Bowler: Southee
-Over:38
+Over: 38
 Shot: LEFT_ALONE
-run scored: 0
-another outswinger outside off and he shoulders arms again
+Run scored: 0
+
+
+[{"type": "HTML", "html": "another outswinger outside off and he shoulders arms again"}]another outswinger outside off and he shoulders arms again
+
+
 Balls faced: 83
 Bowler: Southee
-Over:38
+Over: 38
 Shot: LEFT_ALONE
-run scored: 0
-length delivery outside off with some shape and left alone
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length delivery outside off with some shape and left alone"}]length delivery outside off with some shape and left alone
+
+
 Balls faced: 84
 Bowler: Southee
-Over:38
+Over: 38
 Shot: STEERED
-run scored: 2
-some width outside off and he steers it past gully by keeping it down for two
-Richard A: "I'm not saying drs was wrong - DRS is what it is, I'm saying de Swardt was unlucky. Not many people get given out from a ball that hits him on the fifth stump line outside off. de Swardt's wasn't a terrible leave, but everything conspired against him. Back in 94, in Fanie de Villiers' game at the SCG, Alan Border shouldered-arms to Donald and got bowled from a mile outside off -- he was unlucky too. " I understand it may not have been a bad leave today but if it's out and not a howler because not enough to evidence to say it was not out, I don't think it's unlucky because it might have hit the stumps
+Run scored: 2
+
+
+[{"type": "HTML", "html": "some width outside off and he steers it past gully by keeping it down for two"}]some width outside off and he steers it past gully by keeping it down for two
+[{"type": "HTML", "html": "Richard A: \"I'm not saying drs was wrong - DRS is what it is, I'm saying de Swardt was unlucky. Not many people get given out from a ball that hits him on the fifth stump line outside off. de Swardt's wasn't a terrible leave, but everything conspired against him. Back in 94, in Fanie de Villiers' game at the SCG, Alan Border shouldered-arms to Donald and got bowled from a mile outside off -- he was unlucky too. \" I understand it may not have been a bad leave today but if it's out and not a howler because not enough to evidence to say it was not out, I don't think it's unlucky because it might have hit the stumps"}]Richard A: "I'm not saying drs was wrong - DRS is what it is, I'm saying de Swardt was unlucky. Not many people get given out from a ball that hits him on the fifth stump line outside off. de Swardt's wasn't a terrible leave, but everything conspired against him. Back in 94, in Fanie de Villiers' game at the SCG, Alan Border shouldered-arms to Donald and got bowled from a mile outside off -- he was unlucky too. " I understand it may not have been a bad leave today but if it's out and not a howler because not enough to evidence to say it was not out, I don't think it's unlucky because it might have hit the stumps
+
 Balls faced: 85
 Bowler: Southee
-Over:38
+Over: 38
 Shot: LEFT_ALONE
-run scored: 0
-more outswing for the length ball outside off and he shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "more outswing for the length ball outside off and he shoulders arms"}]more outswing for the length ball outside off and he shoulders arms
+
+
 Balls faced: 86
 Bowler: Southee
-Over:38
+Over: 38
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Southee comes back for Henry. A slip and gully again"}]Southee comes back for Henry. A slip and gully again
-hint of away swing just around offf and Petersen presses for a block
+
+[{"type": "HTML", "html": "hint of away swing just around offf and Petersen presses for a block"}]hint of away swing just around offf and Petersen presses for a block
+
+
 Balls faced: 87
 Bowler: Southee
-Over:38
+Over: 38
 Shot: DEFENDED
-run scored: 0
-129.3kmh, targets the stumps to end the over and Petersen defends it to midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "129.3kmh, targets the stumps to end the over and Petersen defends it to midwicket"}]129.3kmh, targets the stumps to end the over and Petersen defends it to midwicket
+
+
 Balls faced: 88
 Bowler: Southee
-Over:38
+Over: 38
 Shot: LEFT_ALONE
-run scored: 0
-another outswinger outside off and he shoulders arms again
+Run scored: 0
+
+
+[{"type": "HTML", "html": "another outswinger outside off and he shoulders arms again"}]another outswinger outside off and he shoulders arms again
+
+
 Balls faced: 89
 Bowler: Southee
-Over:38
+Over: 38
 Shot: LEFT_ALONE
-run scored: 0
-length delivery outside off with some shape and left alone
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length delivery outside off with some shape and left alone"}]length delivery outside off with some shape and left alone
+
+
 Balls faced: 90
 Bowler: Southee
-Over:38
+Over: 38
 Shot: STEERED
-run scored: 2
-some width outside off and he steers it past gully by keeping it down for two
-Richard A: "I'm not saying drs was wrong - DRS is what it is, I'm saying de Swardt was unlucky. Not many people get given out from a ball that hits him on the fifth stump line outside off. de Swardt's wasn't a terrible leave, but everything conspired against him. Back in 94, in Fanie de Villiers' game at the SCG, Alan Border shouldered-arms to Donald and got bowled from a mile outside off -- he was unlucky too. " I understand it may not have been a bad leave today but if it's out and not a howler because not enough to evidence to say it was not out, I don't think it's unlucky because it might have hit the stumps
+Run scored: 2
+
+
+[{"type": "HTML", "html": "some width outside off and he steers it past gully by keeping it down for two"}]some width outside off and he steers it past gully by keeping it down for two
+[{"type": "HTML", "html": "Richard A: \"I'm not saying drs was wrong - DRS is what it is, I'm saying de Swardt was unlucky. Not many people get given out from a ball that hits him on the fifth stump line outside off. de Swardt's wasn't a terrible leave, but everything conspired against him. Back in 94, in Fanie de Villiers' game at the SCG, Alan Border shouldered-arms to Donald and got bowled from a mile outside off -- he was unlucky too. \" I understand it may not have been a bad leave today but if it's out and not a howler because not enough to evidence to say it was not out, I don't think it's unlucky because it might have hit the stumps"}]Richard A: "I'm not saying drs was wrong - DRS is what it is, I'm saying de Swardt was unlucky. Not many people get given out from a ball that hits him on the fifth stump line outside off. de Swardt's wasn't a terrible leave, but everything conspired against him. Back in 94, in Fanie de Villiers' game at the SCG, Alan Border shouldered-arms to Donald and got bowled from a mile outside off -- he was unlucky too. " I understand it may not have been a bad leave today but if it's out and not a howler because not enough to evidence to say it was not out, I don't think it's unlucky because it might have hit the stumps
+
 Balls faced: 91
 Bowler: Southee
-Over:38
+Over: 38
 Shot: LEFT_ALONE
-run scored: 0
-more outswing for the length ball outside off and he shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "more outswing for the length ball outside off and he shoulders arms"}]more outswing for the length ball outside off and he shoulders arms
+
+
 Balls faced: 92
 Bowler: Southee
-Over:38
+Over: 38
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Southee comes back for Henry. A slip and gully again"}]Southee comes back for Henry. A slip and gully again
-hint of away swing just around offf and Petersen presses for a block
+
+[{"type": "HTML", "html": "hint of away swing just around offf and Petersen presses for a block"}]hint of away swing just around offf and Petersen presses for a block
+
+
 Balls faced: 93
 Bowler: Southee
-Over:40
+Over: 40
 Shot: LEFT_ALONE
-run scored: 0
-pretty wide, swinging away, easy leave for Petersen
-"Is South Africa prioritizing League cricket over National duty? Seems that way looking at the test squad, I might be wrong here." On this occasion they are, Suren
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pretty wide, swinging away, easy leave for Petersen"}]pretty wide, swinging away, easy leave for Petersen
+[{"type": "HTML", "html": "\"Is South Africa prioritizing League cricket over National duty? Seems that way looking at the test squad, I might be wrong here.\" On this occasion they are, Suren"}]"Is South Africa prioritizing League cricket over National duty? Seems that way looking at the test squad, I might be wrong here." On this occasion they are, Suren
+
 Balls faced: 94
 Bowler: Southee
-Over:40
+Over: 40
 Shot: DEFENDED
-run scored: 0
-125.5kmh, not much pace but away swing outside off and he pushes it into the covers
+Run scored: 0
+
+
+[{"type": "HTML", "html": "125.5kmh, not much pace but away swing outside off and he pushes it into the covers"}]125.5kmh, not much pace but away swing outside off and he pushes it into the covers
+
+
 Balls faced: 95
 Bowler: Southee
-Over:40
+Over: 40
 Shot: LEFT_ALONE
-run scored: 0
-shaping in from wide outside off, no need to play at that
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shaping in from wide outside off, no need to play at that"}]shaping in from wide outside off, no need to play at that
+
+
 Balls faced: 96
 Bowler: Southee
-Over:40
+Over: 40
 Shot: COVER_DRIVE
-run scored: 2
-shouts of "catch" as Petersen drives on the up through extra cover and it was wide of the fielder for two
+Run scored: 2
+
+
+[{"type": "HTML", "html": "shouts of \"catch\" as Petersen drives on the up through extra cover and it was wide of the fielder for two"}]shouts of "catch" as Petersen drives on the up through extra cover and it was wide of the fielder for two
+
+
 Balls faced: 97
 Bowler: Southee
-Over:40
+Over: 40
 Shot: COVER_DRIVE
-run scored: 0
-pretty good looking drive this time for the length ball outside off and it's stopped by extra cover with a dive
-"I think you and Richard are having a different conversation about the definition of luck!" I might agree with that, Tom!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pretty good looking drive this time for the length ball outside off and it's stopped by extra cover with a dive"}]pretty good looking drive this time for the length ball outside off and it's stopped by extra cover with a dive
+[{"type": "HTML", "html": "\"I think you and Richard are having a different conversation about the definition of luck!\" I might agree with that, Tom!"}]"I think you and Richard are having a different conversation about the definition of luck!" I might agree with that, Tom!
+
 Balls faced: 98
 Bowler: Southee
-Over:40
+Over: 40
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
 [{"type": "HTML", "html": "Southee with a short cover"}]Southee with a short cover
-strays down the leg side for a change and Petersen does well to clip that fine off the pads for a four
+
+[{"type": "HTML", "html": "strays down the leg side for a change and Petersen does well to clip that fine off the pads for a four"}]strays down the leg side for a change and Petersen does well to clip that fine off the pads for a four
+
+
 Balls faced: 99
 Bowler: Jamieson
-Over:41
+Over: 41
 Shot: FLICK
-run scored: 1
-131.2kmh, on the pads for Petersen and he clips it away to long leg for one
+Run scored: 1
+
+
+[{"type": "HTML", "html": "131.2kmh, on the pads for Petersen and he clips it away to long leg for one"}]131.2kmh, on the pads for Petersen and he clips it away to long leg for one
+
+
 Balls faced: 100
 Bowler: Jamieson
-Over:41
+Over: 41
 Shot: SQUARE_DRIVE
-run scored: 0
-a rare full toss outside off and Petersen drives to cover point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a rare full toss outside off and Petersen drives to cover point"}]a rare full toss outside off and Petersen drives to cover point
+
+
 Balls faced: 101
 Bowler: Jamieson
-Over:41
+Over: 41
 Shot: DEFENDED
-run scored: 0
-135.5kmh, swinging in sharply from outside off and Petersen covers off to defend off the back foot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "135.5kmh, swinging in sharply from outside off and Petersen covers off to defend off the back foot"}]135.5kmh, swinging in sharply from outside off and Petersen covers off to defend off the back foot
+
+
 Balls faced: 102
 Bowler: Southee
-Over:40
+Over: 40
 Shot: LEFT_ALONE
-run scored: 0
-pretty wide, swinging away, easy leave for Petersen
-"Is South Africa prioritizing League cricket over National duty? Seems that way looking at the test squad, I might be wrong here." On this occasion they are, Suren
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pretty wide, swinging away, easy leave for Petersen"}]pretty wide, swinging away, easy leave for Petersen
+[{"type": "HTML", "html": "\"Is South Africa prioritizing League cricket over National duty? Seems that way looking at the test squad, I might be wrong here.\" On this occasion they are, Suren"}]"Is South Africa prioritizing League cricket over National duty? Seems that way looking at the test squad, I might be wrong here." On this occasion they are, Suren
+
 Balls faced: 103
 Bowler: Southee
-Over:40
+Over: 40
 Shot: DEFENDED
-run scored: 0
-125.5kmh, not much pace but away swing outside off and he pushes it into the covers
+Run scored: 0
+
+
+[{"type": "HTML", "html": "125.5kmh, not much pace but away swing outside off and he pushes it into the covers"}]125.5kmh, not much pace but away swing outside off and he pushes it into the covers
+
+
 Balls faced: 104
 Bowler: Southee
-Over:40
+Over: 40
 Shot: LEFT_ALONE
-run scored: 0
-shaping in from wide outside off, no need to play at that
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shaping in from wide outside off, no need to play at that"}]shaping in from wide outside off, no need to play at that
+
+
 Balls faced: 105
 Bowler: Southee
-Over:40
+Over: 40
 Shot: COVER_DRIVE
-run scored: 2
-shouts of "catch" as Petersen drives on the up through extra cover and it was wide of the fielder for two
+Run scored: 2
+
+
+[{"type": "HTML", "html": "shouts of \"catch\" as Petersen drives on the up through extra cover and it was wide of the fielder for two"}]shouts of "catch" as Petersen drives on the up through extra cover and it was wide of the fielder for two
+
+
 Balls faced: 106
 Bowler: Southee
-Over:40
+Over: 40
 Shot: COVER_DRIVE
-run scored: 0
-pretty good looking drive this time for the length ball outside off and it's stopped by extra cover with a dive
-"I think you and Richard are having a different conversation about the definition of luck!" I might agree with that, Tom!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pretty good looking drive this time for the length ball outside off and it's stopped by extra cover with a dive"}]pretty good looking drive this time for the length ball outside off and it's stopped by extra cover with a dive
+[{"type": "HTML", "html": "\"I think you and Richard are having a different conversation about the definition of luck!\" I might agree with that, Tom!"}]"I think you and Richard are having a different conversation about the definition of luck!" I might agree with that, Tom!
+
 Balls faced: 107
 Bowler: Southee
-Over:40
+Over: 40
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
 [{"type": "HTML", "html": "Southee with a short cover"}]Southee with a short cover
-strays down the leg side for a change and Petersen does well to clip that fine off the pads for a four
+
+[{"type": "HTML", "html": "strays down the leg side for a change and Petersen does well to clip that fine off the pads for a four"}]strays down the leg side for a change and Petersen does well to clip that fine off the pads for a four
+
+
 Balls faced: 108
 Bowler: Santner
-Over:42
+Over: 42
 Shot: DEFENDED
-run scored: 0
-A touch quicker on middle stump, Petersen stays back to defend
+Run scored: 0
+
+
+[{"type": "HTML", "html": "A touch quicker on middle stump, Petersen stays back to defend"}]A touch quicker on middle stump, Petersen stays back to defend
+
+
 Balls faced: 109
 Bowler: Jamieson
-Over:41
+Over: 41
 Shot: FLICK
-run scored: 1
-131.2kmh, on the pads for Petersen and he clips it away to long leg for one
+Run scored: 1
+
+
+[{"type": "HTML", "html": "131.2kmh, on the pads for Petersen and he clips it away to long leg for one"}]131.2kmh, on the pads for Petersen and he clips it away to long leg for one
+
+
 Balls faced: 110
 Bowler: Jamieson
-Over:41
+Over: 41
 Shot: SQUARE_DRIVE
-run scored: 0
-a rare full toss outside off and Petersen drives to cover point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "a rare full toss outside off and Petersen drives to cover point"}]a rare full toss outside off and Petersen drives to cover point
+
+
 Balls faced: 111
 Bowler: Jamieson
-Over:41
+Over: 41
 Shot: DEFENDED
-run scored: 0
-135.5kmh, swinging in sharply from outside off and Petersen covers off to defend off the back foot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "135.5kmh, swinging in sharply from outside off and Petersen covers off to defend off the back foot"}]135.5kmh, swinging in sharply from outside off and Petersen covers off to defend off the back foot
+
+
 Balls faced: 112
 Bowler: Santner
-Over:42
+Over: 42
 Shot: DEFENDED
-run scored: 0
-A touch quicker on middle stump, Petersen stays back to defend
+Run scored: 0
+
+
+[{"type": "HTML", "html": "A touch quicker on middle stump, Petersen stays back to defend"}]A touch quicker on middle stump, Petersen stays back to defend
+
+
 Balls faced: 113
 Bowler: Santner
-Over:44
+Over: 44
 Shot: REVERSE_SWEEP
-run scored: 0
-<strong>Loud appeal for lbw as Petersen eyes a reverse sweep, misses and is struck on the pad</strong>. The umpire says no and New Zealand, after a bit of deliberation have reviewed. Oh, this looks so close to leg stump. No bat, on we go. Nope, not close as it turns out. Ball tracker confirms that the angle of the length ball would have taken it down leg.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Loud appeal for lbw as Petersen eyes a reverse sweep, misses and is struck on the pad</strong>. The umpire says no and New Zealand, after a bit of deliberation have reviewed. Oh, this looks so close to leg stump. No bat, on we go. Nope, not close as it turns out. Ball tracker confirms that the angle of the length ball would have taken it down leg."}]<strong>Loud appeal for lbw as Petersen eyes a reverse sweep, misses and is struck on the pad</strong>. The umpire says no and New Zealand, after a bit of deliberation have reviewed. Oh, this looks so close to leg stump. No bat, on we go. Nope, not close as it turns out. Ball tracker confirms that the angle of the length ball would have taken it down leg.
+
 Legbyes: 3
 Balls faced: 114
 Bowler: Santner
-Over:44
+Over: 44
 Shot: STEERED
-run scored: 0
-Flight, dip and turn. Lovely bowling from Santner as Petersen is beaten. Gets the ball to land just outside off and turn sharply away from Petersen who goes searching for the ball.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Flight, dip and turn. Lovely bowling from Santner as Petersen is beaten. Gets the ball to land just outside off and turn sharply away from Petersen who goes searching for the ball."}]Flight, dip and turn. Lovely bowling from Santner as Petersen is beaten. Gets the ball to land just outside off and turn sharply away from Petersen who goes searching for the ball.
+
+
 Balls faced: 115
 Bowler: Santner
-Over:44
+Over: 44
 Shot: CUT_SHOT
-run scored: 0
-A touch short and wide outside off, he stays back and cuts to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "A touch short and wide outside off, he stays back and cuts to point"}]A touch short and wide outside off, he stays back and cuts to point
+
+
 Balls faced: 116
 Bowler: Henry
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
-Back to the length ball now on middle stump, defends it to the on-side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Back to the length ball now on middle stump, defends it to the on-side"}]Back to the length ball now on middle stump, defends it to the on-side
+
+
 Balls faced: 117
 Bowler: Henry
-Over:45
+Over: 45
 Shot: LEFT_ALONE
-run scored: 0
-Now back to the bouncer as Petersen ducks under again
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Now back to the bouncer as Petersen ducks under again"}]Now back to the bouncer as Petersen ducks under again
+
+
 Balls faced: 118
 Bowler: Henry
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
-Goes fuller now on off stump, he pushes to mid-off with a straight bat
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Goes fuller now on off stump, he pushes to mid-off with a straight bat"}]Goes fuller now on off stump, he pushes to mid-off with a straight bat
+
+
 Balls faced: 119
 Bowler: Henry
-Over:45
+Over: 45
 Shot: LEFT_ALONE
-run scored: 0
-Tests Petersen with the short ball now. He ducks under.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Tests Petersen with the short ball now. He ducks under."}]Tests Petersen with the short ball now. He ducks under.
+
+
 Balls faced: 120
 Bowler: Henry
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
-On a length on off stump, he stays rooted to the crease and blocks
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length on off stump, he stays rooted to the crease and blocks"}]On a length on off stump, he stays rooted to the crease and blocks
+
+
 Balls faced: 121
 Bowler: Henry
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Matt Henry is back"}]Matt Henry is back
-Length just outside off, he gets forward to defend
+
+[{"type": "HTML", "html": "Length just outside off, he gets forward to defend"}]Length just outside off, he gets forward to defend
+
+
 Balls faced: 122
 Bowler: Santner
-Over:44
+Over: 44
 Shot: REVERSE_SWEEP
-run scored: 0
-<strong>Loud appeal for lbw as Petersen eyes a reverse sweep, misses and is struck on the pad</strong>. The umpire says no and New Zealand, after a bit of deliberation have reviewed. Oh, this looks so close to leg stump. No bat, on we go. Nope, not close as it turns out. Ball tracker confirms that the angle of the length ball would have taken it down leg.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Loud appeal for lbw as Petersen eyes a reverse sweep, misses and is struck on the pad</strong>. The umpire says no and New Zealand, after a bit of deliberation have reviewed. Oh, this looks so close to leg stump. No bat, on we go. Nope, not close as it turns out. Ball tracker confirms that the angle of the length ball would have taken it down leg."}]<strong>Loud appeal for lbw as Petersen eyes a reverse sweep, misses and is struck on the pad</strong>. The umpire says no and New Zealand, after a bit of deliberation have reviewed. Oh, this looks so close to leg stump. No bat, on we go. Nope, not close as it turns out. Ball tracker confirms that the angle of the length ball would have taken it down leg.
+
 Legbyes: 3
 Balls faced: 123
 Bowler: Santner
-Over:44
+Over: 44
 Shot: STEERED
-run scored: 0
-Flight, dip and turn. Lovely bowling from Santner as Petersen is beaten. Gets the ball to land just outside off and turn sharply away from Petersen who goes searching for the ball.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Flight, dip and turn. Lovely bowling from Santner as Petersen is beaten. Gets the ball to land just outside off and turn sharply away from Petersen who goes searching for the ball."}]Flight, dip and turn. Lovely bowling from Santner as Petersen is beaten. Gets the ball to land just outside off and turn sharply away from Petersen who goes searching for the ball.
+
+
 Balls faced: 124
 Bowler: Santner
-Over:44
+Over: 44
 Shot: CUT_SHOT
-run scored: 0
-A touch short and wide outside off, he stays back and cuts to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "A touch short and wide outside off, he stays back and cuts to point"}]A touch short and wide outside off, he stays back and cuts to point
+
+
 Balls faced: 125
 Bowler: Santner
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 2
-90.1kph length ball and draws the outside edge of Petersen's blade who is stuck on the crease. The ball just evades Mitchell at first slip to his right for a couple of runs
+Run scored: 2
+
+
+[{"type": "HTML", "html": "90.1kph length ball and draws the outside edge of Petersen's blade who is stuck on the crease. The ball just evades Mitchell at first slip to his right for a couple of runs"}]90.1kph length ball and draws the outside edge of Petersen's blade who is stuck on the crease. The ball just evades Mitchell at first slip to his right for a couple of runs
+
+
 Balls faced: 126
 Bowler: Santner
-Over:46
+Over: 46
 Shot: CUT_SHOT
-run scored: 0
-And now that is bowled at 77.2kph but  was a touch short and wide as Petersen cuts to cover point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "And now that is bowled at 77.2kph but  was a touch short and wide as Petersen cuts to cover point"}]And now that is bowled at 77.2kph but  was a touch short and wide as Petersen cuts to cover point
+
+
 Balls faced: 127
 Bowler: Santner
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 0
-87.1kph length ball on middle and leg, defended
+Run scored: 0
+
+
+[{"type": "HTML", "html": "87.1kph length ball on middle and leg, defended"}]87.1kph length ball on middle and leg, defended
+
+
 Balls faced: 128
 Bowler: Santner
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 0
-And now the arm ball on leg stump as Petersen is deep in his crease and turns it away to the on-side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "And now the arm ball on leg stump as Petersen is deep in his crease and turns it away to the on-side"}]And now the arm ball on leg stump as Petersen is deep in his crease and turns it away to the on-side
+
+
 Balls faced: 129
 Bowler: Santner
-Over:46
+Over: 46
 Shot: LEFT_ALONE
-run scored: 0
-Oh, that is a very tight leave. Slows up the length ball just outside off, very close to off stump as Petersen watches and lets the ball go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Oh, that is a very tight leave. Slows up the length ball just outside off, very close to off stump as Petersen watches and lets the ball go"}]Oh, that is a very tight leave. Slows up the length ball just outside off, very close to off stump as Petersen watches and lets the ball go
+
+
 Balls faced: 130
 Bowler: Henry
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
-Back to the length ball now on middle stump, defends it to the on-side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Back to the length ball now on middle stump, defends it to the on-side"}]Back to the length ball now on middle stump, defends it to the on-side
+
+
 Balls faced: 131
 Bowler: Henry
-Over:45
+Over: 45
 Shot: LEFT_ALONE
-run scored: 0
-Now back to the bouncer as Petersen ducks under again
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Now back to the bouncer as Petersen ducks under again"}]Now back to the bouncer as Petersen ducks under again
+
+
 Balls faced: 132
 Bowler: Henry
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
-Goes fuller now on off stump, he pushes to mid-off with a straight bat
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Goes fuller now on off stump, he pushes to mid-off with a straight bat"}]Goes fuller now on off stump, he pushes to mid-off with a straight bat
+
+
 Balls faced: 133
 Bowler: Henry
-Over:45
+Over: 45
 Shot: LEFT_ALONE
-run scored: 0
-Tests Petersen with the short ball now. He ducks under.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Tests Petersen with the short ball now. He ducks under."}]Tests Petersen with the short ball now. He ducks under.
+
+
 Balls faced: 134
 Bowler: Henry
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
-On a length on off stump, he stays rooted to the crease and blocks
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length on off stump, he stays rooted to the crease and blocks"}]On a length on off stump, he stays rooted to the crease and blocks
+
+
 Balls faced: 135
 Bowler: Henry
-Over:45
+Over: 45
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Matt Henry is back"}]Matt Henry is back
-Length just outside off, he gets forward to defend
+
+[{"type": "HTML", "html": "Length just outside off, he gets forward to defend"}]Length just outside off, he gets forward to defend
+
+
 Balls faced: 136
 Bowler: Santner
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 2
-90.1kph length ball and draws the outside edge of Petersen's blade who is stuck on the crease. The ball just evades Mitchell at first slip to his right for a couple of runs
+Run scored: 2
+
+
+[{"type": "HTML", "html": "90.1kph length ball and draws the outside edge of Petersen's blade who is stuck on the crease. The ball just evades Mitchell at first slip to his right for a couple of runs"}]90.1kph length ball and draws the outside edge of Petersen's blade who is stuck on the crease. The ball just evades Mitchell at first slip to his right for a couple of runs
+
+
 Balls faced: 137
 Bowler: Santner
-Over:46
+Over: 46
 Shot: CUT_SHOT
-run scored: 0
-And now that is bowled at 77.2kph but  was a touch short and wide as Petersen cuts to cover point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "And now that is bowled at 77.2kph but  was a touch short and wide as Petersen cuts to cover point"}]And now that is bowled at 77.2kph but  was a touch short and wide as Petersen cuts to cover point
+
+
 Balls faced: 138
 Bowler: Santner
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 0
-87.1kph length ball on middle and leg, defended
+Run scored: 0
+
+
+[{"type": "HTML", "html": "87.1kph length ball on middle and leg, defended"}]87.1kph length ball on middle and leg, defended
+
+
 Balls faced: 139
 Bowler: Santner
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 0
-And now the arm ball on leg stump as Petersen is deep in his crease and turns it away to the on-side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "And now the arm ball on leg stump as Petersen is deep in his crease and turns it away to the on-side"}]And now the arm ball on leg stump as Petersen is deep in his crease and turns it away to the on-side
+
+
 Balls faced: 140
 Bowler: Santner
-Over:46
+Over: 46
 Shot: LEFT_ALONE
-run scored: 0
-Oh, that is a very tight leave. Slows up the length ball just outside off, very close to off stump as Petersen watches and lets the ball go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Oh, that is a very tight leave. Slows up the length ball just outside off, very close to off stump as Petersen watches and lets the ball go"}]Oh, that is a very tight leave. Slows up the length ball just outside off, very close to off stump as Petersen watches and lets the ball go
+
+
 Balls faced: 141
 Bowler: Santner
-Over:48
+Over: 48
 Shot: FLICK
-run scored: 1
-Slower length ball at 82.2kph on the pads of Petersen who works it behind square for a run
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Slower length ball at 82.2kph on the pads of Petersen who works it behind square for a run"}]Slower length ball at 82.2kph on the pads of Petersen who works it behind square for a run
+
+
 Balls faced: 142
 Bowler: Henry
-Over:49
+Over: 49
 Shot: FLICK
-run scored: 1
-Length on middle and leg, Petersen whips off his pads to deep backward square leg for a run
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Length on middle and leg, Petersen whips off his pads to deep backward square leg for a run"}]Length on middle and leg, Petersen whips off his pads to deep backward square leg for a run
+
+
 Balls faced: 143
 Bowler: Henry
-Over:49
+Over: 49
 Shot: FLICK
-run scored: 0
-Keeps it on a length on middle stump as Petersen is happy to defend towards midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps it on a length on middle stump as Petersen is happy to defend towards midwicket"}]Keeps it on a length on middle stump as Petersen is happy to defend towards midwicket
+
+
 Balls faced: 144
 Bowler: Henry
-Over:49
+Over: 49
 Shot: DEFENDED
-run scored: 0
-Length on the off stump as Petersen gets across, presents the full face of the bat and defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length on the off stump as Petersen gets across, presents the full face of the bat and defends"}]Length on the off stump as Petersen gets across, presents the full face of the bat and defends
+
+
 Balls faced: 145
 Bowler: Henry
-Over:49
+Over: 49
 Shot: DEFENDED
-run scored: 0
-On a length just outside off, he gets it off the outside half of the blade to the right of gully who moves well
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length just outside off, he gets it off the outside half of the blade to the right of gully who moves well"}]On a length just outside off, he gets it off the outside half of the blade to the right of gully who moves well
+
+
 Balls faced: 146
 Bowler: Henry
-Over:49
+Over: 49
 Shot: COVER_DRIVE
-run scored: 4
-<strong>Shot!</strong> A touch wide outside off and Petersen opens up his shoulders to whack the ball through covers.
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Shot!</strong> A touch wide outside off and Petersen opens up his shoulders to whack the ball through covers."}]<strong>Shot!</strong> A touch wide outside off and Petersen opens up his shoulders to whack the ball through covers.
+
+
 Balls faced: 147
 Bowler: Henry
-Over:49
+Over: 49
 Shot: DEFENDED
-run scored: 0
-Length ball on off stump, he gets across right behind the line of that and defends back to the bowler
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball on off stump, he gets across right behind the line of that and defends back to the bowler"}]Length ball on off stump, he gets across right behind the line of that and defends back to the bowler
+
+
 Balls faced: 148
 Bowler: Santner
-Over:48
+Over: 48
 Shot: FLICK
-run scored: 1
-Slower length ball at 82.2kph on the pads of Petersen who works it behind square for a run
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Slower length ball at 82.2kph on the pads of Petersen who works it behind square for a run"}]Slower length ball at 82.2kph on the pads of Petersen who works it behind square for a run
+
+
 Balls faced: 149
 Bowler: Santner
-Over:50
+Over: 50
 Shot: CUT_SHOT
-run scored: 0
-Short and wide, he stays back and slaps it hard but can't beat extra cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Short and wide, he stays back and slaps it hard but can't beat extra cover"}]Short and wide, he stays back and slaps it hard but can't beat extra cover
+
+
 Balls faced: 150
 Bowler: Santner
-Over:50
+Over: 50
 Shot: FLICK
-run scored: 0
-Fuller on the pads, flicks it uppishly towards midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fuller on the pads, flicks it uppishly towards midwicket"}]Fuller on the pads, flicks it uppishly towards midwicket
+
+
 Balls faced: 151
 Bowler: Santner
-Over:50
+Over: 50
 Shot: DEFENDED
-run scored: 0
-Oh, nicely bowled. Gets the length ball to pitch on middle at 77kph and catches the outside edge of Petersen's blade on off stump who went pushing at it. The ball goes to Mitchell at slip on the bounce
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Oh, nicely bowled. Gets the length ball to pitch on middle at 77kph and catches the outside edge of Petersen's blade on off stump who went pushing at it. The ball goes to Mitchell at slip on the bounce"}]Oh, nicely bowled. Gets the length ball to pitch on middle at 77kph and catches the outside edge of Petersen's blade on off stump who went pushing at it. The ball goes to Mitchell at slip on the bounce
+
+
 Balls faced: 152
 Bowler: Santner
-Over:50
+Over: 50
 Shot: ON_DRIVE
-run scored: 0
-Tossed up fuller on leg stump, he pats it to mid-on
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Tossed up fuller on leg stump, he pats it to mid-on"}]Tossed up fuller on leg stump, he pats it to mid-on
+
+
 Balls faced: 153
 Bowler: Santner
-Over:50
+Over: 50
 Shot: COVER_DRIVE
-run scored: 0
-Keeps it slower now at 82kph outside off as Petersen gets back and pushes to cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps it slower now at 82kph outside off as Petersen gets back and pushes to cover"}]Keeps it slower now at 82kph outside off as Petersen gets back and pushes to cover
+
+
 Balls faced: 154
 Bowler: Santner
-Over:50
+Over: 50
 Shot: LEFT_ALONE
-run scored: 0
-Slides on with the arm just outside off as Petersen watches it closely and shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Slides on with the arm just outside off as Petersen watches it closely and shoulders arms"}]Slides on with the arm just outside off as Petersen watches it closely and shoulders arms
+
+
 Balls faced: 155
 Bowler: Henry
-Over:49
+Over: 49
 Shot: FLICK
-run scored: 1
-Length on middle and leg, Petersen whips off his pads to deep backward square leg for a run
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Length on middle and leg, Petersen whips off his pads to deep backward square leg for a run"}]Length on middle and leg, Petersen whips off his pads to deep backward square leg for a run
+
+
 Balls faced: 156
 Bowler: Henry
-Over:49
+Over: 49
 Shot: FLICK
-run scored: 0
-Keeps it on a length on middle stump as Petersen is happy to defend towards midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps it on a length on middle stump as Petersen is happy to defend towards midwicket"}]Keeps it on a length on middle stump as Petersen is happy to defend towards midwicket
+
+
 Balls faced: 157
 Bowler: Henry
-Over:49
+Over: 49
 Shot: DEFENDED
-run scored: 0
-Length on the off stump as Petersen gets across, presents the full face of the bat and defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length on the off stump as Petersen gets across, presents the full face of the bat and defends"}]Length on the off stump as Petersen gets across, presents the full face of the bat and defends
+
+
 Balls faced: 158
 Bowler: Henry
-Over:49
+Over: 49
 Shot: DEFENDED
-run scored: 0
-On a length just outside off, he gets it off the outside half of the blade to the right of gully who moves well
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length just outside off, he gets it off the outside half of the blade to the right of gully who moves well"}]On a length just outside off, he gets it off the outside half of the blade to the right of gully who moves well
+
+
 Balls faced: 159
 Bowler: Henry
-Over:49
+Over: 49
 Shot: COVER_DRIVE
-run scored: 4
-<strong>Shot!</strong> A touch wide outside off and Petersen opens up his shoulders to whack the ball through covers.
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Shot!</strong> A touch wide outside off and Petersen opens up his shoulders to whack the ball through covers."}]<strong>Shot!</strong> A touch wide outside off and Petersen opens up his shoulders to whack the ball through covers.
+
+
 Balls faced: 160
 Bowler: Henry
-Over:49
+Over: 49
 Shot: DEFENDED
-run scored: 0
-Length ball on off stump, he gets across right behind the line of that and defends back to the bowler
-Match: southafrica_1388186_1388222.json
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball on off stump, he gets across right behind the line of that and defends back to the bowler"}]Length ball on off stump, he gets across right behind the line of that and defends back to the bowler
+
+
+
+Match: all_games_1388186_1388222.json
 Balls faced: 1
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: COVER_DRIVE
-run scored: 2
-short of length outside off. Rocks back and cuts it in front of point for a couple
+Run scored: 2
+
+
+[{"type": "HTML", "html": "short of length outside off. Rocks back and cuts it in front of point for a couple"}]short of length outside off. Rocks back and cuts it in front of point for a couple
+
+
 Balls faced: 2
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: LEFT_ALONE
-run scored: 0
-full outside off. Left alone
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full outside off. Left alone"}]full outside off. Left alone
+
+
 Balls faced: 3
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 0
-length ball on the pads. Defended from the back foot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball on the pads. Defended from the back foot"}]length ball on the pads. Defended from the back foot
+
+
 Balls faced: 4
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 0
-full around off. Lunges forward to defend
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full around off. Lunges forward to defend"}]full around off. Lunges forward to defend
+
+
 Balls faced: 5
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Keegan Petersen now. A slip and silly mid-off in place"}]Keegan Petersen now. A slip and silly mid-off in place
-length outside off. Left alone
+
+[{"type": "HTML", "html": "length outside off. Left alone"}]length outside off. Left alone
+
+
 Balls faced: 6
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: COVER_DRIVE
-run scored: 2
-short of length outside off. Rocks back and cuts it in front of point for a couple
+Run scored: 2
+
+
+[{"type": "HTML", "html": "short of length outside off. Rocks back and cuts it in front of point for a couple"}]short of length outside off. Rocks back and cuts it in front of point for a couple
+
+
 Balls faced: 7
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: LEFT_ALONE
-run scored: 0
-full outside off. Left alone
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full outside off. Left alone"}]full outside off. Left alone
+
+
 Balls faced: 8
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 0
-length ball on the pads. Defended from the back foot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball on the pads. Defended from the back foot"}]length ball on the pads. Defended from the back foot
+
+
 Balls faced: 9
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: DEFENDED
-run scored: 0
-full around off. Lunges forward to defend
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full around off. Lunges forward to defend"}]full around off. Lunges forward to defend
+
+
 Balls faced: 10
 Bowler: Ravindra
-Over:46
+Over: 46
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Keegan Petersen now. A slip and silly mid-off in place"}]Keegan Petersen now. A slip and silly mid-off in place
-length outside off. Left alone
+
+[{"type": "HTML", "html": "length outside off. Left alone"}]length outside off. Left alone
+
+
 Balls faced: 11
 Bowler: Ravindra
-Over:48
+Over: 48
 Shot: COVER_DRIVE
-run scored: 0
-OUT! {"short": "caught", "long": "c Southee b Ravindra", "commentary": "Keegan Petersen c Southee b Ravindra 2 (6b 0x4 0x6 9m) SR: 33.33"}
-Ravindra has his second. South Africa five down. A length ball around off, and Petersen pushes at it with hard hands. Gets an outside edge and Southee moves to his right at slip to grab it
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Ravindra has his second. South Africa five down. A length ball around off, and Petersen pushes at it with hard hands. Gets an outside edge and Southee moves to his right at slip to grab it"}]Ravindra has his second. South Africa five down. A length ball around off, and Petersen pushes at it with hard hands. Gets an outside edge and Southee moves to his right at slip to grab it
+
+
 Balls faced: 12
 Bowler: Ravindra
-Over:48
+Over: 48
 Shot: COVER_DRIVE
-run scored: 0
-OUT! {"short": "caught", "long": "c Southee b Ravindra", "commentary": "Keegan Petersen c Southee b Ravindra 2 (6b 0x4 0x6 9m) SR: 33.33"}
-Ravindra has his second. South Africa five down. A length ball around off, and Petersen pushes at it with hard hands. Gets an outside edge and Southee moves to his right at slip to grab it
-Match: southafrica_1388186_1418775.json
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Ravindra has his second. South Africa five down. A length ball around off, and Petersen pushes at it with hard hands. Gets an outside edge and Southee moves to his right at slip to grab it"}]Ravindra has his second. South Africa five down. A length ball around off, and Petersen pushes at it with hard hands. Gets an outside edge and Southee moves to his right at slip to grab it
+
+
+
+Match: all_games_1388186_1418775.json
 Balls faced: 1
 Bowler: Duffy
-Over:28
-No Shot
-run scored: 0
+Over: 28
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 2
 Bowler: Duffy
-Over:28
-No Shot
-run scored: 0
+Over: 28
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 3
 Bowler: Duffy
-Over:28
-No Shot
-run scored: 0
+Over: 28
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 4
 Bowler: Duffy
-Over:28
-No Shot
-run scored: 0
+Over: 28
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 5
 Bowler: Duffy
-Over:28
-No Shot
-run scored: 0
+Over: 28
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 6
 Bowler: Duffy
-Over:28
-No Shot
-run scored: 0
+Over: 28
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 7
 Bowler: Duffy
-Over:34
+Over: 34
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 8
 Bowler: Duffy
-Over:34
-No Shot
-run scored: 0
+Over: 34
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 9
 Bowler: Duffy
-Over:34
-No Shot
-run scored: 0
+Over: 34
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 10
 Bowler: Duffy
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 11
 Bowler: Duffy
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 12
 Bowler: Duffy
-Over:34
+Over: 34
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 13
 Bowler: Duffy
-Over:34
-No Shot
-run scored: 0
+Over: 34
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 14
 Bowler: Duffy
-Over:34
-No Shot
-run scored: 0
+Over: 34
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 15
 Bowler: Duffy
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 16
 Bowler: Duffy
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 17
 Bowler: Duffy
-Over:36
+Over: 36
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 18
 Bowler: Duffy
-Over:36
+Over: 36
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 19
 Bowler: Duffy
-Over:36
+Over: 36
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 20
 Bowler: Duffy
-Over:36
+Over: 36
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 21
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 22
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 23
 Bowler: Georgeson
-Over:39
-No Shot
-run scored: 0
+Over: 39
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 24
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 25
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 26
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 27
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 28
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 29
 Bowler: Georgeson
-Over:39
-No Shot
-run scored: 0
+Over: 39
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 30
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 31
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 32
 Bowler: Georgeson
-Over:39
+Over: 39
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 33
 Bowler: Georgeson
-Over:43
+Over: 43
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 3
+Run scored: 3
+
+
+
+
+
 Balls faced: 34
 Bowler: Georgeson
-Over:43
+Over: 43
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 3
+Run scored: 3
+
+
+
+
+
 Balls faced: 35
 Bowler: Georgeson
-Over:45
+Over: 45
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 36
 Bowler: Georgeson
-Over:45
+Over: 45
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 37
 Bowler: Georgeson
-Over:47
+Over: 47
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 38
 Bowler: Georgeson
-Over:47
+Over: 47
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4

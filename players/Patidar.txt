@@ -1,231 +1,1503 @@
-Match: southafrica_1387592_1387602.json
+Match: all_games_1387592_1387602.json
 Balls faced: 1
 Bowler: Burger
-Over:1
+Over: 1
 Shot: LEFT_ALONE
-run scored: 0
-slanted across Patidar who is decisive in his leave
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slanted across Patidar who is decisive in his leave"}]slanted across Patidar who is decisive in his leave
+
+
 Balls faced: 2
 Bowler: Burger
-Over:1
+Over: 1
 Shot: PUSH
-run scored: 0
-deflects off the pad and past third slip. Short of length and he was looking to tuck this through square leg.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "deflects off the pad and past third slip. Short of length and he was looking to tuck this through square leg."}]deflects off the pad and past third slip. Short of length and he was looking to tuck this through square leg.
+
 Legbyes: 1
 Balls faced: 3
 Bowler: Burger
-Over:1
+Over: 1
 Shot: LEG_GLANCE
-run scored: 0
-full and swinging too far down leg this time, wide called. Good take by the keeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full and swinging too far down leg this time, wide called. Good take by the keeper"}]full and swinging too far down leg this time, wide called. Good take by the keeper
+
 Wide: 1
 Balls faced: 4
 Bowler: Burger
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "The anthems are done. Players making their way to the centre. Sudharsan opens with Rajat Patidar, the debutant. Nandre Burger with the new ball. Two slips in place."}, {"type": "HTML", "html": "<b>12.50pm </B> So who is Rajat Patidar? Where does he come from? What has he done to make it this far? Had an opportunity to <a href=\"https://www.espncricinfo.com/story/mi-vs-rcb-ipl-2021-rajat-patidar-ready-to-make-a-splash-in-ipl-after-amazing-last-few-months-1258390\">profile his journey</a> (written when he made his IPL debut in 2021)."}, {"type": "HTML", "html": "The XIs for you"}, {"type": "HTML", "html": "<strong>South Africa:</strong> de Zorzi, Hendricks, van der Dussen, Markram, Klaasen, Miller, Mulder, Maharaj, Burger, Williams, Beauran Hendricks"}, {"type": "HTML", "html": "<strong>India:</strong> Sudharsan, Samson, Patidar, Tilak, Rahul, Rinku, Axar, Washington, Arshdeep, Avesh, Mukesh"}, {"type": "HTML", "html": "<B>Toss:</b> <B>South Africa opt to bowl.</b> \"Looks a really good wicket, can't see it changing over 100 overs. Want to replicate from the second game. Hopefully we can take wickets nice and regularly,\" Markram says. Wants \"more of the same\" from his team and says playing smartly with the long straight boundaries here will be important. Same team.<BR><BR><B>KL Rahul:</b> \"The lights come on pretty late so don't think it will be a big factor. We were in a decent position in the last game, and should've capitalised in the last 15 overs.\" Says he hopes \"this pitch plays better.\" Ruturaj's damage to his finger keeps him out. No Chahal. Washington replaces a rested Kuldeep Yadav."}, {"type": "HTML", "html": "<B>Pitch report:</b> Hot day, temperatures in the mid 30s. The pitch is dry, and when the sun is out, it is slightly slow to bat. \"Something in the range of 272\" would be a good score, says Vernon Philander. Does that tempt India to play Yuzvendra Chahal?"}, {"type": "HTML", "html": "<B>12.17pm Rajat Patidar will make his ODI debut</b>. A total of 1963 runs in 56 List-A games. Where will he bat? Does he come in for Ruturaj Gaikwad, who didn't field in the second ODI due to a finger injury?"}, {"type": "HTML", "html": "Northpaw: \"They were anything but boring, @rajith! Great to see the bowlers from both sides doing their thing.\""}, {"type": "HTML", "html": "ICYMI, <a href=\"https://www.espncricinfo.com/series/australia-women-in-india-2023-24-1406065/india-women-vs-australia-women-only-test-1406077/live-cricket-score\">over in Mumbai,</a> <B>Australia</b> have been rolled over for 219 by <strong>India</strong> in the women's Test match's first day."}, {"type": "HTML", "html": "India have been in nine series deciders since 2019. Their record is 7-2.<BR><BR>rajith: \"expected high scoring matches but both turned out low scoring boring ones \""}, {"type": "HTML", "html": "<strong>Also read: </strong> How do the <a href=\"https://www.espncricinfo.com/story/ipl-2024-auction-how-csk-mi-rcb-srh-kkr-gt-lsg-rr-dc-pbks-stack-up-1413527\">10 IPL teams stack up</a> after the auction?"}, {"type": "HTML", "html": "Win toss, bat first? The last three scores here in the first innings have been 287, 296 and 291! Also to be seen are if Rajat Patidar gets a game, and who between Shamsi and Lizaad Williams for SA."}, {"type": "HTML", "html": "<strong>11.55am</strong> It's the series decider in Paarl, where a beautiful afternoon welcomes both South Africa and India. It's been a well-fought battle, this series, and we're all hoping for an entertaining conclusion to the ODIs. It also allows the next gen to shine under pressure, as Alagappan Muthu writes in our <a href=\"https://www.espncricinfo.com/series/india-in-south-africa-2023-24-1387592/south-africa-vs-india-3rd-odi-1387602/match-preview\">preview</a>."}]The anthems are done. Players making their way to the centre. Sudharsan opens with Rajat Patidar, the debutant. Nandre Burger with the new ball. Two slips in place. <b>12.50pm </B> So who is Rajat Patidar? Where does he come from? What has he done to make it this far? Had an opportunity to <a href="https://www.espncricinfo.com/story/mi-vs-rcb-ipl-2021-rajat-patidar-ready-to-make-a-splash-in-ipl-after-amazing-last-few-months-1258390">profile his journey</a> (written when he made his IPL debut in 2021). The XIs for you <strong>South Africa:</strong> de Zorzi, Hendricks, van der Dussen, Markram, Klaasen, Miller, Mulder, Maharaj, Burger, Williams, Beauran Hendricks <strong>India:</strong> Sudharsan, Samson, Patidar, Tilak, Rahul, Rinku, Axar, Washington, Arshdeep, Avesh, Mukesh <B>Toss:</b> <B>South Africa opt to bowl.</b> "Looks a really good wicket, can't see it changing over 100 overs. Want to replicate from the second game. Hopefully we can take wickets nice and regularly," Markram says. Wants "more of the same" from his team and says playing smartly with the long straight boundaries here will be important. Same team.<BR><BR><B>KL Rahul:</b> "The lights come on pretty late so don't think it will be a big factor. We were in a decent position in the last game, and should've capitalised in the last 15 overs." Says he hopes "this pitch plays better." Ruturaj's damage to his finger keeps him out. No Chahal. Washington replaces a rested Kuldeep Yadav. <B>Pitch report:</b> Hot day, temperatures in the mid 30s. The pitch is dry, and when the sun is out, it is slightly slow to bat. "Something in the range of 272" would be a good score, says Vernon Philander. Does that tempt India to play Yuzvendra Chahal? <B>12.17pm Rajat Patidar will make his ODI debut</b>. A total of 1963 runs in 56 List-A games. Where will he bat? Does he come in for Ruturaj Gaikwad, who didn't field in the second ODI due to a finger injury? Northpaw: "They were anything but boring, @rajith! Great to see the bowlers from both sides doing their thing." ICYMI, <a href="https://www.espncricinfo.com/series/australia-women-in-india-2023-24-1406065/india-women-vs-australia-women-only-test-1406077/live-cricket-score">over in Mumbai,</a> <B>Australia</b> have been rolled over for 219 by <strong>India</strong> in the women's Test match's first day. India have been in nine series deciders since 2019. Their record is 7-2.<BR><BR>rajith: "expected high scoring matches but both turned out low scoring boring ones " <strong>Also read: </strong> How do the <a href="https://www.espncricinfo.com/story/ipl-2024-auction-how-csk-mi-rcb-srh-kkr-gt-lsg-rr-dc-pbks-stack-up-1413527">10 IPL teams stack up</a> after the auction? Win toss, bat first? The last three scores here in the first innings have been 287, 296 and 291! Also to be seen are if Rajat Patidar gets a game, and who between Shamsi and Lizaad Williams for SA. <strong>11.55am</strong> It's the series decider in Paarl, where a beautiful afternoon welcomes both South Africa and India. It's been a well-fought battle, this series, and we're all hoping for an entertaining conclusion to the ODIs. It also allows the next gen to shine under pressure, as Alagappan Muthu writes in our <a href="https://www.espncricinfo.com/series/india-in-south-africa-2023-24-1387592/south-africa-vs-india-3rd-odi-1387602/match-preview">preview</a>.
-slants one across the debutant, there's a hint of movement in as Patidar plays and misses first up.
+
+[{"type": "HTML", "html": "slants one across the debutant, there's a hint of movement in as Patidar plays and misses first up."}]slants one across the debutant, there's a hint of movement in as Patidar plays and misses first up.
+
+
 Balls faced: 5
 Bowler: Williams
-Over:2
+Over: 2
 Shot: CUT_SHOT
-run scored: 1
-looks to flay this through point, the ball rolls off the bottom edge to third man.
+Run scored: 1
+
+
+[{"type": "HTML", "html": "looks to flay this through point, the ball rolls off the bottom edge to third man."}]looks to flay this through point, the ball rolls off the bottom edge to third man.
+
+
 Balls faced: 6
 Bowler: Williams
-Over:2
+Over: 2
 Shot: FLICK
-run scored: 4
-angles into the pads and Patidar ain't gonna miss out. Flicks it imperiously over square leg. <strong>Balance and timing perfect.</strong>
+Run scored: 4
+
+
+[{"type": "HTML", "html": "angles into the pads and Patidar ain't gonna miss out. Flicks it imperiously over square leg. <strong>Balance and timing perfect.</strong>"}]angles into the pads and Patidar ain't gonna miss out. Flicks it imperiously over square leg. <strong>Balance and timing perfect.</strong>
+
+
 Balls faced: 7
 Bowler: Williams
-Over:2
+Over: 2
 Shot: COVER_DRIVE
-run scored: 0
-pushed into the off side. Took the bottom hand off as he made contact with this length ball that seemed to have held on a bit more.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pushed into the off side. Took the bottom hand off as he made contact with this length ball that seemed to have held on a bit more."}]pushed into the off side. Took the bottom hand off as he made contact with this length ball that seemed to have held on a bit more.
+
+
 Balls faced: 8
 Bowler: Williams
-Over:2
+Over: 2
 Shot: FLICK
-run scored: 2
-veering on a length around middle and leg, whipped into the gap at midwicket for a couple
+Run scored: 2
+
+
+[{"type": "HTML", "html": "veering on a length around middle and leg, whipped into the gap at midwicket for a couple"}]veering on a length around middle and leg, whipped into the gap at midwicket for a couple
+
+
 Balls faced: 9
 Bowler: Williams
-Over:2
+Over: 2
 Shot: CUT_SHOT
-run scored: 4
-<strong>delightful first boundary in international cricket for Patidar!</strong> Stands tall and punches this square of the wicket as the ball races away through point
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>delightful first boundary in international cricket for Patidar!</strong> Stands tall and punches this square of the wicket as the ball races away through point"}]<strong>delightful first boundary in international cricket for Patidar!</strong> Stands tall and punches this square of the wicket as the ball races away through point
+
+
 Balls faced: 10
 Bowler: Burger
-Over:1
+Over: 1
 Shot: LEFT_ALONE
-run scored: 0
-slanted across Patidar who is decisive in his leave
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slanted across Patidar who is decisive in his leave"}]slanted across Patidar who is decisive in his leave
+
+
 Balls faced: 11
 Bowler: Burger
-Over:1
+Over: 1
 Shot: PUSH
-run scored: 0
-deflects off the pad and past third slip. Short of length and he was looking to tuck this through square leg.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "deflects off the pad and past third slip. Short of length and he was looking to tuck this through square leg."}]deflects off the pad and past third slip. Short of length and he was looking to tuck this through square leg.
+
 Legbyes: 1
 Balls faced: 12
 Bowler: Burger
-Over:1
+Over: 1
 Shot: LEG_GLANCE
-run scored: 0
-full and swinging too far down leg this time, wide called. Good take by the keeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full and swinging too far down leg this time, wide called. Good take by the keeper"}]full and swinging too far down leg this time, wide called. Good take by the keeper
+
 Wide: 1
 Balls faced: 13
 Bowler: Burger
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "The anthems are done. Players making their way to the centre. Sudharsan opens with Rajat Patidar, the debutant. Nandre Burger with the new ball. Two slips in place."}, {"type": "HTML", "html": "<b>12.50pm </B> So who is Rajat Patidar? Where does he come from? What has he done to make it this far? Had an opportunity to <a href=\"https://www.espncricinfo.com/story/mi-vs-rcb-ipl-2021-rajat-patidar-ready-to-make-a-splash-in-ipl-after-amazing-last-few-months-1258390\">profile his journey</a> (written when he made his IPL debut in 2021)."}, {"type": "HTML", "html": "The XIs for you"}, {"type": "HTML", "html": "<strong>South Africa:</strong> de Zorzi, Hendricks, van der Dussen, Markram, Klaasen, Miller, Mulder, Maharaj, Burger, Williams, Beauran Hendricks"}, {"type": "HTML", "html": "<strong>India:</strong> Sudharsan, Samson, Patidar, Tilak, Rahul, Rinku, Axar, Washington, Arshdeep, Avesh, Mukesh"}, {"type": "HTML", "html": "<B>Toss:</b> <B>South Africa opt to bowl.</b> \"Looks a really good wicket, can't see it changing over 100 overs. Want to replicate from the second game. Hopefully we can take wickets nice and regularly,\" Markram says. Wants \"more of the same\" from his team and says playing smartly with the long straight boundaries here will be important. Same team.<BR><BR><B>KL Rahul:</b> \"The lights come on pretty late so don't think it will be a big factor. We were in a decent position in the last game, and should've capitalised in the last 15 overs.\" Says he hopes \"this pitch plays better.\" Ruturaj's damage to his finger keeps him out. No Chahal. Washington replaces a rested Kuldeep Yadav."}, {"type": "HTML", "html": "<B>Pitch report:</b> Hot day, temperatures in the mid 30s. The pitch is dry, and when the sun is out, it is slightly slow to bat. \"Something in the range of 272\" would be a good score, says Vernon Philander. Does that tempt India to play Yuzvendra Chahal?"}, {"type": "HTML", "html": "<B>12.17pm Rajat Patidar will make his ODI debut</b>. A total of 1963 runs in 56 List-A games. Where will he bat? Does he come in for Ruturaj Gaikwad, who didn't field in the second ODI due to a finger injury?"}, {"type": "HTML", "html": "Northpaw: \"They were anything but boring, @rajith! Great to see the bowlers from both sides doing their thing.\""}, {"type": "HTML", "html": "ICYMI, <a href=\"https://www.espncricinfo.com/series/australia-women-in-india-2023-24-1406065/india-women-vs-australia-women-only-test-1406077/live-cricket-score\">over in Mumbai,</a> <B>Australia</b> have been rolled over for 219 by <strong>India</strong> in the women's Test match's first day."}, {"type": "HTML", "html": "India have been in nine series deciders since 2019. Their record is 7-2.<BR><BR>rajith: \"expected high scoring matches but both turned out low scoring boring ones \""}, {"type": "HTML", "html": "<strong>Also read: </strong> How do the <a href=\"https://www.espncricinfo.com/story/ipl-2024-auction-how-csk-mi-rcb-srh-kkr-gt-lsg-rr-dc-pbks-stack-up-1413527\">10 IPL teams stack up</a> after the auction?"}, {"type": "HTML", "html": "Win toss, bat first? The last three scores here in the first innings have been 287, 296 and 291! Also to be seen are if Rajat Patidar gets a game, and who between Shamsi and Lizaad Williams for SA."}, {"type": "HTML", "html": "<strong>11.55am</strong> It's the series decider in Paarl, where a beautiful afternoon welcomes both South Africa and India. It's been a well-fought battle, this series, and we're all hoping for an entertaining conclusion to the ODIs. It also allows the next gen to shine under pressure, as Alagappan Muthu writes in our <a href=\"https://www.espncricinfo.com/series/india-in-south-africa-2023-24-1387592/south-africa-vs-india-3rd-odi-1387602/match-preview\">preview</a>."}]The anthems are done. Players making their way to the centre. Sudharsan opens with Rajat Patidar, the debutant. Nandre Burger with the new ball. Two slips in place. <b>12.50pm </B> So who is Rajat Patidar? Where does he come from? What has he done to make it this far? Had an opportunity to <a href="https://www.espncricinfo.com/story/mi-vs-rcb-ipl-2021-rajat-patidar-ready-to-make-a-splash-in-ipl-after-amazing-last-few-months-1258390">profile his journey</a> (written when he made his IPL debut in 2021). The XIs for you <strong>South Africa:</strong> de Zorzi, Hendricks, van der Dussen, Markram, Klaasen, Miller, Mulder, Maharaj, Burger, Williams, Beauran Hendricks <strong>India:</strong> Sudharsan, Samson, Patidar, Tilak, Rahul, Rinku, Axar, Washington, Arshdeep, Avesh, Mukesh <B>Toss:</b> <B>South Africa opt to bowl.</b> "Looks a really good wicket, can't see it changing over 100 overs. Want to replicate from the second game. Hopefully we can take wickets nice and regularly," Markram says. Wants "more of the same" from his team and says playing smartly with the long straight boundaries here will be important. Same team.<BR><BR><B>KL Rahul:</b> "The lights come on pretty late so don't think it will be a big factor. We were in a decent position in the last game, and should've capitalised in the last 15 overs." Says he hopes "this pitch plays better." Ruturaj's damage to his finger keeps him out. No Chahal. Washington replaces a rested Kuldeep Yadav. <B>Pitch report:</b> Hot day, temperatures in the mid 30s. The pitch is dry, and when the sun is out, it is slightly slow to bat. "Something in the range of 272" would be a good score, says Vernon Philander. Does that tempt India to play Yuzvendra Chahal? <B>12.17pm Rajat Patidar will make his ODI debut</b>. A total of 1963 runs in 56 List-A games. Where will he bat? Does he come in for Ruturaj Gaikwad, who didn't field in the second ODI due to a finger injury? Northpaw: "They were anything but boring, @rajith! Great to see the bowlers from both sides doing their thing." ICYMI, <a href="https://www.espncricinfo.com/series/australia-women-in-india-2023-24-1406065/india-women-vs-australia-women-only-test-1406077/live-cricket-score">over in Mumbai,</a> <B>Australia</b> have been rolled over for 219 by <strong>India</strong> in the women's Test match's first day. India have been in nine series deciders since 2019. Their record is 7-2.<BR><BR>rajith: "expected high scoring matches but both turned out low scoring boring ones " <strong>Also read: </strong> How do the <a href="https://www.espncricinfo.com/story/ipl-2024-auction-how-csk-mi-rcb-srh-kkr-gt-lsg-rr-dc-pbks-stack-up-1413527">10 IPL teams stack up</a> after the auction? Win toss, bat first? The last three scores here in the first innings have been 287, 296 and 291! Also to be seen are if Rajat Patidar gets a game, and who between Shamsi and Lizaad Williams for SA. <strong>11.55am</strong> It's the series decider in Paarl, where a beautiful afternoon welcomes both South Africa and India. It's been a well-fought battle, this series, and we're all hoping for an entertaining conclusion to the ODIs. It also allows the next gen to shine under pressure, as Alagappan Muthu writes in our <a href="https://www.espncricinfo.com/series/india-in-south-africa-2023-24-1387592/south-africa-vs-india-3rd-odi-1387602/match-preview">preview</a>.
-slants one across the debutant, there's a hint of movement in as Patidar plays and misses first up.
+
+[{"type": "HTML", "html": "slants one across the debutant, there's a hint of movement in as Patidar plays and misses first up."}]slants one across the debutant, there's a hint of movement in as Patidar plays and misses first up.
+
+
 Balls faced: 14
 Bowler: Burger
-Over:3
+Over: 3
 Shot: LEFT_ALONE
-run scored: 0
-short of length and moving away, he sees this through to the keeper.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short of length and moving away, he sees this through to the keeper."}]short of length and moving away, he sees this through to the keeper.
+
+
 Balls faced: 15
 Bowler: Burger
-Over:3
+Over: 3
 Shot: DAB
-run scored: 0
-hustled for pace, cramped for room as well, manages to hop back and defend though. Hitting the early 140kph mark is Burger
+Run scored: 0
+
+
+[{"type": "HTML", "html": "hustled for pace, cramped for room as well, manages to hop back and defend though. Hitting the early 140kph mark is Burger"}]hustled for pace, cramped for room as well, manages to hop back and defend though. Hitting the early 140kph mark is Burger
+
+
 Balls faced: 16
 Bowler: Burger
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
-gets half-forward and bunts it to the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "gets half-forward and bunts it to the off side"}]gets half-forward and bunts it to the off side
+
+
 Balls faced: 17
 Bowler: Burger
-Over:3
+Over: 3
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Ravish: \"1.2 over, how is that first international runs? It's first inter boundary for him.\" -- Yes, sir. You're right. I mistook the leading edge in the first over for a leg bye. Human error. Please forgive me."}]Ravish: "1.2 over, how is that first international runs? It's first inter boundary for him." -- Yes, sir. You're right. I mistook the leading edge in the first over for a leg bye. Human error. Please forgive me.
-excellent bumper. Patidar bails out of the hook shot because he quickly realises this is zipping over. It's a good call in the end. Way over his head.
+
+[{"type": "HTML", "html": "excellent bumper. Patidar bails out of the hook shot because he quickly realises this is zipping over. It's a good call in the end. Way over his head."}]excellent bumper. Patidar bails out of the hook shot because he quickly realises this is zipping over. It's a good call in the end. Way over his head.
+
 Wide: 1
 Balls faced: 18
 Bowler: Burger
-Over:3
+Over: 3
 Shot: COVER_DRIVE
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Patidar stands to gain with the new IPL ruling that incentivises uncapped players. He was signed for INR 20 lakh at the auction by RCB. But because he's capped between two IPL seasons, his contract fee will automatically be upgraded to INR 50 lakh for now."}]Patidar stands to gain with the new IPL ruling that incentivises uncapped players. He was signed for INR 20 lakh at the auction by RCB. But because he's capped between two IPL seasons, his contract fee will automatically be upgraded to INR 50 lakh for now.
-looks to drive on the up, gets a thick inside edge down to fine leg.
+
+[{"type": "HTML", "html": "looks to drive on the up, gets a thick inside edge down to fine leg."}]looks to drive on the up, gets a thick inside edge down to fine leg.
+
+
 Balls faced: 19
 Bowler: Williams
-Over:2
+Over: 2
 Shot: CUT_SHOT
-run scored: 1
-looks to flay this through point, the ball rolls off the bottom edge to third man.
+Run scored: 1
+
+
+[{"type": "HTML", "html": "looks to flay this through point, the ball rolls off the bottom edge to third man."}]looks to flay this through point, the ball rolls off the bottom edge to third man.
+
+
 Balls faced: 20
 Bowler: Williams
-Over:2
+Over: 2
 Shot: FLICK
-run scored: 4
-angles into the pads and Patidar ain't gonna miss out. Flicks it imperiously over square leg. <strong>Balance and timing perfect.</strong>
+Run scored: 4
+
+
+[{"type": "HTML", "html": "angles into the pads and Patidar ain't gonna miss out. Flicks it imperiously over square leg. <strong>Balance and timing perfect.</strong>"}]angles into the pads and Patidar ain't gonna miss out. Flicks it imperiously over square leg. <strong>Balance and timing perfect.</strong>
+
+
 Balls faced: 21
 Bowler: Williams
-Over:2
+Over: 2
 Shot: COVER_DRIVE
-run scored: 0
-pushed into the off side. Took the bottom hand off as he made contact with this length ball that seemed to have held on a bit more.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pushed into the off side. Took the bottom hand off as he made contact with this length ball that seemed to have held on a bit more."}]pushed into the off side. Took the bottom hand off as he made contact with this length ball that seemed to have held on a bit more.
+
+
 Balls faced: 22
 Bowler: Williams
-Over:2
+Over: 2
 Shot: FLICK
-run scored: 2
-veering on a length around middle and leg, whipped into the gap at midwicket for a couple
+Run scored: 2
+
+
+[{"type": "HTML", "html": "veering on a length around middle and leg, whipped into the gap at midwicket for a couple"}]veering on a length around middle and leg, whipped into the gap at midwicket for a couple
+
+
 Balls faced: 23
 Bowler: Williams
-Over:2
+Over: 2
 Shot: CUT_SHOT
-run scored: 4
-<strong>delightful first boundary in international cricket for Patidar!</strong> Stands tall and punches this square of the wicket as the ball races away through point
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>delightful first boundary in international cricket for Patidar!</strong> Stands tall and punches this square of the wicket as the ball races away through point"}]<strong>delightful first boundary in international cricket for Patidar!</strong> Stands tall and punches this square of the wicket as the ball races away through point
+
+
 Balls faced: 24
 Bowler: Burger
-Over:3
+Over: 3
 Shot: LEFT_ALONE
-run scored: 0
-short of length and moving away, he sees this through to the keeper.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "short of length and moving away, he sees this through to the keeper."}]short of length and moving away, he sees this through to the keeper.
+
+
 Balls faced: 25
 Bowler: Burger
-Over:3
+Over: 3
 Shot: DAB
-run scored: 0
-hustled for pace, cramped for room as well, manages to hop back and defend though. Hitting the early 140kph mark is Burger
+Run scored: 0
+
+
+[{"type": "HTML", "html": "hustled for pace, cramped for room as well, manages to hop back and defend though. Hitting the early 140kph mark is Burger"}]hustled for pace, cramped for room as well, manages to hop back and defend though. Hitting the early 140kph mark is Burger
+
+
 Balls faced: 26
 Bowler: Burger
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
-gets half-forward and bunts it to the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "gets half-forward and bunts it to the off side"}]gets half-forward and bunts it to the off side
+
+
 Balls faced: 27
 Bowler: Burger
-Over:3
+Over: 3
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Ravish: \"1.2 over, how is that first international runs? It's first inter boundary for him.\" -- Yes, sir. You're right. I mistook the leading edge in the first over for a leg bye. Human error. Please forgive me."}]Ravish: "1.2 over, how is that first international runs? It's first inter boundary for him." -- Yes, sir. You're right. I mistook the leading edge in the first over for a leg bye. Human error. Please forgive me.
-excellent bumper. Patidar bails out of the hook shot because he quickly realises this is zipping over. It's a good call in the end. Way over his head.
+
+[{"type": "HTML", "html": "excellent bumper. Patidar bails out of the hook shot because he quickly realises this is zipping over. It's a good call in the end. Way over his head."}]excellent bumper. Patidar bails out of the hook shot because he quickly realises this is zipping over. It's a good call in the end. Way over his head.
+
 Wide: 1
 Balls faced: 28
 Bowler: Burger
-Over:3
+Over: 3
 Shot: COVER_DRIVE
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Patidar stands to gain with the new IPL ruling that incentivises uncapped players. He was signed for INR 20 lakh at the auction by RCB. But because he's capped between two IPL seasons, his contract fee will automatically be upgraded to INR 50 lakh for now."}]Patidar stands to gain with the new IPL ruling that incentivises uncapped players. He was signed for INR 20 lakh at the auction by RCB. But because he's capped between two IPL seasons, his contract fee will automatically be upgraded to INR 50 lakh for now.
-looks to drive on the up, gets a thick inside edge down to fine leg.
+
+[{"type": "HTML", "html": "looks to drive on the up, gets a thick inside edge down to fine leg."}]looks to drive on the up, gets a thick inside edge down to fine leg.
+
+
 Balls faced: 29
 Bowler: Burger
-Over:5
+Over: 5
 Shot: STRAIGHT_DRIVE
-run scored: 0
-OUT! {"short": "bowled", "long": " b Burger", "commentary": "Rajat Patidar b Burger 22 (16b 3x4 1x6 23m) SR: 137.5"}
-the full ball has done the trick for Burger who lets out a roar! He's managed to slip this past Patidar's flick. This was on middle and off, Patidar has the confidence to pick the gap through midwicket. But misses it altogether as the stumps are disturbed. Could he have been better off playing it straighter? Perhaps. Commentator's curse? End to a promising innings.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "the full ball has done the trick for Burger who lets out a roar! He's managed to slip this past Patidar's flick. This was on middle and off, Patidar has the confidence to pick the gap through midwicket. But misses it altogether as the stumps are disturbed. Could he have been better off playing it straighter? Perhaps. Commentator's curse? End to a promising innings."}]the full ball has done the trick for Burger who lets out a roar! He's managed to slip this past Patidar's flick. This was on middle and off, Patidar has the confidence to pick the gap through midwicket. But misses it altogether as the stumps are disturbed. Could he have been better off playing it straighter? Perhaps. Commentator's curse? End to a promising innings.
+
+
 Balls faced: 30
 Bowler: Burger
-Over:5
+Over: 5
 Shot: PULL
-run scored: 4
-it's the short-arm jab to the fore this time. Manages to pick it up and over midwicket as the ball trickles away to the boundary on this slow outfield. Patidar is looking in cracking form already. No nerves.
+Run scored: 4
+
+
+[{"type": "HTML", "html": "it's the short-arm jab to the fore this time. Manages to pick it up and over midwicket as the ball trickles away to the boundary on this slow outfield. Patidar is looking in cracking form already. No nerves."}]it's the short-arm jab to the fore this time. Manages to pick it up and over midwicket as the ball trickles away to the boundary on this slow outfield. Patidar is looking in cracking form already. No nerves.
+
+
 Balls faced: 31
 Bowler: Burger
-Over:5
+Over: 5
 Shot: DEFENDED
-run scored: 0
-shorter in length on middle, the lifter raps him on the glove. Patidar was anyway looking to play it with soft hands
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shorter in length on middle, the lifter raps him on the glove. Patidar was anyway looking to play it with soft hands"}]shorter in length on middle, the lifter raps him on the glove. Patidar was anyway looking to play it with soft hands
+
+
 Balls faced: 32
 Bowler: Burger
-Over:5
+Over: 5
 Shot: FLICK
-run scored: 6
-<strong>disdainfully smacked for six!</strong> Length on middle and leg, Patidar's bat flow is so smooth that he picks this up and flicks it nonchalantly over midwicket. My word, that's stunning.
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<strong>disdainfully smacked for six!</strong> Length on middle and leg, Patidar's bat flow is so smooth that he picks this up and flicks it nonchalantly over midwicket. My word, that's stunning."}]<strong>disdainfully smacked for six!</strong> Length on middle and leg, Patidar's bat flow is so smooth that he picks this up and flicks it nonchalantly over midwicket. My word, that's stunning.
+
+
 Balls faced: 33
 Bowler: Burger
-Over:5
+Over: 5
 Shot: STRAIGHT_DRIVE
-run scored: 0
-OUT! {"short": "bowled", "long": " b Burger", "commentary": "Rajat Patidar b Burger 22 (16b 3x4 1x6 23m) SR: 137.5"}
-the full ball has done the trick for Burger who lets out a roar! He's managed to slip this past Patidar's flick. This was on middle and off, Patidar has the confidence to pick the gap through midwicket. But misses it altogether as the stumps are disturbed. Could he have been better off playing it straighter? Perhaps. Commentator's curse? End to a promising innings.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "the full ball has done the trick for Burger who lets out a roar! He's managed to slip this past Patidar's flick. This was on middle and off, Patidar has the confidence to pick the gap through midwicket. But misses it altogether as the stumps are disturbed. Could he have been better off playing it straighter? Perhaps. Commentator's curse? End to a promising innings."}]the full ball has done the trick for Burger who lets out a roar! He's managed to slip this past Patidar's flick. This was on middle and off, Patidar has the confidence to pick the gap through midwicket. But misses it altogether as the stumps are disturbed. Could he have been better off playing it straighter? Perhaps. Commentator's curse? End to a promising innings.
+
+
 Balls faced: 34
 Bowler: Burger
-Over:5
+Over: 5
 Shot: PULL
-run scored: 4
-it's the short-arm jab to the fore this time. Manages to pick it up and over midwicket as the ball trickles away to the boundary on this slow outfield. Patidar is looking in cracking form already. No nerves.
+Run scored: 4
+
+
+[{"type": "HTML", "html": "it's the short-arm jab to the fore this time. Manages to pick it up and over midwicket as the ball trickles away to the boundary on this slow outfield. Patidar is looking in cracking form already. No nerves."}]it's the short-arm jab to the fore this time. Manages to pick it up and over midwicket as the ball trickles away to the boundary on this slow outfield. Patidar is looking in cracking form already. No nerves.
+
+
 Balls faced: 35
 Bowler: Burger
-Over:5
+Over: 5
 Shot: DEFENDED
-run scored: 0
-shorter in length on middle, the lifter raps him on the glove. Patidar was anyway looking to play it with soft hands
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shorter in length on middle, the lifter raps him on the glove. Patidar was anyway looking to play it with soft hands"}]shorter in length on middle, the lifter raps him on the glove. Patidar was anyway looking to play it with soft hands
+
+
 Balls faced: 36
 Bowler: Burger
-Over:5
+Over: 5
 Shot: FLICK
-run scored: 6
-<strong>disdainfully smacked for six!</strong> Length on middle and leg, Patidar's bat flow is so smooth that he picks this up and flicks it nonchalantly over midwicket. My word, that's stunning.
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<strong>disdainfully smacked for six!</strong> Length on middle and leg, Patidar's bat flow is so smooth that he picks this up and flicks it nonchalantly over midwicket. My word, that's stunning."}]<strong>disdainfully smacked for six!</strong> Length on middle and leg, Patidar's bat flow is so smooth that he picks this up and flicks it nonchalantly over midwicket. My word, that's stunning.
+
+
+
+Match: all_games_1389386_1389401.json
+Balls faced: 1
+Bowler: Wood
+Over: 6
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length just outside off, left alone"}]Length just outside off, left alone
+[{"type": "HTML", "html": "Parth Verma: \"The perennial problem in pressing forward by Gill\u2026yesterday itself he was practicing long and short strides in the nets\""}]Parth Verma: "The perennial problem in pressing forward by Gill…yesterday itself he was practicing long and short strides in the nets"
+
+Balls faced: 2
+Bowler: Wood
+Over: 6
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish ball on fourth, 145ks, gets low and defends towards point"}]Fullish ball on fourth, 145ks, gets low and defends towards point
+
+
+Balls faced: 3
+Bowler: Anderson
+Over: 7
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Back of length on fourth, 130ks, punched off the back foot to the bowler"}]Back of length on fourth, 130ks, punched off the back foot to the bowler
+[{"type": "HTML", "html": "Anuraag: \"I don't know if its just me, but each time I struggle to imagine what could be declared as the 8th wonder of the world. And then I see a 41 year old fast bowler springing in like the breeze, preparing to swerve a cricket ball at 135 kmph, more lethally than men half his age. And then I don't have to imagine anymore. \""}]Anuraag: "I don't know if its just me, but each time I struggle to imagine what could be declared as the 8th wonder of the world. And then I see a 41 year old fast bowler springing in like the breeze, preparing to swerve a cricket ball at 135 kmph, more lethally than men half his age. And then I don't have to imagine anymore. "
+
+Balls faced: 4
+Bowler: Anderson
+Over: 7
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length outside off, left alone"}]Length outside off, left alone
+
+
+Balls faced: 5
+Bowler: Anderson
+Over: 7
+Shot: COVER_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Strong chants of 'India, India' around the ground"}]Strong chants of 'India, India' around the ground
+
+[{"type": "HTML", "html": "Beaten on the cut. Back of length on sixth, the ball got good carry and went over the bat. Patidar saw the line, glued his feet and threw his hands out. Missed it"}]Beaten on the cut. Back of length on sixth, the ball got good carry and went over the bat. Patidar saw the line, glued his feet and threw his hands out. Missed it
+
+
+Balls faced: 6
+Bowler: Anderson
+Over: 7
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Comes back in towards off, Patidar is confident on the leave. Does well in the end. That one cut back from a three-quarter length."}]Comes back in towards off, Patidar is confident on the leave. Does well in the end. That one cut back from a three-quarter length.
+
+
+Balls faced: 7
+Bowler: Anderson
+Over: 7
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Wonder if that was a tempter. Wide on a fullish length. Patidar wants nothing to do with it"}]Wonder if that was a tempter. Wide on a fullish length. Patidar wants nothing to do with it
+
+
+Balls faced: 8
+Bowler: Wood
+Over: 6
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length just outside off, left alone"}]Length just outside off, left alone
+[{"type": "HTML", "html": "Parth Verma: \"The perennial problem in pressing forward by Gill\u2026yesterday itself he was practicing long and short strides in the nets\""}]Parth Verma: "The perennial problem in pressing forward by Gill…yesterday itself he was practicing long and short strides in the nets"
+
+Balls faced: 9
+Bowler: Wood
+Over: 6
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish ball on fourth, 145ks, gets low and defends towards point"}]Fullish ball on fourth, 145ks, gets low and defends towards point
+
+
+Balls faced: 10
+Bowler: Wood
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length around off, tucked off the back foot to the leg side"}]Length around off, tucked off the back foot to the leg side
+[{"type": "HTML", "html": "Karan: \"Perfect opportunity for the new joiners\""}]Karan: "Perfect opportunity for the new joiners"
+
+Balls faced: 11
+Bowler: Wood
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length just outside off, defended to cover"}]Length just outside off, defended to cover
+
+
+Balls faced: 12
+Bowler: Wood
+Over: 8
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Punched through cover point from deep in the crease. 147ks on a back of length just outside off, not much pace off the pitch. Patidar playing it like how Rohit did to get his first boundary."}]Punched through cover point from deep in the crease. 147ks on a back of length just outside off, not much pace off the pitch. Patidar playing it like how Rohit did to get his first boundary.
+[{"type": "HTML", "html": "Hari: \"Suddenly the batting line up looks thinner than ever with two debutants and two bowling all rounders to follow \""}]Hari: "Suddenly the batting line up looks thinner than ever with two debutants and two bowling all rounders to follow "
+
+Balls faced: 13
+Bowler: Wood
+Over: 8
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Three slips, gully, forward short leg in"}]Three slips, gully, forward short leg in
+
+[{"type": "HTML", "html": "Into the pitch around off, clpped to the right of deep fine leg who was on the squarer side"}]Into the pitch around off, clpped to the right of deep fine leg who was on the squarer side
+
+
+Balls faced: 14
+Bowler: Anderson
+Over: 7
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Back of length on fourth, 130ks, punched off the back foot to the bowler"}]Back of length on fourth, 130ks, punched off the back foot to the bowler
+[{"type": "HTML", "html": "Anuraag: \"I don't know if its just me, but each time I struggle to imagine what could be declared as the 8th wonder of the world. And then I see a 41 year old fast bowler springing in like the breeze, preparing to swerve a cricket ball at 135 kmph, more lethally than men half his age. And then I don't have to imagine anymore. \""}]Anuraag: "I don't know if its just me, but each time I struggle to imagine what could be declared as the 8th wonder of the world. And then I see a 41 year old fast bowler springing in like the breeze, preparing to swerve a cricket ball at 135 kmph, more lethally than men half his age. And then I don't have to imagine anymore. "
+
+Balls faced: 15
+Bowler: Anderson
+Over: 7
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length outside off, left alone"}]Length outside off, left alone
+
+
+Balls faced: 16
+Bowler: Anderson
+Over: 7
+Shot: COVER_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Strong chants of 'India, India' around the ground"}]Strong chants of 'India, India' around the ground
+
+[{"type": "HTML", "html": "Beaten on the cut. Back of length on sixth, the ball got good carry and went over the bat. Patidar saw the line, glued his feet and threw his hands out. Missed it"}]Beaten on the cut. Back of length on sixth, the ball got good carry and went over the bat. Patidar saw the line, glued his feet and threw his hands out. Missed it
+
+
+Balls faced: 17
+Bowler: Anderson
+Over: 7
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Comes back in towards off, Patidar is confident on the leave. Does well in the end. That one cut back from a three-quarter length."}]Comes back in towards off, Patidar is confident on the leave. Does well in the end. That one cut back from a three-quarter length.
+
+
+Balls faced: 18
+Bowler: Anderson
+Over: 7
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Wonder if that was a tempter. Wide on a fullish length. Patidar wants nothing to do with it"}]Wonder if that was a tempter. Wide on a fullish length. Patidar wants nothing to do with it
+
+
+Balls faced: 19
+Bowler: Hartley
+Over: 9
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Softie, ball sticks in the pitch and Patidar balloons it to cover!</strong> Length ball at 87ks lands outside off and spits up. Patidar did cover the spin but couldn't handle the spiteful bounce, he shaped to cut but had to withdraw after that turn and bounce. Unfortunately for Patidar, it was too late, the ball popped off the bottom-quarter of the bat."}]<strong>Softie, ball sticks in the pitch and Patidar balloons it to cover!</strong> Length ball at 87ks lands outside off and spits up. Patidar did cover the spin but couldn't handle the spiteful bounce, he shaped to cut but had to withdraw after that turn and bounce. Unfortunately for Patidar, it was too late, the ball popped off the bottom-quarter of the bat.
+[{"type": "HTML", "html": "Sandeep: \"Good toss to lose it seems. \""}]Sandeep: "Good toss to lose it seems. "
+
+Balls faced: 20
+Bowler: Hartley
+Over: 9
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Goes back to a slowish length ball on leg and tucks it to midwicket"}]Goes back to a slowish length ball on leg and tucks it to midwicket
+
+
+Balls faced: 21
+Bowler: Hartley
+Over: 9
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Nice flight. Full on off, 86ks, defended towards cover"}]Nice flight. Full on off, 86ks, defended towards cover
+
+
+Balls faced: 22
+Bowler: Hartley
+Over: 9
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Loopy fullish ball on leg at 87ks, clipped to midwicket"}]Loopy fullish ball on leg at 87ks, clipped to midwicket
+
+
+Balls faced: 23
+Bowler: Wood
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length around off, tucked off the back foot to the leg side"}]Length around off, tucked off the back foot to the leg side
+[{"type": "HTML", "html": "Karan: \"Perfect opportunity for the new joiners\""}]Karan: "Perfect opportunity for the new joiners"
+
+Balls faced: 24
+Bowler: Wood
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length just outside off, defended to cover"}]Length just outside off, defended to cover
+
+
+Balls faced: 25
+Bowler: Wood
+Over: 8
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Punched through cover point from deep in the crease. 147ks on a back of length just outside off, not much pace off the pitch. Patidar playing it like how Rohit did to get his first boundary."}]Punched through cover point from deep in the crease. 147ks on a back of length just outside off, not much pace off the pitch. Patidar playing it like how Rohit did to get his first boundary.
+[{"type": "HTML", "html": "Hari: \"Suddenly the batting line up looks thinner than ever with two debutants and two bowling all rounders to follow \""}]Hari: "Suddenly the batting line up looks thinner than ever with two debutants and two bowling all rounders to follow "
+
+Balls faced: 26
+Bowler: Wood
+Over: 8
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Three slips, gully, forward short leg in"}]Three slips, gully, forward short leg in
+
+[{"type": "HTML", "html": "Into the pitch around off, clpped to the right of deep fine leg who was on the squarer side"}]Into the pitch around off, clpped to the right of deep fine leg who was on the squarer side
+
+
+Balls faced: 27
+Bowler: Hartley
+Over: 9
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Softie, ball sticks in the pitch and Patidar balloons it to cover!</strong> Length ball at 87ks lands outside off and spits up. Patidar did cover the spin but couldn't handle the spiteful bounce, he shaped to cut but had to withdraw after that turn and bounce. Unfortunately for Patidar, it was too late, the ball popped off the bottom-quarter of the bat."}]<strong>Softie, ball sticks in the pitch and Patidar balloons it to cover!</strong> Length ball at 87ks lands outside off and spits up. Patidar did cover the spin but couldn't handle the spiteful bounce, he shaped to cut but had to withdraw after that turn and bounce. Unfortunately for Patidar, it was too late, the ball popped off the bottom-quarter of the bat.
+[{"type": "HTML", "html": "Sandeep: \"Good toss to lose it seems. \""}]Sandeep: "Good toss to lose it seems. "
+
+Balls faced: 28
+Bowler: Hartley
+Over: 9
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Goes back to a slowish length ball on leg and tucks it to midwicket"}]Goes back to a slowish length ball on leg and tucks it to midwicket
+
+
+Balls faced: 29
+Bowler: Hartley
+Over: 9
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Nice flight. Full on off, 86ks, defended towards cover"}]Nice flight. Full on off, 86ks, defended towards cover
+
+
+Balls faced: 30
+Bowler: Hartley
+Over: 9
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Loopy fullish ball on leg at 87ks, clipped to midwicket"}]Loopy fullish ball on leg at 87ks, clipped to midwicket
+
+
+
+Match: all_games_1389386_1389402.json
+Balls faced: 1
+Bowler: Bashir
+Over: 25
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fully forward, and punched into the covers. A fine over"}]fully forward, and punched into the covers. A fine over
+
+
+Balls faced: 2
+Bowler: Bashir
+Over: 25
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length, jabbed off the pads to square leg"}]back of a length, jabbed off the pads to square leg
+
+
+Balls faced: 3
+Bowler: Bashir
+Over: 25
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "probing length, nudged to the leg-side on the front foot"}]probing length, nudged to the leg-side on the front foot
+
+
+Balls faced: 4
+Bowler: Bashir
+Over: 25
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "stabbed off the front foot, and <B>in the air past short leg!</B> Very tentative, but wide of the man"}]stabbed off the front foot, and <B>in the air past short leg!</B> Very tentative, but wide of the man
+
+
+Balls faced: 5
+Bowler: Bashir
+Over: 25
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Greetings. A lively ten-minute passage before drinks, but England have got the breakthrough is they desperately needed. Patidar is the new man, under pressure for his place too"}]Greetings. A lively ten-minute passage before drinks, but England have got the breakthrough is they desperately needed. Patidar is the new man, under pressure for his place too
+
+[{"type": "HTML", "html": "tight line outside off, on the front foot"}]tight line outside off, on the front foot
+
+
+Balls faced: 6
+Bowler: Robinson
+Over: 26
+Shot: STEERED
+Run scored: 4
+
+
+[{"type": "HTML", "html": "opens the face well this time, a fractionally wider and guided down through deep third to open his account"}]opens the face well this time, a fractionally wider and guided down through deep third to open his account
+
+
+Balls faced: 7
+Bowler: Robinson
+Over: 26
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "right behind the line of the ball, keeping low but very stump-to-stump. Defended with resolve"}]right behind the line of the ball, keeping low but very stump-to-stump. Defended with resolve
+[{"type": "HTML", "html": "Milind: \"Patidar is here on borrowed time. Another failure this match and it will be difficult for him to justify his position\". You sense he knows it too, quite tentative so far"}]Milind: "Patidar is here on borrowed time. Another failure this match and it will be difficult for him to justify his position". You sense he knows it too, quite tentative so far
+
+Balls faced: 8
+Bowler: Robinson
+Over: 26
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tight lines to the right-hander, keeping a touch low on off stump as Patidar stabs his hands low to defend"}]tight lines to the right-hander, keeping a touch low on off stump as Patidar stabs his hands low to defend
+
+
+Balls faced: 9
+Bowler: Bashir
+Over: 25
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fully forward, and punched into the covers. A fine over"}]fully forward, and punched into the covers. A fine over
+
+
+Balls faced: 10
+Bowler: Bashir
+Over: 25
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length, jabbed off the pads to square leg"}]back of a length, jabbed off the pads to square leg
+
+
+Balls faced: 11
+Bowler: Bashir
+Over: 25
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "probing length, nudged to the leg-side on the front foot"}]probing length, nudged to the leg-side on the front foot
+
+
+Balls faced: 12
+Bowler: Bashir
+Over: 25
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "stabbed off the front foot, and <B>in the air past short leg!</B> Very tentative, but wide of the man"}]stabbed off the front foot, and <B>in the air past short leg!</B> Very tentative, but wide of the man
+
+
+Balls faced: 13
+Bowler: Bashir
+Over: 25
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Greetings. A lively ten-minute passage before drinks, but England have got the breakthrough is they desperately needed. Patidar is the new man, under pressure for his place too"}]Greetings. A lively ten-minute passage before drinks, but England have got the breakthrough is they desperately needed. Patidar is the new man, under pressure for his place too
+
+[{"type": "HTML", "html": "tight line outside off, on the front foot"}]tight line outside off, on the front foot
+
+
+Balls faced: 14
+Bowler: Bashir
+Over: 27
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pressed back down the pitch to complete another excellent over"}]pressed back down the pitch to complete another excellent over
+
+
+Balls faced: 15
+Bowler: Bashir
+Over: 27
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "turns into the legs, clipped in the air past short leg... a catchable height but off the face of the bat, Pope couldn't be expected to react in time. Flies past his ribs as square leg tidies up"}]turns into the legs, clipped in the air past short leg... a catchable height but off the face of the bat, Pope couldn't be expected to react in time. Flies past his ribs as square leg tidies up
+
+
+Balls faced: 16
+Bowler: Bashir
+Over: 27
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "excellent probing from Bashir, just outside off once more, squeezed defence to gully"}]excellent probing from Bashir, just outside off once more, squeezed defence to gully
+
+
+Balls faced: 17
+Bowler: Bashir
+Over: 27
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "thrusts out the front pad to the off-stump line, lets the ball climb past"}]thrusts out the front pad to the off-stump line, lets the ball climb past
+
+
+Balls faced: 18
+Bowler: Bashir
+Over: 27
+Shot: PUSH
+Run scored: 0
+[{"type": "HTML", "html": "Slip and short leg for Patidar"}]Slip and short leg for Patidar
+
+[{"type": "HTML", "html": "full length outside off, threatening to turn and blocked on the front foot"}]full length outside off, threatening to turn and blocked on the front foot
+
+
+Balls faced: 19
+Bowler: Robinson
+Over: 26
+Shot: STEERED
+Run scored: 4
+
+
+[{"type": "HTML", "html": "opens the face well this time, a fractionally wider and guided down through deep third to open his account"}]opens the face well this time, a fractionally wider and guided down through deep third to open his account
+
+
+Balls faced: 20
+Bowler: Robinson
+Over: 26
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "right behind the line of the ball, keeping low but very stump-to-stump. Defended with resolve"}]right behind the line of the ball, keeping low but very stump-to-stump. Defended with resolve
+[{"type": "HTML", "html": "Milind: \"Patidar is here on borrowed time. Another failure this match and it will be difficult for him to justify his position\". You sense he knows it too, quite tentative so far"}]Milind: "Patidar is here on borrowed time. Another failure this match and it will be difficult for him to justify his position". You sense he knows it too, quite tentative so far
+
+Balls faced: 21
+Bowler: Robinson
+Over: 26
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tight lines to the right-hander, keeping a touch low on off stump as Patidar stabs his hands low to defend"}]tight lines to the right-hander, keeping a touch low on off stump as Patidar stabs his hands low to defend
+
+
+Balls faced: 22
+Bowler: Anderson
+Over: 28
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "left alone in the channel outside off, tight to the stumps but a good leave"}]left alone in the channel outside off, tight to the stumps but a good leave
+
+
+Balls faced: 23
+Bowler: Anderson
+Over: 28
+Shot: FLICK
+Run scored: 4
+
+
+[{"type": "HTML", "html": "poor ball from Anderson, tailing into the pads on a full length, and Patidar cashes in very well, a composed clip off the legs, and that speeds past the midwicket sweeper, whose attempted drag-back fails"}]poor ball from Anderson, tailing into the pads on a full length, and Patidar cashes in very well, a composed clip off the legs, and that speeds past the midwicket sweeper, whose attempted drag-back fails
+
+
+Balls faced: 24
+Bowler: Anderson
+Over: 28
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Two slips and a catching midwicket"}]Two slips and a catching midwicket
+
+[{"type": "HTML", "html": "back and across to defend into the off side"}]back and across to defend into the off side
+
+
+Balls faced: 25
+Bowler: Anderson
+Over: 28
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "half-forward as Anderson targets the top of off stump. Pressed back down the pitch"}]half-forward as Anderson targets the top of off stump. Pressed back down the pitch
+
+
+Balls faced: 26
+Bowler: Anderson
+Over: 28
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "deep in the crease, pushed into the covers"}]deep in the crease, pushed into the covers
+[{"type": "HTML", "html": "Jacob: \"Heartbreak Hartley needs to come on.\" His time will come, but Bashir is doing an excellent job so far"}]Jacob: "Heartbreak Hartley needs to come on." His time will come, but Bashir is doing an excellent job so far
+
+Balls faced: 27
+Bowler: Bashir
+Over: 27
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pressed back down the pitch to complete another excellent over"}]pressed back down the pitch to complete another excellent over
+
+
+Balls faced: 28
+Bowler: Bashir
+Over: 27
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "turns into the legs, clipped in the air past short leg... a catchable height but off the face of the bat, Pope couldn't be expected to react in time. Flies past his ribs as square leg tidies up"}]turns into the legs, clipped in the air past short leg... a catchable height but off the face of the bat, Pope couldn't be expected to react in time. Flies past his ribs as square leg tidies up
+
+
+Balls faced: 29
+Bowler: Bashir
+Over: 27
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "excellent probing from Bashir, just outside off once more, squeezed defence to gully"}]excellent probing from Bashir, just outside off once more, squeezed defence to gully
+
+
+Balls faced: 30
+Bowler: Bashir
+Over: 27
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "thrusts out the front pad to the off-stump line, lets the ball climb past"}]thrusts out the front pad to the off-stump line, lets the ball climb past
+
+
+Balls faced: 31
+Bowler: Bashir
+Over: 27
+Shot: PUSH
+Run scored: 0
+[{"type": "HTML", "html": "Slip and short leg for Patidar"}]Slip and short leg for Patidar
+
+[{"type": "HTML", "html": "full length outside off, threatening to turn and blocked on the front foot"}]full length outside off, threatening to turn and blocked on the front foot
+
+
+Balls faced: 32
+Bowler: Bashir
+Over: 29
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "leaning forward again, pressed to mid-on, to complete another very tidy over"}]leaning forward again, pressed to mid-on, to complete another very tidy over
+[{"type": "HTML", "html": "Anderson to continue"}]Anderson to continue
+
+Balls faced: 33
+Bowler: Bashir
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "big stride again, met on the front foot with a full face"}]big stride again, met on the front foot with a full face
+
+
+Balls faced: 34
+Bowler: Bashir
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "head over the ball on the front foot, smothers the ball into the pitch"}]head over the ball on the front foot, smothers the ball into the pitch
+
+
+Balls faced: 35
+Bowler: Bashir
+Over: 29
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "right back on the stumps again, riding the turn to nurdle to the leg side"}]right back on the stumps again, riding the turn to nurdle to the leg side
+
+
+Balls faced: 36
+Bowler: Bashir
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "plays back to the offbreak, not sharp spin but turning into the stumps. Blocked"}]plays back to the offbreak, not sharp spin but turning into the stumps. Blocked
+
+
+Balls faced: 37
+Bowler: Anderson
+Over: 28
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "left alone in the channel outside off, tight to the stumps but a good leave"}]left alone in the channel outside off, tight to the stumps but a good leave
+
+
+Balls faced: 38
+Bowler: Anderson
+Over: 28
+Shot: FLICK
+Run scored: 4
+
+
+[{"type": "HTML", "html": "poor ball from Anderson, tailing into the pads on a full length, and Patidar cashes in very well, a composed clip off the legs, and that speeds past the midwicket sweeper, whose attempted drag-back fails"}]poor ball from Anderson, tailing into the pads on a full length, and Patidar cashes in very well, a composed clip off the legs, and that speeds past the midwicket sweeper, whose attempted drag-back fails
+
+
+Balls faced: 39
+Bowler: Anderson
+Over: 28
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Two slips and a catching midwicket"}]Two slips and a catching midwicket
+
+[{"type": "HTML", "html": "back and across to defend into the off side"}]back and across to defend into the off side
+
+
+Balls faced: 40
+Bowler: Anderson
+Over: 28
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "half-forward as Anderson targets the top of off stump. Pressed back down the pitch"}]half-forward as Anderson targets the top of off stump. Pressed back down the pitch
+
+
+Balls faced: 41
+Bowler: Anderson
+Over: 28
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "deep in the crease, pushed into the covers"}]deep in the crease, pushed into the covers
+[{"type": "HTML", "html": "Jacob: \"Heartbreak Hartley needs to come on.\" His time will come, but Bashir is doing an excellent job so far"}]Jacob: "Heartbreak Hartley needs to come on." His time will come, but Bashir is doing an excellent job so far
+
+Balls faced: 42
+Bowler: Anderson
+Over: 30
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "attacking the stumps once more, met on the front foot with a straight blade"}]attacking the stumps once more, met on the front foot with a straight blade
+[{"type": "HTML", "html": "imran: \"Anderson playing 3rd test in a row and already bowled more than Bumrah's over tally, also considering the age factor, Will he be rested for Dharamshala test. just asking\". He's looking reasonably fresh for an old man... and there's a bit of a gap between matches. Hard to say at this juncture."}]imran: "Anderson playing 3rd test in a row and already bowled more than Bumrah's over tally, also considering the age factor, Will he be rested for Dharamshala test. just asking". He's looking reasonably fresh for an old man... and there's a bit of a gap between matches. Hard to say at this juncture.
+
+Balls faced: 43
+Bowler: Anderson
+Over: 30
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "jags back this time, tucked up on the back foot"}]jags back this time, tucked up on the back foot
+
+
+Balls faced: 44
+Bowler: Anderson
+Over: 30
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<B>driven with hard hands, down through deep third!</B> Effective, but maybe not entirely in control of that one, not a lot of footwork to form his base. Outside half of the bat, flies through the gap"}]<B>driven with hard hands, down through deep third!</B> Effective, but maybe not entirely in control of that one, not a lot of footwork to form his base. Outside half of the bat, flies through the gap
+[{"type": "HTML", "html": "Fourth slip plugs the gap, as if to prove that England don't believe he was in control there"}]Fourth slip plugs the gap, as if to prove that England don't believe he was in control there
+
+Balls faced: 45
+Bowler: Bashir
+Over: 29
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "leaning forward again, pressed to mid-on, to complete another very tidy over"}]leaning forward again, pressed to mid-on, to complete another very tidy over
+[{"type": "HTML", "html": "Anderson to continue"}]Anderson to continue
+
+Balls faced: 46
+Bowler: Bashir
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "big stride again, met on the front foot with a full face"}]big stride again, met on the front foot with a full face
+
+
+Balls faced: 47
+Bowler: Bashir
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "head over the ball on the front foot, smothers the ball into the pitch"}]head over the ball on the front foot, smothers the ball into the pitch
+
+
+Balls faced: 48
+Bowler: Bashir
+Over: 29
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "right back on the stumps again, riding the turn to nurdle to the leg side"}]right back on the stumps again, riding the turn to nurdle to the leg side
+
+
+Balls faced: 49
+Bowler: Bashir
+Over: 29
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "plays back to the offbreak, not sharp spin but turning into the stumps. Blocked"}]plays back to the offbreak, not sharp spin but turning into the stumps. Blocked
+
+
+Balls faced: 50
+Bowler: Bashir
+Over: 31
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on the front foot again, pushed into the off side"}]on the front foot again, pushed into the off side
+[{"type": "HTML", "html": "Manikanta: \"That four from Patidar reminded me of sehwag\"... Yes, I can see that... less deliberate I'd argue!"}]Manikanta: "That four from Patidar reminded me of sehwag"... Yes, I can see that... less deliberate I'd argue!
+
+Balls faced: 51
+Bowler: Bashir
+Over: 31
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fired in flatter, leg-stump line, fenced to the on-side off the back foot"}]fired in flatter, leg-stump line, fenced to the on-side off the back foot
+
+
+Balls faced: 52
+Bowler: Anderson
+Over: 30
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "attacking the stumps once more, met on the front foot with a straight blade"}]attacking the stumps once more, met on the front foot with a straight blade
+[{"type": "HTML", "html": "imran: \"Anderson playing 3rd test in a row and already bowled more than Bumrah's over tally, also considering the age factor, Will he be rested for Dharamshala test. just asking\". He's looking reasonably fresh for an old man... and there's a bit of a gap between matches. Hard to say at this juncture."}]imran: "Anderson playing 3rd test in a row and already bowled more than Bumrah's over tally, also considering the age factor, Will he be rested for Dharamshala test. just asking". He's looking reasonably fresh for an old man... and there's a bit of a gap between matches. Hard to say at this juncture.
+
+Balls faced: 53
+Bowler: Anderson
+Over: 30
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "jags back this time, tucked up on the back foot"}]jags back this time, tucked up on the back foot
+
+
+Balls faced: 54
+Bowler: Anderson
+Over: 30
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<B>driven with hard hands, down through deep third!</B> Effective, but maybe not entirely in control of that one, not a lot of footwork to form his base. Outside half of the bat, flies through the gap"}]<B>driven with hard hands, down through deep third!</B> Effective, but maybe not entirely in control of that one, not a lot of footwork to form his base. Outside half of the bat, flies through the gap
+[{"type": "HTML", "html": "Fourth slip plugs the gap, as if to prove that England don't believe he was in control there"}]Fourth slip plugs the gap, as if to prove that England don't believe he was in control there
+
+Balls faced: 55
+Bowler: Hartley
+Over: 32
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "low full toss, tapped to midwicket without any drama"}]low full toss, tapped to midwicket without any drama
+[{"type": "HTML", "html": "John: \"What is happening ?  Just checking in\u2026 I thought the idea was to knock over 5-6 with the new ball before the pitch flattens ?\" That was the plan, Jaiswal had other ideas. The pitch hasn't offered a huge amount to the bowlers since that first morning"}]John: "What is happening ?  Just checking in… I thought the idea was to knock over 5-6 with the new ball before the pitch flattens ?" That was the plan, Jaiswal had other ideas. The pitch hasn't offered a huge amount to the bowlers since that first morning
+
+Balls faced: 56
+Bowler: Hartley
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "head over the ball, firm stab of the bat, back down the line"}]head over the ball, firm stab of the bat, back down the line
+
+
+Balls faced: 57
+Bowler: Hartley
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tidy line, angling in and straightening as Patidar blocks"}]tidy line, angling in and straightening as Patidar blocks
+
+
+Balls faced: 58
+Bowler: Hartley
+Over: 32
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on the back foot, punched out to the covers"}]on the back foot, punched out to the covers
+
+
+Balls faced: 59
+Bowler: Bashir
+Over: 31
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on the front foot again, pushed into the off side"}]on the front foot again, pushed into the off side
+[{"type": "HTML", "html": "Manikanta: \"That four from Patidar reminded me of sehwag\"... Yes, I can see that... less deliberate I'd argue!"}]Manikanta: "That four from Patidar reminded me of sehwag"... Yes, I can see that... less deliberate I'd argue!
+
+Balls faced: 60
+Bowler: Bashir
+Over: 31
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fired in flatter, leg-stump line, fenced to the on-side off the back foot"}]fired in flatter, leg-stump line, fenced to the on-side off the back foot
+
+
+Balls faced: 61
+Bowler: Bashir
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "lots of air, dipping on and around off stump, head over the ball to defend"}]lots of air, dipping on and around off stump, head over the ball to defend
+[{"type": "HTML", "html": "PM: \"@andrew- I like your positivity that Anderson will play in the summer \" He's not going anywhere in a hurry"}]PM: "@andrew- I like your positivity that Anderson will play in the summer " He's not going anywhere in a hurry
+
+Balls faced: 62
+Bowler: Bashir
+Over: 33
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on the back foot, Stokes in action again at a very short midwicket"}]on the back foot, Stokes in action again at a very short midwicket
+
+
+Balls faced: 63
+Bowler: Hartley
+Over: 32
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "low full toss, tapped to midwicket without any drama"}]low full toss, tapped to midwicket without any drama
+[{"type": "HTML", "html": "John: \"What is happening ?  Just checking in\u2026 I thought the idea was to knock over 5-6 with the new ball before the pitch flattens ?\" That was the plan, Jaiswal had other ideas. The pitch hasn't offered a huge amount to the bowlers since that first morning"}]John: "What is happening ?  Just checking in… I thought the idea was to knock over 5-6 with the new ball before the pitch flattens ?" That was the plan, Jaiswal had other ideas. The pitch hasn't offered a huge amount to the bowlers since that first morning
+
+Balls faced: 64
+Bowler: Hartley
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "head over the ball, firm stab of the bat, back down the line"}]head over the ball, firm stab of the bat, back down the line
+
+
+Balls faced: 65
+Bowler: Hartley
+Over: 32
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tidy line, angling in and straightening as Patidar blocks"}]tidy line, angling in and straightening as Patidar blocks
+
+
+Balls faced: 66
+Bowler: Hartley
+Over: 32
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on the back foot, punched out to the covers"}]on the back foot, punched out to the covers
+
+
+Balls faced: 67
+Bowler: Hartley
+Over: 34
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "on the back foot again, pressed to midwicket for another single. This partnership is just beginning to settle in now"}]on the back foot again, pressed to midwicket for another single. This partnership is just beginning to settle in now
+[{"type": "HTML", "html": "Sowmya : \"Have seen a bit of Patidar in domestic red ball as well as white ball matches. He is at his best when he is looking to score. He has the talent but just shouldn't get into block mode.\""}]Sowmya : "Have seen a bit of Patidar in domestic red ball as well as white ball matches. He is at his best when he is looking to score. He has the talent but just shouldn't get into block mode."
+
+Balls faced: 68
+Bowler: Hartley
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "skids on from a middle-and-leg-stump line, blocked on the pads, back to the bowler"}]skids on from a middle-and-leg-stump line, blocked on the pads, back to the bowler
+
+
+Balls faced: 69
+Bowler: Hartley
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "stretching onto the front foot, and blocked into the covers"}]stretching onto the front foot, and blocked into the covers
+
+
+Balls faced: 70
+Bowler: Hartley
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "head over the ball and a solid block out to point"}]head over the ball and a solid block out to point
+
+
+Balls faced: 71
+Bowler: Hartley
+Over: 34
+Shot: LATE_CUT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "back of a length, a delicate late cut, flashed past the slip, and away through deep third. Good use of the crease to see off the wide line"}]back of a length, a delicate late cut, flashed past the slip, and away through deep third. Good use of the crease to see off the wide line
+
+
+Balls faced: 72
+Bowler: Bashir
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "lots of air, dipping on and around off stump, head over the ball to defend"}]lots of air, dipping on and around off stump, head over the ball to defend
+[{"type": "HTML", "html": "PM: \"@andrew- I like your positivity that Anderson will play in the summer \" He's not going anywhere in a hurry"}]PM: "@andrew- I like your positivity that Anderson will play in the summer " He's not going anywhere in a hurry
+
+Balls faced: 73
+Bowler: Bashir
+Over: 33
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "on the back foot, Stokes in action again at a very short midwicket"}]on the back foot, Stokes in action again at a very short midwicket
+
+
+Balls faced: 74
+Bowler: Bashir
+Over: 35
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<B>thumped on the pads and Bashir has two!</B> Patidar has reviewed, but hard to see him escaping this one. The ball skidded on, slamming him in front. Was it maybe missing leg? There's certainly no bat involved... Ball Tracker is taking an age to build... <B>clipping leg stump, and England strike again!</B>"}]<B>thumped on the pads and Bashir has two!</B> Patidar has reviewed, but hard to see him escaping this one. The ball skidded on, slamming him in front. Was it maybe missing leg? There's certainly no bat involved... Ball Tracker is taking an age to build... <B>clipping leg stump, and England strike again!</B>
+[{"type": "HTML", "html": "What a spell this is proving to be for Bashir... he's plugging away with huge maturity, and England are just keeping themselves on top in broadly placid conditions"}]What a spell this is proving to be for Bashir... he's plugging away with huge maturity, and England are just keeping themselves on top in broadly placid conditions
+
+Balls faced: 75
+Bowler: Bashir
+Over: 35
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "head over the ball, nudged to Pope under the lid"}]head over the ball, nudged to Pope under the lid
+
+
+Balls faced: 76
+Bowler: Bashir
+Over: 35
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tight line, attacking off stump with a hint of turn into the stumps. Blocked"}]tight line, attacking off stump with a hint of turn into the stumps. Blocked
+
+
+Balls faced: 77
+Bowler: Hartley
+Over: 34
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "on the back foot again, pressed to midwicket for another single. This partnership is just beginning to settle in now"}]on the back foot again, pressed to midwicket for another single. This partnership is just beginning to settle in now
+[{"type": "HTML", "html": "Sowmya : \"Have seen a bit of Patidar in domestic red ball as well as white ball matches. He is at his best when he is looking to score. He has the talent but just shouldn't get into block mode.\""}]Sowmya : "Have seen a bit of Patidar in domestic red ball as well as white ball matches. He is at his best when he is looking to score. He has the talent but just shouldn't get into block mode."
+
+Balls faced: 78
+Bowler: Hartley
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "skids on from a middle-and-leg-stump line, blocked on the pads, back to the bowler"}]skids on from a middle-and-leg-stump line, blocked on the pads, back to the bowler
+
+
+Balls faced: 79
+Bowler: Hartley
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "stretching onto the front foot, and blocked into the covers"}]stretching onto the front foot, and blocked into the covers
+
+
+Balls faced: 80
+Bowler: Hartley
+Over: 34
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "head over the ball and a solid block out to point"}]head over the ball and a solid block out to point
+
+
+Balls faced: 81
+Bowler: Hartley
+Over: 34
+Shot: LATE_CUT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "back of a length, a delicate late cut, flashed past the slip, and away through deep third. Good use of the crease to see off the wide line"}]back of a length, a delicate late cut, flashed past the slip, and away through deep third. Good use of the crease to see off the wide line
+
+
+Balls faced: 82
+Bowler: Bashir
+Over: 35
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<B>thumped on the pads and Bashir has two!</B> Patidar has reviewed, but hard to see him escaping this one. The ball skidded on, slamming him in front. Was it maybe missing leg? There's certainly no bat involved... Ball Tracker is taking an age to build... <B>clipping leg stump, and England strike again!</B>"}]<B>thumped on the pads and Bashir has two!</B> Patidar has reviewed, but hard to see him escaping this one. The ball skidded on, slamming him in front. Was it maybe missing leg? There's certainly no bat involved... Ball Tracker is taking an age to build... <B>clipping leg stump, and England strike again!</B>
+[{"type": "HTML", "html": "What a spell this is proving to be for Bashir... he's plugging away with huge maturity, and England are just keeping themselves on top in broadly placid conditions"}]What a spell this is proving to be for Bashir... he's plugging away with huge maturity, and England are just keeping themselves on top in broadly placid conditions
+
+Balls faced: 83
+Bowler: Bashir
+Over: 35
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "head over the ball, nudged to Pope under the lid"}]head over the ball, nudged to Pope under the lid
+
+
+Balls faced: 84
+Bowler: Bashir
+Over: 35
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "tight line, attacking off stump with a hint of turn into the stumps. Blocked"}]tight line, attacking off stump with a hint of turn into the stumps. Blocked

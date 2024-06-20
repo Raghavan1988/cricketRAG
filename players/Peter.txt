@@ -1,89 +1,139 @@
-Match: southafrica_1433350_1433363.json
+Match: all_games_1433350_1433363.json
 Balls faced: 1
 Bowler: Shepherd
-Over:18
+Over: 18
 Shot: COVER_DRIVE
-run scored: 1
-full toss outside off and he hits a confident driven through to deep extra cover
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full toss outside off and he hits a confident driven through to deep extra cover"}]full toss outside off and he hits a confident driven through to deep extra cover
+
+
 Balls faced: 2
 Bowler: Hosein
-Over:19
+Over: 19
 Shot: CUT_SHOT
-run scored: 1
-full and wide outside off. Releases after a pause in his run-up. Sliced towards deep point for a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full and wide outside off. Releases after a pause in his run-up. Sliced towards deep point for a single"}]full and wide outside off. Releases after a pause in his run-up. Sliced towards deep point for a single
+
+
 Balls faced: 3
 Bowler: Hosein
-Over:19
+Over: 19
 Shot: SLOG_SHOT
-run scored: 1
-<B>chance of a catch</b> but just beyond Athanaze running behind from point. This was full outside off and the batter sliced this shot over the off side
+Run scored: 1
+
+
+[{"type": "HTML", "html": "<B>chance of a catch</b> but just beyond Athanaze running behind from point. This was full outside off and the batter sliced this shot over the off side"}]<B>chance of a catch</b> but just beyond Athanaze running behind from point. This was full outside off and the batter sliced this shot over the off side
+
+
 Balls faced: 4
 Bowler: Shepherd
-Over:18
+Over: 18
 Shot: COVER_DRIVE
-run scored: 1
-full toss outside off and he hits a confident driven through to deep extra cover
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full toss outside off and he hits a confident driven through to deep extra cover"}]full toss outside off and he hits a confident driven through to deep extra cover
+
+
 Balls faced: 5
 Bowler: Shepherd
-Over:20
+Over: 20
 Shot: FLICK
-run scored: 2
-full ball on off, and he slogs a mistimed shot to deep midwicket. <B>West Indies win by 16 runs</b>
-So West Indies wrap the series with one game to play. It is scarcely believable that South Africa were 81 for 1 after five overs, but managed only another 110 in the next 15 as the pitch slowed down and the new batters struggled. Join us for the final game of the series tomorrow, though, as both teams look to head into the T20 World Cup with some momentum. Until then, it is goodnight! Take care. <strong>Brandon King</strong>, West Indies captain: "It's an amazing feeling [to win the series]. Chase is very valuable. Very happy with his performance. They had a good start. Finished well for us. Play really good cricket - that's what we are focussing [on]." <strong>Rassie van der Dussen</strong>, South Africa captain: "We let them get too much again. The spinners bowled really well; Peter, on debut, [was] brilliant. Looking at the way Shepherd bowled today, he was disciplined... It was really disappointing. We have one more chance, and looking to bounce back tomorrow." <b>Roston Chase is the Player of the Match</b>: "Waited for the opportunity... Accustomed playing this role in the CPL. [Daren] Sammy spoke to me. The plan was to take it to 14 overs. Then we realised that the wicket was better than yesterday." Hello again, everyone. It is <b>time for the presentations</b> already. <B>5.22pm</b> West Indies take an unassailable lead in this T20I series, much to the crowd's delight here in Jamaica. This is the fifth series in a row that South Africa have not won. Sensational spell from Motie, and tidy bowling from the rest helped West Indies come back in this game. A remarkable turnaround to win despite conceding 81 in the first 4.5 overs of this chase.<BR><BR>Don't forget the batting exploits of Chase (67), King, Mayers, Fletcher and Shepherd. The big flourish from Shepherd in the back-end added the runs that made the 208 target very tough. Himanshu will be back again with the presentation and sign-off thoughts.
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full ball on off, and he slogs a mistimed shot to deep midwicket. <B>West Indies win by 16 runs</b>"}]full ball on off, and he slogs a mistimed shot to deep midwicket. <B>West Indies win by 16 runs</b>
+[{"type": "HTML", "html": "So West Indies wrap the series with one game to play. It is scarcely believable that South Africa were 81 for 1 after five overs, but managed only another 110 in the next 15 as the pitch slowed down and the new batters struggled. Join us for the final game of the series tomorrow, though, as both teams look to head into the T20 World Cup with some momentum. Until then, it is goodnight! Take care."}, {"type": "HTML", "html": "<strong>Brandon King</strong>, West Indies captain: \"It's an amazing feeling [to win the series]. Chase is very valuable. Very happy with his performance. They had a good start. Finished well for us. Play really good cricket - that's what we are focussing [on].\""}, {"type": "HTML", "html": "<strong>Rassie van der Dussen</strong>, South Africa captain: \"We let them get too much again. The spinners bowled really well; Peter, on debut, [was] brilliant. Looking at the way Shepherd bowled today, he was disciplined... It was really disappointing. We have one more chance, and looking to bounce back tomorrow.\""}, {"type": "HTML", "html": "<b>Roston Chase is the Player of the Match</b>: \"Waited for the opportunity... Accustomed playing this role in the CPL. [Daren] Sammy spoke to me. The plan was to take it to 14 overs. Then we realised that the wicket was better than yesterday.\""}, {"type": "HTML", "html": "Hello again, everyone. It is <b>time for the presentations</b> already."}, {"type": "HTML", "html": "<B>5.22pm</b> West Indies take an unassailable lead in this T20I series, much to the crowd's delight here in Jamaica. This is the fifth series in a row that South Africa have not won. Sensational spell from Motie, and tidy bowling from the rest helped West Indies come back in this game. A remarkable turnaround to win despite conceding 81 in the first 4.5 overs of this chase.<BR><BR>Don't forget the batting exploits of Chase (67), King, Mayers, Fletcher and Shepherd. The big flourish from Shepherd in the back-end added the runs that made the 208 target very tough. Himanshu will be back again with the presentation and sign-off thoughts."}]So West Indies wrap the series with one game to play. It is scarcely believable that South Africa were 81 for 1 after five overs, but managed only another 110 in the next 15 as the pitch slowed down and the new batters struggled. Join us for the final game of the series tomorrow, though, as both teams look to head into the T20 World Cup with some momentum. Until then, it is goodnight! Take care. <strong>Brandon King</strong>, West Indies captain: "It's an amazing feeling [to win the series]. Chase is very valuable. Very happy with his performance. They had a good start. Finished well for us. Play really good cricket - that's what we are focussing [on]." <strong>Rassie van der Dussen</strong>, South Africa captain: "We let them get too much again. The spinners bowled really well; Peter, on debut, [was] brilliant. Looking at the way Shepherd bowled today, he was disciplined... It was really disappointing. We have one more chance, and looking to bounce back tomorrow." <b>Roston Chase is the Player of the Match</b>: "Waited for the opportunity... Accustomed playing this role in the CPL. [Daren] Sammy spoke to me. The plan was to take it to 14 overs. Then we realised that the wicket was better than yesterday." Hello again, everyone. It is <b>time for the presentations</b> already. <B>5.22pm</b> West Indies take an unassailable lead in this T20I series, much to the crowd's delight here in Jamaica. This is the fifth series in a row that South Africa have not won. Sensational spell from Motie, and tidy bowling from the rest helped West Indies come back in this game. A remarkable turnaround to win despite conceding 81 in the first 4.5 overs of this chase.<BR><BR>Don't forget the batting exploits of Chase (67), King, Mayers, Fletcher and Shepherd. The big flourish from Shepherd in the back-end added the runs that made the 208 target very tough. Himanshu will be back again with the presentation and sign-off thoughts.
+
 Balls faced: 6
 Bowler: Shepherd
-Over:20
+Over: 20
 Shot: SLOG_SHOT
-run scored: 1
-full ball on middle. Swings across the line. Squirted away to deep third
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball on middle. Swings across the line. Squirted away to deep third"}]full ball on middle. Swings across the line. Squirted away to deep third
+
+
 Balls faced: 7
 Bowler: Shepherd
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
-cutter, and Peter is deceived by the lack of pace. This was a short ball outside off and he couldn't connect
+Run scored: 0
+
+
+[{"type": "HTML", "html": "cutter, and Peter is deceived by the lack of pace. This was a short ball outside off and he couldn't connect"}]cutter, and Peter is deceived by the lack of pace. This was a short ball outside off and he couldn't connect
+
+
 Balls faced: 8
 Bowler: Shepherd
-Over:20
+Over: 20
 Shot: COVER_DRIVE
-run scored: 4
+Run scored: 4
 [{"type": "HTML", "html": "SA need 26."}]SA need 26.
-full all on middle. Makes some room and beautifully times an inside out drive through the covers!
+
+[{"type": "HTML", "html": "full all on middle. Makes some room and beautifully times an inside out drive through the covers!"}]full all on middle. Makes some room and beautifully times an inside out drive through the covers!
+
+
 Balls faced: 9
 Bowler: Hosein
-Over:19
+Over: 19
 Shot: CUT_SHOT
-run scored: 1
-full and wide outside off. Releases after a pause in his run-up. Sliced towards deep point for a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full and wide outside off. Releases after a pause in his run-up. Sliced towards deep point for a single"}]full and wide outside off. Releases after a pause in his run-up. Sliced towards deep point for a single
+
+
 Balls faced: 10
 Bowler: Hosein
-Over:19
+Over: 19
 Shot: SLOG_SHOT
-run scored: 1
-<B>chance of a catch</b> but just beyond Athanaze running behind from point. This was full outside off and the batter sliced this shot over the off side
+Run scored: 1
+
+
+[{"type": "HTML", "html": "<B>chance of a catch</b> but just beyond Athanaze running behind from point. This was full outside off and the batter sliced this shot over the off side"}]<B>chance of a catch</b> but just beyond Athanaze running behind from point. This was full outside off and the batter sliced this shot over the off side
+
+
 Balls faced: 11
 Bowler: Shepherd
-Over:20
+Over: 20
 Shot: FLICK
-run scored: 2
-full ball on off, and he slogs a mistimed shot to deep midwicket. <B>West Indies win by 16 runs</b>
-So West Indies wrap the series with one game to play. It is scarcely believable that South Africa were 81 for 1 after five overs, but managed only another 110 in the next 15 as the pitch slowed down and the new batters struggled. Join us for the final game of the series tomorrow, though, as both teams look to head into the T20 World Cup with some momentum. Until then, it is goodnight! Take care. <strong>Brandon King</strong>, West Indies captain: "It's an amazing feeling [to win the series]. Chase is very valuable. Very happy with his performance. They had a good start. Finished well for us. Play really good cricket - that's what we are focussing [on]." <strong>Rassie van der Dussen</strong>, South Africa captain: "We let them get too much again. The spinners bowled really well; Peter, on debut, [was] brilliant. Looking at the way Shepherd bowled today, he was disciplined... It was really disappointing. We have one more chance, and looking to bounce back tomorrow." <b>Roston Chase is the Player of the Match</b>: "Waited for the opportunity... Accustomed playing this role in the CPL. [Daren] Sammy spoke to me. The plan was to take it to 14 overs. Then we realised that the wicket was better than yesterday." Hello again, everyone. It is <b>time for the presentations</b> already. <B>5.22pm</b> West Indies take an unassailable lead in this T20I series, much to the crowd's delight here in Jamaica. This is the fifth series in a row that South Africa have not won. Sensational spell from Motie, and tidy bowling from the rest helped West Indies come back in this game. A remarkable turnaround to win despite conceding 81 in the first 4.5 overs of this chase.<BR><BR>Don't forget the batting exploits of Chase (67), King, Mayers, Fletcher and Shepherd. The big flourish from Shepherd in the back-end added the runs that made the 208 target very tough. Himanshu will be back again with the presentation and sign-off thoughts.
+Run scored: 2
+
+
+[{"type": "HTML", "html": "full ball on off, and he slogs a mistimed shot to deep midwicket. <B>West Indies win by 16 runs</b>"}]full ball on off, and he slogs a mistimed shot to deep midwicket. <B>West Indies win by 16 runs</b>
+[{"type": "HTML", "html": "So West Indies wrap the series with one game to play. It is scarcely believable that South Africa were 81 for 1 after five overs, but managed only another 110 in the next 15 as the pitch slowed down and the new batters struggled. Join us for the final game of the series tomorrow, though, as both teams look to head into the T20 World Cup with some momentum. Until then, it is goodnight! Take care."}, {"type": "HTML", "html": "<strong>Brandon King</strong>, West Indies captain: \"It's an amazing feeling [to win the series]. Chase is very valuable. Very happy with his performance. They had a good start. Finished well for us. Play really good cricket - that's what we are focussing [on].\""}, {"type": "HTML", "html": "<strong>Rassie van der Dussen</strong>, South Africa captain: \"We let them get too much again. The spinners bowled really well; Peter, on debut, [was] brilliant. Looking at the way Shepherd bowled today, he was disciplined... It was really disappointing. We have one more chance, and looking to bounce back tomorrow.\""}, {"type": "HTML", "html": "<b>Roston Chase is the Player of the Match</b>: \"Waited for the opportunity... Accustomed playing this role in the CPL. [Daren] Sammy spoke to me. The plan was to take it to 14 overs. Then we realised that the wicket was better than yesterday.\""}, {"type": "HTML", "html": "Hello again, everyone. It is <b>time for the presentations</b> already."}, {"type": "HTML", "html": "<B>5.22pm</b> West Indies take an unassailable lead in this T20I series, much to the crowd's delight here in Jamaica. This is the fifth series in a row that South Africa have not won. Sensational spell from Motie, and tidy bowling from the rest helped West Indies come back in this game. A remarkable turnaround to win despite conceding 81 in the first 4.5 overs of this chase.<BR><BR>Don't forget the batting exploits of Chase (67), King, Mayers, Fletcher and Shepherd. The big flourish from Shepherd in the back-end added the runs that made the 208 target very tough. Himanshu will be back again with the presentation and sign-off thoughts."}]So West Indies wrap the series with one game to play. It is scarcely believable that South Africa were 81 for 1 after five overs, but managed only another 110 in the next 15 as the pitch slowed down and the new batters struggled. Join us for the final game of the series tomorrow, though, as both teams look to head into the T20 World Cup with some momentum. Until then, it is goodnight! Take care. <strong>Brandon King</strong>, West Indies captain: "It's an amazing feeling [to win the series]. Chase is very valuable. Very happy with his performance. They had a good start. Finished well for us. Play really good cricket - that's what we are focussing [on]." <strong>Rassie van der Dussen</strong>, South Africa captain: "We let them get too much again. The spinners bowled really well; Peter, on debut, [was] brilliant. Looking at the way Shepherd bowled today, he was disciplined... It was really disappointing. We have one more chance, and looking to bounce back tomorrow." <b>Roston Chase is the Player of the Match</b>: "Waited for the opportunity... Accustomed playing this role in the CPL. [Daren] Sammy spoke to me. The plan was to take it to 14 overs. Then we realised that the wicket was better than yesterday." Hello again, everyone. It is <b>time for the presentations</b> already. <B>5.22pm</b> West Indies take an unassailable lead in this T20I series, much to the crowd's delight here in Jamaica. This is the fifth series in a row that South Africa have not won. Sensational spell from Motie, and tidy bowling from the rest helped West Indies come back in this game. A remarkable turnaround to win despite conceding 81 in the first 4.5 overs of this chase.<BR><BR>Don't forget the batting exploits of Chase (67), King, Mayers, Fletcher and Shepherd. The big flourish from Shepherd in the back-end added the runs that made the 208 target very tough. Himanshu will be back again with the presentation and sign-off thoughts.
+
 Balls faced: 12
 Bowler: Shepherd
-Over:20
+Over: 20
 Shot: SLOG_SHOT
-run scored: 1
-full ball on middle. Swings across the line. Squirted away to deep third
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full ball on middle. Swings across the line. Squirted away to deep third"}]full ball on middle. Swings across the line. Squirted away to deep third
+
+
 Balls faced: 13
 Bowler: Shepherd
-Over:20
+Over: 20
 Shot: CUT_SHOT
-run scored: 0
-cutter, and Peter is deceived by the lack of pace. This was a short ball outside off and he couldn't connect
+Run scored: 0
+
+
+[{"type": "HTML", "html": "cutter, and Peter is deceived by the lack of pace. This was a short ball outside off and he couldn't connect"}]cutter, and Peter is deceived by the lack of pace. This was a short ball outside off and he couldn't connect
+
+
 Balls faced: 14
 Bowler: Shepherd
-Over:20
+Over: 20
 Shot: COVER_DRIVE
-run scored: 4
+Run scored: 4
 [{"type": "HTML", "html": "SA need 26."}]SA need 26.
-full all on middle. Makes some room and beautifully times an inside out drive through the covers!
+
+[{"type": "HTML", "html": "full all on middle. Makes some room and beautifully times an inside out drive through the covers!"}]full all on middle. Makes some room and beautifully times an inside out drive through the covers!
