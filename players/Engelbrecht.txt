@@ -2,921 +2,1017 @@ Match: all_games_1411166_1415716.json
 Balls faced: 1
 Bowler: Baartman
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Defends a full ball to cover"}]Defends a full ball to cover
-[{"type": "HTML", "html": "ankur baid: \"That's a great catch by the big man, I can't remember any fast bowler at slips, please help.\" Southee's there but it is a rarity in general"}]ankur baid: "That's a great catch by the big man, I can't remember any fast bowler at slips, please help." Southee's there but it is a rarity in general
+Defends a full ball to cover
+ankur baid: "That's a great catch by the big man, I can't remember any fast bowler at slips, please help." Southee's there but it is a rarity in general
 
 Balls faced: 2
 Bowler: Baartman
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on off, defended to mid-on"}]Fullish ball on off, defended to mid-on
+Fullish ball on off, defended to mid-on
 
 
 Balls faced: 3
 Bowler: Jansen
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bumper right over the ducking Engelbrecht. Good lines"}]Bumper right over the ducking Engelbrecht. Good lines
+Bumper right over the ducking Engelbrecht. Good lines
 
 
 Balls faced: 4
 Bowler: Baartman
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Defends a full ball to cover"}]Defends a full ball to cover
-[{"type": "HTML", "html": "ankur baid: \"That's a great catch by the big man, I can't remember any fast bowler at slips, please help.\" Southee's there but it is a rarity in general"}]ankur baid: "That's a great catch by the big man, I can't remember any fast bowler at slips, please help." Southee's there but it is a rarity in general
+Defends a full ball to cover
+ankur baid: "That's a great catch by the big man, I can't remember any fast bowler at slips, please help." Southee's there but it is a rarity in general
 
 Balls faced: 5
 Bowler: Baartman
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on off, defended to mid-on"}]Fullish ball on off, defended to mid-on
+Fullish ball on off, defended to mid-on
 
 
 Balls faced: 6
 Bowler: Baartman
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Drives with the full follow-through and takes off. <strong>No direct hit from Markram at cover, Engelbrecht would've been long gone had it hit</strong>. Was a full ball that wasn't middled but went quick enough to the fielder for it to be a risky run."}]Drives with the full follow-through and takes off. <strong>No direct hit from Markram at cover, Engelbrecht would've been long gone had it hit</strong>. Was a full ball that wasn't middled but went quick enough to the fielder for it to be a risky run.
-[{"type": "HTML", "html": "Moorthy : \"how is the pitch so far\" It's offered a bit of seam and variable bounce but has been okay for the most part"}]Moorthy : "how is the pitch so far" It's offered a bit of seam and variable bounce but has been okay for the most part
+Drives with the full follow-through and takes off. <strong>No direct hit from Markram at cover, Engelbrecht would've been long gone had it hit</strong>. Was a full ball that wasn't middled but went quick enough to the fielder for it to be a risky run.
+Moorthy : "how is the pitch so far" It's offered a bit of seam and variable bounce but has been okay for the most part
 
 Balls faced: 7
 Bowler: Jansen
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bumper right over the ducking Engelbrecht. Good lines"}]Bumper right over the ducking Engelbrecht. Good lines
+Bumper right over the ducking Engelbrecht. Good lines
 
 
 Balls faced: 8
 Bowler: Rabada
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pitched up on off, 135ks. Engelbrecht tries the off-drive and gets a thickish edge through point"}]Pitched up on off, 135ks. Engelbrecht tries the off-drive and gets a thickish edge through point
+Pitched up on off, 135ks. Engelbrecht tries the off-drive and gets a thickish edge through point
 
 
 Balls faced: 9
 Bowler: Rabada
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Stands upright while punching this length ball on leg to mid-on"}]Stands upright while punching this length ball on leg to mid-on
+Stands upright while punching this length ball on leg to mid-on
 
 
 Balls faced: 10
 Bowler: Rabada
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, pushed to point"}]Length outside off, pushed to point
+Length outside off, pushed to point
 
 
 Balls faced: 11
 Bowler: Rabada
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Cuts him in half</strong> with a length ball that lands around off and jags back in. Ball went over middle, Engelbrecht tried defending straight"}]<strong>Cuts him in half</strong> with a length ball that lands around off and jags back in. Ball went over middle, Engelbrecht tried defending straight
+<strong>Cuts him in half</strong> with a length ball that lands around off and jags back in. Ball went over middle, Engelbrecht tried defending straight
 
 
 Balls faced: 12
 Bowler: Rabada
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Pitched up on leg, pushed well. Along the ground through mid-on for a couple"}]Pitched up on leg, pushed well. Along the ground through mid-on for a couple
+Pitched up on leg, pushed well. Along the ground through mid-on for a couple
 
 
 Balls faced: 13
 Bowler: Baartman
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Drives with the full follow-through and takes off. <strong>No direct hit from Markram at cover, Engelbrecht would've been long gone had it hit</strong>. Was a full ball that wasn't middled but went quick enough to the fielder for it to be a risky run."}]Drives with the full follow-through and takes off. <strong>No direct hit from Markram at cover, Engelbrecht would've been long gone had it hit</strong>. Was a full ball that wasn't middled but went quick enough to the fielder for it to be a risky run.
-[{"type": "HTML", "html": "Moorthy : \"how is the pitch so far\" It's offered a bit of seam and variable bounce but has been okay for the most part"}]Moorthy : "how is the pitch so far" It's offered a bit of seam and variable bounce but has been okay for the most part
+Drives with the full follow-through and takes off. <strong>No direct hit from Markram at cover, Engelbrecht would've been long gone had it hit</strong>. Was a full ball that wasn't middled but went quick enough to the fielder for it to be a risky run.
+Moorthy : "how is the pitch so far" It's offered a bit of seam and variable bounce but has been okay for the most part
 
 Balls faced: 14
 Bowler: Nortje
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Nortje, who enjoyed the last game here, is now on"}]Nortje, who enjoyed the last game here, is now on
+Nortje, who enjoyed the last game here, is now on
 
-[{"type": "HTML", "html": "Risky run to cover but they make it. Full ball was outside off"}]Risky run to cover but they make it. Full ball was outside off
-[{"type": "HTML", "html": "Adam C: \"I would have kept Jansen on to bowl his 4th over. He had great rhythm and would provided the opportunity to get another wicket \""}]Adam C: "I would have kept Jansen on to bowl his 4th over. He had great rhythm and would provided the opportunity to get another wicket "
+Risky run to cover but they make it. Full ball was outside off
+Adam C: "I would have kept Jansen on to bowl his 4th over. He had great rhythm and would provided the opportunity to get another wicket "
 
 Balls faced: 15
 Bowler: Rabada
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pitched up on off, 135ks. Engelbrecht tries the off-drive and gets a thickish edge through point"}]Pitched up on off, 135ks. Engelbrecht tries the off-drive and gets a thickish edge through point
+Pitched up on off, 135ks. Engelbrecht tries the off-drive and gets a thickish edge through point
 
 
 Balls faced: 16
 Bowler: Rabada
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Stands upright while punching this length ball on leg to mid-on"}]Stands upright while punching this length ball on leg to mid-on
+Stands upright while punching this length ball on leg to mid-on
 
 
 Balls faced: 17
 Bowler: Rabada
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, pushed to point"}]Length outside off, pushed to point
+Length outside off, pushed to point
 
 
 Balls faced: 18
 Bowler: Rabada
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Cuts him in half</strong> with a length ball that lands around off and jags back in. Ball went over middle, Engelbrecht tried defending straight"}]<strong>Cuts him in half</strong> with a length ball that lands around off and jags back in. Ball went over middle, Engelbrecht tried defending straight
+<strong>Cuts him in half</strong> with a length ball that lands around off and jags back in. Ball went over middle, Engelbrecht tried defending straight
 
 
 Balls faced: 19
 Bowler: Rabada
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Pitched up on leg, pushed well. Along the ground through mid-on for a couple"}]Pitched up on leg, pushed well. Along the ground through mid-on for a couple
+Pitched up on leg, pushed well. Along the ground through mid-on for a couple
 
 
 Balls faced: 20
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Goes back and pulls it from just outside off, to long-on"}]Goes back and pulls it from just outside off, to long-on
-[{"type": "HTML", "html": "madhu: \"@Bhargav, Yes until knockouts\" ouch"}]madhu: "@Bhargav, Yes until knockouts" ouch
+Goes back and pulls it from just outside off, to long-on
+madhu: "@Bhargav, Yes until knockouts" ouch
 
 Balls faced: 21
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pushes it to cover to tick along"}]Pushes it to cover to tick along
+Pushes it to cover to tick along
 
 
 Balls faced: 22
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish length ball straightens a bit to go towards off, de Leede checks the nudge. Gets it to the bowler's right"}]Fullish length ball straightens a bit to go towards off, de Leede checks the nudge. Gets it to the bowler's right
-[{"type": "HTML", "html": "Lion King: \"Looking at the pitch it seems like much anticipated India vs Pakistan would be decided based on who wins the toss and bowl first!\""}]Lion King: "Looking at the pitch it seems like much anticipated India vs Pakistan would be decided based on who wins the toss and bowl first!"
+Fullish length ball straightens a bit to go towards off, de Leede checks the nudge. Gets it to the bowler's right
+Lion King: "Looking at the pitch it seems like much anticipated India vs Pakistan would be decided based on who wins the toss and bowl first!"
 
 Balls faced: 23
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Length outside off, cut through the point region for a couple"}]Length outside off, cut through the point region for a couple
+Length outside off, cut through the point region for a couple
 
 
 Balls faced: 24
 Bowler: Nortje
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Nortje, who enjoyed the last game here, is now on"}]Nortje, who enjoyed the last game here, is now on
+Nortje, who enjoyed the last game here, is now on
 
-[{"type": "HTML", "html": "Risky run to cover but they make it. Full ball was outside off"}]Risky run to cover but they make it. Full ball was outside off
-[{"type": "HTML", "html": "Adam C: \"I would have kept Jansen on to bowl his 4th over. He had great rhythm and would provided the opportunity to get another wicket \""}]Adam C: "I would have kept Jansen on to bowl his 4th over. He had great rhythm and would provided the opportunity to get another wicket "
+Risky run to cover but they make it. Full ball was outside off
+Adam C: "I would have kept Jansen on to bowl his 4th over. He had great rhythm and would provided the opportunity to get another wicket "
 
 Balls faced: 25
 Bowler: Nortje
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Engelbrecht's back leg collapses as he pulls this 146ks ball through midwicket. Looked to have bounced lesser than he expected but he controlled it well"}]Engelbrecht's back leg collapses as he pulls this 146ks ball through midwicket. Looked to have bounced lesser than he expected but he controlled it well
-[{"type": "HTML", "html": "Drinks. Time for Himanshu to come in"}]Drinks. Time for Himanshu to come in
+Engelbrecht's back leg collapses as he pulls this 146ks ball through midwicket. Looked to have bounced lesser than he expected but he controlled it well
+Drinks. Time for Himanshu to come in
 
 Balls faced: 26
 Bowler: Nortje
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: HOOK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes for the pull, gets beaten for pace. Bumper was around off stump and got the perfect height - around the head. Engelbrecht had to swing his head out the way while swiping"}]Goes for the pull, gets beaten for pace. Bumper was around off stump and got the perfect height - around the head. Engelbrecht had to swing his head out the way while swiping
+Goes for the pull, gets beaten for pace. Bumper was around off stump and got the perfect height - around the head. Engelbrecht had to swing his head out the way while swiping
 
 
 Balls faced: 27
 Bowler: Nortje
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, goes for the booming cut. Underedges it onto the ground below"}]Length outside off, goes for the booming cut. Underedges it onto the ground below
+Length outside off, goes for the booming cut. Underedges it onto the ground below
 
 
 Balls faced: 28
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Goes back and pulls it from just outside off, to long-on"}]Goes back and pulls it from just outside off, to long-on
-[{"type": "HTML", "html": "madhu: \"@Bhargav, Yes until knockouts\" ouch"}]madhu: "@Bhargav, Yes until knockouts" ouch
+Goes back and pulls it from just outside off, to long-on
+madhu: "@Bhargav, Yes until knockouts" ouch
 
 Balls faced: 29
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pushes it to cover to tick along"}]Pushes it to cover to tick along
+Pushes it to cover to tick along
 
 
 Balls faced: 30
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish length ball straightens a bit to go towards off, de Leede checks the nudge. Gets it to the bowler's right"}]Fullish length ball straightens a bit to go towards off, de Leede checks the nudge. Gets it to the bowler's right
-[{"type": "HTML", "html": "Lion King: \"Looking at the pitch it seems like much anticipated India vs Pakistan would be decided based on who wins the toss and bowl first!\""}]Lion King: "Looking at the pitch it seems like much anticipated India vs Pakistan would be decided based on who wins the toss and bowl first!"
+Fullish length ball straightens a bit to go towards off, de Leede checks the nudge. Gets it to the bowler's right
+Lion King: "Looking at the pitch it seems like much anticipated India vs Pakistan would be decided based on who wins the toss and bowl first!"
 
 Balls faced: 31
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Length outside off, cut through the point region for a couple"}]Length outside off, cut through the point region for a couple
+Length outside off, cut through the point region for a couple
 
 
 Balls faced: 32
 Bowler: Maharaj
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on the stumps, and pulled on the bounce to deep midwicket"}]short of a length on the stumps, and pulled on the bounce to deep midwicket
+short of a length on the stumps, and pulled on the bounce to deep midwicket
 
 
 Balls faced: 33
 Bowler: Maharaj
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "this is angling into middle and leg, and is flatter on a length. Punched towards long-off"}]this is angling into middle and leg, and is flatter on a length. Punched towards long-off
+this is angling into middle and leg, and is flatter on a length. Punched towards long-off
 
 
 Balls faced: 34
 Bowler: Nortje
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Engelbrecht's back leg collapses as he pulls this 146ks ball through midwicket. Looked to have bounced lesser than he expected but he controlled it well"}]Engelbrecht's back leg collapses as he pulls this 146ks ball through midwicket. Looked to have bounced lesser than he expected but he controlled it well
-[{"type": "HTML", "html": "Drinks. Time for Himanshu to come in"}]Drinks. Time for Himanshu to come in
+Engelbrecht's back leg collapses as he pulls this 146ks ball through midwicket. Looked to have bounced lesser than he expected but he controlled it well
+Drinks. Time for Himanshu to come in
 
 Balls faced: 35
 Bowler: Nortje
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: HOOK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes for the pull, gets beaten for pace. Bumper was around off stump and got the perfect height - around the head. Engelbrecht had to swing his head out the way while swiping"}]Goes for the pull, gets beaten for pace. Bumper was around off stump and got the perfect height - around the head. Engelbrecht had to swing his head out the way while swiping
+Goes for the pull, gets beaten for pace. Bumper was around off stump and got the perfect height - around the head. Engelbrecht had to swing his head out the way while swiping
 
 
 Balls faced: 36
 Bowler: Nortje
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, goes for the booming cut. Underedges it onto the ground below"}]Length outside off, goes for the booming cut. Underedges it onto the ground below
+Length outside off, goes for the booming cut. Underedges it onto the ground below
 
 
 Balls faced: 37
 Bowler: Nortje
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide of off, and Engelbrecht slashes to deep point"}]short and wide of off, and Engelbrecht slashes to deep point
+short and wide of off, and Engelbrecht slashes to deep point
 
 
 Balls faced: 38
 Bowler: Maharaj
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on the stumps, and pulled on the bounce to deep midwicket"}]short of a length on the stumps, and pulled on the bounce to deep midwicket
+short of a length on the stumps, and pulled on the bounce to deep midwicket
 
 
 Balls faced: 39
 Bowler: Maharaj
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "this is angling into middle and leg, and is flatter on a length. Punched towards long-off"}]this is angling into middle and leg, and is flatter on a length. Punched towards long-off
+this is angling into middle and leg, and is flatter on a length. Punched towards long-off
 
 
 Balls faced: 40
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "angling in on a length on leg, and clipped off his pads to short fine leg's left"}]angling in on a length on leg, and clipped off his pads to short fine leg's left
+angling in on a length on leg, and clipped off his pads to short fine leg's left
 
 
 Balls faced: 41
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and tossed up on middle and off. Driven to long-off with the full face of the bat"}]full and tossed up on middle and off. Driven to long-off with the full face of the bat
-[{"type": "HTML", "html": "Nikesh: \"Third time taking Markram on and third time they've fallen short. At what point do they realize it's a bad idea?\" --- Perhaps now?!"}]Nikesh: "Third time taking Markram on and third time they've fallen short. At what point do they realize it's a bad idea?" --- Perhaps now?!
+full and tossed up on middle and off. Driven to long-off with the full face of the bat
+Nikesh: "Third time taking Markram on and third time they've fallen short. At what point do they realize it's a bad idea?" --- Perhaps now?!
 
 Balls faced: 42
 Bowler: Nortje
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide of off, and Engelbrecht slashes to deep point"}]short and wide of off, and Engelbrecht slashes to deep point
+short and wide of off, and Engelbrecht slashes to deep point
 
 
 Balls faced: 43
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looks to flick this length ball angling in, but gets an inside edge rolling towards the keeper's right"}]looks to flick this length ball angling in, but gets an inside edge rolling towards the keeper's right
+looks to flick this length ball angling in, but gets an inside edge rolling towards the keeper's right
 
 
 Balls faced: 44
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length on middle and off, and way too high, as he lets it go. Wide called"}]short of a length on middle and off, and way too high, as he lets it go. Wide called
+short of a length on middle and off, and way too high, as he lets it go. Wide called
 
 Wide: 1
 Balls faced: 45
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length around sixth stump, and slapped to deep point"}]short of a length around sixth stump, and slapped to deep point
+short of a length around sixth stump, and slapped to deep point
 
 
 Balls faced: 46
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a short of a length, and shaping back into leg. Takes his pads as he looks to clip, and the ball dribbles behind towards a straightish fine leg"}]on a short of a length, and shaping back into leg. Takes his pads as he looks to clip, and the ball dribbles behind towards a straightish fine leg
+on a short of a length, and shaping back into leg. Takes his pads as he looks to clip, and the ball dribbles behind towards a straightish fine leg
 
 Legbyes: 1
 Balls faced: 47
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Rabada back"}]Rabada back
+Rabada back
 
-[{"type": "HTML", "html": "on a good length on middle, and this rises through at the batter. Tapped back rather uncomfortably"}]on a good length on middle, and this rises through at the batter. Tapped back rather uncomfortably
+on a good length on middle, and this rises through at the batter. Tapped back rather uncomfortably
 
 
 Balls faced: 48
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "angling in on a length on leg, and clipped off his pads to short fine leg's left"}]angling in on a length on leg, and clipped off his pads to short fine leg's left
+angling in on a length on leg, and clipped off his pads to short fine leg's left
 
 
 Balls faced: 49
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and tossed up on middle and off. Driven to long-off with the full face of the bat"}]full and tossed up on middle and off. Driven to long-off with the full face of the bat
-[{"type": "HTML", "html": "Nikesh: \"Third time taking Markram on and third time they've fallen short. At what point do they realize it's a bad idea?\" --- Perhaps now?!"}]Nikesh: "Third time taking Markram on and third time they've fallen short. At what point do they realize it's a bad idea?" --- Perhaps now?!
+full and tossed up on middle and off. Driven to long-off with the full face of the bat
+Nikesh: "Third time taking Markram on and third time they've fallen short. At what point do they realize it's a bad idea?" --- Perhaps now?!
 
 Balls faced: 50
 Bowler: Maharaj
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length this time, and pulled towards long-on"}]short of a length this time, and pulled towards long-on
+short of a length this time, and pulled towards long-on
 
 
 Balls faced: 51
 Bowler: Maharaj
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "skips down, and gently chips this length ball outside off just over the bowler's head. And it is placed well enough to beat a chasing long-off to his right"}]skips down, and gently chips this length ball outside off just over the bowler's head. And it is placed well enough to beat a chasing long-off to his right
+skips down, and gently chips this length ball outside off just over the bowler's head. And it is placed well enough to beat a chasing long-off to his right
 
 
 Balls faced: 52
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looks to flick this length ball angling in, but gets an inside edge rolling towards the keeper's right"}]looks to flick this length ball angling in, but gets an inside edge rolling towards the keeper's right
+looks to flick this length ball angling in, but gets an inside edge rolling towards the keeper's right
 
 
 Balls faced: 53
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length on middle and off, and way too high, as he lets it go. Wide called"}]short of a length on middle and off, and way too high, as he lets it go. Wide called
+short of a length on middle and off, and way too high, as he lets it go. Wide called
 
 Wide: 1
 Balls faced: 54
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length around sixth stump, and slapped to deep point"}]short of a length around sixth stump, and slapped to deep point
+short of a length around sixth stump, and slapped to deep point
 
 
 Balls faced: 55
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a short of a length, and shaping back into leg. Takes his pads as he looks to clip, and the ball dribbles behind towards a straightish fine leg"}]on a short of a length, and shaping back into leg. Takes his pads as he looks to clip, and the ball dribbles behind towards a straightish fine leg
+on a short of a length, and shaping back into leg. Takes his pads as he looks to clip, and the ball dribbles behind towards a straightish fine leg
 
 Legbyes: 1
 Balls faced: 56
 Bowler: Rabada
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Rabada back"}]Rabada back
+Rabada back
 
-[{"type": "HTML", "html": "on a good length on middle, and this rises through at the batter. Tapped back rather uncomfortably"}]on a good length on middle, and this rises through at the batter. Tapped back rather uncomfortably
+on a good length on middle, and this rises through at the batter. Tapped back rather uncomfortably
 
 
 Balls faced: 57
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Free hit"}]Free hit
+Free hit
 
-[{"type": "HTML", "html": "gets across, and Nortje bowls on the shorter side just outside off. Swung away to fine leg"}]gets across, and Nortje bowls on the shorter side just outside off. Swung away to fine leg
+gets across, and Nortje bowls on the shorter side just outside off. Swung away to fine leg
 
 
 Balls faced: 58
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this one skids through off a length on the stumps, and is swat-pulled to mid-on. And, and... it's a late call of this being a no-ball"}]this one skids through off a length on the stumps, and is swat-pulled to mid-on. And, and... it's a late call of this being a no-ball
+this one skids through off a length on the stumps, and is swat-pulled to mid-on. And, and... it's a late call of this being a no-ball
 
 No Balls: 1
 Balls faced: 59
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "he moves his back leg around, before pulling at this short-of-a-length ball outside off towards deep backward square leg"}]he moves his back leg around, before pulling at this short-of-a-length ball outside off towards deep backward square leg
+he moves his back leg around, before pulling at this short-of-a-length ball outside off towards deep backward square leg
 
 
 Balls faced: 60
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller length, and stays a bit low as it shapes in towards leg. He backs away, and nudges to cover"}]fuller length, and stays a bit low as it shapes in towards leg. He backs away, and nudges to cover
+fuller length, and stays a bit low as it shapes in towards leg. He backs away, and nudges to cover
 
 
 Balls faced: 61
 Bowler: Maharaj
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length this time, and pulled towards long-on"}]short of a length this time, and pulled towards long-on
+short of a length this time, and pulled towards long-on
 
 
 Balls faced: 62
 Bowler: Maharaj
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "skips down, and gently chips this length ball outside off just over the bowler's head. And it is placed well enough to beat a chasing long-off to his right"}]skips down, and gently chips this length ball outside off just over the bowler's head. And it is placed well enough to beat a chasing long-off to his right
+skips down, and gently chips this length ball outside off just over the bowler's head. And it is placed well enough to beat a chasing long-off to his right
 
 
 Balls faced: 63
 Bowler: Jansen
 Over: 17
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the shorter side of a length, and nudged towards square leg"}]on the shorter side of a length, and nudged towards square leg
+on the shorter side of a length, and nudged towards square leg
 
 
 Balls faced: 64
 Bowler: Jansen
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "another missed chance, but this was difficult! Hendricks was at deep backward square leg, and he moved and dived to his right. But the ball fell beyond his reach, as it was hooked high off a short of a length on leg"}]another missed chance, but this was difficult! Hendricks was at deep backward square leg, and he moved and dived to his right. But the ball fell beyond his reach, as it was hooked high off a short of a length on leg
+another missed chance, but this was difficult! Hendricks was at deep backward square leg, and he moved and dived to his right. But the ball fell beyond his reach, as it was hooked high off a short of a length on leg
 
 
 Balls faced: 65
 Bowler: Jansen
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller length, and driven back down the pitch. The ball goes on to the hit stumps at the other end, though"}]fuller length, and driven back down the pitch. The ball goes on to the hit stumps at the other end, though
+fuller length, and driven back down the pitch. The ball goes on to the hit stumps at the other end, though
 
 
 Balls faced: 66
 Bowler: Jansen
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>ohh, dropped by Jansen!</b> He stuck his left hand up, and even had a second attempt at it after the ball fell into both his hands, but still missed. Length ball on middle and leg, and chipped back by the batter"}]<b>ohh, dropped by Jansen!</b> He stuck his left hand up, and even had a second attempt at it after the ball fell into both his hands, but still missed. Length ball on middle and leg, and chipped back by the batter
+<b>ohh, dropped by Jansen!</b> He stuck his left hand up, and even had a second attempt at it after the ball fell into both his hands, but still missed. Length ball on middle and leg, and chipped back by the batter
 
 
 Balls faced: 67
 Bowler: Jansen
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Jansen back"}]Jansen back
+Jansen back
 
-[{"type": "HTML", "html": "he makes room, and Jansen angles this across by bowling on a length. It lands just outside off, and he is beaten in trying to loft"}]he makes room, and Jansen angles this across by bowling on a length. It lands just outside off, and he is beaten in trying to loft
-[{"type": "HTML", "html": "Stefan: \"Only just realised the irony of the Manhattan graphs being so low in New York\" --- Ha!"}]Stefan: "Only just realised the irony of the Manhattan graphs being so low in New York" --- Ha!
+he makes room, and Jansen angles this across by bowling on a length. It lands just outside off, and he is beaten in trying to loft
+Stefan: "Only just realised the irony of the Manhattan graphs being so low in New York" --- Ha!
 
 Balls faced: 68
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Free hit"}]Free hit
+Free hit
 
-[{"type": "HTML", "html": "gets across, and Nortje bowls on the shorter side just outside off. Swung away to fine leg"}]gets across, and Nortje bowls on the shorter side just outside off. Swung away to fine leg
+gets across, and Nortje bowls on the shorter side just outside off. Swung away to fine leg
 
 
 Balls faced: 69
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this one skids through off a length on the stumps, and is swat-pulled to mid-on. And, and... it's a late call of this being a no-ball"}]this one skids through off a length on the stumps, and is swat-pulled to mid-on. And, and... it's a late call of this being a no-ball
+this one skids through off a length on the stumps, and is swat-pulled to mid-on. And, and... it's a late call of this being a no-ball
 
 No Balls: 1
 Balls faced: 70
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "he moves his back leg around, before pulling at this short-of-a-length ball outside off towards deep backward square leg"}]he moves his back leg around, before pulling at this short-of-a-length ball outside off towards deep backward square leg
+he moves his back leg around, before pulling at this short-of-a-length ball outside off towards deep backward square leg
 
 
 Balls faced: 71
 Bowler: Nortje
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller length, and stays a bit low as it shapes in towards leg. He backs away, and nudges to cover"}]fuller length, and stays a bit low as it shapes in towards leg. He backs away, and nudges to cover
+fuller length, and stays a bit low as it shapes in towards leg. He backs away, and nudges to cover
 
 
 Balls faced: 72
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "much fuller length on the stumps, and driven wide of mid-off"}]much fuller length on the stumps, and driven wide of mid-off
+much fuller length on the stumps, and driven wide of mid-off
 
 
 Balls faced: 73
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ohh, this zips through off a length after landing on middle and seaming away, as he sways out of the way after shaping to poke at it"}]ohh, this zips through off a length after landing on middle and seaming away, as he sways out of the way after shaping to poke at it
+ohh, this zips through off a length after landing on middle and seaming away, as he sways out of the way after shaping to poke at it
 
 
 Balls faced: 74
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another one climbs sharply off a good length around sixth stump, as he looks to hook but is beaten"}]another one climbs sharply off a good length around sixth stump, as he looks to hook but is beaten
+another one climbs sharply off a good length around sixth stump, as he looks to hook but is beaten
 
 
 Balls faced: 75
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Baartman back"}]Baartman back
+Baartman back
 
-[{"type": "HTML", "html": "short and wide-ish of off, and it is slapped to deep point"}]short and wide-ish of off, and it is slapped to deep point
+short and wide-ish of off, and it is slapped to deep point
 
 
 Balls faced: 76
 Bowler: Jansen
 Over: 17
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the shorter side of a length, and nudged towards square leg"}]on the shorter side of a length, and nudged towards square leg
+on the shorter side of a length, and nudged towards square leg
 
 
 Balls faced: 77
 Bowler: Jansen
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "another missed chance, but this was difficult! Hendricks was at deep backward square leg, and he moved and dived to his right. But the ball fell beyond his reach, as it was hooked high off a short of a length on leg"}]another missed chance, but this was difficult! Hendricks was at deep backward square leg, and he moved and dived to his right. But the ball fell beyond his reach, as it was hooked high off a short of a length on leg
+another missed chance, but this was difficult! Hendricks was at deep backward square leg, and he moved and dived to his right. But the ball fell beyond his reach, as it was hooked high off a short of a length on leg
 
 
 Balls faced: 78
 Bowler: Jansen
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller length, and driven back down the pitch. The ball goes on to the hit stumps at the other end, though"}]fuller length, and driven back down the pitch. The ball goes on to the hit stumps at the other end, though
+fuller length, and driven back down the pitch. The ball goes on to the hit stumps at the other end, though
 
 
 Balls faced: 79
 Bowler: Jansen
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>ohh, dropped by Jansen!</b> He stuck his left hand up, and even had a second attempt at it after the ball fell into both his hands, but still missed. Length ball on middle and leg, and chipped back by the batter"}]<b>ohh, dropped by Jansen!</b> He stuck his left hand up, and even had a second attempt at it after the ball fell into both his hands, but still missed. Length ball on middle and leg, and chipped back by the batter
+<b>ohh, dropped by Jansen!</b> He stuck his left hand up, and even had a second attempt at it after the ball fell into both his hands, but still missed. Length ball on middle and leg, and chipped back by the batter
 
 
 Balls faced: 80
 Bowler: Jansen
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Jansen back"}]Jansen back
+Jansen back
 
-[{"type": "HTML", "html": "he makes room, and Jansen angles this across by bowling on a length. It lands just outside off, and he is beaten in trying to loft"}]he makes room, and Jansen angles this across by bowling on a length. It lands just outside off, and he is beaten in trying to loft
-[{"type": "HTML", "html": "Stefan: \"Only just realised the irony of the Manhattan graphs being so low in New York\" --- Ha!"}]Stefan: "Only just realised the irony of the Manhattan graphs being so low in New York" --- Ha!
+he makes room, and Jansen angles this across by bowling on a length. It lands just outside off, and he is beaten in trying to loft
+Stefan: "Only just realised the irony of the Manhattan graphs being so low in New York" --- Ha!
 
 Balls faced: 81
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: RAMP
 Run scored: 3
 
 
-[{"type": "HTML", "html": "swatted over point, and that is great work by the deep-point fielder running and diving to his left. It was Stubbs there, as he pulled the back last moment. Shorter side of a length outside off from Rabada, and Engelbrecht launched at it late"}]swatted over point, and that is great work by the deep-point fielder running and diving to his left. It was Stubbs there, as he pulled the back last moment. Shorter side of a length outside off from Rabada, and Engelbrecht launched at it late
+swatted over point, and that is great work by the deep-point fielder running and diving to his left. It was Stubbs there, as he pulled the back last moment. Shorter side of a length outside off from Rabada, and Engelbrecht launched at it late
 
 
 Balls faced: 82
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Jacques: \"I think the Netherlands have enough runs on the board\" --- What??!"}]Jacques: "I think the Netherlands have enough runs on the board" --- What??!
+Jacques: "I think the Netherlands have enough runs on the board" --- What??!
 
-[{"type": "HTML", "html": "six over long-on! He is almost beaten by the change of pace, but still manages to swat-pull this short-of-a-length ball rising sharply over middle and off. Well timed in the end"}]six over long-on! He is almost beaten by the change of pace, but still manages to swat-pull this short-of-a-length ball rising sharply over middle and off. Well timed in the end
+six over long-on! He is almost beaten by the change of pace, but still manages to swat-pull this short-of-a-length ball rising sharply over middle and off. Well timed in the end
 
 
 Balls faced: 83
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Rabada back"}]Rabada back
+Rabada back
 
-[{"type": "HTML", "html": "on a length in the channel outside off, and he gets across to try and swipe it. But it hits him on his pad, and dribbles away to the off side"}]on a length in the channel outside off, and he gets across to try and swipe it. But it hits him on his pad, and dribbles away to the off side
+on a length in the channel outside off, and he gets across to try and swipe it. But it hits him on his pad, and dribbles away to the off side
 
 Legbyes: 1
 Balls faced: 84
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "much fuller length on the stumps, and driven wide of mid-off"}]much fuller length on the stumps, and driven wide of mid-off
+much fuller length on the stumps, and driven wide of mid-off
 
 
 Balls faced: 85
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ohh, this zips through off a length after landing on middle and seaming away, as he sways out of the way after shaping to poke at it"}]ohh, this zips through off a length after landing on middle and seaming away, as he sways out of the way after shaping to poke at it
+ohh, this zips through off a length after landing on middle and seaming away, as he sways out of the way after shaping to poke at it
 
 
 Balls faced: 86
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another one climbs sharply off a good length around sixth stump, as he looks to hook but is beaten"}]another one climbs sharply off a good length around sixth stump, as he looks to hook but is beaten
+another one climbs sharply off a good length around sixth stump, as he looks to hook but is beaten
 
 
 Balls faced: 87
 Bowler: Baartman
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Baartman back"}]Baartman back
+Baartman back
 
-[{"type": "HTML", "html": "short and wide-ish of off, and it is slapped to deep point"}]short and wide-ish of off, and it is slapped to deep point
+short and wide-ish of off, and it is slapped to deep point
 
 
 Balls faced: 88
 Bowler: Baartman
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Maybe 120 for all the optimists?"}]Maybe 120 for all the optimists?
-
-[{"type": "HTML", "html": "leading edge to extra cover! He backed away early, and Baartman angled this in to bowl on the fuller side of a length outside leg. It was another slower ball, as Engelbrecht looked to clip this to the leg side, but seemed to have closed the face of the bat too early. A late boost for South Africa"}]leading edge to extra cover! He backed away early, and Baartman angled this in to bowl on the fuller side of a length outside leg. It was another slower ball, as Engelbrecht looked to clip this to the leg side, but seemed to have closed the face of the bat too early. A late boost for South Africa
+Maybe 120 for all the optimists?
+Engelbrecht is OUT! caught
+c Jansen b Baartman
+Sybrand Engelbrecht c Jansen b Baartman 40 (45b 2x4 1x6 63m) SR: 88.88
+leading edge to extra cover! He backed away early, and Baartman angled this in to bowl on the fuller side of a length outside leg. It was another slower ball, as Engelbrecht looked to clip this to the leg side, but seemed to have closed the face of the bat too early. A late boost for South Africa
 
 
 Balls faced: 89
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: RAMP
 Run scored: 3
 
 
-[{"type": "HTML", "html": "swatted over point, and that is great work by the deep-point fielder running and diving to his left. It was Stubbs there, as he pulled the back last moment. Shorter side of a length outside off from Rabada, and Engelbrecht launched at it late"}]swatted over point, and that is great work by the deep-point fielder running and diving to his left. It was Stubbs there, as he pulled the back last moment. Shorter side of a length outside off from Rabada, and Engelbrecht launched at it late
+swatted over point, and that is great work by the deep-point fielder running and diving to his left. It was Stubbs there, as he pulled the back last moment. Shorter side of a length outside off from Rabada, and Engelbrecht launched at it late
 
 
 Balls faced: 90
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
-[{"type": "HTML", "html": "Jacques: \"I think the Netherlands have enough runs on the board\" --- What??!"}]Jacques: "I think the Netherlands have enough runs on the board" --- What??!
+Jacques: "I think the Netherlands have enough runs on the board" --- What??!
 
-[{"type": "HTML", "html": "six over long-on! He is almost beaten by the change of pace, but still manages to swat-pull this short-of-a-length ball rising sharply over middle and off. Well timed in the end"}]six over long-on! He is almost beaten by the change of pace, but still manages to swat-pull this short-of-a-length ball rising sharply over middle and off. Well timed in the end
+six over long-on! He is almost beaten by the change of pace, but still manages to swat-pull this short-of-a-length ball rising sharply over middle and off. Well timed in the end
 
 
 Balls faced: 91
 Bowler: Rabada
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Rabada back"}]Rabada back
+Rabada back
 
-[{"type": "HTML", "html": "on a length in the channel outside off, and he gets across to try and swipe it. But it hits him on his pad, and dribbles away to the off side"}]on a length in the channel outside off, and he gets across to try and swipe it. But it hits him on his pad, and dribbles away to the off side
+on a length in the channel outside off, and he gets across to try and swipe it. But it hits him on his pad, and dribbles away to the off side
 
 Legbyes: 1
 Balls faced: 92
 Bowler: Baartman
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Maybe 120 for all the optimists?"}]Maybe 120 for all the optimists?
-
-[{"type": "HTML", "html": "leading edge to extra cover! He backed away early, and Baartman angled this in to bowl on the fuller side of a length outside leg. It was another slower ball, as Engelbrecht looked to clip this to the leg side, but seemed to have closed the face of the bat too early. A late boost for South Africa"}]leading edge to extra cover! He backed away early, and Baartman angled this in to bowl on the fuller side of a length outside leg. It was another slower ball, as Engelbrecht looked to clip this to the leg side, but seemed to have closed the face of the bat too early. A late boost for South Africa
+Maybe 120 for all the optimists?
+Engelbrecht is OUT! caught
+c Jansen b Baartman
+Sybrand Engelbrecht c Jansen b Baartman 40 (45b 2x4 1x6 63m) SR: 88.88
+leading edge to extra cover! He backed away early, and Baartman angled this in to bowl on the fuller side of a length outside leg. It was another slower ball, as Engelbrecht looked to clip this to the leg side, but seemed to have closed the face of the bat too early. A late boost for South Africa
 
 
 
@@ -924,441 +1020,489 @@ Match: all_games_1411166_1415727.json
 Balls faced: 1
 Bowler: Tanzim Hasan Sakib
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Pulled through midwicket. Engelbrecht happy to go after anything he sees fit despite the early wickets. Shortish ball was at the body and he timed the extension of the hands well."}]Pulled through midwicket. Engelbrecht happy to go after anything he sees fit despite the early wickets. Shortish ball was at the body and he timed the extension of the hands well.
+Pulled through midwicket. Engelbrecht happy to go after anything he sees fit despite the early wickets. Shortish ball was at the body and he timed the extension of the hands well.
 
 
 Balls faced: 2
 Bowler: Tanzim Hasan Sakib
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tries to drive on the up and misses. Was a length ball on fifth"}]Tries to drive on the up and misses. Was a length ball on fifth
+Tries to drive on the up and misses. Was a length ball on fifth
 
 
 Balls faced: 3
 Bowler: Shakib
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortish ball around off is pulled to deep midwicket"}]Shortish ball around off is pulled to deep midwicket
+Shortish ball around off is pulled to deep midwicket
 
 
 Balls faced: 4
 Bowler: Tanzim Hasan Sakib
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Pulled through midwicket. Engelbrecht happy to go after anything he sees fit despite the early wickets. Shortish ball was at the body and he timed the extension of the hands well."}]Pulled through midwicket. Engelbrecht happy to go after anything he sees fit despite the early wickets. Shortish ball was at the body and he timed the extension of the hands well.
+Pulled through midwicket. Engelbrecht happy to go after anything he sees fit despite the early wickets. Shortish ball was at the body and he timed the extension of the hands well.
 
 
 Balls faced: 5
 Bowler: Tanzim Hasan Sakib
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tries to drive on the up and misses. Was a length ball on fifth"}]Tries to drive on the up and misses. Was a length ball on fifth
+Tries to drive on the up and misses. Was a length ball on fifth
 
 
 Balls faced: 6
 Bowler: Mustafizur
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of length at the hips, 136ks, tries flicking it. Gets an inside edge onto body, ball pops to square leg"}]Back of length at the hips, 136ks, tries flicking it. Gets an inside edge onto body, ball pops to square leg
+Back of length at the hips, 136ks, tries flicking it. Gets an inside edge onto body, ball pops to square leg
 
 
 Balls faced: 7
 Bowler: Mustafizur
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Mix-up, should have been a run out but the Fizz misses the direct hit at the non-striker's end</strong>. Fielder from midwicket was running to the left, the bowler - to the left of the pitch, three-fourth of the way down - looked for a moment to see if he can throw to someone but decided he didn't have the time. Tried getting it on the bounce but missed. The ball was defended with an angled bat and Vikramjit was three-fourth of the way down and Engelbrecht was hesitant."}]<strong>Mix-up, should have been a run out but the Fizz misses the direct hit at the non-striker's end</strong>. Fielder from midwicket was running to the left, the bowler - to the left of the pitch, three-fourth of the way down - looked for a moment to see if he can throw to someone but decided he didn't have the time. Tried getting it on the bounce but missed. The ball was defended with an angled bat and Vikramjit was three-fourth of the way down and Engelbrecht was hesitant.
+<strong>Mix-up, should have been a run out but the Fizz misses the direct hit at the non-striker's end</strong>. Fielder from midwicket was running to the left, the bowler - to the left of the pitch, three-fourth of the way down - looked for a moment to see if he can throw to someone but decided he didn't have the time. Tried getting it on the bounce but missed. The ball was defended with an angled bat and Vikramjit was three-fourth of the way down and Engelbrecht was hesitant.
 
 
 Balls faced: 8
 Bowler: Shakib
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Shortish ball around off is pulled to deep midwicket"}]Shortish ball around off is pulled to deep midwicket
+Shortish ball around off is pulled to deep midwicket
 
 
 Balls faced: 9
 Bowler: Rishad Hossain
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full just outside off, pushed with an angled bat to backward point's right"}]Full just outside off, pushed with an angled bat to backward point's right
+Full just outside off, pushed with an angled bat to backward point's right
 
 
 Balls faced: 10
 Bowler: Rishad Hossain
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "This is a bit too full and Engelbrecht pumps it downtown. They are taking Rishad down. He stood slightly leg side of the ball and swung through the line, bat went well behind the shoulder in follow-through.. Did that hit the cushion directly or on the half-volley. Actually a yorker, very close but it's given four"}]This is a bit too full and Engelbrecht pumps it downtown. They are taking Rishad down. He stood slightly leg side of the ball and swung through the line, bat went well behind the shoulder in follow-through.. Did that hit the cushion directly or on the half-volley. Actually a yorker, very close but it's given four
+This is a bit too full and Engelbrecht pumps it downtown. They are taking Rishad down. He stood slightly leg side of the ball and swung through the line, bat went well behind the shoulder in follow-through.. Did that hit the cushion directly or on the half-volley. Actually a yorker, very close but it's given four
 
 
 Balls faced: 11
 Bowler: Rishad Hossain
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flatter and fuller, it's on top of middle and Engelbrecht punches it to the bowler's left while backing away"}]Flatter and fuller, it's on top of middle and Engelbrecht punches it to the bowler's left while backing away
+Flatter and fuller, it's on top of middle and Engelbrecht punches it to the bowler's left while backing away
 
 
 Balls faced: 12
 Bowler: Mustafizur
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of length at the hips, 136ks, tries flicking it. Gets an inside edge onto body, ball pops to square leg"}]Back of length at the hips, 136ks, tries flicking it. Gets an inside edge onto body, ball pops to square leg
+Back of length at the hips, 136ks, tries flicking it. Gets an inside edge onto body, ball pops to square leg
 
 
 Balls faced: 13
 Bowler: Mustafizur
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Mix-up, should have been a run out but the Fizz misses the direct hit at the non-striker's end</strong>. Fielder from midwicket was running to the left, the bowler - to the left of the pitch, three-fourth of the way down - looked for a moment to see if he can throw to someone but decided he didn't have the time. Tried getting it on the bounce but missed. The ball was defended with an angled bat and Vikramjit was three-fourth of the way down and Engelbrecht was hesitant."}]<strong>Mix-up, should have been a run out but the Fizz misses the direct hit at the non-striker's end</strong>. Fielder from midwicket was running to the left, the bowler - to the left of the pitch, three-fourth of the way down - looked for a moment to see if he can throw to someone but decided he didn't have the time. Tried getting it on the bounce but missed. The ball was defended with an angled bat and Vikramjit was three-fourth of the way down and Engelbrecht was hesitant.
+<strong>Mix-up, should have been a run out but the Fizz misses the direct hit at the non-striker's end</strong>. Fielder from midwicket was running to the left, the bowler - to the left of the pitch, three-fourth of the way down - looked for a moment to see if he can throw to someone but decided he didn't have the time. Tried getting it on the bounce but missed. The ball was defended with an angled bat and Vikramjit was three-fourth of the way down and Engelbrecht was hesitant.
 
 
 Balls faced: 14
 Bowler: Mahmudullah
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Mahmudullah, who bowled well last game, now on"}]Mahmudullah, who bowled well last game, now on
+Mahmudullah, who bowled well last game, now on
 
-[{"type": "HTML", "html": "Reverse swept with a flamboyant follow-through, is a bit late on it and the ball dribbles through the first-slip area and then to short third. Was a length ball darted just outside off"}]Reverse swept with a flamboyant follow-through, is a bit late on it and the ball dribbles through the first-slip area and then to short third. Was a length ball darted just outside off
+Reverse swept with a flamboyant follow-through, is a bit late on it and the ball dribbles through the first-slip area and then to short third. Was a length ball darted just outside off
 
 
 Balls faced: 15
 Bowler: Rishad Hossain
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full just outside off, pushed with an angled bat to backward point's right"}]Full just outside off, pushed with an angled bat to backward point's right
+Full just outside off, pushed with an angled bat to backward point's right
 
 
 Balls faced: 16
 Bowler: Rishad Hossain
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "This is a bit too full and Engelbrecht pumps it downtown. They are taking Rishad down. He stood slightly leg side of the ball and swung through the line, bat went well behind the shoulder in follow-through.. Did that hit the cushion directly or on the half-volley. Actually a yorker, very close but it's given four"}]This is a bit too full and Engelbrecht pumps it downtown. They are taking Rishad down. He stood slightly leg side of the ball and swung through the line, bat went well behind the shoulder in follow-through.. Did that hit the cushion directly or on the half-volley. Actually a yorker, very close but it's given four
+This is a bit too full and Engelbrecht pumps it downtown. They are taking Rishad down. He stood slightly leg side of the ball and swung through the line, bat went well behind the shoulder in follow-through.. Did that hit the cushion directly or on the half-volley. Actually a yorker, very close but it's given four
 
 
 Balls faced: 17
 Bowler: Rishad Hossain
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Flatter and fuller, it's on top of middle and Engelbrecht punches it to the bowler's left while backing away"}]Flatter and fuller, it's on top of middle and Engelbrecht punches it to the bowler's left while backing away
+Flatter and fuller, it's on top of middle and Engelbrecht punches it to the bowler's left while backing away
 
 
 Balls faced: 18
 Bowler: Tanzim Hasan Sakib
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Top of a length just outside off, punched to cover"}]Top of a length just outside off, punched to cover
-[{"type": "HTML", "html": "A couple of dots but Netherlands will be the side happier with that over. The bowling was okay but Edwards manufactured a boundary and they stole a two"}]A couple of dots but Netherlands will be the side happier with that over. The bowling was okay but Edwards manufactured a boundary and they stole a two
+Top of a length just outside off, punched to cover
+A couple of dots but Netherlands will be the side happier with that over. The bowling was okay but Edwards manufactured a boundary and they stole a two
 
 Balls faced: 19
 Bowler: Tanzim Hasan Sakib
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Back of length just outside off, 135ks, caressed off the back foot to deep point's right... and the batters sneak back for two. Agile running"}]Back of length just outside off, 135ks, caressed off the back foot to deep point's right... and the batters sneak back for two. Agile running
+Back of length just outside off, 135ks, caressed off the back foot to deep point's right... and the batters sneak back for two. Agile running
 
 
 Balls faced: 20
 Bowler: Tanzim Hasan Sakib
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Heavy ball on a length at 145ks, pings off the bat as it's defended back to the bowler"}]Heavy ball on a length at 145ks, pings off the bat as it's defended back to the bowler
+Heavy ball on a length at 145ks, pings off the bat as it's defended back to the bowler
 
 
 Balls faced: 21
 Bowler: Tanzim Hasan Sakib
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Shortish ball has been lifted up with a square drive, lands just over the ring and deep point runs to the right to stop it. A combination of a square drive and a cut from Engelbrecht"}]Shortish ball has been lifted up with a square drive, lands just over the ring and deep point runs to the right to stop it. A combination of a square drive and a cut from Engelbrecht
+Shortish ball has been lifted up with a square drive, lands just over the ring and deep point runs to the right to stop it. A combination of a square drive and a cut from Engelbrecht
 
 
 Balls faced: 22
 Bowler: Mahmudullah
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Mahmudullah, who bowled well last game, now on"}]Mahmudullah, who bowled well last game, now on
+Mahmudullah, who bowled well last game, now on
 
-[{"type": "HTML", "html": "Reverse swept with a flamboyant follow-through, is a bit late on it and the ball dribbles through the first-slip area and then to short third. Was a length ball darted just outside off"}]Reverse swept with a flamboyant follow-through, is a bit late on it and the ball dribbles through the first-slip area and then to short third. Was a length ball darted just outside off
+Reverse swept with a flamboyant follow-through, is a bit late on it and the ball dribbles through the first-slip area and then to short third. Was a length ball darted just outside off
 
 
 Balls faced: 23
 Bowler: Rishad Hossain
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Makes room and Rishad goes wider to get it out of his arc. Engelbrecht reaches out for a square slash, the low fully dips and beats bat"}]Makes room and Rishad goes wider to get it out of his arc. Engelbrecht reaches out for a square slash, the low fully dips and beats bat
+Makes room and Rishad goes wider to get it out of his arc. Engelbrecht reaches out for a square slash, the low fully dips and beats bat
 
 
 Balls faced: 24
 Bowler: Rishad Hossain
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<strong>Almost a catch and a run out!</strong> Was an overpitched ball that was chipped <i>just</i> over the leaping fielder at cover, seemed to not get a hand on it. Ball was rolling to the deep and Edwards took off for the second. Engelbrecht had just gone out of his end as the threw left the fielder's hand. But the throw was awry. Keeper had to run too far down the pitch, was never a two there but Netherlands get it and evade the run out"}]<strong>Almost a catch and a run out!</strong> Was an overpitched ball that was chipped <i>just</i> over the leaping fielder at cover, seemed to not get a hand on it. Ball was rolling to the deep and Edwards took off for the second. Engelbrecht had just gone out of his end as the threw left the fielder's hand. But the throw was awry. Keeper had to run too far down the pitch, was never a two there but Netherlands get it and evade the run out
+<strong>Almost a catch and a run out!</strong> Was an overpitched ball that was chipped <i>just</i> over the leaping fielder at cover, seemed to not get a hand on it. Ball was rolling to the deep and Edwards took off for the second. Engelbrecht had just gone out of his end as the threw left the fielder's hand. But the throw was awry. Keeper had to run too far down the pitch, was never a two there but Netherlands get it and evade the run out
 
 
 Balls faced: 25
 Bowler: Rishad Hossain
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Belted over the bowler with a flat bat. Tanzim runs to the left from long-on and dives to save two"}]Belted over the bowler with a flat bat. Tanzim runs to the left from long-on and dives to save two
+Belted over the bowler with a flat bat. Tanzim runs to the left from long-on and dives to save two
 
 
 Balls faced: 26
 Bowler: Tanzim Hasan Sakib
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Top of a length just outside off, punched to cover"}]Top of a length just outside off, punched to cover
-[{"type": "HTML", "html": "A couple of dots but Netherlands will be the side happier with that over. The bowling was okay but Edwards manufactured a boundary and they stole a two"}]A couple of dots but Netherlands will be the side happier with that over. The bowling was okay but Edwards manufactured a boundary and they stole a two
+Top of a length just outside off, punched to cover
+A couple of dots but Netherlands will be the side happier with that over. The bowling was okay but Edwards manufactured a boundary and they stole a two
 
 Balls faced: 27
 Bowler: Tanzim Hasan Sakib
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Back of length just outside off, 135ks, caressed off the back foot to deep point's right... and the batters sneak back for two. Agile running"}]Back of length just outside off, 135ks, caressed off the back foot to deep point's right... and the batters sneak back for two. Agile running
+Back of length just outside off, 135ks, caressed off the back foot to deep point's right... and the batters sneak back for two. Agile running
 
 
 Balls faced: 28
 Bowler: Tanzim Hasan Sakib
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Heavy ball on a length at 145ks, pings off the bat as it's defended back to the bowler"}]Heavy ball on a length at 145ks, pings off the bat as it's defended back to the bowler
+Heavy ball on a length at 145ks, pings off the bat as it's defended back to the bowler
 
 
 Balls faced: 29
 Bowler: Tanzim Hasan Sakib
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Shortish ball has been lifted up with a square drive, lands just over the ring and deep point runs to the right to stop it. A combination of a square drive and a cut from Engelbrecht"}]Shortish ball has been lifted up with a square drive, lands just over the ring and deep point runs to the right to stop it. A combination of a square drive and a cut from Engelbrecht
+Shortish ball has been lifted up with a square drive, lands just over the ring and deep point runs to the right to stop it. A combination of a square drive and a cut from Engelbrecht
 
 
 Balls faced: 30
 Bowler: Taskin
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: HOOK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Taskin one-ups after a boundary ball again, this time beats bat. Was a well-directed bumper around head-height which Engelbrecht tried to pull"}]Taskin one-ups after a boundary ball again, this time beats bat. Was a well-directed bumper around head-height which Engelbrecht tried to pull
-[{"type": "HTML", "html": "Imti : \"If Bangladesh can't take 2-3 wicket now, Netherlands will easily chase it down.\""}]Imti : "If Bangladesh can't take 2-3 wicket now, Netherlands will easily chase it down."
+Taskin one-ups after a boundary ball again, this time beats bat. Was a well-directed bumper around head-height which Engelbrecht tried to pull
+Imti : "If Bangladesh can't take 2-3 wicket now, Netherlands will easily chase it down."
 
 Balls faced: 31
 Bowler: Taskin
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Pulled out of the ground</strong>. 92 metres over midwicket, it hits the roof and bounces away like it was a good length ball delivered by a giant. The sound on that was exquisite. Was a back of length ball around off that was smoked while staying upright. New ball to be brought in"}]<strong>Pulled out of the ground</strong>. 92 metres over midwicket, it hits the roof and bounces away like it was a good length ball delivered by a giant. The sound on that was exquisite. Was a back of length ball around off that was smoked while staying upright. New ball to be brought in
+<strong>Pulled out of the ground</strong>. 92 metres over midwicket, it hits the roof and bounces away like it was a good length ball delivered by a giant. The sound on that was exquisite. Was a back of length ball around off that was smoked while staying upright. New ball to be brought in
 
 
 Balls faced: 32
 Bowler: Taskin
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Great comeback from Taskin. Yorker at the stumps. Nailed with pace. Jammed out in front"}]Great comeback from Taskin. Yorker at the stumps. Nailed with pace. Jammed out in front
+Great comeback from Taskin. Yorker at the stumps. Nailed with pace. Jammed out in front
 
 
 Balls faced: 33
 Bowler: Taskin
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Slapped down the ground. Cutter on a length, top-of-off, and Engelbrecht stood leg side and munched it with a vertical bat, gets it straight of mid-off"}]Slapped down the ground. Cutter on a length, top-of-off, and Engelbrecht stood leg side and munched it with a vertical bat, gets it straight of mid-off
-[{"type": "HTML", "html": "nasir: \"THIS IS T20. Not the thing we watched in NY\""}]nasir: "THIS IS T20. Not the thing we watched in NY"
+Slapped down the ground. Cutter on a length, top-of-off, and Engelbrecht stood leg side and munched it with a vertical bat, gets it straight of mid-off
+nasir: "THIS IS T20. Not the thing we watched in NY"
 
 Balls faced: 34
 Bowler: Rishad Hossain
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Makes room and Rishad goes wider to get it out of his arc. Engelbrecht reaches out for a square slash, the low fully dips and beats bat"}]Makes room and Rishad goes wider to get it out of his arc. Engelbrecht reaches out for a square slash, the low fully dips and beats bat
+Makes room and Rishad goes wider to get it out of his arc. Engelbrecht reaches out for a square slash, the low fully dips and beats bat
 
 
 Balls faced: 35
 Bowler: Rishad Hossain
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<strong>Almost a catch and a run out!</strong> Was an overpitched ball that was chipped <i>just</i> over the leaping fielder at cover, seemed to not get a hand on it. Ball was rolling to the deep and Edwards took off for the second. Engelbrecht had just gone out of his end as the threw left the fielder's hand. But the throw was awry. Keeper had to run too far down the pitch, was never a two there but Netherlands get it and evade the run out"}]<strong>Almost a catch and a run out!</strong> Was an overpitched ball that was chipped <i>just</i> over the leaping fielder at cover, seemed to not get a hand on it. Ball was rolling to the deep and Edwards took off for the second. Engelbrecht had just gone out of his end as the threw left the fielder's hand. But the throw was awry. Keeper had to run too far down the pitch, was never a two there but Netherlands get it and evade the run out
+<strong>Almost a catch and a run out!</strong> Was an overpitched ball that was chipped <i>just</i> over the leaping fielder at cover, seemed to not get a hand on it. Ball was rolling to the deep and Edwards took off for the second. Engelbrecht had just gone out of his end as the threw left the fielder's hand. But the throw was awry. Keeper had to run too far down the pitch, was never a two there but Netherlands get it and evade the run out
 
 
 Balls faced: 36
 Bowler: Rishad Hossain
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Belted over the bowler with a flat bat. Tanzim runs to the left from long-on and dives to save two"}]Belted over the bowler with a flat bat. Tanzim runs to the left from long-on and dives to save two
+Belted over the bowler with a flat bat. Tanzim runs to the left from long-on and dives to save two
 
 
 Balls faced: 37
 Bowler: Shakib
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Backward square in the deep goes squarer"}]Backward square in the deep goes squarer
+Backward square in the deep goes squarer
 
-[{"type": "HTML", "html": "<strong>In the aiir... clears cover who was running to the right</strong>. Mahmudullah the fielder at cover, Shakib not pleased. They take two again as the throw comes in from long-off."}]<strong>In the aiir... clears cover who was running to the right</strong>. Mahmudullah the fielder at cover, Shakib not pleased. They take two again as the throw comes in from long-off.
+<strong>In the aiir... clears cover who was running to the right</strong>. Mahmudullah the fielder at cover, Shakib not pleased. They take two again as the throw comes in from long-off.
 
 
 Balls faced: 38
 Bowler: Taskin
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: HOOK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Taskin one-ups after a boundary ball again, this time beats bat. Was a well-directed bumper around head-height which Engelbrecht tried to pull"}]Taskin one-ups after a boundary ball again, this time beats bat. Was a well-directed bumper around head-height which Engelbrecht tried to pull
-[{"type": "HTML", "html": "Imti : \"If Bangladesh can't take 2-3 wicket now, Netherlands will easily chase it down.\""}]Imti : "If Bangladesh can't take 2-3 wicket now, Netherlands will easily chase it down."
+Taskin one-ups after a boundary ball again, this time beats bat. Was a well-directed bumper around head-height which Engelbrecht tried to pull
+Imti : "If Bangladesh can't take 2-3 wicket now, Netherlands will easily chase it down."
 
 Balls faced: 39
 Bowler: Taskin
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Pulled out of the ground</strong>. 92 metres over midwicket, it hits the roof and bounces away like it was a good length ball delivered by a giant. The sound on that was exquisite. Was a back of length ball around off that was smoked while staying upright. New ball to be brought in"}]<strong>Pulled out of the ground</strong>. 92 metres over midwicket, it hits the roof and bounces away like it was a good length ball delivered by a giant. The sound on that was exquisite. Was a back of length ball around off that was smoked while staying upright. New ball to be brought in
+<strong>Pulled out of the ground</strong>. 92 metres over midwicket, it hits the roof and bounces away like it was a good length ball delivered by a giant. The sound on that was exquisite. Was a back of length ball around off that was smoked while staying upright. New ball to be brought in
 
 
 Balls faced: 40
 Bowler: Taskin
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Great comeback from Taskin. Yorker at the stumps. Nailed with pace. Jammed out in front"}]Great comeback from Taskin. Yorker at the stumps. Nailed with pace. Jammed out in front
+Great comeback from Taskin. Yorker at the stumps. Nailed with pace. Jammed out in front
 
 
 Balls faced: 41
 Bowler: Taskin
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Slapped down the ground. Cutter on a length, top-of-off, and Engelbrecht stood leg side and munched it with a vertical bat, gets it straight of mid-off"}]Slapped down the ground. Cutter on a length, top-of-off, and Engelbrecht stood leg side and munched it with a vertical bat, gets it straight of mid-off
-[{"type": "HTML", "html": "nasir: \"THIS IS T20. Not the thing we watched in NY\""}]nasir: "THIS IS T20. Not the thing we watched in NY"
+Slapped down the ground. Cutter on a length, top-of-off, and Engelbrecht stood leg side and munched it with a vertical bat, gets it straight of mid-off
+nasir: "THIS IS T20. Not the thing we watched in NY"
 
 Balls faced: 42
 Bowler: Rishad Hossain
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<em>Clothed. Tanzim takes the catch despite taking the eyes off in the last second</em>. Was looking into the sunshine, the head went away but after the hands were positioned in front of the face as he was falling down. The ball was basketed and he managed to hold on. Was a full legbreak, tossed up generously, that turned away sharply and Engelbrecht tried to swipe it down the ground. It bounced more than he expected as well, taking the top edge. The leggie has been expensive but ends a handy cameo that was threatening to take Netherlands through"}]<em>Clothed. Tanzim takes the catch despite taking the eyes off in the last second</em>. Was looking into the sunshine, the head went away but after the hands were positioned in front of the face as he was falling down. The ball was basketed and he managed to hold on. Was a full legbreak, tossed up generously, that turned away sharply and Engelbrecht tried to swipe it down the ground. It bounced more than he expected as well, taking the top edge. The leggie has been expensive but ends a handy cameo that was threatening to take Netherlands through
+Engelbrecht is OUT! caught
+c Tanzim Hasan Sakib b Rishad Hossain
+Sybrand Engelbrecht c Tanzim Hasan Sakib b Rishad Hossain 33 (22b 3x4 1x6 36m) SR: 150
+<em>Clothed. Tanzim takes the catch despite taking the eyes off in the last second</em>. Was looking into the sunshine, the head went away but after the hands were positioned in front of the face as he was falling down. The ball was basketed and he managed to hold on. Was a full legbreak, tossed up generously, that turned away sharply and Engelbrecht tried to swipe it down the ground. It bounced more than he expected as well, taking the top edge. The leggie has been expensive but ends a handy cameo that was threatening to take Netherlands through
 
 
 Balls faced: 43
 Bowler: Shakib
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Backward square in the deep goes squarer"}]Backward square in the deep goes squarer
+Backward square in the deep goes squarer
 
-[{"type": "HTML", "html": "<strong>In the aiir... clears cover who was running to the right</strong>. Mahmudullah the fielder at cover, Shakib not pleased. They take two again as the throw comes in from long-off."}]<strong>In the aiir... clears cover who was running to the right</strong>. Mahmudullah the fielder at cover, Shakib not pleased. They take two again as the throw comes in from long-off.
+<strong>In the aiir... clears cover who was running to the right</strong>. Mahmudullah the fielder at cover, Shakib not pleased. They take two again as the throw comes in from long-off.
 
 
 Balls faced: 44
 Bowler: Rishad Hossain
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<em>Clothed. Tanzim takes the catch despite taking the eyes off in the last second</em>. Was looking into the sunshine, the head went away but after the hands were positioned in front of the face as he was falling down. The ball was basketed and he managed to hold on. Was a full legbreak, tossed up generously, that turned away sharply and Engelbrecht tried to swipe it down the ground. It bounced more than he expected as well, taking the top edge. The leggie has been expensive but ends a handy cameo that was threatening to take Netherlands through"}]<em>Clothed. Tanzim takes the catch despite taking the eyes off in the last second</em>. Was looking into the sunshine, the head went away but after the hands were positioned in front of the face as he was falling down. The ball was basketed and he managed to hold on. Was a full legbreak, tossed up generously, that turned away sharply and Engelbrecht tried to swipe it down the ground. It bounced more than he expected as well, taking the top edge. The leggie has been expensive but ends a handy cameo that was threatening to take Netherlands through
+Engelbrecht is OUT! caught
+c Tanzim Hasan Sakib b Rishad Hossain
+Sybrand Engelbrecht c Tanzim Hasan Sakib b Rishad Hossain 33 (22b 3x4 1x6 36m) SR: 150
+<em>Clothed. Tanzim takes the catch despite taking the eyes off in the last second</em>. Was looking into the sunshine, the head went away but after the hands were positioned in front of the face as he was falling down. The ball was basketed and he managed to hold on. Was a full legbreak, tossed up generously, that turned away sharply and Engelbrecht tried to swipe it down the ground. It bounced more than he expected as well, taking the top edge. The leggie has been expensive but ends a handy cameo that was threatening to take Netherlands through
 
 
 
@@ -1366,181 +1510,203 @@ Match: all_games_1411166_1415738.json
 Balls faced: 1
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish on the pads, clipped through midwicket"}]fullish on the pads, clipped through midwicket
+fullish on the pads, clipped through midwicket
 
 
 Balls faced: 2
 Bowler: Hasaranga
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "tossed up, just outside off, and Engelbrecht brings out the big swing, striking it cleanly over long on for six. Threw everything at that, and nailed the shot"}]tossed up, just outside off, and Engelbrecht brings out the big swing, striking it cleanly over long on for six. Threw everything at that, and nailed the shot
+tossed up, just outside off, and Engelbrecht brings out the big swing, striking it cleanly over long on for six. Threw everything at that, and nailed the shot
 
 
 Balls faced: 3
 Bowler: Hasaranga
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "flatter one outside off, a googly I think. Engelbrecht goes back and clubs this back at Hasaranga, who misfields and allows a  couple"}]flatter one outside off, a googly I think. Engelbrecht goes back and clubs this back at Hasaranga, who misfields and allows a  couple
+flatter one outside off, a googly I think. Engelbrecht goes back and clubs this back at Hasaranga, who misfields and allows a  couple
 
 
 Balls faced: 4
 Bowler: Hasaranga
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flatter googly, Engelbrecht goes back and drags it to deep midiwcket"}]flatter googly, Engelbrecht goes back and drags it to deep midiwcket
+flatter googly, Engelbrecht goes back and drags it to deep midiwcket
 
 
 Balls faced: 5
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish on the pads, clipped through midwicket"}]fullish on the pads, clipped through midwicket
+fullish on the pads, clipped through midwicket
 
 
 Balls faced: 6
 Bowler: Shanaka
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish on the stumps, driven to long on"}]fullish on the stumps, driven to long on
+fullish on the stumps, driven to long on
 
 
 Balls faced: 7
 Bowler: Shanaka
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball in the channel, opens the face and they get a single towards point"}]length ball in the channel, opens the face and they get a single towards point
+length ball in the channel, opens the face and they get a single towards point
 
 
 Balls faced: 8
 Bowler: Hasaranga
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "tossed up, just outside off, and Engelbrecht brings out the big swing, striking it cleanly over long on for six. Threw everything at that, and nailed the shot"}]tossed up, just outside off, and Engelbrecht brings out the big swing, striking it cleanly over long on for six. Threw everything at that, and nailed the shot
+tossed up, just outside off, and Engelbrecht brings out the big swing, striking it cleanly over long on for six. Threw everything at that, and nailed the shot
 
 
 Balls faced: 9
 Bowler: Hasaranga
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "flatter one outside off, a googly I think. Engelbrecht goes back and clubs this back at Hasaranga, who misfields and allows a  couple"}]flatter one outside off, a googly I think. Engelbrecht goes back and clubs this back at Hasaranga, who misfields and allows a  couple
+flatter one outside off, a googly I think. Engelbrecht goes back and clubs this back at Hasaranga, who misfields and allows a  couple
 
 
 Balls faced: 10
 Bowler: Hasaranga
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flatter googly, Engelbrecht goes back and drags it to deep midiwcket"}]flatter googly, Engelbrecht goes back and drags it to deep midiwcket
+flatter googly, Engelbrecht goes back and drags it to deep midiwcket
 
 
 Balls faced: 11
 Bowler: Pathirana
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "caught at long on. This was coming, you sensed. This is full, on the stumps, and Engelbrecht tries to bang him over long on this time. Doesn't get under it though, and it;s an easy catch for the fielder running in. Charith Asalanka takes it comfortably"}]caught at long on. This was coming, you sensed. This is full, on the stumps, and Engelbrecht tries to bang him over long on this time. Doesn't get under it though, and it;s an easy catch for the fielder running in. Charith Asalanka takes it comfortably
+Engelbrecht is OUT! caught
+c Asalanka b Pathirana
+Sybrand Engelbrecht c Asalanka b Pathirana 11 (9b 0x4 1x6 12m) SR: 122.22
+caught at long on. This was coming, you sensed. This is full, on the stumps, and Engelbrecht tries to bang him over long on this time. Doesn't get under it though, and it;s an easy catch for the fielder running in. Charith Asalanka takes it comfortably
 
 
 Balls faced: 12
 Bowler: Pathirana
 Over: 9
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "keeps making room to try to flay Pathirana through the offside, but the bowler follows him with a yorker and again the batter misses"}]keeps making room to try to flay Pathirana through the offside, but the bowler follows him with a yorker and again the batter misses
+keeps making room to try to flay Pathirana through the offside, but the bowler follows him with a yorker and again the batter misses
 
 
 Balls faced: 13
 Bowler: Pathirana
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Pathirana is here."}]Pathirana is here.
+Pathirana is here.
 
-[{"type": "HTML", "html": "fullish ball into the pads. Engelbrecht makes room and swings but misses. It hits pad and bounces off toe the keeper"}]fullish ball into the pads. Engelbrecht makes room and swings but misses. It hits pad and bounces off toe the keeper
+fullish ball into the pads. Engelbrecht makes room and swings but misses. It hits pad and bounces off toe the keeper
 
 
 Balls faced: 14
 Bowler: Shanaka
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish on the stumps, driven to long on"}]fullish on the stumps, driven to long on
+fullish on the stumps, driven to long on
 
 
 Balls faced: 15
 Bowler: Shanaka
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball in the channel, opens the face and they get a single towards point"}]length ball in the channel, opens the face and they get a single towards point
+length ball in the channel, opens the face and they get a single towards point
 
 
 Balls faced: 16
 Bowler: Pathirana
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "caught at long on. This was coming, you sensed. This is full, on the stumps, and Engelbrecht tries to bang him over long on this time. Doesn't get under it though, and it;s an easy catch for the fielder running in. Charith Asalanka takes it comfortably"}]caught at long on. This was coming, you sensed. This is full, on the stumps, and Engelbrecht tries to bang him over long on this time. Doesn't get under it though, and it;s an easy catch for the fielder running in. Charith Asalanka takes it comfortably
+Engelbrecht is OUT! caught
+c Asalanka b Pathirana
+Sybrand Engelbrecht c Asalanka b Pathirana 11 (9b 0x4 1x6 12m) SR: 122.22
+caught at long on. This was coming, you sensed. This is full, on the stumps, and Engelbrecht tries to bang him over long on this time. Doesn't get under it though, and it;s an easy catch for the fielder running in. Charith Asalanka takes it comfortably
 
 
 Balls faced: 17
 Bowler: Pathirana
 Over: 9
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "keeps making room to try to flay Pathirana through the offside, but the bowler follows him with a yorker and again the batter misses"}]keeps making room to try to flay Pathirana through the offside, but the bowler follows him with a yorker and again the batter misses
+keeps making room to try to flay Pathirana through the offside, but the bowler follows him with a yorker and again the batter misses
 
 
 Balls faced: 18
 Bowler: Pathirana
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Pathirana is here."}]Pathirana is here.
+Pathirana is here.
 
-[{"type": "HTML", "html": "fullish ball into the pads. Engelbrecht makes room and swings but misses. It hits pad and bounces off toe the keeper"}]fullish ball into the pads. Engelbrecht makes room and swings but misses. It hits pad and bounces off toe the keeper
+fullish ball into the pads. Engelbrecht makes room and swings but misses. It hits pad and bounces off toe the keeper
 
 
 
@@ -1548,6 +1714,7 @@ Match: all_games_1428145_1428151.json
 Balls faced: 1
 Bowler: Leask
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1558,6 +1725,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Watt
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1568,6 +1736,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Watt
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1578,6 +1747,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Watt
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -1588,6 +1758,7 @@ Wide: 1
 Balls faced: 5
 Bowler: Leask
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1598,6 +1769,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Sole
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
@@ -1608,6 +1780,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Sole
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -1618,6 +1791,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Watt
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1628,6 +1802,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Watt
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1638,6 +1813,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Watt
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -1648,6 +1824,7 @@ Wide: 1
 Balls faced: 11
 Bowler: Watt
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1658,6 +1835,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Watt
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -1668,6 +1846,7 @@ Run scored: 2
 Balls faced: 13
 Bowler: Sole
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
@@ -1678,6 +1857,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Sole
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -1688,16 +1868,20 @@ Run scored: 1
 Balls faced: 15
 Bowler: Main
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
+Engelbrecht is OUT! caught
+c Currie b Main
+Sybrand Engelbrecht c Currie b Main 8 (8b 0x4 0x6 18m) SR: 100
 
 
 
 Balls faced: 16
 Bowler: Watt
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1708,6 +1892,7 @@ Run scored: 1
 Balls faced: 17
 Bowler: Watt
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -1718,10 +1903,13 @@ Run scored: 2
 Balls faced: 18
 Bowler: Main
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
+Engelbrecht is OUT! caught
+c Currie b Main
+Sybrand Engelbrecht c Currie b Main 8 (8b 0x4 0x6 18m) SR: 100
 
 
 
@@ -1730,16 +1918,20 @@ Match: all_games_1428145_1428154.json
 Balls faced: 1
 Bowler: Currie
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Engelbrecht is OUT! bowled
+ b Currie
+Sybrand Engelbrecht b Currie 2 (2b 0x4 0x6 8m) SR: 100
 
 
 
 Balls faced: 2
 Bowler: Currie
 Over: 3
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1750,15 +1942,19 @@ Run scored: 2
 Balls faced: 3
 Bowler: Currie
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Engelbrecht is OUT! bowled
+ b Currie
+Sybrand Engelbrecht b Currie 2 (2b 0x4 0x6 8m) SR: 100
 
 
 
 Balls faced: 4
 Bowler: Currie
 Over: 3
+ 
 Shot: No Shot
 Run scored: 2

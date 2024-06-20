@@ -2,61 +2,67 @@ Match: all_games_1411166_1415740.json
 Balls faced: 1
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball around off stump and blocked back"}]fullish ball around off stump and blocked back
+fullish ball around off stump and blocked back
 
 
 Balls faced: 2
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short ball aimed ta Fazalhaq as he backs away. Given wide but Alzarri is showing that he wants to pepper batters with the short ball"}]short ball aimed ta Fazalhaq as he backs away. Given wide but Alzarri is showing that he wants to pepper batters with the short ball
+short ball aimed ta Fazalhaq as he backs away. Given wide but Alzarri is showing that he wants to pepper batters with the short ball
 
 Wide: 1
 Balls faced: 3
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "no run"}]no run
+no run
 
 
 Balls faced: 4
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish ball around off stump and blocked back"}]fullish ball around off stump and blocked back
+fullish ball around off stump and blocked back
 
 
 Balls faced: 5
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short ball aimed ta Fazalhaq as he backs away. Given wide but Alzarri is showing that he wants to pepper batters with the short ball"}]short ball aimed ta Fazalhaq as he backs away. Given wide but Alzarri is showing that he wants to pepper batters with the short ball
+short ball aimed ta Fazalhaq as he backs away. Given wide but Alzarri is showing that he wants to pepper batters with the short ball
 
 Wide: 1
 Balls faced: 6
 Bowler: Alzarri Joseph
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "no run"}]no run
+no run
 
 
 
@@ -64,121 +70,133 @@ Match: all_games_1416063_1416083.json
 Balls faced: 1
 Bowler: Adair
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "And another, this was following him, he manages to dink it to cover. Takes the single though, will retain strike"}]And another, this was following him, he manages to dink it to cover. Takes the single though, will retain strike
+And another, this was following him, he manages to dink it to cover. Takes the single though, will retain strike
 
 
 Balls faced: 2
 Bowler: Adair
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shin-high full toss, defended in front"}]Shin-high full toss, defended in front
-[{"type": "HTML", "html": "Here's Khalid not exaggerating at all - \"Only one 6 so far? If it is not a crime against humanity it definitely is one against Afg fans!\""}]Here's Khalid not exaggerating at all - "Only one 6 so far? If it is not a crime against humanity it definitely is one against Afg fans!"
+Shin-high full toss, defended in front
+Here's Khalid not exaggerating at all - "Only one 6 so far? If it is not a crime against humanity it definitely is one against Afg fans!"
 
 Balls faced: 3
 Bowler: McCarthy
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full toss almost hits off stump. Just above shin-high, Farooqi was leg side of the ball and tried carving it square. Was a bit too late on it"}]Full toss almost hits off stump. Just above shin-high, Farooqi was leg side of the ball and tried carving it square. Was a bit too late on it
-[{"type": "HTML", "html": "Mark: \"Hi Ekanth, you think that this may be a tricky chase? Do you think that it's a slightly difficult pitch then?\" Yes, and yes. But if there is dew and the pitch evens out, like it did in the ODI WC final, might get easier for Ireland."}]Mark: "Hi Ekanth, you think that this may be a tricky chase? Do you think that it's a slightly difficult pitch then?" Yes, and yes. But if there is dew and the pitch evens out, like it did in the ODI WC final, might get easier for Ireland.
+Full toss almost hits off stump. Just above shin-high, Farooqi was leg side of the ball and tried carving it square. Was a bit too late on it
+Mark: "Hi Ekanth, you think that this may be a tricky chase? Do you think that it's a slightly difficult pitch then?" Yes, and yes. But if there is dew and the pitch evens out, like it did in the ODI WC final, might get easier for Ireland.
 
 Balls faced: 4
 Bowler: McCarthy
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Into the pitch, over off, Naveed clears coast and tries pulling it across. Underedges to deep fine leg. Was a back-of-hand slower one"}]Into the pitch, over off, Naveed clears coast and tries pulling it across. Underedges to deep fine leg. Was a back-of-hand slower one
+Into the pitch, over off, Naveed clears coast and tries pulling it across. Underedges to deep fine leg. Was a back-of-hand slower one
 
 
 Balls faced: 5
 Bowler: McCarthy
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of length just outside off, dabbed off the back foot towards point"}]Back of length just outside off, dabbed off the back foot towards point
+Back of length just outside off, dabbed off the back foot towards point
 
 
 Balls faced: 6
 Bowler: Adair
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "And another, this was following him, he manages to dink it to cover. Takes the single though, will retain strike"}]And another, this was following him, he manages to dink it to cover. Takes the single though, will retain strike
+And another, this was following him, he manages to dink it to cover. Takes the single though, will retain strike
 
 
 Balls faced: 7
 Bowler: Adair
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shin-high full toss, defended in front"}]Shin-high full toss, defended in front
-[{"type": "HTML", "html": "Here's Khalid not exaggerating at all - \"Only one 6 so far? If it is not a crime against humanity it definitely is one against Afg fans!\""}]Here's Khalid not exaggerating at all - "Only one 6 so far? If it is not a crime against humanity it definitely is one against Afg fans!"
+Shin-high full toss, defended in front
+Here's Khalid not exaggerating at all - "Only one 6 so far? If it is not a crime against humanity it definitely is one against Afg fans!"
 
 Balls faced: 8
 Bowler: Adair
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Connection looked better than it was. Farooqi made room and tried to slug it over long-on, got it to the fielder on the bounce. Ball was full, so in the slot"}]Connection looked better than it was. Farooqi made room and tried to slug it over long-on, got it to the fielder on the bounce. Ball was full, so in the slot
+Connection looked better than it was. Farooqi made room and tried to slug it over long-on, got it to the fielder on the bounce. Ball was full, so in the slot
 
 
 Balls faced: 9
 Bowler: Adair
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Clears coast and clobbers the full ball to long-on"}]Clears coast and clobbers the full ball to long-on
+Clears coast and clobbers the full ball to long-on
 
 
 Balls faced: 10
 Bowler: McCarthy
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full toss almost hits off stump. Just above shin-high, Farooqi was leg side of the ball and tried carving it square. Was a bit too late on it"}]Full toss almost hits off stump. Just above shin-high, Farooqi was leg side of the ball and tried carving it square. Was a bit too late on it
-[{"type": "HTML", "html": "Mark: \"Hi Ekanth, you think that this may be a tricky chase? Do you think that it's a slightly difficult pitch then?\" Yes, and yes. But if there is dew and the pitch evens out, like it did in the ODI WC final, might get easier for Ireland."}]Mark: "Hi Ekanth, you think that this may be a tricky chase? Do you think that it's a slightly difficult pitch then?" Yes, and yes. But if there is dew and the pitch evens out, like it did in the ODI WC final, might get easier for Ireland.
+Full toss almost hits off stump. Just above shin-high, Farooqi was leg side of the ball and tried carving it square. Was a bit too late on it
+Mark: "Hi Ekanth, you think that this may be a tricky chase? Do you think that it's a slightly difficult pitch then?" Yes, and yes. But if there is dew and the pitch evens out, like it did in the ODI WC final, might get easier for Ireland.
 
 Balls faced: 11
 Bowler: McCarthy
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Into the pitch, over off, Naveed clears coast and tries pulling it across. Underedges to deep fine leg. Was a back-of-hand slower one"}]Into the pitch, over off, Naveed clears coast and tries pulling it across. Underedges to deep fine leg. Was a back-of-hand slower one
+Into the pitch, over off, Naveed clears coast and tries pulling it across. Underedges to deep fine leg. Was a back-of-hand slower one
 
 
 Balls faced: 12
 Bowler: McCarthy
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of length just outside off, dabbed off the back foot towards point"}]Back of length just outside off, dabbed off the back foot towards point
+Back of length just outside off, dabbed off the back foot towards point
 
 
 
@@ -186,81 +204,89 @@ Match: all_games_1416063_1416084.json
 Balls faced: 1
 Bowler: Little
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another very full ball angled into off. Pushed to short third for a single"}]another very full ball angled into off. Pushed to short third for a single
+another very full ball angled into off. Pushed to short third for a single
 
 
 Balls faced: 2
 Bowler: Little
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Farooqi is the last man"}]Farooqi is the last man
+Farooqi is the last man
 
-[{"type": "HTML", "html": "bowls a yorker just outside off, as Farooqi opens the face of the bat to try and guide that but was beaten"}]bowls a yorker just outside off, as Farooqi opens the face of the bat to try and guide that but was beaten
+bowls a yorker just outside off, as Farooqi opens the face of the bat to try and guide that but was beaten
 
 
 Balls faced: 3
 Bowler: Adair
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a high full toss on the stumps, and defended back towards the bowler"}]a high full toss on the stumps, and defended back towards the bowler
+a high full toss on the stumps, and defended back towards the bowler
 
 
 Balls faced: 4
 Bowler: Adair
 Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: LEG_GLANCE
 Run scored: 1
-[{"type": "HTML", "html": "Adair back"}]Adair back
+Adair back
 
-[{"type": "HTML", "html": "it is a full toss which he angles in, and it ends on his pads. Whipped to deep square"}]it is a full toss which he angles in, and it ends on his pads. Whipped to deep square
+it is a full toss which he angles in, and it ends on his pads. Whipped to deep square
 
 
 Balls faced: 5
 Bowler: Little
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another very full ball angled into off. Pushed to short third for a single"}]another very full ball angled into off. Pushed to short third for a single
+another very full ball angled into off. Pushed to short third for a single
 
 
 Balls faced: 6
 Bowler: Little
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Farooqi is the last man"}]Farooqi is the last man
+Farooqi is the last man
 
-[{"type": "HTML", "html": "bowls a yorker just outside off, as Farooqi opens the face of the bat to try and guide that but was beaten"}]bowls a yorker just outside off, as Farooqi opens the face of the bat to try and guide that but was beaten
+bowls a yorker just outside off, as Farooqi opens the face of the bat to try and guide that but was beaten
 
 
 Balls faced: 7
 Bowler: Adair
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a high full toss on the stumps, and defended back towards the bowler"}]a high full toss on the stumps, and defended back towards the bowler
+a high full toss on the stumps, and defended back towards the bowler
 
 
 Balls faced: 8
 Bowler: Adair
 Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: LEG_GLANCE
 Run scored: 1
-[{"type": "HTML", "html": "Adair back"}]Adair back
+Adair back
 
-[{"type": "HTML", "html": "it is a full toss which he angles in, and it ends on his pads. Whipped to deep square"}]it is a full toss which he angles in, and it ends on his pads. Whipped to deep square
+it is a full toss which he angles in, and it ends on his pads. Whipped to deep square
 
 
 
@@ -268,83 +294,91 @@ Match: all_games_1416063_1416085.json
 Balls faced: 1
 Bowler: McCarthy
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Hat-trick ball to Farooqi"}]Hat-trick ball to Farooqi
+Hat-trick ball to Farooqi
 
-[{"type": "HTML", "html": "ahh, and he lands the yorker bang on off. It is jammed back to the bowler's left, though, and they pinch a single"}]ahh, and he lands the yorker bang on off. It is jammed back to the bowler's left, though, and they pinch a single
-[{"type": "HTML", "html": "<strong>Josh Little</strong>: \"Working closely with the bowling coach to shape the ball back in. The best bowling is both ways. Every time I put on this shirt, I absolutely love it.\""}, {"type": "HTML", "html": "<strong>9.45pm</strong> Afghanistan were 14 for 4 in the fourth over. Not a lot of punters would have bet then that they would finish on 152, let alone batting out all 20 overs. But Nabi knew only counterattack could help turn the tables. He dominated a 79-run stand with Atal, and eventually smashed 59 from 38 balls. That leaves Ireland chasing a good total, albeit dew could help them. Join us for the chase in ten."}]<strong>Josh Little</strong>: "Working closely with the bowling coach to shape the ball back in. The best bowling is both ways. Every time I put on this shirt, I absolutely love it." <strong>9.45pm</strong> Afghanistan were 14 for 4 in the fourth over. Not a lot of punters would have bet then that they would finish on 152, let alone batting out all 20 overs. But Nabi knew only counterattack could help turn the tables. He dominated a 79-run stand with Atal, and eventually smashed 59 from 38 balls. That leaves Ireland chasing a good total, albeit dew could help them. Join us for the chase in ten.
+ahh, and he lands the yorker bang on off. It is jammed back to the bowler's left, though, and they pinch a single
+<strong>Josh Little</strong>: "Working closely with the bowling coach to shape the ball back in. The best bowling is both ways. Every time I put on this shirt, I absolutely love it." <strong>9.45pm</strong> Afghanistan were 14 for 4 in the fourth over. Not a lot of punters would have bet then that they would finish on 152, let alone batting out all 20 overs. But Nabi knew only counterattack could help turn the tables. He dominated a 79-run stand with Atal, and eventually smashed 59 from 38 balls. That leaves Ireland chasing a good total, albeit dew could help them. Join us for the chase in ten.
 
 Balls faced: 2
 Bowler: McCarthy
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Hat-trick ball to Farooqi"}]Hat-trick ball to Farooqi
+Hat-trick ball to Farooqi
 
-[{"type": "HTML", "html": "ahh, and he lands the yorker bang on off. It is jammed back to the bowler's left, though, and they pinch a single"}]ahh, and he lands the yorker bang on off. It is jammed back to the bowler's left, though, and they pinch a single
-[{"type": "HTML", "html": "<strong>Josh Little</strong>: \"Working closely with the bowling coach to shape the ball back in. The best bowling is both ways. Every time I put on this shirt, I absolutely love it.\""}, {"type": "HTML", "html": "<strong>9.45pm</strong> Afghanistan were 14 for 4 in the fourth over. Not a lot of punters would have bet then that they would finish on 152, let alone batting out all 20 overs. But Nabi knew only counterattack could help turn the tables. He dominated a 79-run stand with Atal, and eventually smashed 59 from 38 balls. That leaves Ireland chasing a good total, albeit dew could help them. Join us for the chase in ten."}]<strong>Josh Little</strong>: "Working closely with the bowling coach to shape the ball back in. The best bowling is both ways. Every time I put on this shirt, I absolutely love it." <strong>9.45pm</strong> Afghanistan were 14 for 4 in the fourth over. Not a lot of punters would have bet then that they would finish on 152, let alone batting out all 20 overs. But Nabi knew only counterattack could help turn the tables. He dominated a 79-run stand with Atal, and eventually smashed 59 from 38 balls. That leaves Ireland chasing a good total, albeit dew could help them. Join us for the chase in ten.
+ahh, and he lands the yorker bang on off. It is jammed back to the bowler's left, though, and they pinch a single
+<strong>Josh Little</strong>: "Working closely with the bowling coach to shape the ball back in. The best bowling is both ways. Every time I put on this shirt, I absolutely love it." <strong>9.45pm</strong> Afghanistan were 14 for 4 in the fourth over. Not a lot of punters would have bet then that they would finish on 152, let alone batting out all 20 overs. But Nabi knew only counterattack could help turn the tables. He dominated a 79-run stand with Atal, and eventually smashed 59 from 38 balls. That leaves Ireland chasing a good total, albeit dew could help them. Join us for the chase in ten.
 
 
 Match: all_games_1416068_1416075.json
 Balls faced: 1
 Bowler: Madushanka
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fires in a yorker on off, and it is dug out safely by Farooqi"}]fires in a yorker on off, and it is dug out safely by Farooqi
+fires in a yorker on off, and it is dug out safely by Farooqi
 
 
 Balls faced: 2
 Bowler: Madushanka
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, and wide of off. Left alone"}]short of a length, and wide of off. Left alone
+short of a length, and wide of off. Left alone
 
 
 Balls faced: 3
 Bowler: Madushanka
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Hat-trick ball. Farooqi on strike. Two slips and a short leg in place."}]Hat-trick ball. Farooqi on strike. Two slips and a short leg in place.
+Hat-trick ball. Farooqi on strike. Two slips and a short leg in place.
 
-[{"type": "HTML", "html": "bowls a low full toss, getting it to dip on middle and off. Nudged to midwicket"}]bowls a low full toss, getting it to dip on middle and off. Nudged to midwicket
+bowls a low full toss, getting it to dip on middle and off. Nudged to midwicket
 
 
 Balls faced: 4
 Bowler: Madushanka
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fires in a yorker on off, and it is dug out safely by Farooqi"}]fires in a yorker on off, and it is dug out safely by Farooqi
+fires in a yorker on off, and it is dug out safely by Farooqi
 
 
 Balls faced: 5
 Bowler: Madushanka
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, and wide of off. Left alone"}]short of a length, and wide of off. Left alone
+short of a length, and wide of off. Left alone
 
 
 Balls faced: 6
 Bowler: Madushanka
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Hat-trick ball. Farooqi on strike. Two slips and a short leg in place."}]Hat-trick ball. Farooqi on strike. Two slips and a short leg in place.
+Hat-trick ball. Farooqi on strike. Two slips and a short leg in place.
 
-[{"type": "HTML", "html": "bowls a low full toss, getting it to dip on middle and off. Nudged to midwicket"}]bowls a low full toss, getting it to dip on middle and off. Nudged to midwicket
+bowls a low full toss, getting it to dip on middle and off. Nudged to midwicket
 
 
 
@@ -352,61 +386,67 @@ Match: all_games_1416068_1416076.json
 Balls faced: 1
 Bowler: Asitha Fernando
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another yorker, and this is full and straight. He gets it front leg out of the way to block"}]another yorker, and this is full and straight. He gets it front leg out of the way to block
+another yorker, and this is full and straight. He gets it front leg out of the way to block
 
 
 Balls faced: 2
 Bowler: Asitha Fernando
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "uff, a sharp short ball at 137kph. He is cramped for room as the ball angles into leg, as he managed to guide it deep third. And they don't run!"}]uff, a sharp short ball at 137kph. He is cramped for room as the ball angles into leg, as he managed to guide it deep third. And they don't run!
+uff, a sharp short ball at 137kph. He is cramped for room as the ball angles into leg, as he managed to guide it deep third. And they don't run!
 
 
 Balls faced: 3
 Bowler: Asitha Fernando
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Farooqi is the last man"}]Farooqi is the last man
+Farooqi is the last man
 
-[{"type": "HTML", "html": "ahh, this is a comical defence! Asitha went with the yorker just outside off, and Farooqi doesn't move any of his feet - and no part of his body too - in a completely dead-batted defence"}]ahh, this is a comical defence! Asitha went with the yorker just outside off, and Farooqi doesn't move any of his feet - and no part of his body too - in a completely dead-batted defence
+ahh, this is a comical defence! Asitha went with the yorker just outside off, and Farooqi doesn't move any of his feet - and no part of his body too - in a completely dead-batted defence
 
 
 Balls faced: 4
 Bowler: Asitha Fernando
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another yorker, and this is full and straight. He gets it front leg out of the way to block"}]another yorker, and this is full and straight. He gets it front leg out of the way to block
+another yorker, and this is full and straight. He gets it front leg out of the way to block
 
 
 Balls faced: 5
 Bowler: Asitha Fernando
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "uff, a sharp short ball at 137kph. He is cramped for room as the ball angles into leg, as he managed to guide it deep third. And they don't run!"}]uff, a sharp short ball at 137kph. He is cramped for room as the ball angles into leg, as he managed to guide it deep third. And they don't run!
+uff, a sharp short ball at 137kph. He is cramped for room as the ball angles into leg, as he managed to guide it deep third. And they don't run!
 
 
 Balls faced: 6
 Bowler: Asitha Fernando
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Farooqi is the last man"}]Farooqi is the last man
+Farooqi is the last man
 
-[{"type": "HTML", "html": "ahh, this is a comical defence! Asitha went with the yorker just outside off, and Farooqi doesn't move any of his feet - and no part of his body too - in a completely dead-batted defence"}]ahh, this is a comical defence! Asitha went with the yorker just outside off, and Farooqi doesn't move any of his feet - and no part of his body too - in a completely dead-batted defence
+ahh, this is a comical defence! Asitha went with the yorker just outside off, and Farooqi doesn't move any of his feet - and no part of his body too - in a completely dead-batted defence
 
 
 
@@ -414,100 +454,114 @@ Match: all_games_1416068_1416078.json
 Balls faced: 1
 Bowler: Pathirana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>that will be that! Sri Lanka win by 72 runs and take an unassailable lead in this T20I series!</strong> Length delivery outside off. Farooqi, with his feet stuck to concrete, wafts at it. Does not get it anywhere near the middle and chips it to Shanaka at extra cover, who times his jump to perfection and makes no mistake!"}]<strong>that will be that! Sri Lanka win by 72 runs and take an unassailable lead in this T20I series!</strong> Length delivery outside off. Farooqi, with his feet stuck to concrete, wafts at it. Does not get it anywhere near the middle and chips it to Shanaka at extra cover, who times his jump to perfection and makes no mistake!
-[{"type": "HTML", "html": "<strong>10:40pm</strong> Right. That will be all from us, folks. Hope you enjoyed our coverage as much as we loved /bringing it to you. We will be back again in a couple of days' time when these teams clash in the third and final T20I. Until then, this is goodbye from me (Shashwat), Ranjith and everyone else at ESPNcricinfo. Take care!"}, {"type": "HTML", "html": "<b>Wanindu Hasaranga, Sri Lanka captain:</b> (On the win) Credit goes to the batters. They batted really well. Openers did a good job. Sadeera and Mathews finished well to get to a big score. I trust our bowling line-up (to defend these scores). (On becoming the second-quickest to 100 T20I wickets) I have long to go. I trust my variations and I just want to do better. (On changes for the final T20I) I want to test our bench. We have four games left before the World Cup, so I want to have a look at them (those who missed out tonight) as well."}, {"type": "HTML", "html": "<b>Ibrahim Zadran, Afghanistan captain:</b> (On the decision at the toss) I am happy with the decision. We were good till 15 overs but then we gave away lots of runs. We could not execute our bowling plans. We could not execute with the bat either. The pitch was very good. (On their approach in the powerplay) We were trying to have a good start in the powerplay. After powerplay, you can't hit big sixes, so we were trying to make the most of it. No real difference in the pitches we played. It is all about the mind. If you do not execute your plans, you cannot win."}, {"type": "HTML", "html": "<b>Angelo Mathews, Player of the Match:</b> (On how he is feeling) Feeling pretty good. Had a tight hamstring after the last game. Decided to have a fitness test (earlier today) and it all went well. (On his role) Whatever the team wants me to do, I am willing to adapt myself according to the situation. I was struggling a little bit in the first 10-15 balls. Sadeera batted brilliantly as well. That was the plan, for him to bat 17-18 overs. My plan was to have a look and then go for it. His innings helped me a lot, knowing that he was holding one end up. (On the pitch and their bowling performance) It was a very good wicket. We had to bowl good lines and lengths. Our fielding was really good today. Special mention to the Dambulla crowd, they were right behind us. Thank you very much to Dambulla."}, {"type": "HTML", "html": "<strong>10:18pm</strong> A pretty one-sided contest and the writing was on the wall for Afghanistan after the powerplay, where they lost five wickets and their shot selection came under the scanner. Janat and Nabi sparkled but chasing 188, against a highly-skillled Sri Lankan attack, that was never going to be enough."}, {"type": "HTML", "html": "Speaking of Sri Lanka, everything they tried with the ball came off. Mathews set the game up with two early wickets. Theekshana then removed Gurbaz, with Binura's two-wicket fifth over firmly breaking the back of Afghanistan's run-chase. Hasaranga also wrote himself into the history books, becoming the second-fastest to 100 T20I wickets and ensuring that Sri Lanka finished off this game with the minimial of fuss."}]<strong>10:40pm</strong> Right. That will be all from us, folks. Hope you enjoyed our coverage as much as we loved /bringing it to you. We will be back again in a couple of days' time when these teams clash in the third and final T20I. Until then, this is goodbye from me (Shashwat), Ranjith and everyone else at ESPNcricinfo. Take care! <b>Wanindu Hasaranga, Sri Lanka captain:</b> (On the win) Credit goes to the batters. They batted really well. Openers did a good job. Sadeera and Mathews finished well to get to a big score. I trust our bowling line-up (to defend these scores). (On becoming the second-quickest to 100 T20I wickets) I have long to go. I trust my variations and I just want to do better. (On changes for the final T20I) I want to test our bench. We have four games left before the World Cup, so I want to have a look at them (those who missed out tonight) as well. <b>Ibrahim Zadran, Afghanistan captain:</b> (On the decision at the toss) I am happy with the decision. We were good till 15 overs but then we gave away lots of runs. We could not execute our bowling plans. We could not execute with the bat either. The pitch was very good. (On their approach in the powerplay) We were trying to have a good start in the powerplay. After powerplay, you can't hit big sixes, so we were trying to make the most of it. No real difference in the pitches we played. It is all about the mind. If you do not execute your plans, you cannot win. <b>Angelo Mathews, Player of the Match:</b> (On how he is feeling) Feeling pretty good. Had a tight hamstring after the last game. Decided to have a fitness test (earlier today) and it all went well. (On his role) Whatever the team wants me to do, I am willing to adapt myself according to the situation. I was struggling a little bit in the first 10-15 balls. Sadeera batted brilliantly as well. That was the plan, for him to bat 17-18 overs. My plan was to have a look and then go for it. His innings helped me a lot, knowing that he was holding one end up. (On the pitch and their bowling performance) It was a very good wicket. We had to bowl good lines and lengths. Our fielding was really good today. Special mention to the Dambulla crowd, they were right behind us. Thank you very much to Dambulla. <strong>10:18pm</strong> A pretty one-sided contest and the writing was on the wall for Afghanistan after the powerplay, where they lost five wickets and their shot selection came under the scanner. Janat and Nabi sparkled but chasing 188, against a highly-skillled Sri Lankan attack, that was never going to be enough. Speaking of Sri Lanka, everything they tried with the ball came off. Mathews set the game up with two early wickets. Theekshana then removed Gurbaz, with Binura's two-wicket fifth over firmly breaking the back of Afghanistan's run-chase. Hasaranga also wrote himself into the history books, becoming the second-fastest to 100 T20I wickets and ensuring that Sri Lanka finished off this game with the minimial of fuss.
+Fazalhaq Farooqi is OUT! caught
+c Shanaka b Pathirana
+Fazalhaq Farooqi c Shanaka b Pathirana 2 (3b 0x4 0x6 3m) SR: 66.66
+<strong>that will be that! Sri Lanka win by 72 runs and take an unassailable lead in this T20I series!</strong> Length delivery outside off. Farooqi, with his feet stuck to concrete, wafts at it. Does not get it anywhere near the middle and chips it to Shanaka at extra cover, who times his jump to perfection and makes no mistake!
+<strong>10:40pm</strong> Right. That will be all from us, folks. Hope you enjoyed our coverage as much as we loved /bringing it to you. We will be back again in a couple of days' time when these teams clash in the third and final T20I. Until then, this is goodbye from me (Shashwat), Ranjith and everyone else at ESPNcricinfo. Take care! <b>Wanindu Hasaranga, Sri Lanka captain:</b> (On the win) Credit goes to the batters. They batted really well. Openers did a good job. Sadeera and Mathews finished well to get to a big score. I trust our bowling line-up (to defend these scores). (On becoming the second-quickest to 100 T20I wickets) I have long to go. I trust my variations and I just want to do better. (On changes for the final T20I) I want to test our bench. We have four games left before the World Cup, so I want to have a look at them (those who missed out tonight) as well. <b>Ibrahim Zadran, Afghanistan captain:</b> (On the decision at the toss) I am happy with the decision. We were good till 15 overs but then we gave away lots of runs. We could not execute our bowling plans. We could not execute with the bat either. The pitch was very good. (On their approach in the powerplay) We were trying to have a good start in the powerplay. After powerplay, you can't hit big sixes, so we were trying to make the most of it. No real difference in the pitches we played. It is all about the mind. If you do not execute your plans, you cannot win. <b>Angelo Mathews, Player of the Match:</b> (On how he is feeling) Feeling pretty good. Had a tight hamstring after the last game. Decided to have a fitness test (earlier today) and it all went well. (On his role) Whatever the team wants me to do, I am willing to adapt myself according to the situation. I was struggling a little bit in the first 10-15 balls. Sadeera batted brilliantly as well. That was the plan, for him to bat 17-18 overs. My plan was to have a look and then go for it. His innings helped me a lot, knowing that he was holding one end up. (On the pitch and their bowling performance) It was a very good wicket. We had to bowl good lines and lengths. Our fielding was really good today. Special mention to the Dambulla crowd, they were right behind us. Thank you very much to Dambulla. <strong>10:18pm</strong> A pretty one-sided contest and the writing was on the wall for Afghanistan after the powerplay, where they lost five wickets and their shot selection came under the scanner. Janat and Nabi sparkled but chasing 188, against a highly-skillled Sri Lankan attack, that was never going to be enough. Speaking of Sri Lanka, everything they tried with the ball came off. Mathews set the game up with two early wickets. Theekshana then removed Gurbaz, with Binura's two-wicket fifth over firmly breaking the back of Afghanistan's run-chase. Hasaranga also wrote himself into the history books, becoming the second-fastest to 100 T20I wickets and ensuring that Sri Lanka finished off this game with the minimial of fuss.
 
 Balls faced: 2
 Bowler: Pathirana
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "low full toss on leg stump. Farooqi gives himself room and hacks it towards deep square leg for a brace"}]low full toss on leg stump. Farooqi gives himself room and hacks it towards deep square leg for a brace
+low full toss on leg stump. Farooqi gives himself room and hacks it towards deep square leg for a brace
 
 
 Balls faced: 3
 Bowler: Pathirana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full just outside off. Farooqi, while staying well leg side of the ball, hangs out his bat and squirts it away into the on side"}]full just outside off. Farooqi, while staying well leg side of the ball, hangs out his bat and squirts it away into the on side
+full just outside off. Farooqi, while staying well leg side of the ball, hangs out his bat and squirts it away into the on side
 
 
 Balls faced: 4
 Bowler: Pathirana
 Over: 17
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another wayward delivery down leg. Some more exercise for the umpire"}]another wayward delivery down leg. Some more exercise for the umpire
+another wayward delivery down leg. Some more exercise for the umpire
 
 Wide: 1
 Balls faced: 5
 Bowler: Pathirana
 Over: 17
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: LEG_GLANCE
 Run scored: 0
-[{"type": "HTML", "html": "Farooqi is the last batter in"}]Farooqi is the last batter in
+Farooqi is the last batter in
 
-[{"type": "HTML", "html": "full toss darted down leg. Called a wide"}]full toss darted down leg. Called a wide
+full toss darted down leg. Called a wide
 
 Wide: 1
 Balls faced: 6
 Bowler: Pathirana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>that will be that! Sri Lanka win by 72 runs and take an unassailable lead in this T20I series!</strong> Length delivery outside off. Farooqi, with his feet stuck to concrete, wafts at it. Does not get it anywhere near the middle and chips it to Shanaka at extra cover, who times his jump to perfection and makes no mistake!"}]<strong>that will be that! Sri Lanka win by 72 runs and take an unassailable lead in this T20I series!</strong> Length delivery outside off. Farooqi, with his feet stuck to concrete, wafts at it. Does not get it anywhere near the middle and chips it to Shanaka at extra cover, who times his jump to perfection and makes no mistake!
-[{"type": "HTML", "html": "<strong>10:40pm</strong> Right. That will be all from us, folks. Hope you enjoyed our coverage as much as we loved /bringing it to you. We will be back again in a couple of days' time when these teams clash in the third and final T20I. Until then, this is goodbye from me (Shashwat), Ranjith and everyone else at ESPNcricinfo. Take care!"}, {"type": "HTML", "html": "<b>Wanindu Hasaranga, Sri Lanka captain:</b> (On the win) Credit goes to the batters. They batted really well. Openers did a good job. Sadeera and Mathews finished well to get to a big score. I trust our bowling line-up (to defend these scores). (On becoming the second-quickest to 100 T20I wickets) I have long to go. I trust my variations and I just want to do better. (On changes for the final T20I) I want to test our bench. We have four games left before the World Cup, so I want to have a look at them (those who missed out tonight) as well."}, {"type": "HTML", "html": "<b>Ibrahim Zadran, Afghanistan captain:</b> (On the decision at the toss) I am happy with the decision. We were good till 15 overs but then we gave away lots of runs. We could not execute our bowling plans. We could not execute with the bat either. The pitch was very good. (On their approach in the powerplay) We were trying to have a good start in the powerplay. After powerplay, you can't hit big sixes, so we were trying to make the most of it. No real difference in the pitches we played. It is all about the mind. If you do not execute your plans, you cannot win."}, {"type": "HTML", "html": "<b>Angelo Mathews, Player of the Match:</b> (On how he is feeling) Feeling pretty good. Had a tight hamstring after the last game. Decided to have a fitness test (earlier today) and it all went well. (On his role) Whatever the team wants me to do, I am willing to adapt myself according to the situation. I was struggling a little bit in the first 10-15 balls. Sadeera batted brilliantly as well. That was the plan, for him to bat 17-18 overs. My plan was to have a look and then go for it. His innings helped me a lot, knowing that he was holding one end up. (On the pitch and their bowling performance) It was a very good wicket. We had to bowl good lines and lengths. Our fielding was really good today. Special mention to the Dambulla crowd, they were right behind us. Thank you very much to Dambulla."}, {"type": "HTML", "html": "<strong>10:18pm</strong> A pretty one-sided contest and the writing was on the wall for Afghanistan after the powerplay, where they lost five wickets and their shot selection came under the scanner. Janat and Nabi sparkled but chasing 188, against a highly-skillled Sri Lankan attack, that was never going to be enough."}, {"type": "HTML", "html": "Speaking of Sri Lanka, everything they tried with the ball came off. Mathews set the game up with two early wickets. Theekshana then removed Gurbaz, with Binura's two-wicket fifth over firmly breaking the back of Afghanistan's run-chase. Hasaranga also wrote himself into the history books, becoming the second-fastest to 100 T20I wickets and ensuring that Sri Lanka finished off this game with the minimial of fuss."}]<strong>10:40pm</strong> Right. That will be all from us, folks. Hope you enjoyed our coverage as much as we loved /bringing it to you. We will be back again in a couple of days' time when these teams clash in the third and final T20I. Until then, this is goodbye from me (Shashwat), Ranjith and everyone else at ESPNcricinfo. Take care! <b>Wanindu Hasaranga, Sri Lanka captain:</b> (On the win) Credit goes to the batters. They batted really well. Openers did a good job. Sadeera and Mathews finished well to get to a big score. I trust our bowling line-up (to defend these scores). (On becoming the second-quickest to 100 T20I wickets) I have long to go. I trust my variations and I just want to do better. (On changes for the final T20I) I want to test our bench. We have four games left before the World Cup, so I want to have a look at them (those who missed out tonight) as well. <b>Ibrahim Zadran, Afghanistan captain:</b> (On the decision at the toss) I am happy with the decision. We were good till 15 overs but then we gave away lots of runs. We could not execute our bowling plans. We could not execute with the bat either. The pitch was very good. (On their approach in the powerplay) We were trying to have a good start in the powerplay. After powerplay, you can't hit big sixes, so we were trying to make the most of it. No real difference in the pitches we played. It is all about the mind. If you do not execute your plans, you cannot win. <b>Angelo Mathews, Player of the Match:</b> (On how he is feeling) Feeling pretty good. Had a tight hamstring after the last game. Decided to have a fitness test (earlier today) and it all went well. (On his role) Whatever the team wants me to do, I am willing to adapt myself according to the situation. I was struggling a little bit in the first 10-15 balls. Sadeera batted brilliantly as well. That was the plan, for him to bat 17-18 overs. My plan was to have a look and then go for it. His innings helped me a lot, knowing that he was holding one end up. (On the pitch and their bowling performance) It was a very good wicket. We had to bowl good lines and lengths. Our fielding was really good today. Special mention to the Dambulla crowd, they were right behind us. Thank you very much to Dambulla. <strong>10:18pm</strong> A pretty one-sided contest and the writing was on the wall for Afghanistan after the powerplay, where they lost five wickets and their shot selection came under the scanner. Janat and Nabi sparkled but chasing 188, against a highly-skillled Sri Lankan attack, that was never going to be enough. Speaking of Sri Lanka, everything they tried with the ball came off. Mathews set the game up with two early wickets. Theekshana then removed Gurbaz, with Binura's two-wicket fifth over firmly breaking the back of Afghanistan's run-chase. Hasaranga also wrote himself into the history books, becoming the second-fastest to 100 T20I wickets and ensuring that Sri Lanka finished off this game with the minimial of fuss.
+Fazalhaq Farooqi is OUT! caught
+c Shanaka b Pathirana
+Fazalhaq Farooqi c Shanaka b Pathirana 2 (3b 0x4 0x6 3m) SR: 66.66
+<strong>that will be that! Sri Lanka win by 72 runs and take an unassailable lead in this T20I series!</strong> Length delivery outside off. Farooqi, with his feet stuck to concrete, wafts at it. Does not get it anywhere near the middle and chips it to Shanaka at extra cover, who times his jump to perfection and makes no mistake!
+<strong>10:40pm</strong> Right. That will be all from us, folks. Hope you enjoyed our coverage as much as we loved /bringing it to you. We will be back again in a couple of days' time when these teams clash in the third and final T20I. Until then, this is goodbye from me (Shashwat), Ranjith and everyone else at ESPNcricinfo. Take care! <b>Wanindu Hasaranga, Sri Lanka captain:</b> (On the win) Credit goes to the batters. They batted really well. Openers did a good job. Sadeera and Mathews finished well to get to a big score. I trust our bowling line-up (to defend these scores). (On becoming the second-quickest to 100 T20I wickets) I have long to go. I trust my variations and I just want to do better. (On changes for the final T20I) I want to test our bench. We have four games left before the World Cup, so I want to have a look at them (those who missed out tonight) as well. <b>Ibrahim Zadran, Afghanistan captain:</b> (On the decision at the toss) I am happy with the decision. We were good till 15 overs but then we gave away lots of runs. We could not execute our bowling plans. We could not execute with the bat either. The pitch was very good. (On their approach in the powerplay) We were trying to have a good start in the powerplay. After powerplay, you can't hit big sixes, so we were trying to make the most of it. No real difference in the pitches we played. It is all about the mind. If you do not execute your plans, you cannot win. <b>Angelo Mathews, Player of the Match:</b> (On how he is feeling) Feeling pretty good. Had a tight hamstring after the last game. Decided to have a fitness test (earlier today) and it all went well. (On his role) Whatever the team wants me to do, I am willing to adapt myself according to the situation. I was struggling a little bit in the first 10-15 balls. Sadeera batted brilliantly as well. That was the plan, for him to bat 17-18 overs. My plan was to have a look and then go for it. His innings helped me a lot, knowing that he was holding one end up. (On the pitch and their bowling performance) It was a very good wicket. We had to bowl good lines and lengths. Our fielding was really good today. Special mention to the Dambulla crowd, they were right behind us. Thank you very much to Dambulla. <strong>10:18pm</strong> A pretty one-sided contest and the writing was on the wall for Afghanistan after the powerplay, where they lost five wickets and their shot selection came under the scanner. Janat and Nabi sparkled but chasing 188, against a highly-skillled Sri Lankan attack, that was never going to be enough. Speaking of Sri Lanka, everything they tried with the ball came off. Mathews set the game up with two early wickets. Theekshana then removed Gurbaz, with Binura's two-wicket fifth over firmly breaking the back of Afghanistan's run-chase. Hasaranga also wrote himself into the history books, becoming the second-fastest to 100 T20I wickets and ensuring that Sri Lanka finished off this game with the minimial of fuss.
 
 Balls faced: 7
 Bowler: Pathirana
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "low full toss on leg stump. Farooqi gives himself room and hacks it towards deep square leg for a brace"}]low full toss on leg stump. Farooqi gives himself room and hacks it towards deep square leg for a brace
+low full toss on leg stump. Farooqi gives himself room and hacks it towards deep square leg for a brace
 
 
 Balls faced: 8
 Bowler: Pathirana
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full just outside off. Farooqi, while staying well leg side of the ball, hangs out his bat and squirts it away into the on side"}]full just outside off. Farooqi, while staying well leg side of the ball, hangs out his bat and squirts it away into the on side
+full just outside off. Farooqi, while staying well leg side of the ball, hangs out his bat and squirts it away into the on side
 
 
 Balls faced: 9
 Bowler: Pathirana
 Over: 17
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another wayward delivery down leg. Some more exercise for the umpire"}]another wayward delivery down leg. Some more exercise for the umpire
+another wayward delivery down leg. Some more exercise for the umpire
 
 Wide: 1
 Balls faced: 10
 Bowler: Pathirana
 Over: 17
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: LEG_GLANCE
 Run scored: 0
-[{"type": "HTML", "html": "Farooqi is the last batter in"}]Farooqi is the last batter in
+Farooqi is the last batter in
 
-[{"type": "HTML", "html": "full toss darted down leg. Called a wide"}]full toss darted down leg. Called a wide
+full toss darted down leg. Called a wide
 
 Wide: 1

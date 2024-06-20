@@ -2,6 +2,7 @@ Match: all_games_1410505_1410544.json
 Balls faced: 1
 Bowler: Gray
 Over: 1
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Gray
 Over: 1
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -22,6 +24,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Grewcock
 Over: 2
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -32,6 +35,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Grewcock
 Over: 2
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -42,6 +46,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Grewcock
 Over: 2
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -52,6 +57,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Gray
 Over: 1
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -62,6 +68,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Gray
 Over: 1
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Coppack
 Over: 3
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -82,6 +90,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Coppack
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Coppack
 Over: 3
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Grewcock
 Over: 2
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Grewcock
 Over: 2
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -122,6 +134,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Grewcock
 Over: 2
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -132,6 +145,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Villiers
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 2
 
@@ -142,6 +156,7 @@ Run scored: 2
 Balls faced: 15
 Bowler: Villiers
 Over: 4
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 4
 
@@ -152,6 +167,7 @@ Run scored: 4
 Balls faced: 16
 Bowler: Villiers
 Over: 4
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -162,6 +178,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Villiers
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -172,6 +189,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Villiers
 Over: 4
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -182,6 +200,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Villiers
 Over: 4
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -192,6 +211,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Coppack
 Over: 3
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -202,6 +222,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Coppack
 Over: 3
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -212,6 +233,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Coppack
 Over: 3
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -222,6 +244,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: Villiers
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 2
 
@@ -232,6 +255,7 @@ Run scored: 2
 Balls faced: 24
 Bowler: Villiers
 Over: 4
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 4
 
@@ -242,6 +266,7 @@ Run scored: 4
 Balls faced: 25
 Bowler: Villiers
 Over: 4
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -252,6 +277,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Villiers
 Over: 4
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -262,6 +288,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Villiers
 Over: 4
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -272,6 +299,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Villiers
 Over: 4
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -282,6 +310,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: Villiers
 Over: 6
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -292,6 +321,7 @@ Run scored: 1
 Balls faced: 30
 Bowler: Villiers
 Over: 6
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -302,6 +332,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Villiers
 Over: 6
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -312,6 +343,7 @@ Run scored: 4
 Balls faced: 32
 Bowler: Villiers
 Over: 6
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -322,6 +354,7 @@ Run scored: 0
 Balls faced: 33
 Bowler: Coppack
 Over: 7
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -332,6 +365,7 @@ Run scored: 1
 Balls faced: 34
 Bowler: Coppack
 Over: 7
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -342,6 +376,7 @@ Run scored: 2
 Balls faced: 35
 Bowler: Coppack
 Over: 7
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -352,6 +387,7 @@ Run scored: 1
 Balls faced: 36
 Bowler: Coppack
 Over: 7
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -362,6 +398,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: Villiers
 Over: 6
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -372,6 +409,7 @@ Run scored: 1
 Balls faced: 38
 Bowler: Villiers
 Over: 6
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -382,6 +420,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: Villiers
 Over: 6
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -392,6 +431,7 @@ Run scored: 4
 Balls faced: 40
 Bowler: Villiers
 Over: 6
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -402,6 +442,7 @@ Run scored: 0
 Balls faced: 41
 Bowler: Munro
 Over: 8
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -412,6 +453,7 @@ Run scored: 1
 Balls faced: 42
 Bowler: Munro
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -422,6 +464,7 @@ Run scored: 1
 Balls faced: 43
 Bowler: Munro
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -432,6 +475,7 @@ Run scored: 1
 Balls faced: 44
 Bowler: Coppack
 Over: 7
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -442,6 +486,7 @@ Run scored: 1
 Balls faced: 45
 Bowler: Coppack
 Over: 7
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -452,6 +497,7 @@ Run scored: 2
 Balls faced: 46
 Bowler: Coppack
 Over: 7
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -462,6 +508,7 @@ Run scored: 1
 Balls faced: 47
 Bowler: Coppack
 Over: 7
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -472,6 +519,7 @@ Run scored: 0
 Balls faced: 48
 Bowler: Surenkumar
 Over: 9
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -482,6 +530,7 @@ Run scored: 1
 Balls faced: 49
 Bowler: Surenkumar
 Over: 9
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -492,6 +541,7 @@ Run scored: 1
 Balls faced: 50
 Bowler: Munro
 Over: 8
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -502,6 +552,7 @@ Run scored: 1
 Balls faced: 51
 Bowler: Munro
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -512,6 +563,7 @@ Run scored: 1
 Balls faced: 52
 Bowler: Munro
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -522,6 +574,7 @@ Run scored: 1
 Balls faced: 53
 Bowler: Grewcock
 Over: 10
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -532,6 +585,7 @@ Run scored: 1
 Balls faced: 54
 Bowler: Grewcock
 Over: 10
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -542,6 +596,7 @@ Run scored: 0
 Balls faced: 55
 Bowler: Grewcock
 Over: 10
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -552,6 +607,7 @@ Run scored: 0
 Balls faced: 56
 Bowler: Grewcock
 Over: 10
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -562,6 +618,7 @@ Run scored: 1
 Balls faced: 57
 Bowler: Grewcock
 Over: 10
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -572,6 +629,7 @@ Run scored: 0
 Balls faced: 58
 Bowler: Surenkumar
 Over: 9
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -582,6 +640,7 @@ Run scored: 1
 Balls faced: 59
 Bowler: Surenkumar
 Over: 9
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -592,6 +651,7 @@ Run scored: 1
 Balls faced: 60
 Bowler: Villiers
 Over: 11
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -602,6 +662,7 @@ Run scored: 1
 Balls faced: 61
 Bowler: Villiers
 Over: 11
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -612,6 +673,7 @@ Run scored: 1
 Balls faced: 62
 Bowler: Villiers
 Over: 11
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -622,6 +684,7 @@ Run scored: 1
 Balls faced: 63
 Bowler: Grewcock
 Over: 10
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -632,6 +695,7 @@ Run scored: 1
 Balls faced: 64
 Bowler: Grewcock
 Over: 10
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -642,6 +706,7 @@ Run scored: 0
 Balls faced: 65
 Bowler: Grewcock
 Over: 10
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -652,6 +717,7 @@ Run scored: 0
 Balls faced: 66
 Bowler: Grewcock
 Over: 10
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -662,6 +728,7 @@ Run scored: 1
 Balls faced: 67
 Bowler: Grewcock
 Over: 10
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -672,6 +739,7 @@ Run scored: 0
 Balls faced: 68
 Bowler: Grewcock
 Over: 12
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -682,6 +750,7 @@ Run scored: 1
 Balls faced: 69
 Bowler: Grewcock
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -692,6 +761,7 @@ Run scored: 1
 Balls faced: 70
 Bowler: Grewcock
 Over: 12
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -702,6 +772,7 @@ Run scored: 0
 Balls faced: 71
 Bowler: Grewcock
 Over: 12
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -712,6 +783,7 @@ Run scored: 1
 Balls faced: 72
 Bowler: Villiers
 Over: 11
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -722,6 +794,7 @@ Run scored: 1
 Balls faced: 73
 Bowler: Villiers
 Over: 11
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -732,6 +805,7 @@ Run scored: 1
 Balls faced: 74
 Bowler: Villiers
 Over: 11
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -742,6 +816,7 @@ Run scored: 1
 Balls faced: 75
 Bowler: Munro
 Over: 13
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -752,6 +827,7 @@ Run scored: 0
 Balls faced: 76
 Bowler: Munro
 Over: 13
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -762,6 +838,7 @@ Run scored: 0
 Balls faced: 77
 Bowler: Munro
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -772,6 +849,7 @@ Run scored: 1
 Balls faced: 78
 Bowler: Munro
 Over: 13
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -782,6 +860,7 @@ Run scored: 4
 Balls faced: 79
 Bowler: Munro
 Over: 13
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -792,6 +871,7 @@ Run scored: 4
 Balls faced: 80
 Bowler: Grewcock
 Over: 12
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -802,6 +882,7 @@ Run scored: 1
 Balls faced: 81
 Bowler: Grewcock
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -812,6 +893,7 @@ Run scored: 1
 Balls faced: 82
 Bowler: Grewcock
 Over: 12
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -822,6 +904,7 @@ Run scored: 0
 Balls faced: 83
 Bowler: Grewcock
 Over: 12
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -832,6 +915,7 @@ Run scored: 1
 Balls faced: 84
 Bowler: Grewcock
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -842,6 +926,7 @@ Run scored: 1
 Balls faced: 85
 Bowler: Grewcock
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -852,6 +937,7 @@ Wide: 1
 Balls faced: 86
 Bowler: Grewcock
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -862,6 +948,7 @@ Run scored: 0
 Balls faced: 87
 Bowler: Grewcock
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -872,6 +959,7 @@ Run scored: 2
 Balls faced: 88
 Bowler: Grewcock
 Over: 14
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -882,6 +970,7 @@ Run scored: 0
 Balls faced: 89
 Bowler: Munro
 Over: 13
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -892,6 +981,7 @@ Run scored: 0
 Balls faced: 90
 Bowler: Munro
 Over: 13
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -902,6 +992,7 @@ Run scored: 0
 Balls faced: 91
 Bowler: Munro
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -912,6 +1003,7 @@ Run scored: 1
 Balls faced: 92
 Bowler: Munro
 Over: 13
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -922,6 +1014,7 @@ Run scored: 4
 Balls faced: 93
 Bowler: Munro
 Over: 13
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -932,16 +1025,20 @@ Run scored: 4
 Balls faced: 94
 Bowler: Surenkumar
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Corney is OUT! caught
+c Grewcock b Surenkumar
+Emma Corney c Grewcock b Surenkumar 46 (49b 4x4 0x6 52m) SR: 93.87
 
 
 
 Balls faced: 95
 Bowler: Grewcock
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -952,6 +1049,7 @@ Run scored: 1
 Balls faced: 96
 Bowler: Grewcock
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -962,6 +1060,7 @@ Wide: 1
 Balls faced: 97
 Bowler: Grewcock
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -972,6 +1071,7 @@ Run scored: 0
 Balls faced: 98
 Bowler: Grewcock
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -982,6 +1082,7 @@ Run scored: 2
 Balls faced: 99
 Bowler: Grewcock
 Over: 14
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -992,5 +1093,10 @@ Run scored: 0
 Balls faced: 100
 Bowler: Surenkumar
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
+
+Corney is OUT! caught
+c Grewcock b Surenkumar
+Emma Corney c Grewcock b Surenkumar 46 (49b 4x4 0x6 52m) SR: 93.87

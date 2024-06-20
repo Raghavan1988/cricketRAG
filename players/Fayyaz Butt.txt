@@ -2,158 +2,178 @@ Match: all_games_1411166_1415728.json
 Balls faced: 1
 Bowler: Rashid
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Driven on the up... but beyond cover - Will Jacks - who didn't pick that up, actually. Archer runs around from long off to tidy up"}]Driven on the up... but beyond cover - Will Jacks - who didn't pick that up, actually. Archer runs around from long off to tidy up
+Driven on the up... but beyond cover - Will Jacks - who didn't pick that up, actually. Archer runs around from long off to tidy up
 
 
 Balls faced: 2
 Bowler: Rashid
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Fayyaz Butt is the next poor soul"}]Fayyaz Butt is the next poor soul
+Fayyaz Butt is the next poor soul
 
-[{"type": "HTML", "html": "Full, on middle stump, defended out to cover"}]Full, on middle stump, defended out to cover
+Full, on middle stump, defended out to cover
 
 
 Balls faced: 3
 Bowler: Rashid
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Driven on the up... but beyond cover - Will Jacks - who didn't pick that up, actually. Archer runs around from long off to tidy up"}]Driven on the up... but beyond cover - Will Jacks - who didn't pick that up, actually. Archer runs around from long off to tidy up
+Driven on the up... but beyond cover - Will Jacks - who didn't pick that up, actually. Archer runs around from long off to tidy up
 
 
 Balls faced: 4
 Bowler: Rashid
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Fayyaz Butt is the next poor soul"}]Fayyaz Butt is the next poor soul
+Fayyaz Butt is the next poor soul
 
-[{"type": "HTML", "html": "Full, on middle stump, defended out to cover"}]Full, on middle stump, defended out to cover
+Full, on middle stump, defended out to cover
 
 
 Balls faced: 5
 Bowler: Rashid
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Got him this time!</b> Googly again, this one wider, fuller - perfectly pitched, really - and scuttles through a very loose push from Fayyaz to light up the stumps"}]<b>Got him this time!</b> Googly again, this one wider, fuller - perfectly pitched, really - and scuttles through a very loose push from Fayyaz to light up the stumps
+Fayyaz Butt is OUT! bowled
+ b Rashid
+Fayyaz Butt b Rashid 2 (7b 0x4 0x6 7m) SR: 28.57
+<b>Got him this time!</b> Googly again, this one wider, fuller - perfectly pitched, really - and scuttles through a very loose push from Fayyaz to light up the stumps
 
 
 Balls faced: 6
 Bowler: Rashid
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Googly pins the batter in front... totally misread but it's spun a bit too much that it would probably have slid down leg. No review taken"}]Googly pins the batter in front... totally misread but it's spun a bit too much that it would probably have slid down leg. No review taken
+Googly pins the batter in front... totally misread but it's spun a bit too much that it would probably have slid down leg. No review taken
 
 
 Balls faced: 7
 Bowler: Rashid
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Out the side of the hand, skidding on, defended back down the pitch"}]Out the side of the hand, skidding on, defended back down the pitch
+Out the side of the hand, skidding on, defended back down the pitch
 
 
 Balls faced: 8
 Bowler: Rashid
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sharp side spin... but too much spin and wided as Fayyaz reaches out for a sweep"}]Sharp side spin... but too much spin and wided as Fayyaz reaches out for a sweep
+Sharp side spin... but too much spin and wided as Fayyaz reaches out for a sweep
 
 Wide: 1
 Balls faced: 9
 Bowler: Rashid
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beats the edge - drift in, good turn, past the full face of Butt's bat"}]Beats the edge - drift in, good turn, past the full face of Butt's bat
+Beats the edge - drift in, good turn, past the full face of Butt's bat
 
 
 Balls faced: 10
 Bowler: Rashid
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Adil Rashid to continue after the break"}]Adil Rashid to continue after the break
+Adil Rashid to continue after the break
 
-[{"type": "HTML", "html": "Full, on off stump, bit of turned but defended into the off side"}]Full, on off stump, bit of turned but defended into the off side
+Full, on off stump, bit of turned but defended into the off side
 
 
 Balls faced: 11
 Bowler: Rashid
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Got him this time!</b> Googly again, this one wider, fuller - perfectly pitched, really - and scuttles through a very loose push from Fayyaz to light up the stumps"}]<b>Got him this time!</b> Googly again, this one wider, fuller - perfectly pitched, really - and scuttles through a very loose push from Fayyaz to light up the stumps
+Fayyaz Butt is OUT! bowled
+ b Rashid
+Fayyaz Butt b Rashid 2 (7b 0x4 0x6 7m) SR: 28.57
+<b>Got him this time!</b> Googly again, this one wider, fuller - perfectly pitched, really - and scuttles through a very loose push from Fayyaz to light up the stumps
 
 
 Balls faced: 12
 Bowler: Rashid
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Googly pins the batter in front... totally misread but it's spun a bit too much that it would probably have slid down leg. No review taken"}]Googly pins the batter in front... totally misread but it's spun a bit too much that it would probably have slid down leg. No review taken
+Googly pins the batter in front... totally misread but it's spun a bit too much that it would probably have slid down leg. No review taken
 
 
 Balls faced: 13
 Bowler: Rashid
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Out the side of the hand, skidding on, defended back down the pitch"}]Out the side of the hand, skidding on, defended back down the pitch
+Out the side of the hand, skidding on, defended back down the pitch
 
 
 Balls faced: 14
 Bowler: Rashid
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Sharp side spin... but too much spin and wided as Fayyaz reaches out for a sweep"}]Sharp side spin... but too much spin and wided as Fayyaz reaches out for a sweep
+Sharp side spin... but too much spin and wided as Fayyaz reaches out for a sweep
 
 Wide: 1
 Balls faced: 15
 Bowler: Rashid
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beats the edge - drift in, good turn, past the full face of Butt's bat"}]Beats the edge - drift in, good turn, past the full face of Butt's bat
+Beats the edge - drift in, good turn, past the full face of Butt's bat
 
 
 Balls faced: 16
 Bowler: Rashid
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Adil Rashid to continue after the break"}]Adil Rashid to continue after the break
+Adil Rashid to continue after the break
 
-[{"type": "HTML", "html": "Full, on off stump, bit of turned but defended into the off side"}]Full, on off stump, bit of turned but defended into the off side
+Full, on off stump, bit of turned but defended into the off side

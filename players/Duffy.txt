@@ -2,198 +2,218 @@ Match: all_games_1424827_1424830.json
 Balls faced: 1
 Bowler: Shaheen Shah Afridi
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Round again, pitched up and it's arcing away from off, jammed to mid-off"}]Round again, pitched up and it's arcing away from off, jammed to mid-off
+Round again, pitched up and it's arcing away from off, jammed to mid-off
 
 
 Balls faced: 2
 Bowler: Shadab
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up on middle, driven down the floor towards long-on, played through the line"}]Tossed up on middle, driven down the floor towards long-on, played through the line
+Tossed up on middle, driven down the floor towards long-on, played through the line
 
 
 Balls faced: 3
 Bowler: Shadab
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Biting legbreak outside off, slower and gets decent turn, can't lay bat on it"}]Biting legbreak outside off, slower and gets decent turn, can't lay bat on it
+Biting legbreak outside off, slower and gets decent turn, can't lay bat on it
 
 
 Balls faced: 4
 Bowler: Shadab
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Oh, what a googly, turn and no real bounce, steps away to the on side and gets completely flummoxed"}]Oh, what a googly, turn and no real bounce, steps away to the on side and gets completely flummoxed
+Oh, what a googly, turn and no real bounce, steps away to the on side and gets completely flummoxed
 
 
 Balls faced: 5
 Bowler: Shaheen Shah Afridi
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Round again, pitched up and it's arcing away from off, jammed to mid-off"}]Round again, pitched up and it's arcing away from off, jammed to mid-off
+Round again, pitched up and it's arcing away from off, jammed to mid-off
 
 
 Balls faced: 6
 Bowler: Amir
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Good length, shaping it across off, mistimed it down the ground to Babar at mid-off"}]Good length, shaping it across off, mistimed it down the ground to Babar at mid-off
+Good length, shaping it across off, mistimed it down the ground to Babar at mid-off
 
 
 Balls faced: 7
 Bowler: Amir
 Over: 17
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Sends one outside off from a length, he smashes it across the line towards long-on"}]Sends one outside off from a length, he smashes it across the line towards long-on
+Sends one outside off from a length, he smashes it across the line towards long-on
 
 
 Balls faced: 8
 Bowler: Shadab
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up on middle, driven down the floor towards long-on, played through the line"}]Tossed up on middle, driven down the floor towards long-on, played through the line
+Tossed up on middle, driven down the floor towards long-on, played through the line
 
 
 Balls faced: 9
 Bowler: Shadab
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Biting legbreak outside off, slower and gets decent turn, can't lay bat on it"}]Biting legbreak outside off, slower and gets decent turn, can't lay bat on it
+Biting legbreak outside off, slower and gets decent turn, can't lay bat on it
 
 
 Balls faced: 10
 Bowler: Shadab
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Oh, what a googly, turn and no real bounce, steps away to the on side and gets completely flummoxed"}]Oh, what a googly, turn and no real bounce, steps away to the on side and gets completely flummoxed
+Oh, what a googly, turn and no real bounce, steps away to the on side and gets completely flummoxed
 
 
 Balls faced: 11
 Bowler: Naseem Shah
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Brute power! </strong>Slower on a shortish length at off, clears front leg and cracks it through midwicket for a four, no chance for any fielder to cut it off, <strong>boundary after 39 balls! </strong> That's more like it, more of these please"}]<strong>Brute power! </strong>Slower on a shortish length at off, clears front leg and cracks it through midwicket for a four, no chance for any fielder to cut it off, <strong>boundary after 39 balls! </strong> That's more like it, more of these please
+<strong>Brute power! </strong>Slower on a shortish length at off, clears front leg and cracks it through midwicket for a four, no chance for any fielder to cut it off, <strong>boundary after 39 balls! </strong> That's more like it, more of these please
 
 
 Balls faced: 12
 Bowler: Naseem Shah
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pace off back of a length ball floating outside off, drags it across the line wide of long-on for a run"}]Pace off back of a length ball floating outside off, drags it across the line wide of long-on for a run
+Pace off back of a length ball floating outside off, drags it across the line wide of long-on for a run
 
 
 Balls faced: 13
 Bowler: Naseem Shah
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fantastic delivery! Short of a length on an unimpeachable line just outside off, wanted to slug that over midwicket but got beaten by the movement"}]Fantastic delivery! Short of a length on an unimpeachable line just outside off, wanted to slug that over midwicket but got beaten by the movement
+Fantastic delivery! Short of a length on an unimpeachable line just outside off, wanted to slug that over midwicket but got beaten by the movement
 
 
 Balls faced: 14
 Bowler: Naseem Shah
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Over the wicket, foxes him with a slow wide yorker and he cannot connect"}]Over the wicket, foxes him with a slow wide yorker and he cannot connect
+Over the wicket, foxes him with a slow wide yorker and he cannot connect
 
 
 Balls faced: 15
 Bowler: Amir
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Good length, shaping it across off, mistimed it down the ground to Babar at mid-off"}]Good length, shaping it across off, mistimed it down the ground to Babar at mid-off
+Good length, shaping it across off, mistimed it down the ground to Babar at mid-off
 
 
 Balls faced: 16
 Bowler: Amir
 Over: 17
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Sends one outside off from a length, he smashes it across the line towards long-on"}]Sends one outside off from a length, he smashes it across the line towards long-on
+Sends one outside off from a length, he smashes it across the line towards long-on
 
 
 Balls faced: 17
 Bowler: Naseem Shah
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Brute power! </strong>Slower on a shortish length at off, clears front leg and cracks it through midwicket for a four, no chance for any fielder to cut it off, <strong>boundary after 39 balls! </strong> That's more like it, more of these please"}]<strong>Brute power! </strong>Slower on a shortish length at off, clears front leg and cracks it through midwicket for a four, no chance for any fielder to cut it off, <strong>boundary after 39 balls! </strong> That's more like it, more of these please
+<strong>Brute power! </strong>Slower on a shortish length at off, clears front leg and cracks it through midwicket for a four, no chance for any fielder to cut it off, <strong>boundary after 39 balls! </strong> That's more like it, more of these please
 
 
 Balls faced: 18
 Bowler: Naseem Shah
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pace off back of a length ball floating outside off, drags it across the line wide of long-on for a run"}]Pace off back of a length ball floating outside off, drags it across the line wide of long-on for a run
+Pace off back of a length ball floating outside off, drags it across the line wide of long-on for a run
 
 
 Balls faced: 19
 Bowler: Naseem Shah
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fantastic delivery! Short of a length on an unimpeachable line just outside off, wanted to slug that over midwicket but got beaten by the movement"}]Fantastic delivery! Short of a length on an unimpeachable line just outside off, wanted to slug that over midwicket but got beaten by the movement
+Fantastic delivery! Short of a length on an unimpeachable line just outside off, wanted to slug that over midwicket but got beaten by the movement
 
 
 Balls faced: 20
 Bowler: Naseem Shah
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Over the wicket, foxes him with a slow wide yorker and he cannot connect"}]Over the wicket, foxes him with a slow wide yorker and he cannot connect
+Over the wicket, foxes him with a slow wide yorker and he cannot connect

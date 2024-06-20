@@ -2,301 +2,331 @@ Match: all_games_1373558_1373578.json
 Balls faced: 1
 Bowler: Jacks
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Matthew Forde. He's a designated allrounder, he'll need an impact with the bat to match that with the ball"}]Matthew Forde. He's a designated allrounder, he'll need an impact with the bat to match that with the ball
+Matthew Forde. He's a designated allrounder, he'll need an impact with the bat to match that with the ball
 
-[{"type": "HTML", "html": "full face, punched in the air but wide of the bowler in his followthrough. Deliberate guidance through the stroke"}]full face, punched in the air but wide of the bowler in his followthrough. Deliberate guidance through the stroke
+full face, punched in the air but wide of the bowler in his followthrough. Deliberate guidance through the stroke
 
 
 Balls faced: 2
 Bowler: Rehan
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the back foot, eased out to cover"}]on the back foot, eased out to cover
+on the back foot, eased out to cover
 
 
 Balls faced: 3
 Bowler: Rehan
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Rehan is back, with a scent of the tail"}]Rehan is back, with a scent of the tail
+Rehan is back, with a scent of the tail
 
-[{"type": "HTML", "html": "flogged across the line, top-edged on the pull but plugs short of long-on"}]flogged across the line, top-edged on the pull but plugs short of long-on
+flogged across the line, top-edged on the pull but plugs short of long-on
 
 
 Balls faced: 4
 Bowler: Jacks
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Matthew Forde. He's a designated allrounder, he'll need an impact with the bat to match that with the ball"}]Matthew Forde. He's a designated allrounder, he'll need an impact with the bat to match that with the ball
+Matthew Forde. He's a designated allrounder, he'll need an impact with the bat to match that with the ball
 
-[{"type": "HTML", "html": "full face, punched in the air but wide of the bowler in his followthrough. Deliberate guidance through the stroke"}]full face, punched in the air but wide of the bowler in his followthrough. Deliberate guidance through the stroke
+full face, punched in the air but wide of the bowler in his followthrough. Deliberate guidance through the stroke
 
 
 Balls faced: 5
 Bowler: Jacks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the legs, nudged to deep midwicket"}]on the legs, nudged to deep midwicket
+on the legs, nudged to deep midwicket
 
 
 Balls faced: 6
 Bowler: Jacks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "driven, inside-out, flowing through the stroke but straight to short cover"}]driven, inside-out, flowing through the stroke but straight to short cover
+driven, inside-out, flowing through the stroke but straight to short cover
 
 
 Balls faced: 7
 Bowler: Jacks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "width, attempted cut but the length is too full to connect. Precious dot"}]width, attempted cut but the length is too full to connect. Precious dot
+width, attempted cut but the length is too full to connect. Precious dot
 
 
 Balls faced: 8
 Bowler: Rehan
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the back foot, eased out to cover"}]on the back foot, eased out to cover
+on the back foot, eased out to cover
 
 
 Balls faced: 9
 Bowler: Rehan
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Rehan is back, with a scent of the tail"}]Rehan is back, with a scent of the tail
+Rehan is back, with a scent of the tail
 
-[{"type": "HTML", "html": "flogged across the line, top-edged on the pull but plugs short of long-on"}]flogged across the line, top-edged on the pull but plugs short of long-on
+flogged across the line, top-edged on the pull but plugs short of long-on
 
 
 Balls faced: 10
 Bowler: Rehan
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tapped into the off side"}]tapped into the off side
+tapped into the off side
 
 
 Balls faced: 11
 Bowler: Rehan
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dipping on the full length, pressed into the covers with a full face"}]dipping on the full length, pressed into the covers with a full face
+dipping on the full length, pressed into the covers with a full face
 
 
 Balls faced: 12
 Bowler: Rehan
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the back foot, clubbed into the covers"}]on the back foot, clubbed into the covers
+on the back foot, clubbed into the covers
 
 
 Balls faced: 13
 Bowler: Jacks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the legs, nudged to deep midwicket"}]on the legs, nudged to deep midwicket
+on the legs, nudged to deep midwicket
 
 
 Balls faced: 14
 Bowler: Jacks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "driven, inside-out, flowing through the stroke but straight to short cover"}]driven, inside-out, flowing through the stroke but straight to short cover
+driven, inside-out, flowing through the stroke but straight to short cover
 
 
 Balls faced: 15
 Bowler: Jacks
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "width, attempted cut but the length is too full to connect. Precious dot"}]width, attempted cut but the length is too full to connect. Precious dot
+width, attempted cut but the length is too full to connect. Precious dot
 
 
 Balls faced: 16
 Bowler: Jacks
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "big turn, ripping into the knee as Forde is beaten on the inside-edge"}]big turn, ripping into the knee as Forde is beaten on the inside-edge
-[{"type": "HTML", "html": "Jacks' work is done. A mighty spell"}]Jacks' work is done. A mighty spell
+big turn, ripping into the knee as Forde is beaten on the inside-edge
+Jacks' work is done. A mighty spell
 
 Balls faced: 17
 Bowler: Jacks
 Over: 30
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "yeehar... honking drive! Can't connect, as he gets down on one knee with the full will-you-marry-me flourish"}]yeehar... honking drive! Can't connect, as he gets down on one knee with the full will-you-marry-me flourish
+yeehar... honking drive! Can't connect, as he gets down on one knee with the full will-you-marry-me flourish
 
 
 Balls faced: 18
 Bowler: Jacks
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "opens the face, tapped to backward point"}]opens the face, tapped to backward point
+opens the face, tapped to backward point
 
 
 Balls faced: 19
 Bowler: Jacks
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "steps into the full length, tapped to the on-side"}]steps into the full length, tapped to the on-side
-[{"type": "HTML", "html": "Rhys: \"Well, Andrew, since Jacks usurped Virdi and Moriarty as Surrey's first choice spinner, they've won two Championship titles out of two, so clearly Surrey have no issue with him as their first choice spinner.\"  True, slightly different characterisation for red-ball cricket but it's been valuable experience for him"}]Rhys: "Well, Andrew, since Jacks usurped Virdi and Moriarty as Surrey's first choice spinner, they've won two Championship titles out of two, so clearly Surrey have no issue with him as their first choice spinner."  True, slightly different characterisation for red-ball cricket but it's been valuable experience for him
+steps into the full length, tapped to the on-side
+Rhys: "Well, Andrew, since Jacks usurped Virdi and Moriarty as Surrey's first choice spinner, they've won two Championship titles out of two, so clearly Surrey have no issue with him as their first choice spinner."  True, slightly different characterisation for red-ball cricket but it's been valuable experience for him
 
 Balls faced: 20
 Bowler: Rehan
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tapped into the off side"}]tapped into the off side
+tapped into the off side
 
 
 Balls faced: 21
 Bowler: Rehan
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dipping on the full length, pressed into the covers with a full face"}]dipping on the full length, pressed into the covers with a full face
+dipping on the full length, pressed into the covers with a full face
 
 
 Balls faced: 22
 Bowler: Rehan
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the back foot, clubbed into the covers"}]on the back foot, clubbed into the covers
+on the back foot, clubbed into the covers
 
 
 Balls faced: 23
 Bowler: Atkinson
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 3
 
 
-[{"type": "HTML", "html": "back of a length, pounded hard into the gap at midwicket, Salt sprints round the boundary, dives arguably too early and just about gets his fingertips to the ball, but has a long chase to mop up"}]back of a length, pounded hard into the gap at midwicket, Salt sprints round the boundary, dives arguably too early and just about gets his fingertips to the ball, but has a long chase to mop up
+back of a length, pounded hard into the gap at midwicket, Salt sprints round the boundary, dives arguably too early and just about gets his fingertips to the ball, but has a long chase to mop up
 
 
 Balls faced: 24
 Bowler: Atkinson
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "leg-sided, back of a length, <B>whisked off the hips!</B> West Indies are romping into the ascendancy now! No-one at fine leg to cut that off"}]leg-sided, back of a length, <B>whisked off the hips!</B> West Indies are romping into the ascendancy now! No-one at fine leg to cut that off
+leg-sided, back of a length, <B>whisked off the hips!</B> West Indies are romping into the ascendancy now! No-one at fine leg to cut that off
 
 
 Balls faced: 25
 Bowler: Jacks
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "big turn, ripping into the knee as Forde is beaten on the inside-edge"}]big turn, ripping into the knee as Forde is beaten on the inside-edge
-[{"type": "HTML", "html": "Jacks' work is done. A mighty spell"}]Jacks' work is done. A mighty spell
+big turn, ripping into the knee as Forde is beaten on the inside-edge
+Jacks' work is done. A mighty spell
 
 Balls faced: 26
 Bowler: Jacks
 Over: 30
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "yeehar... honking drive! Can't connect, as he gets down on one knee with the full will-you-marry-me flourish"}]yeehar... honking drive! Can't connect, as he gets down on one knee with the full will-you-marry-me flourish
+yeehar... honking drive! Can't connect, as he gets down on one knee with the full will-you-marry-me flourish
 
 
 Balls faced: 27
 Bowler: Jacks
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "opens the face, tapped to backward point"}]opens the face, tapped to backward point
+opens the face, tapped to backward point
 
 
 Balls faced: 28
 Bowler: Jacks
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "steps into the full length, tapped to the on-side"}]steps into the full length, tapped to the on-side
-[{"type": "HTML", "html": "Rhys: \"Well, Andrew, since Jacks usurped Virdi and Moriarty as Surrey's first choice spinner, they've won two Championship titles out of two, so clearly Surrey have no issue with him as their first choice spinner.\"  True, slightly different characterisation for red-ball cricket but it's been valuable experience for him"}]Rhys: "Well, Andrew, since Jacks usurped Virdi and Moriarty as Surrey's first choice spinner, they've won two Championship titles out of two, so clearly Surrey have no issue with him as their first choice spinner."  True, slightly different characterisation for red-ball cricket but it's been valuable experience for him
+steps into the full length, tapped to the on-side
+Rhys: "Well, Andrew, since Jacks usurped Virdi and Moriarty as Surrey's first choice spinner, they've won two Championship titles out of two, so clearly Surrey have no issue with him as their first choice spinner."  True, slightly different characterisation for red-ball cricket but it's been valuable experience for him
 
 Balls faced: 29
 Bowler: Atkinson
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 3
 
 
-[{"type": "HTML", "html": "back of a length, pounded hard into the gap at midwicket, Salt sprints round the boundary, dives arguably too early and just about gets his fingertips to the ball, but has a long chase to mop up"}]back of a length, pounded hard into the gap at midwicket, Salt sprints round the boundary, dives arguably too early and just about gets his fingertips to the ball, but has a long chase to mop up
+back of a length, pounded hard into the gap at midwicket, Salt sprints round the boundary, dives arguably too early and just about gets his fingertips to the ball, but has a long chase to mop up
 
 
 Balls faced: 30
 Bowler: Atkinson
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "leg-sided, back of a length, <B>whisked off the hips!</B> West Indies are romping into the ascendancy now! No-one at fine leg to cut that off"}]leg-sided, back of a length, <B>whisked off the hips!</B> West Indies are romping into the ascendancy now! No-one at fine leg to cut that off
+leg-sided, back of a length, <B>whisked off the hips!</B> West Indies are romping into the ascendancy now! No-one at fine leg to cut that off
 
 
 
@@ -304,36 +334,42 @@ Match: all_games_1373558_1373582.json
 Balls faced: 1
 Bowler: Sam Curran
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "cutter, dabbed to short third... <strong>out with a direct hit, but the throw is wide!</strong> Rashid picked it up and threw at the stumps with Dre Russ short of his ground"}]cutter, dabbed to short third... <strong>out with a direct hit, but the throw is wide!</strong> Rashid picked it up and threw at the stumps with Dre Russ short of his ground
+cutter, dabbed to short third... <strong>out with a direct hit, but the throw is wide!</strong> Rashid picked it up and threw at the stumps with Dre Russ short of his ground
 
 
 Balls faced: 2
 Bowler: Sam Curran
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Matthew Forde is the No. 10 batter. England are two wickets away."}]Matthew Forde is the No. 10 batter. England are two wickets away.
+Matthew Forde is the No. 10 batter. England are two wickets away.
 
-[{"type": "HTML", "html": "full toss, punched out to wide long-off where Livingstone slides to cut it off"}]full toss, punched out to wide long-off where Livingstone slides to cut it off
+full toss, punched out to wide long-off where Livingstone slides to cut it off
 
 
 Balls faced: 3
 Bowler: Topley
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "slower ball, wide outside off stump and <b>spooned straight to cover!</b> Simple chance for the skipper with his fingers pointing to the sky, and Forde trudges off"}]slower ball, wide outside off stump and <b>spooned straight to cover!</b> Simple chance for the skipper with his fingers pointing to the sky, and Forde trudges off
+Forde is OUT! caught
+c Buttler b Topley
+Matthew Forde c Buttler b Topley 3 (5b 0x4 0x6 7m) SR: 60
+slower ball, wide outside off stump and <b>spooned straight to cover!</b> Simple chance for the skipper with his fingers pointing to the sky, and Forde trudges off
 
 
 Balls faced: 4
 Bowler: Topley
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
@@ -344,46 +380,53 @@ Run scored: 0
 Balls faced: 5
 Bowler: Topley
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "jumps across his stumps looking to swing leg-side, but is flummoxed by the offcutter which strikes him in the midriff as he loses balance"}]jumps across his stumps looking to swing leg-side, but is flummoxed by the offcutter which strikes him in the midriff as he loses balance
+jumps across his stumps looking to swing leg-side, but is flummoxed by the offcutter which strikes him in the midriff as he loses balance
 
 
 Balls faced: 6
 Bowler: Sam Curran
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "cutter, dabbed to short third... <strong>out with a direct hit, but the throw is wide!</strong> Rashid picked it up and threw at the stumps with Dre Russ short of his ground"}]cutter, dabbed to short third... <strong>out with a direct hit, but the throw is wide!</strong> Rashid picked it up and threw at the stumps with Dre Russ short of his ground
+cutter, dabbed to short third... <strong>out with a direct hit, but the throw is wide!</strong> Rashid picked it up and threw at the stumps with Dre Russ short of his ground
 
 
 Balls faced: 7
 Bowler: Sam Curran
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Matthew Forde is the No. 10 batter. England are two wickets away."}]Matthew Forde is the No. 10 batter. England are two wickets away.
+Matthew Forde is the No. 10 batter. England are two wickets away.
 
-[{"type": "HTML", "html": "full toss, punched out to wide long-off where Livingstone slides to cut it off"}]full toss, punched out to wide long-off where Livingstone slides to cut it off
+full toss, punched out to wide long-off where Livingstone slides to cut it off
 
 
 Balls faced: 8
 Bowler: Topley
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "slower ball, wide outside off stump and <b>spooned straight to cover!</b> Simple chance for the skipper with his fingers pointing to the sky, and Forde trudges off"}]slower ball, wide outside off stump and <b>spooned straight to cover!</b> Simple chance for the skipper with his fingers pointing to the sky, and Forde trudges off
+Forde is OUT! caught
+c Buttler b Topley
+Matthew Forde c Buttler b Topley 3 (5b 0x4 0x6 7m) SR: 60
+slower ball, wide outside off stump and <b>spooned straight to cover!</b> Simple chance for the skipper with his fingers pointing to the sky, and Forde trudges off
 
 
 Balls faced: 9
 Bowler: Topley
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
@@ -394,11 +437,12 @@ Run scored: 0
 Balls faced: 10
 Bowler: Topley
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "jumps across his stumps looking to swing leg-side, but is flummoxed by the offcutter which strikes him in the midriff as he loses balance"}]jumps across his stumps looking to swing leg-side, but is flummoxed by the offcutter which strikes him in the midriff as he loses balance
+jumps across his stumps looking to swing leg-side, but is flummoxed by the offcutter which strikes him in the midriff as he loses balance
 
 
 
@@ -406,441 +450,489 @@ Match: all_games_1375837_1375847.json
 Balls faced: 1
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball around off. Pushes towards mid-off and says no loud and early"}]length ball around off. Pushes towards mid-off and says no loud and early
+length ball around off. Pushes towards mid-off and says no loud and early
 
 
 Balls faced: 2
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Looks to hit it on the up and gets beaten"}]length outside off. Looks to hit it on the up and gets beaten
+length outside off. Looks to hit it on the up and gets beaten
 
 
 Balls faced: 3
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full around off. Almost a yorker. Digs it out back towards the bowler"}]full around off. Almost a yorker. Digs it out back towards the bowler
+full around off. Almost a yorker. Digs it out back towards the bowler
 
 
 Balls faced: 4
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Matthew Forde is the new batter"}]Matthew Forde is the new batter
+Matthew Forde is the new batter
 
-[{"type": "HTML", "html": "length ball in the channel, left alone"}]length ball in the channel, left alone
+length ball in the channel, left alone
 
 
 Balls faced: 5
 Bowler: Zampa
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short of length. Pulled towards deep midwicket"}]short of length. Pulled towards deep midwicket
+short of length. Pulled towards deep midwicket
 
 
 Balls faced: 6
 Bowler: Zampa
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball around off. Closes the face of the bat a touch early and the ball falls just in front of him off the face of the bat"}]length ball around off. Closes the face of the bat a touch early and the ball falls just in front of him off the face of the bat
+length ball around off. Closes the face of the bat a touch early and the ball falls just in front of him off the face of the bat
 
 
 Balls faced: 7
 Bowler: Zampa
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full around off. Looks for the drive but gets an inside edge towards short fine leg"}]full around off. Looks for the drive but gets an inside edge towards short fine leg
+full around off. Looks for the drive but gets an inside edge towards short fine leg
 
 
 Balls faced: 8
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball around off. Pushes towards mid-off and says no loud and early"}]length ball around off. Pushes towards mid-off and says no loud and early
+length ball around off. Pushes towards mid-off and says no loud and early
 
 
 Balls faced: 9
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Looks to hit it on the up and gets beaten"}]length outside off. Looks to hit it on the up and gets beaten
+length outside off. Looks to hit it on the up and gets beaten
 
 
 Balls faced: 10
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full around off. Almost a yorker. Digs it out back towards the bowler"}]full around off. Almost a yorker. Digs it out back towards the bowler
+full around off. Almost a yorker. Digs it out back towards the bowler
 
 
 Balls faced: 11
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Matthew Forde is the new batter"}]Matthew Forde is the new batter
+Matthew Forde is the new batter
 
-[{"type": "HTML", "html": "length ball in the channel, left alone"}]length ball in the channel, left alone
+length ball in the channel, left alone
 
 
 Balls faced: 12
 Bowler: Green
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length around off. Defended back"}]short of length around off. Defended back
+short of length around off. Defended back
 
 
 Balls faced: 13
 Bowler: Green
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball around off. Pushed towards mid-off for one"}]length ball around off. Pushed towards mid-off for one
+length ball around off. Pushed towards mid-off for one
 
 
 Balls faced: 14
 Bowler: Green
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another short ball but down the leg side this time"}]another short ball but down the leg side this time
+another short ball but down the leg side this time
 
 Wide: 1
 Balls faced: 15
 Bowler: Green
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling towards the stumps from wide of the crease. Pushes it towards mid-off for a single. Another direct hit by Abbott at the keeper's end but the batter was home this time"}]length ball angling towards the stumps from wide of the crease. Pushes it towards mid-off for a single. Another direct hit by Abbott at the keeper's end but the batter was home this time
+length ball angling towards the stumps from wide of the crease. Pushes it towards mid-off for a single. Another direct hit by Abbott at the keeper's end but the batter was home this time
 
 
 Balls faced: 16
 Bowler: Zampa
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short of length. Pulled towards deep midwicket"}]short of length. Pulled towards deep midwicket
+short of length. Pulled towards deep midwicket
 
 
 Balls faced: 17
 Bowler: Zampa
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball around off. Closes the face of the bat a touch early and the ball falls just in front of him off the face of the bat"}]length ball around off. Closes the face of the bat a touch early and the ball falls just in front of him off the face of the bat
+length ball around off. Closes the face of the bat a touch early and the ball falls just in front of him off the face of the bat
 
 
 Balls faced: 18
 Bowler: Zampa
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full around off. Looks for the drive but gets an inside edge towards short fine leg"}]full around off. Looks for the drive but gets an inside edge towards short fine leg
+full around off. Looks for the drive but gets an inside edge towards short fine leg
 
 
 Balls faced: 19
 Bowler: Zampa
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "almost in the blockhole. Digs it out towards long-off"}]almost in the blockhole. Digs it out towards long-off
+almost in the blockhole. Digs it out towards long-off
 
 
 Balls faced: 20
 Bowler: Zampa
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "in the slot and Forde muscles it down the ground. Over long-off for a six - 78 metres, 119kph off the bat"}]in the slot and Forde muscles it down the ground. Over long-off for a six - 78 metres, 119kph off the bat
+in the slot and Forde muscles it down the ground. Over long-off for a six - 78 metres, 119kph off the bat
 
 
 Balls faced: 21
 Bowler: Zampa
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on the stumps. Pushed towards short midwicket"}]length ball on the stumps. Pushed towards short midwicket
+length ball on the stumps. Pushed towards short midwicket
 
 
 Balls faced: 22
 Bowler: Zampa
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a googly. Forde was looking to cut it away but gets cramped and ball hits near the handle of the bat"}]a googly. Forde was looking to cut it away but gets cramped and ball hits near the handle of the bat
+a googly. Forde was looking to cut it away but gets cramped and ball hits near the handle of the bat
 
 
 Balls faced: 23
 Bowler: Zampa
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length around off. Pushed towards extra cover"}]length around off. Pushed towards extra cover
+length around off. Pushed towards extra cover
 
 
 Balls faced: 24
 Bowler: Green
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length around off. Defended back"}]short of length around off. Defended back
+short of length around off. Defended back
 
 
 Balls faced: 25
 Bowler: Green
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball around off. Pushed towards mid-off for one"}]length ball around off. Pushed towards mid-off for one
+length ball around off. Pushed towards mid-off for one
 
 
 Balls faced: 26
 Bowler: Green
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another short ball but down the leg side this time"}]another short ball but down the leg side this time
+another short ball but down the leg side this time
 
 Wide: 1
 Balls faced: 27
 Bowler: Green
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling towards the stumps from wide of the crease. Pushes it towards mid-off for a single. Another direct hit by Abbott at the keeper's end but the batter was home this time"}]length ball angling towards the stumps from wide of the crease. Pushes it towards mid-off for a single. Another direct hit by Abbott at the keeper's end but the batter was home this time
+length ball angling towards the stumps from wide of the crease. Pushes it towards mid-off for a single. Another direct hit by Abbott at the keeper's end but the batter was home this time
 
 
 Balls faced: 28
 Bowler: Morris
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length around off. Forde was looking to work it on the leg side, but gets a leading edge towards point"}]short of length around off. Forde was looking to work it on the leg side, but gets a leading edge towards point
+short of length around off. Forde was looking to work it on the leg side, but gets a leading edge towards point
 
 
 Balls faced: 29
 Bowler: Morris
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "smashed over midwicket. Was short outside off and Forde absolutely muscled it"}]smashed over midwicket. Was short outside off and Forde absolutely muscled it
+smashed over midwicket. Was short outside off and Forde absolutely muscled it
 
 
 Balls faced: 30
 Bowler: Morris
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "a slower one. Short outside off and hoicked towards deep midwicket"}]a slower one. Short outside off and hoicked towards deep midwicket
+a slower one. Short outside off and hoicked towards deep midwicket
 
 
 Balls faced: 31
 Bowler: Morris
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "down the track to this short-of-length delivery. Pulled towards long-on"}]down the track to this short-of-length delivery. Pulled towards long-on
+down the track to this short-of-length delivery. Pulled towards long-on
 
 
 Balls faced: 32
 Bowler: Morris
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Morris"}]Morris
+Morris
 
-[{"type": "HTML", "html": "length ball at the stumps. Pushed towards short midwicket"}]length ball at the stumps. Pushed towards short midwicket
+length ball at the stumps. Pushed towards short midwicket
 
 
 Balls faced: 33
 Bowler: Zampa
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "almost in the blockhole. Digs it out towards long-off"}]almost in the blockhole. Digs it out towards long-off
+almost in the blockhole. Digs it out towards long-off
 
 
 Balls faced: 34
 Bowler: Zampa
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "in the slot and Forde muscles it down the ground. Over long-off for a six - 78 metres, 119kph off the bat"}]in the slot and Forde muscles it down the ground. Over long-off for a six - 78 metres, 119kph off the bat
+in the slot and Forde muscles it down the ground. Over long-off for a six - 78 metres, 119kph off the bat
 
 
 Balls faced: 35
 Bowler: Zampa
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on the stumps. Pushed towards short midwicket"}]length ball on the stumps. Pushed towards short midwicket
+length ball on the stumps. Pushed towards short midwicket
 
 
 Balls faced: 36
 Bowler: Zampa
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a googly. Forde was looking to cut it away but gets cramped and ball hits near the handle of the bat"}]a googly. Forde was looking to cut it away but gets cramped and ball hits near the handle of the bat
+a googly. Forde was looking to cut it away but gets cramped and ball hits near the handle of the bat
 
 
 Balls faced: 37
 Bowler: Zampa
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length around off. Pushed towards extra cover"}]length around off. Pushed towards extra cover
+length around off. Pushed towards extra cover
 
 
 Balls faced: 38
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "down the track and launches this length ball towards deep midwicket. But he gets more height than distance and Hardie takes it reverse cups, well inside the boundary line"}]down the track and launches this length ball towards deep midwicket. But he gets more height than distance and Hardie takes it reverse cups, well inside the boundary line
+Forde is OUT! caught
+c Hardie b Abbott
+Matthew Forde c Hardie b Abbott 19 (21b 1x4 1x6 21m) SR: 90.47
+down the track and launches this length ball towards deep midwicket. But he gets more height than distance and Hardie takes it reverse cups, well inside the boundary line
 
 
 Balls faced: 39
 Bowler: Morris
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length around off. Forde was looking to work it on the leg side, but gets a leading edge towards point"}]short of length around off. Forde was looking to work it on the leg side, but gets a leading edge towards point
+short of length around off. Forde was looking to work it on the leg side, but gets a leading edge towards point
 
 
 Balls faced: 40
 Bowler: Morris
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "smashed over midwicket. Was short outside off and Forde absolutely muscled it"}]smashed over midwicket. Was short outside off and Forde absolutely muscled it
+smashed over midwicket. Was short outside off and Forde absolutely muscled it
 
 
 Balls faced: 41
 Bowler: Morris
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "a slower one. Short outside off and hoicked towards deep midwicket"}]a slower one. Short outside off and hoicked towards deep midwicket
+a slower one. Short outside off and hoicked towards deep midwicket
 
 
 Balls faced: 42
 Bowler: Morris
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "down the track to this short-of-length delivery. Pulled towards long-on"}]down the track to this short-of-length delivery. Pulled towards long-on
+down the track to this short-of-length delivery. Pulled towards long-on
 
 
 Balls faced: 43
 Bowler: Morris
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Morris"}]Morris
+Morris
 
-[{"type": "HTML", "html": "length ball at the stumps. Pushed towards short midwicket"}]length ball at the stumps. Pushed towards short midwicket
+length ball at the stumps. Pushed towards short midwicket
 
 
 Balls faced: 44
 Bowler: Abbott
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "down the track and launches this length ball towards deep midwicket. But he gets more height than distance and Hardie takes it reverse cups, well inside the boundary line"}]down the track and launches this length ball towards deep midwicket. But he gets more height than distance and Hardie takes it reverse cups, well inside the boundary line
+Forde is OUT! caught
+c Hardie b Abbott
+Matthew Forde c Hardie b Abbott 19 (21b 1x4 1x6 21m) SR: 90.47
+down the track and launches this length ball towards deep midwicket. But he gets more height than distance and Hardie takes it reverse cups, well inside the boundary line
 
 
 
@@ -848,181 +940,203 @@ Match: all_games_1375837_1375848.json
 Balls faced: 1
 Bowler: Sutherland
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length outside off, driven on the up to deep cover point"}]Length outside off, driven on the up to deep cover point
+Length outside off, driven on the up to deep cover point
 
 
 Balls faced: 2
 Bowler: Sutherland
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on middle, clipped towards midwicket"}]Length on middle, clipped towards midwicket
+Length on middle, clipped towards midwicket
 
 
 Balls faced: 3
 Bowler: Sutherland
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off, defended to point. They think of a run, Forde is sent back"}]Full on off, defended to point. They think of a run, Forde is sent back
+Full on off, defended to point. They think of a run, Forde is sent back
 
 
 Balls faced: 4
 Bowler: Zampa
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full around off, worked to long-on"}]Full around off, worked to long-on
-[{"type": "HTML", "html": "John: \"Hey Ekanth! Looks like Hazlewood left West Indies with no Hope!\""}]John: "Hey Ekanth! Looks like Hazlewood left West Indies with no Hope!"
+Full around off, worked to long-on
+John: "Hey Ekanth! Looks like Hazlewood left West Indies with no Hope!"
 
 Balls faced: 5
 Bowler: Zampa
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Full on leg, swept in the gap behind square. Side-on replay shows it wasn't all that full, good reach from Forde"}]Full on leg, swept in the gap behind square. Side-on replay shows it wasn't all that full, good reach from Forde
+Full on leg, swept in the gap behind square. Side-on replay shows it wasn't all that full, good reach from Forde
 
 
 Balls faced: 6
 Bowler: Zampa
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on fourth, blocked straight. Thick inside edge takes it to midwicket"}]Fullish ball on fourth, blocked straight. Thick inside edge takes it to midwicket
+Fullish ball on fourth, blocked straight. Thick inside edge takes it to midwicket
 
 
 Balls faced: 7
 Bowler: Zampa
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Low fully on off, 88ks, punched to long-off. Forde got square-on and wasn't in position to lump it"}]Low fully on off, 88ks, punched to long-off. Forde got square-on and wasn't in position to lump it
+Low fully on off, 88ks, punched to long-off. Forde got square-on and wasn't in position to lump it
 
 
 Balls faced: 8
 Bowler: Zampa
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip in for Zampa"}]Slip in for Zampa
+Slip in for Zampa
 
-[{"type": "HTML", "html": "Slow as can be. Length ball pitches on middle and comes back in, looked like the goog. Nurdled a few feet away"}]Slow as can be. Length ball pitches on middle and comes back in, looked like the goog. Nurdled a few feet away
+Slow as can be. Length ball pitches on middle and comes back in, looked like the goog. Nurdled a few feet away
 
 
 Balls faced: 9
 Bowler: Sutherland
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length outside off, driven on the up to deep cover point"}]Length outside off, driven on the up to deep cover point
+Length outside off, driven on the up to deep cover point
 
 
 Balls faced: 10
 Bowler: Sutherland
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on middle, clipped towards midwicket"}]Length on middle, clipped towards midwicket
+Length on middle, clipped towards midwicket
 
 
 Balls faced: 11
 Bowler: Sutherland
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off, defended to point. They think of a run, Forde is sent back"}]Full on off, defended to point. They think of a run, Forde is sent back
+Full on off, defended to point. They think of a run, Forde is sent back
 
 
 Balls faced: 12
 Bowler: Hazlewood
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Looked good, yes, given lbw. Has Forde hit it? He reviews quickly. There is a spike on Hotspot. Snicko has to be brought in. Third umpire reckons there's a gap between bat and pad. It beat the full-faced push on the inside edge. Hit around the knee-roll in front of middle and Hawk-Eye thinks it'd go on to clip leg."}]Looked good, yes, given lbw. Has Forde hit it? He reviews quickly. There is a spike on Hotspot. Snicko has to be brought in. Third umpire reckons there's a gap between bat and pad. It beat the full-faced push on the inside edge. Hit around the knee-roll in front of middle and Hawk-Eye thinks it'd go on to clip leg.
+Forde is OUT! lbw
+lbw b Hazlewood
+Matthew Forde lbw b Hazlewood 7 (9b 1x4 0x6 7m) SR: 77.77
+Looked good, yes, given lbw. Has Forde hit it? He reviews quickly. There is a spike on Hotspot. Snicko has to be brought in. Third umpire reckons there's a gap between bat and pad. It beat the full-faced push on the inside edge. Hit around the knee-roll in front of middle and Hawk-Eye thinks it'd go on to clip leg.
 
 
 Balls faced: 13
 Bowler: Zampa
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full around off, worked to long-on"}]Full around off, worked to long-on
-[{"type": "HTML", "html": "John: \"Hey Ekanth! Looks like Hazlewood left West Indies with no Hope!\""}]John: "Hey Ekanth! Looks like Hazlewood left West Indies with no Hope!"
+Full around off, worked to long-on
+John: "Hey Ekanth! Looks like Hazlewood left West Indies with no Hope!"
 
 Balls faced: 14
 Bowler: Zampa
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Full on leg, swept in the gap behind square. Side-on replay shows it wasn't all that full, good reach from Forde"}]Full on leg, swept in the gap behind square. Side-on replay shows it wasn't all that full, good reach from Forde
+Full on leg, swept in the gap behind square. Side-on replay shows it wasn't all that full, good reach from Forde
 
 
 Balls faced: 15
 Bowler: Zampa
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on fourth, blocked straight. Thick inside edge takes it to midwicket"}]Fullish ball on fourth, blocked straight. Thick inside edge takes it to midwicket
+Fullish ball on fourth, blocked straight. Thick inside edge takes it to midwicket
 
 
 Balls faced: 16
 Bowler: Zampa
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Low fully on off, 88ks, punched to long-off. Forde got square-on and wasn't in position to lump it"}]Low fully on off, 88ks, punched to long-off. Forde got square-on and wasn't in position to lump it
+Low fully on off, 88ks, punched to long-off. Forde got square-on and wasn't in position to lump it
 
 
 Balls faced: 17
 Bowler: Zampa
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip in for Zampa"}]Slip in for Zampa
+Slip in for Zampa
 
-[{"type": "HTML", "html": "Slow as can be. Length ball pitches on middle and comes back in, looked like the goog. Nurdled a few feet away"}]Slow as can be. Length ball pitches on middle and comes back in, looked like the goog. Nurdled a few feet away
+Slow as can be. Length ball pitches on middle and comes back in, looked like the goog. Nurdled a few feet away
 
 
 Balls faced: 18
 Bowler: Hazlewood
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Looked good, yes, given lbw. Has Forde hit it? He reviews quickly. There is a spike on Hotspot. Snicko has to be brought in. Third umpire reckons there's a gap between bat and pad. It beat the full-faced push on the inside edge. Hit around the knee-roll in front of middle and Hawk-Eye thinks it'd go on to clip leg."}]Looked good, yes, given lbw. Has Forde hit it? He reviews quickly. There is a spike on Hotspot. Snicko has to be brought in. Third umpire reckons there's a gap between bat and pad. It beat the full-faced push on the inside edge. Hit around the knee-roll in front of middle and Hawk-Eye thinks it'd go on to clip leg.
+Forde is OUT! lbw
+lbw b Hazlewood
+Matthew Forde lbw b Hazlewood 7 (9b 1x4 0x6 7m) SR: 77.77
+Looked good, yes, given lbw. Has Forde hit it? He reviews quickly. There is a spike on Hotspot. Snicko has to be brought in. Third umpire reckons there's a gap between bat and pad. It beat the full-faced push on the inside edge. Hit around the knee-roll in front of middle and Hawk-Eye thinks it'd go on to clip leg.
 
 
 
@@ -1030,41 +1144,49 @@ Match: all_games_1375837_1375849.json
 Balls faced: 1
 Bowler: Bartlett
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>it goes from bad to worse!</b> Short of a length, pulled towards mid-on, Forde sets off for the run. Chase isn't going. Forde slips as he's almost at the non-striker's end. No chance of getting back. The two batters arguing with each other. Bit of a shambles, really"}]<b>it goes from bad to worse!</b> Short of a length, pulled towards mid-on, Forde sets off for the run. Chase isn't going. Forde slips as he's almost at the non-striker's end. No chance of getting back. The two batters arguing with each other. Bit of a shambles, really
-[{"type": "HTML", "html": "Update from CA: Lance Morris [has] sustained a side strain. Morris will have a scan (timing TBC) to determine the extent of the injury."}]Update from CA: Lance Morris [has] sustained a side strain. Morris will have a scan (timing TBC) to determine the extent of the injury.
+Forde is OUT! run out
+run out (sub [MW Harvey]/†Inglis)
+Matthew Forde run out (sub [MW Harvey]/†Inglis) 0 (2b 0x4 0x6 2m) SR: 0
+<b>it goes from bad to worse!</b> Short of a length, pulled towards mid-on, Forde sets off for the run. Chase isn't going. Forde slips as he's almost at the non-striker's end. No chance of getting back. The two batters arguing with each other. Bit of a shambles, really
+Update from CA: Lance Morris [has] sustained a side strain. Morris will have a scan (timing TBC) to determine the extent of the injury.
 
 Balls faced: 2
 Bowler: Bartlett
 Over: 21
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Three slips and a gully..."}]Three slips and a gully...
+Three slips and a gully...
 
-[{"type": "HTML", "html": "<strong>charges him!</strong> Down the pitch, aims a big drive and is beaten by the movement"}]<strong>charges him!</strong> Down the pitch, aims a big drive and is beaten by the movement
+<strong>charges him!</strong> Down the pitch, aims a big drive and is beaten by the movement
 
 
 Balls faced: 3
 Bowler: Bartlett
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>it goes from bad to worse!</b> Short of a length, pulled towards mid-on, Forde sets off for the run. Chase isn't going. Forde slips as he's almost at the non-striker's end. No chance of getting back. The two batters arguing with each other. Bit of a shambles, really"}]<b>it goes from bad to worse!</b> Short of a length, pulled towards mid-on, Forde sets off for the run. Chase isn't going. Forde slips as he's almost at the non-striker's end. No chance of getting back. The two batters arguing with each other. Bit of a shambles, really
-[{"type": "HTML", "html": "Update from CA: Lance Morris [has] sustained a side strain. Morris will have a scan (timing TBC) to determine the extent of the injury."}]Update from CA: Lance Morris [has] sustained a side strain. Morris will have a scan (timing TBC) to determine the extent of the injury.
+Forde is OUT! run out
+run out (sub [MW Harvey]/†Inglis)
+Matthew Forde run out (sub [MW Harvey]/†Inglis) 0 (2b 0x4 0x6 2m) SR: 0
+<b>it goes from bad to worse!</b> Short of a length, pulled towards mid-on, Forde sets off for the run. Chase isn't going. Forde slips as he's almost at the non-striker's end. No chance of getting back. The two batters arguing with each other. Bit of a shambles, really
+Update from CA: Lance Morris [has] sustained a side strain. Morris will have a scan (timing TBC) to determine the extent of the injury.
 
 Balls faced: 4
 Bowler: Bartlett
 Over: 21
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Three slips and a gully..."}]Three slips and a gully...
+Three slips and a gully...
 
-[{"type": "HTML", "html": "<strong>charges him!</strong> Down the pitch, aims a big drive and is beaten by the movement"}]<strong>charges him!</strong> Down the pitch, aims a big drive and is beaten by the movement
+<strong>charges him!</strong> Down the pitch, aims a big drive and is beaten by the movement
 
 
 
@@ -1072,138 +1194,156 @@ Match: all_games_1433350_1433362.json
 Balls faced: 1
 Bowler: Baartman
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length around off, hurried a bit but manages to punch it past the bowler"}]Length around off, hurried a bit but manages to punch it past the bowler
+Length around off, hurried a bit but manages to punch it past the bowler
 
 
 Balls faced: 2
 Bowler: Baartman
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on leg, helped to short fine leg"}]Length on leg, helped to short fine leg
+Length on leg, helped to short fine leg
 
 
 Balls faced: 3
 Bowler: Coetzee
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fullish length ball on the pads, clipped to deep midwicket"}]Fullish length ball on the pads, clipped to deep midwicket
+Fullish length ball on the pads, clipped to deep midwicket
 
 
 Balls faced: 4
 Bowler: Coetzee
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Nice shape away but that might've been due to the angle of Coetzee's release. Length around fifth, caressed with a cross bat to deep point"}]Nice shape away but that might've been due to the angle of Coetzee's release. Length around fifth, caressed with a cross bat to deep point
+Nice shape away but that might've been due to the angle of Coetzee's release. Length around fifth, caressed with a cross bat to deep point
 
 
 Balls faced: 5
 Bowler: Baartman
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length around off, hurried a bit but manages to punch it past the bowler"}]Length around off, hurried a bit but manages to punch it past the bowler
+Length around off, hurried a bit but manages to punch it past the bowler
 
 
 Balls faced: 6
 Bowler: Baartman
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on leg, helped to short fine leg"}]Length on leg, helped to short fine leg
+Length on leg, helped to short fine leg
 
 
 Balls faced: 7
 Bowler: Baartman
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Knuckle-ball? Maybe, comes in off a shortish length and Forde tries to launch a pull square of the wicket. Can only balloon it to Phehlukwayo running across in the deep"}]Knuckle-ball? Maybe, comes in off a shortish length and Forde tries to launch a pull square of the wicket. Can only balloon it to Phehlukwayo running across in the deep
+Forde is OUT! caught
+c Phehlukwayo b Baartman
+Matthew Forde c Phehlukwayo b Baartman 5 (7b 0x4 0x6 11m) SR: 71.42
+Knuckle-ball? Maybe, comes in off a shortish length and Forde tries to launch a pull square of the wicket. Can only balloon it to Phehlukwayo running across in the deep
 
 
 Balls faced: 8
 Bowler: Baartman
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On the fuller side, worked away in front"}]On the fuller side, worked away in front
-[{"type": "HTML", "html": "ShahSafeer: \"How on earth a 8 run 16th over isn't bad for hosts? \" Because he didn't lay bat on ball for most of it but got two fours anyway"}]ShahSafeer: "How on earth a 8 run 16th over isn't bad for hosts? " Because he didn't lay bat on ball for most of it but got two fours anyway
+On the fuller side, worked away in front
+ShahSafeer: "How on earth a 8 run 16th over isn't bad for hosts? " Because he didn't lay bat on ball for most of it but got two fours anyway
 
 Balls faced: 9
 Bowler: Baartman
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on leg, another mistimed heave rolls to deep midwicket"}]Length on leg, another mistimed heave rolls to deep midwicket
+Length on leg, another mistimed heave rolls to deep midwicket
 
 
 Balls faced: 10
 Bowler: Coetzee
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fullish length ball on the pads, clipped to deep midwicket"}]Fullish length ball on the pads, clipped to deep midwicket
+Fullish length ball on the pads, clipped to deep midwicket
 
 
 Balls faced: 11
 Bowler: Coetzee
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Nice shape away but that might've been due to the angle of Coetzee's release. Length around fifth, caressed with a cross bat to deep point"}]Nice shape away but that might've been due to the angle of Coetzee's release. Length around fifth, caressed with a cross bat to deep point
+Nice shape away but that might've been due to the angle of Coetzee's release. Length around fifth, caressed with a cross bat to deep point
 
 
 Balls faced: 12
 Bowler: Baartman
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Knuckle-ball? Maybe, comes in off a shortish length and Forde tries to launch a pull square of the wicket. Can only balloon it to Phehlukwayo running across in the deep"}]Knuckle-ball? Maybe, comes in off a shortish length and Forde tries to launch a pull square of the wicket. Can only balloon it to Phehlukwayo running across in the deep
+Forde is OUT! caught
+c Phehlukwayo b Baartman
+Matthew Forde c Phehlukwayo b Baartman 5 (7b 0x4 0x6 11m) SR: 71.42
+Knuckle-ball? Maybe, comes in off a shortish length and Forde tries to launch a pull square of the wicket. Can only balloon it to Phehlukwayo running across in the deep
 
 
 Balls faced: 13
 Bowler: Baartman
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On the fuller side, worked away in front"}]On the fuller side, worked away in front
-[{"type": "HTML", "html": "ShahSafeer: \"How on earth a 8 run 16th over isn't bad for hosts? \" Because he didn't lay bat on ball for most of it but got two fours anyway"}]ShahSafeer: "How on earth a 8 run 16th over isn't bad for hosts? " Because he didn't lay bat on ball for most of it but got two fours anyway
+On the fuller side, worked away in front
+ShahSafeer: "How on earth a 8 run 16th over isn't bad for hosts? " Because he didn't lay bat on ball for most of it but got two fours anyway
 
 Balls faced: 14
 Bowler: Baartman
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on leg, another mistimed heave rolls to deep midwicket"}]Length on leg, another mistimed heave rolls to deep midwicket
+Length on leg, another mistimed heave rolls to deep midwicket

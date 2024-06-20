@@ -2,56 +2,62 @@ Match: all_games_1411166_1415712.json
 Balls faced: 1
 Bowler: Wheal
 Over: 1
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shorter, skiddier, into the hip. Frylinck tries to work around the corner but ends up wearing it for a leg bye.... <strong>and it's a no ball!</strong> Poor end of a brilliant over from Wheal. Free hit incoming..."}]Shorter, skiddier, into the hip. Frylinck tries to work around the corner but ends up wearing it for a leg bye.... <strong>and it's a no ball!</strong> Poor end of a brilliant over from Wheal. Free hit incoming...
+Shorter, skiddier, into the hip. Frylinck tries to work around the corner but ends up wearing it for a leg bye.... <strong>and it's a no ball!</strong> Poor end of a brilliant over from Wheal. Free hit incoming...
 
 No Balls: 1 Legbyes: 1
 Balls faced: 2
 Bowler: Wheal
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Edged... and beyond first slip! Right through where second would have been. Scotland do have a gully, but no second means Namibia are off the mark with a boundary"}]Edged... and beyond first slip! Right through where second would have been. Scotland do have a gully, but no second means Namibia are off the mark with a boundary
+Edged... and beyond first slip! Right through where second would have been. Scotland do have a gully, but no second means Namibia are off the mark with a boundary
 
 
 Balls faced: 3
 Bowler: Wheal
 Over: 1
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Jan Frylinck is the new batter"}]Jan Frylinck is the new batter
+Jan Frylinck is the new batter
 
-[{"type": "HTML", "html": "Full, on the money again, into the pads of this left-hander. Pitched outside leg stump, though"}]Full, on the money again, into the pads of this left-hander. Pitched outside leg stump, though
+Full, on the money again, into the pads of this left-hander. Pitched outside leg stump, though
 
 
 Balls faced: 4
 Bowler: Currie
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Angled in, curving away, taken well by Cross up to the stumps as Frylinck wafts"}]Angled in, curving away, taken well by Cross up to the stumps as Frylinck wafts
+Angled in, curving away, taken well by Cross up to the stumps as Frylinck wafts
 
 
 Balls faced: 5
 Bowler: Currie
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Driven on the up.... just short of cover. Berrington was there diving forward, and it landed just half a foot in front of him at extra cover"}]Driven on the up.... just short of cover. Berrington was there diving forward, and it landed just half a foot in front of him at extra cover
+Driven on the up.... just short of cover. Berrington was there diving forward, and it landed just half a foot in front of him at extra cover
 
 
 Balls faced: 6
 Bowler: Currie
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -62,126 +68,139 @@ Run scored: 0
 Balls faced: 7
 Bowler: Currie
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "More of that shape, away to the left-hander - straightening, really, after angling down, defended back to the bowler on about middle and off"}]More of that shape, away to the left-hander - straightening, really, after angling down, defended back to the bowler on about middle and off
+More of that shape, away to the left-hander - straightening, really, after angling down, defended back to the bowler on about middle and off
 
 
 Balls faced: 8
 Bowler: Wheal
 Over: 1
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shorter, skiddier, into the hip. Frylinck tries to work around the corner but ends up wearing it for a leg bye.... <strong>and it's a no ball!</strong> Poor end of a brilliant over from Wheal. Free hit incoming..."}]Shorter, skiddier, into the hip. Frylinck tries to work around the corner but ends up wearing it for a leg bye.... <strong>and it's a no ball!</strong> Poor end of a brilliant over from Wheal. Free hit incoming...
+Shorter, skiddier, into the hip. Frylinck tries to work around the corner but ends up wearing it for a leg bye.... <strong>and it's a no ball!</strong> Poor end of a brilliant over from Wheal. Free hit incoming...
 
 No Balls: 1 Legbyes: 1
 Balls faced: 9
 Bowler: Wheal
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Edged... and beyond first slip! Right through where second would have been. Scotland do have a gully, but no second means Namibia are off the mark with a boundary"}]Edged... and beyond first slip! Right through where second would have been. Scotland do have a gully, but no second means Namibia are off the mark with a boundary
+Edged... and beyond first slip! Right through where second would have been. Scotland do have a gully, but no second means Namibia are off the mark with a boundary
 
 
 Balls faced: 10
 Bowler: Wheal
 Over: 1
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Jan Frylinck is the new batter"}]Jan Frylinck is the new batter
+Jan Frylinck is the new batter
 
-[{"type": "HTML", "html": "Full, on the money again, into the pads of this left-hander. Pitched outside leg stump, though"}]Full, on the money again, into the pads of this left-hander. Pitched outside leg stump, though
+Full, on the money again, into the pads of this left-hander. Pitched outside leg stump, though
 
 
 Balls faced: 11
 Bowler: Wheal
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Punched wide enough of mid on to get the fielder scampering to his left  to field"}]Punched wide enough of mid on to get the fielder scampering to his left  to field
+Punched wide enough of mid on to get the fielder scampering to his left  to field
 
 
 Balls faced: 12
 Bowler: Wheal
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Into the hip, worked nicely to the fielder in the deep at midwicket"}]Into the hip, worked nicely to the fielder in the deep at midwicket
+Into the hip, worked nicely to the fielder in the deep at midwicket
 
 
 Balls faced: 13
 Bowler: Wheal
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Makes room, <strong>drives on the up through cover!</strong> Not quite timed and the fielders almost chased that down, but some necessary intent from Frylinck, even if he only makes contact with the outside half of his bat"}]Makes room, <strong>drives on the up through cover!</strong> Not quite timed and the fielders almost chased that down, but some necessary intent from Frylinck, even if he only makes contact with the outside half of his bat
+Makes room, <strong>drives on the up through cover!</strong> Not quite timed and the fielders almost chased that down, but some necessary intent from Frylinck, even if he only makes contact with the outside half of his bat
 
 
 Balls faced: 14
 Bowler: Wheal
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Driven handsomely but straight to mid on"}]Driven handsomely but straight to mid on
+Driven handsomely but straight to mid on
 
 
 Balls faced: 15
 Bowler: Wheal
 Over: 3
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short, lifts off a length and flies over the keeper! Thankfully, it's not all the way to the boundary, allowing first slip to collect. Wided by the umpire and rightly so"}]Short, lifts off a length and flies over the keeper! Thankfully, it's not all the way to the boundary, allowing first slip to collect. Wided by the umpire and rightly so
+Short, lifts off a length and flies over the keeper! Thankfully, it's not all the way to the boundary, allowing first slip to collect. Wided by the umpire and rightly so
 
 Wide: 2
 Balls faced: 16
 Bowler: Wheal
 Over: 3
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "It's noting that Kotze was playing over van Lingen, despite Namibia's captain thinking it was an unchanged team! Anyway, Brad Wheal to start his second over"}]It's noting that Kotze was playing over van Lingen, despite Namibia's captain thinking it was an unchanged team! Anyway, Brad Wheal to start his second over
+It's noting that Kotze was playing over van Lingen, despite Namibia's captain thinking it was an unchanged team! Anyway, Brad Wheal to start his second over
 
-[{"type": "HTML", "html": "On the money again, into middle stump from over the wicket, full, pushed out to mid on"}]On the money again, into middle stump from over the wicket, full, pushed out to mid on
+On the money again, into middle stump from over the wicket, full, pushed out to mid on
 
 
 Balls faced: 17
 Bowler: Currie
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Angled in, curving away, taken well by Cross up to the stumps as Frylinck wafts"}]Angled in, curving away, taken well by Cross up to the stumps as Frylinck wafts
+Angled in, curving away, taken well by Cross up to the stumps as Frylinck wafts
 
 
 Balls faced: 18
 Bowler: Currie
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Driven on the up.... just short of cover. Berrington was there diving forward, and it landed just half a foot in front of him at extra cover"}]Driven on the up.... just short of cover. Berrington was there diving forward, and it landed just half a foot in front of him at extra cover
+Driven on the up.... just short of cover. Berrington was there diving forward, and it landed just half a foot in front of him at extra cover
 
 
 Balls faced: 19
 Bowler: Currie
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -192,111 +211,126 @@ Run scored: 0
 Balls faced: 20
 Bowler: Currie
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "More of that shape, away to the left-hander - straightening, really, after angling down, defended back to the bowler on about middle and off"}]More of that shape, away to the left-hander - straightening, really, after angling down, defended back to the bowler on about middle and off
+More of that shape, away to the left-hander - straightening, really, after angling down, defended back to the bowler on about middle and off
 
 
 Balls faced: 21
 Bowler: Currie
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Dragged on!</strong> Frylinck tries to hack across the line in a bid to, well, ignore the swing, but ends up under-edging onto his stumps! Awful shot, but a deserved dismissal for Currie. Scotland are up and about!"}]<strong>Dragged on!</strong> Frylinck tries to hack across the line in a bid to, well, ignore the swing, but ends up under-edging onto his stumps! Awful shot, but a deserved dismissal for Currie. Scotland are up and about!
+Frylinck is OUT! bowled
+ b Currie
+Jan Frylinck b Currie 12 (14b 2x4 0x6 13m) SR: 85.71
+<strong>Dragged on!</strong> Frylinck tries to hack across the line in a bid to, well, ignore the swing, but ends up under-edging onto his stumps! Awful shot, but a deserved dismissal for Currie. Scotland are up and about!
 
 
 Balls faced: 22
 Bowler: Currie
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Brad Currie to continue"}]Brad Currie to continue
+Brad Currie to continue
 
-[{"type": "HTML", "html": "Lovely shape away from the left-hander once more, Frylinck goes for a booming drive and misses completely"}]Lovely shape away from the left-hander once more, Frylinck goes for a booming drive and misses completely
+Lovely shape away from the left-hander once more, Frylinck goes for a booming drive and misses completely
 
 
 Balls faced: 23
 Bowler: Wheal
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Punched wide enough of mid on to get the fielder scampering to his left  to field"}]Punched wide enough of mid on to get the fielder scampering to his left  to field
+Punched wide enough of mid on to get the fielder scampering to his left  to field
 
 
 Balls faced: 24
 Bowler: Wheal
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Into the hip, worked nicely to the fielder in the deep at midwicket"}]Into the hip, worked nicely to the fielder in the deep at midwicket
+Into the hip, worked nicely to the fielder in the deep at midwicket
 
 
 Balls faced: 25
 Bowler: Wheal
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Makes room, <strong>drives on the up through cover!</strong> Not quite timed and the fielders almost chased that down, but some necessary intent from Frylinck, even if he only makes contact with the outside half of his bat"}]Makes room, <strong>drives on the up through cover!</strong> Not quite timed and the fielders almost chased that down, but some necessary intent from Frylinck, even if he only makes contact with the outside half of his bat
+Makes room, <strong>drives on the up through cover!</strong> Not quite timed and the fielders almost chased that down, but some necessary intent from Frylinck, even if he only makes contact with the outside half of his bat
 
 
 Balls faced: 26
 Bowler: Wheal
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Driven handsomely but straight to mid on"}]Driven handsomely but straight to mid on
+Driven handsomely but straight to mid on
 
 
 Balls faced: 27
 Bowler: Wheal
 Over: 3
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short, lifts off a length and flies over the keeper! Thankfully, it's not all the way to the boundary, allowing first slip to collect. Wided by the umpire and rightly so"}]Short, lifts off a length and flies over the keeper! Thankfully, it's not all the way to the boundary, allowing first slip to collect. Wided by the umpire and rightly so
+Short, lifts off a length and flies over the keeper! Thankfully, it's not all the way to the boundary, allowing first slip to collect. Wided by the umpire and rightly so
 
 Wide: 2
 Balls faced: 28
 Bowler: Wheal
 Over: 3
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "It's noting that Kotze was playing over van Lingen, despite Namibia's captain thinking it was an unchanged team! Anyway, Brad Wheal to start his second over"}]It's noting that Kotze was playing over van Lingen, despite Namibia's captain thinking it was an unchanged team! Anyway, Brad Wheal to start his second over
+It's noting that Kotze was playing over van Lingen, despite Namibia's captain thinking it was an unchanged team! Anyway, Brad Wheal to start his second over
 
-[{"type": "HTML", "html": "On the money again, into middle stump from over the wicket, full, pushed out to mid on"}]On the money again, into middle stump from over the wicket, full, pushed out to mid on
+On the money again, into middle stump from over the wicket, full, pushed out to mid on
 
 
 Balls faced: 29
 Bowler: Currie
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Dragged on!</strong> Frylinck tries to hack across the line in a bid to, well, ignore the swing, but ends up under-edging onto his stumps! Awful shot, but a deserved dismissal for Currie. Scotland are up and about!"}]<strong>Dragged on!</strong> Frylinck tries to hack across the line in a bid to, well, ignore the swing, but ends up under-edging onto his stumps! Awful shot, but a deserved dismissal for Currie. Scotland are up and about!
+Frylinck is OUT! bowled
+ b Currie
+Jan Frylinck b Currie 12 (14b 2x4 0x6 13m) SR: 85.71
+<strong>Dragged on!</strong> Frylinck tries to hack across the line in a bid to, well, ignore the swing, but ends up under-edging onto his stumps! Awful shot, but a deserved dismissal for Currie. Scotland are up and about!
 
 
 Balls faced: 30
 Bowler: Currie
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Brad Currie to continue"}]Brad Currie to continue
+Brad Currie to continue
 
-[{"type": "HTML", "html": "Lovely shape away from the left-hander once more, Frylinck goes for a booming drive and misses completely"}]Lovely shape away from the left-hander once more, Frylinck goes for a booming drive and misses completely
+Lovely shape away from the left-hander once more, Frylinck goes for a booming drive and misses completely
 
 
 
@@ -304,121 +338,137 @@ Match: all_games_1411166_1415724.json
 Balls faced: 1
 Bowler: Hazlewood
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length just outside off. Frylinck stays leg side and runs it down to third man to get off the mark"}]length just outside off. Frylinck stays leg side and runs it down to third man to get off the mark
+length just outside off. Frylinck stays leg side and runs it down to third man to get off the mark
 
 
 Balls faced: 2
 Bowler: Hazlewood
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Frylinck in at 3. Hazlewood goes around the wicket"}]Frylinck in at 3. Hazlewood goes around the wicket
+Frylinck in at 3. Hazlewood goes around the wicket
 
-[{"type": "HTML", "html": "back of a length just outside off. Frylinck gets up on his toes and taps it towards backward point"}]back of a length just outside off. Frylinck gets up on his toes and taps it towards backward point
+back of a length just outside off. Frylinck gets up on his toes and taps it towards backward point
 
 
 Balls faced: 3
 Bowler: Cummins
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Cummins has his first!</strong> Full on middle and off. There to go over the top but Frylinck does not quite get the purchase he is after. Steps outside leg, goes through the line but hits it straight to Marsh at mid off. Namibia lose their second and they are now in a spot of bother!"}]<strong>Cummins has his first!</strong> Full on middle and off. There to go over the top but Frylinck does not quite get the purchase he is after. Steps outside leg, goes through the line but hits it straight to Marsh at mid off. Namibia lose their second and they are now in a spot of bother!
+Frylinck is OUT! caught
+c Marsh b Cummins
+Jan Frylinck c Marsh b Cummins 1 (6b 0x4 0x6 4m) SR: 16.66
+<strong>Cummins has his first!</strong> Full on middle and off. There to go over the top but Frylinck does not quite get the purchase he is after. Steps outside leg, goes through the line but hits it straight to Marsh at mid off. Namibia lose their second and they are now in a spot of bother!
 
 
 Balls faced: 4
 Bowler: Cummins
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length on middle and leg. A bit of shape back into Frylinck and he hacks it towards mid wicket"}]hard length on middle and leg. A bit of shape back into Frylinck and he hacks it towards mid wicket
+hard length on middle and leg. A bit of shape back into Frylinck and he hacks it towards mid wicket
 
 
 Balls faced: 5
 Bowler: Cummins
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off. Frylinck is cramped for room and pokes it towards extra cover"}]back of a length on off. Frylinck is cramped for room and pokes it towards extra cover
+back of a length on off. Frylinck is cramped for room and pokes it towards extra cover
 
 
 Balls faced: 6
 Bowler: Cummins
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Cummins replaces Stoinis at the Andy Roberts End. Over the wicket to Frylinck"}]Cummins replaces Stoinis at the Andy Roberts End. Over the wicket to Frylinck
+Cummins replaces Stoinis at the Andy Roberts End. Over the wicket to Frylinck
 
-[{"type": "HTML", "html": "length delivery angled across just outside off. Frylinck comes half forward and jabs it towards cover point"}]length delivery angled across just outside off. Frylinck comes half forward and jabs it towards cover point
+length delivery angled across just outside off. Frylinck comes half forward and jabs it towards cover point
 
 
 Balls faced: 7
 Bowler: Hazlewood
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length just outside off. Frylinck stays leg side and runs it down to third man to get off the mark"}]length just outside off. Frylinck stays leg side and runs it down to third man to get off the mark
+length just outside off. Frylinck stays leg side and runs it down to third man to get off the mark
 
 
 Balls faced: 8
 Bowler: Hazlewood
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Frylinck in at 3. Hazlewood goes around the wicket"}]Frylinck in at 3. Hazlewood goes around the wicket
+Frylinck in at 3. Hazlewood goes around the wicket
 
-[{"type": "HTML", "html": "back of a length just outside off. Frylinck gets up on his toes and taps it towards backward point"}]back of a length just outside off. Frylinck gets up on his toes and taps it towards backward point
+back of a length just outside off. Frylinck gets up on his toes and taps it towards backward point
 
 
 Balls faced: 9
 Bowler: Cummins
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Cummins has his first!</strong> Full on middle and off. There to go over the top but Frylinck does not quite get the purchase he is after. Steps outside leg, goes through the line but hits it straight to Marsh at mid off. Namibia lose their second and they are now in a spot of bother!"}]<strong>Cummins has his first!</strong> Full on middle and off. There to go over the top but Frylinck does not quite get the purchase he is after. Steps outside leg, goes through the line but hits it straight to Marsh at mid off. Namibia lose their second and they are now in a spot of bother!
+Frylinck is OUT! caught
+c Marsh b Cummins
+Jan Frylinck c Marsh b Cummins 1 (6b 0x4 0x6 4m) SR: 16.66
+<strong>Cummins has his first!</strong> Full on middle and off. There to go over the top but Frylinck does not quite get the purchase he is after. Steps outside leg, goes through the line but hits it straight to Marsh at mid off. Namibia lose their second and they are now in a spot of bother!
 
 
 Balls faced: 10
 Bowler: Cummins
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length on middle and leg. A bit of shape back into Frylinck and he hacks it towards mid wicket"}]hard length on middle and leg. A bit of shape back into Frylinck and he hacks it towards mid wicket
+hard length on middle and leg. A bit of shape back into Frylinck and he hacks it towards mid wicket
 
 
 Balls faced: 11
 Bowler: Cummins
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off. Frylinck is cramped for room and pokes it towards extra cover"}]back of a length on off. Frylinck is cramped for room and pokes it towards extra cover
+back of a length on off. Frylinck is cramped for room and pokes it towards extra cover
 
 
 Balls faced: 12
 Bowler: Cummins
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Cummins replaces Stoinis at the Andy Roberts End. Over the wicket to Frylinck"}]Cummins replaces Stoinis at the Andy Roberts End. Over the wicket to Frylinck
+Cummins replaces Stoinis at the Andy Roberts End. Over the wicket to Frylinck
 
-[{"type": "HTML", "html": "length delivery angled across just outside off. Frylinck comes half forward and jabs it towards cover point"}]length delivery angled across just outside off. Frylinck comes half forward and jabs it towards cover point
+length delivery angled across just outside off. Frylinck comes half forward and jabs it towards cover point
 
 
 
@@ -426,6 +476,7 @@ Match: all_games_1434088_1434095.json
 Balls faced: 1
 Bowler: Hazlewood
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -436,6 +487,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Hazlewood
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -446,6 +498,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Hazlewood
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -456,6 +509,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Ellis
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -466,6 +520,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Ellis
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -476,6 +531,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Hazlewood
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -486,6 +542,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Hazlewood
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -496,6 +553,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Hazlewood
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -506,16 +564,20 @@ Run scored: 0
 Balls faced: 9
 Bowler: Zampa
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Frylinck is OUT! lbw
+lbw b Zampa
+Jan Frylinck lbw b Zampa 1 (6b 0x4 0x6) SR: 16.66
 
 
 
 Balls faced: 10
 Bowler: Ellis
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -526,6 +588,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Ellis
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -536,5 +599,10 @@ Run scored: 1
 Balls faced: 12
 Bowler: Zampa
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
+
+Frylinck is OUT! lbw
+lbw b Zampa
+Jan Frylinck lbw b Zampa 1 (6b 0x4 0x6) SR: 16.66

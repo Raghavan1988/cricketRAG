@@ -2,301 +2,331 @@ Match: all_games_1388188_1388224.json
 Balls faced: 1
 Bowler: Milne
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "banged in short and outside off, another weak pull, clothed over midwicket"}]banged in short and outside off, another weak pull, clothed over midwicket
+banged in short and outside off, another weak pull, clothed over midwicket
 
 
 Balls faced: 2
 Bowler: Milne
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and angling into the top of off and then straightens away past the outside edge near the shoulder of the bat"}]back of a length and angling into the top of off and then straightens away past the outside edge near the shoulder of the bat
+back of a length and angling into the top of off and then straightens away past the outside edge near the shoulder of the bat
 
 
 Balls faced: 3
 Bowler: Milne
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and skidding into the top of the thigh pad. <strong>Milne has Ellis hopping</strong>"}]back of a length and skidding into the top of the thigh pad. <strong>Milne has Ellis hopping</strong>
+back of a length and skidding into the top of the thigh pad. <strong>Milne has Ellis hopping</strong>
 
 
 Balls faced: 4
 Bowler: Milne
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "dug in short and outside off, might've been another slower variation"}]dug in short and outside off, might've been another slower variation
+dug in short and outside off, might've been another slower variation
 
 
 Balls faced: 5
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short, slow, turns away. Ellis dinks it to point for a single. Santner finishes with 4-0-35-2"}]short, slow, turns away. Ellis dinks it to point for a single. Santner finishes with 4-0-35-2
+short, slow, turns away. Ellis dinks it to point for a single. Santner finishes with 4-0-35-2
 
 
 Balls faced: 6
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shorter and skids on outside off, chopped on the back foot to sweeper cover"}]shorter and skids on outside off, chopped on the back foot to sweeper cover
+shorter and skids on outside off, chopped on the back foot to sweeper cover
 
 
 Balls faced: 7
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through outside off, Ellis shapes for a reverse-sweep but can't get it past short third"}]pushed through outside off, Ellis shapes for a reverse-sweep but can't get it past short third
+pushed through outside off, Ellis shapes for a reverse-sweep but can't get it past short third
 
 
 Balls faced: 8
 Bowler: Milne
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "banged in short and outside off, another weak pull, clothed over midwicket"}]banged in short and outside off, another weak pull, clothed over midwicket
+banged in short and outside off, another weak pull, clothed over midwicket
 
 
 Balls faced: 9
 Bowler: Milne
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and angling into the top of off and then straightens away past the outside edge near the shoulder of the bat"}]back of a length and angling into the top of off and then straightens away past the outside edge near the shoulder of the bat
+back of a length and angling into the top of off and then straightens away past the outside edge near the shoulder of the bat
 
 
 Balls faced: 10
 Bowler: Milne
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length and skidding into the top of the thigh pad. <strong>Milne has Ellis hopping</strong>"}]back of a length and skidding into the top of the thigh pad. <strong>Milne has Ellis hopping</strong>
+back of a length and skidding into the top of the thigh pad. <strong>Milne has Ellis hopping</strong>
 
 
 Balls faced: 11
 Bowler: Milne
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "dug in short and outside off, might've been another slower variation"}]dug in short and outside off, might've been another slower variation
+dug in short and outside off, might've been another slower variation
 
 
 Balls faced: 12
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length and outside off, Ellis loads up and muscles it down to long-off"}]on a length and outside off, Ellis loads up and muscles it down to long-off
+on a length and outside off, Ellis loads up and muscles it down to long-off
 
 
 Balls faced: 13
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length and outside off, Ellis swings for the hills and drags an inside edge behind square on the leg side"}]on a length and outside off, Ellis swings for the hills and drags an inside edge behind square on the leg side
+on a length and outside off, Ellis swings for the hills and drags an inside edge behind square on the leg side
 
 
 Balls faced: 14
 Bowler: Boult
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Boult is back into the attack for his final over"}]Boult is back into the attack for his final over
+Boult is back into the attack for his final over
 
-[{"type": "HTML", "html": "Ellis charges at Boult who pulls his length back and attacks the top of the stumps. Jabbed back to him"}]Ellis charges at Boult who pulls his length back and attacks the top of the stumps. Jabbed back to him
+Ellis charges at Boult who pulls his length back and attacks the top of the stumps. Jabbed back to him
 
 
 Balls faced: 15
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short, slow, turns away. Ellis dinks it to point for a single. Santner finishes with 4-0-35-2"}]short, slow, turns away. Ellis dinks it to point for a single. Santner finishes with 4-0-35-2
+short, slow, turns away. Ellis dinks it to point for a single. Santner finishes with 4-0-35-2
 
 
 Balls faced: 16
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shorter and skids on outside off, chopped on the back foot to sweeper cover"}]shorter and skids on outside off, chopped on the back foot to sweeper cover
+shorter and skids on outside off, chopped on the back foot to sweeper cover
 
 
 Balls faced: 17
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through outside off, Ellis shapes for a reverse-sweep but can't get it past short third"}]pushed through outside off, Ellis shapes for a reverse-sweep but can't get it past short third
+pushed through outside off, Ellis shapes for a reverse-sweep but can't get it past short third
 
 
 Balls faced: 18
 Bowler: Sears
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "off-stump yorker, which is dug out through the covers"}]off-stump yorker, which is dug out through the covers
+off-stump yorker, which is dug out through the covers
 
 
 Balls faced: 19
 Bowler: Sears
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "mighty full on middle, just short of a yorker length, squeezed down to long-on"}]mighty full on middle, just short of a yorker length, squeezed down to long-on
+mighty full on middle, just short of a yorker length, squeezed down to long-on
 
 
 Balls faced: 20
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length and outside off, Ellis loads up and muscles it down to long-off"}]on a length and outside off, Ellis loads up and muscles it down to long-off
+on a length and outside off, Ellis loads up and muscles it down to long-off
 
 
 Balls faced: 21
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length and outside off, Ellis swings for the hills and drags an inside edge behind square on the leg side"}]on a length and outside off, Ellis swings for the hills and drags an inside edge behind square on the leg side
+on a length and outside off, Ellis swings for the hills and drags an inside edge behind square on the leg side
 
 
 Balls faced: 22
 Bowler: Boult
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Boult is back into the attack for his final over"}]Boult is back into the attack for his final over
+Boult is back into the attack for his final over
 
-[{"type": "HTML", "html": "Ellis charges at Boult who pulls his length back and attacks the top of the stumps. Jabbed back to him"}]Ellis charges at Boult who pulls his length back and attacks the top of the stumps. Jabbed back to him
+Ellis charges at Boult who pulls his length back and attacks the top of the stumps. Jabbed back to him
 
 
 Balls faced: 23
 Bowler: Milne
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Asif: \"From Auckland - eagerly expecting a Kiwi win to book tickets for Sunday's match.\""}]Asif: "From Auckland - eagerly expecting a Kiwi win to book tickets for Sunday's match."
+Asif: "From Auckland - eagerly expecting a Kiwi win to book tickets for Sunday's match."
 
-[{"type": "HTML", "html": "short of a length and angling into the body, swung away to wide long-on"}]short of a length and angling into the body, swung away to wide long-on
+short of a length and angling into the body, swung away to wide long-on
 
 
 Balls faced: 24
 Bowler: Sears
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "off-stump yorker, which is dug out through the covers"}]off-stump yorker, which is dug out through the covers
+off-stump yorker, which is dug out through the covers
 
 
 Balls faced: 25
 Bowler: Sears
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "mighty full on middle, just short of a yorker length, squeezed down to long-on"}]mighty full on middle, just short of a yorker length, squeezed down to long-on
+mighty full on middle, just short of a yorker length, squeezed down to long-on
 
 
 Balls faced: 26
 Bowler: Ferguson
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Ferguson pounds the pitch and hits the splice of the bat. Miscued to extra-cover"}]Ferguson pounds the pitch and hits the splice of the bat. Miscued to extra-cover
+Ferguson pounds the pitch and hits the splice of the bat. Miscued to extra-cover
 
 
 Balls faced: 27
 Bowler: Ferguson
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower lifter outside off, heaved down to long-on"}]slower lifter outside off, heaved down to long-on
+slower lifter outside off, heaved down to long-on
 
 
 Balls faced: 28
 Bowler: Milne
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Asif: \"From Auckland - eagerly expecting a Kiwi win to book tickets for Sunday's match.\""}]Asif: "From Auckland - eagerly expecting a Kiwi win to book tickets for Sunday's match."
+Asif: "From Auckland - eagerly expecting a Kiwi win to book tickets for Sunday's match."
 
-[{"type": "HTML", "html": "short of a length and angling into the body, swung away to wide long-on"}]short of a length and angling into the body, swung away to wide long-on
+short of a length and angling into the body, swung away to wide long-on
 
 
 Balls faced: 29
 Bowler: Ferguson
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Ferguson pounds the pitch and hits the splice of the bat. Miscued to extra-cover"}]Ferguson pounds the pitch and hits the splice of the bat. Miscued to extra-cover
+Ferguson pounds the pitch and hits the splice of the bat. Miscued to extra-cover
 
 
 Balls faced: 30
 Bowler: Ferguson
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower lifter outside off, heaved down to long-on"}]slower lifter outside off, heaved down to long-on
+slower lifter outside off, heaved down to long-on
 
 
 
@@ -304,6 +334,7 @@ Match: all_games_1434088_1434102.json
 Balls faced: 1
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -314,6 +345,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -324,6 +356,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -334,6 +367,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -344,6 +378,7 @@ Run scored: 6
 Balls faced: 5
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -354,6 +389,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -364,6 +400,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -374,6 +411,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Motie
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -384,6 +422,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -394,6 +433,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -404,6 +444,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -414,6 +455,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -424,6 +466,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -434,6 +477,7 @@ Run scored: 6
 Balls faced: 14
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -444,6 +488,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Hosein
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -454,6 +499,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -464,6 +510,7 @@ Run scored: 1
 Balls faced: 17
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -474,6 +521,7 @@ Run scored: 4
 Balls faced: 18
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -484,6 +532,7 @@ Run scored: 6
 Balls faced: 19
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -494,6 +543,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -504,6 +554,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -514,6 +565,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Alzarri Joseph
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -524,6 +576,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -534,6 +587,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -544,6 +598,7 @@ Run scored: 4
 Balls faced: 25
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -554,6 +609,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -564,6 +620,7 @@ Run scored: 4
 Balls faced: 27
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -574,6 +631,7 @@ Run scored: 4
 Balls faced: 28
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -584,6 +642,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -594,6 +653,7 @@ Run scored: 1
 Balls faced: 30
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -604,6 +664,7 @@ Run scored: 4
 Balls faced: 31
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -614,6 +675,7 @@ Run scored: 6
 Balls faced: 32
 Bowler: Shamar Joseph
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -624,16 +686,20 @@ Run scored: 1
 Balls faced: 33
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Ellis is OUT! caught
+c Shepherd b AS Joseph
+Nathan Ellis c Shepherd b AS Joseph 39 (22b 4x4 2x6) SR: 177.27
 
 
 
 Balls faced: 34
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -644,6 +710,7 @@ Run scored: 2
 Balls faced: 35
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -654,6 +721,7 @@ Wide: 1
 Balls faced: 36
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -664,6 +732,7 @@ Run scored: 1
 Balls faced: 37
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -674,6 +743,7 @@ Run scored: 1
 Balls faced: 38
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -684,6 +754,7 @@ Run scored: 4
 Balls faced: 39
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -694,6 +765,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -704,6 +776,7 @@ Run scored: 4
 Balls faced: 41
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -714,6 +787,7 @@ Run scored: 4
 Balls faced: 42
 Bowler: McCoy
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -724,16 +798,20 @@ Run scored: 0
 Balls faced: 43
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Ellis is OUT! caught
+c Shepherd b Joseph
+Nathan Ellis c Shepherd b Joseph 39 (22b 4x4 2x6) SR: 177.27
 
 
 
 Balls faced: 44
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -744,6 +822,7 @@ Run scored: 2
 Balls faced: 45
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -754,5 +833,6 @@ Wide: 1
 Balls faced: 46
 Bowler: Alzarri Joseph
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1

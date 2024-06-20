@@ -2,6 +2,7 @@ Match: all_games_1410505_1410547.json
 Balls faced: 1
 Bowler: Adams
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Adams
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -22,16 +24,20 @@ Run scored: 1
 Balls faced: 3
 Bowler: Dean
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Davidson-Richards is OUT! bowled
+ b Dean
+Alice Davidson-Richards b Dean 2 (4b 0x4 0x6 9m) SR: 50
 
 
 
 Balls faced: 4
 Bowler: Dean
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -42,6 +48,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Dean
 Over: 9
+ 
 Shot: SWEEP
 Run scored: 0
 
@@ -52,6 +59,7 @@ Wide: 1
 Balls faced: 6
 Bowler: Adams
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -62,6 +70,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Adams
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -72,16 +81,20 @@ Run scored: 1
 Balls faced: 8
 Bowler: Dean
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
-
+Davidson-Richards is OUT! bowled
+ b Dean
+Alice Davidson-Richards b Dean 2 (4b 0x4 0x6 9m) SR: 50
 
 
 
 Balls faced: 9
 Bowler: Dean
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -92,6 +105,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Dean
 Over: 9
+ 
 Shot: SWEEP
 Run scored: 0
 

@@ -2,481 +2,533 @@ Match: all_games_1389386_1389399.json
 Balls faced: 1
 Bowler: Jadeja
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired down on off, Foakes blocks into the ground in front of the close catcher"}]fired down on off, Foakes blocks into the ground in front of the close catcher
-[{"type": "HTML", "html": "\"Big trouble!\" gulps Liam"}]"Big trouble!" gulps Liam
+fired down on off, Foakes blocks into the ground in front of the close catcher
+"Big trouble!" gulps Liam
 
 Balls faced: 2
 Bowler: Jadeja
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip and silly mid-off"}]Slip and silly mid-off
+Slip and silly mid-off
 
-[{"type": "HTML", "html": "fuller and straighter, prodded away"}]fuller and straighter, prodded away
+fuller and straighter, prodded away
 
 
 Balls faced: 3
 Bowler: Jadeja
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "In walks Ben Foakes. The anti-Bazballer"}]In walks Ben Foakes. The anti-Bazballer
+In walks Ben Foakes. The anti-Bazballer
 
-[{"type": "HTML", "html": "fifth stump, defended on the back foor"}]fifth stump, defended on the back foor
+fifth stump, defended on the back foor
 
 
 Balls faced: 4
 Bowler: Axar Patel
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "lets this one go wide of the stumps. Told you he was the anti-Bazballer"}]lets this one go wide of the stumps. Told you he was the anti-Bazballer
+lets this one go wide of the stumps. Told you he was the anti-Bazballer
 
 
 Balls faced: 5
 Bowler: Axar Patel
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "similar line, 91kph and Foakes pushes towards extra cover"}]similar line, 91kph and Foakes pushes towards extra cover
+similar line, 91kph and Foakes pushes towards extra cover
 
 
 Balls faced: 6
 Bowler: Axar Patel
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip, gully and silly mid-off"}]Slip, gully and silly mid-off
+Slip, gully and silly mid-off
 
-[{"type": "HTML", "html": "fired in on off, defended"}]fired in on off, defended
-[{"type": "HTML", "html": "\"it seems England is setting it sights on the moral victory rather than the traditional victory in this series.\" That is their specialty, Dav..."}]"it seems England is setting it sights on the moral victory rather than the traditional victory in this series." That is their specialty, Dav...
+fired in on off, defended
+"it seems England is setting it sights on the moral victory rather than the traditional victory in this series." That is their specialty, Dav...
 
 Balls faced: 7
 Bowler: Jadeja
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired down on off, Foakes blocks into the ground in front of the close catcher"}]fired down on off, Foakes blocks into the ground in front of the close catcher
-[{"type": "HTML", "html": "\"Big trouble!\" gulps Liam"}]"Big trouble!" gulps Liam
+fired down on off, Foakes blocks into the ground in front of the close catcher
+"Big trouble!" gulps Liam
 
 Balls faced: 8
 Bowler: Jadeja
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip and silly mid-off"}]Slip and silly mid-off
+Slip and silly mid-off
 
-[{"type": "HTML", "html": "fuller and straighter, prodded away"}]fuller and straighter, prodded away
+fuller and straighter, prodded away
 
 
 Balls faced: 9
 Bowler: Jadeja
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "In walks Ben Foakes. The anti-Bazballer"}]In walks Ben Foakes. The anti-Bazballer
+In walks Ben Foakes. The anti-Bazballer
 
-[{"type": "HTML", "html": "fifth stump, defended on the back foor"}]fifth stump, defended on the back foor
+fifth stump, defended on the back foor
 
 
 Balls faced: 10
 Bowler: Jadeja
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "punched into the covers, a misfield aids the single. Foakes off the mark"}]punched into the covers, a misfield aids the single. Foakes off the mark
+punched into the covers, a misfield aids the single. Foakes off the mark
 
 
 Balls faced: 11
 Bowler: Axar Patel
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "lets this one go wide of the stumps. Told you he was the anti-Bazballer"}]lets this one go wide of the stumps. Told you he was the anti-Bazballer
+lets this one go wide of the stumps. Told you he was the anti-Bazballer
 
 
 Balls faced: 12
 Bowler: Axar Patel
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "similar line, 91kph and Foakes pushes towards extra cover"}]similar line, 91kph and Foakes pushes towards extra cover
+similar line, 91kph and Foakes pushes towards extra cover
 
 
 Balls faced: 13
 Bowler: Axar Patel
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Slip, gully and silly mid-off"}]Slip, gully and silly mid-off
+Slip, gully and silly mid-off
 
-[{"type": "HTML", "html": "fired in on off, defended"}]fired in on off, defended
-[{"type": "HTML", "html": "\"it seems England is setting it sights on the moral victory rather than the traditional victory in this series.\" That is their specialty, Dav..."}]"it seems England is setting it sights on the moral victory rather than the traditional victory in this series." That is their specialty, Dav...
+fired in on off, defended
+"it seems England is setting it sights on the moral victory rather than the traditional victory in this series." That is their specialty, Dav...
 
 Balls faced: 14
 Bowler: Axar Patel
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushes out in front and this one finds the edge, but it runs wide of gully and behind backward point for a scampered single"}]pushes out in front and this one finds the edge, but it runs wide of gully and behind backward point for a scampered single
+pushes out in front and this one finds the edge, but it runs wide of gully and behind backward point for a scampered single
 
 
 Balls faced: 15
 Bowler: Axar Patel
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "again he's across and shows it a straight bat"}]again he's across and shows it a straight bat
+again he's across and shows it a straight bat
 
 
 Balls faced: 16
 Bowler: Axar Patel
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Three off-side catchers for Foakes"}]Three off-side catchers for Foakes
+Three off-side catchers for Foakes
 
-[{"type": "HTML", "html": "similar line and he blocks on off stump"}]similar line and he blocks on off stump
+similar line and he blocks on off stump
 
 
 Balls faced: 17
 Bowler: Axar Patel
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended back to the bowler"}]defended back to the bowler
+defended back to the bowler
 
 
 Balls faced: 18
 Bowler: Jadeja
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "punched into the covers, a misfield aids the single. Foakes off the mark"}]punched into the covers, a misfield aids the single. Foakes off the mark
+punched into the covers, a misfield aids the single. Foakes off the mark
 
 
 Balls faced: 19
 Bowler: Axar Patel
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushes out in front and this one finds the edge, but it runs wide of gully and behind backward point for a scampered single"}]pushes out in front and this one finds the edge, but it runs wide of gully and behind backward point for a scampered single
+pushes out in front and this one finds the edge, but it runs wide of gully and behind backward point for a scampered single
 
 
 Balls faced: 20
 Bowler: Axar Patel
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "again he's across and shows it a straight bat"}]again he's across and shows it a straight bat
+again he's across and shows it a straight bat
 
 
 Balls faced: 21
 Bowler: Axar Patel
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Three off-side catchers for Foakes"}]Three off-side catchers for Foakes
+Three off-side catchers for Foakes
 
-[{"type": "HTML", "html": "similar line and he blocks on off stump"}]similar line and he blocks on off stump
+similar line and he blocks on off stump
 
 
 Balls faced: 22
 Bowler: Axar Patel
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended back to the bowler"}]defended back to the bowler
+defended back to the bowler
 
 
 Balls faced: 23
 Bowler: Axar Patel
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "driven firmly but straight into the midriff of silly mid-off... who is then sharp enough to have a shy at the stumps with Foakes scrambling to get his bat back in!"}]driven firmly but straight into the midriff of silly mid-off... who is then sharp enough to have a shy at the stumps with Foakes scrambling to get his bat back in!
+driven firmly but straight into the midriff of silly mid-off... who is then sharp enough to have a shy at the stumps with Foakes scrambling to get his bat back in!
 
 
 Balls faced: 24
 Bowler: Axar Patel
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in and tapped away to the off side"}]angled in and tapped away to the off side
+angled in and tapped away to the off side
 
 
 Balls faced: 25
 Bowler: Axar Patel
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushed through with the arm, comes off the inside edge and runs away through square leg"}]pushed through with the arm, comes off the inside edge and runs away through square leg
+pushed through with the arm, comes off the inside edge and runs away through square leg
 
 
 Balls faced: 26
 Bowler: Axar Patel
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired in on off, 94kph and Foakes is across to block"}]fired in on off, 94kph and Foakes is across to block
-[{"type": "HTML", "html": "Here's Drew: \"Think everyone is getting a little carried away. England bat pretty deep and 200 could be a strong first innings score - a long way to go!\""}]Here's Drew: "Think everyone is getting a little carried away. England bat pretty deep and 200 could be a strong first innings score - a long way to go!"
+fired in on off, 94kph and Foakes is across to block
+Here's Drew: "Think everyone is getting a little carried away. England bat pretty deep and 200 could be a strong first innings score - a long way to go!"
 
 Balls faced: 27
 Bowler: Ashwin
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another low full toss and he's forward to flick through midwicket"}]another low full toss and he's forward to flick through midwicket
+another low full toss and he's forward to flick through midwicket
 
 
 Balls faced: 28
 Bowler: Ashwin
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "similar line, defended into coming across"}]similar line, defended into coming across
+similar line, defended into coming across
 
 
 Balls faced: 29
 Bowler: Ashwin
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floated up outside off, 88kph and not much side spin. Foakes tucks into the leg side"}]floated up outside off, 88kph and not much side spin. Foakes tucks into the leg side
+floated up outside off, 88kph and not much side spin. Foakes tucks into the leg side
 
 
 Balls faced: 30
 Bowler: Ashwin
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length, clipped back to the bowler's right"}]full length, clipped back to the bowler's right
-[{"type": "HTML", "html": "\"England is not struggling,\" reckons Palani. \"They have improved a lot. We will have to see how Indians bat here especially since Kohli is lot here\""}]"England is not struggling," reckons Palani. "They have improved a lot. We will have to see how Indians bat here especially since Kohli is lot here"
+full length, clipped back to the bowler's right
+"England is not struggling," reckons Palani. "They have improved a lot. We will have to see how Indians bat here especially since Kohli is lot here"
 
 Balls faced: 31
 Bowler: Axar Patel
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "driven firmly but straight into the midriff of silly mid-off... who is then sharp enough to have a shy at the stumps with Foakes scrambling to get his bat back in!"}]driven firmly but straight into the midriff of silly mid-off... who is then sharp enough to have a shy at the stumps with Foakes scrambling to get his bat back in!
+driven firmly but straight into the midriff of silly mid-off... who is then sharp enough to have a shy at the stumps with Foakes scrambling to get his bat back in!
 
 
 Balls faced: 32
 Bowler: Axar Patel
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in and tapped away to the off side"}]angled in and tapped away to the off side
+angled in and tapped away to the off side
 
 
 Balls faced: 33
 Bowler: Axar Patel
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushed through with the arm, comes off the inside edge and runs away through square leg"}]pushed through with the arm, comes off the inside edge and runs away through square leg
+pushed through with the arm, comes off the inside edge and runs away through square leg
 
 
 Balls faced: 34
 Bowler: Axar Patel
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired in on off, 94kph and Foakes is across to block"}]fired in on off, 94kph and Foakes is across to block
-[{"type": "HTML", "html": "Here's Drew: \"Think everyone is getting a little carried away. England bat pretty deep and 200 could be a strong first innings score - a long way to go!\""}]Here's Drew: "Think everyone is getting a little carried away. England bat pretty deep and 200 could be a strong first innings score - a long way to go!"
+fired in on off, 94kph and Foakes is across to block
+Here's Drew: "Think everyone is getting a little carried away. England bat pretty deep and 200 could be a strong first innings score - a long way to go!"
 
 Balls faced: 35
 Bowler: Axar Patel
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>sharp spin, nicked behind!</b> Up goes Paul Reiffel's finger straight away, England lose their sixth. Foakes had trusted his method but walks off for 4 from 24 balls. The line was probably wide enough that he could have left it, but Patel's angles sucked him into playing. This is all going very 2021 for England"}]<b>sharp spin, nicked behind!</b> Up goes Paul Reiffel's finger straight away, England lose their sixth. Foakes had trusted his method but walks off for 4 from 24 balls. The line was probably wide enough that he could have left it, but Patel's angles sucked him into playing. This is all going very 2021 for England
-[{"type": "HTML", "html": "In strides the teenaged Rehan Ahmed, playing only his second Test"}]In strides the teenaged Rehan Ahmed, playing only his second Test
+Foakes is OUT! caught
+c †Bharat b Patel
+Ben Foakes c †Bharat b Patel 4 (24b 0x4 0x6 22m) SR: 16.66
+<b>sharp spin, nicked behind!</b> Up goes Paul Reiffel's finger straight away, England lose their sixth. Foakes had trusted his method but walks off for 4 from 24 balls. The line was probably wide enough that he could have left it, but Patel's angles sucked him into playing. This is all going very 2021 for England
+In strides the teenaged Rehan Ahmed, playing only his second Test
 
 Balls faced: 36
 Bowler: Axar Patel
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "OxTiger: \"I have a feeling that on this pitch, Mark Wood and Rehan Ahmed - the proverbial raw-pace   legspin combo will be lethal.\""}]OxTiger: "I have a feeling that on this pitch, Mark Wood and Rehan Ahmed - the proverbial raw-pace   legspin combo will be lethal."
+OxTiger: "I have a feeling that on this pitch, Mark Wood and Rehan Ahmed - the proverbial raw-pace   legspin combo will be lethal."
 
-[{"type": "HTML", "html": "slightly round arm, wide of off and Foakes punches it square, picks out point"}]slightly round arm, wide of off and Foakes punches it square, picks out point
+slightly round arm, wide of off and Foakes punches it square, picks out point
 
 
 Balls faced: 37
 Bowler: Axar Patel
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "lobbed up on off, 89kph and tapped away to extra cover"}]lobbed up on off, 89kph and tapped away to extra cover
+lobbed up on off, 89kph and tapped away to extra cover
 
 
 Balls faced: 38
 Bowler: Axar Patel
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Foakes stretches out to smother the ball on the front foot"}]Foakes stretches out to smother the ball on the front foot
+Foakes stretches out to smother the ball on the front foot
 
 
 Balls faced: 39
 Bowler: Axar Patel
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through on the stumps, defended to leg"}]pushed through on the stumps, defended to leg
+pushed through on the stumps, defended to leg
 
 
 Balls faced: 40
 Bowler: Ashwin
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another low full toss and he's forward to flick through midwicket"}]another low full toss and he's forward to flick through midwicket
+another low full toss and he's forward to flick through midwicket
 
 
 Balls faced: 41
 Bowler: Ashwin
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "similar line, defended into coming across"}]similar line, defended into coming across
+similar line, defended into coming across
 
 
 Balls faced: 42
 Bowler: Ashwin
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "floated up outside off, 88kph and not much side spin. Foakes tucks into the leg side"}]floated up outside off, 88kph and not much side spin. Foakes tucks into the leg side
+floated up outside off, 88kph and not much side spin. Foakes tucks into the leg side
 
 
 Balls faced: 43
 Bowler: Ashwin
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full length, clipped back to the bowler's right"}]full length, clipped back to the bowler's right
-[{"type": "HTML", "html": "\"England is not struggling,\" reckons Palani. \"They have improved a lot. We will have to see how Indians bat here especially since Kohli is lot here\""}]"England is not struggling," reckons Palani. "They have improved a lot. We will have to see how Indians bat here especially since Kohli is lot here"
+full length, clipped back to the bowler's right
+"England is not struggling," reckons Palani. "They have improved a lot. We will have to see how Indians bat here especially since Kohli is lot here"
 
 Balls faced: 44
 Bowler: Axar Patel
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>sharp spin, nicked behind!</b> Up goes Paul Reiffel's finger straight away, England lose their sixth. Foakes had trusted his method but walks off for 4 from 24 balls. The line was probably wide enough that he could have left it, but Patel's angles sucked him into playing. This is all going very 2021 for England"}]<b>sharp spin, nicked behind!</b> Up goes Paul Reiffel's finger straight away, England lose their sixth. Foakes had trusted his method but walks off for 4 from 24 balls. The line was probably wide enough that he could have left it, but Patel's angles sucked him into playing. This is all going very 2021 for England
-[{"type": "HTML", "html": "In strides the teenaged Rehan Ahmed, playing only his second Test"}]In strides the teenaged Rehan Ahmed, playing only his second Test
+Foakes is OUT! caught
+c †Bharat b Patel
+Ben Foakes c †Bharat b Patel 4 (24b 0x4 0x6 22m) SR: 16.66
+<b>sharp spin, nicked behind!</b> Up goes Paul Reiffel's finger straight away, England lose their sixth. Foakes had trusted his method but walks off for 4 from 24 balls. The line was probably wide enough that he could have left it, but Patel's angles sucked him into playing. This is all going very 2021 for England
+In strides the teenaged Rehan Ahmed, playing only his second Test
 
 Balls faced: 45
 Bowler: Axar Patel
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "OxTiger: \"I have a feeling that on this pitch, Mark Wood and Rehan Ahmed - the proverbial raw-pace   legspin combo will be lethal.\""}]OxTiger: "I have a feeling that on this pitch, Mark Wood and Rehan Ahmed - the proverbial raw-pace   legspin combo will be lethal."
+OxTiger: "I have a feeling that on this pitch, Mark Wood and Rehan Ahmed - the proverbial raw-pace   legspin combo will be lethal."
 
-[{"type": "HTML", "html": "slightly round arm, wide of off and Foakes punches it square, picks out point"}]slightly round arm, wide of off and Foakes punches it square, picks out point
+slightly round arm, wide of off and Foakes punches it square, picks out point
 
 
 Balls faced: 46
 Bowler: Axar Patel
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "lobbed up on off, 89kph and tapped away to extra cover"}]lobbed up on off, 89kph and tapped away to extra cover
+lobbed up on off, 89kph and tapped away to extra cover
 
 
 Balls faced: 47
 Bowler: Axar Patel
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Foakes stretches out to smother the ball on the front foot"}]Foakes stretches out to smother the ball on the front foot
+Foakes stretches out to smother the ball on the front foot
 
 
 Balls faced: 48
 Bowler: Axar Patel
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through on the stumps, defended to leg"}]pushed through on the stumps, defended to leg
+pushed through on the stumps, defended to leg
 
 
 
@@ -484,201 +536,225 @@ Match: all_games_1389386_1389400.json
 Balls faced: 1
 Bowler: Bumrah
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide length ball, left alone even though it shapes in a little"}]wide length ball, left alone even though it shapes in a little
-[{"type": "HTML", "html": "Bumrah's current spell: 2-2-0-1"}]Bumrah's current spell: 2-2-0-1
+wide length ball, left alone even though it shapes in a little
+Bumrah's current spell: 2-2-0-1
 
 Balls faced: 2
 Bowler: Bumrah
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "In comes Ben Foakes"}]In comes Ben Foakes
+In comes Ben Foakes
 
-[{"type": "HTML", "html": "outswinger to start off with. On a length, just outside off. Defended"}]outswinger to start off with. On a length, just outside off. Defended
+outswinger to start off with. On a length, just outside off. Defended
 
 
 Balls faced: 3
 Bowler: Kuldeep
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and straight, pushed wide of mid-on for one"}]full and straight, pushed wide of mid-on for one
+full and straight, pushed wide of mid-on for one
 
 
 Balls faced: 4
 Bowler: Bumrah
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide length ball, left alone even though it shapes in a little"}]wide length ball, left alone even though it shapes in a little
-[{"type": "HTML", "html": "Bumrah's current spell: 2-2-0-1"}]Bumrah's current spell: 2-2-0-1
+wide length ball, left alone even though it shapes in a little
+Bumrah's current spell: 2-2-0-1
 
 Balls faced: 5
 Bowler: Bumrah
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "In comes Ben Foakes"}]In comes Ben Foakes
+In comes Ben Foakes
 
-[{"type": "HTML", "html": "outswinger to start off with. On a length, just outside off. Defended"}]outswinger to start off with. On a length, just outside off. Defended
+outswinger to start off with. On a length, just outside off. Defended
 
 
 Balls faced: 6
 Bowler: Bumrah
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker now, Foakes equal to it, digs it out for a single to mid-on"}]yorker now, Foakes equal to it, digs it out for a single to mid-on
+yorker now, Foakes equal to it, digs it out for a single to mid-on
 
 
 Balls faced: 7
 Bowler: Bumrah
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>edged and short of second slip</b>. Goes wide on the crease, holds its line, takes the edge. Foakes has done well to not jab at it"}]<b>edged and short of second slip</b>. Goes wide on the crease, holds its line, takes the edge. Foakes has done well to not jab at it
+<b>edged and short of second slip</b>. Goes wide on the crease, holds its line, takes the edge. Foakes has done well to not jab at it
 
 
 Balls faced: 8
 Bowler: Bumrah
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "nicely played. Really a lovely leg glance. From middle or so, and he has placed it fine of fine leg"}]nicely played. Really a lovely leg glance. From middle or so, and he has placed it fine of fine leg
+nicely played. Really a lovely leg glance. From middle or so, and he has placed it fine of fine leg
 
 
 Balls faced: 9
 Bowler: Bumrah
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this one shapes in, hits the inner half of the bat on the drive"}]this one shapes in, hits the inner half of the bat on the drive
+this one shapes in, hits the inner half of the bat on the drive
 
 
 Balls faced: 10
 Bowler: Bumrah
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "outswinger. He is flipping the shine in and out often. Foakes is looking out for the inswinger, but this <strong>one leaves him to beat him</strong>"}]outswinger. He is flipping the shine in and out often. Foakes is looking out for the inswinger, but this <strong>one leaves him to beat him</strong>
+outswinger. He is flipping the shine in and out often. Foakes is looking out for the inswinger, but this <strong>one leaves him to beat him</strong>
 
 
 Balls faced: 11
 Bowler: Kuldeep
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full and straight, pushed wide of mid-on for one"}]full and straight, pushed wide of mid-on for one
+full and straight, pushed wide of mid-on for one
 
 
 Balls faced: 12
 Bowler: Kuldeep
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "timbaaaaah. Really slow in the air. Foakes defends for the turn, but it doesn't turn as much as he expects. Beaten on the outside edge, and the off stump is pegged back. Pitches just outside off, turns in, but not as much as Foakes has budgeted for"}]timbaaaaah. Really slow in the air. Foakes defends for the turn, but it doesn't turn as much as he expects. Beaten on the outside edge, and the off stump is pegged back. Pitches just outside off, turns in, but not as much as Foakes has budgeted for
+Foakes is OUT! bowled
+ b Kuldeep Yadav
+Ben Foakes b Kuldeep Yadav 6 (10b 1x4 0x6 13m) SR: 60
+timbaaaaah. Really slow in the air. Foakes defends for the turn, but it doesn't turn as much as he expects. Beaten on the outside edge, and the off stump is pegged back. Pitches just outside off, turns in, but not as much as Foakes has budgeted for
 
 
 Balls faced: 13
 Bowler: Kuldeep
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wrong'un, Foakes picks it and defends to off. Too full anyway"}]wrong'un, Foakes picks it and defends to off. Too full anyway
+wrong'un, Foakes picks it and defends to off. Too full anyway
 
 
 Balls faced: 14
 Bowler: Bumrah
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker now, Foakes equal to it, digs it out for a single to mid-on"}]yorker now, Foakes equal to it, digs it out for a single to mid-on
+yorker now, Foakes equal to it, digs it out for a single to mid-on
 
 
 Balls faced: 15
 Bowler: Bumrah
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>edged and short of second slip</b>. Goes wide on the crease, holds its line, takes the edge. Foakes has done well to not jab at it"}]<b>edged and short of second slip</b>. Goes wide on the crease, holds its line, takes the edge. Foakes has done well to not jab at it
+<b>edged and short of second slip</b>. Goes wide on the crease, holds its line, takes the edge. Foakes has done well to not jab at it
 
 
 Balls faced: 16
 Bowler: Bumrah
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "nicely played. Really a lovely leg glance. From middle or so, and he has placed it fine of fine leg"}]nicely played. Really a lovely leg glance. From middle or so, and he has placed it fine of fine leg
+nicely played. Really a lovely leg glance. From middle or so, and he has placed it fine of fine leg
 
 
 Balls faced: 17
 Bowler: Bumrah
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this one shapes in, hits the inner half of the bat on the drive"}]this one shapes in, hits the inner half of the bat on the drive
+this one shapes in, hits the inner half of the bat on the drive
 
 
 Balls faced: 18
 Bowler: Bumrah
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "outswinger. He is flipping the shine in and out often. Foakes is looking out for the inswinger, but this <strong>one leaves him to beat him</strong>"}]outswinger. He is flipping the shine in and out often. Foakes is looking out for the inswinger, but this <strong>one leaves him to beat him</strong>
+outswinger. He is flipping the shine in and out often. Foakes is looking out for the inswinger, but this <strong>one leaves him to beat him</strong>
 
 
 Balls faced: 19
 Bowler: Kuldeep
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "timbaaaaah. Really slow in the air. Foakes defends for the turn, but it doesn't turn as much as he expects. Beaten on the outside edge, and the off stump is pegged back. Pitches just outside off, turns in, but not as much as Foakes has budgeted for"}]timbaaaaah. Really slow in the air. Foakes defends for the turn, but it doesn't turn as much as he expects. Beaten on the outside edge, and the off stump is pegged back. Pitches just outside off, turns in, but not as much as Foakes has budgeted for
+Foakes is OUT! bowled
+ b Kuldeep Yadav
+Ben Foakes b Kuldeep Yadav 6 (10b 1x4 0x6 13m) SR: 60
+timbaaaaah. Really slow in the air. Foakes defends for the turn, but it doesn't turn as much as he expects. Beaten on the outside edge, and the off stump is pegged back. Pitches just outside off, turns in, but not as much as Foakes has budgeted for
 
 
 Balls faced: 20
 Bowler: Kuldeep
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wrong'un, Foakes picks it and defends to off. Too full anyway"}]wrong'un, Foakes picks it and defends to off. Too full anyway
+wrong'un, Foakes picks it and defends to off. Too full anyway
 
 
 
@@ -686,1641 +762,1805 @@ Match: all_games_1389386_1389402.json
 Balls faced: 1
 Bowler: Jadeja
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flights this, Foakes stretches forward, defends"}]flights this, Foakes stretches forward, defends
+flights this, Foakes stretches forward, defends
 
 
 Balls faced: 2
 Bowler: Jadeja
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, quicker, and <b>this one turns past the edge</b>. This is going to be difficult"}]flatter, quicker, and <b>this one turns past the edge</b>. This is going to be difficult
+flatter, quicker, and <b>this one turns past the edge</b>. This is going to be difficult
 
 
 Balls faced: 3
 Bowler: Jadeja
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller, Foakes looks to drive, hit on the inner half of the bat"}]fuller, Foakes looks to drive, hit on the inner half of the bat
+fuller, Foakes looks to drive, hit on the inner half of the bat
 
 
 Balls faced: 4
 Bowler: Jadeja
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, just outside off, defended off the front foot"}]on a length, just outside off, defended off the front foot
+on a length, just outside off, defended off the front foot
 
 
 Balls faced: 5
 Bowler: Jadeja
 Over: 25
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "<strong>12.08pm</strong> Ben Foakes is the new batter in. Ravindra Jadeja will complete the over he started before lunch"}, {"type": "HTML", "html": "<strong>Noon</strong> Thanks Monty. Welcome back, y'all. How ya doin'? We have had three Tests that took their time, but this one is on steroids. A different kind of Test. Five wickets in a session with appreciable seam movement followed by some turn and then a shooter to end the session. It will be hectic."}]<strong>12.08pm</strong> Ben Foakes is the new batter in. Ravindra Jadeja will complete the over he started before lunch <strong>Noon</strong> Thanks Monty. Welcome back, y'all. How ya doin'? We have had three Tests that took their time, but this one is on steroids. A different kind of Test. Five wickets in a session with appreciable seam movement followed by some turn and then a shooter to end the session. It will be hectic.
+<strong>12.08pm</strong> Ben Foakes is the new batter in. Ravindra Jadeja will complete the over he started before lunch <strong>Noon</strong> Thanks Monty. Welcome back, y'all. How ya doin'? We have had three Tests that took their time, but this one is on steroids. A different kind of Test. Five wickets in a session with appreciable seam movement followed by some turn and then a shooter to end the session. It will be hectic.
 
-[{"type": "HTML", "html": "overpitched, clipped off the toes, past square leg for two"}]overpitched, clipped off the toes, past square leg for two
+overpitched, clipped off the toes, past square leg for two
 
 
 Balls faced: 6
 Bowler: Ashwin
 Over: 26
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length, outside leg, worked to leg for a single"}]on a length, outside leg, worked to leg for a single
+on a length, outside leg, worked to leg for a single
 
 
 Balls faced: 7
 Bowler: Ashwin
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slow in the air, nice dip and drift, defended to leg"}]slow in the air, nice dip and drift, defended to leg
+slow in the air, nice dip and drift, defended to leg
 
 
 Balls faced: 8
 Bowler: Ashwin
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pitched up, on the pads, flicked to short midwicket"}]pitched up, on the pads, flicked to short midwicket
+pitched up, on the pads, flicked to short midwicket
 
 
 Balls faced: 9
 Bowler: Jadeja
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flights this, Foakes stretches forward, defends"}]flights this, Foakes stretches forward, defends
+flights this, Foakes stretches forward, defends
 
 
 Balls faced: 10
 Bowler: Jadeja
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, quicker, and <b>this one turns past the edge</b>. This is going to be difficult"}]flatter, quicker, and <b>this one turns past the edge</b>. This is going to be difficult
+flatter, quicker, and <b>this one turns past the edge</b>. This is going to be difficult
 
 
 Balls faced: 11
 Bowler: Jadeja
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller, Foakes looks to drive, hit on the inner half of the bat"}]fuller, Foakes looks to drive, hit on the inner half of the bat
+fuller, Foakes looks to drive, hit on the inner half of the bat
 
 
 Balls faced: 12
 Bowler: Jadeja
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, just outside off, defended off the front foot"}]on a length, just outside off, defended off the front foot
+on a length, just outside off, defended off the front foot
 
 
 Balls faced: 13
 Bowler: Jadeja
 Over: 25
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "<strong>12.08pm</strong> Ben Foakes is the new batter in. Ravindra Jadeja will complete the over he started before lunch"}, {"type": "HTML", "html": "<strong>Noon</strong> Thanks Monty. Welcome back, y'all. How ya doin'? We have had three Tests that took their time, but this one is on steroids. A different kind of Test. Five wickets in a session with appreciable seam movement followed by some turn and then a shooter to end the session. It will be hectic."}]<strong>12.08pm</strong> Ben Foakes is the new batter in. Ravindra Jadeja will complete the over he started before lunch <strong>Noon</strong> Thanks Monty. Welcome back, y'all. How ya doin'? We have had three Tests that took their time, but this one is on steroids. A different kind of Test. Five wickets in a session with appreciable seam movement followed by some turn and then a shooter to end the session. It will be hectic.
+<strong>12.08pm</strong> Ben Foakes is the new batter in. Ravindra Jadeja will complete the over he started before lunch <strong>Noon</strong> Thanks Monty. Welcome back, y'all. How ya doin'? We have had three Tests that took their time, but this one is on steroids. A different kind of Test. Five wickets in a session with appreciable seam movement followed by some turn and then a shooter to end the session. It will be hectic.
 
-[{"type": "HTML", "html": "overpitched, clipped off the toes, past square leg for two"}]overpitched, clipped off the toes, past square leg for two
+overpitched, clipped off the toes, past square leg for two
 
 
 Balls faced: 14
 Bowler: Jadeja
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "looks to slow it down, ends up bowling a full toss, pushed straight of mid-off for a single"}]looks to slow it down, ends up bowling a full toss, pushed straight of mid-off for a single
+looks to slow it down, ends up bowling a full toss, pushed straight of mid-off for a single
 
 
 Balls faced: 15
 Bowler: Jadeja
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows this down, outside off, left alone"}]slows this down, outside off, left alone
+slows this down, outside off, left alone
 
 
 Balls faced: 16
 Bowler: Jadeja
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, middle and off, defended off the front foot"}]on a length, middle and off, defended off the front foot
+on a length, middle and off, defended off the front foot
 
 
 Balls faced: 17
 Bowler: Jadeja
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "too full, nearly a yorker, dug out to cover"}]too full, nearly a yorker, dug out to cover
+too full, nearly a yorker, dug out to cover
 
 
 Balls faced: 18
 Bowler: Jadeja
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nice drift, middle and leg, on a length, defended to leg"}]nice drift, middle and leg, on a length, defended to leg
+nice drift, middle and leg, on a length, defended to leg
 
 
 Balls faced: 19
 Bowler: Ashwin
 Over: 26
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on a length, outside leg, worked to leg for a single"}]on a length, outside leg, worked to leg for a single
+on a length, outside leg, worked to leg for a single
 
 
 Balls faced: 20
 Bowler: Ashwin
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slow in the air, nice dip and drift, defended to leg"}]slow in the air, nice dip and drift, defended to leg
+slow in the air, nice dip and drift, defended to leg
 
 
 Balls faced: 21
 Bowler: Ashwin
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pitched up, on the pads, flicked to short midwicket"}]pitched up, on the pads, flicked to short midwicket
+pitched up, on the pads, flicked to short midwicket
 
 
 Balls faced: 22
 Bowler: Ashwin
 Over: 28
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Ashwin looking to bowl quicker today because the pitch is doing things"}]Ashwin looking to bowl quicker today because the pitch is doing things
+Ashwin looking to bowl quicker today because the pitch is doing things
 
-[{"type": "HTML", "html": "slows this down, too full, flicked to deep midwicket for a couple"}]slows this down, too full, flicked to deep midwicket for a couple
+slows this down, too full, flicked to deep midwicket for a couple
 
 
 Balls faced: 23
 Bowler: Jadeja
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "looks to slow it down, ends up bowling a full toss, pushed straight of mid-off for a single"}]looks to slow it down, ends up bowling a full toss, pushed straight of mid-off for a single
+looks to slow it down, ends up bowling a full toss, pushed straight of mid-off for a single
 
 
 Balls faced: 24
 Bowler: Jadeja
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows this down, outside off, left alone"}]slows this down, outside off, left alone
+slows this down, outside off, left alone
 
 
 Balls faced: 25
 Bowler: Jadeja
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, middle and off, defended off the front foot"}]on a length, middle and off, defended off the front foot
+on a length, middle and off, defended off the front foot
 
 
 Balls faced: 26
 Bowler: Jadeja
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "too full, nearly a yorker, dug out to cover"}]too full, nearly a yorker, dug out to cover
+too full, nearly a yorker, dug out to cover
 
 
 Balls faced: 27
 Bowler: Jadeja
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nice drift, middle and leg, on a length, defended to leg"}]nice drift, middle and leg, on a length, defended to leg
+nice drift, middle and leg, on a length, defended to leg
 
 
 Balls faced: 28
 Bowler: Jadeja
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drifting in, middle and leg, defended to leg"}]drifting in, middle and leg, defended to leg
+drifting in, middle and leg, defended to leg
 
 
 Balls faced: 29
 Bowler: Jadeja
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, quicker, fuller, defended off the back foot"}]flatter, quicker, fuller, defended off the back foot
+flatter, quicker, fuller, defended off the back foot
 
 
 Balls faced: 30
 Bowler: Jadeja
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower in the air now, Foakes comes forward to defend. Hits on the inner half of the bat"}]slower in the air now, Foakes comes forward to defend. Hits on the inner half of the bat
+slower in the air now, Foakes comes forward to defend. Hits on the inner half of the bat
 
 
 Balls faced: 31
 Bowler: Jadeja
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays back to a quick length ball and defends"}]stays back to a quick length ball and defends
+stays back to a quick length ball and defends
 
 
 Balls faced: 32
 Bowler: Ashwin
 Over: 28
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Ashwin looking to bowl quicker today because the pitch is doing things"}]Ashwin looking to bowl quicker today because the pitch is doing things
+Ashwin looking to bowl quicker today because the pitch is doing things
 
-[{"type": "HTML", "html": "slows this down, too full, flicked to deep midwicket for a couple"}]slows this down, too full, flicked to deep midwicket for a couple
+slows this down, too full, flicked to deep midwicket for a couple
 
 
 Balls faced: 33
 Bowler: Ashwin
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, middle and off, defended off the back foot"}]on a length, middle and off, defended off the back foot
+on a length, middle and off, defended off the back foot
 
 
 Balls faced: 34
 Bowler: Jadeja
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drifting in, middle and leg, defended to leg"}]drifting in, middle and leg, defended to leg
+drifting in, middle and leg, defended to leg
 
 
 Balls faced: 35
 Bowler: Jadeja
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, quicker, fuller, defended off the back foot"}]flatter, quicker, fuller, defended off the back foot
+flatter, quicker, fuller, defended off the back foot
 
 
 Balls faced: 36
 Bowler: Jadeja
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower in the air now, Foakes comes forward to defend. Hits on the inner half of the bat"}]slower in the air now, Foakes comes forward to defend. Hits on the inner half of the bat
+slower in the air now, Foakes comes forward to defend. Hits on the inner half of the bat
 
 
 Balls faced: 37
 Bowler: Jadeja
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays back to a quick length ball and defends"}]stays back to a quick length ball and defends
+stays back to a quick length ball and defends
 
 
 Balls faced: 38
 Bowler: Ashwin
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, middle and off, defended off the back foot"}]on a length, middle and off, defended off the back foot
+on a length, middle and off, defended off the back foot
 
 
 Balls faced: 39
 Bowler: Ashwin
 Over: 32
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "too full, flicked to deep midwicket for a single"}]too full, flicked to deep midwicket for a single
+too full, flicked to deep midwicket for a single
 
 
 Balls faced: 40
 Bowler: Ashwin
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a touch of flight, 93ks, pushed to short mid-on"}]a touch of flight, 93ks, pushed to short mid-on
+a touch of flight, 93ks, pushed to short mid-on
 
 
 Balls faced: 41
 Bowler: Ashwin
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, 94ks, defended from the crease"}]on a length, 94ks, defended from the crease
+on a length, 94ks, defended from the crease
 
 
 Balls faced: 42
 Bowler: Ashwin
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, middle and leg, pushed to mid-on"}]on a length, middle and leg, pushed to mid-on
+on a length, middle and leg, pushed to mid-on
 
 
 Balls faced: 43
 Bowler: Jadeja
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, middle and leg, right behind it"}]full, middle and leg, right behind it
+full, middle and leg, right behind it
 
 
 Balls faced: 44
 Bowler: Jadeja
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, outside off, pushed to cover"}]full, outside off, pushed to cover
+full, outside off, pushed to cover
 
 
 Balls faced: 45
 Bowler: Jadeja
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows it down, good length, middle and off, defended back to him"}]slows it down, good length, middle and off, defended back to him
+slows it down, good length, middle and off, defended back to him
 
 
 Balls faced: 46
 Bowler: Jadeja
 Over: 33
+Pitch Line: DOWN_LEG Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nice drift, middle and leg, pushed to mid-on"}]nice drift, middle and leg, pushed to mid-on
+nice drift, middle and leg, pushed to mid-on
 
 
 Balls faced: 47
 Bowler: Jadeja
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes back to defend a length ball. He has just seen the trajectory and gone back"}]goes back to defend a length ball. He has just seen the trajectory and gone back
+goes back to defend a length ball. He has just seen the trajectory and gone back
 
 
 Balls faced: 48
 Bowler: Ashwin
 Over: 32
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "too full, flicked to deep midwicket for a single"}]too full, flicked to deep midwicket for a single
+too full, flicked to deep midwicket for a single
 
 
 Balls faced: 49
 Bowler: Ashwin
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a touch of flight, 93ks, pushed to short mid-on"}]a touch of flight, 93ks, pushed to short mid-on
+a touch of flight, 93ks, pushed to short mid-on
 
 
 Balls faced: 50
 Bowler: Ashwin
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, 94ks, defended from the crease"}]on a length, 94ks, defended from the crease
+on a length, 94ks, defended from the crease
 
 
 Balls faced: 51
 Bowler: Ashwin
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, middle and leg, pushed to mid-on"}]on a length, middle and leg, pushed to mid-on
+on a length, middle and leg, pushed to mid-on
 
 
 Balls faced: 52
 Bowler: Jadeja
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, middle and leg, right behind it"}]full, middle and leg, right behind it
+full, middle and leg, right behind it
 
 
 Balls faced: 53
 Bowler: Jadeja
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, outside off, pushed to cover"}]full, outside off, pushed to cover
+full, outside off, pushed to cover
 
 
 Balls faced: 54
 Bowler: Jadeja
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows it down, good length, middle and off, defended back to him"}]slows it down, good length, middle and off, defended back to him
+slows it down, good length, middle and off, defended back to him
 
 
 Balls faced: 55
 Bowler: Jadeja
 Over: 33
+Pitch Line: DOWN_LEG Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "nice drift, middle and leg, pushed to mid-on"}]nice drift, middle and leg, pushed to mid-on
+nice drift, middle and leg, pushed to mid-on
 
 
 Balls faced: 56
 Bowler: Jadeja
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes back to defend a length ball. He has just seen the trajectory and gone back"}]goes back to defend a length ball. He has just seen the trajectory and gone back
+goes back to defend a length ball. He has just seen the trajectory and gone back
 
 
 Balls faced: 57
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>appeal for lbw</strong> but he seems to have got an inside edge on it as it nips back in. No review"}]<strong>appeal for lbw</strong> but he seems to have got an inside edge on it as it nips back in. No review
+<strong>appeal for lbw</strong> but he seems to have got an inside edge on it as it nips back in. No review
 
 
 Balls faced: 58
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "again stays on a length, hits the outer half of the bat as he defends from the crease"}]again stays on a length, hits the outer half of the bat as he defends from the crease
+again stays on a length, hits the outer half of the bat as he defends from the crease
 
 
 Balls faced: 59
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, again slight shape in, pushed to mid-on"}]on a length, again slight shape in, pushed to mid-on
+on a length, again slight shape in, pushed to mid-on
 
 
 Balls faced: 60
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, hits the bat high as Foakes defends"}]on a length, hits the bat high as Foakes defends
+on a length, hits the bat high as Foakes defends
 
 
 Balls faced: 61
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, angling in, pushed to mid-on"}]on a length, angling in, pushed to mid-on
+on a length, angling in, pushed to mid-on
 
 
 Balls faced: 62
 Bowler: Akash Deep
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Ashwin hasn't been in the best of rhythms. Akash Deep replaces him. Still no Kuldeep"}]Ashwin hasn't been in the best of rhythms. Akash Deep replaces him. Still no Kuldeep
+Ashwin hasn't been in the best of rhythms. Akash Deep replaces him. Still no Kuldeep
 
-[{"type": "HTML", "html": "on a length, clipped off the pads, Siraj misfields at midwicket to allow two"}]on a length, clipped off the pads, Siraj misfields at midwicket to allow two
+on a length, clipped off the pads, Siraj misfields at midwicket to allow two
 
 
 Balls faced: 63
 Bowler: Jadeja
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, goes back to punch this to cover"}]on a length, goes back to punch this to cover
+on a length, goes back to punch this to cover
 
 
 Balls faced: 64
 Bowler: Jadeja
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, middle, slightly slower, 92ks, defended to mid-on"}]full, middle, slightly slower, 92ks, defended to mid-on
+full, middle, slightly slower, 92ks, defended to mid-on
 
 
 Balls faced: 65
 Bowler: Jadeja
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this time he hits the inner part of the bat as he defends"}]this time he hits the inner part of the bat as he defends
+this time he hits the inner part of the bat as he defends
 
 
 Balls faced: 66
 Bowler: Jadeja
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "right forward to defend"}]right forward to defend
+right forward to defend
 
 
 Balls faced: 67
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>appeal for lbw</strong> but he seems to have got an inside edge on it as it nips back in. No review"}]<strong>appeal for lbw</strong> but he seems to have got an inside edge on it as it nips back in. No review
+<strong>appeal for lbw</strong> but he seems to have got an inside edge on it as it nips back in. No review
 
 
 Balls faced: 68
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "again stays on a length, hits the outer half of the bat as he defends from the crease"}]again stays on a length, hits the outer half of the bat as he defends from the crease
+again stays on a length, hits the outer half of the bat as he defends from the crease
 
 
 Balls faced: 69
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, again slight shape in, pushed to mid-on"}]on a length, again slight shape in, pushed to mid-on
+on a length, again slight shape in, pushed to mid-on
 
 
 Balls faced: 70
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, hits the bat high as Foakes defends"}]on a length, hits the bat high as Foakes defends
+on a length, hits the bat high as Foakes defends
 
 
 Balls faced: 71
 Bowler: Akash Deep
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, angling in, pushed to mid-on"}]on a length, angling in, pushed to mid-on
+on a length, angling in, pushed to mid-on
 
 
 Balls faced: 72
 Bowler: Akash Deep
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Ashwin hasn't been in the best of rhythms. Akash Deep replaces him. Still no Kuldeep"}]Ashwin hasn't been in the best of rhythms. Akash Deep replaces him. Still no Kuldeep
+Ashwin hasn't been in the best of rhythms. Akash Deep replaces him. Still no Kuldeep
 
-[{"type": "HTML", "html": "on a length, clipped off the pads, Siraj misfields at midwicket to allow two"}]on a length, clipped off the pads, Siraj misfields at midwicket to allow two
+on a length, clipped off the pads, Siraj misfields at midwicket to allow two
 
 
 Balls faced: 73
 Bowler: Akash Deep
 Over: 38
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length, 136ks, pushed in front of point for one"}]short of a length, 136ks, pushed in front of point for one
+short of a length, 136ks, pushed in front of point for one
 
 
 Balls faced: 74
 Bowler: Akash Deep
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays a touch low, 140ks, defended from the crease"}]stays a touch low, 140ks, defended from the crease
+stays a touch low, 140ks, defended from the crease
 
 
 Balls faced: 75
 Bowler: Jadeja
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, goes back to punch this to cover"}]on a length, goes back to punch this to cover
+on a length, goes back to punch this to cover
 
 
 Balls faced: 76
 Bowler: Jadeja
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, middle, slightly slower, 92ks, defended to mid-on"}]full, middle, slightly slower, 92ks, defended to mid-on
+full, middle, slightly slower, 92ks, defended to mid-on
 
 
 Balls faced: 77
 Bowler: Jadeja
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this time he hits the inner part of the bat as he defends"}]this time he hits the inner part of the bat as he defends
+this time he hits the inner part of the bat as he defends
 
 
 Balls faced: 78
 Bowler: Jadeja
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "right forward to defend"}]right forward to defend
+right forward to defend
 
 
 Balls faced: 79
 Bowler: Jadeja
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "more turn, <b>gets a soft edge</b> this time for a single to the left of short third"}]more turn, <b>gets a soft edge</b> this time for a single to the left of short third
+more turn, <b>gets a soft edge</b> this time for a single to the left of short third
 
 
 Balls faced: 80
 Bowler: Jadeja
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, just outside off, slows it down, <b>turns past the edge</b>"}]on a length, just outside off, slows it down, <b>turns past the edge</b>
+on a length, just outside off, slows it down, <b>turns past the edge</b>
 
 
 Balls faced: 81
 Bowler: Jadeja
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off, left alone"}]full outside off, left alone
+full outside off, left alone
 
 
 Balls faced: 82
 Bowler: Jadeja
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, outside off, bottom edge as he looks to force it through covers"}]on a length, outside off, bottom edge as he looks to force it through covers
+on a length, outside off, bottom edge as he looks to force it through covers
 
 
 Balls faced: 83
 Bowler: Akash Deep
 Over: 38
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length, 136ks, pushed in front of point for one"}]short of a length, 136ks, pushed in front of point for one
+short of a length, 136ks, pushed in front of point for one
 
 
 Balls faced: 84
 Bowler: Akash Deep
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays a touch low, 140ks, defended from the crease"}]stays a touch low, 140ks, defended from the crease
+stays a touch low, 140ks, defended from the crease
 
 
 Balls faced: 85
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slight shape in, nicely worked away off the pad for a single to deep square leg"}]slight shape in, nicely worked away off the pad for a single to deep square leg
+slight shape in, nicely worked away off the pad for a single to deep square leg
 
 
 Balls faced: 86
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets closer to off, top of off, defended to cover"}]gets closer to off, top of off, defended to cover
+gets closer to off, top of off, defended to cover
 
 
 Balls faced: 87
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "wide length ball, pushed between point and cover for two"}]wide length ball, pushed between point and cover for two
+wide length ball, pushed between point and cover for two
 
 
 Balls faced: 88
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Selvapandi: \"When people from small cities , after years of toiling hard in domestic cricket comes and have a great debut like Deep did today morning , it gives a feel that we ourselves have won. And how fitting it is for him to debut in the home town of such a successful small city player who inspired a generation to dream big, who changed the land scape of Indian cricket. M S Dhoni. \""}]Selvapandi: "When people from small cities , after years of toiling hard in domestic cricket comes and have a great debut like Deep did today morning , it gives a feel that we ourselves have won. And how fitting it is for him to debut in the home town of such a successful small city player who inspired a generation to dream big, who changed the land scape of Indian cricket. M S Dhoni. "
+Selvapandi: "When people from small cities , after years of toiling hard in domestic cricket comes and have a great debut like Deep did today morning , it gives a feel that we ourselves have won. And how fitting it is for him to debut in the home town of such a successful small city player who inspired a generation to dream big, who changed the land scape of Indian cricket. M S Dhoni. "
 
-[{"type": "HTML", "html": "full, middle and off, pushed to mid-on"}]full, middle and off, pushed to mid-on
+full, middle and off, pushed to mid-on
 
 
 Balls faced: 89
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "\"Rohit remembers new DEEP but forgotten old KulDEEP. Is he not on field?\" V S Srinivasan, he is. I guess he will be in after Jadeja"}]"Rohit remembers new DEEP but forgotten old KulDEEP. Is he not on field?" V S Srinivasan, he is. I guess he will be in after Jadeja
+"Rohit remembers new DEEP but forgotten old KulDEEP. Is he not on field?" V S Srinivasan, he is. I guess he will be in after Jadeja
 
-[{"type": "HTML", "html": "wide length ball, left alone"}]wide length ball, left alone
+wide length ball, left alone
 
 
 Balls faced: 90
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, just outside off, Foakes is forward in defence"}]on a length, just outside off, Foakes is forward in defence
+on a length, just outside off, Foakes is forward in defence
 
 
 Balls faced: 91
 Bowler: Jadeja
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "more turn, <b>gets a soft edge</b> this time for a single to the left of short third"}]more turn, <b>gets a soft edge</b> this time for a single to the left of short third
+more turn, <b>gets a soft edge</b> this time for a single to the left of short third
 
 
 Balls faced: 92
 Bowler: Jadeja
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, just outside off, slows it down, <b>turns past the edge</b>"}]on a length, just outside off, slows it down, <b>turns past the edge</b>
+on a length, just outside off, slows it down, <b>turns past the edge</b>
 
 
 Balls faced: 93
 Bowler: Jadeja
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off, left alone"}]full outside off, left alone
+full outside off, left alone
 
 
 Balls faced: 94
 Bowler: Jadeja
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, outside off, bottom edge as he looks to force it through covers"}]on a length, outside off, bottom edge as he looks to force it through covers
+on a length, outside off, bottom edge as he looks to force it through covers
 
 
 Balls faced: 95
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "closer to the umpire on release, fires it in at 97ks, on a length. Defended from the back foot"}]closer to the umpire on release, fires it in at 97ks, on a length. Defended from the back foot
+closer to the umpire on release, fires it in at 97ks, on a length. Defended from the back foot
 
 
 Balls faced: 96
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows this one down, defended off the front foot"}]slows this one down, defended off the front foot
+slows this one down, defended off the front foot
 
 
 Balls faced: 97
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted but still quick, 96ks, pushed to mid-off"}]flighted but still quick, 96ks, pushed to mid-off
+flighted but still quick, 96ks, pushed to mid-off
 
 
 Balls faced: 98
 Bowler: Jadeja
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker, drifting in, defended off the back foot"}]quicker, drifting in, defended off the back foot
+quicker, drifting in, defended off the back foot
 
 
 Balls faced: 99
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, slow in the air, 91ks, defended off the front foot"}]on a length, slow in the air, 91ks, defended off the front foot
+on a length, slow in the air, 91ks, defended off the front foot
 
 
 Balls faced: 100
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slightly short of a length, Foakes rocks back to punch it, but can't beat short cover"}]slightly short of a length, Foakes rocks back to punch it, but can't beat short cover
+slightly short of a length, Foakes rocks back to punch it, but can't beat short cover
 
 
 Balls faced: 101
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slight shape in, nicely worked away off the pad for a single to deep square leg"}]slight shape in, nicely worked away off the pad for a single to deep square leg
+slight shape in, nicely worked away off the pad for a single to deep square leg
 
 
 Balls faced: 102
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets closer to off, top of off, defended to cover"}]gets closer to off, top of off, defended to cover
+gets closer to off, top of off, defended to cover
 
 
 Balls faced: 103
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "wide length ball, pushed between point and cover for two"}]wide length ball, pushed between point and cover for two
+wide length ball, pushed between point and cover for two
 
 
 Balls faced: 104
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Selvapandi: \"When people from small cities , after years of toiling hard in domestic cricket comes and have a great debut like Deep did today morning , it gives a feel that we ourselves have won. And how fitting it is for him to debut in the home town of such a successful small city player who inspired a generation to dream big, who changed the land scape of Indian cricket. M S Dhoni. \""}]Selvapandi: "When people from small cities , after years of toiling hard in domestic cricket comes and have a great debut like Deep did today morning , it gives a feel that we ourselves have won. And how fitting it is for him to debut in the home town of such a successful small city player who inspired a generation to dream big, who changed the land scape of Indian cricket. M S Dhoni. "
+Selvapandi: "When people from small cities , after years of toiling hard in domestic cricket comes and have a great debut like Deep did today morning , it gives a feel that we ourselves have won. And how fitting it is for him to debut in the home town of such a successful small city player who inspired a generation to dream big, who changed the land scape of Indian cricket. M S Dhoni. "
 
-[{"type": "HTML", "html": "full, middle and off, pushed to mid-on"}]full, middle and off, pushed to mid-on
+full, middle and off, pushed to mid-on
 
 
 Balls faced: 105
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "\"Rohit remembers new DEEP but forgotten old KulDEEP. Is he not on field?\" V S Srinivasan, he is. I guess he will be in after Jadeja"}]"Rohit remembers new DEEP but forgotten old KulDEEP. Is he not on field?" V S Srinivasan, he is. I guess he will be in after Jadeja
+"Rohit remembers new DEEP but forgotten old KulDEEP. Is he not on field?" V S Srinivasan, he is. I guess he will be in after Jadeja
 
-[{"type": "HTML", "html": "wide length ball, left alone"}]wide length ball, left alone
+wide length ball, left alone
 
 
 Balls faced: 106
 Bowler: Akash Deep
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, just outside off, Foakes is forward in defence"}]on a length, just outside off, Foakes is forward in defence
+on a length, just outside off, Foakes is forward in defence
 
 
 Balls faced: 107
 Bowler: Kuldeep
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows it down, gets drift, Foakes defends off the front foot"}]slows it down, gets drift, Foakes defends off the front foot
+slows it down, gets drift, Foakes defends off the front foot
 
 
 Balls faced: 108
 Bowler: Kuldeep
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slightly flatter, Foakes goes back to defend"}]slightly flatter, Foakes goes back to defend
+slightly flatter, Foakes goes back to defend
 
 
 Balls faced: 109
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "closer to the umpire on release, fires it in at 97ks, on a length. Defended from the back foot"}]closer to the umpire on release, fires it in at 97ks, on a length. Defended from the back foot
+closer to the umpire on release, fires it in at 97ks, on a length. Defended from the back foot
 
 
 Balls faced: 110
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows this one down, defended off the front foot"}]slows this one down, defended off the front foot
+slows this one down, defended off the front foot
 
 
 Balls faced: 111
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted but still quick, 96ks, pushed to mid-off"}]flighted but still quick, 96ks, pushed to mid-off
+flighted but still quick, 96ks, pushed to mid-off
 
 
 Balls faced: 112
 Bowler: Jadeja
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker, drifting in, defended off the back foot"}]quicker, drifting in, defended off the back foot
+quicker, drifting in, defended off the back foot
 
 
 Balls faced: 113
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, slow in the air, 91ks, defended off the front foot"}]on a length, slow in the air, 91ks, defended off the front foot
+on a length, slow in the air, 91ks, defended off the front foot
 
 
 Balls faced: 114
 Bowler: Jadeja
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slightly short of a length, Foakes rocks back to punch it, but can't beat short cover"}]slightly short of a length, Foakes rocks back to punch it, but can't beat short cover
+slightly short of a length, Foakes rocks back to punch it, but can't beat short cover
 
 
 Balls faced: 115
 Bowler: Akash Deep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Deep bowls almost always from wide on the crease. Perhaps he needs to use the crease a little better and also bowl from closer to the umpire"}]Deep bowls almost always from wide on the crease. Perhaps he needs to use the crease a little better and also bowl from closer to the umpire
+Deep bowls almost always from wide on the crease. Perhaps he needs to use the crease a little better and also bowl from closer to the umpire
 
-[{"type": "HTML", "html": "oh he gets pretty tight on the umpire this time. Foakes drives the full ball beautifully down the ground but it clatters into the wicket at the non-striker's end"}]oh he gets pretty tight on the umpire this time. Foakes drives the full ball beautifully down the ground but it clatters into the wicket at the non-striker's end
+oh he gets pretty tight on the umpire this time. Foakes drives the full ball beautifully down the ground but it clatters into the wicket at the non-striker's end
 
 
 Balls faced: 116
 Bowler: Akash Deep
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, into the body, worked to square leg"}]short of a length, into the body, worked to square leg
+short of a length, into the body, worked to square leg
 
 
 Balls faced: 117
 Bowler: Akash Deep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "The ball hasn't misbehaved at all since lunch"}]The ball hasn't misbehaved at all since lunch
+The ball hasn't misbehaved at all since lunch
 
-[{"type": "HTML", "html": "and just then, one nips back in appreciably, hits the thigh pad, and Jaiswal dives over it at slip to allow four leg-byes"}]and just then, one nips back in appreciably, hits the thigh pad, and Jaiswal dives over it at slip to allow four leg-byes
+and just then, one nips back in appreciably, hits the thigh pad, and Jaiswal dives over it at slip to allow four leg-byes
 
 Legbyes: 4
 Balls faced: 118
 Bowler: Akash Deep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this man never leaves the good length. Defended off the back foot"}]this man never leaves the good length. Defended off the back foot
+this man never leaves the good length. Defended off the back foot
 
 
 Balls faced: 119
 Bowler: Akash Deep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, middle-stump line, 136ks, defended to leg"}]on a length, middle-stump line, 136ks, defended to leg
+on a length, middle-stump line, 136ks, defended to leg
 
 
 Balls faced: 120
 Bowler: Kuldeep
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows it down, gets drift, Foakes defends off the front foot"}]slows it down, gets drift, Foakes defends off the front foot
+slows it down, gets drift, Foakes defends off the front foot
 
 
 Balls faced: 121
 Bowler: Kuldeep
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slightly flatter, Foakes goes back to defend"}]slightly flatter, Foakes goes back to defend
+slightly flatter, Foakes goes back to defend
 
 
 Balls faced: 122
 Bowler: Kuldeep
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, slightly quicker, 86ks, defended off the front foot"}]full, slightly quicker, 86ks, defended off the front foot
-[{"type": "HTML", "html": "England have done well since lunch. Batted a whole hour without losing a wicket. To be fair, the pitch has also gone to sleep. Alan is here to bring you the rest of the session"}]England have done well since lunch. Batted a whole hour without losing a wicket. To be fair, the pitch has also gone to sleep. Alan is here to bring you the rest of the session
+full, slightly quicker, 86ks, defended off the front foot
+England have done well since lunch. Batted a whole hour without losing a wicket. To be fair, the pitch has also gone to sleep. Alan is here to bring you the rest of the session
 
 Balls faced: 123
 Bowler: Kuldeep
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "overpitched, 83ks, Foakes shimmies a little and push-drives it between Kuldeep and the non-striker. He was denied four last over by the wicket at the non-striker's but this time he has placed it perfectly"}]overpitched, 83ks, Foakes shimmies a little and push-drives it between Kuldeep and the non-striker. He was denied four last over by the wicket at the non-striker's but this time he has placed it perfectly
+overpitched, 83ks, Foakes shimmies a little and push-drives it between Kuldeep and the non-striker. He was denied four last over by the wicket at the non-striker's but this time he has placed it perfectly
 
 
 Balls faced: 124
 Bowler: Kuldeep
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, drifting away, 82ks, defended with an open face"}]full, drifting away, 82ks, defended with an open face
+full, drifting away, 82ks, defended with an open face
 
 
 Balls faced: 125
 Bowler: Kuldeep
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker, back of a length, 86ks, Foakes goes back to turn it to short leg"}]quicker, back of a length, 86ks, Foakes goes back to turn it to short leg
+quicker, back of a length, 86ks, Foakes goes back to turn it to short leg
 
 
 Balls faced: 126
 Bowler: Akash Deep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Deep bowls almost always from wide on the crease. Perhaps he needs to use the crease a little better and also bowl from closer to the umpire"}]Deep bowls almost always from wide on the crease. Perhaps he needs to use the crease a little better and also bowl from closer to the umpire
+Deep bowls almost always from wide on the crease. Perhaps he needs to use the crease a little better and also bowl from closer to the umpire
 
-[{"type": "HTML", "html": "oh he gets pretty tight on the umpire this time. Foakes drives the full ball beautifully down the ground but it clatters into the wicket at the non-striker's end"}]oh he gets pretty tight on the umpire this time. Foakes drives the full ball beautifully down the ground but it clatters into the wicket at the non-striker's end
+oh he gets pretty tight on the umpire this time. Foakes drives the full ball beautifully down the ground but it clatters into the wicket at the non-striker's end
 
 
 Balls faced: 127
 Bowler: Akash Deep
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, into the body, worked to square leg"}]short of a length, into the body, worked to square leg
+short of a length, into the body, worked to square leg
 
 
 Balls faced: 128
 Bowler: Akash Deep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "The ball hasn't misbehaved at all since lunch"}]The ball hasn't misbehaved at all since lunch
+The ball hasn't misbehaved at all since lunch
 
-[{"type": "HTML", "html": "and just then, one nips back in appreciably, hits the thigh pad, and Jaiswal dives over it at slip to allow four leg-byes"}]and just then, one nips back in appreciably, hits the thigh pad, and Jaiswal dives over it at slip to allow four leg-byes
+and just then, one nips back in appreciably, hits the thigh pad, and Jaiswal dives over it at slip to allow four leg-byes
 
 Legbyes: 4
 Balls faced: 129
 Bowler: Akash Deep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this man never leaves the good length. Defended off the back foot"}]this man never leaves the good length. Defended off the back foot
+this man never leaves the good length. Defended off the back foot
 
 
 Balls faced: 130
 Bowler: Akash Deep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, middle-stump line, 136ks, defended to leg"}]on a length, middle-stump line, 136ks, defended to leg
+on a length, middle-stump line, 136ks, defended to leg
 
 
 Balls faced: 131
 Bowler: Kuldeep
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, slightly quicker, 86ks, defended off the front foot"}]full, slightly quicker, 86ks, defended off the front foot
-[{"type": "HTML", "html": "England have done well since lunch. Batted a whole hour without losing a wicket. To be fair, the pitch has also gone to sleep. Alan is here to bring you the rest of the session"}]England have done well since lunch. Batted a whole hour without losing a wicket. To be fair, the pitch has also gone to sleep. Alan is here to bring you the rest of the session
+full, slightly quicker, 86ks, defended off the front foot
+England have done well since lunch. Batted a whole hour without losing a wicket. To be fair, the pitch has also gone to sleep. Alan is here to bring you the rest of the session
 
 Balls faced: 132
 Bowler: Kuldeep
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "overpitched, 83ks, Foakes shimmies a little and push-drives it between Kuldeep and the non-striker. He was denied four last over by the wicket at the non-striker's but this time he has placed it perfectly"}]overpitched, 83ks, Foakes shimmies a little and push-drives it between Kuldeep and the non-striker. He was denied four last over by the wicket at the non-striker's but this time he has placed it perfectly
+overpitched, 83ks, Foakes shimmies a little and push-drives it between Kuldeep and the non-striker. He was denied four last over by the wicket at the non-striker's but this time he has placed it perfectly
 
 
 Balls faced: 133
 Bowler: Kuldeep
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, drifting away, 82ks, defended with an open face"}]full, drifting away, 82ks, defended with an open face
+full, drifting away, 82ks, defended with an open face
 
 
 Balls faced: 134
 Bowler: Kuldeep
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker, back of a length, 86ks, Foakes goes back to turn it to short leg"}]quicker, back of a length, 86ks, Foakes goes back to turn it to short leg
+quicker, back of a length, 86ks, Foakes goes back to turn it to short leg
 
 
 Balls faced: 135
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this scuttles through a touch low but Foakes is equal to it playing back on off stump"}]this scuttles through a touch low but Foakes is equal to it playing back on off stump
-[{"type": "HTML", "html": "\"India starting to miss Bumrah with the old ball?!\" Fair observation, ARK. This is prime time for him to get to work with reverse"}]"India starting to miss Bumrah with the old ball?!" Fair observation, ARK. This is prime time for him to get to work with reverse
+this scuttles through a touch low but Foakes is equal to it playing back on off stump
+"India starting to miss Bumrah with the old ball?!" Fair observation, ARK. This is prime time for him to get to work with reverse
 
 Balls faced: 136
 Bowler: Kuldeep
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "clipped to midwicket"}]clipped to midwicket
+clipped to midwicket
 
 
 Balls faced: 137
 Bowler: Kuldeep
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly, I think, defended coming forwards on middle and leg"}]googly, I think, defended coming forwards on middle and leg
-[{"type": "HTML", "html": "\"I'd love people to realise at some point that England's top order aren't good enough for 'proper test batting',\" says Simran. \"Bazball is just about maximising their potential and output by having them play in attacking manner. Pope, Root and Foakes, all have the skills and first-class record to play in this way, and so when the situation requires it, they do.\""}]"I'd love people to realise at some point that England's top order aren't good enough for 'proper test batting'," says Simran. "Bazball is just about maximising their potential and output by having them play in attacking manner. Pope, Root and Foakes, all have the skills and first-class record to play in this way, and so when the situation requires it, they do."
+googly, I think, defended coming forwards on middle and leg
+"I'd love people to realise at some point that England's top order aren't good enough for 'proper test batting'," says Simran. "Bazball is just about maximising their potential and output by having them play in attacking manner. Pope, Root and Foakes, all have the skills and first-class record to play in this way, and so when the situation requires it, they do."
 
 Balls faced: 138
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted, 85kph outside off stump. Tapped square"}]flighted, 85kph outside off stump. Tapped square
+flighted, 85kph outside off stump. Tapped square
 
 
 Balls faced: 139
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through quicker, skips on to be met with a straight bat"}]pushed through quicker, skips on to be met with a straight bat
+pushed through quicker, skips on to be met with a straight bat
 
 
 Balls faced: 140
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kuldeep continues, slip and short straight mid-on"}, {"type": "HTML", "html": "Here's Hayes: \"Bit confused by this Bazball, Australia have made the same amount of runs as England in half the time. England need to up their run rate.\" <a href=https://www.espncricinfo.com/series/australia-in-new-zealand-2023-24-1388188/new-zealand-vs-australia-2nd-t20i-1388224/live-cricket-score>He's not wrong</a>, you know"}]Kuldeep continues, slip and short straight mid-on Here's Hayes: "Bit confused by this Bazball, Australia have made the same amount of runs as England in half the time. England need to up their run rate." <a href=https://www.espncricinfo.com/series/australia-in-new-zealand-2023-24-1388188/new-zealand-vs-australia-2nd-t20i-1388224/live-cricket-score>He's not wrong</a>, you know
+Kuldeep continues, slip and short straight mid-on Here's Hayes: "Bit confused by this Bazball, Australia have made the same amount of runs as England in half the time. England need to up their run rate." <a href=https://www.espncricinfo.com/series/australia-in-new-zealand-2023-24-1388188/new-zealand-vs-australia-2nd-t20i-1388224/live-cricket-score>He's not wrong</a>, you know
 
-[{"type": "HTML", "html": "length ball straightening from over the wicket, blocked"}]length ball straightening from over the wicket, blocked
+length ball straightening from over the wicket, blocked
 
 
 Balls faced: 141
 Bowler: Akash Deep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "similar line, once again steered square on the off side"}]similar line, once again steered square on the off side
+similar line, once again steered square on the off side
 
 
 Balls faced: 142
 Bowler: Akash Deep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, 137kph/85mph and defended to point"}]back of a length, 137kph/85mph and defended to point
-[{"type": "HTML", "html": "\"This is currently the slowest 50 partnership of the Bazball error, with a RR of 2.54,\" claims Caleb, and he seems a trustworthy sort. \"The previous slowest was a RR of 3.0 in the very first test under McCullum and Stoke, with a partnership of 90 off 30 overs between Root and Stokes when they chased 279 against New Zealand.\""}]"This is currently the slowest 50 partnership of the Bazball error, with a RR of 2.54," claims Caleb, and he seems a trustworthy sort. "The previous slowest was a RR of 3.0 in the very first test under McCullum and Stoke, with a partnership of 90 off 30 overs between Root and Stokes when they chased 279 against New Zealand."
+back of a length, 137kph/85mph and defended to point
+"This is currently the slowest 50 partnership of the Bazball error, with a RR of 2.54," claims Caleb, and he seems a trustworthy sort. "The previous slowest was a RR of 3.0 in the very first test under McCullum and Stoke, with a partnership of 90 off 30 overs between Root and Stokes when they chased 279 against New Zealand."
 
 Balls faced: 143
 Bowler: Akash Deep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and rising, Foakes rolls his wrists on a pull, finds midwicket"}]short and rising, Foakes rolls his wrists on a pull, finds midwicket
+short and rising, Foakes rolls his wrists on a pull, finds midwicket
 
 
 Balls faced: 144
 Bowler: Akash Deep
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short length into the body, jabbed straight to square leg"}]short length into the body, jabbed straight to square leg
+short length into the body, jabbed straight to square leg
 
 
 Balls faced: 145
 Bowler: Akash Deep
 Over: 47
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Here's Ajit Agranayak: \"Pitch isn't behaving weirdly. England are finally batting like it is a Test. Joe Root batting like Joe Root. All seems fine with the world now.\""}]Here's Ajit Agranayak: "Pitch isn't behaving weirdly. England are finally batting like it is a Test. Joe Root batting like Joe Root. All seems fine with the world now."
+Here's Ajit Agranayak: "Pitch isn't behaving weirdly. England are finally batting like it is a Test. Joe Root batting like Joe Root. All seems fine with the world now."
 
-[{"type": "HTML", "html": "<b>full and stroked to the point boundary!</b> Foakes stretches on to the front foot and clips this, neat as a pin, through the infield"}]<b>full and stroked to the point boundary!</b> Foakes stretches on to the front foot and clips this, neat as a pin, through the infield
+<b>full and stroked to the point boundary!</b> Foakes stretches on to the front foot and clips this, neat as a pin, through the infield
 
 
 Balls faced: 146
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this scuttles through a touch low but Foakes is equal to it playing back on off stump"}]this scuttles through a touch low but Foakes is equal to it playing back on off stump
-[{"type": "HTML", "html": "\"India starting to miss Bumrah with the old ball?!\" Fair observation, ARK. This is prime time for him to get to work with reverse"}]"India starting to miss Bumrah with the old ball?!" Fair observation, ARK. This is prime time for him to get to work with reverse
+this scuttles through a touch low but Foakes is equal to it playing back on off stump
+"India starting to miss Bumrah with the old ball?!" Fair observation, ARK. This is prime time for him to get to work with reverse
 
 Balls faced: 147
 Bowler: Kuldeep
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "clipped to midwicket"}]clipped to midwicket
+clipped to midwicket
 
 
 Balls faced: 148
 Bowler: Kuldeep
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly, I think, defended coming forwards on middle and leg"}]googly, I think, defended coming forwards on middle and leg
-[{"type": "HTML", "html": "\"I'd love people to realise at some point that England's top order aren't good enough for 'proper test batting',\" says Simran. \"Bazball is just about maximising their potential and output by having them play in attacking manner. Pope, Root and Foakes, all have the skills and first-class record to play in this way, and so when the situation requires it, they do.\""}]"I'd love people to realise at some point that England's top order aren't good enough for 'proper test batting'," says Simran. "Bazball is just about maximising their potential and output by having them play in attacking manner. Pope, Root and Foakes, all have the skills and first-class record to play in this way, and so when the situation requires it, they do."
+googly, I think, defended coming forwards on middle and leg
+"I'd love people to realise at some point that England's top order aren't good enough for 'proper test batting'," says Simran. "Bazball is just about maximising their potential and output by having them play in attacking manner. Pope, Root and Foakes, all have the skills and first-class record to play in this way, and so when the situation requires it, they do."
 
 Balls faced: 149
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted, 85kph outside off stump. Tapped square"}]flighted, 85kph outside off stump. Tapped square
+flighted, 85kph outside off stump. Tapped square
 
 
 Balls faced: 150
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through quicker, skips on to be met with a straight bat"}]pushed through quicker, skips on to be met with a straight bat
+pushed through quicker, skips on to be met with a straight bat
 
 
 Balls faced: 151
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kuldeep continues, slip and short straight mid-on"}, {"type": "HTML", "html": "Here's Hayes: \"Bit confused by this Bazball, Australia have made the same amount of runs as England in half the time. England need to up their run rate.\" <a href=https://www.espncricinfo.com/series/australia-in-new-zealand-2023-24-1388188/new-zealand-vs-australia-2nd-t20i-1388224/live-cricket-score>He's not wrong</a>, you know"}]Kuldeep continues, slip and short straight mid-on Here's Hayes: "Bit confused by this Bazball, Australia have made the same amount of runs as England in half the time. England need to up their run rate." <a href=https://www.espncricinfo.com/series/australia-in-new-zealand-2023-24-1388188/new-zealand-vs-australia-2nd-t20i-1388224/live-cricket-score>He's not wrong</a>, you know
+Kuldeep continues, slip and short straight mid-on Here's Hayes: "Bit confused by this Bazball, Australia have made the same amount of runs as England in half the time. England need to up their run rate." <a href=https://www.espncricinfo.com/series/australia-in-new-zealand-2023-24-1388188/new-zealand-vs-australia-2nd-t20i-1388224/live-cricket-score>He's not wrong</a>, you know
 
-[{"type": "HTML", "html": "length ball straightening from over the wicket, blocked"}]length ball straightening from over the wicket, blocked
+length ball straightening from over the wicket, blocked
 
 
 Balls faced: 152
 Bowler: Kuldeep
 Over: 48
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "stock ball spinning to leg, worked away through midwicket"}]stock ball spinning to leg, worked away through midwicket
+stock ball spinning to leg, worked away through midwicket
 
 
 Balls faced: 153
 Bowler: Kuldeep
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up on off, prodded away"}]tossed up on off, prodded away
+tossed up on off, prodded away
 
 
 Balls faced: 154
 Bowler: Akash Deep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "similar line, once again steered square on the off side"}]similar line, once again steered square on the off side
+similar line, once again steered square on the off side
 
 
 Balls faced: 155
 Bowler: Akash Deep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, 137kph/85mph and defended to point"}]back of a length, 137kph/85mph and defended to point
-[{"type": "HTML", "html": "\"This is currently the slowest 50 partnership of the Bazball error, with a RR of 2.54,\" claims Caleb, and he seems a trustworthy sort. \"The previous slowest was a RR of 3.0 in the very first test under McCullum and Stoke, with a partnership of 90 off 30 overs between Root and Stokes when they chased 279 against New Zealand.\""}]"This is currently the slowest 50 partnership of the Bazball error, with a RR of 2.54," claims Caleb, and he seems a trustworthy sort. "The previous slowest was a RR of 3.0 in the very first test under McCullum and Stoke, with a partnership of 90 off 30 overs between Root and Stokes when they chased 279 against New Zealand."
+back of a length, 137kph/85mph and defended to point
+"This is currently the slowest 50 partnership of the Bazball error, with a RR of 2.54," claims Caleb, and he seems a trustworthy sort. "The previous slowest was a RR of 3.0 in the very first test under McCullum and Stoke, with a partnership of 90 off 30 overs between Root and Stokes when they chased 279 against New Zealand."
 
 Balls faced: 156
 Bowler: Akash Deep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and rising, Foakes rolls his wrists on a pull, finds midwicket"}]short and rising, Foakes rolls his wrists on a pull, finds midwicket
+short and rising, Foakes rolls his wrists on a pull, finds midwicket
 
 
 Balls faced: 157
 Bowler: Akash Deep
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short length into the body, jabbed straight to square leg"}]short length into the body, jabbed straight to square leg
+short length into the body, jabbed straight to square leg
 
 
 Balls faced: 158
 Bowler: Akash Deep
 Over: 47
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Here's Ajit Agranayak: \"Pitch isn't behaving weirdly. England are finally batting like it is a Test. Joe Root batting like Joe Root. All seems fine with the world now.\""}]Here's Ajit Agranayak: "Pitch isn't behaving weirdly. England are finally batting like it is a Test. Joe Root batting like Joe Root. All seems fine with the world now."
+Here's Ajit Agranayak: "Pitch isn't behaving weirdly. England are finally batting like it is a Test. Joe Root batting like Joe Root. All seems fine with the world now."
 
-[{"type": "HTML", "html": "<b>full and stroked to the point boundary!</b> Foakes stretches on to the front foot and clips this, neat as a pin, through the infield"}]<b>full and stroked to the point boundary!</b> Foakes stretches on to the front foot and clips this, neat as a pin, through the infield
+<b>full and stroked to the point boundary!</b> Foakes stretches on to the front foot and clips this, neat as a pin, through the infield
 
 
 Balls faced: 159
 Bowler: Ashwin
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the stumps, Foakes nudges to leg"}]on the stumps, Foakes nudges to leg
-[{"type": "HTML", "html": "\"Our Joe plays better when we need him,\" avers Alfred"}]"Our Joe plays better when we need him," avers Alfred
+on the stumps, Foakes nudges to leg
+"Our Joe plays better when we need him," avers Alfred
 
 Balls faced: 160
 Bowler: Ashwin
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "R Ashwin replaces Deep for another spell"}, {"type": "HTML", "html": "\"Caleb - Freudian slip?? Bazball 'error' or era??\" Good question, Srikumar M Meno!"}]R Ashwin replaces Deep for another spell "Caleb - Freudian slip?? Bazball 'error' or era??" Good question, Srikumar M Meno!
+R Ashwin replaces Deep for another spell "Caleb - Freudian slip?? Bazball 'error' or era??" Good question, Srikumar M Meno!
 
-[{"type": "HTML", "html": "round the wicket, pushed through at 91kph. Punched through mid-on coming down"}]round the wicket, pushed through at 91kph. Punched through mid-on coming down
+round the wicket, pushed through at 91kph. Punched through mid-on coming down
 
 
 Balls faced: 161
 Bowler: Kuldeep
 Over: 48
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "stock ball spinning to leg, worked away through midwicket"}]stock ball spinning to leg, worked away through midwicket
+stock ball spinning to leg, worked away through midwicket
 
 
 Balls faced: 162
 Bowler: Kuldeep
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up on off, prodded away"}]tossed up on off, prodded away
+tossed up on off, prodded away
 
 
 Balls faced: 163
 Bowler: Ashwin
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the stumps, Foakes nudges to leg"}]on the stumps, Foakes nudges to leg
-[{"type": "HTML", "html": "\"Our Joe plays better when we need him,\" avers Alfred"}]"Our Joe plays better when we need him," avers Alfred
+on the stumps, Foakes nudges to leg
+"Our Joe plays better when we need him," avers Alfred
 
 Balls faced: 164
 Bowler: Ashwin
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "R Ashwin replaces Deep for another spell"}, {"type": "HTML", "html": "\"Caleb - Freudian slip?? Bazball 'error' or era??\" Good question, Srikumar M Meno!"}]R Ashwin replaces Deep for another spell "Caleb - Freudian slip?? Bazball 'error' or era??" Good question, Srikumar M Meno!
+R Ashwin replaces Deep for another spell "Caleb - Freudian slip?? Bazball 'error' or era??" Good question, Srikumar M Meno!
 
-[{"type": "HTML", "html": "round the wicket, pushed through at 91kph. Punched through mid-on coming down"}]round the wicket, pushed through at 91kph. Punched through mid-on coming down
+round the wicket, pushed through at 91kph. Punched through mid-on coming down
 
 
 
@@ -2328,338 +2568,372 @@ Match: all_games_1389386_1389403.json
 Balls faced: 1
 Bowler: Jadeja
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fizzed down and ragging past the edge! 91k outside off, Foakes feels for it and is beaten all ends up"}]fizzed down and ragging past the edge! 91k outside off, Foakes feels for it and is beaten all ends up
-[{"type": "HTML", "html": "Meanwhile, there's an India vs Australia contest underway on a football pitch as Odisha FC take on the Central Coast Mariners in the AFC Cup Inter-Zonal semifinal. You can follow the game <a href=\"https://www.espn.in/football/story/_/id/39667803/odisha-vs-central-coast-mariners-afc-cup-live-score-result-updates-commentary-inter-zonal-semifinal \" target=\"_blank\"> live here </a>"}]Meanwhile, there's an India vs Australia contest underway on a football pitch as Odisha FC take on the Central Coast Mariners in the AFC Cup Inter-Zonal semifinal. You can follow the game <a href="https://www.espn.in/football/story/_/id/39667803/odisha-vs-central-coast-mariners-afc-cup-live-score-result-updates-commentary-inter-zonal-semifinal " target="_blank"> live here </a>
+fizzed down and ragging past the edge! 91k outside off, Foakes feels for it and is beaten all ends up
+Meanwhile, there's an India vs Australia contest underway on a football pitch as Odisha FC take on the Central Coast Mariners in the AFC Cup Inter-Zonal semifinal. You can follow the game <a href="https://www.espn.in/football/story/_/id/39667803/odisha-vs-central-coast-mariners-afc-cup-live-score-result-updates-commentary-inter-zonal-semifinal " target="_blank"> live here </a>
 
 Balls faced: 2
 Bowler: Jadeja
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "sliding in with the arm again, Foakes gets his bat in the way"}]sliding in with the arm again, Foakes gets his bat in the way
+sliding in with the arm again, Foakes gets his bat in the way
 
 
 Balls faced: 3
 Bowler: Jadeja
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up and blocked pressing forwards"}]tossed up and blocked pressing forwards
+tossed up and blocked pressing forwards
 
 
 Balls faced: 4
 Bowler: Jadeja
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes back and across, jabs the bat down"}]goes back and across, jabs the bat down
+goes back and across, jabs the bat down
 
 
 Balls faced: 5
 Bowler: Jadeja
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fizzed down and ragging past the edge! 91k outside off, Foakes feels for it and is beaten all ends up"}]fizzed down and ragging past the edge! 91k outside off, Foakes feels for it and is beaten all ends up
-[{"type": "HTML", "html": "Meanwhile, there's an India vs Australia contest underway on a football pitch as Odisha FC take on the Central Coast Mariners in the AFC Cup Inter-Zonal semifinal. You can follow the game <a href=\"https://www.espn.in/football/story/_/id/39667803/odisha-vs-central-coast-mariners-afc-cup-live-score-result-updates-commentary-inter-zonal-semifinal \" target=\"_blank\"> live here </a>"}]Meanwhile, there's an India vs Australia contest underway on a football pitch as Odisha FC take on the Central Coast Mariners in the AFC Cup Inter-Zonal semifinal. You can follow the game <a href="https://www.espn.in/football/story/_/id/39667803/odisha-vs-central-coast-mariners-afc-cup-live-score-result-updates-commentary-inter-zonal-semifinal " target="_blank"> live here </a>
+fizzed down and ragging past the edge! 91k outside off, Foakes feels for it and is beaten all ends up
+Meanwhile, there's an India vs Australia contest underway on a football pitch as Odisha FC take on the Central Coast Mariners in the AFC Cup Inter-Zonal semifinal. You can follow the game <a href="https://www.espn.in/football/story/_/id/39667803/odisha-vs-central-coast-mariners-afc-cup-live-score-result-updates-commentary-inter-zonal-semifinal " target="_blank"> live here </a>
 
 Balls faced: 6
 Bowler: Jadeja
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "sliding in with the arm again, Foakes gets his bat in the way"}]sliding in with the arm again, Foakes gets his bat in the way
+sliding in with the arm again, Foakes gets his bat in the way
 
 
 Balls faced: 7
 Bowler: Jadeja
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up and blocked pressing forwards"}]tossed up and blocked pressing forwards
+tossed up and blocked pressing forwards
 
 
 Balls faced: 8
 Bowler: Jadeja
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes back and across, jabs the bat down"}]goes back and across, jabs the bat down
+goes back and across, jabs the bat down
 
 
 Balls faced: 9
 Bowler: Jadeja
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the stumps and Foakes shows it a straight bat"}]on the stumps and Foakes shows it a straight bat
+on the stumps and Foakes shows it a straight bat
 
 
 Balls faced: 10
 Bowler: Jadeja
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired in straight and blocked again"}]fired in straight and blocked again
-[{"type": "HTML", "html": "\"Is pitch started turning? When the match begin, pitch looked belter.\" It has gripped for Kuldeep from the outset, Pinal"}]"Is pitch started turning? When the match begin, pitch looked belter." It has gripped for Kuldeep from the outset, Pinal
+fired in straight and blocked again
+"Is pitch started turning? When the match begin, pitch looked belter." It has gripped for Kuldeep from the outset, Pinal
 
 Balls faced: 11
 Bowler: Jadeja
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on off, spinning a touch and steered square coming forwards"}]length on off, spinning a touch and steered square coming forwards
+length on off, spinning a touch and steered square coming forwards
 
 
 Balls faced: 12
 Bowler: Jadeja
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "defended and the ball comes off the inner half of the bat and runs away into the leg side"}]defended and the ball comes off the inner half of the bat and runs away into the leg side
+defended and the ball comes off the inner half of the bat and runs away into the leg side
 
 
 Balls faced: 13
 Bowler: Jadeja
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "So, Kuldeep now has five of six. India have ripped the game back their way"}]So, Kuldeep now has five of six. India have ripped the game back their way
+So, Kuldeep now has five of six. India have ripped the game back their way
 
-[{"type": "HTML", "html": "defended back to the bowler"}]defended back to the bowler
+defended back to the bowler
 
 
 Balls faced: 14
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shuffles out and clips to long-on"}]shuffles out and clips to long-on
+shuffles out and clips to long-on
 
 
 Balls faced: 15
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up from over the wicket, pushed into the covers"}]tossed up from over the wicket, pushed into the covers
+tossed up from over the wicket, pushed into the covers
 
 
 Balls faced: 16
 Bowler: Jadeja
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the stumps and Foakes shows it a straight bat"}]on the stumps and Foakes shows it a straight bat
+on the stumps and Foakes shows it a straight bat
 
 
 Balls faced: 17
 Bowler: Jadeja
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired in straight and blocked again"}]fired in straight and blocked again
-[{"type": "HTML", "html": "\"Is pitch started turning? When the match begin, pitch looked belter.\" It has gripped for Kuldeep from the outset, Pinal"}]"Is pitch started turning? When the match begin, pitch looked belter." It has gripped for Kuldeep from the outset, Pinal
+fired in straight and blocked again
+"Is pitch started turning? When the match begin, pitch looked belter." It has gripped for Kuldeep from the outset, Pinal
 
 Balls faced: 18
 Bowler: Jadeja
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on off, spinning a touch and steered square coming forwards"}]length on off, spinning a touch and steered square coming forwards
+length on off, spinning a touch and steered square coming forwards
 
 
 Balls faced: 19
 Bowler: Jadeja
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "defended and the ball comes off the inner half of the bat and runs away into the leg side"}]defended and the ball comes off the inner half of the bat and runs away into the leg side
+defended and the ball comes off the inner half of the bat and runs away into the leg side
 
 
 Balls faced: 20
 Bowler: Jadeja
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "So, Kuldeep now has five of six. India have ripped the game back their way"}]So, Kuldeep now has five of six. India have ripped the game back their way
+So, Kuldeep now has five of six. India have ripped the game back their way
 
-[{"type": "HTML", "html": "defended back to the bowler"}]defended back to the bowler
+defended back to the bowler
 
 
 Balls faced: 21
 Bowler: Jadeja
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker and sliding towards middle and leg, Foakes again jabs at it defensively"}]quicker and sliding towards middle and leg, Foakes again jabs at it defensively
+quicker and sliding towards middle and leg, Foakes again jabs at it defensively
 
 
 Balls faced: 22
 Bowler: Jadeja
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "going on with the arm, 90kph and Foakes prods it away half forward"}]going on with the arm, 90kph and Foakes prods it away half forward
-[{"type": "HTML", "html": "The Jaddu off-stump beehive is buzzing relentlessly here"}]The Jaddu off-stump beehive is buzzing relentlessly here
+going on with the arm, 90kph and Foakes prods it away half forward
+The Jaddu off-stump beehive is buzzing relentlessly here
 
 Balls faced: 23
 Bowler: Jadeja
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the stumps and defended again"}]on the stumps and defended again
+on the stumps and defended again
 
 
 Balls faced: 24
 Bowler: Jadeja
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in and pushed to cover"}]angled in and pushed to cover
+angled in and pushed to cover
 
 
 Balls faced: 25
 Bowler: Jadeja
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "touch quicker, 90kph on the stumps, tapped to leg"}]touch quicker, 90kph on the stumps, tapped to leg
+touch quicker, 90kph on the stumps, tapped to leg
 
 
 Balls faced: 26
 Bowler: Jadeja
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up and defended softly towards backward point"}]looped up and defended softly towards backward point
+looped up and defended softly towards backward point
 
 
 Balls faced: 27
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shuffles out and clips to long-on"}]shuffles out and clips to long-on
+shuffles out and clips to long-on
 
 
 Balls faced: 28
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up from over the wicket, pushed into the covers"}]tossed up from over the wicket, pushed into the covers
+tossed up from over the wicket, pushed into the covers
 
 
 Balls faced: 29
 Bowler: Jadeja
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker and sliding towards middle and leg, Foakes again jabs at it defensively"}]quicker and sliding towards middle and leg, Foakes again jabs at it defensively
+quicker and sliding towards middle and leg, Foakes again jabs at it defensively
 
 
 Balls faced: 30
 Bowler: Jadeja
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "going on with the arm, 90kph and Foakes prods it away half forward"}]going on with the arm, 90kph and Foakes prods it away half forward
-[{"type": "HTML", "html": "The Jaddu off-stump beehive is buzzing relentlessly here"}]The Jaddu off-stump beehive is buzzing relentlessly here
+going on with the arm, 90kph and Foakes prods it away half forward
+The Jaddu off-stump beehive is buzzing relentlessly here
 
 Balls faced: 31
 Bowler: Jadeja
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the stumps and defended again"}]on the stumps and defended again
+on the stumps and defended again
 
 
 Balls faced: 32
 Bowler: Jadeja
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in and pushed to cover"}]angled in and pushed to cover
+angled in and pushed to cover
 
 
 Balls faced: 33
 Bowler: Jadeja
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "touch quicker, 90kph on the stumps, tapped to leg"}]touch quicker, 90kph on the stumps, tapped to leg
+touch quicker, 90kph on the stumps, tapped to leg
 
 
 Balls faced: 34
 Bowler: Jadeja
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up and defended softly towards backward point"}]looped up and defended softly towards backward point
+looped up and defended softly towards backward point

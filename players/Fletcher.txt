@@ -2,41 +2,49 @@ Match: all_games_1433350_1433362.json
 Balls faced: 1
 Bowler: Coetzee
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Great pace off the pitch. Length over fourth, ball squared up the batter but he did well to try and defend it close to the body. Runs it to deep third"}]Great pace off the pitch. Length over fourth, ball squared up the batter but he did well to try and defend it close to the body. Runs it to deep third
+Great pace off the pitch. Length over fourth, ball squared up the batter but he did well to try and defend it close to the body. Runs it to deep third
 
 
 Balls faced: 2
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Off pole decked</strong>. Oh, that seamed in too. Phehlukwayo is pumped. That landed around a length in line with fourth and Fletcher stepped down and tried pulling across the line. A shot fraught with danger with the bounce being uneven. This one wasn't just low but also had lateral movement. He stood no chance"}]<strong>Off pole decked</strong>. Oh, that seamed in too. Phehlukwayo is pumped. That landed around a length in line with fourth and Fletcher stepped down and tried pulling across the line. A shot fraught with danger with the bounce being uneven. This one wasn't just low but also had lateral movement. He stood no chance
+Fletcher is OUT! bowled
+ b Phehlukwayo
+Andre Fletcher b Phehlukwayo 1 (2b 0x4 0x6 3m) SR: 50
+<strong>Off pole decked</strong>. Oh, that seamed in too. Phehlukwayo is pumped. That landed around a length in line with fourth and Fletcher stepped down and tried pulling across the line. A shot fraught with danger with the bounce being uneven. This one wasn't just low but also had lateral movement. He stood no chance
 
 
 Balls faced: 3
 Bowler: Coetzee
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Great pace off the pitch. Length over fourth, ball squared up the batter but he did well to try and defend it close to the body. Runs it to deep third"}]Great pace off the pitch. Length over fourth, ball squared up the batter but he did well to try and defend it close to the body. Runs it to deep third
+Great pace off the pitch. Length over fourth, ball squared up the batter but he did well to try and defend it close to the body. Runs it to deep third
 
 
 Balls faced: 4
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Off pole decked</strong>. Oh, that seamed in too. Phehlukwayo is pumped. That landed around a length in line with fourth and Fletcher stepped down and tried pulling across the line. A shot fraught with danger with the bounce being uneven. This one wasn't just low but also had lateral movement. He stood no chance"}]<strong>Off pole decked</strong>. Oh, that seamed in too. Phehlukwayo is pumped. That landed around a length in line with fourth and Fletcher stepped down and tried pulling across the line. A shot fraught with danger with the bounce being uneven. This one wasn't just low but also had lateral movement. He stood no chance
+Fletcher is OUT! bowled
+ b Phehlukwayo
+Andre Fletcher b Phehlukwayo 1 (2b 0x4 0x6 3m) SR: 50
+<strong>Off pole decked</strong>. Oh, that seamed in too. Phehlukwayo is pumped. That landed around a length in line with fourth and Fletcher stepped down and tried pulling across the line. A shot fraught with danger with the bounce being uneven. This one wasn't just low but also had lateral movement. He stood no chance
 
 
 
@@ -44,378 +52,420 @@ Match: all_games_1433350_1433363.json
 Balls faced: 1
 Bowler: Peter
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Fletcher"}]Fletcher
+Fletcher
 
-[{"type": "HTML", "html": "ohh, this turns in off a short-of-a-length, and ends on his pads. Whipped to deep square"}]ohh, this turns in off a short-of-a-length, and ends on his pads. Whipped to deep square
+ohh, this turns in off a short-of-a-length, and ends on his pads. Whipped to deep square
 
 
 Balls faced: 2
 Bowler: Fortuin
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full and dipping on leg. Clipped to deep backward square"}]very full and dipping on leg. Clipped to deep backward square
+very full and dipping on leg. Clipped to deep backward square
 
 
 Balls faced: 3
 Bowler: Fortuin
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "confident appeal for lbw by Fortuin, but it is turned down. Van der Dussen and Fortuin have a word... and <strong>South Africa review</strong>!  Fortuin bowled on the fuller side of a length on middle, and the ball seemed to go on with the angle from around the wicket. Fletcher went defending, and replays showed a clear inside edge. So South Africa lose a review"}]confident appeal for lbw by Fortuin, but it is turned down. Van der Dussen and Fortuin have a word... and <strong>South Africa review</strong>!  Fortuin bowled on the fuller side of a length on middle, and the ball seemed to go on with the angle from around the wicket. Fletcher went defending, and replays showed a clear inside edge. So South Africa lose a review
+confident appeal for lbw by Fortuin, but it is turned down. Van der Dussen and Fortuin have a word... and <strong>South Africa review</strong>!  Fortuin bowled on the fuller side of a length on middle, and the ball seemed to go on with the angle from around the wicket. Fletcher went defending, and replays showed a clear inside edge. So South Africa lose a review
 
 
 Balls faced: 4
 Bowler: Fortuin
 Over: 10
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower, and full on middle and leg again. Nudged towards square leg"}]slower, and full on middle and leg again. Nudged towards square leg
+slower, and full on middle and leg again. Nudged towards square leg
 
 
 Balls faced: 5
 Bowler: Fortuin
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Fortuin back"}]Fortuin back
+Fortuin back
 
-[{"type": "HTML", "html": "quite full on middle and leg, as he looked to flick but was hit on his front pad"}]quite full on middle and leg, as he looked to flick but was hit on his front pad
+quite full on middle and leg, as he looked to flick but was hit on his front pad
 
 
 Balls faced: 6
 Bowler: Peter
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Fletcher"}]Fletcher
+Fletcher
 
-[{"type": "HTML", "html": "ohh, this turns in off a short-of-a-length, and ends on his pads. Whipped to deep square"}]ohh, this turns in off a short-of-a-length, and ends on his pads. Whipped to deep square
+ohh, this turns in off a short-of-a-length, and ends on his pads. Whipped to deep square
 
 
 Balls faced: 7
 Bowler: Peter
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up around off. Fletcher meets it with hard hands. Ball pops up after hitting the bat but it safely goes through to long off"}]tossed up around off. Fletcher meets it with hard hands. Ball pops up after hitting the bat but it safely goes through to long off
+tossed up around off. Fletcher meets it with hard hands. Ball pops up after hitting the bat but it safely goes through to long off
 
 
 Balls faced: 8
 Bowler: Peter
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flat again. Length ball on off. Hangs back and clips in front of square on the leg side"}]flat again. Length ball on off. Hangs back and clips in front of square on the leg side
+flat again. Length ball on off. Hangs back and clips in front of square on the leg side
 
 
 Balls faced: 9
 Bowler: Fortuin
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "very full and dipping on leg. Clipped to deep backward square"}]very full and dipping on leg. Clipped to deep backward square
+very full and dipping on leg. Clipped to deep backward square
 
 
 Balls faced: 10
 Bowler: Fortuin
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "confident appeal for lbw by Fortuin, but it is turned down. Van der Dussen and Fortuin have a word... and <strong>South Africa review</strong>!  Fortuin bowled on the fuller side of a length on middle, and the ball seemed to go on with the angle from around the wicket. Fletcher went defending, and replays showed a clear inside edge. So South Africa lose a review"}]confident appeal for lbw by Fortuin, but it is turned down. Van der Dussen and Fortuin have a word... and <strong>South Africa review</strong>!  Fortuin bowled on the fuller side of a length on middle, and the ball seemed to go on with the angle from around the wicket. Fletcher went defending, and replays showed a clear inside edge. So South Africa lose a review
+confident appeal for lbw by Fortuin, but it is turned down. Van der Dussen and Fortuin have a word... and <strong>South Africa review</strong>!  Fortuin bowled on the fuller side of a length on middle, and the ball seemed to go on with the angle from around the wicket. Fletcher went defending, and replays showed a clear inside edge. So South Africa lose a review
 
 
 Balls faced: 11
 Bowler: Fortuin
 Over: 10
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower, and full on middle and leg again. Nudged towards square leg"}]slower, and full on middle and leg again. Nudged towards square leg
+slower, and full on middle and leg again. Nudged towards square leg
 
 
 Balls faced: 12
 Bowler: Fortuin
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Fortuin back"}]Fortuin back
+Fortuin back
 
-[{"type": "HTML", "html": "quite full on middle and leg, as he looked to flick but was hit on his front pad"}]quite full on middle and leg, as he looked to flick but was hit on his front pad
+quite full on middle and leg, as he looked to flick but was hit on his front pad
 
 
 Balls faced: 13
 Bowler: Fortuin
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flatter. Length ball on middle. Worked towards deep midwicket for one. <B>Fortuin finishes with 1-21</b>"}]flatter. Length ball on middle. Worked towards deep midwicket for one. <B>Fortuin finishes with 1-21</b>
+flatter. Length ball on middle. Worked towards deep midwicket for one. <B>Fortuin finishes with 1-21</b>
 
 
 Balls faced: 14
 Bowler: Fortuin
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "full ball around leg. Fletcher comes down the track, stays leg side of the ball and then <B>deposits it over long on!</b> Fortuin's spell was excellent but this six will scar his figures a bit. <B>109m six!</b>"}]full ball around leg. Fletcher comes down the track, stays leg side of the ball and then <B>deposits it over long on!</b> Fortuin's spell was excellent but this six will scar his figures a bit. <B>109m six!</b>
-[{"type": "HTML", "html": "Fletcher usually bats facing the new ball and in the powerplay, but today finds himself in a different role in the middle overs facing spin."}]Fletcher usually bats facing the new ball and in the powerplay, but today finds himself in a different role in the middle overs facing spin.
+full ball around leg. Fletcher comes down the track, stays leg side of the ball and then <B>deposits it over long on!</b> Fortuin's spell was excellent but this six will scar his figures a bit. <B>109m six!</b>
+Fletcher usually bats facing the new ball and in the powerplay, but today finds himself in a different role in the middle overs facing spin.
 
 Balls faced: 15
 Bowler: Fortuin
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flights a ball up, but lets it go very wide. Fletcher comes down the track and is out of sorts, but manages to get some bat to it, and drags a toe-ended shot to the leg side"}]flights a ball up, but lets it go very wide. Fletcher comes down the track and is out of sorts, but manages to get some bat to it, and drags a toe-ended shot to the leg side
+flights a ball up, but lets it go very wide. Fletcher comes down the track and is out of sorts, but manages to get some bat to it, and drags a toe-ended shot to the leg side
 
 
 Balls faced: 16
 Bowler: Fortuin
 Over: 12
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "trying to cramp up Fletcher. Lends up sliding a length ball down the leg side"}]trying to cramp up Fletcher. Lends up sliding a length ball down the leg side
+trying to cramp up Fletcher. Lends up sliding a length ball down the leg side
 
 Wide: 1
 Balls faced: 17
 Bowler: Fortuin
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Fletcher moves leg side, comes down the ground, and mows a shot towards deep midwicket for a couple of runs"}]Fletcher moves leg side, comes down the ground, and mows a shot towards deep midwicket for a couple of runs
+Fletcher moves leg side, comes down the ground, and mows a shot towards deep midwicket for a couple of runs
 
 
 Balls faced: 18
 Bowler: Peter
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up around off. Fletcher meets it with hard hands. Ball pops up after hitting the bat but it safely goes through to long off"}]tossed up around off. Fletcher meets it with hard hands. Ball pops up after hitting the bat but it safely goes through to long off
+tossed up around off. Fletcher meets it with hard hands. Ball pops up after hitting the bat but it safely goes through to long off
 
 
 Balls faced: 19
 Bowler: Peter
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flat again. Length ball on off. Hangs back and clips in front of square on the leg side"}]flat again. Length ball on off. Hangs back and clips in front of square on the leg side
+flat again. Length ball on off. Hangs back and clips in front of square on the leg side
 
 
 Balls faced: 20
 Bowler: Peter
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on off. Fletcher came down the track but found himself in the middle of nowhere. Has to stick the bat out and he's lucky he could nudge it to point"}]length ball on off. Fletcher came down the track but found himself in the middle of nowhere. Has to stick the bat out and he's lucky he could nudge it to point
+length ball on off. Fletcher came down the track but found himself in the middle of nowhere. Has to stick the bat out and he's lucky he could nudge it to point
 
 
 Balls faced: 21
 Bowler: Peter
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball wide outside off. Cut with the turn to deep point"}]length ball wide outside off. Cut with the turn to deep point
+length ball wide outside off. Cut with the turn to deep point
 
 
 Balls faced: 22
 Bowler: Fortuin
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flatter. Length ball on middle. Worked towards deep midwicket for one. <B>Fortuin finishes with 1-21</b>"}]flatter. Length ball on middle. Worked towards deep midwicket for one. <B>Fortuin finishes with 1-21</b>
+flatter. Length ball on middle. Worked towards deep midwicket for one. <B>Fortuin finishes with 1-21</b>
 
 
 Balls faced: 23
 Bowler: Fortuin
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "full ball around leg. Fletcher comes down the track, stays leg side of the ball and then <B>deposits it over long on!</b> Fortuin's spell was excellent but this six will scar his figures a bit. <B>109m six!</b>"}]full ball around leg. Fletcher comes down the track, stays leg side of the ball and then <B>deposits it over long on!</b> Fortuin's spell was excellent but this six will scar his figures a bit. <B>109m six!</b>
-[{"type": "HTML", "html": "Fletcher usually bats facing the new ball and in the powerplay, but today finds himself in a different role in the middle overs facing spin."}]Fletcher usually bats facing the new ball and in the powerplay, but today finds himself in a different role in the middle overs facing spin.
+full ball around leg. Fletcher comes down the track, stays leg side of the ball and then <B>deposits it over long on!</b> Fortuin's spell was excellent but this six will scar his figures a bit. <B>109m six!</b>
+Fletcher usually bats facing the new ball and in the powerplay, but today finds himself in a different role in the middle overs facing spin.
 
 Balls faced: 24
 Bowler: Fortuin
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flights a ball up, but lets it go very wide. Fletcher comes down the track and is out of sorts, but manages to get some bat to it, and drags a toe-ended shot to the leg side"}]flights a ball up, but lets it go very wide. Fletcher comes down the track and is out of sorts, but manages to get some bat to it, and drags a toe-ended shot to the leg side
+flights a ball up, but lets it go very wide. Fletcher comes down the track and is out of sorts, but manages to get some bat to it, and drags a toe-ended shot to the leg side
 
 
 Balls faced: 25
 Bowler: Fortuin
 Over: 12
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "trying to cramp up Fletcher. Lends up sliding a length ball down the leg side"}]trying to cramp up Fletcher. Lends up sliding a length ball down the leg side
+trying to cramp up Fletcher. Lends up sliding a length ball down the leg side
 
 Wide: 1
 Balls faced: 26
 Bowler: Fortuin
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Fletcher moves leg side, comes down the ground, and mows a shot towards deep midwicket for a couple of runs"}]Fletcher moves leg side, comes down the ground, and mows a shot towards deep midwicket for a couple of runs
+Fletcher moves leg side, comes down the ground, and mows a shot towards deep midwicket for a couple of runs
 
 
 Balls faced: 27
 Bowler: Nortje
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle stump and he flicks it towards deep midwicket, but there's protection in the region"}]full ball on middle stump and he flicks it towards deep midwicket, but there's protection in the region
+full ball on middle stump and he flicks it towards deep midwicket, but there's protection in the region
 
 
 Balls faced: 28
 Bowler: Peter
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on off. Fletcher came down the track but found himself in the middle of nowhere. Has to stick the bat out and he's lucky he could nudge it to point"}]length ball on off. Fletcher came down the track but found himself in the middle of nowhere. Has to stick the bat out and he's lucky he could nudge it to point
+length ball on off. Fletcher came down the track but found himself in the middle of nowhere. Has to stick the bat out and he's lucky he could nudge it to point
 
 
 Balls faced: 29
 Bowler: Peter
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball wide outside off. Cut with the turn to deep point"}]length ball wide outside off. Cut with the turn to deep point
+length ball wide outside off. Cut with the turn to deep point
 
 
 Balls faced: 30
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>LBW given!</b> And for a rare occasion the batter does not review. Full ball on middle, with pace off. He tried to flick but misses it. Hits his pad and the umpire raises the finger. But should Fletcher have reviewed? Appeared to be missing leg stump but ball-tracking says it would've clipped leg stump"}]<B>LBW given!</b> And for a rare occasion the batter does not review. Full ball on middle, with pace off. He tried to flick but misses it. Hits his pad and the umpire raises the finger. But should Fletcher have reviewed? Appeared to be missing leg stump but ball-tracking says it would've clipped leg stump
+Fletcher is OUT! lbw
+lbw b Phehlukwayo
+Andre Fletcher lbw b Phehlukwayo 29 (18b 1x4 2x6 28m) SR: 161.11
+<B>LBW given!</b> And for a rare occasion the batter does not review. Full ball on middle, with pace off. He tried to flick but misses it. Hits his pad and the umpire raises the finger. But should Fletcher have reviewed? Appeared to be missing leg stump but ball-tracking says it would've clipped leg stump
 
 
 Balls faced: 31
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "comes down the ground and muscles this length ball to long off"}]comes down the ground and muscles this length ball to long off
+comes down the ground and muscles this length ball to long off
 
 
 Balls faced: 32
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full land wide, and Fletcher lifts it over extra cover! Holds the pose too for good measure"}]full land wide, and Fletcher lifts it over extra cover! Holds the pose too for good measure
+full land wide, and Fletcher lifts it over extra cover! Holds the pose too for good measure
 
 
 Balls faced: 33
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>banged!</b> Length ball outside off, and it's a slower ball too. Fletcher hammers it over cow corner!"}]<B>banged!</b> Length ball outside off, and it's a slower ball too. Fletcher hammers it over cow corner!
+<B>banged!</b> Length ball outside off, and it's a slower ball too. Fletcher hammers it over cow corner!
 
 
 Balls faced: 34
 Bowler: Nortje
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle stump and he flicks it towards deep midwicket, but there's protection in the region"}]full ball on middle stump and he flicks it towards deep midwicket, but there's protection in the region
+full ball on middle stump and he flicks it towards deep midwicket, but there's protection in the region
 
 
 Balls faced: 35
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>LBW given!</b> And for a rare occasion the batter does not review. Full ball on middle, with pace off. He tried to flick but misses it. Hits his pad and the umpire raises the finger. But should Fletcher have reviewed? Appeared to be missing leg stump but ball-tracking says it would've clipped leg stump"}]<B>LBW given!</b> And for a rare occasion the batter does not review. Full ball on middle, with pace off. He tried to flick but misses it. Hits his pad and the umpire raises the finger. But should Fletcher have reviewed? Appeared to be missing leg stump but ball-tracking says it would've clipped leg stump
+Fletcher is OUT! lbw
+lbw b Phehlukwayo
+Andre Fletcher lbw b Phehlukwayo 29 (18b 1x4 2x6 28m) SR: 161.11
+<B>LBW given!</b> And for a rare occasion the batter does not review. Full ball on middle, with pace off. He tried to flick but misses it. Hits his pad and the umpire raises the finger. But should Fletcher have reviewed? Appeared to be missing leg stump but ball-tracking says it would've clipped leg stump
 
 
 Balls faced: 36
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "comes down the ground and muscles this length ball to long off"}]comes down the ground and muscles this length ball to long off
+comes down the ground and muscles this length ball to long off
 
 
 Balls faced: 37
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "full land wide, and Fletcher lifts it over extra cover! Holds the pose too for good measure"}]full land wide, and Fletcher lifts it over extra cover! Holds the pose too for good measure
+full land wide, and Fletcher lifts it over extra cover! Holds the pose too for good measure
 
 
 Balls faced: 38
 Bowler: Phehlukwayo
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>banged!</b> Length ball outside off, and it's a slower ball too. Fletcher hammers it over cow corner!"}]<B>banged!</b> Length ball outside off, and it's a slower ball too. Fletcher hammers it over cow corner!
+<B>banged!</b> Length ball outside off, and it's a slower ball too. Fletcher hammers it over cow corner!

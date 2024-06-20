@@ -2,578 +2,640 @@ Match: all_games_1412536_1412541.json
 Balls faced: 1
 Bowler: Ngarava
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "<strong>9:03pm</strong> Just a ten-minute break given the rain interruption. Sri Lanka will look to canter through to a series win. No change to their target. Ngarava to bowl. Shevon Daniel, on debut, takes strike"}]<strong>9:03pm</strong> Just a ten-minute break given the rain interruption. Sri Lanka will look to canter through to a series win. No change to their target. Ngarava to bowl. Shevon Daniel, on debut, takes strike
+<strong>9:03pm</strong> Just a ten-minute break given the rain interruption. Sri Lanka will look to canter through to a series win. No change to their target. Ngarava to bowl. Shevon Daniel, on debut, takes strike
 
-[{"type": "HTML", "html": "Beats the flick and pops off the pad to the off side. Was a length ball angling in at 137ks that hurried the batter"}]Beats the flick and pops off the pad to the off side. Was a length ball angling in at 137ks that hurried the batter
+Beats the flick and pops off the pad to the off side. Was a length ball angling in at 137ks that hurried the batter
 
 Legbyes: 1
 Balls faced: 2
 Bowler: Muzarabani
 Over: 2
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, gets square-on and blocks it towards midwicket"}]Length on off, gets square-on and blocks it towards midwicket
+Length on off, gets square-on and blocks it towards midwicket
 
 
 Balls faced: 3
 Bowler: Ngarava
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "<strong>9:03pm</strong> Just a ten-minute break given the rain interruption. Sri Lanka will look to canter through to a series win. No change to their target. Ngarava to bowl. Shevon Daniel, on debut, takes strike"}]<strong>9:03pm</strong> Just a ten-minute break given the rain interruption. Sri Lanka will look to canter through to a series win. No change to their target. Ngarava to bowl. Shevon Daniel, on debut, takes strike
+<strong>9:03pm</strong> Just a ten-minute break given the rain interruption. Sri Lanka will look to canter through to a series win. No change to their target. Ngarava to bowl. Shevon Daniel, on debut, takes strike
 
-[{"type": "HTML", "html": "Beats the flick and pops off the pad to the off side. Was a length ball angling in at 137ks that hurried the batter"}]Beats the flick and pops off the pad to the off side. Was a length ball angling in at 137ks that hurried the batter
+Beats the flick and pops off the pad to the off side. Was a length ball angling in at 137ks that hurried the batter
 
 Legbyes: 1
 Balls faced: 4
 Bowler: Muzarabani
 Over: 2
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, gets square-on and blocks it towards midwicket"}]Length on off, gets square-on and blocks it towards midwicket
+Length on off, gets square-on and blocks it towards midwicket
 
 
 Balls faced: 5
 Bowler: Muzarabani
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Helps the length ball off the thigh pad to deep fine leg"}]Helps the length ball off the thigh pad to deep fine leg
+Helps the length ball off the thigh pad to deep fine leg
 
 
 Balls faced: 6
 Bowler: Muzarabani
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beaten on the back foot this time. Length ball at 132ks pitched around off and angled to fifth, Daniel hopped and tried to punch it through cover"}]Beaten on the back foot this time. Length ball at 132ks pitched around off and angled to fifth, Daniel hopped and tried to punch it through cover
-[{"type": "HTML", "html": "Aby Mathew: \"Mendis in t20 mode. Looking to finish it in 10 overs.\""}]Aby Mathew: "Mendis in t20 mode. Looking to finish it in 10 overs."
+Beaten on the back foot this time. Length ball at 132ks pitched around off and angled to fifth, Daniel hopped and tried to punch it through cover
+Aby Mathew: "Mendis in t20 mode. Looking to finish it in 10 overs."
 
 Balls faced: 7
 Bowler: Muzarabani
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller ball outside off invites the drive. Daniel committed to the flurrying hit, got beaten by the angle"}]Fuller ball outside off invites the drive. Daniel committed to the flurrying hit, got beaten by the angle
+Fuller ball outside off invites the drive. Daniel committed to the flurrying hit, got beaten by the angle
 
 
 Balls faced: 8
 Bowler: Muzarabani
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Slashed wide of slip. Too fine for deep third."}]Slashed wide of slip. Too fine for deep third.
+Slashed wide of slip. Too fine for deep third.
 
 
 Balls faced: 9
 Bowler: Muzarabani
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Almost a run out. Mendis wanted the run and went for it, got sent back. He ran diagonally was in a tangle as he dove but there was no direct hit. Was a fullish ball that was tapped towards cover, good work by the fielder swooping in"}]Almost a run out. Mendis wanted the run and went for it, got sent back. He ran diagonally was in a tangle as he dove but there was no direct hit. Was a fullish ball that was tapped towards cover, good work by the fielder swooping in
+Almost a run out. Mendis wanted the run and went for it, got sent back. He ran diagonally was in a tangle as he dove but there was no direct hit. Was a fullish ball that was tapped towards cover, good work by the fielder swooping in
 
 
 Balls faced: 10
 Bowler: Ngarava
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Into the pitch just outside off, 126ks, let go"}]Into the pitch just outside off, 126ks, let go
+Into the pitch just outside off, 126ks, let go
 
 
 Balls faced: 11
 Bowler: Ngarava
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Mistimes the pull to midwicket. Length around off at 126ks, Daniel swivelled but had to force it."}]Mistimes the pull to midwicket. Length around off at 126ks, Daniel swivelled but had to force it.
+Mistimes the pull to midwicket. Length around off at 126ks, Daniel swivelled but had to force it.
 
 
 Balls faced: 12
 Bowler: Ngarava
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Edge but falls a few feet in front of first slip. Length around off, 130ks, angling in. Daniel tried to block it straight, got a thick outside edge but it fizzled"}]Edge but falls a few feet in front of first slip. Length around off, 130ks, angling in. Daniel tried to block it straight, got a thick outside edge but it fizzled
+Edge but falls a few feet in front of first slip. Length around off, 130ks, angling in. Daniel tried to block it straight, got a thick outside edge but it fizzled
 
 
 Balls faced: 13
 Bowler: Muzarabani
 Over: 4
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Helps the length ball off the thigh pad to deep fine leg"}]Helps the length ball off the thigh pad to deep fine leg
+Helps the length ball off the thigh pad to deep fine leg
 
 
 Balls faced: 14
 Bowler: Muzarabani
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beaten on the back foot this time. Length ball at 132ks pitched around off and angled to fifth, Daniel hopped and tried to punch it through cover"}]Beaten on the back foot this time. Length ball at 132ks pitched around off and angled to fifth, Daniel hopped and tried to punch it through cover
-[{"type": "HTML", "html": "Aby Mathew: \"Mendis in t20 mode. Looking to finish it in 10 overs.\""}]Aby Mathew: "Mendis in t20 mode. Looking to finish it in 10 overs."
+Beaten on the back foot this time. Length ball at 132ks pitched around off and angled to fifth, Daniel hopped and tried to punch it through cover
+Aby Mathew: "Mendis in t20 mode. Looking to finish it in 10 overs."
 
 Balls faced: 15
 Bowler: Muzarabani
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller ball outside off invites the drive. Daniel committed to the flurrying hit, got beaten by the angle"}]Fuller ball outside off invites the drive. Daniel committed to the flurrying hit, got beaten by the angle
+Fuller ball outside off invites the drive. Daniel committed to the flurrying hit, got beaten by the angle
 
 
 Balls faced: 16
 Bowler: Muzarabani
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Slashed wide of slip. Too fine for deep third."}]Slashed wide of slip. Too fine for deep third.
+Slashed wide of slip. Too fine for deep third.
 
 
 Balls faced: 17
 Bowler: Muzarabani
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Almost a run out. Mendis wanted the run and went for it, got sent back. He ran diagonally was in a tangle as he dove but there was no direct hit. Was a fullish ball that was tapped towards cover, good work by the fielder swooping in"}]Almost a run out. Mendis wanted the run and went for it, got sent back. He ran diagonally was in a tangle as he dove but there was no direct hit. Was a fullish ball that was tapped towards cover, good work by the fielder swooping in
+Almost a run out. Mendis wanted the run and went for it, got sent back. He ran diagonally was in a tangle as he dove but there was no direct hit. Was a fullish ball that was tapped towards cover, good work by the fielder swooping in
 
 
 Balls faced: 18
 Bowler: Muzarabani
 Over: 6
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beats him and hits around the top of the front thigh. Length ball coming back in and Daniel tried to work it square on the leg side"}]Beats him and hits around the top of the front thigh. Length ball coming back in and Daniel tried to work it square on the leg side
-[{"type": "HTML", "html": "Chrishan : \"How come Zimbabwe's target is no adjusted by DLS?\" It's because of the second break Sampath. If I got it right, they were none down at the first rain break but three down at the second. Had they stayed nil down, they would've gotten a bump"}]Chrishan : "How come Zimbabwe's target is no adjusted by DLS?" It's because of the second break Sampath. If I got it right, they were none down at the first rain break but three down at the second. Had they stayed nil down, they would've gotten a bump
+Beats him and hits around the top of the front thigh. Length ball coming back in and Daniel tried to work it square on the leg side
+Chrishan : "How come Zimbabwe's target is no adjusted by DLS?" It's because of the second break Sampath. If I got it right, they were none down at the first rain break but three down at the second. Had they stayed nil down, they would've gotten a bump
 
 Balls faced: 19
 Bowler: Muzarabani
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide on a length, guided to point off the back foot"}]Wide on a length, guided to point off the back foot
+Wide on a length, guided to point off the back foot
 
 
 Balls faced: 20
 Bowler: Ngarava
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Into the pitch just outside off, 126ks, let go"}]Into the pitch just outside off, 126ks, let go
+Into the pitch just outside off, 126ks, let go
 
 
 Balls faced: 21
 Bowler: Ngarava
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Mistimes the pull to midwicket. Length around off at 126ks, Daniel swivelled but had to force it."}]Mistimes the pull to midwicket. Length around off at 126ks, Daniel swivelled but had to force it.
+Mistimes the pull to midwicket. Length around off at 126ks, Daniel swivelled but had to force it.
 
 
 Balls faced: 22
 Bowler: Ngarava
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Edge but falls a few feet in front of first slip. Length around off, 130ks, angling in. Daniel tried to block it straight, got a thick outside edge but it fizzled"}]Edge but falls a few feet in front of first slip. Length around off, 130ks, angling in. Daniel tried to block it straight, got a thick outside edge but it fizzled
+Edge but falls a few feet in front of first slip. Length around off, 130ks, angling in. Daniel tried to block it straight, got a thick outside edge but it fizzled
 
 
 Balls faced: 23
 Bowler: Raza
 Over: 7
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Loopy full ball on the boot from around the wicket, nurdled to deep square leg"}]Loopy full ball on the boot from around the wicket, nurdled to deep square leg
+Loopy full ball on the boot from around the wicket, nurdled to deep square leg
 
 
 Balls faced: 24
 Bowler: Raza
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Blocks it from off stump to the ground in front"}]Blocks it from off stump to the ground in front
+Blocks it from off stump to the ground in front
 
 
 Balls faced: 25
 Bowler: Raza
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, defended"}]Length outside off, defended
+Length outside off, defended
 
 
 Balls faced: 26
 Bowler: Muzarabani
 Over: 6
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beats him and hits around the top of the front thigh. Length ball coming back in and Daniel tried to work it square on the leg side"}]Beats him and hits around the top of the front thigh. Length ball coming back in and Daniel tried to work it square on the leg side
-[{"type": "HTML", "html": "Chrishan : \"How come Zimbabwe's target is no adjusted by DLS?\" It's because of the second break Sampath. If I got it right, they were none down at the first rain break but three down at the second. Had they stayed nil down, they would've gotten a bump"}]Chrishan : "How come Zimbabwe's target is no adjusted by DLS?" It's because of the second break Sampath. If I got it right, they were none down at the first rain break but three down at the second. Had they stayed nil down, they would've gotten a bump
+Beats him and hits around the top of the front thigh. Length ball coming back in and Daniel tried to work it square on the leg side
+Chrishan : "How come Zimbabwe's target is no adjusted by DLS?" It's because of the second break Sampath. If I got it right, they were none down at the first rain break but three down at the second. Had they stayed nil down, they would've gotten a bump
 
 Balls faced: 27
 Bowler: Muzarabani
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide on a length, guided to point off the back foot"}]Wide on a length, guided to point off the back foot
+Wide on a length, guided to point off the back foot
 
 
 Balls faced: 28
 Bowler: Muzarabani
 Over: 8
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Quick single to midwicket. Length ball around off, Daniel worked it off the back foot and was away immediately. He's been challenged often and hasn't been able to rotate strike generally. Does so this time."}]Quick single to midwicket. Length ball around off, Daniel worked it off the back foot and was away immediately. He's been challenged often and hasn't been able to rotate strike generally. Does so this time.
+Quick single to midwicket. Length ball around off, Daniel worked it off the back foot and was away immediately. He's been challenged often and hasn't been able to rotate strike generally. Does so this time.
 
 
 Balls faced: 29
 Bowler: Muzarabani
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of length just outside off, defended to cover"}]Back of length just outside off, defended to cover
+Back of length just outside off, defended to cover
 
 
 Balls faced: 30
 Bowler: Muzarabani
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beaten. Length ball zipped through top-of-fourth height. Daniel stood beside the line and tried to block it straight, didn't move his feet but played within the line"}]Beaten. Length ball zipped through top-of-fourth height. Daniel stood beside the line and tried to block it straight, didn't move his feet but played within the line
+Beaten. Length ball zipped through top-of-fourth height. Daniel stood beside the line and tried to block it straight, didn't move his feet but played within the line
 
 
 Balls faced: 31
 Bowler: Raza
 Over: 7
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Loopy full ball on the boot from around the wicket, nurdled to deep square leg"}]Loopy full ball on the boot from around the wicket, nurdled to deep square leg
+Loopy full ball on the boot from around the wicket, nurdled to deep square leg
 
 
 Balls faced: 32
 Bowler: Raza
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Blocks it from off stump to the ground in front"}]Blocks it from off stump to the ground in front
+Blocks it from off stump to the ground in front
 
 
 Balls faced: 33
 Bowler: Raza
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, defended"}]Length outside off, defended
+Length outside off, defended
 
 
 Balls faced: 34
 Bowler: Raza
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full around off, nudged to the leg side"}]Full around off, nudged to the leg side
+Full around off, nudged to the leg side
 
 
 Balls faced: 35
 Bowler: Raza
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Nudges the length ball from the pad to midwicket"}]Nudges the length ball from the pad to midwicket
+Nudges the length ball from the pad to midwicket
 
 
 Balls faced: 36
 Bowler: Raza
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tries to sweep it from outside off, goes hard and misses"}]Tries to sweep it from outside off, goes hard and misses
+Tries to sweep it from outside off, goes hard and misses
 
 
 Balls faced: 37
 Bowler: Raza
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on the pads, clipped to the leg side"}]Fullish ball on the pads, clipped to the leg side
+Fullish ball on the pads, clipped to the leg side
 
 
 Balls faced: 38
 Bowler: Muzarabani
 Over: 8
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Quick single to midwicket. Length ball around off, Daniel worked it off the back foot and was away immediately. He's been challenged often and hasn't been able to rotate strike generally. Does so this time."}]Quick single to midwicket. Length ball around off, Daniel worked it off the back foot and was away immediately. He's been challenged often and hasn't been able to rotate strike generally. Does so this time.
+Quick single to midwicket. Length ball around off, Daniel worked it off the back foot and was away immediately. He's been challenged often and hasn't been able to rotate strike generally. Does so this time.
 
 
 Balls faced: 39
 Bowler: Muzarabani
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of length just outside off, defended to cover"}]Back of length just outside off, defended to cover
+Back of length just outside off, defended to cover
 
 
 Balls faced: 40
 Bowler: Muzarabani
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Beaten. Length ball zipped through top-of-fourth height. Daniel stood beside the line and tried to block it straight, didn't move his feet but played within the line"}]Beaten. Length ball zipped through top-of-fourth height. Daniel stood beside the line and tried to block it straight, didn't move his feet but played within the line
+Beaten. Length ball zipped through top-of-fourth height. Daniel stood beside the line and tried to block it straight, didn't move his feet but played within the line
 
 
 Balls faced: 41
 Bowler: Raza
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full around off, nudged to the leg side"}]Full around off, nudged to the leg side
+Full around off, nudged to the leg side
 
 
 Balls faced: 42
 Bowler: Raza
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Nudges the length ball from the pad to midwicket"}]Nudges the length ball from the pad to midwicket
+Nudges the length ball from the pad to midwicket
 
 
 Balls faced: 43
 Bowler: Raza
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tries to sweep it from outside off, goes hard and misses"}]Tries to sweep it from outside off, goes hard and misses
+Tries to sweep it from outside off, goes hard and misses
 
 
 Balls faced: 44
 Bowler: Raza
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on the pads, clipped to the leg side"}]Fullish ball on the pads, clipped to the leg side
+Fullish ball on the pads, clipped to the leg side
 
 
 Balls faced: 45
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball around off, 96ks, Daniel blocks it back to the bowler before practising the pull"}]Shortish ball around off, 96ks, Daniel blocks it back to the bowler before practising the pull
+Shortish ball around off, 96ks, Daniel blocks it back to the bowler before practising the pull
 
 
 Balls faced: 46
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Around"}]Around
+Around
 
-[{"type": "HTML", "html": "Wide and full, 94ks, caresses it off the front foot to the left of deep point, who has to slide across to cut it off"}]Wide and full, 94ks, caresses it off the front foot to the left of deep point, who has to slide across to cut it off
+Wide and full, 94ks, caresses it off the front foot to the left of deep point, who has to slide across to cut it off
 
 
 Balls faced: 47
 Bowler: Muzarabani
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Quick single after tapping it in front of point. Length around off, Daniel playing that with soft hands and calling early"}]Quick single after tapping it in front of point. Length around off, Daniel playing that with soft hands and calling early
+Quick single after tapping it in front of point. Length around off, Daniel playing that with soft hands and calling early
 
 
 Balls faced: 48
 Bowler: Muzarabani
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Inverse replay of the first ball. This one was angling away from a shortish length, Daniel tried to go over point and missed this time. He gets a wide for his troubles"}]Inverse replay of the first ball. This one was angling away from a shortish length, Daniel tried to go over point and missed this time. He gets a wide for his troubles
+Inverse replay of the first ball. This one was angling away from a shortish length, Daniel tried to go over point and missed this time. He gets a wide for his troubles
 
 Wide: 1
 Balls faced: 49
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball around off, 96ks, Daniel blocks it back to the bowler before practising the pull"}]Shortish ball around off, 96ks, Daniel blocks it back to the bowler before practising the pull
+Shortish ball around off, 96ks, Daniel blocks it back to the bowler before practising the pull
 
 
 Balls faced: 50
 Bowler: Raza
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Around"}]Around
+Around
 
-[{"type": "HTML", "html": "Wide and full, 94ks, caresses it off the front foot to the left of deep point, who has to slide across to cut it off"}]Wide and full, 94ks, caresses it off the front foot to the left of deep point, who has to slide across to cut it off
+Wide and full, 94ks, caresses it off the front foot to the left of deep point, who has to slide across to cut it off
 
 
 Balls faced: 51
 Bowler: Masakadza
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Chipped up, finds deep midwicket</strong>. Daniel danced down, Masakadza flighted it well and induced the shot a tad too early. It ballooned off the bottom of the bat and Shumba takes a dolly. Tough outing for Daniel, didn't get going but fought through and allowed the skipper to take the side close."}]<strong>Chipped up, finds deep midwicket</strong>. Daniel danced down, Masakadza flighted it well and induced the shot a tad too early. It ballooned off the bottom of the bat and Shumba takes a dolly. Tough outing for Daniel, didn't get going but fought through and allowed the skipper to take the side close.
+Daniel is OUT! caught
+c Shumba b Masakadza
+Shevon Daniel c Shumba b Masakadza 12 (28b 1x4 0x6 58m) SR: 42.85
+<strong>Chipped up, finds deep midwicket</strong>. Daniel danced down, Masakadza flighted it well and induced the shot a tad too early. It ballooned off the bottom of the bat and Shumba takes a dolly. Tough outing for Daniel, didn't get going but fought through and allowed the skipper to take the side close.
 
 
 Balls faced: 52
 Bowler: Masakadza
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Blocks the length ball, coming in to off, with a straight bat"}]Blocks the length ball, coming in to off, with a straight bat
+Blocks the length ball, coming in to off, with a straight bat
 
 
 Balls faced: 53
 Bowler: Masakadza
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Masakadza on from around the wicket"}]Masakadza on from around the wicket
+Masakadza on from around the wicket
 
-[{"type": "HTML", "html": "Full on the pads, 87ks, nudged to midwicket"}]Full on the pads, 87ks, nudged to midwicket
+Full on the pads, 87ks, nudged to midwicket
 
 
 Balls faced: 54
 Bowler: Muzarabani
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Quick single after tapping it in front of point. Length around off, Daniel playing that with soft hands and calling early"}]Quick single after tapping it in front of point. Length around off, Daniel playing that with soft hands and calling early
+Quick single after tapping it in front of point. Length around off, Daniel playing that with soft hands and calling early
 
 
 Balls faced: 55
 Bowler: Muzarabani
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Inverse replay of the first ball. This one was angling away from a shortish length, Daniel tried to go over point and missed this time. He gets a wide for his troubles"}]Inverse replay of the first ball. This one was angling away from a shortish length, Daniel tried to go over point and missed this time. He gets a wide for his troubles
+Inverse replay of the first ball. This one was angling away from a shortish length, Daniel tried to go over point and missed this time. He gets a wide for his troubles
 
 Wide: 1
 Balls faced: 56
 Bowler: Masakadza
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Chipped up, finds deep midwicket</strong>. Daniel danced down, Masakadza flighted it well and induced the shot a tad too early. It ballooned off the bottom of the bat and Shumba takes a dolly. Tough outing for Daniel, didn't get going but fought through and allowed the skipper to take the side close."}]<strong>Chipped up, finds deep midwicket</strong>. Daniel danced down, Masakadza flighted it well and induced the shot a tad too early. It ballooned off the bottom of the bat and Shumba takes a dolly. Tough outing for Daniel, didn't get going but fought through and allowed the skipper to take the side close.
+Daniel is OUT! caught
+c Shumba b Masakadza
+Shevon Daniel c Shumba b Masakadza 12 (28b 1x4 0x6 58m) SR: 42.85
+<strong>Chipped up, finds deep midwicket</strong>. Daniel danced down, Masakadza flighted it well and induced the shot a tad too early. It ballooned off the bottom of the bat and Shumba takes a dolly. Tough outing for Daniel, didn't get going but fought through and allowed the skipper to take the side close.
 
 
 Balls faced: 57
 Bowler: Masakadza
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Blocks the length ball, coming in to off, with a straight bat"}]Blocks the length ball, coming in to off, with a straight bat
+Blocks the length ball, coming in to off, with a straight bat
 
 
 Balls faced: 58
 Bowler: Masakadza
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Masakadza on from around the wicket"}]Masakadza on from around the wicket
+Masakadza on from around the wicket
 
-[{"type": "HTML", "html": "Full on the pads, 87ks, nudged to midwicket"}]Full on the pads, 87ks, nudged to midwicket
+Full on the pads, 87ks, nudged to midwicket
