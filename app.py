@@ -15,10 +15,6 @@ def read_file(file_path):
 
 # Streamlit app
 st.title("Batsman Analysis with GPT-4o")
-st.markdown("Scraped cricinfo to develop a dataset based on ball by ball commentary of cricinfo of each batsman's last several matches")
-st.markdown("API Link example: https://hs-consumer-api.espncricinfo.com/v1/pages/match/comments?seriesId=1411166&matchId=1415725&inningNumber=2&commentType=ALL&fromInningOver=1")
-st.markdown("GPT does not have information on the latest form of individual players, this might help")
-st.markdown(f"<font color=red> Hallucinations happen as this is based on LLMs</font>", unsafe_allow_html=True)
 
 # Directory containing player files
 player_directory = 'players'  # Make sure this directory exists and contains .txt files
@@ -47,7 +43,7 @@ def analyze_player(text):
 
 
 # Button to trigger the analysis
-if st.button("Analyze"):
+if st.button("Go! Get Strategy"):
     if selected_file and prompt:
         # Read the content of the selected player file
         player_content = read_file(os.path.join(player_directory, selected_file))
@@ -64,4 +60,10 @@ if st.button("Analyze"):
             st.error(f"Error: {e}")
     else:
         st.error("Please select a file, enter a prompt, and provide your OpenAI API key.")
+
+st.markdown("Scraped cricinfo to develop a dataset based on ball by ball commentary of cricinfo of each batsman's last several matches")
+st.markdown("API Link example: https://hs-consumer-api.espncricinfo.com/v1/pages/match/comments?seriesId=1411166&matchId=1415725&inningNumber=2&commentType=ALL&fromInningOver=1")
+st.markdown("GPT does not have information on the latest form of individual players, this might help")
+st.markdown(f"<font color=red> Hallucinations happen as this is based on LLMs</font>", unsafe_allow_html=True)
+
 
