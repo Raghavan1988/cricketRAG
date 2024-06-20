@@ -1,416 +1,661 @@
-Match: southafrica_1367856_1384433.json
+Match: all_games_1367856_1384433.json
 Balls faced: 1
 Bowler: Mujeeb
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Over the wicket to Bavuma. Slip in place"}]Over the wicket to Bavuma. Slip in place
-length delivery that hones in on off stump. Bavuma comes forward and blocks
+
+[{"type": "HTML", "html": "length delivery that hones in on off stump. Bavuma comes forward and blocks"}]length delivery that hones in on off stump. Bavuma comes forward and blocks
+
+
 Balls faced: 2
 Bowler: Naveen-ul-Haq
-Over:2
+Over: 2
 Shot: COVER_DRIVE
-run scored: 0
-full and speared into off stump. Bavuma gets a half stride forward and prods it into the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full and speared into off stump. Bavuma gets a half stride forward and prods it into the off side"}]full and speared into off stump. Bavuma gets a half stride forward and prods it into the off side
+
+
 Balls faced: 3
 Bowler: Naveen-ul-Haq
-Over:2
+Over: 2
 Shot: COVER_DRIVE
-run scored: 0
-full outside off. Bavuma presses forward and pushes it down the ground towards mid off. Pulls up a little after the stroke, though
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full outside off. Bavuma presses forward and pushes it down the ground towards mid off. Pulls up a little after the stroke, though"}]full outside off. Bavuma presses forward and pushes it down the ground towards mid off. Pulls up a little after the stroke, though
+
+
 Balls faced: 4
 Bowler: Naveen-ul-Haq
-Over:2
+Over: 2
 Shot: COVER_DRIVE
-run scored: 0
-full and wide outside off. Bavuma times it sweetly but cannot beat the fielder at cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full and wide outside off. Bavuma times it sweetly but cannot beat the fielder at cover"}]full and wide outside off. Bavuma times it sweetly but cannot beat the fielder at cover
+
+
 Balls faced: 5
 Bowler: Naveen-ul-Haq
-Over:2
+Over: 2
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Slip remains for Bavuma, as does the gully fielder"}]Slip remains for Bavuma, as does the gully fielder
-length delivery hung outside off. Holds its line as Bavuma watches it go through to the keeper
+
+[{"type": "HTML", "html": "length delivery hung outside off. Holds its line as Bavuma watches it go through to the keeper"}]length delivery hung outside off. Holds its line as Bavuma watches it go through to the keeper
+
+
 Balls faced: 6
 Bowler: Mujeeb
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Over the wicket to Bavuma. Slip in place"}]Over the wicket to Bavuma. Slip in place
-length delivery that hones in on off stump. Bavuma comes forward and blocks
+
+[{"type": "HTML", "html": "length delivery that hones in on off stump. Bavuma comes forward and blocks"}]length delivery that hones in on off stump. Bavuma comes forward and blocks
+
+
 Balls faced: 7
 Bowler: Mujeeb
-Over:3
+Over: 3
 Shot: REVERSE_SWEEP
-run scored: 0
-<strong>oh!</strong> Length delivery slanted into leg stump. Bavuma tries the reverse sweep but plays all over it. Gets rapped on the pads, but that was going well down leg
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>oh!</strong> Length delivery slanted into leg stump. Bavuma tries the reverse sweep but plays all over it. Gets rapped on the pads, but that was going well down leg"}]<strong>oh!</strong> Length delivery slanted into leg stump. Bavuma tries the reverse sweep but plays all over it. Gets rapped on the pads, but that was going well down leg
+
+
 Balls faced: 8
 Bowler: Mujeeb
-Over:3
+Over: 3
 Shot: ON_DRIVE
-run scored: 1
-full just outside off. Bavuma comes onto the front foot and drives it towards long on for a single. Good work by Rashid on the fence
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full just outside off. Bavuma comes onto the front foot and drives it towards long on for a single. Good work by Rashid on the fence"}]full just outside off. Bavuma comes onto the front foot and drives it towards long on for a single. Good work by Rashid on the fence
+
+
 Balls faced: 9
 Bowler: Naveen-ul-Haq
-Over:2
+Over: 2
 Shot: COVER_DRIVE
-run scored: 0
-full and speared into off stump. Bavuma gets a half stride forward and prods it into the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full and speared into off stump. Bavuma gets a half stride forward and prods it into the off side"}]full and speared into off stump. Bavuma gets a half stride forward and prods it into the off side
+
+
 Balls faced: 10
 Bowler: Naveen-ul-Haq
-Over:2
+Over: 2
 Shot: COVER_DRIVE
-run scored: 0
-full outside off. Bavuma presses forward and pushes it down the ground towards mid off. Pulls up a little after the stroke, though
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full outside off. Bavuma presses forward and pushes it down the ground towards mid off. Pulls up a little after the stroke, though"}]full outside off. Bavuma presses forward and pushes it down the ground towards mid off. Pulls up a little after the stroke, though
+
+
 Balls faced: 11
 Bowler: Naveen-ul-Haq
-Over:2
+Over: 2
 Shot: COVER_DRIVE
-run scored: 0
-full and wide outside off. Bavuma times it sweetly but cannot beat the fielder at cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full and wide outside off. Bavuma times it sweetly but cannot beat the fielder at cover"}]full and wide outside off. Bavuma times it sweetly but cannot beat the fielder at cover
+
+
 Balls faced: 12
 Bowler: Naveen-ul-Haq
-Over:2
+Over: 2
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Slip remains for Bavuma, as does the gully fielder"}]Slip remains for Bavuma, as does the gully fielder
-length delivery hung outside off. Holds its line as Bavuma watches it go through to the keeper
+
+[{"type": "HTML", "html": "length delivery hung outside off. Holds its line as Bavuma watches it go through to the keeper"}]length delivery hung outside off. Holds its line as Bavuma watches it go through to the keeper
+
+
 Balls faced: 13
 Bowler: Naveen-ul-Haq
-Over:4
+Over: 4
 Shot: DAB
-run scored: 1
-fullish just outside off. Bavuma opens his bat face and runs it down to third man
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fullish just outside off. Bavuma opens his bat face and runs it down to third man"}]fullish just outside off. Bavuma opens his bat face and runs it down to third man
+
+
 Balls faced: 14
 Bowler: Mujeeb
-Over:3
+Over: 3
 Shot: REVERSE_SWEEP
-run scored: 0
-<strong>oh!</strong> Length delivery slanted into leg stump. Bavuma tries the reverse sweep but plays all over it. Gets rapped on the pads, but that was going well down leg
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>oh!</strong> Length delivery slanted into leg stump. Bavuma tries the reverse sweep but plays all over it. Gets rapped on the pads, but that was going well down leg"}]<strong>oh!</strong> Length delivery slanted into leg stump. Bavuma tries the reverse sweep but plays all over it. Gets rapped on the pads, but that was going well down leg
+
+
 Balls faced: 15
 Bowler: Mujeeb
-Over:3
+Over: 3
 Shot: ON_DRIVE
-run scored: 1
-full just outside off. Bavuma comes onto the front foot and drives it towards long on for a single. Good work by Rashid on the fence
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full just outside off. Bavuma comes onto the front foot and drives it towards long on for a single. Good work by Rashid on the fence"}]full just outside off. Bavuma comes onto the front foot and drives it towards long on for a single. Good work by Rashid on the fence
+
+
 Balls faced: 16
 Bowler: M Nabi
-Over:5
+Over: 5
 Shot: ON_DRIVE
-run scored: 1
-full on off. Seems to stick in the surface as Bavuma plonks it back towards the bowler. Nabi misfields and ends up conceding a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on off. Seems to stick in the surface as Bavuma plonks it back towards the bowler. Nabi misfields and ends up conceding a single"}]full on off. Seems to stick in the surface as Bavuma plonks it back towards the bowler. Nabi misfields and ends up conceding a single
+
+
 Balls faced: 17
 Bowler: M Nabi
-Over:5
+Over: 5
 Shot: FLICK
-run scored: 0
-shortish on off, and this one spins back a great deal. Bavuma plays with the turn and helps it towards short fine leg
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shortish on off, and this one spins back a great deal. Bavuma plays with the turn and helps it towards short fine leg"}]shortish on off, and this one spins back a great deal. Bavuma plays with the turn and helps it towards short fine leg
+
+
 Balls faced: 18
 Bowler: M Nabi
-Over:5
+Over: 5
 Shot: PUSH
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Nabi gets an early bowl. Over the wicket to Bavuma"}, {"type": "HTML", "html": "de Kock is now the leading run-scorer in this World Cup. The brace off the last ball of the previous over took him past Rachin Ravindra"}]Nabi gets an early bowl. Over the wicket to Bavuma de Kock is now the leading run-scorer in this World Cup. The brace off the last ball of the previous over took him past Rachin Ravindra
-length delivery outside off. Continues with the arm and sneaks past the outside edge of Bavuma's bat
+
+[{"type": "HTML", "html": "length delivery outside off. Continues with the arm and sneaks past the outside edge of Bavuma's bat"}]length delivery outside off. Continues with the arm and sneaks past the outside edge of Bavuma's bat
+
+
 Balls faced: 19
 Bowler: Naveen-ul-Haq
-Over:4
+Over: 4
 Shot: DAB
-run scored: 1
-fullish just outside off. Bavuma opens his bat face and runs it down to third man
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fullish just outside off. Bavuma opens his bat face and runs it down to third man"}]fullish just outside off. Bavuma opens his bat face and runs it down to third man
+
+
 Balls faced: 20
 Bowler: Naveen-ul-Haq
-Over:6
+Over: 6
 Shot: PULL
-run scored: 1
-short on off stump. This time, Bavuma rolls his wrists and pulls it towards deep square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short on off stump. This time, Bavuma rolls his wrists and pulls it towards deep square leg"}]short on off stump. This time, Bavuma rolls his wrists and pulls it towards deep square leg
+
+
 Balls faced: 21
 Bowler: Naveen-ul-Haq
-Over:6
+Over: 6
 Shot: FLICK
-run scored: 1
-back of a length outside off. Bavuma turns it towards deep square leg and hobbles across to the other end
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length outside off. Bavuma turns it towards deep square leg and hobbles across to the other end"}]back of a length outside off. Bavuma turns it towards deep square leg and hobbles across to the other end
+
+
 Balls faced: 22
 Bowler: Naveen-ul-Haq
-Over:6
+Over: 6
 Shot: HOOK
-run scored: 4
-<strong>streaky!</strong> Banged into the track outside off. Bavuma gets into a bit of a tangle as the ball gets big on him. He swipes at it anyway and the ball skews off the top edge, well over the keeper
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>streaky!</strong> Banged into the track outside off. Bavuma gets into a bit of a tangle as the ball gets big on him. He swipes at it anyway and the ball skews off the top edge, well over the keeper"}]<strong>streaky!</strong> Banged into the track outside off. Bavuma gets into a bit of a tangle as the ball gets big on him. He swipes at it anyway and the ball skews off the top edge, well over the keeper
+
+
 Balls faced: 23
 Bowler: Naveen-ul-Haq
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-hard length just outside off. Bavuma gets behind the line of the ball and plays it with soft hands
+Run scored: 0
+
+
+[{"type": "HTML", "html": "hard length just outside off. Bavuma gets behind the line of the ball and plays it with soft hands"}]hard length just outside off. Bavuma gets behind the line of the ball and plays it with soft hands
+
+
 Balls faced: 24
 Bowler: M Nabi
-Over:5
+Over: 5
 Shot: ON_DRIVE
-run scored: 1
-full on off. Seems to stick in the surface as Bavuma plonks it back towards the bowler. Nabi misfields and ends up conceding a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on off. Seems to stick in the surface as Bavuma plonks it back towards the bowler. Nabi misfields and ends up conceding a single"}]full on off. Seems to stick in the surface as Bavuma plonks it back towards the bowler. Nabi misfields and ends up conceding a single
+
+
 Balls faced: 25
 Bowler: M Nabi
-Over:5
+Over: 5
 Shot: FLICK
-run scored: 0
-shortish on off, and this one spins back a great deal. Bavuma plays with the turn and helps it towards short fine leg
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shortish on off, and this one spins back a great deal. Bavuma plays with the turn and helps it towards short fine leg"}]shortish on off, and this one spins back a great deal. Bavuma plays with the turn and helps it towards short fine leg
+
+
 Balls faced: 26
 Bowler: M Nabi
-Over:5
+Over: 5
 Shot: PUSH
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Nabi gets an early bowl. Over the wicket to Bavuma"}, {"type": "HTML", "html": "de Kock is now the leading run-scorer in this World Cup. The brace off the last ball of the previous over took him past Rachin Ravindra"}]Nabi gets an early bowl. Over the wicket to Bavuma de Kock is now the leading run-scorer in this World Cup. The brace off the last ball of the previous over took him past Rachin Ravindra
-length delivery outside off. Continues with the arm and sneaks past the outside edge of Bavuma's bat
+
+[{"type": "HTML", "html": "length delivery outside off. Continues with the arm and sneaks past the outside edge of Bavuma's bat"}]length delivery outside off. Continues with the arm and sneaks past the outside edge of Bavuma's bat
+
+
 Balls faced: 27
 Bowler: M Nabi
-Over:7
+Over: 7
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Nabi to continue. Leg slip in place for Bavuma"}]Nabi to continue. Leg slip in place for Bavuma
-<strong>oh dear, has de Kock been run out?!</strong> Back of a length on middle and off. Bavuma works it towards square leg and initially sets off. Both batters then hesitate and de Kock has to put on his skates to get to the batter's end. Stretches full-length, and gets there, despite a direct hit!
+
+[{"type": "HTML", "html": "<strong>oh dear, has de Kock been run out?!</strong> Back of a length on middle and off. Bavuma works it towards square leg and initially sets off. Both batters then hesitate and de Kock has to put on his skates to get to the batter's end. Stretches full-length, and gets there, despite a direct hit!"}]<strong>oh dear, has de Kock been run out?!</strong> Back of a length on middle and off. Bavuma works it towards square leg and initially sets off. Both batters then hesitate and de Kock has to put on his skates to get to the batter's end. Stretches full-length, and gets there, despite a direct hit!
+
+
 Balls faced: 28
 Bowler: Naveen-ul-Haq
-Over:6
+Over: 6
 Shot: PULL
-run scored: 1
-short on off stump. This time, Bavuma rolls his wrists and pulls it towards deep square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "short on off stump. This time, Bavuma rolls his wrists and pulls it towards deep square leg"}]short on off stump. This time, Bavuma rolls his wrists and pulls it towards deep square leg
+
+
 Balls faced: 29
 Bowler: Naveen-ul-Haq
-Over:6
+Over: 6
 Shot: FLICK
-run scored: 1
-back of a length outside off. Bavuma turns it towards deep square leg and hobbles across to the other end
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length outside off. Bavuma turns it towards deep square leg and hobbles across to the other end"}]back of a length outside off. Bavuma turns it towards deep square leg and hobbles across to the other end
+
+
 Balls faced: 30
 Bowler: Naveen-ul-Haq
-Over:6
+Over: 6
 Shot: HOOK
-run scored: 4
-<strong>streaky!</strong> Banged into the track outside off. Bavuma gets into a bit of a tangle as the ball gets big on him. He swipes at it anyway and the ball skews off the top edge, well over the keeper
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>streaky!</strong> Banged into the track outside off. Bavuma gets into a bit of a tangle as the ball gets big on him. He swipes at it anyway and the ball skews off the top edge, well over the keeper"}]<strong>streaky!</strong> Banged into the track outside off. Bavuma gets into a bit of a tangle as the ball gets big on him. He swipes at it anyway and the ball skews off the top edge, well over the keeper
+
+
 Balls faced: 31
 Bowler: Naveen-ul-Haq
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-hard length just outside off. Bavuma gets behind the line of the ball and plays it with soft hands
+Run scored: 0
+
+
+[{"type": "HTML", "html": "hard length just outside off. Bavuma gets behind the line of the ball and plays it with soft hands"}]hard length just outside off. Bavuma gets behind the line of the ball and plays it with soft hands
+
+
 Balls faced: 32
 Bowler: Naveen-ul-Haq
-Over:8
+Over: 8
 Shot: COVER_DRIVE
-run scored: 1
-full on off. Bavuma shimmies around his crease a touch before driving it towards mid off. Hobbles across to the other end, again
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on off. Bavuma shimmies around his crease a touch before driving it towards mid off. Hobbles across to the other end, again"}]full on off. Bavuma shimmies around his crease a touch before driving it towards mid off. Hobbles across to the other end, again
+
+
 Balls faced: 33
 Bowler: M Nabi
-Over:7
+Over: 7
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Nabi to continue. Leg slip in place for Bavuma"}]Nabi to continue. Leg slip in place for Bavuma
-<strong>oh dear, has de Kock been run out?!</strong> Back of a length on middle and off. Bavuma works it towards square leg and initially sets off. Both batters then hesitate and de Kock has to put on his skates to get to the batter's end. Stretches full-length, and gets there, despite a direct hit!
+
+[{"type": "HTML", "html": "<strong>oh dear, has de Kock been run out?!</strong> Back of a length on middle and off. Bavuma works it towards square leg and initially sets off. Both batters then hesitate and de Kock has to put on his skates to get to the batter's end. Stretches full-length, and gets there, despite a direct hit!"}]<strong>oh dear, has de Kock been run out?!</strong> Back of a length on middle and off. Bavuma works it towards square leg and initially sets off. Both batters then hesitate and de Kock has to put on his skates to get to the batter's end. Stretches full-length, and gets there, despite a direct hit!
+
+
 Balls faced: 34
 Bowler: M Nabi
-Over:9
+Over: 9
 Shot: ON_DRIVE
-run scored: 1
-fuller and flatter outside off. Bavuma flicks it down to long on for a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fuller and flatter outside off. Bavuma flicks it down to long on for a single"}]fuller and flatter outside off. Bavuma flicks it down to long on for a single
+
+
 Balls faced: 35
 Bowler: M Nabi
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-slowed up beautifully on a full length on middle and off. Swerves away late and squares up Bavuma as he prods it into the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slowed up beautifully on a full length on middle and off. Swerves away late and squares up Bavuma as he prods it into the off side"}]slowed up beautifully on a full length on middle and off. Swerves away late and squares up Bavuma as he prods it into the off side
+
+
 Balls faced: 36
 Bowler: M Nabi
-Over:9
+Over: 9
 Shot: FLICK
-run scored: 4
-<strong>shot!</strong> Length on middle and leg. Bavuma takes a step across his stumps, gets down on one knee and paddles it over short fine leg for four!
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>shot!</strong> Length on middle and leg. Bavuma takes a step across his stumps, gets down on one knee and paddles it over short fine leg for four!"}]<strong>shot!</strong> Length on middle and leg. Bavuma takes a step across his stumps, gets down on one knee and paddles it over short fine leg for four!
+
+
 Balls faced: 37
 Bowler: M Nabi
-Over:9
+Over: 9
 Shot: ON_DRIVE
-run scored: 1
-back of a length outside off. Bavuma hangs back and knocks it down the ground to long on
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length outside off. Bavuma hangs back and knocks it down the ground to long on"}]back of a length outside off. Bavuma hangs back and knocks it down the ground to long on
+
+
 Balls faced: 38
 Bowler: Naveen-ul-Haq
-Over:8
+Over: 8
 Shot: COVER_DRIVE
-run scored: 1
-full on off. Bavuma shimmies around his crease a touch before driving it towards mid off. Hobbles across to the other end, again
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full on off. Bavuma shimmies around his crease a touch before driving it towards mid off. Hobbles across to the other end, again"}]full on off. Bavuma shimmies around his crease a touch before driving it towards mid off. Hobbles across to the other end, again
+
+
 Balls faced: 39
 Bowler: Azmatullah
-Over:10
+Over: 10
 Shot: FLICK
-run scored: 1
-low full toss on the pads. Bavuma tucks it away towards deep square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "low full toss on the pads. Bavuma tucks it away towards deep square leg"}]low full toss on the pads. Bavuma tucks it away towards deep square leg
+
+
 Balls faced: 40
 Bowler: Azmatullah
-Over:10
+Over: 10
 Shot: DEFENDED
-run scored: 0
-length just outside off. Bavuma presses half forward and defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length just outside off. Bavuma presses half forward and defends"}]length just outside off. Bavuma presses half forward and defends
+
+
 Balls faced: 41
 Bowler: M Nabi
-Over:9
+Over: 9
 Shot: ON_DRIVE
-run scored: 1
-fuller and flatter outside off. Bavuma flicks it down to long on for a single
+Run scored: 1
+
+
+[{"type": "HTML", "html": "fuller and flatter outside off. Bavuma flicks it down to long on for a single"}]fuller and flatter outside off. Bavuma flicks it down to long on for a single
+
+
 Balls faced: 42
 Bowler: M Nabi
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-slowed up beautifully on a full length on middle and off. Swerves away late and squares up Bavuma as he prods it into the off side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slowed up beautifully on a full length on middle and off. Swerves away late and squares up Bavuma as he prods it into the off side"}]slowed up beautifully on a full length on middle and off. Swerves away late and squares up Bavuma as he prods it into the off side
+
+
 Balls faced: 43
 Bowler: M Nabi
-Over:9
+Over: 9
 Shot: FLICK
-run scored: 4
-<strong>shot!</strong> Length on middle and leg. Bavuma takes a step across his stumps, gets down on one knee and paddles it over short fine leg for four!
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>shot!</strong> Length on middle and leg. Bavuma takes a step across his stumps, gets down on one knee and paddles it over short fine leg for four!"}]<strong>shot!</strong> Length on middle and leg. Bavuma takes a step across his stumps, gets down on one knee and paddles it over short fine leg for four!
+
+
 Balls faced: 44
 Bowler: M Nabi
-Over:9
+Over: 9
 Shot: ON_DRIVE
-run scored: 1
-back of a length outside off. Bavuma hangs back and knocks it down the ground to long on
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length outside off. Bavuma hangs back and knocks it down the ground to long on"}]back of a length outside off. Bavuma hangs back and knocks it down the ground to long on
+
+
 Balls faced: 45
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: PULL
-run scored: 0
-OUT! {"short": "caught", "long": "c Rahmanullah Gurbaz b Mujeeb Ur Rahman", "commentary": "Temba Bavuma c Rahmanullah Gurbaz b Mujeeb Ur Rahman 23 (28b 3x4 0x6 49m) SR: 82.14"}
-<strong>holes out to deep square leg! Bavuma's troubled stay comes to an end!</strong> Back of a length delivery at the stumps that seems to hurry onto Bavuma a touch. He tries to heave it over deep square leg but does not get the power or the elevation he is after. Arrows it straight to Gurbaz, who does the rest!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>holes out to deep square leg! Bavuma's troubled stay comes to an end!</strong> Back of a length delivery at the stumps that seems to hurry onto Bavuma a touch. He tries to heave it over deep square leg but does not get the power or the elevation he is after. Arrows it straight to Gurbaz, who does the rest!"}]<strong>holes out to deep square leg! Bavuma's troubled stay comes to an end!</strong> Back of a length delivery at the stumps that seems to hurry onto Bavuma a touch. He tries to heave it over deep square leg but does not get the power or the elevation he is after. Arrows it straight to Gurbaz, who does the rest!
+
+
 Balls faced: 46
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: PULL
-run scored: 0
-sprayed down the leg side. Bavuma swings and misses. Some exercise for the umpire
+Run scored: 0
+
+
+[{"type": "HTML", "html": "sprayed down the leg side. Bavuma swings and misses. Some exercise for the umpire"}]sprayed down the leg side. Bavuma swings and misses. Some exercise for the umpire
+
 Wide: 1
 Balls faced: 47
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: PUSH
-run scored: 0
-length on middle and leg. Bavuma opts to stay back and defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length on middle and leg. Bavuma opts to stay back and defends"}]length on middle and leg. Bavuma opts to stay back and defends
+
+
 Balls faced: 48
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: REVERSE_SWEEP
-run scored: 0
-slowed up considerably on a fullish length outside off. Bavuma tries the reverse but is too early into the stroke
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slowed up considerably on a fullish length outside off. Bavuma tries the reverse but is too early into the stroke"}]slowed up considerably on a fullish length outside off. Bavuma tries the reverse but is too early into the stroke
+
+
 Balls faced: 49
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: FLICK
-run scored: 4
-<strong>fortunate!</strong> Fired in on a length just outside off. Bavuma is caught on the crease, perhaps because he plays the trajectory and stays back. Has a nibble at it and gets an inside edge that goes past leg stump and beats short fine leg comfortably
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>fortunate!</strong> Fired in on a length just outside off. Bavuma is caught on the crease, perhaps because he plays the trajectory and stays back. Has a nibble at it and gets an inside edge that goes past leg stump and beats short fine leg comfortably"}]<strong>fortunate!</strong> Fired in on a length just outside off. Bavuma is caught on the crease, perhaps because he plays the trajectory and stays back. Has a nibble at it and gets an inside edge that goes past leg stump and beats short fine leg comfortably
+
+
 Balls faced: 50
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Mujeeb is back"}, {"type": "HTML", "html": "A A Musabbir : \"looks like cramp is a blessing in disguise for batters. It helps to concentrate more in the game. Examples are Rizwan, Maxwell, Bavuma etc.\" -- Not sure if this is cramp, though. Bavuma seemed to be struggling when SA were fielding too, and this looks more like a hamstring issue"}]Mujeeb is back A A Musabbir : "looks like cramp is a blessing in disguise for batters. It helps to concentrate more in the game. Examples are Rizwan, Maxwell, Bavuma etc." -- Not sure if this is cramp, though. Bavuma seemed to be struggling when SA were fielding too, and this looks more like a hamstring issue
-darted in on a back of a length on leg stump. Bavuma works it towards deep square leg
+
+[{"type": "HTML", "html": "darted in on a back of a length on leg stump. Bavuma works it towards deep square leg"}]darted in on a back of a length on leg stump. Bavuma works it towards deep square leg
+
+
 Balls faced: 51
 Bowler: Azmatullah
-Over:10
+Over: 10
 Shot: FLICK
-run scored: 1
-low full toss on the pads. Bavuma tucks it away towards deep square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "low full toss on the pads. Bavuma tucks it away towards deep square leg"}]low full toss on the pads. Bavuma tucks it away towards deep square leg
+
+
 Balls faced: 52
 Bowler: Azmatullah
-Over:10
+Over: 10
 Shot: DEFENDED
-run scored: 0
-length just outside off. Bavuma presses half forward and defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length just outside off. Bavuma presses half forward and defends"}]length just outside off. Bavuma presses half forward and defends
+
+
 Balls faced: 53
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: PULL
-run scored: 0
-OUT! {"short": "caught", "long": "c Rahmanullah Gurbaz b Mujeeb Ur Rahman", "commentary": "Temba Bavuma c Rahmanullah Gurbaz b Mujeeb Ur Rahman 23 (28b 3x4 0x6 49m) SR: 82.14"}
-<strong>holes out to deep square leg! Bavuma's troubled stay comes to an end!</strong> Back of a length delivery at the stumps that seems to hurry onto Bavuma a touch. He tries to heave it over deep square leg but does not get the power or the elevation he is after. Arrows it straight to Gurbaz, who does the rest!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>holes out to deep square leg! Bavuma's troubled stay comes to an end!</strong> Back of a length delivery at the stumps that seems to hurry onto Bavuma a touch. He tries to heave it over deep square leg but does not get the power or the elevation he is after. Arrows it straight to Gurbaz, who does the rest!"}]<strong>holes out to deep square leg! Bavuma's troubled stay comes to an end!</strong> Back of a length delivery at the stumps that seems to hurry onto Bavuma a touch. He tries to heave it over deep square leg but does not get the power or the elevation he is after. Arrows it straight to Gurbaz, who does the rest!
+
+
 Balls faced: 54
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: PULL
-run scored: 0
-sprayed down the leg side. Bavuma swings and misses. Some exercise for the umpire
+Run scored: 0
+
+
+[{"type": "HTML", "html": "sprayed down the leg side. Bavuma swings and misses. Some exercise for the umpire"}]sprayed down the leg side. Bavuma swings and misses. Some exercise for the umpire
+
 Wide: 1
 Balls faced: 55
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: PUSH
-run scored: 0
-length on middle and leg. Bavuma opts to stay back and defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length on middle and leg. Bavuma opts to stay back and defends"}]length on middle and leg. Bavuma opts to stay back and defends
+
+
 Balls faced: 56
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: REVERSE_SWEEP
-run scored: 0
-slowed up considerably on a fullish length outside off. Bavuma tries the reverse but is too early into the stroke
+Run scored: 0
+
+
+[{"type": "HTML", "html": "slowed up considerably on a fullish length outside off. Bavuma tries the reverse but is too early into the stroke"}]slowed up considerably on a fullish length outside off. Bavuma tries the reverse but is too early into the stroke
+
+
 Balls faced: 57
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: FLICK
-run scored: 4
-<strong>fortunate!</strong> Fired in on a length just outside off. Bavuma is caught on the crease, perhaps because he plays the trajectory and stays back. Has a nibble at it and gets an inside edge that goes past leg stump and beats short fine leg comfortably
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>fortunate!</strong> Fired in on a length just outside off. Bavuma is caught on the crease, perhaps because he plays the trajectory and stays back. Has a nibble at it and gets an inside edge that goes past leg stump and beats short fine leg comfortably"}]<strong>fortunate!</strong> Fired in on a length just outside off. Bavuma is caught on the crease, perhaps because he plays the trajectory and stays back. Has a nibble at it and gets an inside edge that goes past leg stump and beats short fine leg comfortably
+
+
 Balls faced: 58
 Bowler: Mujeeb
-Over:11
+Over: 11
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Mujeeb is back"}, {"type": "HTML", "html": "A A Musabbir : \"looks like cramp is a blessing in disguise for batters. It helps to concentrate more in the game. Examples are Rizwan, Maxwell, Bavuma etc.\" -- Not sure if this is cramp, though. Bavuma seemed to be struggling when SA were fielding too, and this looks more like a hamstring issue"}]Mujeeb is back A A Musabbir : "looks like cramp is a blessing in disguise for batters. It helps to concentrate more in the game. Examples are Rizwan, Maxwell, Bavuma etc." -- Not sure if this is cramp, though. Bavuma seemed to be struggling when SA were fielding too, and this looks more like a hamstring issue
-darted in on a back of a length on leg stump. Bavuma works it towards deep square leg
-Match: southafrica_1367856_1384438.json
+
+[{"type": "HTML", "html": "darted in on a back of a length on leg stump. Bavuma works it towards deep square leg"}]darted in on a back of a length on leg stump. Bavuma works it towards deep square leg
+
+
+
+Match: all_games_1367856_1384438.json
 Balls faced: 1
 Bowler: Starc
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020Inglis b Starc", "commentary": "Temba Bavuma c \u2020Inglis b Starc 0 (4b 0x4 0x6 5m) SR: 0"}
-<strong>edged, caught behind!</strong> Early strike for Starc. On off stump, goes on the with angle, a bit of a limp poke from the captain and it's a neat catch by Inglis, low to his right
-Perfect start for Australia. Starc hasn't had the best World Cup, but as in 2015 final he has a first-over wicket in the semi final
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>edged, caught behind!</strong> Early strike for Starc. On off stump, goes on the with angle, a bit of a limp poke from the captain and it's a neat catch by Inglis, low to his right"}]<strong>edged, caught behind!</strong> Early strike for Starc. On off stump, goes on the with angle, a bit of a limp poke from the captain and it's a neat catch by Inglis, low to his right
+[{"type": "HTML", "html": "Perfect start for Australia. Starc hasn't had the best World Cup, but as in 2015 final he has a first-over wicket in the semi final"}]Perfect start for Australia. Starc hasn't had the best World Cup, but as in 2015 final he has a first-over wicket in the semi final
+
 Balls faced: 2
 Bowler: Starc
-Over:1
+Over: 1
 Shot: LEFT_ALONE
-run scored: 0
-in the channel outside off, left alone, doesn't like a huge amount of pace in the pitch
+Run scored: 0
+
+
+[{"type": "HTML", "html": "in the channel outside off, left alone, doesn't like a huge amount of pace in the pitch"}]in the channel outside off, left alone, doesn't like a huge amount of pace in the pitch
+
+
 Balls faced: 3
 Bowler: Starc
-Over:1
+Over: 1
 Shot: LEFT_ALONE
-run scored: 0
-pushed very wide outside off but he gets away with it
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pushed very wide outside off but he gets away with it"}]pushed very wide outside off but he gets away with it
+
+
 Balls faced: 4
 Bowler: Starc
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
-full at off stump, some shape in, a half-hearted drive without much footwork
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full at off stump, some shape in, a half-hearted drive without much footwork"}]full at off stump, some shape in, a half-hearted drive without much footwork
+
+
 Balls faced: 5
 Bowler: Starc
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020Inglis b Starc", "commentary": "Temba Bavuma c \u2020Inglis b Starc 0 (4b 0x4 0x6 5m) SR: 0"}
-<strong>edged, caught behind!</strong> Early strike for Starc. On off stump, goes on the with angle, a bit of a limp poke from the captain and it's a neat catch by Inglis, low to his right
-Perfect start for Australia. Starc hasn't had the best World Cup, but as in 2015 final he has a first-over wicket in the semi final
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>edged, caught behind!</strong> Early strike for Starc. On off stump, goes on the with angle, a bit of a limp poke from the captain and it's a neat catch by Inglis, low to his right"}]<strong>edged, caught behind!</strong> Early strike for Starc. On off stump, goes on the with angle, a bit of a limp poke from the captain and it's a neat catch by Inglis, low to his right
+[{"type": "HTML", "html": "Perfect start for Australia. Starc hasn't had the best World Cup, but as in 2015 final he has a first-over wicket in the semi final"}]Perfect start for Australia. Starc hasn't had the best World Cup, but as in 2015 final he has a first-over wicket in the semi final
+
 Balls faced: 6
 Bowler: Starc
-Over:1
+Over: 1
 Shot: LEFT_ALONE
-run scored: 0
-in the channel outside off, left alone, doesn't like a huge amount of pace in the pitch
+Run scored: 0
+
+
+[{"type": "HTML", "html": "in the channel outside off, left alone, doesn't like a huge amount of pace in the pitch"}]in the channel outside off, left alone, doesn't like a huge amount of pace in the pitch
+
+
 Balls faced: 7
 Bowler: Starc
-Over:1
+Over: 1
 Shot: LEFT_ALONE
-run scored: 0
-pushed very wide outside off but he gets away with it
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pushed very wide outside off but he gets away with it"}]pushed very wide outside off but he gets away with it
+
+
 Balls faced: 8
 Bowler: Starc
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
-full at off stump, some shape in, a half-hearted drive without much footwork
+Run scored: 0
+
+
+[{"type": "HTML", "html": "full at off stump, some shape in, a half-hearted drive without much footwork"}]full at off stump, some shape in, a half-hearted drive without much footwork

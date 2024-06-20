@@ -1,0 +1,756 @@
+Match: all_games_1410505_1410546.json
+Balls faced: 1
+Bowler: Arlott
+Over: 1
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Arlott
+Over: 1
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Arlott
+Over: 1
+Shot: DROP_AND_RUN
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Arlott
+Over: 1
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Arlott
+Over: 1
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Potts
+Over: 2
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Potts
+Over: 2
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Potts
+Over: 2
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Arlott
+Over: 1
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Arlott
+Over: 1
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Arlott
+Over: 1
+Shot: DROP_AND_RUN
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Arlott
+Over: 1
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Arlott
+Over: 1
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Arlott
+Over: 3
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Arlott
+Over: 3
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Arlott
+Over: 3
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 17
+Bowler: Potts
+Over: 2
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Potts
+Over: 2
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Potts
+Over: 2
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Potts
+Over: 4
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 21
+Bowler: Potts
+Over: 4
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Potts
+Over: 4
+Shot: LEG_GLANCE
+Run scored: 2
+
+
+
+
+
+Balls faced: 23
+Bowler: Arlott
+Over: 3
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Arlott
+Over: 3
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Arlott
+Over: 3
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 26
+Bowler: Pavely
+Over: 5
+Shot: REVERSE_SWEEP
+Run scored: 2
+
+
+
+
+
+Balls faced: 27
+Bowler: Potts
+Over: 4
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Potts
+Over: 4
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 29
+Bowler: Potts
+Over: 4
+Shot: LEG_GLANCE
+Run scored: 2
+
+
+
+
+
+Balls faced: 30
+Bowler: Davis
+Over: 6
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 31
+Bowler: Davis
+Over: 6
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 32
+Bowler: Pavely
+Over: 5
+Shot: REVERSE_SWEEP
+Run scored: 2
+
+
+
+
+
+Balls faced: 33
+Bowler: Baker
+Over: 7
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 34
+Bowler: Baker
+Over: 7
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 35
+Bowler: Baker
+Over: 7
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 36
+Bowler: Davis
+Over: 6
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 37
+Bowler: Davis
+Over: 6
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 38
+Bowler: George
+Over: 8
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 39
+Bowler: Baker
+Over: 7
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 40
+Bowler: Baker
+Over: 7
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 41
+Bowler: Baker
+Over: 7
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 42
+Bowler: Baker
+Over: 9
+Shot: SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 43
+Bowler: George
+Over: 8
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 44
+Bowler: Davis
+Over: 10
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 45
+Bowler: Davis
+Over: 10
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 46
+Bowler: Baker
+Over: 9
+Shot: SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 47
+Bowler: Webb
+Over: 11
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 48
+Bowler: Webb
+Over: 11
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 49
+Bowler: Davis
+Over: 10
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 50
+Bowler: Davis
+Over: 10
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 51
+Bowler: Arlott
+Over: 12
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 52
+Bowler: Arlott
+Over: 12
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 53
+Bowler: Arlott
+Over: 12
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 54
+Bowler: Webb
+Over: 11
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 55
+Bowler: Webb
+Over: 11
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 56
+Bowler: Baker
+Over: 13
+Shot: SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 57
+Bowler: Arlott
+Over: 12
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 58
+Bowler: Arlott
+Over: 12
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 59
+Bowler: Arlott
+Over: 12
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 60
+Bowler: Davis
+Over: 14
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 61
+Bowler: Baker
+Over: 13
+Shot: SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 62
+Bowler: Potts
+Over: 15
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 63
+Bowler: Potts
+Over: 15
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 64
+Bowler: Potts
+Over: 15
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 65
+Bowler: Potts
+Over: 15
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 66
+Bowler: Potts
+Over: 15
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 67
+Bowler: Davis
+Over: 14
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 68
+Bowler: George
+Over: 16
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 69
+Bowler: Potts
+Over: 15
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 70
+Bowler: Potts
+Over: 15
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 71
+Bowler: Potts
+Over: 15
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 72
+Bowler: Potts
+Over: 15
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 73
+Bowler: Potts
+Over: 15
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 74
+Bowler: Davis
+Over: 17
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 75
+Bowler: George
+Over: 16
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 76
+Bowler: Davis
+Over: 17
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0

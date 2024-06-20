@@ -1,1117 +1,2216 @@
-Match: southafrica_1388186_1418775.json
+Match: all_games_1388186_1418775.json
 Balls faced: 1
 Bowler: Paterson
-Over:17
+Over: 17
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 2
 Bowler: Paterson
-Over:17
-No Shot
-run scored: 0
+Over: 17
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 3
 Bowler: Paterson
-Over:17
+Over: 17
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 4
 Bowler: Paterson
-Over:17
+Over: 17
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 5
 Bowler: Paterson
-Over:17
+Over: 17
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 6
 Bowler: Paterson
-Over:17
-No Shot
-run scored: 0
+Over: 17
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 7
 Bowler: Paterson
-Over:17
+Over: 17
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 8
 Bowler: Paterson
-Over:17
+Over: 17
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 9
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 10
 Bowler: Moreki
-Over:19
-No Shot
-run scored: 0
+Over: 19
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 11
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 12
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 13
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 14
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 15
 Bowler: de Swardt
-Over:20
+Over: 20
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 16
 Bowler: de Swardt
-Over:20
+Over: 20
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 17
 Bowler: de Swardt
-Over:20
-No Shot
-run scored: 0
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
 Byes: 4
 Balls faced: 18
 Bowler: de Swardt
-Over:20
+Over: 20
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 19
 Bowler: de Swardt
-Over:20
-No Shot
-run scored: 0
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 20
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 21
 Bowler: Moreki
-Over:19
-No Shot
-run scored: 0
+Over: 19
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 22
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 23
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 24
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 25
 Bowler: Moreki
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 26
 Bowler: de Swardt
-Over:20
+Over: 20
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 27
 Bowler: de Swardt
-Over:20
+Over: 20
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 28
 Bowler: de Swardt
-Over:20
-No Shot
-run scored: 0
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
 Byes: 4
 Balls faced: 29
 Bowler: de Swardt
-Over:20
+Over: 20
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 30
 Bowler: de Swardt
-Over:20
-No Shot
-run scored: 0
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 31
 Bowler: Moreki
-Over:23
+Over: 23
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 32
 Bowler: Moreki
-Over:23
-No Shot
-run scored: 0
+Over: 23
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 33
 Bowler: Moreki
-Over:23
+Over: 23
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 34
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 35
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: SWEEP
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 36
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: SWEEP
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 37
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 38
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 39
 Bowler: Moreki
-Over:23
+Over: 23
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 40
 Bowler: Moreki
-Over:23
-No Shot
-run scored: 0
+Over: 23
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 41
 Bowler: Moreki
-Over:23
+Over: 23
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 42
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 43
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: SWEEP
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 44
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: SWEEP
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 45
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 46
 Bowler: von Berg
-Over:24
+Over: 24
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 47
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 48
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 49
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 50
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 51
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 52
 Bowler: Moreki
-Over:27
-No Shot
-run scored: 0
+Over: 27
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 53
 Bowler: Moreki
-Over:27
-No Shot
-run scored: 0
+Over: 27
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 54
 Bowler: Moreki
-Over:27
-No Shot
-run scored: 0
+Over: 27
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 55
 Bowler: Moreki
-Over:27
-No Shot
-run scored: 0
+Over: 27
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 56
 Bowler: Moreki
-Over:27
+Over: 27
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 57
 Bowler: Moreki
-Over:27
+Over: 27
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 58
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 59
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 60
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 61
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 62
 Bowler: von Berg
-Over:26
+Over: 26
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 63
 Bowler: Moreki
-Over:27
-No Shot
-run scored: 0
+Over: 27
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 64
 Bowler: Moreki
-Over:27
-No Shot
-run scored: 0
+Over: 27
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 65
 Bowler: Moreki
-Over:27
-No Shot
-run scored: 0
+Over: 27
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 66
 Bowler: Moreki
-Over:27
-No Shot
-run scored: 0
+Over: 27
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 67
 Bowler: Moreki
-Over:27
+Over: 27
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 68
 Bowler: Moreki
-Over:27
+Over: 27
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 69
 Bowler: Olivier
-Over:29
-No Shot
-run scored: 0
+Over: 29
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 70
 Bowler: Olivier
-Over:29
+Over: 29
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 71
 Bowler: Olivier
-Over:29
+Over: 29
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 72
 Bowler: Olivier
-Over:29
-No Shot
-run scored: 0
+Over: 29
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 73
 Bowler: Olivier
-Over:29
-No Shot
-run scored: 0
+Over: 29
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 74
 Bowler: Olivier
-Over:29
-No Shot
-run scored: 0
+Over: 29
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 75
 Bowler: Olivier
-Over:29
+Over: 29
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
 No Balls: 1
 Balls faced: 76
 Bowler: Olivier
-Over:29
-No Shot
-run scored: 0
+Over: 29
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 77
 Bowler: Olivier
-Over:29
+Over: 29
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 78
 Bowler: Olivier
-Over:29
+Over: 29
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 79
 Bowler: Olivier
-Over:29
-No Shot
-run scored: 0
+Over: 29
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 80
 Bowler: Olivier
-Over:29
-No Shot
-run scored: 0
+Over: 29
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 81
 Bowler: Olivier
-Over:29
-No Shot
-run scored: 0
+Over: 29
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 82
 Bowler: Olivier
-Over:29
+Over: 29
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
 No Balls: 1
 Balls faced: 83
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 84
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
 No Balls: 1
 Balls faced: 85
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 86
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 87
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 88
 Bowler: Mpongwana
-Over:32
+Over: 32
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 89
 Bowler: Mpongwana
-Over:32
-No Shot
-run scored: 0
+Over: 32
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 90
 Bowler: Mpongwana
-Over:32
+Over: 32
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 91
 Bowler: Mpongwana
-Over:32
-No Shot
-run scored: 0
+Over: 32
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 92
 Bowler: Mpongwana
-Over:32
-No Shot
-run scored: 0
+Over: 32
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 93
 Bowler: Mpongwana
-Over:32
+Over: 32
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 94
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 95
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
 No Balls: 1
 Balls faced: 96
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 97
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 98
 Bowler: Olivier
-Over:31
+Over: 31
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 99
 Bowler: Olivier
-Over:33
+Over: 33
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 100
 Bowler: Mpongwana
-Over:32
+Over: 32
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 101
 Bowler: Mpongwana
-Over:32
-No Shot
-run scored: 0
+Over: 32
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 102
 Bowler: Mpongwana
-Over:32
+Over: 32
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 103
 Bowler: Mpongwana
-Over:32
-No Shot
-run scored: 0
+Over: 32
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 104
 Bowler: Mpongwana
-Over:32
-No Shot
-run scored: 0
+Over: 32
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 105
 Bowler: Mpongwana
-Over:32
+Over: 32
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 106
 Bowler: Mpongwana
-Over:34
+Over: 34
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 107
 Bowler: Mpongwana
-Over:34
-No Shot
-run scored: 0
+Over: 34
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 108
 Bowler: Mpongwana
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 109
 Bowler: Mpongwana
-Over:34
-No Shot
-run scored: 0
+Over: 34
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 110
 Bowler: Mpongwana
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 111
 Bowler: Mpongwana
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 112
 Bowler: Olivier
-Over:33
+Over: 33
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 113
 Bowler: Olivier
-Over:35
-No Shot
-run scored: 0
+Over: 35
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 114
 Bowler: Olivier
-Over:35
+Over: 35
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 115
 Bowler: Olivier
-Over:35
+Over: 35
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 116
 Bowler: Olivier
-Over:35
-No Shot
-run scored: 0
+Over: 35
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 117
 Bowler: Olivier
-Over:35
+Over: 35
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 118
 Bowler: Olivier
-Over:35
+Over: 35
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 119
 Bowler: Mpongwana
-Over:34
+Over: 34
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 120
 Bowler: Mpongwana
-Over:34
-No Shot
-run scored: 0
+Over: 34
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 121
 Bowler: Mpongwana
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 122
 Bowler: Mpongwana
-Over:34
-No Shot
-run scored: 0
+Over: 34
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 123
 Bowler: Mpongwana
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 124
 Bowler: Mpongwana
-Over:34
+Over: 34
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 125
 Bowler: Mpongwana
-Over:36
+Over: 36
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 126
 Bowler: Mpongwana
-Over:36
-No Shot
-run scored: 0
+Over: 36
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 127
 Bowler: Mpongwana
-Over:36
-No Shot
-run scored: 0
+Over: 36
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 128
 Bowler: Mpongwana
-Over:36
-No Shot
-run scored: 0
+Over: 36
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 129
 Bowler: Mpongwana
-Over:36
+Over: 36
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 130
 Bowler: Olivier
-Over:35
-No Shot
-run scored: 0
+Over: 35
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 131
 Bowler: Olivier
-Over:35
+Over: 35
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 132
 Bowler: Olivier
-Over:35
+Over: 35
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 133
 Bowler: Olivier
-Over:35
-No Shot
-run scored: 0
+Over: 35
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 134
 Bowler: Olivier
-Over:35
+Over: 35
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 135
 Bowler: Olivier
-Over:35
+Over: 35
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 136
 Bowler: Mpongwana
-Over:36
+Over: 36
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 137
 Bowler: Mpongwana
-Over:36
-No Shot
-run scored: 0
+Over: 36
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 138
 Bowler: Mpongwana
-Over:36
-No Shot
-run scored: 0
+Over: 36
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 139
 Bowler: Mpongwana
-Over:36
-No Shot
-run scored: 0
+Over: 36
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 140
 Bowler: Mpongwana
-Over:36
+Over: 36
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 141
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 142
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 143
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 144
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 145
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 146
 Bowler: Moreki
-Over:40
-No Shot
-run scored: 0
+Over: 40
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 147
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 148
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 149
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 150
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 151
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 152
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 153
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 154
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 155
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 156
 Bowler: Paterson
-Over:39
+Over: 39
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 157
 Bowler: Moreki
-Over:40
-No Shot
-run scored: 0
+Over: 40
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 158
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 159
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 160
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 161
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 162
 Bowler: Moreki
-Over:40
+Over: 40
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 163
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 164
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 165
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 166
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 167
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 168
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 169
 Bowler: Paterson
-Over:43
+Over: 43
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 170
 Bowler: Paterson
-Over:43
+Over: 43
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 171
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 172
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 173
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 174
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 175
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 176
 Bowler: Moreki
-Over:42
+Over: 42
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 177
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 178
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 179
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 180
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 181
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 182
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 183
 Bowler: Paterson
-Over:43
+Over: 43
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 184
 Bowler: Paterson
-Over:43
+Over: 43
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 185
 Bowler: Piedt
-Over:45
+Over: 45
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 186
 Bowler: Piedt
-Over:45
+Over: 45
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 187
 Bowler: Piedt
-Over:45
-No Shot
-run scored: 0
+Over: 45
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 188
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 189
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 190
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 191
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 192
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 193
 Bowler: Moreki
-Over:44
+Over: 44
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 194
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: FORWARD_DEFENCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 195
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 196
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 197
 Bowler: Moreki
-Over:46
-No Shot
-run scored: 0
+Over: 46
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 198
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 199
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 200
 Bowler: Piedt
-Over:45
+Over: 45
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 201
 Bowler: Piedt
-Over:45
+Over: 45
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 202
 Bowler: Piedt
-Over:45
-No Shot
-run scored: 0
+Over: 45
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 203
 Bowler: Piedt
-Over:47
+Over: 47
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 204
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: FORWARD_DEFENCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 205
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 206
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 207
 Bowler: Moreki
-Over:46
-No Shot
-run scored: 0
+Over: 46
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 208
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 209
 Bowler: Moreki
-Over:46
+Over: 46
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 210
 Bowler: Piedt
-Over:47
+Over: 47
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 211
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 212
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: FORWARD_DEFENCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 213
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 214
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 215
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 216
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 217
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 218
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: FORWARD_DEFENCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 219
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 220
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 221
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 222
 Bowler: Piedt
-Over:49
+Over: 49
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0

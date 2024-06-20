@@ -1,439 +1,861 @@
-Match: southafrica_1388186_1418775.json
+Match: all_games_1388186_1418775.json
 Balls faced: 1
 Bowler: Paterson
-Over:2
-No Shot
-run scored: 0
+Over: 2
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 2
 Bowler: Paterson
-Over:2
+Over: 2
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 3
 Bowler: Paterson
-Over:2
+Over: 2
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 4
 Bowler: Paterson
-Over:2
-No Shot
-run scored: 0
+Over: 2
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 5
 Bowler: Paterson
-Over:2
+Over: 2
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 6
 Bowler: Paterson
-Over:2
+Over: 2
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 7
 Bowler: Paterson
-Over:2
-No Shot
-run scored: 0
+Over: 2
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 8
 Bowler: Paterson
-Over:2
+Over: 2
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 9
 Bowler: Paterson
-Over:2
+Over: 2
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 10
 Bowler: Paterson
-Over:2
-No Shot
-run scored: 0
+Over: 2
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 11
 Bowler: Paterson
-Over:2
+Over: 2
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 12
 Bowler: Paterson
-Over:2
+Over: 2
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 13
 Bowler: Paterson
-Over:4
-No Shot
-run scored: 0
+Over: 4
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 14
 Bowler: Paterson
-Over:4
+Over: 4
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 15
 Bowler: Paterson
-Over:4
+Over: 4
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 16
 Bowler: Paterson
-Over:4
+Over: 4
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 17
 Bowler: Paterson
-Over:4
+Over: 4
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 18
 Bowler: Paterson
-Over:4
-No Shot
-run scored: 0
+Over: 4
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 19
 Bowler: Olivier
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 20
 Bowler: Paterson
-Over:4
-No Shot
-run scored: 0
+Over: 4
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 21
 Bowler: Paterson
-Over:4
+Over: 4
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 22
 Bowler: Paterson
-Over:4
+Over: 4
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 23
 Bowler: Paterson
-Over:4
+Over: 4
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 24
 Bowler: Paterson
-Over:4
+Over: 4
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 25
 Bowler: Paterson
-Over:4
-No Shot
-run scored: 0
+Over: 4
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 26
 Bowler: Olivier
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 27
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 28
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 29
 Bowler: Olivier
-Over:7
-No Shot
-run scored: 0
+Over: 7
+Shot: No Shot
+Run scored: 0
+
+
+
+
 Wide: 5
 Balls faced: 30
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 31
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 32
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 33
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 34
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
 No Balls: 1
 Balls faced: 35
 Bowler: Piedt
-Over:8
+Over: 8
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 36
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 37
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 38
 Bowler: Olivier
-Over:7
-No Shot
-run scored: 0
+Over: 7
+Shot: No Shot
+Run scored: 0
+
+
+
+
 Wide: 5
 Balls faced: 39
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 40
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 41
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 42
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 43
 Bowler: Olivier
-Over:7
+Over: 7
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
 No Balls: 1
 Balls faced: 44
 Bowler: Piedt
-Over:8
+Over: 8
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 45
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 46
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 47
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 48
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 49
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 50
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 51
 Bowler: Olivier
-Over:11
+Over: 11
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 52
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 53
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 54
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 55
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 56
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 57
 Bowler: Piedt
-Over:10
+Over: 10
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 58
 Bowler: Olivier
-Over:11
+Over: 11
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 59
 Bowler: Paterson
-Over:13
+Over: 13
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 60
 Bowler: Paterson
-Over:13
-No Shot
-run scored: 0
+Over: 13
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 61
 Bowler: Paterson
-Over:13
+Over: 13
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 62
 Bowler: Paterson
-Over:13
+Over: 13
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 63
 Bowler: Paterson
-Over:13
-No Shot
-run scored: 0
+Over: 13
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 64
 Bowler: Paterson
-Over:13
+Over: 13
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 65
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 66
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 67
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: LEG_GLANCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 68
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 69
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 70
 Bowler: Paterson
-Over:13
+Over: 13
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 71
 Bowler: Paterson
-Over:13
-No Shot
-run scored: 0
+Over: 13
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 72
 Bowler: Paterson
-Over:13
+Over: 13
 Shot: LEG_GLANCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 73
 Bowler: Paterson
-Over:13
+Over: 13
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 74
 Bowler: Paterson
-Over:13
-No Shot
-run scored: 0
+Over: 13
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 75
 Bowler: Paterson
-Over:13
+Over: 13
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 76
 Bowler: Paterson
-Over:15
+Over: 15
 Shot: FORWARD_DEFENCE
-run scored: 0
-OUT! {"short": "lbw", "long": "lbw b Paterson", "commentary": "Jacob Cumming lbw b Paterson 36 (41b 8x4 0x6 63m) SR: 87.8"}
+Run scored: 0
+
+
+
+
+
 Balls faced: 77
 Bowler: Paterson
-Over:15
+Over: 15
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 78
 Bowler: Paterson
-Over:15
-No Shot
-run scored: 0
+Over: 15
+Shot: No Shot
+Run scored: 0
+
+
+
+
 Wide: 1
 Balls faced: 79
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 80
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 81
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: LEG_GLANCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 82
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 83
 Bowler: Piedt
-Over:14
+Over: 14
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 84
 Bowler: Paterson
-Over:15
+Over: 15
 Shot: FORWARD_DEFENCE
-run scored: 0
-OUT! {"short": "lbw", "long": "lbw b Paterson", "commentary": "Jacob Cumming lbw b Paterson 36 (41b 8x4 0x6 63m) SR: 87.8"}
+Run scored: 0
+
+
+
+
+
 Balls faced: 85
 Bowler: Paterson
-Over:15
+Over: 15
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 86
 Bowler: Paterson
-Over:15
-No Shot
-run scored: 0
+Over: 15
+Shot: No Shot
+Run scored: 0
+
+
+
+
 Wide: 1

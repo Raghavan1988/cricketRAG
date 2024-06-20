@@ -1,1463 +1,2580 @@
-Match: southafrica_1388186_1388221.json
+Match: all_games_1388186_1388221.json
 Balls faced: 1
 Bowler: Henry
-Over:2
+Over: 2
 Shot: DEFENDED
-run scored: 1
-Gets a bit of a leading edge and Brand gets off the mark with a single. Length on off stump, closes the face of the bat a touch early as the ball goes towards point
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Gets a bit of a leading edge and Brand gets off the mark with a single. Length on off stump, closes the face of the bat a touch early as the ball goes towards point"}]Gets a bit of a leading edge and Brand gets off the mark with a single. Length on off stump, closes the face of the bat a touch early as the ball goes towards point
+
+
 Balls faced: 2
 Bowler: Henry
-Over:2
+Over: 2
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Neil Brand on strike now for his first ball. Matt Henry to share the new ball. He is around the wicket as well. Three slips and a gully in place."}]Neil Brand on strike now for his first ball. Matt Henry to share the new ball. He is around the wicket as well. Three slips and a gully in place.
-Sharp short of a length ball that hits him on the rib cage first up.
+
+[{"type": "HTML", "html": "Sharp short of a length ball that hits him on the rib cage first up."}]Sharp short of a length ball that hits him on the rib cage first up.
+
+
 Balls faced: 3
 Bowler: Southee
-Over:3
+Over: 3
 Shot: LEG_GLANCE
-run scored: 1
-Keeps the inswinger going his way does Brand sharply into the batter. He squeaks it off the inside half of the bat to deep backward square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Keeps the inswinger going his way does Brand sharply into the batter. He squeaks it off the inside half of the bat to deep backward square leg"}]Keeps the inswinger going his way does Brand sharply into the batter. He squeaks it off the inside half of the bat to deep backward square leg
+
+
 Balls faced: 4
 Bowler: Southee
-Over:3
+Over: 3
 Shot: FLICK
-run scored: 0
-Length ball angling into Brand and strikes the thigh pad. Lobs into the on-side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball angling into Brand and strikes the thigh pad. Lobs into the on-side"}]Length ball angling into Brand and strikes the thigh pad. Lobs into the on-side
+
+
 Balls faced: 5
 Bowler: Henry
-Over:2
+Over: 2
 Shot: DEFENDED
-run scored: 1
-Gets a bit of a leading edge and Brand gets off the mark with a single. Length on off stump, closes the face of the bat a touch early as the ball goes towards point
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Gets a bit of a leading edge and Brand gets off the mark with a single. Length on off stump, closes the face of the bat a touch early as the ball goes towards point"}]Gets a bit of a leading edge and Brand gets off the mark with a single. Length on off stump, closes the face of the bat a touch early as the ball goes towards point
+
+
 Balls faced: 6
 Bowler: Henry
-Over:2
+Over: 2
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Neil Brand on strike now for his first ball. Matt Henry to share the new ball. He is around the wicket as well. Three slips and a gully in place."}]Neil Brand on strike now for his first ball. Matt Henry to share the new ball. He is around the wicket as well. Three slips and a gully in place.
-Sharp short of a length ball that hits him on the rib cage first up.
+
+[{"type": "HTML", "html": "Sharp short of a length ball that hits him on the rib cage first up."}]Sharp short of a length ball that hits him on the rib cage first up.
+
+
 Balls faced: 7
 Bowler: Henry
-Over:4
+Over: 4
 Shot: FLICK
-run scored: 1
-Length ball drifting on the pads, he works it to deep backward square leg for a run
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Length ball drifting on the pads, he works it to deep backward square leg for a run"}]Length ball drifting on the pads, he works it to deep backward square leg for a run
+
+
 Balls faced: 8
 Bowler: Henry
-Over:4
+Over: 4
 Shot: DEFENDED
-run scored: 0
-Keeps it wicket to wicket on off stump. He pushes back to the bowler
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps it wicket to wicket on off stump. He pushes back to the bowler"}]Keeps it wicket to wicket on off stump. He pushes back to the bowler
+
+
 Balls faced: 9
 Bowler: Henry
-Over:4
+Over: 4
 Shot: DEFENDED
-run scored: 0
-On a length just around off stump, he pushes to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length just around off stump, he pushes to point"}]On a length just around off stump, he pushes to point
+
+
 Balls faced: 10
 Bowler: Southee
-Over:3
+Over: 3
 Shot: LEG_GLANCE
-run scored: 1
-Keeps the inswinger going his way does Brand sharply into the batter. He squeaks it off the inside half of the bat to deep backward square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Keeps the inswinger going his way does Brand sharply into the batter. He squeaks it off the inside half of the bat to deep backward square leg"}]Keeps the inswinger going his way does Brand sharply into the batter. He squeaks it off the inside half of the bat to deep backward square leg
+
+
 Balls faced: 11
 Bowler: Southee
-Over:3
+Over: 3
 Shot: FLICK
-run scored: 0
-Length ball angling into Brand and strikes the thigh pad. Lobs into the on-side
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball angling into Brand and strikes the thigh pad. Lobs into the on-side"}]Length ball angling into Brand and strikes the thigh pad. Lobs into the on-side
+
+
 Balls faced: 12
 Bowler: Henry
-Over:4
+Over: 4
 Shot: FLICK
-run scored: 1
-Length ball drifting on the pads, he works it to deep backward square leg for a run
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Length ball drifting on the pads, he works it to deep backward square leg for a run"}]Length ball drifting on the pads, he works it to deep backward square leg for a run
+
+
 Balls faced: 13
 Bowler: Henry
-Over:4
+Over: 4
 Shot: DEFENDED
-run scored: 0
-Keeps it wicket to wicket on off stump. He pushes back to the bowler
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps it wicket to wicket on off stump. He pushes back to the bowler"}]Keeps it wicket to wicket on off stump. He pushes back to the bowler
+
+
 Balls faced: 14
 Bowler: Henry
-Over:4
+Over: 4
 Shot: DEFENDED
-run scored: 0
-On a length just around off stump, he pushes to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length just around off stump, he pushes to point"}]On a length just around off stump, he pushes to point
+
+
 Balls faced: 15
 Bowler: Henry
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-Length on the stumps, he pushes at it as the ball catches the inside half of his bat towards mid-on
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length on the stumps, he pushes at it as the ball catches the inside half of his bat towards mid-on"}]Length on the stumps, he pushes at it as the ball catches the inside half of his bat towards mid-on
+
+
 Balls faced: 16
 Bowler: Henry
-Over:6
+Over: 6
 Shot: LEFT_ALONE
-run scored: 0
-Similar length ball just outside off, he watches closely before letting the go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Similar length ball just outside off, he watches closely before letting the go"}]Similar length ball just outside off, he watches closely before letting the go
+
+
 Balls faced: 17
 Bowler: Henry
-Over:6
+Over: 6
 Shot: LEFT_ALONE
-run scored: 0
-Length just outside off stump, he shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length just outside off stump, he shoulders arms"}]Length just outside off stump, he shoulders arms
+
+
 Balls faced: 18
 Bowler: Henry
-Over:6
+Over: 6
 Shot: STEERED
-run scored: 0
-A hint of shape away from Brand on the length ball outside off. He squirts it off the outside edge to gully
+Run scored: 0
+
+
+[{"type": "HTML", "html": "A hint of shape away from Brand on the length ball outside off. He squirts it off the outside edge to gully"}]A hint of shape away from Brand on the length ball outside off. He squirts it off the outside edge to gully
+
+
 Balls faced: 19
 Bowler: Henry
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-He is aiming for those pads is Henry. Keeps it on a length just on off as Brand defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "He is aiming for those pads is Henry. Keeps it on a length just on off as Brand defends"}]He is aiming for those pads is Henry. Keeps it on a length just on off as Brand defends
+
+
 Balls faced: 20
 Bowler: Henry
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-On a length outside off stump, Brand pushes to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length outside off stump, Brand pushes to point"}]On a length outside off stump, Brand pushes to point
+
+
 Balls faced: 21
 Bowler: Southee
-Over:7
+Over: 7
 Shot: DEFENDED
-run scored: 0
-Solid in defense is Brand. Length just on off, he is right behind it and defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Solid in defense is Brand. Length just on off, he is right behind it and defends"}]Solid in defense is Brand. Length just on off, he is right behind it and defends
+
+
 Balls faced: 22
 Bowler: Henry
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-Length on the stumps, he pushes at it as the ball catches the inside half of his bat towards mid-on
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length on the stumps, he pushes at it as the ball catches the inside half of his bat towards mid-on"}]Length on the stumps, he pushes at it as the ball catches the inside half of his bat towards mid-on
+
+
 Balls faced: 23
 Bowler: Henry
-Over:6
+Over: 6
 Shot: LEFT_ALONE
-run scored: 0
-Similar length ball just outside off, he watches closely before letting the go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Similar length ball just outside off, he watches closely before letting the go"}]Similar length ball just outside off, he watches closely before letting the go
+
+
 Balls faced: 24
 Bowler: Henry
-Over:6
+Over: 6
 Shot: LEFT_ALONE
-run scored: 0
-Length just outside off stump, he shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length just outside off stump, he shoulders arms"}]Length just outside off stump, he shoulders arms
+
+
 Balls faced: 25
 Bowler: Henry
-Over:6
+Over: 6
 Shot: STEERED
-run scored: 0
-A hint of shape away from Brand on the length ball outside off. He squirts it off the outside edge to gully
+Run scored: 0
+
+
+[{"type": "HTML", "html": "A hint of shape away from Brand on the length ball outside off. He squirts it off the outside edge to gully"}]A hint of shape away from Brand on the length ball outside off. He squirts it off the outside edge to gully
+
+
 Balls faced: 26
 Bowler: Henry
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-He is aiming for those pads is Henry. Keeps it on a length just on off as Brand defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "He is aiming for those pads is Henry. Keeps it on a length just on off as Brand defends"}]He is aiming for those pads is Henry. Keeps it on a length just on off as Brand defends
+
+
 Balls faced: 27
 Bowler: Henry
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-On a length outside off stump, Brand pushes to point
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length outside off stump, Brand pushes to point"}]On a length outside off stump, Brand pushes to point
+
+
 Balls faced: 28
 Bowler: Southee
-Over:7
+Over: 7
 Shot: DEFENDED
-run scored: 0
-Solid in defense is Brand. Length just on off, he is right behind it and defends
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Solid in defense is Brand. Length just on off, he is right behind it and defends"}]Solid in defense is Brand. Length just on off, he is right behind it and defends
+
+
 Balls faced: 29
 Bowler: Southee
-Over:9
+Over: 9
 Shot: PULL
-run scored: 1
-Banged in short, good bouncer around shoulder-high. Brand half-pulls not totally in control but keeps it down to square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Banged in short, good bouncer around shoulder-high. Brand half-pulls not totally in control but keeps it down to square leg"}]Banged in short, good bouncer around shoulder-high. Brand half-pulls not totally in control but keeps it down to square leg
+
+
 Balls faced: 30
 Bowler: Southee
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-Keeps the wicket to wicket line going his way on off stump. Defended.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps the wicket to wicket line going his way on off stump. Defended."}]Keeps the wicket to wicket line going his way on off stump. Defended.
+
+
 Balls faced: 31
 Bowler: Southee
-Over:9
+Over: 9
 Shot: FLICK
-run scored: 0
-Goes fuller and angling into Brand's stumps. He works it to midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Goes fuller and angling into Brand's stumps. He works it to midwicket"}]Goes fuller and angling into Brand's stumps. He works it to midwicket
+
+
 Balls faced: 32
 Bowler: Southee
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-Length ball on off stump, defended towards cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball on off stump, defended towards cover"}]Length ball on off stump, defended towards cover
+
+
 Balls faced: 33
 Bowler: Southee
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-Fullish in length just on off stump, he pushes back to the bowler
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish in length just on off stump, he pushes back to the bowler"}]Fullish in length just on off stump, he pushes back to the bowler
+
+
 Balls faced: 34
 Bowler: Jamieson
-Over:10
+Over: 10
 Shot: LEFT_ALONE
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020Blundell b Jamieson", "commentary": "Neil Brand c \u2020Blundell b Jamieson 4 (23b 0x4 0x6 41m) SR: 17.39"}
-<strong>There's the edge and Jamieson draws the first blood.</strong> On a length outside off, the ball angles in and just straightens off a length. Brand looks to leave the ball but withdraws his bat late. A feather through to the keeper who takes a simple catch
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>There's the edge and Jamieson draws the first blood.</strong> On a length outside off, the ball angles in and just straightens off a length. Brand looks to leave the ball but withdraws his bat late. A feather through to the keeper who takes a simple catch"}]<strong>There's the edge and Jamieson draws the first blood.</strong> On a length outside off, the ball angles in and just straightens off a length. Brand looks to leave the ball but withdraws his bat late. A feather through to the keeper who takes a simple catch
+
+
 Balls faced: 35
 Bowler: Jamieson
-Over:10
+Over: 10
 Shot: LEFT_ALONE
-run scored: 0
-On a length outside off stump, he lets the ball go through to the keeper again
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length outside off stump, he lets the ball go through to the keeper again"}]On a length outside off stump, he lets the ball go through to the keeper again
+
+
 Balls faced: 36
 Bowler: Jamieson
-Over:10
+Over: 10
 Shot: LEFT_ALONE
-run scored: 0
-Keeps the length ball going outside off. Brand lets the ball through to the keeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps the length ball going outside off. Brand lets the ball through to the keeper"}]Keeps the length ball going outside off. Brand lets the ball through to the keeper
+
+
 Balls faced: 37
 Bowler: Jamieson
-Over:10
+Over: 10
 Shot: LEFT_ALONE
-run scored: 0
-Fuller in length outside off, Brand shoulders arms
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fuller in length outside off, Brand shoulders arms"}]Fuller in length outside off, Brand shoulders arms
+
+
 Balls faced: 38
 Bowler: Southee
-Over:9
+Over: 9
 Shot: PULL
-run scored: 1
-Banged in short, good bouncer around shoulder-high. Brand half-pulls not totally in control but keeps it down to square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Banged in short, good bouncer around shoulder-high. Brand half-pulls not totally in control but keeps it down to square leg"}]Banged in short, good bouncer around shoulder-high. Brand half-pulls not totally in control but keeps it down to square leg
+
+
 Balls faced: 39
 Bowler: Southee
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-Keeps the wicket to wicket line going his way on off stump. Defended.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps the wicket to wicket line going his way on off stump. Defended."}]Keeps the wicket to wicket line going his way on off stump. Defended.
+
+
 Balls faced: 40
 Bowler: Southee
-Over:9
+Over: 9
 Shot: FLICK
-run scored: 0
-Goes fuller and angling into Brand's stumps. He works it to midwicket
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Goes fuller and angling into Brand's stumps. He works it to midwicket"}]Goes fuller and angling into Brand's stumps. He works it to midwicket
+
+
 Balls faced: 41
 Bowler: Southee
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-Length ball on off stump, defended towards cover
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball on off stump, defended towards cover"}]Length ball on off stump, defended towards cover
+
+
 Balls faced: 42
 Bowler: Southee
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-Fullish in length just on off stump, he pushes back to the bowler
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish in length just on off stump, he pushes back to the bowler"}]Fullish in length just on off stump, he pushes back to the bowler
+
+
 Balls faced: 43
 Bowler: Jamieson
-Over:10
+Over: 10
 Shot: LEFT_ALONE
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020Blundell b Jamieson", "commentary": "Neil Brand c \u2020Blundell b Jamieson 4 (23b 0x4 0x6 41m) SR: 17.39"}
-<strong>There's the edge and Jamieson draws the first blood.</strong> On a length outside off, the ball angles in and just straightens off a length. Brand looks to leave the ball but withdraws his bat late. A feather through to the keeper who takes a simple catch
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>There's the edge and Jamieson draws the first blood.</strong> On a length outside off, the ball angles in and just straightens off a length. Brand looks to leave the ball but withdraws his bat late. A feather through to the keeper who takes a simple catch"}]<strong>There's the edge and Jamieson draws the first blood.</strong> On a length outside off, the ball angles in and just straightens off a length. Brand looks to leave the ball but withdraws his bat late. A feather through to the keeper who takes a simple catch
+
+
 Balls faced: 44
 Bowler: Jamieson
-Over:10
+Over: 10
 Shot: LEFT_ALONE
-run scored: 0
-On a length outside off stump, he lets the ball go through to the keeper again
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length outside off stump, he lets the ball go through to the keeper again"}]On a length outside off stump, he lets the ball go through to the keeper again
+
+
 Balls faced: 45
 Bowler: Jamieson
-Over:10
+Over: 10
 Shot: LEFT_ALONE
-run scored: 0
-Keeps the length ball going outside off. Brand lets the ball through to the keeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Keeps the length ball going outside off. Brand lets the ball through to the keeper"}]Keeps the length ball going outside off. Brand lets the ball through to the keeper
+
+
 Balls faced: 46
 Bowler: Jamieson
-Over:10
+Over: 10
 Shot: LEFT_ALONE
-run scored: 0
-Fuller in length outside off, Brand shoulders arms
-Match: southafrica_1388186_1388222.json
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fuller in length outside off, Brand shoulders arms"}]Fuller in length outside off, Brand shoulders arms
+
+
+
+Match: all_games_1388186_1388222.json
 Balls faced: 1
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 4
-Southee misses his line and Brand glances it fine. Replays show it went off the inside edge, Brand reached out on the front foot and tried blocking it straight
-Jouba: "NZ have gone in with 4 seamers and 2 part time spinners, they would probably have bowled first if they won the toss as well. I just dont understand SA selection, why 2 spinners on a seamer's wicket? "
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Southee misses his line and Brand glances it fine. Replays show it went off the inside edge, Brand reached out on the front foot and tried blocking it straight"}]Southee misses his line and Brand glances it fine. Replays show it went off the inside edge, Brand reached out on the front foot and tried blocking it straight
+[{"type": "HTML", "html": "Jouba: \"NZ have gone in with 4 seamers and 2 part time spinners, they would probably have bowled first if they won the toss as well. I just dont understand SA selection, why 2 spinners on a seamer's wicket? \""}]Jouba: "NZ have gone in with 4 seamers and 2 part time spinners, they would probably have bowled first if they won the toss as well. I just dont understand SA selection, why 2 spinners on a seamer's wicket? "
+
 Balls faced: 2
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Catching mid-on in where the last ball went"}]Catching mid-on in where the last ball went
-Straightens off the pitch to beat the edge! Perfect three-quarter length from Southee, lands on off and decks away, Brand tried playing the line but his defence was beaten
+
+[{"type": "HTML", "html": "Straightens off the pitch to beat the edge! Perfect three-quarter length from Southee, lands on off and decks away, Brand tried playing the line but his defence was beaten"}]Straightens off the pitch to beat the edge! Perfect three-quarter length from Southee, lands on off and decks away, Brand tried playing the line but his defence was beaten
+
+
 Balls faced: 3
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
-Checks the full-faced block, tad uppish but lands in empty space and goes to mid-on. Southee pitching it up again
-Matt Clere: "So pumped they've picked Wagner. He will be so fired up against his old country. BRING ON THE BOUNCERS!!!!!"
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Checks the full-faced block, tad uppish but lands in empty space and goes to mid-on. Southee pitching it up again"}]Checks the full-faced block, tad uppish but lands in empty space and goes to mid-on. Southee pitching it up again
+[{"type": "HTML", "html": "Matt Clere: \"So pumped they've picked Wagner. He will be so fired up against his old country. BRING ON THE BOUNCERS!!!!!\""}]Matt Clere: "So pumped they've picked Wagner. He will be so fired up against his old country. BRING ON THE BOUNCERS!!!!!"
+
 Balls faced: 4
 Bowler: Southee
-Over:1
+Over: 1
 Shot: LEFT_ALONE
-run scored: 0
-Fullish outside off, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish outside off, let go"}]Fullish outside off, let go
+
+
 Balls faced: 5
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
-Hangs it outside off on a length, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Hangs it outside off on a length, let go"}]Hangs it outside off on a length, let go
+
+
 Balls faced: 6
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "<strong>11am</strong> Brand and Fortuin will open. Southee to start from around the wicket. Two slips in"}, {"type": "HTML", "html": "<strong>10:55am</strong> Out come the players on a sunny morning for the national anthems. South Africa's Nkosi Sikelel' iAfrika first. God Defend New Zealand follows."}, {"type": "HTML", "html": "Ossian: \"Good choices from NZ for their side. Having Wags back will get us some good oomph in our bowling. Got serious deja vu from the last SA series in NZ. \""}, {"type": "HTML", "html": "Dylan: \"Has anyone realised nz has 4 potential keepers in their team?\" Good catch. It's Latham, Conway, Blundell who is the keeper, and Phillips for those wondering."}, {"type": "HTML", "html": "<strong>Pitch report</strong>: This is the type of ground where you can go for runs but that's okay because there can be swing. From a bowling pov, it's a good toss to lose because there is some green and there might be some seam. Will be good for seam in the first session. Grant Elliot says leaving on length will be key in the first session. There will be more bounce than in Tauranga. Craig McMillan says it's a brave move but <a href=\"https://www.espncricinfo.com/series/south-africa-tour-of-new-zealand-2011-12-520579/new-zealand-vs-south-africa-2nd-test-520604/full-scorecard\">unlike in 2012</a>, they might have gotten it wrong here."}, {"type": "HTML", "html": "David: \"Batting first in Hamilton against NZ's attack seems... Bold? \""}, {"type": "HTML", "html": "Jono: \"Green track aside, how much of the Santner omission is down to Rach and Glenn having proved they can do the spin business if required?\" Good question, think Rachin was indispensable after the last game. Phillips is handier with the bat too, which helps."}, {"type": "HTML", "html": "<strong>New Zealand XI</strong>: 1 Tom Latham, 2 Devon Conway, 3 Kane Williamson, 4 Rachin Ravindra, 5 Will Young, 6 Tom Blundell (wk), 7 Glenn Phillips, 8 Matt Henry, 9 Tim Southee (capt), 10 Neil Wagner, 11 Will O'Rourke"}, {"type": "HTML", "html": "<strong>South Africa XI</strong>1 Neil Brand (capt), 2 Clyde Fortuin, 3 Raynard van Tonder 4 Zubayr Hamza, 5 David Bedingham, 6 Keegan Peterson, 7 Ruan de Swardt, 8 Shaun von Berg, 9 Dane Piedt, 10 Tshepo Moreki, 11 Dane Paterson"}, {"type": "HTML", "html": "<strong>Tim Southee, NZ captain</strong>, says they were looking to have a bowl. Hope there's a bit of assistance early on. Three changes: Daryl is out, Will Young comes in. Four seamers. Neil Wagner is in for Mitch Santner. Kyle Jamieson pulled up sore, so Will O'Rourke come in on debut. We know Wagner wears his heart on his sleeve and will give his 100%. So looking forward to that, excited to see what Will, an exciting young quick, has got."}, {"type": "HTML", "html": "<strong>Neil Brand, SA captain</strong>, says it's a green track. They expect this morning to be difficult but hopes to show some fight. There's two changes: Shaun von Berg makes his debut, Dane Piedt comes in. We have to do the right things for longer, losing wickets in clumps doesn't help us. Gotta be better in all departments."}, {"type": "HTML", "html": "<strong>10:33am</strong> Tim Southee has the coin. Tails is the call and that's what it is. Neil Brand said SA will bat first"}, {"type": "HTML", "html": "<strong>10:20am</strong> Neil Brand, South Africa's stand-in captain, is aware of them faltering in the first Test but is looking to move on from it. He says <a href=\"https://www.espncricinfo.com/story/neil-brand-doesn-t-think-makeshift-sa-are-miles-off-nz-after-first-test-defeat-1420844\">his team were good for 65% of the game</a>. Can they improve on <a href=\"https://www.espncricinfo.com/cricket-videos/matt-henry-hopes-for-more-grass-cover-on-hamilton-pitch-1420605\">what could be a grassy Hamilton pitch</a>? We'll find out soon. Toss and team news coming up."}, {"type": "HTML", "html": "Rishy: \"I don't understand the ridiculous complaining about SA's choice. Like many of the other smaller cricket playing countries (WI, Afg, Ire) <a href=\"https://www.espncricinfo.com/story/test-cricket-is-increasingly-a-game-of-two-levels-the-big-three-and-the-next-six-1417584\">they do not make money on tests and cannot afford to incentivize players compared to T20 leagues</a>. If you really want to complain, complain about the ICC and the Big 3 (really Big 1 cough cough) and how the revenue structure is stifling growth in smaller countries let alone Associate nations like the Netherlands\""}, {"type": "HTML", "html": "<strong>If you're in the US, you can watch this match <a href=\"https://www.espn.com/watch/player/_/id/fd38d359-0a00-4f5a-931a-dfd989b295a1/country/us/redirected/true#bucketId=23396\">LIVE on ESPN+</a></strong>"}, {"type": "HTML", "html": "New Zealand will miss out on the services of Daryl Mitchell, who has been ruled out by a <a href=\"https://www.espncricinfo.com/story/new-zealand-news-daryl-mitchell-ruled-out-of-second-south-africa-test-and-australia-t20is-1420268\">long-standing foot injury</a>. Mitchell is an important player but the hosts have decent cover with Glenn Phillips and Will Young in the wings, not to forget captain Tim Southee mentioning <a href=\"https://www.espncricinfo.com/story/uncapped-will-o-rourke-likely-to-play-ahead-of-neil-wagner-in-hamilton-test-1420819\">Will O'Rourke is in chance for Test debut</a>."}, {"type": "HTML", "html": "Mustafa Moudi : \"How can South Africa let their players play SA T20 over International Test. International Duties must be top priority for all. Really disappointed with South African approach towards the most reputed format, specially when they play very less International Matches compared to others!!\" Yeah, it's hard but <a href=\"https://www.espncricinfo.com/story/sa-vs-ind-2nd-test-shukri-conrad-if-sa20-does-not-happen-we-are-not-going-to-have-test-cricket-anyway-1415565\">they are stuck between a rock and a hard place</a>"}, {"type": "HTML", "html": "<strong>10am, Day 1, Session 1</strong> Hello and welcome to ESPNcricinfo's live coverage of the second Test between New Zealand and South Africa. The hosts, powered by Rachin Ravindra and Kane Williamson, registered a thumping win in Mount Maunganui and SA were off the mark in all departments. The regular features among the visitors could not make this series due to the recently concluded SA20 despite WTC points being on offer this series. It was a concern they were aware of going in but as the coach Shukri Conrad said, <a href=\"https://www.espncricinfo.com/story/shukri-conrad-on-south-africa-s-big-defeat-vs-nz-a-jolt-and-a-wake-up-call-1420317\">a lot went wrong</a> which needs turning around."}]<strong>11am</strong> Brand and Fortuin will open. Southee to start from around the wicket. Two slips in <strong>10:55am</strong> Out come the players on a sunny morning for the national anthems. South Africa's Nkosi Sikelel' iAfrika first. God Defend New Zealand follows. Ossian: "Good choices from NZ for their side. Having Wags back will get us some good oomph in our bowling. Got serious deja vu from the last SA series in NZ. " Dylan: "Has anyone realised nz has 4 potential keepers in their team?" Good catch. It's Latham, Conway, Blundell who is the keeper, and Phillips for those wondering. <strong>Pitch report</strong>: This is the type of ground where you can go for runs but that's okay because there can be swing. From a bowling pov, it's a good toss to lose because there is some green and there might be some seam. Will be good for seam in the first session. Grant Elliot says leaving on length will be key in the first session. There will be more bounce than in Tauranga. Craig McMillan says it's a brave move but <a href="https://www.espncricinfo.com/series/south-africa-tour-of-new-zealand-2011-12-520579/new-zealand-vs-south-africa-2nd-test-520604/full-scorecard">unlike in 2012</a>, they might have gotten it wrong here. David: "Batting first in Hamilton against NZ's attack seems... Bold? " Jono: "Green track aside, how much of the Santner omission is down to Rach and Glenn having proved they can do the spin business if required?" Good question, think Rachin was indispensable after the last game. Phillips is handier with the bat too, which helps. <strong>New Zealand XI</strong>: 1 Tom Latham, 2 Devon Conway, 3 Kane Williamson, 4 Rachin Ravindra, 5 Will Young, 6 Tom Blundell (wk), 7 Glenn Phillips, 8 Matt Henry, 9 Tim Southee (capt), 10 Neil Wagner, 11 Will O'Rourke <strong>South Africa XI</strong>1 Neil Brand (capt), 2 Clyde Fortuin, 3 Raynard van Tonder 4 Zubayr Hamza, 5 David Bedingham, 6 Keegan Peterson, 7 Ruan de Swardt, 8 Shaun von Berg, 9 Dane Piedt, 10 Tshepo Moreki, 11 Dane Paterson <strong>Tim Southee, NZ captain</strong>, says they were looking to have a bowl. Hope there's a bit of assistance early on. Three changes: Daryl is out, Will Young comes in. Four seamers. Neil Wagner is in for Mitch Santner. Kyle Jamieson pulled up sore, so Will O'Rourke come in on debut. We know Wagner wears his heart on his sleeve and will give his 100%. So looking forward to that, excited to see what Will, an exciting young quick, has got. <strong>Neil Brand, SA captain</strong>, says it's a green track. They expect this morning to be difficult but hopes to show some fight. There's two changes: Shaun von Berg makes his debut, Dane Piedt comes in. We have to do the right things for longer, losing wickets in clumps doesn't help us. Gotta be better in all departments. <strong>10:33am</strong> Tim Southee has the coin. Tails is the call and that's what it is. Neil Brand said SA will bat first <strong>10:20am</strong> Neil Brand, South Africa's stand-in captain, is aware of them faltering in the first Test but is looking to move on from it. He says <a href="https://www.espncricinfo.com/story/neil-brand-doesn-t-think-makeshift-sa-are-miles-off-nz-after-first-test-defeat-1420844">his team were good for 65% of the game</a>. Can they improve on <a href="https://www.espncricinfo.com/cricket-videos/matt-henry-hopes-for-more-grass-cover-on-hamilton-pitch-1420605">what could be a grassy Hamilton pitch</a>? We'll find out soon. Toss and team news coming up. Rishy: "I don't understand the ridiculous complaining about SA's choice. Like many of the other smaller cricket playing countries (WI, Afg, Ire) <a href="https://www.espncricinfo.com/story/test-cricket-is-increasingly-a-game-of-two-levels-the-big-three-and-the-next-six-1417584">they do not make money on tests and cannot afford to incentivize players compared to T20 leagues</a>. If you really want to complain, complain about the ICC and the Big 3 (really Big 1 cough cough) and how the revenue structure is stifling growth in smaller countries let alone Associate nations like the Netherlands" <strong>If you're in the US, you can watch this match <a href="https://www.espn.com/watch/player/_/id/fd38d359-0a00-4f5a-931a-dfd989b295a1/country/us/redirected/true#bucketId=23396">LIVE on ESPN+</a></strong> New Zealand will miss out on the services of Daryl Mitchell, who has been ruled out by a <a href="https://www.espncricinfo.com/story/new-zealand-news-daryl-mitchell-ruled-out-of-second-south-africa-test-and-australia-t20is-1420268">long-standing foot injury</a>. Mitchell is an important player but the hosts have decent cover with Glenn Phillips and Will Young in the wings, not to forget captain Tim Southee mentioning <a href="https://www.espncricinfo.com/story/uncapped-will-o-rourke-likely-to-play-ahead-of-neil-wagner-in-hamilton-test-1420819">Will O'Rourke is in chance for Test debut</a>. Mustafa Moudi : "How can South Africa let their players play SA T20 over International Test. International Duties must be top priority for all. Really disappointed with South African approach towards the most reputed format, specially when they play very less International Matches compared to others!!" Yeah, it's hard but <a href="https://www.espncricinfo.com/story/sa-vs-ind-2nd-test-shukri-conrad-if-sa20-does-not-happen-we-are-not-going-to-have-test-cricket-anyway-1415565">they are stuck between a rock and a hard place</a> <strong>10am, Day 1, Session 1</strong> Hello and welcome to ESPNcricinfo's live coverage of the second Test between New Zealand and South Africa. The hosts, powered by Rachin Ravindra and Kane Williamson, registered a thumping win in Mount Maunganui and SA were off the mark in all departments. The regular features among the visitors could not make this series due to the recently concluded SA20 despite WTC points being on offer this series. It was a concern they were aware of going in but as the coach Shukri Conrad said, <a href="https://www.espncricinfo.com/story/shukri-conrad-on-south-africa-s-big-defeat-vs-nz-a-jolt-and-a-wake-up-call-1420317">a lot went wrong</a> which needs turning around.
-Pitched up around off, defended in front. Good swing first up
-Iain CJ: "That first ball has HOOPED!"
+
+[{"type": "HTML", "html": "Pitched up around off, defended in front. Good swing first up"}]Pitched up around off, defended in front. Good swing first up
+[{"type": "HTML", "html": "Iain CJ: \"That first ball has HOOPED!\""}]Iain CJ: "That first ball has HOOPED!"
+
 Balls faced: 7
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 4
-Southee misses his line and Brand glances it fine. Replays show it went off the inside edge, Brand reached out on the front foot and tried blocking it straight
-Jouba: "NZ have gone in with 4 seamers and 2 part time spinners, they would probably have bowled first if they won the toss as well. I just dont understand SA selection, why 2 spinners on a seamer's wicket? "
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Southee misses his line and Brand glances it fine. Replays show it went off the inside edge, Brand reached out on the front foot and tried blocking it straight"}]Southee misses his line and Brand glances it fine. Replays show it went off the inside edge, Brand reached out on the front foot and tried blocking it straight
+[{"type": "HTML", "html": "Jouba: \"NZ have gone in with 4 seamers and 2 part time spinners, they would probably have bowled first if they won the toss as well. I just dont understand SA selection, why 2 spinners on a seamer's wicket? \""}]Jouba: "NZ have gone in with 4 seamers and 2 part time spinners, they would probably have bowled first if they won the toss as well. I just dont understand SA selection, why 2 spinners on a seamer's wicket? "
+
 Balls faced: 8
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Catching mid-on in where the last ball went"}]Catching mid-on in where the last ball went
-Straightens off the pitch to beat the edge! Perfect three-quarter length from Southee, lands on off and decks away, Brand tried playing the line but his defence was beaten
+
+[{"type": "HTML", "html": "Straightens off the pitch to beat the edge! Perfect three-quarter length from Southee, lands on off and decks away, Brand tried playing the line but his defence was beaten"}]Straightens off the pitch to beat the edge! Perfect three-quarter length from Southee, lands on off and decks away, Brand tried playing the line but his defence was beaten
+
+
 Balls faced: 9
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
-Checks the full-faced block, tad uppish but lands in empty space and goes to mid-on. Southee pitching it up again
-Matt Clere: "So pumped they've picked Wagner. He will be so fired up against his old country. BRING ON THE BOUNCERS!!!!!"
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Checks the full-faced block, tad uppish but lands in empty space and goes to mid-on. Southee pitching it up again"}]Checks the full-faced block, tad uppish but lands in empty space and goes to mid-on. Southee pitching it up again
+[{"type": "HTML", "html": "Matt Clere: \"So pumped they've picked Wagner. He will be so fired up against his old country. BRING ON THE BOUNCERS!!!!!\""}]Matt Clere: "So pumped they've picked Wagner. He will be so fired up against his old country. BRING ON THE BOUNCERS!!!!!"
+
 Balls faced: 10
 Bowler: Southee
-Over:1
+Over: 1
 Shot: LEFT_ALONE
-run scored: 0
-Fullish outside off, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish outside off, let go"}]Fullish outside off, let go
+
+
 Balls faced: 11
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
-Hangs it outside off on a length, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Hangs it outside off on a length, let go"}]Hangs it outside off on a length, let go
+
+
 Balls faced: 12
 Bowler: Southee
-Over:1
+Over: 1
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "<strong>11am</strong> Brand and Fortuin will open. Southee to start from around the wicket. Two slips in"}, {"type": "HTML", "html": "<strong>10:55am</strong> Out come the players on a sunny morning for the national anthems. South Africa's Nkosi Sikelel' iAfrika first. God Defend New Zealand follows."}, {"type": "HTML", "html": "Ossian: \"Good choices from NZ for their side. Having Wags back will get us some good oomph in our bowling. Got serious deja vu from the last SA series in NZ. \""}, {"type": "HTML", "html": "Dylan: \"Has anyone realised nz has 4 potential keepers in their team?\" Good catch. It's Latham, Conway, Blundell who is the keeper, and Phillips for those wondering."}, {"type": "HTML", "html": "<strong>Pitch report</strong>: This is the type of ground where you can go for runs but that's okay because there can be swing. From a bowling pov, it's a good toss to lose because there is some green and there might be some seam. Will be good for seam in the first session. Grant Elliot says leaving on length will be key in the first session. There will be more bounce than in Tauranga. Craig McMillan says it's a brave move but <a href=\"https://www.espncricinfo.com/series/south-africa-tour-of-new-zealand-2011-12-520579/new-zealand-vs-south-africa-2nd-test-520604/full-scorecard\">unlike in 2012</a>, they might have gotten it wrong here."}, {"type": "HTML", "html": "David: \"Batting first in Hamilton against NZ's attack seems... Bold? \""}, {"type": "HTML", "html": "Jono: \"Green track aside, how much of the Santner omission is down to Rach and Glenn having proved they can do the spin business if required?\" Good question, think Rachin was indispensable after the last game. Phillips is handier with the bat too, which helps."}, {"type": "HTML", "html": "<strong>New Zealand XI</strong>: 1 Tom Latham, 2 Devon Conway, 3 Kane Williamson, 4 Rachin Ravindra, 5 Will Young, 6 Tom Blundell (wk), 7 Glenn Phillips, 8 Matt Henry, 9 Tim Southee (capt), 10 Neil Wagner, 11 Will O'Rourke"}, {"type": "HTML", "html": "<strong>South Africa XI</strong>1 Neil Brand (capt), 2 Clyde Fortuin, 3 Raynard van Tonder 4 Zubayr Hamza, 5 David Bedingham, 6 Keegan Peterson, 7 Ruan de Swardt, 8 Shaun von Berg, 9 Dane Piedt, 10 Tshepo Moreki, 11 Dane Paterson"}, {"type": "HTML", "html": "<strong>Tim Southee, NZ captain</strong>, says they were looking to have a bowl. Hope there's a bit of assistance early on. Three changes: Daryl is out, Will Young comes in. Four seamers. Neil Wagner is in for Mitch Santner. Kyle Jamieson pulled up sore, so Will O'Rourke come in on debut. We know Wagner wears his heart on his sleeve and will give his 100%. So looking forward to that, excited to see what Will, an exciting young quick, has got."}, {"type": "HTML", "html": "<strong>Neil Brand, SA captain</strong>, says it's a green track. They expect this morning to be difficult but hopes to show some fight. There's two changes: Shaun von Berg makes his debut, Dane Piedt comes in. We have to do the right things for longer, losing wickets in clumps doesn't help us. Gotta be better in all departments."}, {"type": "HTML", "html": "<strong>10:33am</strong> Tim Southee has the coin. Tails is the call and that's what it is. Neil Brand said SA will bat first"}, {"type": "HTML", "html": "<strong>10:20am</strong> Neil Brand, South Africa's stand-in captain, is aware of them faltering in the first Test but is looking to move on from it. He says <a href=\"https://www.espncricinfo.com/story/neil-brand-doesn-t-think-makeshift-sa-are-miles-off-nz-after-first-test-defeat-1420844\">his team were good for 65% of the game</a>. Can they improve on <a href=\"https://www.espncricinfo.com/cricket-videos/matt-henry-hopes-for-more-grass-cover-on-hamilton-pitch-1420605\">what could be a grassy Hamilton pitch</a>? We'll find out soon. Toss and team news coming up."}, {"type": "HTML", "html": "Rishy: \"I don't understand the ridiculous complaining about SA's choice. Like many of the other smaller cricket playing countries (WI, Afg, Ire) <a href=\"https://www.espncricinfo.com/story/test-cricket-is-increasingly-a-game-of-two-levels-the-big-three-and-the-next-six-1417584\">they do not make money on tests and cannot afford to incentivize players compared to T20 leagues</a>. If you really want to complain, complain about the ICC and the Big 3 (really Big 1 cough cough) and how the revenue structure is stifling growth in smaller countries let alone Associate nations like the Netherlands\""}, {"type": "HTML", "html": "<strong>If you're in the US, you can watch this match <a href=\"https://www.espn.com/watch/player/_/id/fd38d359-0a00-4f5a-931a-dfd989b295a1/country/us/redirected/true#bucketId=23396\">LIVE on ESPN+</a></strong>"}, {"type": "HTML", "html": "New Zealand will miss out on the services of Daryl Mitchell, who has been ruled out by a <a href=\"https://www.espncricinfo.com/story/new-zealand-news-daryl-mitchell-ruled-out-of-second-south-africa-test-and-australia-t20is-1420268\">long-standing foot injury</a>. Mitchell is an important player but the hosts have decent cover with Glenn Phillips and Will Young in the wings, not to forget captain Tim Southee mentioning <a href=\"https://www.espncricinfo.com/story/uncapped-will-o-rourke-likely-to-play-ahead-of-neil-wagner-in-hamilton-test-1420819\">Will O'Rourke is in chance for Test debut</a>."}, {"type": "HTML", "html": "Mustafa Moudi : \"How can South Africa let their players play SA T20 over International Test. International Duties must be top priority for all. Really disappointed with South African approach towards the most reputed format, specially when they play very less International Matches compared to others!!\" Yeah, it's hard but <a href=\"https://www.espncricinfo.com/story/sa-vs-ind-2nd-test-shukri-conrad-if-sa20-does-not-happen-we-are-not-going-to-have-test-cricket-anyway-1415565\">they are stuck between a rock and a hard place</a>"}, {"type": "HTML", "html": "<strong>10am, Day 1, Session 1</strong> Hello and welcome to ESPNcricinfo's live coverage of the second Test between New Zealand and South Africa. The hosts, powered by Rachin Ravindra and Kane Williamson, registered a thumping win in Mount Maunganui and SA were off the mark in all departments. The regular features among the visitors could not make this series due to the recently concluded SA20 despite WTC points being on offer this series. It was a concern they were aware of going in but as the coach Shukri Conrad said, <a href=\"https://www.espncricinfo.com/story/shukri-conrad-on-south-africa-s-big-defeat-vs-nz-a-jolt-and-a-wake-up-call-1420317\">a lot went wrong</a> which needs turning around."}]<strong>11am</strong> Brand and Fortuin will open. Southee to start from around the wicket. Two slips in <strong>10:55am</strong> Out come the players on a sunny morning for the national anthems. South Africa's Nkosi Sikelel' iAfrika first. God Defend New Zealand follows. Ossian: "Good choices from NZ for their side. Having Wags back will get us some good oomph in our bowling. Got serious deja vu from the last SA series in NZ. " Dylan: "Has anyone realised nz has 4 potential keepers in their team?" Good catch. It's Latham, Conway, Blundell who is the keeper, and Phillips for those wondering. <strong>Pitch report</strong>: This is the type of ground where you can go for runs but that's okay because there can be swing. From a bowling pov, it's a good toss to lose because there is some green and there might be some seam. Will be good for seam in the first session. Grant Elliot says leaving on length will be key in the first session. There will be more bounce than in Tauranga. Craig McMillan says it's a brave move but <a href="https://www.espncricinfo.com/series/south-africa-tour-of-new-zealand-2011-12-520579/new-zealand-vs-south-africa-2nd-test-520604/full-scorecard">unlike in 2012</a>, they might have gotten it wrong here. David: "Batting first in Hamilton against NZ's attack seems... Bold? " Jono: "Green track aside, how much of the Santner omission is down to Rach and Glenn having proved they can do the spin business if required?" Good question, think Rachin was indispensable after the last game. Phillips is handier with the bat too, which helps. <strong>New Zealand XI</strong>: 1 Tom Latham, 2 Devon Conway, 3 Kane Williamson, 4 Rachin Ravindra, 5 Will Young, 6 Tom Blundell (wk), 7 Glenn Phillips, 8 Matt Henry, 9 Tim Southee (capt), 10 Neil Wagner, 11 Will O'Rourke <strong>South Africa XI</strong>1 Neil Brand (capt), 2 Clyde Fortuin, 3 Raynard van Tonder 4 Zubayr Hamza, 5 David Bedingham, 6 Keegan Peterson, 7 Ruan de Swardt, 8 Shaun von Berg, 9 Dane Piedt, 10 Tshepo Moreki, 11 Dane Paterson <strong>Tim Southee, NZ captain</strong>, says they were looking to have a bowl. Hope there's a bit of assistance early on. Three changes: Daryl is out, Will Young comes in. Four seamers. Neil Wagner is in for Mitch Santner. Kyle Jamieson pulled up sore, so Will O'Rourke come in on debut. We know Wagner wears his heart on his sleeve and will give his 100%. So looking forward to that, excited to see what Will, an exciting young quick, has got. <strong>Neil Brand, SA captain</strong>, says it's a green track. They expect this morning to be difficult but hopes to show some fight. There's two changes: Shaun von Berg makes his debut, Dane Piedt comes in. We have to do the right things for longer, losing wickets in clumps doesn't help us. Gotta be better in all departments. <strong>10:33am</strong> Tim Southee has the coin. Tails is the call and that's what it is. Neil Brand said SA will bat first <strong>10:20am</strong> Neil Brand, South Africa's stand-in captain, is aware of them faltering in the first Test but is looking to move on from it. He says <a href="https://www.espncricinfo.com/story/neil-brand-doesn-t-think-makeshift-sa-are-miles-off-nz-after-first-test-defeat-1420844">his team were good for 65% of the game</a>. Can they improve on <a href="https://www.espncricinfo.com/cricket-videos/matt-henry-hopes-for-more-grass-cover-on-hamilton-pitch-1420605">what could be a grassy Hamilton pitch</a>? We'll find out soon. Toss and team news coming up. Rishy: "I don't understand the ridiculous complaining about SA's choice. Like many of the other smaller cricket playing countries (WI, Afg, Ire) <a href="https://www.espncricinfo.com/story/test-cricket-is-increasingly-a-game-of-two-levels-the-big-three-and-the-next-six-1417584">they do not make money on tests and cannot afford to incentivize players compared to T20 leagues</a>. If you really want to complain, complain about the ICC and the Big 3 (really Big 1 cough cough) and how the revenue structure is stifling growth in smaller countries let alone Associate nations like the Netherlands" <strong>If you're in the US, you can watch this match <a href="https://www.espn.com/watch/player/_/id/fd38d359-0a00-4f5a-931a-dfd989b295a1/country/us/redirected/true#bucketId=23396">LIVE on ESPN+</a></strong> New Zealand will miss out on the services of Daryl Mitchell, who has been ruled out by a <a href="https://www.espncricinfo.com/story/new-zealand-news-daryl-mitchell-ruled-out-of-second-south-africa-test-and-australia-t20is-1420268">long-standing foot injury</a>. Mitchell is an important player but the hosts have decent cover with Glenn Phillips and Will Young in the wings, not to forget captain Tim Southee mentioning <a href="https://www.espncricinfo.com/story/uncapped-will-o-rourke-likely-to-play-ahead-of-neil-wagner-in-hamilton-test-1420819">Will O'Rourke is in chance for Test debut</a>. Mustafa Moudi : "How can South Africa let their players play SA T20 over International Test. International Duties must be top priority for all. Really disappointed with South African approach towards the most reputed format, specially when they play very less International Matches compared to others!!" Yeah, it's hard but <a href="https://www.espncricinfo.com/story/sa-vs-ind-2nd-test-shukri-conrad-if-sa20-does-not-happen-we-are-not-going-to-have-test-cricket-anyway-1415565">they are stuck between a rock and a hard place</a> <strong>10am, Day 1, Session 1</strong> Hello and welcome to ESPNcricinfo's live coverage of the second Test between New Zealand and South Africa. The hosts, powered by Rachin Ravindra and Kane Williamson, registered a thumping win in Mount Maunganui and SA were off the mark in all departments. The regular features among the visitors could not make this series due to the recently concluded SA20 despite WTC points being on offer this series. It was a concern they were aware of going in but as the coach Shukri Conrad said, <a href="https://www.espncricinfo.com/story/shukri-conrad-on-south-africa-s-big-defeat-vs-nz-a-jolt-and-a-wake-up-call-1420317">a lot went wrong</a> which needs turning around.
-Pitched up around off, defended in front. Good swing first up
-Iain CJ: "That first ball has HOOPED!"
+
+[{"type": "HTML", "html": "Pitched up around off, defended in front. Good swing first up"}]Pitched up around off, defended in front. Good swing first up
+[{"type": "HTML", "html": "Iain CJ: \"That first ball has HOOPED!\""}]Iain CJ: "That first ball has HOOPED!"
+
 Balls faced: 13
 Bowler: Southee
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
-Full on middle, defended to that catching mid-on fielder
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Full on middle, defended to that catching mid-on fielder"}]Full on middle, defended to that catching mid-on fielder
+
+
 Balls faced: 14
 Bowler: Southee
-Over:3
+Over: 3
 Shot: LEFT_ALONE
-run scored: 0
-Fullish length on fifth, 129ks, let go. Gets good carry
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish length on fifth, 129ks, let go. Gets good carry"}]Fullish length on fifth, 129ks, let go. Gets good carry
+
+
 Balls faced: 15
 Bowler: Southee
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
-Similar. Full on middle and off, 131ks, defended in front
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Similar. Full on middle and off, 131ks, defended in front"}]Similar. Full on middle and off, 131ks, defended in front
+
+
 Balls faced: 16
 Bowler: Southee
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
-Full around off, blocked to mid-off
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Full around off, blocked to mid-off"}]Full around off, blocked to mid-off
+
+
 Balls faced: 17
 Bowler: Southee
-Over:3
+Over: 3
 Shot: LEFT_ALONE
-run scored: 0
-Fullish outside off, let go
-TK Williams: "Hamilton home of swing. Southee hooping the ball around from the Firecats end. "
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish outside off, let go"}]Fullish outside off, let go
+[{"type": "HTML", "html": "TK Williams: \"Hamilton home of swing. Southee hooping the ball around from the Firecats end. \""}]TK Williams: "Hamilton home of swing. Southee hooping the ball around from the Firecats end. "
+
 Balls faced: 18
 Bowler: Southee
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Two slips. Catching mid-on remains. Around the wicket"}]Two slips. Catching mid-on remains. Around the wicket
-Might've been an inside edge. Full ball from wide of the crease angles in sharply, Brand tries blocking straight, and it hits pad on the way to square leg
+
+[{"type": "HTML", "html": "Might've been an inside edge. Full ball from wide of the crease angles in sharply, Brand tries blocking straight, and it hits pad on the way to square leg"}]Might've been an inside edge. Full ball from wide of the crease angles in sharply, Brand tries blocking straight, and it hits pad on the way to square leg
+
+
 Balls faced: 19
 Bowler: Southee
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
-Full on middle, defended to that catching mid-on fielder
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Full on middle, defended to that catching mid-on fielder"}]Full on middle, defended to that catching mid-on fielder
+
+
 Balls faced: 20
 Bowler: Southee
-Over:3
+Over: 3
 Shot: LEFT_ALONE
-run scored: 0
-Fullish length on fifth, 129ks, let go. Gets good carry
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish length on fifth, 129ks, let go. Gets good carry"}]Fullish length on fifth, 129ks, let go. Gets good carry
+
+
 Balls faced: 21
 Bowler: Southee
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
-Similar. Full on middle and off, 131ks, defended in front
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Similar. Full on middle and off, 131ks, defended in front"}]Similar. Full on middle and off, 131ks, defended in front
+
+
 Balls faced: 22
 Bowler: Southee
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
-Full around off, blocked to mid-off
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Full around off, blocked to mid-off"}]Full around off, blocked to mid-off
+
+
 Balls faced: 23
 Bowler: Southee
-Over:3
+Over: 3
 Shot: LEFT_ALONE
-run scored: 0
-Fullish outside off, let go
-TK Williams: "Hamilton home of swing. Southee hooping the ball around from the Firecats end. "
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish outside off, let go"}]Fullish outside off, let go
+[{"type": "HTML", "html": "TK Williams: \"Hamilton home of swing. Southee hooping the ball around from the Firecats end. \""}]TK Williams: "Hamilton home of swing. Southee hooping the ball around from the Firecats end. "
+
 Balls faced: 24
 Bowler: Southee
-Over:3
+Over: 3
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Two slips. Catching mid-on remains. Around the wicket"}]Two slips. Catching mid-on remains. Around the wicket
-Might've been an inside edge. Full ball from wide of the crease angles in sharply, Brand tries blocking straight, and it hits pad on the way to square leg
+
+[{"type": "HTML", "html": "Might've been an inside edge. Full ball from wide of the crease angles in sharply, Brand tries blocking straight, and it hits pad on the way to square leg"}]Might've been an inside edge. Full ball from wide of the crease angles in sharply, Brand tries blocking straight, and it hits pad on the way to square leg
+
+
 Balls faced: 25
 Bowler: Southee
-Over:5
+Over: 5
 Shot: PULL
-run scored: 1
-First bouncer of the day, it's pulled from just outside off to deep square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "First bouncer of the day, it's pulled from just outside off to deep square leg"}]First bouncer of the day, it's pulled from just outside off to deep square leg
+
+
 Balls faced: 26
 Bowler: Henry
-Over:6
+Over: 6
 Shot: PUSH
-run scored: 1
-Quick single to backward point. Three-quarter length on off, 134ks, Brand gets his bat low with a slightly open bat face as he defends, ball goes off the outer-half - from around the sticker - along the ground
-So far so good after that early wicket for SA
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Quick single to backward point. Three-quarter length on off, 134ks, Brand gets his bat low with a slightly open bat face as he defends, ball goes off the outer-half - from around the sticker - along the ground"}]Quick single to backward point. Three-quarter length on off, 134ks, Brand gets his bat low with a slightly open bat face as he defends, ball goes off the outer-half - from around the sticker - along the ground
+[{"type": "HTML", "html": "So far so good after that early wicket for SA"}]So far so good after that early wicket for SA
+
 Balls faced: 27
 Bowler: Henry
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-Full on fourth, 136ks, blocked solidly back to the bowler
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Full on fourth, 136ks, blocked solidly back to the bowler"}]Full on fourth, 136ks, blocked solidly back to the bowler
+
+
 Balls faced: 28
 Bowler: Henry
-Over:6
+Over: 6
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Back around for the lhb"}]Back around for the lhb
-Fullish ball outside off, let go
+
+[{"type": "HTML", "html": "Fullish ball outside off, let go"}]Fullish ball outside off, let go
+
+
 Balls faced: 29
 Bowler: Southee
-Over:5
+Over: 5
 Shot: PULL
-run scored: 1
-First bouncer of the day, it's pulled from just outside off to deep square leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "First bouncer of the day, it's pulled from just outside off to deep square leg"}]First bouncer of the day, it's pulled from just outside off to deep square leg
+
+
 Balls faced: 30
 Bowler: Southee
-Over:7
+Over: 7
 Shot: DEFENDED
-run scored: 0
-Fullish just outside off, solidly blocked off the front foot to cover
-Meg Roberts: "NZ in danger of not making the most of this green pitch (greener than my farm in spring by). Good fight from SA" They're bowling well and were a bit lucky to strike as early as they did. Batters have been more solid since then
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish just outside off, solidly blocked off the front foot to cover"}]Fullish just outside off, solidly blocked off the front foot to cover
+[{"type": "HTML", "html": "Meg Roberts: \"NZ in danger of not making the most of this green pitch (greener than my farm in spring by). Good fight from SA\" They're bowling well and were a bit lucky to strike as early as they did. Batters have been more solid since then"}]Meg Roberts: "NZ in danger of not making the most of this green pitch (greener than my farm in spring by). Good fight from SA" They're bowling well and were a bit lucky to strike as early as they did. Batters have been more solid since then
+
 Balls faced: 31
 Bowler: Southee
-Over:7
+Over: 7
 Shot: LEFT_ALONE
-run scored: 0
-Length on fifth, may have come back in a bit. Let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length on fifth, may have come back in a bit. Let go"}]Length on fifth, may have come back in a bit. Let go
+
+
 Balls faced: 32
 Bowler: Southee
-Over:7
+Over: 7
 Shot: COVER_DRIVE
-run scored: 2
-Through the same region, shot's checked this time. Length slightly behind but still on the fuller side, Brand eases it through again
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Through the same region, shot's checked this time. Length slightly behind but still on the fuller side, Brand eases it through again"}]Through the same region, shot's checked this time. Length slightly behind but still on the fuller side, Brand eases it through again
+
+
 Balls faced: 33
 Bowler: Southee
-Over:7
+Over: 7
 Shot: COVER_DRIVE
-run scored: 4
-Overpitched, the punch through cover brings out a round of applause. Scrambled seam angling in just outside off, Brand was still as he crunched it
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Overpitched, the punch through cover brings out a round of applause. Scrambled seam angling in just outside off, Brand was still as he crunched it"}]Overpitched, the punch through cover brings out a round of applause. Scrambled seam angling in just outside off, Brand was still as he crunched it
+
+
 Balls faced: 34
 Bowler: Southee
-Over:7
+Over: 7
 Shot: COVER_DRIVE
-run scored: 0
-Pitched up on off, defensive punch is firm and goes to the right of Wagner at cover. He parries it to the right and the ball goes away a few metres, batters decide against the run
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Pitched up on off, defensive punch is firm and goes to the right of Wagner at cover. He parries it to the right and the ball goes away a few metres, batters decide against the run"}]Pitched up on off, defensive punch is firm and goes to the right of Wagner at cover. He parries it to the right and the ball goes away a few metres, batters decide against the run
+
+
 Balls faced: 35
 Bowler: Southee
-Over:7
+Over: 7
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Around the wicket, catching mid-on in"}]Around the wicket, catching mid-on in
-Pitched up around off, defended towards extra cover
+
+[{"type": "HTML", "html": "Pitched up around off, defended towards extra cover"}]Pitched up around off, defended towards extra cover
+
+
 Balls faced: 36
 Bowler: Henry
-Over:6
+Over: 6
 Shot: PUSH
-run scored: 1
-Quick single to backward point. Three-quarter length on off, 134ks, Brand gets his bat low with a slightly open bat face as he defends, ball goes off the outer-half - from around the sticker - along the ground
-So far so good after that early wicket for SA
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Quick single to backward point. Three-quarter length on off, 134ks, Brand gets his bat low with a slightly open bat face as he defends, ball goes off the outer-half - from around the sticker - along the ground"}]Quick single to backward point. Three-quarter length on off, 134ks, Brand gets his bat low with a slightly open bat face as he defends, ball goes off the outer-half - from around the sticker - along the ground
+[{"type": "HTML", "html": "So far so good after that early wicket for SA"}]So far so good after that early wicket for SA
+
 Balls faced: 37
 Bowler: Henry
-Over:6
+Over: 6
 Shot: DEFENDED
-run scored: 0
-Full on fourth, 136ks, blocked solidly back to the bowler
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Full on fourth, 136ks, blocked solidly back to the bowler"}]Full on fourth, 136ks, blocked solidly back to the bowler
+
+
 Balls faced: 38
 Bowler: Henry
-Over:6
+Over: 6
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Back around for the lhb"}]Back around for the lhb
-Fullish ball outside off, let go
+
+[{"type": "HTML", "html": "Fullish ball outside off, let go"}]Fullish ball outside off, let go
+
+
 Balls faced: 39
 Bowler: Southee
-Over:7
+Over: 7
 Shot: DEFENDED
-run scored: 0
-Fullish just outside off, solidly blocked off the front foot to cover
-Meg Roberts: "NZ in danger of not making the most of this green pitch (greener than my farm in spring by). Good fight from SA" They're bowling well and were a bit lucky to strike as early as they did. Batters have been more solid since then
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish just outside off, solidly blocked off the front foot to cover"}]Fullish just outside off, solidly blocked off the front foot to cover
+[{"type": "HTML", "html": "Meg Roberts: \"NZ in danger of not making the most of this green pitch (greener than my farm in spring by). Good fight from SA\" They're bowling well and were a bit lucky to strike as early as they did. Batters have been more solid since then"}]Meg Roberts: "NZ in danger of not making the most of this green pitch (greener than my farm in spring by). Good fight from SA" They're bowling well and were a bit lucky to strike as early as they did. Batters have been more solid since then
+
 Balls faced: 40
 Bowler: Southee
-Over:7
+Over: 7
 Shot: LEFT_ALONE
-run scored: 0
-Length on fifth, may have come back in a bit. Let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length on fifth, may have come back in a bit. Let go"}]Length on fifth, may have come back in a bit. Let go
+
+
 Balls faced: 41
 Bowler: Southee
-Over:7
+Over: 7
 Shot: COVER_DRIVE
-run scored: 2
-Through the same region, shot's checked this time. Length slightly behind but still on the fuller side, Brand eases it through again
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Through the same region, shot's checked this time. Length slightly behind but still on the fuller side, Brand eases it through again"}]Through the same region, shot's checked this time. Length slightly behind but still on the fuller side, Brand eases it through again
+
+
 Balls faced: 42
 Bowler: Southee
-Over:7
+Over: 7
 Shot: COVER_DRIVE
-run scored: 4
-Overpitched, the punch through cover brings out a round of applause. Scrambled seam angling in just outside off, Brand was still as he crunched it
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Overpitched, the punch through cover brings out a round of applause. Scrambled seam angling in just outside off, Brand was still as he crunched it"}]Overpitched, the punch through cover brings out a round of applause. Scrambled seam angling in just outside off, Brand was still as he crunched it
+
+
 Balls faced: 43
 Bowler: Southee
-Over:7
+Over: 7
 Shot: COVER_DRIVE
-run scored: 0
-Pitched up on off, defensive punch is firm and goes to the right of Wagner at cover. He parries it to the right and the ball goes away a few metres, batters decide against the run
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Pitched up on off, defensive punch is firm and goes to the right of Wagner at cover. He parries it to the right and the ball goes away a few metres, batters decide against the run"}]Pitched up on off, defensive punch is firm and goes to the right of Wagner at cover. He parries it to the right and the ball goes away a few metres, batters decide against the run
+
+
 Balls faced: 44
 Bowler: Southee
-Over:7
+Over: 7
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Around the wicket, catching mid-on in"}]Around the wicket, catching mid-on in
-Pitched up around off, defended towards extra cover
+
+[{"type": "HTML", "html": "Pitched up around off, defended towards extra cover"}]Pitched up around off, defended towards extra cover
+
+
 Balls faced: 45
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-Pitched up on middle, Brand's slightly inside the line but squeezes it to mid-off nonetheless
-eashan : "@Ekanth - Any idea why Fortuin, who is SA's designated keeper, is opening? Do they plan to switch their opener for the next innings, or will he bat after keeping? Interesting tactics..." He was slotted to open. Edward Moore opened last game but he's out. Think he will be keeping. Interesting indeed
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Pitched up on middle, Brand's slightly inside the line but squeezes it to mid-off nonetheless"}]Pitched up on middle, Brand's slightly inside the line but squeezes it to mid-off nonetheless
+[{"type": "HTML", "html": "eashan : \"@Ekanth - Any idea why Fortuin, who is SA's designated keeper, is opening? Do they plan to switch their opener for the next innings, or will he bat after keeping? Interesting tactics...\" He was slotted to open. Edward Moore opened last game but he's out. Think he will be keeping. Interesting indeed"}]eashan : "@Ekanth - Any idea why Fortuin, who is SA's designated keeper, is opening? Do they plan to switch their opener for the next innings, or will he bat after keeping? Interesting tactics..." He was slotted to open. Edward Moore opened last game but he's out. Think he will be keeping. Interesting indeed
+
 Balls faced: 46
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: LEFT_ALONE
-run scored: 0
-Length outside off, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length outside off, let go"}]Length outside off, let go
+
+
 Balls faced: 47
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: COVER_DRIVE
-run scored: 0
-Pitched up again, not far from the half-volley length. Brand firm with his front-foot punch, finds cover this time
-Mike: "You seemed to have missed pointing out that Brand is on his highest test score..."
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Pitched up again, not far from the half-volley length. Brand firm with his front-foot punch, finds cover this time"}]Pitched up again, not far from the half-volley length. Brand firm with his front-foot punch, finds cover this time
+[{"type": "HTML", "html": "Mike: \"You seemed to have missed pointing out that Brand is on his highest test score...\""}]Mike: "You seemed to have missed pointing out that Brand is on his highest test score..."
+
 Balls faced: 48
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: SQUARE_DRIVE
-run scored: 4
-Overpitched, Brand leans into the drive. The debutant looking for swing, may have got a touch of it but Brand was able to reach it with a small stride and middled it through cover. No sweeper of course
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Overpitched, Brand leans into the drive. The debutant looking for swing, may have got a touch of it but Brand was able to reach it with a small stride and middled it through cover. No sweeper of course"}]Overpitched, Brand leans into the drive. The debutant looking for swing, may have got a touch of it but Brand was able to reach it with a small stride and middled it through cover. No sweeper of course
+
+
 Balls faced: 49
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: LEFT_ALONE
-run scored: 0
-Length outside off, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length outside off, let go"}]Length outside off, let go
+
+
 Balls faced: 50
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: PUSH
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Fans applaud as Will O'Rourke sets up to bowl his first ball in Tests. Around the wicket"}]Fans applaud as Will O'Rourke sets up to bowl his first ball in Tests. Around the wicket
-Jaffa to start! Shortish length, angling in towards off, Brand tried to block it straight, the ball rose to around chest height, it ballooned off the inside edge but square leg was back and it fell safely
+
+[{"type": "HTML", "html": "Jaffa to start! Shortish length, angling in towards off, Brand tried to block it straight, the ball rose to around chest height, it ballooned off the inside edge but square leg was back and it fell safely"}]Jaffa to start! Shortish length, angling in towards off, Brand tried to block it straight, the ball rose to around chest height, it ballooned off the inside edge but square leg was back and it fell safely
+
+
 Balls faced: 51
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: DEFENDED
-run scored: 0
-Pitched up on middle, Brand's slightly inside the line but squeezes it to mid-off nonetheless
-eashan : "@Ekanth - Any idea why Fortuin, who is SA's designated keeper, is opening? Do they plan to switch their opener for the next innings, or will he bat after keeping? Interesting tactics..." He was slotted to open. Edward Moore opened last game but he's out. Think he will be keeping. Interesting indeed
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Pitched up on middle, Brand's slightly inside the line but squeezes it to mid-off nonetheless"}]Pitched up on middle, Brand's slightly inside the line but squeezes it to mid-off nonetheless
+[{"type": "HTML", "html": "eashan : \"@Ekanth - Any idea why Fortuin, who is SA's designated keeper, is opening? Do they plan to switch their opener for the next innings, or will he bat after keeping? Interesting tactics...\" He was slotted to open. Edward Moore opened last game but he's out. Think he will be keeping. Interesting indeed"}]eashan : "@Ekanth - Any idea why Fortuin, who is SA's designated keeper, is opening? Do they plan to switch their opener for the next innings, or will he bat after keeping? Interesting tactics..." He was slotted to open. Edward Moore opened last game but he's out. Think he will be keeping. Interesting indeed
+
 Balls faced: 52
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: LEFT_ALONE
-run scored: 0
-Length outside off, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length outside off, let go"}]Length outside off, let go
+
+
 Balls faced: 53
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: COVER_DRIVE
-run scored: 0
-Pitched up again, not far from the half-volley length. Brand firm with his front-foot punch, finds cover this time
-Mike: "You seemed to have missed pointing out that Brand is on his highest test score..."
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Pitched up again, not far from the half-volley length. Brand firm with his front-foot punch, finds cover this time"}]Pitched up again, not far from the half-volley length. Brand firm with his front-foot punch, finds cover this time
+[{"type": "HTML", "html": "Mike: \"You seemed to have missed pointing out that Brand is on his highest test score...\""}]Mike: "You seemed to have missed pointing out that Brand is on his highest test score..."
+
 Balls faced: 54
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: SQUARE_DRIVE
-run scored: 4
-Overpitched, Brand leans into the drive. The debutant looking for swing, may have got a touch of it but Brand was able to reach it with a small stride and middled it through cover. No sweeper of course
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Overpitched, Brand leans into the drive. The debutant looking for swing, may have got a touch of it but Brand was able to reach it with a small stride and middled it through cover. No sweeper of course"}]Overpitched, Brand leans into the drive. The debutant looking for swing, may have got a touch of it but Brand was able to reach it with a small stride and middled it through cover. No sweeper of course
+
+
 Balls faced: 55
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: LEFT_ALONE
-run scored: 0
-Length outside off, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length outside off, let go"}]Length outside off, let go
+
+
 Balls faced: 56
 Bowler: O'Rourke
-Over:9
+Over: 9
 Shot: PUSH
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Fans applaud as Will O'Rourke sets up to bowl his first ball in Tests. Around the wicket"}]Fans applaud as Will O'Rourke sets up to bowl his first ball in Tests. Around the wicket
-Jaffa to start! Shortish length, angling in towards off, Brand tried to block it straight, the ball rose to around chest height, it ballooned off the inside edge but square leg was back and it fell safely
+
+[{"type": "HTML", "html": "Jaffa to start! Shortish length, angling in towards off, Brand tried to block it straight, the ball rose to around chest height, it ballooned off the inside edge but square leg was back and it fell safely"}]Jaffa to start! Shortish length, angling in towards off, Brand tried to block it straight, the ball rose to around chest height, it ballooned off the inside edge but square leg was back and it fell safely
+
+
 Balls faced: 57
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: LEFT_ALONE
-run scored: 0
-Three-quarter length outside off, let go
-Tom: "It intrigued me in the first Test as to why Peterson - who has batted at 3 in SA's "A" side - was so far down the order. Even after a few runs in Mt Maunganui, they've persisted with van Tonder at first drop. That to me is a more interesting choice than opening with Fortuin. " Goughy: "How quick is O'Rourke bowling?" Mid 130ks
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Three-quarter length outside off, let go"}]Three-quarter length outside off, let go
+[{"type": "HTML", "html": "Tom: \"It intrigued me in the first Test as to why Peterson - who has batted at 3 in SA's \"A\" side - was so far down the order. Even after a few runs in Mt Maunganui, they've persisted with van Tonder at first drop. That to me is a more interesting choice than opening with Fortuin. \""}, {"type": "HTML", "html": "Goughy: \"How quick is O'Rourke bowling?\" Mid 130ks"}]Tom: "It intrigued me in the first Test as to why Peterson - who has batted at 3 in SA's "A" side - was so far down the order. Even after a few runs in Mt Maunganui, they've persisted with van Tonder at first drop. That to me is a more interesting choice than opening with Fortuin. " Goughy: "How quick is O'Rourke bowling?" Mid 130ks
+
 Balls faced: 58
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: ON_DRIVE
-run scored: 4
-Pitched up around fourth, jammed straight of mid-off. Just another defensive punch from Brand, it's been a profitable shot so far. Doesn't have to rely on footwork with those as the fullness allows a step hit
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Pitched up around fourth, jammed straight of mid-off. Just another defensive punch from Brand, it's been a profitable shot so far. Doesn't have to rely on footwork with those as the fullness allows a step hit"}]Pitched up around fourth, jammed straight of mid-off. Just another defensive punch from Brand, it's been a profitable shot so far. Doesn't have to rely on footwork with those as the fullness allows a step hit
+
+
 Balls faced: 59
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: LEFT_ALONE
-run scored: 0
-Fullish ball outside off, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish ball outside off, let go"}]Fullish ball outside off, let go
+
+
 Balls faced: 60
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: LEFT_ALONE
-run scored: 0
-Shortish ball angling just down leg, Brand gets his shoulder across to let it pass over him
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Shortish ball angling just down leg, Brand gets his shoulder across to let it pass over him"}]Shortish ball angling just down leg, Brand gets his shoulder across to let it pass over him
+
+
 Balls faced: 61
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: DEFENDED
-run scored: 0
-Fullish ball on off, defended to cover
-Jarrod: "The NZ green pitch is a myth that lots of people overseas fall for all the time. The colour of the sky is far more important. " Solomon makes a similar point too
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish ball on off, defended to cover"}]Fullish ball on off, defended to cover
+[{"type": "HTML", "html": "Jarrod: \"The NZ green pitch is a myth that lots of people overseas fall for all the time. The colour of the sky is far more important. \" Solomon makes a similar point too"}]Jarrod: "The NZ green pitch is a myth that lots of people overseas fall for all the time. The colour of the sky is far more important. " Solomon makes a similar point too
+
 Balls faced: 62
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Around the wicket"}]Around the wicket
-Tad back of a length on fifth, straight lines, let go. Good bounce, went around shoulder height
+
+[{"type": "HTML", "html": "Tad back of a length on fifth, straight lines, let go. Good bounce, went around shoulder height"}]Tad back of a length on fifth, straight lines, let go. Good bounce, went around shoulder height
+
+
 Balls faced: 63
 Bowler: Henry
-Over:12
+Over: 12
 Shot: LEG_GLANCE
-run scored: 1
-Seam up on a length, angling in towards leg, Brand helps it along the way. Deep fine leg charges across and dives across to save three
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Seam up on a length, angling in towards leg, Brand helps it along the way. Deep fine leg charges across and dives across to save three"}]Seam up on a length, angling in towards leg, Brand helps it along the way. Deep fine leg charges across and dives across to save three
+
+
 Balls faced: 64
 Bowler: Henry
-Over:12
+Over: 12
 Shot: PULL
-run scored: 4
-Bumper, Brand rolls his wrist to pull it into the ground. Gets it just behind square with immense control. He picked it from just outside off from just under head-height, one for the over called
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Bumper, Brand rolls his wrist to pull it into the ground. Gets it just behind square with immense control. He picked it from just outside off from just under head-height, one for the over called"}]Bumper, Brand rolls his wrist to pull it into the ground. Gets it just behind square with immense control. He picked it from just outside off from just under head-height, one for the over called
+
+
 Balls faced: 65
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: LEFT_ALONE
-run scored: 0
-Three-quarter length outside off, let go
-Tom: "It intrigued me in the first Test as to why Peterson - who has batted at 3 in SA's "A" side - was so far down the order. Even after a few runs in Mt Maunganui, they've persisted with van Tonder at first drop. That to me is a more interesting choice than opening with Fortuin. " Goughy: "How quick is O'Rourke bowling?" Mid 130ks
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Three-quarter length outside off, let go"}]Three-quarter length outside off, let go
+[{"type": "HTML", "html": "Tom: \"It intrigued me in the first Test as to why Peterson - who has batted at 3 in SA's \"A\" side - was so far down the order. Even after a few runs in Mt Maunganui, they've persisted with van Tonder at first drop. That to me is a more interesting choice than opening with Fortuin. \""}, {"type": "HTML", "html": "Goughy: \"How quick is O'Rourke bowling?\" Mid 130ks"}]Tom: "It intrigued me in the first Test as to why Peterson - who has batted at 3 in SA's "A" side - was so far down the order. Even after a few runs in Mt Maunganui, they've persisted with van Tonder at first drop. That to me is a more interesting choice than opening with Fortuin. " Goughy: "How quick is O'Rourke bowling?" Mid 130ks
+
 Balls faced: 66
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: ON_DRIVE
-run scored: 4
-Pitched up around fourth, jammed straight of mid-off. Just another defensive punch from Brand, it's been a profitable shot so far. Doesn't have to rely on footwork with those as the fullness allows a step hit
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Pitched up around fourth, jammed straight of mid-off. Just another defensive punch from Brand, it's been a profitable shot so far. Doesn't have to rely on footwork with those as the fullness allows a step hit"}]Pitched up around fourth, jammed straight of mid-off. Just another defensive punch from Brand, it's been a profitable shot so far. Doesn't have to rely on footwork with those as the fullness allows a step hit
+
+
 Balls faced: 67
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: LEFT_ALONE
-run scored: 0
-Fullish ball outside off, let go
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish ball outside off, let go"}]Fullish ball outside off, let go
+
+
 Balls faced: 68
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: LEFT_ALONE
-run scored: 0
-Shortish ball angling just down leg, Brand gets his shoulder across to let it pass over him
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Shortish ball angling just down leg, Brand gets his shoulder across to let it pass over him"}]Shortish ball angling just down leg, Brand gets his shoulder across to let it pass over him
+
+
 Balls faced: 69
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: DEFENDED
-run scored: 0
-Fullish ball on off, defended to cover
-Jarrod: "The NZ green pitch is a myth that lots of people overseas fall for all the time. The colour of the sky is far more important. " Solomon makes a similar point too
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Fullish ball on off, defended to cover"}]Fullish ball on off, defended to cover
+[{"type": "HTML", "html": "Jarrod: \"The NZ green pitch is a myth that lots of people overseas fall for all the time. The colour of the sky is far more important. \" Solomon makes a similar point too"}]Jarrod: "The NZ green pitch is a myth that lots of people overseas fall for all the time. The colour of the sky is far more important. " Solomon makes a similar point too
+
 Balls faced: 70
 Bowler: O'Rourke
-Over:11
+Over: 11
 Shot: LEFT_ALONE
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Around the wicket"}]Around the wicket
-Tad back of a length on fifth, straight lines, let go. Good bounce, went around shoulder height
+
+[{"type": "HTML", "html": "Tad back of a length on fifth, straight lines, let go. Good bounce, went around shoulder height"}]Tad back of a length on fifth, straight lines, let go. Good bounce, went around shoulder height
+
+
 Balls faced: 71
 Bowler: O'Rourke
-Over:13
+Over: 13
 Shot: DEFENDED
-run scored: 0
-OUT! {"short": "lbw", "long": "lbw b O'Rourke", "commentary": "Neil Brand lbw b O'Rourke 25 (38b 5x4 0x6 55m) SR: 65.78"}
-<strong>Big lbw shout, good shout and it's given. It has been reviewed</strong>. Three-quarter length, angling in from a fourth-stump line at 140ks, decks back to breach the gap between Brand's bat and pad. It beat the inside edge and hit him on top of the back pad. Not much footwork from Brand, took a small stride and tried playing straight. Hawk-Eye shows it was hitting in line and would go on to clip the top of middle. Decision stands, <strong>Will O'Rourke has his maiden Test wicket on the stroke of drinks</strong>. Brand walks back disappointed, the skipper did the hard work but couldn't survive past the first hour
-Time for Hemant to come in
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Big lbw shout, good shout and it's given. It has been reviewed</strong>. Three-quarter length, angling in from a fourth-stump line at 140ks, decks back to breach the gap between Brand's bat and pad. It beat the inside edge and hit him on top of the back pad. Not much footwork from Brand, took a small stride and tried playing straight. Hawk-Eye shows it was hitting in line and would go on to clip the top of middle. Decision stands, <strong>Will O'Rourke has his maiden Test wicket on the stroke of drinks</strong>. Brand walks back disappointed, the skipper did the hard work but couldn't survive past the first hour"}]<strong>Big lbw shout, good shout and it's given. It has been reviewed</strong>. Three-quarter length, angling in from a fourth-stump line at 140ks, decks back to breach the gap between Brand's bat and pad. It beat the inside edge and hit him on top of the back pad. Not much footwork from Brand, took a small stride and tried playing straight. Hawk-Eye shows it was hitting in line and would go on to clip the top of middle. Decision stands, <strong>Will O'Rourke has his maiden Test wicket on the stroke of drinks</strong>. Brand walks back disappointed, the skipper did the hard work but couldn't survive past the first hour
+[{"type": "HTML", "html": "Time for Hemant to come in"}]Time for Hemant to come in
+
 Balls faced: 72
 Bowler: O'Rourke
-Over:13
+Over: 13
 Shot: PUSH
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Around, three slips"}]Around, three slips
-Tad back of a length on off, defended off the back foot to cover
-Wagner loosening up
+
+[{"type": "HTML", "html": "Tad back of a length on off, defended off the back foot to cover"}]Tad back of a length on off, defended off the back foot to cover
+[{"type": "HTML", "html": "Wagner loosening up"}]Wagner loosening up
+
 Balls faced: 73
 Bowler: Henry
-Over:12
+Over: 12
 Shot: LEG_GLANCE
-run scored: 1
-Seam up on a length, angling in towards leg, Brand helps it along the way. Deep fine leg charges across and dives across to save three
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Seam up on a length, angling in towards leg, Brand helps it along the way. Deep fine leg charges across and dives across to save three"}]Seam up on a length, angling in towards leg, Brand helps it along the way. Deep fine leg charges across and dives across to save three
+
+
 Balls faced: 74
 Bowler: Henry
-Over:12
+Over: 12
 Shot: PULL
-run scored: 4
-Bumper, Brand rolls his wrist to pull it into the ground. Gets it just behind square with immense control. He picked it from just outside off from just under head-height, one for the over called
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Bumper, Brand rolls his wrist to pull it into the ground. Gets it just behind square with immense control. He picked it from just outside off from just under head-height, one for the over called"}]Bumper, Brand rolls his wrist to pull it into the ground. Gets it just behind square with immense control. He picked it from just outside off from just under head-height, one for the over called
+
+
 Balls faced: 75
 Bowler: O'Rourke
-Over:13
+Over: 13
 Shot: DEFENDED
-run scored: 0
-OUT! {"short": "lbw", "long": "lbw b O'Rourke", "commentary": "Neil Brand lbw b O'Rourke 25 (38b 5x4 0x6 55m) SR: 65.78"}
-<strong>Big lbw shout, good shout and it's given. It has been reviewed</strong>. Three-quarter length, angling in from a fourth-stump line at 140ks, decks back to breach the gap between Brand's bat and pad. It beat the inside edge and hit him on top of the back pad. Not much footwork from Brand, took a small stride and tried playing straight. Hawk-Eye shows it was hitting in line and would go on to clip the top of middle. Decision stands, <strong>Will O'Rourke has his maiden Test wicket on the stroke of drinks</strong>. Brand walks back disappointed, the skipper did the hard work but couldn't survive past the first hour
-Time for Hemant to come in
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Big lbw shout, good shout and it's given. It has been reviewed</strong>. Three-quarter length, angling in from a fourth-stump line at 140ks, decks back to breach the gap between Brand's bat and pad. It beat the inside edge and hit him on top of the back pad. Not much footwork from Brand, took a small stride and tried playing straight. Hawk-Eye shows it was hitting in line and would go on to clip the top of middle. Decision stands, <strong>Will O'Rourke has his maiden Test wicket on the stroke of drinks</strong>. Brand walks back disappointed, the skipper did the hard work but couldn't survive past the first hour"}]<strong>Big lbw shout, good shout and it's given. It has been reviewed</strong>. Three-quarter length, angling in from a fourth-stump line at 140ks, decks back to breach the gap between Brand's bat and pad. It beat the inside edge and hit him on top of the back pad. Not much footwork from Brand, took a small stride and tried playing straight. Hawk-Eye shows it was hitting in line and would go on to clip the top of middle. Decision stands, <strong>Will O'Rourke has his maiden Test wicket on the stroke of drinks</strong>. Brand walks back disappointed, the skipper did the hard work but couldn't survive past the first hour
+[{"type": "HTML", "html": "Time for Hemant to come in"}]Time for Hemant to come in
+
 Balls faced: 76
 Bowler: O'Rourke
-Over:13
+Over: 13
 Shot: PUSH
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Around, three slips"}]Around, three slips
-Tad back of a length on off, defended off the back foot to cover
-Wagner loosening up
-Match: southafrica_1388186_1418775.json
+
+[{"type": "HTML", "html": "Tad back of a length on off, defended off the back foot to cover"}]Tad back of a length on off, defended off the back foot to cover
+[{"type": "HTML", "html": "Wagner loosening up"}]Wagner loosening up
+
+
+Match: all_games_1388186_1418775.json
 Balls faced: 1
 Bowler: Duffy
-Over:1
-No Shot
-run scored: 0
+Over: 1
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 2
 Bowler: Duffy
-Over:1
+Over: 1
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 3
 Bowler: Duffy
-Over:1
+Over: 1
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 4
 Bowler: Duffy
-Over:1
-No Shot
-run scored: 0
+Over: 1
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 5
 Bowler: Duffy
-Over:1
-No Shot
-run scored: 0
+Over: 1
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 6
 Bowler: Duffy
-Over:1
-No Shot
-run scored: 0
+Over: 1
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 7
 Bowler: Duffy
-Over:1
-No Shot
-run scored: 0
+Over: 1
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 8
 Bowler: Duffy
-Over:1
+Over: 1
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 9
 Bowler: Duffy
-Over:1
+Over: 1
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 10
 Bowler: Duffy
-Over:1
-No Shot
-run scored: 0
+Over: 1
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 11
 Bowler: Duffy
-Over:1
-No Shot
-run scored: 0
+Over: 1
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 12
 Bowler: Duffy
-Over:1
-No Shot
-run scored: 0
+Over: 1
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 13
 Bowler: Duffy
-Over:3
+Over: 3
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 14
 Bowler: Duffy
-Over:3
-No Shot
-run scored: 0
+Over: 3
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 15
 Bowler: Duffy
-Over:3
+Over: 3
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 16
 Bowler: Duffy
-Over:3
-No Shot
-run scored: 0
+Over: 3
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 17
 Bowler: Duffy
-Over:3
+Over: 3
 Shot: LEG_GLANCE
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 18
 Bowler: Duffy
-Over:3
+Over: 3
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 19
 Bowler: Duffy
-Over:3
-No Shot
-run scored: 0
+Over: 3
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 20
 Bowler: Duffy
-Over:3
+Over: 3
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 21
 Bowler: Duffy
-Over:3
-No Shot
-run scored: 0
+Over: 3
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 22
 Bowler: Duffy
-Over:3
+Over: 3
 Shot: LEG_GLANCE
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 23
 Bowler: Duffy
-Over:5
+Over: 5
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 24
 Bowler: Duffy
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 25
 Bowler: Duffy
-Over:5
+Over: 5
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 6
+Run scored: 6
+
+
+
+
+
 Balls faced: 26
 Bowler: Duffy
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 27
 Bowler: Duffy
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 28
 Bowler: Duffy
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 29
 Bowler: Duffy
-Over:5
+Over: 5
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 30
 Bowler: Duffy
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 31
 Bowler: Duffy
-Over:5
+Over: 5
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 6
+Run scored: 6
+
+
+
+
+
 Balls faced: 32
 Bowler: Duffy
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 33
 Bowler: Duffy
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 34
 Bowler: Duffy
-Over:5
-No Shot
-run scored: 0
+Over: 5
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 35
 Bowler: Duffy
-Over:7
+Over: 7
 Shot: PUSH_SHOT
-run scored: 3
+Run scored: 3
+
+
+
+
+
 Balls faced: 36
 Bowler: Duffy
-Over:7
-No Shot
-run scored: 0
+Over: 7
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 37
 Bowler: Duffy
-Over:7
+Over: 7
 Shot: PUSH_SHOT
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 38
 Bowler: Duffy
-Over:7
+Over: 7
 Shot: PUSH_SHOT
-run scored: 3
+Run scored: 3
+
+
+
+
+
 Balls faced: 39
 Bowler: Duffy
-Over:7
-No Shot
-run scored: 0
+Over: 7
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 40
 Bowler: Duffy
-Over:7
+Over: 7
 Shot: PUSH_SHOT
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 41
 Bowler: Duffy
-Over:11
+Over: 11
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 42
 Bowler: Duffy
-Over:11
+Over: 11
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 43
 Bowler: Duffy
-Over:11
-No Shot
-run scored: 0
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 44
 Bowler: Duffy
-Over:11
+Over: 11
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 45
 Bowler: Duffy
-Over:11
-No Shot
-run scored: 0
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 46
 Bowler: Duffy
-Over:11
+Over: 11
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 47
 Bowler: Duffy
-Over:11
+Over: 11
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 48
 Bowler: Duffy
-Over:11
+Over: 11
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 49
 Bowler: Duffy
-Over:11
-No Shot
-run scored: 0
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 50
 Bowler: Duffy
-Over:11
+Over: 11
 Shot: PULL_HOOK_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 51
 Bowler: Duffy
-Over:11
-No Shot
-run scored: 0
+Over: 11
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 52
 Bowler: Duffy
-Over:11
+Over: 11
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 53
 Bowler: Davey
-Over:14
+Over: 14
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 54
 Bowler: Davey
-Over:14
-No Shot
-run scored: 0
+Over: 14
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 55
 Bowler: Davey
-Over:14
+Over: 14
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 56
 Bowler: Davey
-Over:14
+Over: 14
 Shot: FORWARD_DEFENCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 57
 Bowler: Davey
-Over:14
-No Shot
-run scored: 0
+Over: 14
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 58
 Bowler: Davey
-Over:14
-No Shot
-run scored: 0
+Over: 14
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 59
 Bowler: Davey
-Over:14
+Over: 14
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 60
 Bowler: Davey
-Over:14
-No Shot
-run scored: 0
+Over: 14
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 61
 Bowler: Davey
-Over:14
+Over: 14
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 62
 Bowler: Davey
-Over:14
+Over: 14
 Shot: FORWARD_DEFENCE
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 63
 Bowler: Davey
-Over:14
-No Shot
-run scored: 0
+Over: 14
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 64
 Bowler: Davey
-Over:14
-No Shot
-run scored: 0
+Over: 14
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 65
 Bowler: Davey
-Over:16
-No Shot
-run scored: 0
+Over: 16
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 66
 Bowler: Davey
-Over:16
+Over: 16
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 67
 Bowler: Davey
-Over:16
-No Shot
-run scored: 0
+Over: 16
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 68
 Bowler: Davey
-Over:16
+Over: 16
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 69
 Bowler: Davey
-Over:16
+Over: 16
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 70
 Bowler: Georgeson
-Over:17
+Over: 17
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 71
 Bowler: Davey
-Over:16
-No Shot
-run scored: 0
+Over: 16
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 72
 Bowler: Davey
-Over:16
+Over: 16
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 73
 Bowler: Davey
-Over:16
-No Shot
-run scored: 0
+Over: 16
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 74
 Bowler: Davey
-Over:16
+Over: 16
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 75
 Bowler: Davey
-Over:16
+Over: 16
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 76
 Bowler: Georgeson
-Over:17
+Over: 17
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 77
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 78
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: LEG_GLANCE
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 79
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 80
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 81
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 82
 Bowler: Davey
-Over:20
-No Shot
-run scored: 0
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 83
 Bowler: Davey
-Over:20
+Over: 20
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 84
 Bowler: Davey
-Over:20
+Over: 20
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 85
 Bowler: Davey
-Over:20
-No Shot
-run scored: 0
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 86
 Bowler: Davey
-Over:20
+Over: 20
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 87
 Bowler: Davey
-Over:20
+Over: 20
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 88
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 89
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: LEG_GLANCE
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 90
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 91
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 2
+Run scored: 2
+
+
+
+
+
 Balls faced: 92
 Bowler: Georgeson
-Over:19
+Over: 19
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 93
 Bowler: Georgeson
-Over:21
+Over: 21
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 94
 Bowler: Georgeson
-Over:21
+Over: 21
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 95
 Bowler: Georgeson
-Over:21
+Over: 21
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 96
 Bowler: Davey
-Over:20
-No Shot
-run scored: 0
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 97
 Bowler: Davey
-Over:20
+Over: 20
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 98
 Bowler: Davey
-Over:20
+Over: 20
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 99
 Bowler: Davey
-Over:20
-No Shot
-run scored: 0
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
 Balls faced: 100
 Bowler: Davey
-Over:20
+Over: 20
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 101
 Bowler: Davey
-Over:20
+Over: 20
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 102
 Bowler: Davey
-Over:22
+Over: 22
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 103
 Bowler: Davey
-Over:22
+Over: 22
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 104
 Bowler: Davey
-Over:22
+Over: 22
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 105
 Bowler: Georgeson
-Over:21
+Over: 21
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 106
 Bowler: Georgeson
-Over:21
+Over: 21
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 107
 Bowler: Georgeson
-Over:21
+Over: 21
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 108
 Bowler: Ben
-Over:23
+Over: 23
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 109
 Bowler: Ben
-Over:23
+Over: 23
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 110
 Bowler: Davey
-Over:22
+Over: 22
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 4
+Run scored: 4
+
+
+
+
+
 Balls faced: 111
 Bowler: Davey
-Over:22
+Over: 22
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 112
 Bowler: Davey
-Over:22
+Over: 22
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 113
 Bowler: Davey
-Over:24
+Over: 24
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
 No Balls: 1
 Balls faced: 114
 Bowler: Davey
-Over:24
+Over: 24
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 115
 Bowler: Davey
-Over:24
+Over: 24
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 116
 Bowler: Ben
-Over:23
+Over: 23
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 117
 Bowler: Ben
-Over:23
+Over: 23
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 118
 Bowler: Ben
-Over:25
+Over: 25
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 119
 Bowler: Ben
-Over:25
+Over: 25
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 120
 Bowler: Ben
-Over:25
+Over: 25
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 121
 Bowler: Ben
-Over:25
+Over: 25
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 122
 Bowler: Davey
-Over:24
+Over: 24
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
 No Balls: 1
 Balls faced: 123
 Bowler: Davey
-Over:24
+Over: 24
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 124
 Bowler: Davey
-Over:24
+Over: 24
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 125
 Bowler: Foxcroft
-Over:26
+Over: 26
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 126
 Bowler: Foxcroft
-Over:26
+Over: 26
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 127
 Bowler: Ben
-Over:25
+Over: 25
 Shot: VERTICAL_FORWARD_ATTACK
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 128
 Bowler: Ben
-Over:25
+Over: 25
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 129
 Bowler: Ben
-Over:25
+Over: 25
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 130
 Bowler: Ben
-Over:25
+Over: 25
 Shot: BACK_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 131
 Bowler: Ben
-Over:27
+Over: 27
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 132
 Bowler: Ben
-Over:27
+Over: 27
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 133
 Bowler: Foxcroft
-Over:26
+Over: 26
 Shot: PUSH_SHOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 134
 Bowler: Foxcroft
-Over:26
+Over: 26
 Shot: FORWARD_DEFENCE
-run scored: 0
+Run scored: 0
+
+
+
+
+
 Balls faced: 135
 Bowler: Ben
-Over:27
+Over: 27
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
+
+
+
+
+
 Balls faced: 136
 Bowler: Ben
-Over:27
+Over: 27
 Shot: CUT_SHOT_ON_BACK_FOOT
-run scored: 1
+Run scored: 1
