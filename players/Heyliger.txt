@@ -2,21 +2,23 @@ Match: all_games_1411166_1415701.json
 Balls faced: 1
 Bowler: Ali Khan
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Bumper over leg stump, batter makes room and charges. Doesn't middle the pull but gets it to long-on"}]Bumper over leg stump, batter makes room and charges. Doesn't middle the pull but gets it to long-on
+Bumper over leg stump, batter makes room and charges. Doesn't middle the pull but gets it to long-on
 
 
 Balls faced: 2
 Bowler: Ali Khan
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Bumper over leg stump, batter makes room and charges. Doesn't middle the pull but gets it to long-on"}]Bumper over leg stump, batter makes room and charges. Doesn't middle the pull but gets it to long-on
+Bumper over leg stump, batter makes room and charges. Doesn't middle the pull but gets it to long-on
 
 
 
@@ -24,41 +26,49 @@ Match: all_games_1411166_1415713.json
 Balls faced: 1
 Bowler: McCarthy
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "taken at long-on! McCarthy breaks Canada's momentum in the closing stages. Heyliger was standing outside leg, as McCarthy bowled on the shorter side of a length outside off. Heyliger went through with the free swing of the bat, but ended up pulling straight to the fielder on the boundary"}]taken at long-on! McCarthy breaks Canada's momentum in the closing stages. Heyliger was standing outside leg, as McCarthy bowled on the shorter side of a length outside off. Heyliger went through with the free swing of the bat, but ended up pulling straight to the fielder on the boundary
+Heyliger is OUT! caught
+c Little b McCarthy
+Dilon Heyliger c Little b McCarthy 0 (2b 0x4 0x6 1m) SR: 0
+taken at long-on! McCarthy breaks Canada's momentum in the closing stages. Heyliger was standing outside leg, as McCarthy bowled on the shorter side of a length outside off. Heyliger went through with the free swing of the bat, but ended up pulling straight to the fielder on the boundary
 
 
 Balls faced: 2
 Bowler: McCarthy
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Heyliger"}]Heyliger
+Heyliger
 
-[{"type": "HTML", "html": "short of a length just outside off, and he looks to pull but he is beaten"}]short of a length just outside off, and he looks to pull but he is beaten
+short of a length just outside off, and he looks to pull but he is beaten
 
 
 Balls faced: 3
 Bowler: McCarthy
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "taken at long-on! McCarthy breaks Canada's momentum in the closing stages. Heyliger was standing outside leg, as McCarthy bowled on the shorter side of a length outside off. Heyliger went through with the free swing of the bat, but ended up pulling straight to the fielder on the boundary"}]taken at long-on! McCarthy breaks Canada's momentum in the closing stages. Heyliger was standing outside leg, as McCarthy bowled on the shorter side of a length outside off. Heyliger went through with the free swing of the bat, but ended up pulling straight to the fielder on the boundary
+Heyliger is OUT! caught
+c Little b McCarthy
+Dilon Heyliger c Little b McCarthy 0 (2b 0x4 0x6 1m) SR: 0
+taken at long-on! McCarthy breaks Canada's momentum in the closing stages. Heyliger was standing outside leg, as McCarthy bowled on the shorter side of a length outside off. Heyliger went through with the free swing of the bat, but ended up pulling straight to the fielder on the boundary
 
 
 Balls faced: 4
 Bowler: McCarthy
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Heyliger"}]Heyliger
+Heyliger
 
-[{"type": "HTML", "html": "short of a length just outside off, and he looks to pull but he is beaten"}]short of a length just outside off, and he looks to pull but he is beaten
+short of a length just outside off, and he looks to pull but he is beaten
 
 
 
@@ -66,228 +76,251 @@ Match: all_games_1411166_1415722.json
 Balls faced: 1
 Bowler: Amir
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Dilon Heyliger walks in"}]Dilon Heyliger walks in
+Dilon Heyliger walks in
 
-[{"type": "HTML", "html": "back of a length, nudged off the body"}]back of a length, nudged off the body
+back of a length, nudged off the body
 
 
 Balls faced: 2
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "low full toss, 133kph/83mph on off. Slashed off the outside edge to deep third"}]low full toss, 133kph/83mph on off. Slashed off the outside edge to deep third
-[{"type": "HTML", "html": "Here's MAB, enjoying this little slice of history: \"I am at the stadium. Great atmosphere and never thought to have cricket at this level in NYC. Amazing scenes.\""}]Here's MAB, enjoying this little slice of history: "I am at the stadium. Great atmosphere and never thought to have cricket at this level in NYC. Amazing scenes."
+low full toss, 133kph/83mph on off. Slashed off the outside edge to deep third
+Here's MAB, enjoying this little slice of history: "I am at the stadium. Great atmosphere and never thought to have cricket at this level in NYC. Amazing scenes."
 
 Balls faced: 3
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Afridi is back for his fourth over"}]Afridi is back for his fourth over
+Afridi is back for his fourth over
 
-[{"type": "HTML", "html": "full, pace off and clipped... lands safely in the vacant mid-on region"}]full, pace off and clipped... lands safely in the vacant mid-on region
+full, pace off and clipped... lands safely in the vacant mid-on region
 
 
 Balls faced: 4
 Bowler: Amir
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Dilon Heyliger walks in"}]Dilon Heyliger walks in
+Dilon Heyliger walks in
 
-[{"type": "HTML", "html": "back of a length, nudged off the body"}]back of a length, nudged off the body
+back of a length, nudged off the body
 
 
 Balls faced: 5
 Bowler: Amir
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pace off again, worked out to deep midwicket for one"}]pace off again, worked out to deep midwicket for one
+pace off again, worked out to deep midwicket for one
 
 
 Balls faced: 6
 Bowler: Amir
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full at the pads, 137kph/85mph and Heyliger can't connect again"}]full at the pads, 137kph/85mph and Heyliger can't connect again
+full at the pads, 137kph/85mph and Heyliger can't connect again
 
 
 Balls faced: 7
 Bowler: Amir
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball wide of off, another swipe of thin air"}]slower ball wide of off, another swipe of thin air
+slower ball wide of off, another swipe of thin air
 
 
 Balls faced: 8
 Bowler: Amir
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>top-edged to fine leg!</b> Amir had the man up but still went short, Heyliger was tucked up but swung hard and got enough to clear the circle"}]<b>top-edged to fine leg!</b> Amir had the man up but still went short, Heyliger was tucked up but swung hard and got enough to clear the circle
+<b>top-edged to fine leg!</b> Amir had the man up but still went short, Heyliger was tucked up but swung hard and got enough to clear the circle
 
 
 Balls faced: 9
 Bowler: Amir
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled across, pace off in the channel, draws a swing and miss"}]angled across, pace off in the channel, draws a swing and miss
+angled across, pace off in the channel, draws a swing and miss
 
 
 Balls faced: 10
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "low full toss, 133kph/83mph on off. Slashed off the outside edge to deep third"}]low full toss, 133kph/83mph on off. Slashed off the outside edge to deep third
-[{"type": "HTML", "html": "Here's MAB, enjoying this little slice of history: \"I am at the stadium. Great atmosphere and never thought to have cricket at this level in NYC. Amazing scenes.\""}]Here's MAB, enjoying this little slice of history: "I am at the stadium. Great atmosphere and never thought to have cricket at this level in NYC. Amazing scenes."
+low full toss, 133kph/83mph on off. Slashed off the outside edge to deep third
+Here's MAB, enjoying this little slice of history: "I am at the stadium. Great atmosphere and never thought to have cricket at this level in NYC. Amazing scenes."
 
 Balls faced: 11
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Afridi is back for his fourth over"}]Afridi is back for his fourth over
+Afridi is back for his fourth over
 
-[{"type": "HTML", "html": "full, pace off and clipped... lands safely in the vacant mid-on region"}]full, pace off and clipped... lands safely in the vacant mid-on region
+full, pace off and clipped... lands safely in the vacant mid-on region
 
 
 Balls faced: 12
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in full, scuffed back through mid-on"}]fired in full, scuffed back through mid-on
+fired in full, scuffed back through mid-on
 
 
 Balls faced: 13
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "misses down the leg side but they scamper a bye"}]misses down the leg side but they scamper a bye
+misses down the leg side but they scamper a bye
 
 Byes: 1
 Balls faced: 14
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Last over, Naseem to bowl it. Canada looking to get up past the 100 mark"}]Last over, Naseem to bowl it. Canada looking to get up past the 100 mark
+Last over, Naseem to bowl it. Canada looking to get up past the 100 mark
 
-[{"type": "HTML", "html": "pitched up straight and dug out"}]pitched up straight and dug out
-[{"type": "HTML", "html": "In fact, there were two noises on that Kaleem caught-behind shout: UltraEdge showing a deflection off the bat, then on to the pad"}]In fact, there were two noises on that Kaleem caught-behind shout: UltraEdge showing a deflection off the bat, then on to the pad
+pitched up straight and dug out
+In fact, there were two noises on that Kaleem caught-behind shout: UltraEdge showing a deflection off the bat, then on to the pad
 
 Balls faced: 15
 Bowler: Amir
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pace off again, worked out to deep midwicket for one"}]pace off again, worked out to deep midwicket for one
+pace off again, worked out to deep midwicket for one
 
 
 Balls faced: 16
 Bowler: Amir
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full at the pads, 137kph/85mph and Heyliger can't connect again"}]full at the pads, 137kph/85mph and Heyliger can't connect again
+full at the pads, 137kph/85mph and Heyliger can't connect again
 
 
 Balls faced: 17
 Bowler: Amir
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball wide of off, another swipe of thin air"}]slower ball wide of off, another swipe of thin air
+slower ball wide of off, another swipe of thin air
 
 
 Balls faced: 18
 Bowler: Amir
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>top-edged to fine leg!</b> Amir had the man up but still went short, Heyliger was tucked up but swung hard and got enough to clear the circle"}]<b>top-edged to fine leg!</b> Amir had the man up but still went short, Heyliger was tucked up but swung hard and got enough to clear the circle
+<b>top-edged to fine leg!</b> Amir had the man up but still went short, Heyliger was tucked up but swung hard and got enough to clear the circle
 
 
 Balls faced: 19
 Bowler: Amir
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled across, pace off in the channel, draws a swing and miss"}]angled across, pace off in the channel, draws a swing and miss
+angled across, pace off in the channel, draws a swing and miss
 
 
 Balls faced: 20
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in full, scuffed back through mid-on"}]fired in full, scuffed back through mid-on
+fired in full, scuffed back through mid-on
 
 
 Balls faced: 21
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "misses down the leg side but they scamper a bye"}]misses down the leg side but they scamper a bye
+misses down the leg side but they scamper a bye
 
 Byes: 1
 Balls faced: 22
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Last over, Naseem to bowl it. Canada looking to get up past the 100 mark"}]Last over, Naseem to bowl it. Canada looking to get up past the 100 mark
+Last over, Naseem to bowl it. Canada looking to get up past the 100 mark
 
-[{"type": "HTML", "html": "pitched up straight and dug out"}]pitched up straight and dug out
-[{"type": "HTML", "html": "In fact, there were two noises on that Kaleem caught-behind shout: UltraEdge showing a deflection off the bat, then on to the pad"}]In fact, there were two noises on that Kaleem caught-behind shout: UltraEdge showing a deflection off the bat, then on to the pad
+pitched up straight and dug out
+In fact, there were two noises on that Kaleem caught-behind shout: UltraEdge showing a deflection off the bat, then on to the pad
 
 
 Match: all_games_1425115_1425121.json
 Balls faced: 1
 Bowler: Netravalkar
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -298,6 +331,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Netravalkar
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -308,16 +342,20 @@ Run scored: 4
 Balls faced: 3
 Bowler: Jasdeep
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Heyliger is OUT! bowled
+ b Jasdeep Singh
+Dilon Heyliger b Jasdeep Singh 6 (4b 1x4 0x6) SR: 150
 
 
 
 Balls faced: 4
 Bowler: Jasdeep
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -328,6 +366,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Netravalkar
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -338,6 +377,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Netravalkar
 Over: 18
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -348,16 +388,20 @@ Run scored: 4
 Balls faced: 7
 Bowler: Jasdeep
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Heyliger is OUT! bowled
+ b Jasdeep Singh
+Dilon Heyliger b Jasdeep Singh 6 (4b 1x4 0x6) SR: 150
 
 
 
 Balls faced: 8
 Bowler: Jasdeep
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -370,6 +414,7 @@ Match: all_games_1425115_1425122.json
 Balls faced: 1
 Bowler: Jasdeep
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
@@ -380,6 +425,7 @@ Run scored: 4
 Balls faced: 2
 Bowler: Jasdeep
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
@@ -390,6 +436,7 @@ Run scored: 6
 Balls faced: 3
 Bowler: Jasdeep
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -400,16 +447,20 @@ Run scored: 1
 Balls faced: 4
 Bowler: Kenjige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
+Heyliger is OUT! caught
+c Netravalkar b Kenjige
+Dilon Heyliger c Netravalkar b Kenjige 11 (4b 1x4 1x6) SR: 275
 
 
 
 Balls faced: 5
 Bowler: Jasdeep
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
@@ -420,6 +471,7 @@ Run scored: 4
 Balls faced: 6
 Bowler: Jasdeep
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
@@ -430,6 +482,7 @@ Run scored: 6
 Balls faced: 7
 Bowler: Jasdeep
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -440,10 +493,13 @@ Run scored: 1
 Balls faced: 8
 Bowler: Kenjige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
+Heyliger is OUT! caught
+c Netravalkar b Kenjige
+Dilon Heyliger c Netravalkar b Kenjige 11 (4b 1x4 1x6) SR: 275
 
 
 
@@ -452,6 +508,7 @@ Match: all_games_1425115_1425124.json
 Balls faced: 1
 Bowler: Jasdeep
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
@@ -462,6 +519,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: van Schalkwyk
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -472,6 +530,7 @@ Run scored: 4
 Balls faced: 3
 Bowler: van Schalkwyk
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
@@ -482,6 +541,7 @@ Run scored: 4
 Balls faced: 4
 Bowler: van Schalkwyk
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 2
 
@@ -492,6 +552,7 @@ Run scored: 2
 Balls faced: 5
 Bowler: van Schalkwyk
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
@@ -502,6 +563,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Jasdeep
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
@@ -512,6 +574,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: van Schalkwyk
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -522,6 +585,7 @@ Run scored: 4
 Balls faced: 8
 Bowler: van Schalkwyk
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
@@ -532,6 +596,7 @@ Run scored: 4
 Balls faced: 9
 Bowler: van Schalkwyk
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 2
 
@@ -542,5 +607,6 @@ Run scored: 2
 Balls faced: 10
 Bowler: van Schalkwyk
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1

@@ -2,98 +2,108 @@ Match: all_games_1408099_1408103.json
 Balls faced: 1
 Bowler: Adair
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower full ball on middle, clipped through midwicket"}]Slower full ball on middle, clipped through midwicket
+Slower full ball on middle, clipped through midwicket
 
 
 Balls faced: 2
 Bowler: Adair
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Trevor Gwandu with the bat now. Gave away 20 in the final over. Can he hang around and ensure a Zimbabwe win?"}]Trevor Gwandu with the bat now. Gave away 20 in the final over. Can he hang around and ensure a Zimbabwe win?
+Trevor Gwandu with the bat now. Gave away 20 in the final over. Can he hang around and ensure a Zimbabwe win?
 
-[{"type": "HTML", "html": "Slower full one around off, pushes it towards short midwicket and sets off. McCarthy gets around and under-arms the throw but misses at the bowler's end"}]Slower full one around off, pushes it towards short midwicket and sets off. McCarthy gets around and under-arms the throw but misses at the bowler's end
+Slower full one around off, pushes it towards short midwicket and sets off. McCarthy gets around and under-arms the throw but misses at the bowler's end
 
 
 Balls faced: 3
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Cracking sound off the bat, when he heaved the length ball across the line. But it was hit straight to deep midwicket"}]Cracking sound off the bat, when he heaved the length ball across the line. But it was hit straight to deep midwicket
+Cracking sound off the bat, when he heaved the length ball across the line. But it was hit straight to deep midwicket
 
 
 Balls faced: 4
 Bowler: McCarthy
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Slaps it over the bowler's head, and they run back for two. Another slower length ball outside off, he thwacks it almost straight to the bowler"}]Slaps it over the bowler's head, and they run back for two. Another slower length ball outside off, he thwacks it almost straight to the bowler
+Slaps it over the bowler's head, and they run back for two. Another slower length ball outside off, he thwacks it almost straight to the bowler
 
 
 Balls faced: 5
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Superb over from Adair leaves Zimbabwe with 9 to get in the final over. McCarthy with the responsibility for Ireland."}]Superb over from Adair leaves Zimbabwe with 9 to get in the final over. McCarthy with the responsibility for Ireland.
+Superb over from Adair leaves Zimbabwe with 9 to get in the final over. McCarthy with the responsibility for Ireland.
 
-[{"type": "HTML", "html": "Length ball outside off, the slower one, he has a swing but misses"}]Length ball outside off, the slower one, he has a swing but misses
+Length ball outside off, the slower one, he has a swing but misses
 
 
 Balls faced: 6
 Bowler: Adair
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower full ball on middle, clipped through midwicket"}]Slower full ball on middle, clipped through midwicket
+Slower full ball on middle, clipped through midwicket
 
 
 Balls faced: 7
 Bowler: Adair
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Trevor Gwandu with the bat now. Gave away 20 in the final over. Can he hang around and ensure a Zimbabwe win?"}]Trevor Gwandu with the bat now. Gave away 20 in the final over. Can he hang around and ensure a Zimbabwe win?
+Trevor Gwandu with the bat now. Gave away 20 in the final over. Can he hang around and ensure a Zimbabwe win?
 
-[{"type": "HTML", "html": "Slower full one around off, pushes it towards short midwicket and sets off. McCarthy gets around and under-arms the throw but misses at the bowler's end"}]Slower full one around off, pushes it towards short midwicket and sets off. McCarthy gets around and under-arms the throw but misses at the bowler's end
+Slower full one around off, pushes it towards short midwicket and sets off. McCarthy gets around and under-arms the throw but misses at the bowler's end
 
 
 Balls faced: 8
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Cracking sound off the bat, when he heaved the length ball across the line. But it was hit straight to deep midwicket"}]Cracking sound off the bat, when he heaved the length ball across the line. But it was hit straight to deep midwicket
+Cracking sound off the bat, when he heaved the length ball across the line. But it was hit straight to deep midwicket
 
 
 Balls faced: 9
 Bowler: McCarthy
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Slaps it over the bowler's head, and they run back for two. Another slower length ball outside off, he thwacks it almost straight to the bowler"}]Slaps it over the bowler's head, and they run back for two. Another slower length ball outside off, he thwacks it almost straight to the bowler
+Slaps it over the bowler's head, and they run back for two. Another slower length ball outside off, he thwacks it almost straight to the bowler
 
 
 Balls faced: 10
 Bowler: McCarthy
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Superb over from Adair leaves Zimbabwe with 9 to get in the final over. McCarthy with the responsibility for Ireland."}]Superb over from Adair leaves Zimbabwe with 9 to get in the final over. McCarthy with the responsibility for Ireland.
+Superb over from Adair leaves Zimbabwe with 9 to get in the final over. McCarthy with the responsibility for Ireland.
 
-[{"type": "HTML", "html": "Length ball outside off, the slower one, he has a swing but misses"}]Length ball outside off, the slower one, he has a swing but misses
+Length ball outside off, the slower one, he has a swing but misses

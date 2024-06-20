@@ -2,21 +2,23 @@ Match: all_games_1388184_1388218.json
 Balls faced: 1
 Bowler: Shaheen Shah Afridi
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "NZ have lost a bit of momentum towards the end after Allen's show. Darts in a perfect yorker on off, pushes down to long off"}]NZ have lost a bit of momentum towards the end after Allen's show. Darts in a perfect yorker on off, pushes down to long off
+NZ have lost a bit of momentum towards the end after Allen's show. Darts in a perfect yorker on off, pushes down to long off
 
 
 Balls faced: 2
 Bowler: Shaheen Shah Afridi
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "NZ have lost a bit of momentum towards the end after Allen's show. Darts in a perfect yorker on off, pushes down to long off"}]NZ have lost a bit of momentum towards the end after Allen's show. Darts in a perfect yorker on off, pushes down to long off
+NZ have lost a bit of momentum towards the end after Allen's show. Darts in a perfect yorker on off, pushes down to long off
 
 
 
@@ -24,61 +26,71 @@ Match: all_games_1388184_1388220.json
 Balls faced: 1
 Bowler: Usama Mir
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "chipped in the air towards long on who collects it one bounce and keeps them down to one"}]chipped in the air towards long on who collects it one bounce and keeps them down to one
+chipped in the air towards long on who collects it one bounce and keeps them down to one
 
 
 Balls faced: 2
 Bowler: Usama Mir
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "sleight of hand befuddles him, tossed up on a length with lots of air, spins away outside off and beats him, bowling with a good rhythm now and enjoying assistance from the track"}]sleight of hand befuddles him, tossed up on a length with lots of air, spins away outside off and beats him, bowling with a good rhythm now and enjoying assistance from the track
+sleight of hand befuddles him, tossed up on a length with lots of air, spins away outside off and beats him, bowling with a good rhythm now and enjoying assistance from the track
 
 
 Balls faced: 3
 Bowler: Iftikhar
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Oh, another caught and bowl! </strong> Moving to the leg side to create room and shanks it back to Iftikhar who catches it above his head, New Zealand find themselves in a rut now, Phillips needs some support from the other end, it's not over yet"}]<strong>Oh, another caught and bowl! </strong> Moving to the leg side to create room and shanks it back to Iftikhar who catches it above his head, New Zealand find themselves in a rut now, Phillips needs some support from the other end, it's not over yet
+Henry is OUT! caught
+c & b Iftikhar Ahmed
+Matt Henry c & b Iftikhar Ahmed 1 (3b 0x4 0x6 4m) SR: 33.33
+<strong>Oh, another caught and bowl! </strong> Moving to the leg side to create room and shanks it back to Iftikhar who catches it above his head, New Zealand find themselves in a rut now, Phillips needs some support from the other end, it's not over yet
 
 
 Balls faced: 4
 Bowler: Usama Mir
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "chipped in the air towards long on who collects it one bounce and keeps them down to one"}]chipped in the air towards long on who collects it one bounce and keeps them down to one
+chipped in the air towards long on who collects it one bounce and keeps them down to one
 
 
 Balls faced: 5
 Bowler: Usama Mir
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "sleight of hand befuddles him, tossed up on a length with lots of air, spins away outside off and beats him, bowling with a good rhythm now and enjoying assistance from the track"}]sleight of hand befuddles him, tossed up on a length with lots of air, spins away outside off and beats him, bowling with a good rhythm now and enjoying assistance from the track
+sleight of hand befuddles him, tossed up on a length with lots of air, spins away outside off and beats him, bowling with a good rhythm now and enjoying assistance from the track
 
 
 Balls faced: 6
 Bowler: Iftikhar
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Oh, another caught and bowl! </strong> Moving to the leg side to create room and shanks it back to Iftikhar who catches it above his head, New Zealand find themselves in a rut now, Phillips needs some support from the other end, it's not over yet"}]<strong>Oh, another caught and bowl! </strong> Moving to the leg side to create room and shanks it back to Iftikhar who catches it above his head, New Zealand find themselves in a rut now, Phillips needs some support from the other end, it's not over yet
+Henry is OUT! caught
+c & b Iftikhar Ahmed
+Matt Henry c & b Iftikhar Ahmed 1 (3b 0x4 0x6 4m) SR: 33.33
+<strong>Oh, another caught and bowl! </strong> Moving to the leg side to create room and shanks it back to Iftikhar who catches it above his head, New Zealand find themselves in a rut now, Phillips needs some support from the other end, it's not over yet
 
 
 
@@ -86,1243 +98,1375 @@ Match: all_games_1388188_1388226.json
 Balls faced: 1
 Bowler: Lyon
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Slip, leg slip and a short leg"}]Slip, leg slip and a short leg
+Slip, leg slip and a short leg
 
-[{"type": "HTML", "html": "good line, wide outside off, Henry pushes at it"}]good line, wide outside off, Henry pushes at it
-[{"type": "HTML", "html": "Aayushman: \"Lyon equals Walsh\" <a href=\"https://www.espncricinfo.com/records/most-wickets-in-career-93276\">Indeed he does</a>"}]Aayushman: "Lyon equals Walsh" <a href="https://www.espncricinfo.com/records/most-wickets-in-career-93276">Indeed he does</a>
+good line, wide outside off, Henry pushes at it
+Aayushman: "Lyon equals Walsh" <a href="https://www.espncricinfo.com/records/most-wickets-in-career-93276">Indeed he does</a>
 
 Balls faced: 2
 Bowler: Cummins
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>in the air, lands short!</strong> Fends this off the splice of the bat, didn't look particularly confident"}]<strong>in the air, lands short!</strong> Fends this off the splice of the bat, didn't look particularly confident
+<strong>in the air, lands short!</strong> Fends this off the splice of the bat, didn't look particularly confident
 
 
 Balls faced: 3
 Bowler: Cummins
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays a little leg side of this, defended"}]stays a little leg side of this, defended
+stays a little leg side of this, defended
 
 
 Balls faced: 4
 Bowler: Lyon
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Slip, leg slip and a short leg"}]Slip, leg slip and a short leg
+Slip, leg slip and a short leg
 
-[{"type": "HTML", "html": "good line, wide outside off, Henry pushes at it"}]good line, wide outside off, Henry pushes at it
-[{"type": "HTML", "html": "Aayushman: \"Lyon equals Walsh\" <a href=\"https://www.espncricinfo.com/records/most-wickets-in-career-93276\">Indeed he does</a>"}]Aayushman: "Lyon equals Walsh" <a href="https://www.espncricinfo.com/records/most-wickets-in-career-93276">Indeed he does</a>
+good line, wide outside off, Henry pushes at it
+Aayushman: "Lyon equals Walsh" <a href="https://www.espncricinfo.com/records/most-wickets-in-career-93276">Indeed he does</a>
 
 Balls faced: 5
 Bowler: Lyon
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>goes after it!</strong> Clears deep midwicket. Never mind blocking out the final ball of the over. Takes this from off stump with a meaty swing"}]<strong>goes after it!</strong> Clears deep midwicket. Never mind blocking out the final ball of the over. Takes this from off stump with a meaty swing
+<strong>goes after it!</strong> Clears deep midwicket. Never mind blocking out the final ball of the over. Takes this from off stump with a meaty swing
 
 
 Balls faced: 6
 Bowler: Cummins
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>in the air, lands short!</strong> Fends this off the splice of the bat, didn't look particularly confident"}]<strong>in the air, lands short!</strong> Fends this off the splice of the bat, didn't look particularly confident
+<strong>in the air, lands short!</strong> Fends this off the splice of the bat, didn't look particularly confident
 
 
 Balls faced: 7
 Bowler: Cummins
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays a little leg side of this, defended"}]stays a little leg side of this, defended
+stays a little leg side of this, defended
 
 
 Balls faced: 8
 Bowler: Cummins
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "moves outside leg stump again, takes a thick outside edge and doesn't carry to gully. Not really getting in line"}]moves outside leg stump again, takes a thick outside edge and doesn't carry to gully. Not really getting in line
+moves outside leg stump again, takes a thick outside edge and doesn't carry to gully. Not really getting in line
 
 
 Balls faced: 9
 Bowler: Cummins
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off, clears the front leg, loses his shape as he swings at it"}]full outside off, clears the front leg, loses his shape as he swings at it
+full outside off, clears the front leg, loses his shape as he swings at it
 
 
 Balls faced: 10
 Bowler: Cummins
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "through him! Full, beats the inside edge and then misses leg stump"}]through him! Full, beats the inside edge and then misses leg stump
+through him! Full, beats the inside edge and then misses leg stump
 
 
 Balls faced: 11
 Bowler: Lyon
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>goes after it!</strong> Clears deep midwicket. Never mind blocking out the final ball of the over. Takes this from off stump with a meaty swing"}]<strong>goes after it!</strong> Clears deep midwicket. Never mind blocking out the final ball of the over. Takes this from off stump with a meaty swing
+<strong>goes after it!</strong> Clears deep midwicket. Never mind blocking out the final ball of the over. Takes this from off stump with a meaty swing
 
 
 Balls faced: 12
 Bowler: Lyon
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and pulled away to deep square leg"}]short and pulled away to deep square leg
+short and pulled away to deep square leg
 
 
 Balls faced: 13
 Bowler: Lyon
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>was there bat involved?</strong> Drops in front of Carey after a tangle of pad, leg and body. Came off the back of the bat. Think Carey lost sight of it"}]<strong>was there bat involved?</strong> Drops in front of Carey after a tangle of pad, leg and body. Came off the back of the bat. Think Carey lost sight of it
+<strong>was there bat involved?</strong> Drops in front of Carey after a tangle of pad, leg and body. Came off the back of the bat. Think Carey lost sight of it
 
 
 Balls faced: 14
 Bowler: Lyon
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>all the way! </strong>Brings out the straight slog sweep, has enough to clear long on. Was hanging in the air for a while"}]<strong>all the way! </strong>Brings out the straight slog sweep, has enough to clear long on. Was hanging in the air for a while
+<strong>all the way! </strong>Brings out the straight slog sweep, has enough to clear long on. Was hanging in the air for a while
 
 
 Balls faced: 15
 Bowler: Lyon
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "spins into the pad and lodges behind the flap"}]spins into the pad and lodges behind the flap
+spins into the pad and lodges behind the flap
 
 
 Balls faced: 16
 Bowler: Cummins
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "moves outside leg stump again, takes a thick outside edge and doesn't carry to gully. Not really getting in line"}]moves outside leg stump again, takes a thick outside edge and doesn't carry to gully. Not really getting in line
+moves outside leg stump again, takes a thick outside edge and doesn't carry to gully. Not really getting in line
 
 
 Balls faced: 17
 Bowler: Cummins
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full outside off, clears the front leg, loses his shape as he swings at it"}]full outside off, clears the front leg, loses his shape as he swings at it
+full outside off, clears the front leg, loses his shape as he swings at it
 
 
 Balls faced: 18
 Bowler: Cummins
 Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "through him! Full, beats the inside edge and then misses leg stump"}]through him! Full, beats the inside edge and then misses leg stump
+through him! Full, beats the inside edge and then misses leg stump
 
 
 Balls faced: 19
 Bowler: Cummins
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Third slip goes to leg slip"}]Third slip goes to leg slip
+Third slip goes to leg slip
 
-[{"type": "HTML", "html": "full outside off, shuffling around the crease, opens the face and steers it down to third"}]full outside off, shuffling around the crease, opens the face and steers it down to third
-[{"type": "HTML", "html": "That's <b>drinks</b> in the final session. Australia looking to secure a big lead. New Zealand playing their shots. Until the close it's back to Abhimanyu"}]That's <b>drinks</b> in the final session. Australia looking to secure a big lead. New Zealand playing their shots. Until the close it's back to Abhimanyu
+full outside off, shuffling around the crease, opens the face and steers it down to third
+That's <b>drinks</b> in the final session. Australia looking to secure a big lead. New Zealand playing their shots. Until the close it's back to Abhimanyu
 
 Balls faced: 20
 Bowler: Cummins
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "141kph, punches a drive to mid-off"}]141kph, punches a drive to mid-off
+141kph, punches a drive to mid-off
 
 
 Balls faced: 21
 Bowler: Cummins
 Over: 37
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and straight, driven to mid-on"}]full and straight, driven to mid-on
+full and straight, driven to mid-on
 
 
 Balls faced: 22
 Bowler: Cummins
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, played into the off side"}]back of a length, played into the off side
+back of a length, played into the off side
 
 
 Balls faced: 23
 Bowler: Cummins
 Over: 37
+Pitch Line: DOWN_LEG Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gives himself room, a full delivery at the stumps, driven to mid-on"}]gives himself room, a full delivery at the stumps, driven to mid-on
+gives himself room, a full delivery at the stumps, driven to mid-on
 
 
 Balls faced: 24
 Bowler: Cummins
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "terrific bouncer! Follows Henry who ends up on his back in the crease as he sways out of the line. Good limbo"}]terrific bouncer! Follows Henry who ends up on his back in the crease as he sways out of the line. Good limbo
+terrific bouncer! Follows Henry who ends up on his back in the crease as he sways out of the line. Good limbo
 
 
 Balls faced: 25
 Bowler: Lyon
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and pulled away to deep square leg"}]short and pulled away to deep square leg
+short and pulled away to deep square leg
 
 
 Balls faced: 26
 Bowler: Lyon
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>was there bat involved?</strong> Drops in front of Carey after a tangle of pad, leg and body. Came off the back of the bat. Think Carey lost sight of it"}]<strong>was there bat involved?</strong> Drops in front of Carey after a tangle of pad, leg and body. Came off the back of the bat. Think Carey lost sight of it
+<strong>was there bat involved?</strong> Drops in front of Carey after a tangle of pad, leg and body. Came off the back of the bat. Think Carey lost sight of it
 
 
 Balls faced: 27
 Bowler: Lyon
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>all the way! </strong>Brings out the straight slog sweep, has enough to clear long on. Was hanging in the air for a while"}]<strong>all the way! </strong>Brings out the straight slog sweep, has enough to clear long on. Was hanging in the air for a while
+<strong>all the way! </strong>Brings out the straight slog sweep, has enough to clear long on. Was hanging in the air for a while
 
 
 Balls faced: 28
 Bowler: Lyon
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "spins into the pad and lodges behind the flap"}]spins into the pad and lodges behind the flap
+spins into the pad and lodges behind the flap
 
 
 Balls faced: 29
 Bowler: Lyon
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up in the arc and he goes for the big swing. It falls between deep midwicket and deep square"}]Tossed up in the arc and he goes for the big swing. It falls between deep midwicket and deep square
+Tossed up in the arc and he goes for the big swing. It falls between deep midwicket and deep square
 
 
 Balls faced: 30
 Bowler: Cummins
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "Third slip goes to leg slip"}]Third slip goes to leg slip
+Third slip goes to leg slip
 
-[{"type": "HTML", "html": "full outside off, shuffling around the crease, opens the face and steers it down to third"}]full outside off, shuffling around the crease, opens the face and steers it down to third
-[{"type": "HTML", "html": "That's <b>drinks</b> in the final session. Australia looking to secure a big lead. New Zealand playing their shots. Until the close it's back to Abhimanyu"}]That's <b>drinks</b> in the final session. Australia looking to secure a big lead. New Zealand playing their shots. Until the close it's back to Abhimanyu
+full outside off, shuffling around the crease, opens the face and steers it down to third
+That's <b>drinks</b> in the final session. Australia looking to secure a big lead. New Zealand playing their shots. Until the close it's back to Abhimanyu
 
 Balls faced: 31
 Bowler: Cummins
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "141kph, punches a drive to mid-off"}]141kph, punches a drive to mid-off
+141kph, punches a drive to mid-off
 
 
 Balls faced: 32
 Bowler: Cummins
 Over: 37
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and straight, driven to mid-on"}]full and straight, driven to mid-on
+full and straight, driven to mid-on
 
 
 Balls faced: 33
 Bowler: Cummins
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, played into the off side"}]back of a length, played into the off side
+back of a length, played into the off side
 
 
 Balls faced: 34
 Bowler: Cummins
 Over: 37
+Pitch Line: DOWN_LEG Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gives himself room, a full delivery at the stumps, driven to mid-on"}]gives himself room, a full delivery at the stumps, driven to mid-on
+gives himself room, a full delivery at the stumps, driven to mid-on
 
 
 Balls faced: 35
 Bowler: Cummins
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "terrific bouncer! Follows Henry who ends up on his back in the crease as he sways out of the line. Good limbo"}]terrific bouncer! Follows Henry who ends up on his back in the crease as he sways out of the line. Good limbo
+terrific bouncer! Follows Henry who ends up on his back in the crease as he sways out of the line. Good limbo
 
 
 Balls faced: 36
 Bowler: Hazlewood
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Angles a full ball into leg, Henry digs it out to the leg side and they get another run"}]Angles a full ball into leg, Henry digs it out to the leg side and they get another run
+Angles a full ball into leg, Henry digs it out to the leg side and they get another run
 
 
 Balls faced: 37
 Bowler: Lyon
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up in the arc and he goes for the big swing. It falls between deep midwicket and deep square"}]Tossed up in the arc and he goes for the big swing. It falls between deep midwicket and deep square
+Tossed up in the arc and he goes for the big swing. It falls between deep midwicket and deep square
 
 
 Balls faced: 38
 Bowler: Lyon
 Over: 40
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Damien: \"The ebbs and flows that only test cricket can produce...how great is it!!!\""}]Damien: "The ebbs and flows that only test cricket can produce...how great is it!!!"
+Damien: "The ebbs and flows that only test cricket can produce...how great is it!!!"
 
-[{"type": "HTML", "html": "Length ball spins past him as he tries to flick it away"}]Length ball spins past him as he tries to flick it away
+Length ball spins past him as he tries to flick it away
 
 
 Balls faced: 39
 Bowler: Lyon
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on off, he goes back and punches it out on the off side"}]On a length on off, he goes back and punches it out on the off side
+On a length on off, he goes back and punches it out on the off side
 
 
 Balls faced: 40
 Bowler: Lyon
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on leg, he parries it behind square"}]On a length on leg, he parries it behind square
+On a length on leg, he parries it behind square
 
 
 Balls faced: 41
 Bowler: Lyon
 Over: 40
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Looks to come down the track but Lyon pulls back his length. Manages to fend it back"}]Looks to come down the track but Lyon pulls back his length. Manages to fend it back
+Looks to come down the track but Lyon pulls back his length. Manages to fend it back
 
 
 Balls faced: 42
 Bowler: Lyon
 Over: 40
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball whipped into the short leg fielder"}]Length ball whipped into the short leg fielder
+Length ball whipped into the short leg fielder
 
 
 Balls faced: 43
 Bowler: Lyon
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "John : \"No Cameron Green? Is he injured?\" I reckon they are giving him a breather after his marathon innings"}]John : "No Cameron Green? Is he injured?" I reckon they are giving him a breather after his marathon innings
+John : "No Cameron Green? Is he injured?" I reckon they are giving him a breather after his marathon innings
 
-[{"type": "HTML", "html": "Comes down the track and deposits another six over the bowler's head! This was tossed up on middle and off, and he skips out and hits a lovely aerial drive into the crowd"}]Comes down the track and deposits another six over the bowler's head! This was tossed up on middle and off, and he skips out and hits a lovely aerial drive into the crowd
+Comes down the track and deposits another six over the bowler's head! This was tossed up on middle and off, and he skips out and hits a lovely aerial drive into the crowd
 
 
 Balls faced: 44
 Bowler: Hazlewood
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Angles a full ball into leg, Henry digs it out to the leg side and they get another run"}]Angles a full ball into leg, Henry digs it out to the leg side and they get another run
+Angles a full ball into leg, Henry digs it out to the leg side and they get another run
 
 
 Balls faced: 45
 Bowler: Hazlewood
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Mike: \"Kanos hits a double in 4th innings and NZ wins! You heard it here first!\""}]Mike: "Kanos hits a double in 4th innings and NZ wins! You heard it here first!"
+Mike: "Kanos hits a double in 4th innings and NZ wins! You heard it here first!"
 
-[{"type": "HTML", "html": "Bouncer on off at 136kph, he sways out of the way"}]Bouncer on off at 136kph, he sways out of the way
+Bouncer on off at 136kph, he sways out of the way
 
 
 Balls faced: 46
 Bowler: Hazlewood
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length around off, Henry looks to swing it away, but can only pick out the cover fielder"}]On a length around off, Henry looks to swing it away, but can only pick out the cover fielder
+On a length around off, Henry looks to swing it away, but can only pick out the cover fielder
 
 
 Balls faced: 47
 Bowler: Lyon
 Over: 40
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Damien: \"The ebbs and flows that only test cricket can produce...how great is it!!!\""}]Damien: "The ebbs and flows that only test cricket can produce...how great is it!!!"
+Damien: "The ebbs and flows that only test cricket can produce...how great is it!!!"
 
-[{"type": "HTML", "html": "Length ball spins past him as he tries to flick it away"}]Length ball spins past him as he tries to flick it away
+Length ball spins past him as he tries to flick it away
 
 
 Balls faced: 48
 Bowler: Lyon
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on off, he goes back and punches it out on the off side"}]On a length on off, he goes back and punches it out on the off side
+On a length on off, he goes back and punches it out on the off side
 
 
 Balls faced: 49
 Bowler: Lyon
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length on leg, he parries it behind square"}]On a length on leg, he parries it behind square
+On a length on leg, he parries it behind square
 
 
 Balls faced: 50
 Bowler: Lyon
 Over: 40
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Looks to come down the track but Lyon pulls back his length. Manages to fend it back"}]Looks to come down the track but Lyon pulls back his length. Manages to fend it back
+Looks to come down the track but Lyon pulls back his length. Manages to fend it back
 
 
 Balls faced: 51
 Bowler: Lyon
 Over: 40
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball whipped into the short leg fielder"}]Length ball whipped into the short leg fielder
+Length ball whipped into the short leg fielder
 
 
 Balls faced: 52
 Bowler: Lyon
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "John : \"No Cameron Green? Is he injured?\" I reckon they are giving him a breather after his marathon innings"}]John : "No Cameron Green? Is he injured?" I reckon they are giving him a breather after his marathon innings
+John : "No Cameron Green? Is he injured?" I reckon they are giving him a breather after his marathon innings
 
-[{"type": "HTML", "html": "Comes down the track and deposits another six over the bowler's head! This was tossed up on middle and off, and he skips out and hits a lovely aerial drive into the crowd"}]Comes down the track and deposits another six over the bowler's head! This was tossed up on middle and off, and he skips out and hits a lovely aerial drive into the crowd
+Comes down the track and deposits another six over the bowler's head! This was tossed up on middle and off, and he skips out and hits a lovely aerial drive into the crowd
 
 
 Balls faced: 53
 Bowler: Hazlewood
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Mike: \"Kanos hits a double in 4th innings and NZ wins! You heard it here first!\""}]Mike: "Kanos hits a double in 4th innings and NZ wins! You heard it here first!"
+Mike: "Kanos hits a double in 4th innings and NZ wins! You heard it here first!"
 
-[{"type": "HTML", "html": "Bouncer on off at 136kph, he sways out of the way"}]Bouncer on off at 136kph, he sways out of the way
+Bouncer on off at 136kph, he sways out of the way
 
 
 Balls faced: 54
 Bowler: Hazlewood
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length around off, Henry looks to swing it away, but can only pick out the cover fielder"}]On a length around off, Henry looks to swing it away, but can only pick out the cover fielder
+On a length around off, Henry looks to swing it away, but can only pick out the cover fielder
 
 
 Balls faced: 55
 Bowler: Hazlewood
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball angles into him, he tucks it out to deep backward square to retain strike"}]Length ball angles into him, he tucks it out to deep backward square to retain strike
+Length ball angles into him, he tucks it out to deep backward square to retain strike
 
 
 Balls faced: 56
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Short ball has Henry looking to duck but it goes off the glove and above a leaping Carey for four more!"}]Short ball has Henry looking to duck but it goes off the glove and above a leaping Carey for four more!
+Short ball has Henry looking to duck but it goes off the glove and above a leaping Carey for four more!
 
 
 Balls faced: 57
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>All the way over long-on!</strong> Henry is not waiting around. Slower ball sits up and he hammers it down the ground"}]<strong>All the way over long-on!</strong> Henry is not waiting around. Slower ball sits up and he hammers it down the ground
+<strong>All the way over long-on!</strong> Henry is not waiting around. Slower ball sits up and he hammers it down the ground
 
 
 Balls faced: 58
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Swung over midwicket for four! Henry gets a full delivery and throws his arms at it. Couple of bounces and over the rope"}]Swung over midwicket for four! Henry gets a full delivery and throws his arms at it. Couple of bounces and over the rope
+Swung over midwicket for four! Henry gets a full delivery and throws his arms at it. Couple of bounces and over the rope
 
 
 Balls faced: 59
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball, he looks to muscle it down the ground but ends up lobbing it up. Lands safe as mid-on races across to his left to try and get to it"}]Length ball, he looks to muscle it down the ground but ends up lobbing it up. Lands safe as mid-on races across to his left to try and get to it
+Length ball, he looks to muscle it down the ground but ends up lobbing it up. Lands safe as mid-on races across to his left to try and get to it
 
 
 Balls faced: 60
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Lachlan: \"I think I speak for every NZ fan when I say for once the Wellington rain would be warmly welcomed.\""}]Lachlan: "I think I speak for every NZ fan when I say for once the Wellington rain would be warmly welcomed."
+Lachlan: "I think I speak for every NZ fan when I say for once the Wellington rain would be warmly welcomed."
 
-[{"type": "HTML", "html": "Length ball outside off, Henry went for a big swipe and missed"}]Length ball outside off, Henry went for a big swipe and missed
+Length ball outside off, Henry went for a big swipe and missed
 
 
 Balls faced: 61
 Bowler: Lyon
 Over: 44
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Got him! Caught at deep midwicket as he looks for another six off Lyon. The veteran spinner finishes with four and New Zealand wrap up for 179. Spirited knock from Henry comes to an end"}]Got him! Caught at deep midwicket as he looks for another six off Lyon. The veteran spinner finishes with four and New Zealand wrap up for 179. Spirited knock from Henry comes to an end
-[{"type": "HTML", "html": "Looks like the Aussie openers are running off, so they won't be enforcing the follow-on. Phillips and Blundell and then Henry have helped New Zealand get to a respectable score but New Zealand losing wickets in clusters on multiple occasions have dented their hopes of getting close to Australia's total. The next innings should be starting shortly. Don't go anywhere."}, {"type": "HTML", "html": "Meanwhile, a nugget from Sampath:"}, {"type": "HTML", "html": "Recent instances of visiting teams taking 200-plus runs first innings lead in New Zealand. All those in Wellington."}, {"type": "HTML", "html": "204 by AUS, 2024 (Bat 1st)"}, {"type": "HTML", "html": "226 by ENG, 2023 (Bat 1st)"}, {"type": "HTML", "html": "379 by AUS, 2016 (Bat 2nd)"}, {"type": "HTML", "html": "246 by IND, 2014 (Bat 2nd)"}, {"type": "HTML", "html": "211 by ENG, 2013 (Bat 1st)"}, {"type": "HTML", "html": "302 by AUS, 2010 (Bat 1st)"}]Looks like the Aussie openers are running off, so they won't be enforcing the follow-on. Phillips and Blundell and then Henry have helped New Zealand get to a respectable score but New Zealand losing wickets in clusters on multiple occasions have dented their hopes of getting close to Australia's total. The next innings should be starting shortly. Don't go anywhere. Meanwhile, a nugget from Sampath: Recent instances of visiting teams taking 200-plus runs first innings lead in New Zealand. All those in Wellington. 204 by AUS, 2024 (Bat 1st) 226 by ENG, 2023 (Bat 1st) 379 by AUS, 2016 (Bat 2nd) 246 by IND, 2014 (Bat 2nd) 211 by ENG, 2013 (Bat 1st) 302 by AUS, 2010 (Bat 1st)
+Henry is OUT! caught
+c Labuschagne b Lyon
+Matt Henry c Labuschagne b Lyon 42 (34b 3x4 4x6 53m) SR: 123.52
+Got him! Caught at deep midwicket as he looks for another six off Lyon. The veteran spinner finishes with four and New Zealand wrap up for 179. Spirited knock from Henry comes to an end
+Looks like the Aussie openers are running off, so they won't be enforcing the follow-on. Phillips and Blundell and then Henry have helped New Zealand get to a respectable score but New Zealand losing wickets in clusters on multiple occasions have dented their hopes of getting close to Australia's total. The next innings should be starting shortly. Don't go anywhere. Meanwhile, a nugget from Sampath: Recent instances of visiting teams taking 200-plus runs first innings lead in New Zealand. All those in Wellington. 204 by AUS, 2024 (Bat 1st) 226 by ENG, 2023 (Bat 1st) 379 by AUS, 2016 (Bat 2nd) 246 by IND, 2014 (Bat 2nd) 211 by ENG, 2013 (Bat 1st) 302 by AUS, 2010 (Bat 1st)
 
 Balls faced: 62
 Bowler: Hazlewood
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball angles into him, he tucks it out to deep backward square to retain strike"}]Length ball angles into him, he tucks it out to deep backward square to retain strike
+Length ball angles into him, he tucks it out to deep backward square to retain strike
 
 
 Balls faced: 63
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Short ball has Henry looking to duck but it goes off the glove and above a leaping Carey for four more!"}]Short ball has Henry looking to duck but it goes off the glove and above a leaping Carey for four more!
+Short ball has Henry looking to duck but it goes off the glove and above a leaping Carey for four more!
 
 
 Balls faced: 64
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>All the way over long-on!</strong> Henry is not waiting around. Slower ball sits up and he hammers it down the ground"}]<strong>All the way over long-on!</strong> Henry is not waiting around. Slower ball sits up and he hammers it down the ground
+<strong>All the way over long-on!</strong> Henry is not waiting around. Slower ball sits up and he hammers it down the ground
 
 
 Balls faced: 65
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Swung over midwicket for four! Henry gets a full delivery and throws his arms at it. Couple of bounces and over the rope"}]Swung over midwicket for four! Henry gets a full delivery and throws his arms at it. Couple of bounces and over the rope
+Swung over midwicket for four! Henry gets a full delivery and throws his arms at it. Couple of bounces and over the rope
 
 
 Balls faced: 66
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball, he looks to muscle it down the ground but ends up lobbing it up. Lands safe as mid-on races across to his left to try and get to it"}]Length ball, he looks to muscle it down the ground but ends up lobbing it up. Lands safe as mid-on races across to his left to try and get to it
+Length ball, he looks to muscle it down the ground but ends up lobbing it up. Lands safe as mid-on races across to his left to try and get to it
 
 
 Balls faced: 67
 Bowler: Hazlewood
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Lachlan: \"I think I speak for every NZ fan when I say for once the Wellington rain would be warmly welcomed.\""}]Lachlan: "I think I speak for every NZ fan when I say for once the Wellington rain would be warmly welcomed."
+Lachlan: "I think I speak for every NZ fan when I say for once the Wellington rain would be warmly welcomed."
 
-[{"type": "HTML", "html": "Length ball outside off, Henry went for a big swipe and missed"}]Length ball outside off, Henry went for a big swipe and missed
+Length ball outside off, Henry went for a big swipe and missed
 
 
 Balls faced: 68
 Bowler: Lyon
 Over: 44
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Got him! Caught at deep midwicket as he looks for another six off Lyon. The veteran spinner finishes with four and New Zealand wrap up for 179. Spirited knock from Henry comes to an end"}]Got him! Caught at deep midwicket as he looks for another six off Lyon. The veteran spinner finishes with four and New Zealand wrap up for 179. Spirited knock from Henry comes to an end
-[{"type": "HTML", "html": "Looks like the Aussie openers are running off, so they won't be enforcing the follow-on. Phillips and Blundell and then Henry have helped New Zealand get to a respectable score but New Zealand losing wickets in clusters on multiple occasions have dented their hopes of getting close to Australia's total. The next innings should be starting shortly. Don't go anywhere."}, {"type": "HTML", "html": "Meanwhile, a nugget from Sampath:"}, {"type": "HTML", "html": "Recent instances of visiting teams taking 200-plus runs first innings lead in New Zealand. All those in Wellington."}, {"type": "HTML", "html": "204 by AUS, 2024 (Bat 1st)"}, {"type": "HTML", "html": "226 by ENG, 2023 (Bat 1st)"}, {"type": "HTML", "html": "379 by AUS, 2016 (Bat 2nd)"}, {"type": "HTML", "html": "246 by IND, 2014 (Bat 2nd)"}, {"type": "HTML", "html": "211 by ENG, 2013 (Bat 1st)"}, {"type": "HTML", "html": "302 by AUS, 2010 (Bat 1st)"}]Looks like the Aussie openers are running off, so they won't be enforcing the follow-on. Phillips and Blundell and then Henry have helped New Zealand get to a respectable score but New Zealand losing wickets in clusters on multiple occasions have dented their hopes of getting close to Australia's total. The next innings should be starting shortly. Don't go anywhere. Meanwhile, a nugget from Sampath: Recent instances of visiting teams taking 200-plus runs first innings lead in New Zealand. All those in Wellington. 204 by AUS, 2024 (Bat 1st) 226 by ENG, 2023 (Bat 1st) 379 by AUS, 2016 (Bat 2nd) 246 by IND, 2014 (Bat 2nd) 211 by ENG, 2013 (Bat 1st) 302 by AUS, 2010 (Bat 1st)
+Henry is OUT! caught
+c Labuschagne b Lyon
+Matt Henry c Labuschagne b Lyon 42 (34b 3x4 4x6 53m) SR: 123.52
+Got him! Caught at deep midwicket as he looks for another six off Lyon. The veteran spinner finishes with four and New Zealand wrap up for 179. Spirited knock from Henry comes to an end
+Looks like the Aussie openers are running off, so they won't be enforcing the follow-on. Phillips and Blundell and then Henry have helped New Zealand get to a respectable score but New Zealand losing wickets in clusters on multiple occasions have dented their hopes of getting close to Australia's total. The next innings should be starting shortly. Don't go anywhere. Meanwhile, a nugget from Sampath: Recent instances of visiting teams taking 200-plus runs first innings lead in New Zealand. All those in Wellington. 204 by AUS, 2024 (Bat 1st) 226 by ENG, 2023 (Bat 1st) 379 by AUS, 2016 (Bat 2nd) 246 by IND, 2014 (Bat 2nd) 211 by ENG, 2013 (Bat 1st) 302 by AUS, 2010 (Bat 1st)
 
 
 Match: all_games_1388188_1388227.json
 Balls faced: 1
 Bowler: Starc
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short at the body, 140kph, pulled in the air backward of square and it lands safely"}]short at the body, 140kph, pulled in the air backward of square and it lands safely
+short at the body, 140kph, pulled in the air backward of square and it lands safely
 
 
 Balls faced: 2
 Bowler: Starc
 Over: 39
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full again and again nicely driven, wide of mid-off this time"}]full again and again nicely driven, wide of mid-off this time
+full again and again nicely driven, wide of mid-off this time
 
 
 Balls faced: 3
 Bowler: Starc
 Over: 39
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "hammered away, gives himself a touch of room and drives a full delivery through the covers"}]hammered away, gives himself a touch of room and drives a full delivery through the covers
-[{"type": "HTML", "html": "Rhys: \"Is the pitch all that bad?  I haven't been able to get a view of the tv today, so interested if it's as green as the scoreline indicates.\" - Pitch is fine"}]Rhys: "Is the pitch all that bad?  I haven't been able to get a view of the tv today, so interested if it's as green as the scoreline indicates." - Pitch is fine
+hammered away, gives himself a touch of room and drives a full delivery through the covers
+Rhys: "Is the pitch all that bad?  I haven't been able to get a view of the tv today, so interested if it's as green as the scoreline indicates." - Pitch is fine
 
 Balls faced: 4
 Bowler: Starc
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "<strong>Starc on a hat-trick</strong>"}]<strong>Starc on a hat-trick</strong>
+<strong>Starc on a hat-trick</strong>
 
-[{"type": "HTML", "html": "not far away! Length delivery, nips back into the pads, doing too much for lbw"}]not far away! Length delivery, nips back into the pads, doing too much for lbw
+not far away! Length delivery, nips back into the pads, doing too much for lbw
 
 
 Balls faced: 5
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 2
 
 
-[{"type": "HTML", "html": "back of a length, defends, takes a thick outside edge, along the ground this time wide of gully"}]back of a length, defends, takes a thick outside edge, along the ground this time wide of gully
+back of a length, defends, takes a thick outside edge, along the ground this time wide of gully
 
 
 Balls faced: 6
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "climbs past the outside edge from short of a length"}]climbs past the outside edge from short of a length
+climbs past the outside edge from short of a length
 
 
 Balls faced: 7
 Bowler: Green
 Over: 40
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>in the gap again!</strong> Full, takes the outside edge, goes at waist height between Smith and Marsh"}]<strong>in the gap again!</strong> Full, takes the outside edge, goes at waist height between Smith and Marsh
-[{"type": "HTML", "html": "Third slip comes in"}]Third slip comes in
+<strong>in the gap again!</strong> Full, takes the outside edge, goes at waist height between Smith and Marsh
+Third slip comes in
 
 Balls faced: 8
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>edged, wide of second slip! </strong>Short of a length outside off, forcing off the back foot, flies through where third slip would have been. Not entirely sure why one isn't there"}]<strong>edged, wide of second slip! </strong>Short of a length outside off, forcing off the back foot, flies through where third slip would have been. Not entirely sure why one isn't there
+<strong>edged, wide of second slip! </strong>Short of a length outside off, forcing off the back foot, flies through where third slip would have been. Not entirely sure why one isn't there
 
 
 Balls faced: 9
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "very short outside off, through to the keeper"}]very short outside off, through to the keeper
+very short outside off, through to the keeper
 
 
 Balls faced: 10
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Meg Roberts : \"Very disappointing from the black caps today. We seem to have a mental block against the Aussies. This is not a 130 all out pitch.\""}]Meg Roberts : "Very disappointing from the black caps today. We seem to have a mental block against the Aussies. This is not a 130 all out pitch."
+Meg Roberts : "Very disappointing from the black caps today. We seem to have a mental block against the Aussies. This is not a 130 all out pitch."
 
-[{"type": "HTML", "html": "ducks underneath a short ball"}]ducks underneath a short ball
+ducks underneath a short ball
 
 
 Balls faced: 11
 Bowler: Starc
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short at the body, 140kph, pulled in the air backward of square and it lands safely"}]short at the body, 140kph, pulled in the air backward of square and it lands safely
+short at the body, 140kph, pulled in the air backward of square and it lands safely
 
 
 Balls faced: 12
 Bowler: Starc
 Over: 39
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full again and again nicely driven, wide of mid-off this time"}]full again and again nicely driven, wide of mid-off this time
+full again and again nicely driven, wide of mid-off this time
 
 
 Balls faced: 13
 Bowler: Starc
 Over: 39
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "hammered away, gives himself a touch of room and drives a full delivery through the covers"}]hammered away, gives himself a touch of room and drives a full delivery through the covers
-[{"type": "HTML", "html": "Rhys: \"Is the pitch all that bad?  I haven't been able to get a view of the tv today, so interested if it's as green as the scoreline indicates.\" - Pitch is fine"}]Rhys: "Is the pitch all that bad?  I haven't been able to get a view of the tv today, so interested if it's as green as the scoreline indicates." - Pitch is fine
+hammered away, gives himself a touch of room and drives a full delivery through the covers
+Rhys: "Is the pitch all that bad?  I haven't been able to get a view of the tv today, so interested if it's as green as the scoreline indicates." - Pitch is fine
 
 Balls faced: 14
 Bowler: Starc
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "<strong>Starc on a hat-trick</strong>"}]<strong>Starc on a hat-trick</strong>
+<strong>Starc on a hat-trick</strong>
 
-[{"type": "HTML", "html": "not far away! Length delivery, nips back into the pads, doing too much for lbw"}]not far away! Length delivery, nips back into the pads, doing too much for lbw
+not far away! Length delivery, nips back into the pads, doing too much for lbw
 
 
 Balls faced: 15
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 2
 
 
-[{"type": "HTML", "html": "back of a length, defends, takes a thick outside edge, along the ground this time wide of gully"}]back of a length, defends, takes a thick outside edge, along the ground this time wide of gully
+back of a length, defends, takes a thick outside edge, along the ground this time wide of gully
 
 
 Balls faced: 16
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "climbs past the outside edge from short of a length"}]climbs past the outside edge from short of a length
+climbs past the outside edge from short of a length
 
 
 Balls faced: 17
 Bowler: Green
 Over: 40
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>in the gap again!</strong> Full, takes the outside edge, goes at waist height between Smith and Marsh"}]<strong>in the gap again!</strong> Full, takes the outside edge, goes at waist height between Smith and Marsh
-[{"type": "HTML", "html": "Third slip comes in"}]Third slip comes in
+<strong>in the gap again!</strong> Full, takes the outside edge, goes at waist height between Smith and Marsh
+Third slip comes in
 
 Balls faced: 18
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>edged, wide of second slip! </strong>Short of a length outside off, forcing off the back foot, flies through where third slip would have been. Not entirely sure why one isn't there"}]<strong>edged, wide of second slip! </strong>Short of a length outside off, forcing off the back foot, flies through where third slip would have been. Not entirely sure why one isn't there
+<strong>edged, wide of second slip! </strong>Short of a length outside off, forcing off the back foot, flies through where third slip would have been. Not entirely sure why one isn't there
 
 
 Balls faced: 19
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "very short outside off, through to the keeper"}]very short outside off, through to the keeper
+very short outside off, through to the keeper
 
 
 Balls faced: 20
 Bowler: Green
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Meg Roberts : \"Very disappointing from the black caps today. We seem to have a mental block against the Aussies. This is not a 130 all out pitch.\""}]Meg Roberts : "Very disappointing from the black caps today. We seem to have a mental block against the Aussies. This is not a 130 all out pitch."
+Meg Roberts : "Very disappointing from the black caps today. We seem to have a mental block against the Aussies. This is not a 130 all out pitch."
 
-[{"type": "HTML", "html": "ducks underneath a short ball"}]ducks underneath a short ball
+ducks underneath a short ball
 
 
 Balls faced: 21
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller, angling in at leg stump, defended"}]fuller, angling in at leg stump, defended
+fuller, angling in at leg stump, defended
 
 
 Balls faced: 22
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short at the body, Henry turns his head and fends it down off the gloves"}]short at the body, Henry turns his head and fends it down off the gloves
+short at the body, Henry turns his head and fends it down off the gloves
 
 
 Balls faced: 23
 Bowler: Green
 Over: 42
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "angled into the pads, clipped down to fine leg"}]angled into the pads, clipped down to fine leg
+angled into the pads, clipped down to fine leg
 
 
 Balls faced: 24
 Bowler: Green
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beaten, and nearly bowled! Goes full, just outside off, seams to beat the edge and close to off stump"}]beaten, and nearly bowled! Goes full, just outside off, seams to beat the edge and close to off stump
+beaten, and nearly bowled! Goes full, just outside off, seams to beat the edge and close to off stump
 
 
 Balls faced: 25
 Bowler: Green
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, straight, defended...141kph"}]back of a length, straight, defended...141kph
+back of a length, straight, defended...141kph
 
 
 Balls faced: 26
 Bowler: Green
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short, angling down the leg side, Henry fends at it and not far from the glove"}]short, angling down the leg side, Henry fends at it and not far from the glove
+short, angling down the leg side, Henry fends at it and not far from the glove
 
 
 Balls faced: 27
 Bowler: Cummins
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length, defended and gets a run into backward point"}]back of a length, defended and gets a run into backward point
+back of a length, defended and gets a run into backward point
 
 
 Balls faced: 28
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller, angling in at leg stump, defended"}]fuller, angling in at leg stump, defended
+fuller, angling in at leg stump, defended
 
 
 Balls faced: 29
 Bowler: Green
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short at the body, Henry turns his head and fends it down off the gloves"}]short at the body, Henry turns his head and fends it down off the gloves
+short at the body, Henry turns his head and fends it down off the gloves
 
 
 Balls faced: 30
 Bowler: Green
 Over: 42
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "angled into the pads, clipped down to fine leg"}]angled into the pads, clipped down to fine leg
+angled into the pads, clipped down to fine leg
 
 
 Balls faced: 31
 Bowler: Green
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beaten, and nearly bowled! Goes full, just outside off, seams to beat the edge and close to off stump"}]beaten, and nearly bowled! Goes full, just outside off, seams to beat the edge and close to off stump
+beaten, and nearly bowled! Goes full, just outside off, seams to beat the edge and close to off stump
 
 
 Balls faced: 32
 Bowler: Green
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, straight, defended...141kph"}]back of a length, straight, defended...141kph
+back of a length, straight, defended...141kph
 
 
 Balls faced: 33
 Bowler: Green
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short, angling down the leg side, Henry fends at it and not far from the glove"}]short, angling down the leg side, Henry fends at it and not far from the glove
+short, angling down the leg side, Henry fends at it and not far from the glove
 
 
 Balls faced: 34
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushes a length delivery into space on the off side"}]pushes a length delivery into space on the off side
-[{"type": "HTML", "html": "Patrick: \"Very useful runs from NZs tail here. On a seaming pitch and the lack of form from Australia's top order. \""}]Patrick: "Very useful runs from NZs tail here. On a seaming pitch and the lack of form from Australia's top order. "
+pushes a length delivery into space on the off side
+Patrick: "Very useful runs from NZs tail here. On a seaming pitch and the lack of form from Australia's top order. "
 
 Balls faced: 35
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "swings to the leg side and is nearly cleaned up, just travels over the top of middle"}]swings to the leg side and is nearly cleaned up, just travels over the top of middle
+swings to the leg side and is nearly cleaned up, just travels over the top of middle
 
 
 Balls faced: 36
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, straight, defended to cover"}]back of a length, straight, defended to cover
+back of a length, straight, defended to cover
 
 
 Balls faced: 37
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a bouncer follows him as he sways out of the line"}]a bouncer follows him as he sways out of the line
+a bouncer follows him as he sways out of the line
 
 
 Balls faced: 38
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, nips back sharply and Henry fends it down"}]short of a length, nips back sharply and Henry fends it down
-[{"type": "HTML", "html": "ElephantMan: \"Once again Oz struggles to clean up the tail, conceding valuable runs. This is beginning to be a consistent problem.\""}]ElephantMan: "Once again Oz struggles to clean up the tail, conceding valuable runs. This is beginning to be a consistent problem."
+short of a length, nips back sharply and Henry fends it down
+ElephantMan: "Once again Oz struggles to clean up the tail, conceding valuable runs. This is beginning to be a consistent problem."
 
 Balls faced: 39
 Bowler: Hazlewood
 Over: 44
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Hazlewood returns. Searching for a five-wicket bag"}, {"type": "HTML", "html": "Mark: \"Can we just end innings when teams are 7 down, i've seen this too many times recently with the Aussies.\""}]Hazlewood returns. Searching for a five-wicket bag Mark: "Can we just end innings when teams are 7 down, i've seen this too many times recently with the Aussies."
+Hazlewood returns. Searching for a five-wicket bag Mark: "Can we just end innings when teams are 7 down, i've seen this too many times recently with the Aussies."
 
-[{"type": "HTML", "html": "<b>throws everything at this!</b> Short of a length outside off, carved over the off side"}]<b>throws everything at this!</b> Short of a length outside off, carved over the off side
+<b>throws everything at this!</b> Short of a length outside off, carved over the off side
 
 
 Balls faced: 40
 Bowler: Cummins
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length, defended and gets a run into backward point"}]back of a length, defended and gets a run into backward point
+back of a length, defended and gets a run into backward point
 
 
 Balls faced: 41
 Bowler: Cummins
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
-[{"type": "HTML", "html": "Harvey: \"I like Henry's intent when he bats. Takes it to the bowlers, some of the others can learn from him. There are numerous instances of Aussie quicks getting rattled when they get some stick.\""}]Harvey: "I like Henry's intent when he bats. Takes it to the bowlers, some of the others can learn from him. There are numerous instances of Aussie quicks getting rattled when they get some stick."
+Harvey: "I like Henry's intent when he bats. Takes it to the bowlers, some of the others can learn from him. There are numerous instances of Aussie quicks getting rattled when they get some stick."
 
-[{"type": "HTML", "html": "opens the face and plays into the covers"}]opens the face and plays into the covers
+opens the face and plays into the covers
 
 
 Balls faced: 42
 Bowler: Cummins
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a sharp bouncer, just about gets out of the way"}]a sharp bouncer, just about gets out of the way
+a sharp bouncer, just about gets out of the way
 
 
 Balls faced: 43
 Bowler: Cummins
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length at the hip, neatly worked out to deep square leg"}]short of a length at the hip, neatly worked out to deep square leg
+short of a length at the hip, neatly worked out to deep square leg
 
 
 Balls faced: 44
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushes a length delivery into space on the off side"}]pushes a length delivery into space on the off side
-[{"type": "HTML", "html": "Patrick: \"Very useful runs from NZs tail here. On a seaming pitch and the lack of form from Australia's top order. \""}]Patrick: "Very useful runs from NZs tail here. On a seaming pitch and the lack of form from Australia's top order. "
+pushes a length delivery into space on the off side
+Patrick: "Very useful runs from NZs tail here. On a seaming pitch and the lack of form from Australia's top order. "
 
 Balls faced: 45
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "swings to the leg side and is nearly cleaned up, just travels over the top of middle"}]swings to the leg side and is nearly cleaned up, just travels over the top of middle
+swings to the leg side and is nearly cleaned up, just travels over the top of middle
 
 
 Balls faced: 46
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, straight, defended to cover"}]back of a length, straight, defended to cover
+back of a length, straight, defended to cover
 
 
 Balls faced: 47
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a bouncer follows him as he sways out of the line"}]a bouncer follows him as he sways out of the line
+a bouncer follows him as he sways out of the line
 
 
 Balls faced: 48
 Bowler: Hazlewood
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, nips back sharply and Henry fends it down"}]short of a length, nips back sharply and Henry fends it down
-[{"type": "HTML", "html": "ElephantMan: \"Once again Oz struggles to clean up the tail, conceding valuable runs. This is beginning to be a consistent problem.\""}]ElephantMan: "Once again Oz struggles to clean up the tail, conceding valuable runs. This is beginning to be a consistent problem."
+short of a length, nips back sharply and Henry fends it down
+ElephantMan: "Once again Oz struggles to clean up the tail, conceding valuable runs. This is beginning to be a consistent problem."
 
 Balls faced: 49
 Bowler: Hazlewood
 Over: 44
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Hazlewood returns. Searching for a five-wicket bag"}, {"type": "HTML", "html": "Mark: \"Can we just end innings when teams are 7 down, i've seen this too many times recently with the Aussies.\""}]Hazlewood returns. Searching for a five-wicket bag Mark: "Can we just end innings when teams are 7 down, i've seen this too many times recently with the Aussies."
+Hazlewood returns. Searching for a five-wicket bag Mark: "Can we just end innings when teams are 7 down, i've seen this too many times recently with the Aussies."
 
-[{"type": "HTML", "html": "<b>throws everything at this!</b> Short of a length outside off, carved over the off side"}]<b>throws everything at this!</b> Short of a length outside off, carved over the off side
+<b>throws everything at this!</b> Short of a length outside off, carved over the off side
 
 
 Balls faced: 50
 Bowler: Hazlewood
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "beaten again, good pace and carry outside off, Henry looking to drive off the back foot...and Australia have called for a <b>review</b>. Oh, well, he's nicked it! Whoever heard that needs a pat on the back. <b>Hazlewood has his five!</b> Appears it was Green who heard the nick, no one else was really interested."}]beaten again, good pace and carry outside off, Henry looking to drive off the back foot...and Australia have called for a <b>review</b>. Oh, well, he's nicked it! Whoever heard that needs a pat on the back. <b>Hazlewood has his five!</b> Appears it was Green who heard the nick, no one else was really interested.
-[{"type": "HTML", "html": "<hr>"}, {"type": "HTML", "html": "<b>3.25pm</b> New Zealand have been rock and rolled for 162 by <b>tea</b> on the opening day. A very disappointing batting performance after they had made a solid start in the first hour. Hazlewood outstanding. You won't see many better spells than the 7-3-14-4 he produced either side of lunch. Starc chipped in as well. There was some fun resistance from Southee and Henry, but New Zealand have a huge amount to do to get back into this game. Ekanth will be with you for the start of Australia's reply."}, {"type": "YOUTUBE", "url": "https://www.youtube.com/watch?v=Ry2PwlmtjQg"}]<hr> <b>3.25pm</b> New Zealand have been rock and rolled for 162 by <b>tea</b> on the opening day. A very disappointing batting performance after they had made a solid start in the first hour. Hazlewood outstanding. You won't see many better spells than the 7-3-14-4 he produced either side of lunch. Starc chipped in as well. There was some fun resistance from Southee and Henry, but New Zealand have a huge amount to do to get back into this game. Ekanth will be with you for the start of Australia's reply.
+Henry is OUT! caught
+c †Carey b Hazlewood
+Matt Henry c †Carey b Hazlewood 29 (28b 5x4 0x6 46m) SR: 103.57
+beaten again, good pace and carry outside off, Henry looking to drive off the back foot...and Australia have called for a <b>review</b>. Oh, well, he's nicked it! Whoever heard that needs a pat on the back. <b>Hazlewood has his five!</b> Appears it was Green who heard the nick, no one else was really interested.
+<hr> <b>3.25pm</b> New Zealand have been rock and rolled for 162 by <b>tea</b> on the opening day. A very disappointing batting performance after they had made a solid start in the first hour. Hazlewood outstanding. You won't see many better spells than the 7-3-14-4 he produced either side of lunch. Starc chipped in as well. There was some fun resistance from Southee and Henry, but New Zealand have a huge amount to do to get back into this game. Ekanth will be with you for the start of Australia's reply.
 
 Balls faced: 51
 Bowler: Hazlewood
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Can Hazlewood finish with five?"}]Can Hazlewood finish with five?
+Can Hazlewood finish with five?
 
-[{"type": "HTML", "html": "nearly as Henry drives and misses at a back-of-a-length delivery"}]nearly as Henry drives and misses at a back-of-a-length delivery
+nearly as Henry drives and misses at a back-of-a-length delivery
 
 
 Balls faced: 52
 Bowler: Cummins
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
-[{"type": "HTML", "html": "Harvey: \"I like Henry's intent when he bats. Takes it to the bowlers, some of the others can learn from him. There are numerous instances of Aussie quicks getting rattled when they get some stick.\""}]Harvey: "I like Henry's intent when he bats. Takes it to the bowlers, some of the others can learn from him. There are numerous instances of Aussie quicks getting rattled when they get some stick."
+Harvey: "I like Henry's intent when he bats. Takes it to the bowlers, some of the others can learn from him. There are numerous instances of Aussie quicks getting rattled when they get some stick."
 
-[{"type": "HTML", "html": "opens the face and plays into the covers"}]opens the face and plays into the covers
+opens the face and plays into the covers
 
 
 Balls faced: 53
 Bowler: Cummins
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a sharp bouncer, just about gets out of the way"}]a sharp bouncer, just about gets out of the way
+a sharp bouncer, just about gets out of the way
 
 
 Balls faced: 54
 Bowler: Cummins
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length at the hip, neatly worked out to deep square leg"}]short of a length at the hip, neatly worked out to deep square leg
+short of a length at the hip, neatly worked out to deep square leg
 
 
 Balls faced: 55
 Bowler: Hazlewood
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "beaten again, good pace and carry outside off, Henry looking to drive off the back foot...and Australia have called for a <b>review</b>. Oh, well, he's nicked it! Whoever heard that needs a pat on the back. <b>Hazlewood has his five!</b> Appears it was Green who heard the nick, no one else was really interested."}]beaten again, good pace and carry outside off, Henry looking to drive off the back foot...and Australia have called for a <b>review</b>. Oh, well, he's nicked it! Whoever heard that needs a pat on the back. <b>Hazlewood has his five!</b> Appears it was Green who heard the nick, no one else was really interested.
-[{"type": "HTML", "html": "<hr>"}, {"type": "HTML", "html": "<b>3.25pm</b> New Zealand have been rock and rolled for 162 by <b>tea</b> on the opening day. A very disappointing batting performance after they had made a solid start in the first hour. Hazlewood outstanding. You won't see many better spells than the 7-3-14-4 he produced either side of lunch. Starc chipped in as well. There was some fun resistance from Southee and Henry, but New Zealand have a huge amount to do to get back into this game. Ekanth will be with you for the start of Australia's reply."}, {"type": "YOUTUBE", "url": "https://www.youtube.com/watch?v=Ry2PwlmtjQg"}]<hr> <b>3.25pm</b> New Zealand have been rock and rolled for 162 by <b>tea</b> on the opening day. A very disappointing batting performance after they had made a solid start in the first hour. Hazlewood outstanding. You won't see many better spells than the 7-3-14-4 he produced either side of lunch. Starc chipped in as well. There was some fun resistance from Southee and Henry, but New Zealand have a huge amount to do to get back into this game. Ekanth will be with you for the start of Australia's reply.
+Henry is OUT! caught
+c †Carey b Hazlewood
+Matt Henry c †Carey b Hazlewood 29 (28b 5x4 0x6 46m) SR: 103.57
+beaten again, good pace and carry outside off, Henry looking to drive off the back foot...and Australia have called for a <b>review</b>. Oh, well, he's nicked it! Whoever heard that needs a pat on the back. <b>Hazlewood has his five!</b> Appears it was Green who heard the nick, no one else was really interested.
+<hr> <b>3.25pm</b> New Zealand have been rock and rolled for 162 by <b>tea</b> on the opening day. A very disappointing batting performance after they had made a solid start in the first hour. Hazlewood outstanding. You won't see many better spells than the 7-3-14-4 he produced either side of lunch. Starc chipped in as well. There was some fun resistance from Southee and Henry, but New Zealand have a huge amount to do to get back into this game. Ekanth will be with you for the start of Australia's reply.
 
 Balls faced: 56
 Bowler: Hazlewood
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Can Hazlewood finish with five?"}]Can Hazlewood finish with five?
+Can Hazlewood finish with five?
 
-[{"type": "HTML", "html": "nearly as Henry drives and misses at a back-of-a-length delivery"}]nearly as Henry drives and misses at a back-of-a-length delivery
+nearly as Henry drives and misses at a back-of-a-length delivery
 
 
 
@@ -1330,358 +1474,398 @@ Match: all_games_1411166_1415714.json
 Balls faced: 1
 Bowler: M Nabi
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Henry joins Santner"}]Henry joins Santner
+Henry joins Santner
 
-[{"type": "HTML", "html": "back of a length outside off. Henry pokes it down the ground to long on"}]back of a length outside off. Henry pokes it down the ground to long on
+back of a length outside off. Henry pokes it down the ground to long on
 
 
 Balls faced: 2
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "darted in on a back of a length on leg stump. Henry plays it towards short mid wicket"}]darted in on a back of a length on leg stump. Henry plays it towards short mid wicket
+darted in on a back of a length on leg stump. Henry plays it towards short mid wicket
 
 
 Balls faced: 3
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on middle and off. Henry goes back and blocks"}]back of a length on middle and off. Henry goes back and blocks
+back of a length on middle and off. Henry goes back and blocks
 
 
 Balls faced: 4
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wrong'un on a length outside off. Henry has a massive waft at it and is beaten on the inside"}]wrong'un on a length outside off. Henry has a massive waft at it and is beaten on the inside
+wrong'un on a length outside off. Henry has a massive waft at it and is beaten on the inside
 
 
 Balls faced: 5
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly that slides down leg. Does not make any contact with the bat or the thigh pad and given as a wide"}]googly that slides down leg. Does not make any contact with the bat or the thigh pad and given as a wide
+googly that slides down leg. Does not make any contact with the bat or the thigh pad and given as a wide
 
 Wide: 1
 Balls faced: 6
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Skids off the surface and beats Henry for pace on the cut"}]length outside off. Skids off the surface and beats Henry for pace on the cut
+length outside off. Skids off the surface and beats Henry for pace on the cut
 
 
 Balls faced: 7
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly on a full length on middle and off. Defended back to the bowler"}]googly on a full length on middle and off. Defended back to the bowler
+googly on a full length on middle and off. Defended back to the bowler
 
 
 Balls faced: 8
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Aunim: \"Afghanistan taking 7 wickets against an Oceania side in the world cup and absolutely cruising. Where have I seen this before? \" -- If something of that sort happens tonight, we'd have seen arguably the greatest T20I of all time..."}]Aunim: "Afghanistan taking 7 wickets against an Oceania side in the world cup and absolutely cruising. Where have I seen this before? " -- If something of that sort happens tonight, we'd have seen arguably the greatest T20I of all time...
+Aunim: "Afghanistan taking 7 wickets against an Oceania side in the world cup and absolutely cruising. Where have I seen this before? " -- If something of that sort happens tonight, we'd have seen arguably the greatest T20I of all time...
 
-[{"type": "HTML", "html": "fizzed in on a length just outside off. Henry comes half forward and defends"}]fizzed in on a length just outside off. Henry comes half forward and defends
+fizzed in on a length just outside off. Henry comes half forward and defends
 
 
 Balls faced: 9
 Bowler: M Nabi
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Henry joins Santner"}]Henry joins Santner
+Henry joins Santner
 
-[{"type": "HTML", "html": "back of a length outside off. Henry pokes it down the ground to long on"}]back of a length outside off. Henry pokes it down the ground to long on
+back of a length outside off. Henry pokes it down the ground to long on
 
 
 Balls faced: 10
 Bowler: M Nabi
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on middle and leg. Henry works it behind square on the leg side"}]length on middle and leg. Henry works it behind square on the leg side
+length on middle and leg. Henry works it behind square on the leg side
 
 
 Balls faced: 11
 Bowler: M Nabi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length just outside off. Henry comes half forward and prods it towards extra cover"}]length just outside off. Henry comes half forward and prods it towards extra cover
+length just outside off. Henry comes half forward and prods it towards extra cover
 
 
 Balls faced: 12
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "darted in on a back of a length on leg stump. Henry plays it towards short mid wicket"}]darted in on a back of a length on leg stump. Henry plays it towards short mid wicket
+darted in on a back of a length on leg stump. Henry plays it towards short mid wicket
 
 
 Balls faced: 13
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on middle and off. Henry goes back and blocks"}]back of a length on middle and off. Henry goes back and blocks
+back of a length on middle and off. Henry goes back and blocks
 
 
 Balls faced: 14
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wrong'un on a length outside off. Henry has a massive waft at it and is beaten on the inside"}]wrong'un on a length outside off. Henry has a massive waft at it and is beaten on the inside
+wrong'un on a length outside off. Henry has a massive waft at it and is beaten on the inside
 
 
 Balls faced: 15
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly that slides down leg. Does not make any contact with the bat or the thigh pad and given as a wide"}]googly that slides down leg. Does not make any contact with the bat or the thigh pad and given as a wide
+googly that slides down leg. Does not make any contact with the bat or the thigh pad and given as a wide
 
 Wide: 1
 Balls faced: 16
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Skids off the surface and beats Henry for pace on the cut"}]length outside off. Skids off the surface and beats Henry for pace on the cut
+length outside off. Skids off the surface and beats Henry for pace on the cut
 
 
 Balls faced: 17
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "googly on a full length on middle and off. Defended back to the bowler"}]googly on a full length on middle and off. Defended back to the bowler
+googly on a full length on middle and off. Defended back to the bowler
 
 
 Balls faced: 18
 Bowler: Rashid Khan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Aunim: \"Afghanistan taking 7 wickets against an Oceania side in the world cup and absolutely cruising. Where have I seen this before? \" -- If something of that sort happens tonight, we'd have seen arguably the greatest T20I of all time..."}]Aunim: "Afghanistan taking 7 wickets against an Oceania side in the world cup and absolutely cruising. Where have I seen this before? " -- If something of that sort happens tonight, we'd have seen arguably the greatest T20I of all time...
+Aunim: "Afghanistan taking 7 wickets against an Oceania side in the world cup and absolutely cruising. Where have I seen this before? " -- If something of that sort happens tonight, we'd have seen arguably the greatest T20I of all time...
 
-[{"type": "HTML", "html": "fizzed in on a length just outside off. Henry comes half forward and defends"}]fizzed in on a length just outside off. Henry comes half forward and defends
+fizzed in on a length just outside off. Henry comes half forward and defends
 
 
 Balls faced: 19
 Bowler: Rashid Khan
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Rashid to bowl out"}]Rashid to bowl out
+Rashid to bowl out
 
-[{"type": "HTML", "html": "googly on a length on middle and off. Henry lunges forward and chunks it off the inside half of the bat towards deep square leg"}]googly on a length on middle and off. Henry lunges forward and chunks it off the inside half of the bat towards deep square leg
+googly on a length on middle and off. Henry lunges forward and chunks it off the inside half of the bat towards deep square leg
 
 
 Balls faced: 20
 Bowler: M Nabi
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on middle and leg. Henry works it behind square on the leg side"}]length on middle and leg. Henry works it behind square on the leg side
+length on middle and leg. Henry works it behind square on the leg side
 
 
 Balls faced: 21
 Bowler: M Nabi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length just outside off. Henry comes half forward and prods it towards extra cover"}]length just outside off. Henry comes half forward and prods it towards extra cover
+length just outside off. Henry comes half forward and prods it towards extra cover
 
 
 Balls faced: 22
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length outside off. Henry clears his front leg and hacks it to long on"}]length outside off. Henry clears his front leg and hacks it to long on
+length outside off. Henry clears his front leg and hacks it to long on
 
 
 Balls faced: 23
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>clean strike!</strong> Given a bit of air but this lands in the slot outside off. Henry winds up, goes through the line and clubs it over long on!"}]<strong>clean strike!</strong> Given a bit of air but this lands in the slot outside off. Henry winds up, goes through the line and clubs it over long on!
+<strong>clean strike!</strong> Given a bit of air but this lands in the slot outside off. Henry winds up, goes through the line and clubs it over long on!
 
 
 Balls faced: 24
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Boult is the last batter in. He is at the non-striker's end for now. Noor gets a bowl, meanwhile"}]Boult is the last batter in. He is at the non-striker's end for now. Noor gets a bowl, meanwhile
+Boult is the last batter in. He is at the non-striker's end for now. Noor gets a bowl, meanwhile
 
-[{"type": "HTML", "html": "full on middle and off. Driven down the ground to long off"}]full on middle and off. Driven down the ground to long off
+full on middle and off. Driven down the ground to long off
 
 
 Balls faced: 25
 Bowler: Rashid Khan
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Rashid to bowl out"}]Rashid to bowl out
+Rashid to bowl out
 
-[{"type": "HTML", "html": "googly on a length on middle and off. Henry lunges forward and chunks it off the inside half of the bat towards deep square leg"}]googly on a length on middle and off. Henry lunges forward and chunks it off the inside half of the bat towards deep square leg
+googly on a length on middle and off. Henry lunges forward and chunks it off the inside half of the bat towards deep square leg
 
 
 Balls faced: 26
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "off-pace on a fullish length outside off. Henry drags it towards long on"}]off-pace on a fullish length outside off. Henry drags it towards long on
+off-pace on a fullish length outside off. Henry drags it towards long on
 
 
 Balls faced: 27
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Henry hangs back and jabs it into the off side"}]length outside off. Henry hangs back and jabs it into the off side
+length outside off. Henry hangs back and jabs it into the off side
 
 
 Balls faced: 28
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length outside off. Henry clears his front leg and hacks it to long on"}]length outside off. Henry clears his front leg and hacks it to long on
+length outside off. Henry clears his front leg and hacks it to long on
 
 
 Balls faced: 29
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>clean strike!</strong> Given a bit of air but this lands in the slot outside off. Henry winds up, goes through the line and clubs it over long on!"}]<strong>clean strike!</strong> Given a bit of air but this lands in the slot outside off. Henry winds up, goes through the line and clubs it over long on!
+<strong>clean strike!</strong> Given a bit of air but this lands in the slot outside off. Henry winds up, goes through the line and clubs it over long on!
 
 
 Balls faced: 30
 Bowler: Noor Ahmad
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Boult is the last batter in. He is at the non-striker's end for now. Noor gets a bowl, meanwhile"}]Boult is the last batter in. He is at the non-striker's end for now. Noor gets a bowl, meanwhile
+Boult is the last batter in. He is at the non-striker's end for now. Noor gets a bowl, meanwhile
 
-[{"type": "HTML", "html": "full on middle and off. Driven down the ground to long off"}]full on middle and off. Driven down the ground to long off
+full on middle and off. Driven down the ground to long off
 
 
 Balls faced: 31
 Bowler: Fazalhaq Farooqi
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Chennai, Delhi, Nagpur, Pune and now Guyana - the latest addition to Afghanistan's greatest World Cup hits collection! A truly professional performance to grab this group by the scruff of its neck and tell the rest of the world they are here to dominate!</strong> Off-pace and dug into the track outside off. Henry swings like a rusty gate again and gets a top edge. Fine leg circles under it and does the rest. Afghanistan are all smiles, and they deserve every bit of this win. They have thoroughly outplayed New Zealand and Farooqi, who set the ball rolling in the powerplay, fittingly finishes it off!"}]<strong>Chennai, Delhi, Nagpur, Pune and now Guyana - the latest addition to Afghanistan's greatest World Cup hits collection! A truly professional performance to grab this group by the scruff of its neck and tell the rest of the world they are here to dominate!</strong> Off-pace and dug into the track outside off. Henry swings like a rusty gate again and gets a top edge. Fine leg circles under it and does the rest. Afghanistan are all smiles, and they deserve every bit of this win. They have thoroughly outplayed New Zealand and Farooqi, who set the ball rolling in the powerplay, fittingly finishes it off!
-[{"type": "HTML", "html": "<strong>11:10pm</strong> And that will be all from us for this game. There is still plenty of T20 World Cup action to get stuck into and a very engrossing game between <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-sri-lanka-15th-match-group-d-1415715/live-cricket-score\">Bangladesh and Sri Lanka is currently on, with Bangladesh chasing 125.</a> Until next time, this is goodbye from me (Shashwat), Chandan, Ranjith and Thilak. Take care, folks!"}, {"type": "HTML", "html": "<b>Rashid Khan, Afghanistan captain:</b> One of the greatest performances from us in T20I cricket against a big team. It is a great team effort. The way Ibrahim and Gurbaz started again\u2026the wicket was not easy. They did not throw away their wickets in overs 7-10. Great win for Afghanistan and it is a privilege to be leading this side and winning against NZ. (On the chat during the drinks break) They were the set batters and we told them it was fine. We wanted to make sure we played positively from that point and wanted them to play their natural game. The way they took responsibility was great. (On the score) Anything around 160-170, with the bowling unit we have, we will give tough competition to the opposition, as long as we hit the right areas consistently. The spinners and especially the seamers, the way Nabi bowled the second over - that gave us a sign the ball was turning. The skill we have as a bowling unit, if we use that, it will be hard for the opposition to score 160. (On their aggressive fielding) That is something which gives energy to everyone. It started from the batting, with how Ibrahim and Gurbaz were running. We have to give 100% effort, losing or winning does not matter (to me). That is how we prepare. If we don't give 100%, we will be missing something. I don't care about the result a lot but it is about the effort. I don't care about the wickets, the energy around the group is what makes me happy. The way Farooqi has bowled has been amazing. He is a skilful bowler. Some things to be improved but once he understands how skilful he is, he will be an even dangerous bowler."}, {"type": "HTML", "html": "<b>Kane Williamson, New Zealand captain:</b> Congratulations to Afghanistan, they simply outplayed us in all facets. To get a total like that on a fiddly surface, they kept wickets in hand and played it beautifully. Not good enough from us. Quick turnaround, we have to regroup quickly and onto the next challenge. The boys were focussed and were working hard in preparation for this game but it was not our best performance. We will chat about it, review and move on quickly. It (the games) comes thick and fast and we need to be better. With the bat in hand, you want to get a partnership together. They were excellent. The skill they have was certainly on show. The fielding in the first ten overs, it is difficult on a wicket like that when you are not putting things together in the field. (On the match against West Indies) I think it is about taking a step in the right direction first. Our performance was not good enough. We have another big challenge coming for us and it is about putting together a performance we can be proud of. The opportunities we had and didn't take - on a surface like that, it goes a long way in changing the outcome. Not over-analysing but there are some things we need to address."}, {"type": "HTML", "html": "<b>Rahmanullah Gurbaz, Player of the Match:</b> Nothing is more special. We were waiting for this victory for three years. We finally beat them. The trust and the belief was there from the very start. We have the belief that we can beat any team on this surface. In the first innings, the wicket was not easy. (On the message in the drinks break) I did not start that well but me and Ibrahim were discussing to keep calm and play good cricket shots. We thought 130-140 would be a good score. Credit goes to the bowlers as well. To do it against a team like NZ, it was unbelievable. We (Ibrahim and me) have a very good combination and we always discuss. If it is not my day, he tries to take on the bowlers. If it is my day, I ask him to give me the strike. From the coaches, the message is to always encourage the players. Even when I am tired, I try to be active and give some energy to the bowler as well."}, {"type": "HTML", "html": "<strong>10:45pm</strong> The demolition job is complete. A truly commanding display by Afghanistan and they have just been too hot to handle for New Zealand. This is their first win over New Zealand in T20I cricket, and what a way to get there."}, {"type": "HTML", "html": "Farooqi got it all underway with the new ball, like he did against Uganda. Allen was dismissed off the first ball of the innings, with Conway following soon after. Mitchell could not get going either, and that left NZ reeling at 28-3."}, {"type": "HTML", "html": "Things, though, did not get any better for the Kiwis post that. Rashid then entered the fray and bamboozled the batters, picking up a tidy four-for, which included the scalps of Williamson, Chapman and Bracewell. Nabi chipped in with Santner's wicket, before Farooqi iced the cake with his fourth."}, {"type": "HTML", "html": "As for NZ, well, everything that could have gone wrong for them went wrong. If you thought their fielding display was rusty, their batting effort was just as out of sync (if not more). Only two of their batters made double-digit scores, with extras being the third-highest contributor, and that sort of tells you how pear-shaped it all went for the Kiwis."}]<strong>11:10pm</strong> And that will be all from us for this game. There is still plenty of T20 World Cup action to get stuck into and a very engrossing game between <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-sri-lanka-15th-match-group-d-1415715/live-cricket-score">Bangladesh and Sri Lanka is currently on, with Bangladesh chasing 125.</a> Until next time, this is goodbye from me (Shashwat), Chandan, Ranjith and Thilak. Take care, folks! <b>Rashid Khan, Afghanistan captain:</b> One of the greatest performances from us in T20I cricket against a big team. It is a great team effort. The way Ibrahim and Gurbaz started again…the wicket was not easy. They did not throw away their wickets in overs 7-10. Great win for Afghanistan and it is a privilege to be leading this side and winning against NZ. (On the chat during the drinks break) They were the set batters and we told them it was fine. We wanted to make sure we played positively from that point and wanted them to play their natural game. The way they took responsibility was great. (On the score) Anything around 160-170, with the bowling unit we have, we will give tough competition to the opposition, as long as we hit the right areas consistently. The spinners and especially the seamers, the way Nabi bowled the second over - that gave us a sign the ball was turning. The skill we have as a bowling unit, if we use that, it will be hard for the opposition to score 160. (On their aggressive fielding) That is something which gives energy to everyone. It started from the batting, with how Ibrahim and Gurbaz were running. We have to give 100% effort, losing or winning does not matter (to me). That is how we prepare. If we don't give 100%, we will be missing something. I don't care about the result a lot but it is about the effort. I don't care about the wickets, the energy around the group is what makes me happy. The way Farooqi has bowled has been amazing. He is a skilful bowler. Some things to be improved but once he understands how skilful he is, he will be an even dangerous bowler. <b>Kane Williamson, New Zealand captain:</b> Congratulations to Afghanistan, they simply outplayed us in all facets. To get a total like that on a fiddly surface, they kept wickets in hand and played it beautifully. Not good enough from us. Quick turnaround, we have to regroup quickly and onto the next challenge. The boys were focussed and were working hard in preparation for this game but it was not our best performance. We will chat about it, review and move on quickly. It (the games) comes thick and fast and we need to be better. With the bat in hand, you want to get a partnership together. They were excellent. The skill they have was certainly on show. The fielding in the first ten overs, it is difficult on a wicket like that when you are not putting things together in the field. (On the match against West Indies) I think it is about taking a step in the right direction first. Our performance was not good enough. We have another big challenge coming for us and it is about putting together a performance we can be proud of. The opportunities we had and didn't take - on a surface like that, it goes a long way in changing the outcome. Not over-analysing but there are some things we need to address. <b>Rahmanullah Gurbaz, Player of the Match:</b> Nothing is more special. We were waiting for this victory for three years. We finally beat them. The trust and the belief was there from the very start. We have the belief that we can beat any team on this surface. In the first innings, the wicket was not easy. (On the message in the drinks break) I did not start that well but me and Ibrahim were discussing to keep calm and play good cricket shots. We thought 130-140 would be a good score. Credit goes to the bowlers as well. To do it against a team like NZ, it was unbelievable. We (Ibrahim and me) have a very good combination and we always discuss. If it is not my day, he tries to take on the bowlers. If it is my day, I ask him to give me the strike. From the coaches, the message is to always encourage the players. Even when I am tired, I try to be active and give some energy to the bowler as well. <strong>10:45pm</strong> The demolition job is complete. A truly commanding display by Afghanistan and they have just been too hot to handle for New Zealand. This is their first win over New Zealand in T20I cricket, and what a way to get there. Farooqi got it all underway with the new ball, like he did against Uganda. Allen was dismissed off the first ball of the innings, with Conway following soon after. Mitchell could not get going either, and that left NZ reeling at 28-3. Things, though, did not get any better for the Kiwis post that. Rashid then entered the fray and bamboozled the batters, picking up a tidy four-for, which included the scalps of Williamson, Chapman and Bracewell. Nabi chipped in with Santner's wicket, before Farooqi iced the cake with his fourth. As for NZ, well, everything that could have gone wrong for them went wrong. If you thought their fielding display was rusty, their batting effort was just as out of sync (if not more). Only two of their batters made double-digit scores, with extras being the third-highest contributor, and that sort of tells you how pear-shaped it all went for the Kiwis.
+Henry is OUT! caught
+c Karim Janat b Fazalhaq Farooqi
+Matt Henry c Karim Janat b Fazalhaq Farooqi 12 (17b 0x4 1x6 21m) SR: 70.58
+<strong>Chennai, Delhi, Nagpur, Pune and now Guyana - the latest addition to Afghanistan's greatest World Cup hits collection! A truly professional performance to grab this group by the scruff of its neck and tell the rest of the world they are here to dominate!</strong> Off-pace and dug into the track outside off. Henry swings like a rusty gate again and gets a top edge. Fine leg circles under it and does the rest. Afghanistan are all smiles, and they deserve every bit of this win. They have thoroughly outplayed New Zealand and Farooqi, who set the ball rolling in the powerplay, fittingly finishes it off!
+<strong>11:10pm</strong> And that will be all from us for this game. There is still plenty of T20 World Cup action to get stuck into and a very engrossing game between <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-sri-lanka-15th-match-group-d-1415715/live-cricket-score">Bangladesh and Sri Lanka is currently on, with Bangladesh chasing 125.</a> Until next time, this is goodbye from me (Shashwat), Chandan, Ranjith and Thilak. Take care, folks! <b>Rashid Khan, Afghanistan captain:</b> One of the greatest performances from us in T20I cricket against a big team. It is a great team effort. The way Ibrahim and Gurbaz started again…the wicket was not easy. They did not throw away their wickets in overs 7-10. Great win for Afghanistan and it is a privilege to be leading this side and winning against NZ. (On the chat during the drinks break) They were the set batters and we told them it was fine. We wanted to make sure we played positively from that point and wanted them to play their natural game. The way they took responsibility was great. (On the score) Anything around 160-170, with the bowling unit we have, we will give tough competition to the opposition, as long as we hit the right areas consistently. The spinners and especially the seamers, the way Nabi bowled the second over - that gave us a sign the ball was turning. The skill we have as a bowling unit, if we use that, it will be hard for the opposition to score 160. (On their aggressive fielding) That is something which gives energy to everyone. It started from the batting, with how Ibrahim and Gurbaz were running. We have to give 100% effort, losing or winning does not matter (to me). That is how we prepare. If we don't give 100%, we will be missing something. I don't care about the result a lot but it is about the effort. I don't care about the wickets, the energy around the group is what makes me happy. The way Farooqi has bowled has been amazing. He is a skilful bowler. Some things to be improved but once he understands how skilful he is, he will be an even dangerous bowler. <b>Kane Williamson, New Zealand captain:</b> Congratulations to Afghanistan, they simply outplayed us in all facets. To get a total like that on a fiddly surface, they kept wickets in hand and played it beautifully. Not good enough from us. Quick turnaround, we have to regroup quickly and onto the next challenge. The boys were focussed and were working hard in preparation for this game but it was not our best performance. We will chat about it, review and move on quickly. It (the games) comes thick and fast and we need to be better. With the bat in hand, you want to get a partnership together. They were excellent. The skill they have was certainly on show. The fielding in the first ten overs, it is difficult on a wicket like that when you are not putting things together in the field. (On the match against West Indies) I think it is about taking a step in the right direction first. Our performance was not good enough. We have another big challenge coming for us and it is about putting together a performance we can be proud of. The opportunities we had and didn't take - on a surface like that, it goes a long way in changing the outcome. Not over-analysing but there are some things we need to address. <b>Rahmanullah Gurbaz, Player of the Match:</b> Nothing is more special. We were waiting for this victory for three years. We finally beat them. The trust and the belief was there from the very start. We have the belief that we can beat any team on this surface. In the first innings, the wicket was not easy. (On the message in the drinks break) I did not start that well but me and Ibrahim were discussing to keep calm and play good cricket shots. We thought 130-140 would be a good score. Credit goes to the bowlers as well. To do it against a team like NZ, it was unbelievable. We (Ibrahim and me) have a very good combination and we always discuss. If it is not my day, he tries to take on the bowlers. If it is my day, I ask him to give me the strike. From the coaches, the message is to always encourage the players. Even when I am tired, I try to be active and give some energy to the bowler as well. <strong>10:45pm</strong> The demolition job is complete. A truly commanding display by Afghanistan and they have just been too hot to handle for New Zealand. This is their first win over New Zealand in T20I cricket, and what a way to get there. Farooqi got it all underway with the new ball, like he did against Uganda. Allen was dismissed off the first ball of the innings, with Conway following soon after. Mitchell could not get going either, and that left NZ reeling at 28-3. Things, though, did not get any better for the Kiwis post that. Rashid then entered the fray and bamboozled the batters, picking up a tidy four-for, which included the scalps of Williamson, Chapman and Bracewell. Nabi chipped in with Santner's wicket, before Farooqi iced the cake with his fourth. As for NZ, well, everything that could have gone wrong for them went wrong. If you thought their fielding display was rusty, their batting effort was just as out of sync (if not more). Only two of their batters made double-digit scores, with extras being the third-highest contributor, and that sort of tells you how pear-shaped it all went for the Kiwis.
 
 Balls faced: 32
 Bowler: Fazalhaq Farooqi
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Farooqi returns too"}]Farooqi returns too
+Farooqi returns too
 
-[{"type": "HTML", "html": "slower ball hung up on a length outside off. Henry has a wild slog at it and misses the ball by a mile"}]slower ball hung up on a length outside off. Henry has a wild slog at it and misses the ball by a mile
+slower ball hung up on a length outside off. Henry has a wild slog at it and misses the ball by a mile
 
 
 Balls faced: 33
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "off-pace on a fullish length outside off. Henry drags it towards long on"}]off-pace on a fullish length outside off. Henry drags it towards long on
+off-pace on a fullish length outside off. Henry drags it towards long on
 
 
 Balls faced: 34
 Bowler: Naveen-ul-Haq
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Henry hangs back and jabs it into the off side"}]length outside off. Henry hangs back and jabs it into the off side
+length outside off. Henry hangs back and jabs it into the off side
 
 
 Balls faced: 35
 Bowler: Fazalhaq Farooqi
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Chennai, Delhi, Nagpur, Pune and now Guyana - the latest addition to Afghanistan's greatest World Cup hits collection! A truly professional performance to grab this group by the scruff of its neck and tell the rest of the world they are here to dominate!</strong> Off-pace and dug into the track outside off. Henry swings like a rusty gate again and gets a top edge. Fine leg circles under it and does the rest. Afghanistan are all smiles, and they deserve every bit of this win. They have thoroughly outplayed New Zealand and Farooqi, who set the ball rolling in the powerplay, fittingly finishes it off!"}]<strong>Chennai, Delhi, Nagpur, Pune and now Guyana - the latest addition to Afghanistan's greatest World Cup hits collection! A truly professional performance to grab this group by the scruff of its neck and tell the rest of the world they are here to dominate!</strong> Off-pace and dug into the track outside off. Henry swings like a rusty gate again and gets a top edge. Fine leg circles under it and does the rest. Afghanistan are all smiles, and they deserve every bit of this win. They have thoroughly outplayed New Zealand and Farooqi, who set the ball rolling in the powerplay, fittingly finishes it off!
-[{"type": "HTML", "html": "<strong>11:10pm</strong> And that will be all from us for this game. There is still plenty of T20 World Cup action to get stuck into and a very engrossing game between <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-sri-lanka-15th-match-group-d-1415715/live-cricket-score\">Bangladesh and Sri Lanka is currently on, with Bangladesh chasing 125.</a> Until next time, this is goodbye from me (Shashwat), Chandan, Ranjith and Thilak. Take care, folks!"}, {"type": "HTML", "html": "<b>Rashid Khan, Afghanistan captain:</b> One of the greatest performances from us in T20I cricket against a big team. It is a great team effort. The way Ibrahim and Gurbaz started again\u2026the wicket was not easy. They did not throw away their wickets in overs 7-10. Great win for Afghanistan and it is a privilege to be leading this side and winning against NZ. (On the chat during the drinks break) They were the set batters and we told them it was fine. We wanted to make sure we played positively from that point and wanted them to play their natural game. The way they took responsibility was great. (On the score) Anything around 160-170, with the bowling unit we have, we will give tough competition to the opposition, as long as we hit the right areas consistently. The spinners and especially the seamers, the way Nabi bowled the second over - that gave us a sign the ball was turning. The skill we have as a bowling unit, if we use that, it will be hard for the opposition to score 160. (On their aggressive fielding) That is something which gives energy to everyone. It started from the batting, with how Ibrahim and Gurbaz were running. We have to give 100% effort, losing or winning does not matter (to me). That is how we prepare. If we don't give 100%, we will be missing something. I don't care about the result a lot but it is about the effort. I don't care about the wickets, the energy around the group is what makes me happy. The way Farooqi has bowled has been amazing. He is a skilful bowler. Some things to be improved but once he understands how skilful he is, he will be an even dangerous bowler."}, {"type": "HTML", "html": "<b>Kane Williamson, New Zealand captain:</b> Congratulations to Afghanistan, they simply outplayed us in all facets. To get a total like that on a fiddly surface, they kept wickets in hand and played it beautifully. Not good enough from us. Quick turnaround, we have to regroup quickly and onto the next challenge. The boys were focussed and were working hard in preparation for this game but it was not our best performance. We will chat about it, review and move on quickly. It (the games) comes thick and fast and we need to be better. With the bat in hand, you want to get a partnership together. They were excellent. The skill they have was certainly on show. The fielding in the first ten overs, it is difficult on a wicket like that when you are not putting things together in the field. (On the match against West Indies) I think it is about taking a step in the right direction first. Our performance was not good enough. We have another big challenge coming for us and it is about putting together a performance we can be proud of. The opportunities we had and didn't take - on a surface like that, it goes a long way in changing the outcome. Not over-analysing but there are some things we need to address."}, {"type": "HTML", "html": "<b>Rahmanullah Gurbaz, Player of the Match:</b> Nothing is more special. We were waiting for this victory for three years. We finally beat them. The trust and the belief was there from the very start. We have the belief that we can beat any team on this surface. In the first innings, the wicket was not easy. (On the message in the drinks break) I did not start that well but me and Ibrahim were discussing to keep calm and play good cricket shots. We thought 130-140 would be a good score. Credit goes to the bowlers as well. To do it against a team like NZ, it was unbelievable. We (Ibrahim and me) have a very good combination and we always discuss. If it is not my day, he tries to take on the bowlers. If it is my day, I ask him to give me the strike. From the coaches, the message is to always encourage the players. Even when I am tired, I try to be active and give some energy to the bowler as well."}, {"type": "HTML", "html": "<strong>10:45pm</strong> The demolition job is complete. A truly commanding display by Afghanistan and they have just been too hot to handle for New Zealand. This is their first win over New Zealand in T20I cricket, and what a way to get there."}, {"type": "HTML", "html": "Farooqi got it all underway with the new ball, like he did against Uganda. Allen was dismissed off the first ball of the innings, with Conway following soon after. Mitchell could not get going either, and that left NZ reeling at 28-3."}, {"type": "HTML", "html": "Things, though, did not get any better for the Kiwis post that. Rashid then entered the fray and bamboozled the batters, picking up a tidy four-for, which included the scalps of Williamson, Chapman and Bracewell. Nabi chipped in with Santner's wicket, before Farooqi iced the cake with his fourth."}, {"type": "HTML", "html": "As for NZ, well, everything that could have gone wrong for them went wrong. If you thought their fielding display was rusty, their batting effort was just as out of sync (if not more). Only two of their batters made double-digit scores, with extras being the third-highest contributor, and that sort of tells you how pear-shaped it all went for the Kiwis."}]<strong>11:10pm</strong> And that will be all from us for this game. There is still plenty of T20 World Cup action to get stuck into and a very engrossing game between <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-sri-lanka-15th-match-group-d-1415715/live-cricket-score">Bangladesh and Sri Lanka is currently on, with Bangladesh chasing 125.</a> Until next time, this is goodbye from me (Shashwat), Chandan, Ranjith and Thilak. Take care, folks! <b>Rashid Khan, Afghanistan captain:</b> One of the greatest performances from us in T20I cricket against a big team. It is a great team effort. The way Ibrahim and Gurbaz started again…the wicket was not easy. They did not throw away their wickets in overs 7-10. Great win for Afghanistan and it is a privilege to be leading this side and winning against NZ. (On the chat during the drinks break) They were the set batters and we told them it was fine. We wanted to make sure we played positively from that point and wanted them to play their natural game. The way they took responsibility was great. (On the score) Anything around 160-170, with the bowling unit we have, we will give tough competition to the opposition, as long as we hit the right areas consistently. The spinners and especially the seamers, the way Nabi bowled the second over - that gave us a sign the ball was turning. The skill we have as a bowling unit, if we use that, it will be hard for the opposition to score 160. (On their aggressive fielding) That is something which gives energy to everyone. It started from the batting, with how Ibrahim and Gurbaz were running. We have to give 100% effort, losing or winning does not matter (to me). That is how we prepare. If we don't give 100%, we will be missing something. I don't care about the result a lot but it is about the effort. I don't care about the wickets, the energy around the group is what makes me happy. The way Farooqi has bowled has been amazing. He is a skilful bowler. Some things to be improved but once he understands how skilful he is, he will be an even dangerous bowler. <b>Kane Williamson, New Zealand captain:</b> Congratulations to Afghanistan, they simply outplayed us in all facets. To get a total like that on a fiddly surface, they kept wickets in hand and played it beautifully. Not good enough from us. Quick turnaround, we have to regroup quickly and onto the next challenge. The boys were focussed and were working hard in preparation for this game but it was not our best performance. We will chat about it, review and move on quickly. It (the games) comes thick and fast and we need to be better. With the bat in hand, you want to get a partnership together. They were excellent. The skill they have was certainly on show. The fielding in the first ten overs, it is difficult on a wicket like that when you are not putting things together in the field. (On the match against West Indies) I think it is about taking a step in the right direction first. Our performance was not good enough. We have another big challenge coming for us and it is about putting together a performance we can be proud of. The opportunities we had and didn't take - on a surface like that, it goes a long way in changing the outcome. Not over-analysing but there are some things we need to address. <b>Rahmanullah Gurbaz, Player of the Match:</b> Nothing is more special. We were waiting for this victory for three years. We finally beat them. The trust and the belief was there from the very start. We have the belief that we can beat any team on this surface. In the first innings, the wicket was not easy. (On the message in the drinks break) I did not start that well but me and Ibrahim were discussing to keep calm and play good cricket shots. We thought 130-140 would be a good score. Credit goes to the bowlers as well. To do it against a team like NZ, it was unbelievable. We (Ibrahim and me) have a very good combination and we always discuss. If it is not my day, he tries to take on the bowlers. If it is my day, I ask him to give me the strike. From the coaches, the message is to always encourage the players. Even when I am tired, I try to be active and give some energy to the bowler as well. <strong>10:45pm</strong> The demolition job is complete. A truly commanding display by Afghanistan and they have just been too hot to handle for New Zealand. This is their first win over New Zealand in T20I cricket, and what a way to get there. Farooqi got it all underway with the new ball, like he did against Uganda. Allen was dismissed off the first ball of the innings, with Conway following soon after. Mitchell could not get going either, and that left NZ reeling at 28-3. Things, though, did not get any better for the Kiwis post that. Rashid then entered the fray and bamboozled the batters, picking up a tidy four-for, which included the scalps of Williamson, Chapman and Bracewell. Nabi chipped in with Santner's wicket, before Farooqi iced the cake with his fourth. As for NZ, well, everything that could have gone wrong for them went wrong. If you thought their fielding display was rusty, their batting effort was just as out of sync (if not more). Only two of their batters made double-digit scores, with extras being the third-highest contributor, and that sort of tells you how pear-shaped it all went for the Kiwis.
+Henry is OUT! caught
+c Karim Janat b Fazalhaq Farooqi
+Matt Henry c Karim Janat b Fazalhaq Farooqi 12 (17b 0x4 1x6 21m) SR: 70.58
+<strong>Chennai, Delhi, Nagpur, Pune and now Guyana - the latest addition to Afghanistan's greatest World Cup hits collection! A truly professional performance to grab this group by the scruff of its neck and tell the rest of the world they are here to dominate!</strong> Off-pace and dug into the track outside off. Henry swings like a rusty gate again and gets a top edge. Fine leg circles under it and does the rest. Afghanistan are all smiles, and they deserve every bit of this win. They have thoroughly outplayed New Zealand and Farooqi, who set the ball rolling in the powerplay, fittingly finishes it off!
+<strong>11:10pm</strong> And that will be all from us for this game. There is still plenty of T20 World Cup action to get stuck into and a very engrossing game between <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-sri-lanka-15th-match-group-d-1415715/live-cricket-score">Bangladesh and Sri Lanka is currently on, with Bangladesh chasing 125.</a> Until next time, this is goodbye from me (Shashwat), Chandan, Ranjith and Thilak. Take care, folks! <b>Rashid Khan, Afghanistan captain:</b> One of the greatest performances from us in T20I cricket against a big team. It is a great team effort. The way Ibrahim and Gurbaz started again…the wicket was not easy. They did not throw away their wickets in overs 7-10. Great win for Afghanistan and it is a privilege to be leading this side and winning against NZ. (On the chat during the drinks break) They were the set batters and we told them it was fine. We wanted to make sure we played positively from that point and wanted them to play their natural game. The way they took responsibility was great. (On the score) Anything around 160-170, with the bowling unit we have, we will give tough competition to the opposition, as long as we hit the right areas consistently. The spinners and especially the seamers, the way Nabi bowled the second over - that gave us a sign the ball was turning. The skill we have as a bowling unit, if we use that, it will be hard for the opposition to score 160. (On their aggressive fielding) That is something which gives energy to everyone. It started from the batting, with how Ibrahim and Gurbaz were running. We have to give 100% effort, losing or winning does not matter (to me). That is how we prepare. If we don't give 100%, we will be missing something. I don't care about the result a lot but it is about the effort. I don't care about the wickets, the energy around the group is what makes me happy. The way Farooqi has bowled has been amazing. He is a skilful bowler. Some things to be improved but once he understands how skilful he is, he will be an even dangerous bowler. <b>Kane Williamson, New Zealand captain:</b> Congratulations to Afghanistan, they simply outplayed us in all facets. To get a total like that on a fiddly surface, they kept wickets in hand and played it beautifully. Not good enough from us. Quick turnaround, we have to regroup quickly and onto the next challenge. The boys were focussed and were working hard in preparation for this game but it was not our best performance. We will chat about it, review and move on quickly. It (the games) comes thick and fast and we need to be better. With the bat in hand, you want to get a partnership together. They were excellent. The skill they have was certainly on show. The fielding in the first ten overs, it is difficult on a wicket like that when you are not putting things together in the field. (On the match against West Indies) I think it is about taking a step in the right direction first. Our performance was not good enough. We have another big challenge coming for us and it is about putting together a performance we can be proud of. The opportunities we had and didn't take - on a surface like that, it goes a long way in changing the outcome. Not over-analysing but there are some things we need to address. <b>Rahmanullah Gurbaz, Player of the Match:</b> Nothing is more special. We were waiting for this victory for three years. We finally beat them. The trust and the belief was there from the very start. We have the belief that we can beat any team on this surface. In the first innings, the wicket was not easy. (On the message in the drinks break) I did not start that well but me and Ibrahim were discussing to keep calm and play good cricket shots. We thought 130-140 would be a good score. Credit goes to the bowlers as well. To do it against a team like NZ, it was unbelievable. We (Ibrahim and me) have a very good combination and we always discuss. If it is not my day, he tries to take on the bowlers. If it is my day, I ask him to give me the strike. From the coaches, the message is to always encourage the players. Even when I am tired, I try to be active and give some energy to the bowler as well. <strong>10:45pm</strong> The demolition job is complete. A truly commanding display by Afghanistan and they have just been too hot to handle for New Zealand. This is their first win over New Zealand in T20I cricket, and what a way to get there. Farooqi got it all underway with the new ball, like he did against Uganda. Allen was dismissed off the first ball of the innings, with Conway following soon after. Mitchell could not get going either, and that left NZ reeling at 28-3. Things, though, did not get any better for the Kiwis post that. Rashid then entered the fray and bamboozled the batters, picking up a tidy four-for, which included the scalps of Williamson, Chapman and Bracewell. Nabi chipped in with Santner's wicket, before Farooqi iced the cake with his fourth. As for NZ, well, everything that could have gone wrong for them went wrong. If you thought their fielding display was rusty, their batting effort was just as out of sync (if not more). Only two of their batters made double-digit scores, with extras being the third-highest contributor, and that sort of tells you how pear-shaped it all went for the Kiwis.
 
 Balls faced: 36
 Bowler: Fazalhaq Farooqi
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Farooqi returns too"}]Farooqi returns too
+Farooqi returns too
 
-[{"type": "HTML", "html": "slower ball hung up on a length outside off. Henry has a wild slog at it and misses the ball by a mile"}]slower ball hung up on a length outside off. Henry has a wild slog at it and misses the ball by a mile
+slower ball hung up on a length outside off. Henry has a wild slog at it and misses the ball by a mile

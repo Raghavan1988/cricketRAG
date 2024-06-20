@@ -2,6 +2,7 @@ Match: all_games_1410505_1410545.json
 Balls faced: 1
 Bowler: Scott
 Over: 6
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Scott
 Over: 6
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Slater
 Over: 7
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Slater
 Over: 7
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -42,6 +46,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Slater
 Over: 7
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Scott
 Over: 6
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -62,6 +68,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Scott
 Over: 6
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -72,6 +79,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Turner
 Over: 8
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 1
 
@@ -82,6 +90,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Turner
 Over: 8
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -92,6 +101,7 @@ Run scored: 2
 Balls faced: 10
 Bowler: Slater
 Over: 7
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Slater
 Over: 7
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Slater
 Over: 7
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -122,6 +134,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Levick
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -132,6 +145,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Levick
 Over: 9
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -142,6 +156,7 @@ Run scored: 2
 Balls faced: 15
 Bowler: Turner
 Over: 8
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 1
 
@@ -152,6 +167,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Turner
 Over: 8
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -162,6 +178,7 @@ Run scored: 2
 Balls faced: 17
 Bowler: Levick
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -172,6 +189,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Levick
 Over: 9
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -182,6 +200,7 @@ Run scored: 2
 Balls faced: 19
 Bowler: Turner
 Over: 11
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -192,6 +211,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Turner
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Levick
 Over: 12
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -212,6 +233,7 @@ Run scored: 1
 Balls faced: 22
 Bowler: Levick
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -222,6 +244,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Turner
 Over: 11
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -232,6 +255,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: Turner
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -242,6 +266,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Fraser
 Over: 13
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -252,6 +277,7 @@ Run scored: 1
 Balls faced: 26
 Bowler: Fraser
 Over: 13
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -262,6 +288,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Levick
 Over: 12
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -272,6 +299,7 @@ Run scored: 1
 Balls faced: 28
 Bowler: Levick
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -282,16 +310,20 @@ Run scored: 1
 Balls faced: 29
 Bowler: Levick
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Heap is OUT! stumped
+st †Heath b Levick
+Liberty Heap st †Heath b Levick 12 (16b 0x4 0x6 30m) SR: 75
 
 
 
 Balls faced: 30
 Bowler: Fraser
 Over: 13
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -302,6 +334,7 @@ Run scored: 1
 Balls faced: 31
 Bowler: Fraser
 Over: 13
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -312,5 +345,10 @@ Run scored: 0
 Balls faced: 32
 Bowler: Levick
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
+
+Heap is OUT! stumped
+st †Heath b Levick
+Liberty Heap st †Heath b Levick 12 (16b 0x4 0x6 30m) SR: 75

@@ -2,721 +2,797 @@ Match: all_games_1375837_1375848.json
 Balls faced: 1
 Bowler: Motie
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Two slips in"}]Two slips in
+Two slips in
 
-[{"type": "HTML", "html": "Length outside off, back-foot punch takes it to the right of point"}]Length outside off, back-foot punch takes it to the right of point
+Length outside off, back-foot punch takes it to the right of point
 
 
 Balls faced: 2
 Bowler: Thomas
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on fourth, worked to midwicket"}]Length on fourth, worked to midwicket
-[{"type": "HTML", "html": "Sai: \"Just as the Aussies were about to rebuild, Green's wicket just comes out of the blue and now Labuschagne's\""}]Sai: "Just as the Aussies were about to rebuild, Green's wicket just comes out of the blue and now Labuschagne's"
+Length on fourth, worked to midwicket
+Sai: "Just as the Aussies were about to rebuild, Green's wicket just comes out of the blue and now Labuschagne's"
 
 Balls faced: 3
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide on a length, lets it go"}]Wide on a length, lets it go
+Wide on a length, lets it go
 
 
 Balls faced: 4
 Bowler: Motie
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Two slips in"}]Two slips in
+Two slips in
 
-[{"type": "HTML", "html": "Length outside off, back-foot punch takes it to the right of point"}]Length outside off, back-foot punch takes it to the right of point
+Length outside off, back-foot punch takes it to the right of point
 
 
 Balls faced: 5
 Bowler: Motie
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Makes ample room and chops the length ball on middle to point"}]Makes ample room and chops the length ball on middle to point
-[{"type": "HTML", "html": "Caleb: \"5 wickets down and two guys who could easily slot into the top 4 for Australia and probably will in the next couple of years come in. Incredible depth in this lineup and these two are certainly good enough to bat 30 overs. \""}]Caleb: "5 wickets down and two guys who could easily slot into the top 4 for Australia and probably will in the next couple of years come in. Incredible depth in this lineup and these two are certainly good enough to bat 30 overs. "
+Makes ample room and chops the length ball on middle to point
+Caleb: "5 wickets down and two guys who could easily slot into the top 4 for Australia and probably will in the next couple of years come in. Incredible depth in this lineup and these two are certainly good enough to bat 30 overs. "
 
 Balls faced: 6
 Bowler: Motie
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full at the stumps, blocked to the bowler"}]Full at the stumps, blocked to the bowler
+Full at the stumps, blocked to the bowler
 
 
 Balls faced: 7
 Bowler: Motie
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on leg, 77ks, might've stuck in the pitch again. Defended in front, goes just below the sticker"}]Fullish ball on leg, 77ks, might've stuck in the pitch again. Defended in front, goes just below the sticker
-[{"type": "HTML", "html": "Phani: \"Why is a tacky surface a source if disappointment? Always 350 vs 350? Why not 180 vs 160?If we witness only 350  scores everytime, soon we will see a team full of batsmen who can roll their arm over to complete quota \""}]Phani: "Why is a tacky surface a source if disappointment? Always 350 vs 350? Why not 180 vs 160?If we witness only 350  scores everytime, soon we will see a team full of batsmen who can roll their arm over to complete quota "
+Fullish ball on leg, 77ks, might've stuck in the pitch again. Defended in front, goes just below the sticker
+Phani: "Why is a tacky surface a source if disappointment? Always 350 vs 350? Why not 180 vs 160?If we witness only 350  scores everytime, soon we will see a team full of batsmen who can roll their arm over to complete quota "
 
 Balls faced: 8
 Bowler: Motie
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tad short and just outside off, cut with the spin to deep point"}]Tad short and just outside off, cut with the spin to deep point
+Tad short and just outside off, cut with the spin to deep point
 
 
 Balls faced: 9
 Bowler: Thomas
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on fourth, worked to midwicket"}]Length on fourth, worked to midwicket
-[{"type": "HTML", "html": "Sai: \"Just as the Aussies were about to rebuild, Green's wicket just comes out of the blue and now Labuschagne's\""}]Sai: "Just as the Aussies were about to rebuild, Green's wicket just comes out of the blue and now Labuschagne's"
+Length on fourth, worked to midwicket
+Sai: "Just as the Aussies were about to rebuild, Green's wicket just comes out of the blue and now Labuschagne's"
 
 Balls faced: 10
 Bowler: Thomas
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide on a length, lets it go"}]Wide on a length, lets it go
+Wide on a length, lets it go
 
 
 Balls faced: 11
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length outside off, pushed to the off side. <strong>Thomas has overstepped</strong>, his heel landed on the crease - that was the first point of contact."}]Length outside off, pushed to the off side. <strong>Thomas has overstepped</strong>, his heel landed on the crease - that was the first point of contact.
+Length outside off, pushed to the off side. <strong>Thomas has overstepped</strong>, his heel landed on the crease - that was the first point of contact.
 
 No Balls: 1
 Balls faced: 12
 Bowler: Thomas
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Through the line, along the ground. Thomas pitches it up on fourth, 131ks, big backlift and the booming drive is played with the closing bat-face."}]Through the line, along the ground. Thomas pitches it up on fourth, 131ks, big backlift and the booming drive is played with the closing bat-face.
+Through the line, along the ground. Thomas pitches it up on fourth, 131ks, big backlift and the booming drive is played with the closing bat-face.
 
 
 Balls faced: 13
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Three-quarter length just outside off, defended to cover. Looked to come back in a bit"}]Three-quarter length just outside off, defended to cover. Looked to come back in a bit
+Three-quarter length just outside off, defended to cover. Looked to come back in a bit
 
 
 Balls faced: 14
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Cranks it over midwicket. Hardie stands tall and pulls the shortish ball at rib-height over the infield. No one in the deep"}]Cranks it over midwicket. Hardie stands tall and pulls the shortish ball at rib-height over the infield. No one in the deep
+Cranks it over midwicket. Hardie stands tall and pulls the shortish ball at rib-height over the infield. No one in the deep
 
 
 Balls faced: 15
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on seventh, left alone. Hardie standing just outside after going across"}]Length on seventh, left alone. Hardie standing just outside after going across
+Length on seventh, left alone. Hardie standing just outside after going across
 
 
 Balls faced: 16
 Bowler: Motie
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Makes ample room and chops the length ball on middle to point"}]Makes ample room and chops the length ball on middle to point
-[{"type": "HTML", "html": "Caleb: \"5 wickets down and two guys who could easily slot into the top 4 for Australia and probably will in the next couple of years come in. Incredible depth in this lineup and these two are certainly good enough to bat 30 overs. \""}]Caleb: "5 wickets down and two guys who could easily slot into the top 4 for Australia and probably will in the next couple of years come in. Incredible depth in this lineup and these two are certainly good enough to bat 30 overs. "
+Makes ample room and chops the length ball on middle to point
+Caleb: "5 wickets down and two guys who could easily slot into the top 4 for Australia and probably will in the next couple of years come in. Incredible depth in this lineup and these two are certainly good enough to bat 30 overs. "
 
 Balls faced: 17
 Bowler: Motie
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full at the stumps, blocked to the bowler"}]Full at the stumps, blocked to the bowler
+Full at the stumps, blocked to the bowler
 
 
 Balls faced: 18
 Bowler: Motie
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on leg, 77ks, might've stuck in the pitch again. Defended in front, goes just below the sticker"}]Fullish ball on leg, 77ks, might've stuck in the pitch again. Defended in front, goes just below the sticker
-[{"type": "HTML", "html": "Phani: \"Why is a tacky surface a source if disappointment? Always 350 vs 350? Why not 180 vs 160?If we witness only 350  scores everytime, soon we will see a team full of batsmen who can roll their arm over to complete quota \""}]Phani: "Why is a tacky surface a source if disappointment? Always 350 vs 350? Why not 180 vs 160?If we witness only 350  scores everytime, soon we will see a team full of batsmen who can roll their arm over to complete quota "
+Fullish ball on leg, 77ks, might've stuck in the pitch again. Defended in front, goes just below the sticker
+Phani: "Why is a tacky surface a source if disappointment? Always 350 vs 350? Why not 180 vs 160?If we witness only 350  scores everytime, soon we will see a team full of batsmen who can roll their arm over to complete quota "
 
 Balls faced: 19
 Bowler: Motie
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tad short and just outside off, cut with the spin to deep point"}]Tad short and just outside off, cut with the spin to deep point
+Tad short and just outside off, cut with the spin to deep point
 
 
 Balls faced: 20
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Makes room early, Motie stays at the stumps. It's full on middle, driven to cover"}]Makes room early, Motie stays at the stumps. It's full on middle, driven to cover
+Makes room early, Motie stays at the stumps. It's full on middle, driven to cover
 
 
 Balls faced: 21
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full around off, blocked to the bowler"}]Full around off, blocked to the bowler
+Full around off, blocked to the bowler
 
 
 Balls faced: 22
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length outside off, pushed to the off side. <strong>Thomas has overstepped</strong>, his heel landed on the crease - that was the first point of contact."}]Length outside off, pushed to the off side. <strong>Thomas has overstepped</strong>, his heel landed on the crease - that was the first point of contact.
+Length outside off, pushed to the off side. <strong>Thomas has overstepped</strong>, his heel landed on the crease - that was the first point of contact.
 
 No Balls: 1
 Balls faced: 23
 Bowler: Thomas
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Through the line, along the ground. Thomas pitches it up on fourth, 131ks, big backlift and the booming drive is played with the closing bat-face."}]Through the line, along the ground. Thomas pitches it up on fourth, 131ks, big backlift and the booming drive is played with the closing bat-face.
+Through the line, along the ground. Thomas pitches it up on fourth, 131ks, big backlift and the booming drive is played with the closing bat-face.
 
 
 Balls faced: 24
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Three-quarter length just outside off, defended to cover. Looked to come back in a bit"}]Three-quarter length just outside off, defended to cover. Looked to come back in a bit
+Three-quarter length just outside off, defended to cover. Looked to come back in a bit
 
 
 Balls faced: 25
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Cranks it over midwicket. Hardie stands tall and pulls the shortish ball at rib-height over the infield. No one in the deep"}]Cranks it over midwicket. Hardie stands tall and pulls the shortish ball at rib-height over the infield. No one in the deep
+Cranks it over midwicket. Hardie stands tall and pulls the shortish ball at rib-height over the infield. No one in the deep
 
 
 Balls faced: 26
 Bowler: Thomas
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on seventh, left alone. Hardie standing just outside after going across"}]Length on seventh, left alone. Hardie standing just outside after going across
+Length on seventh, left alone. Hardie standing just outside after going across
 
 
 Balls faced: 27
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, defended to the right of the bowler"}]Length on off, defended to the right of the bowler
+Length on off, defended to the right of the bowler
 
 
 Balls faced: 28
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bumper outside off, Hardie sways his bat leg side and swerves his upper body to let it pass"}]Bumper outside off, Hardie sways his bat leg side and swerves his upper body to let it pass
+Bumper outside off, Hardie sways his bat leg side and swerves his upper body to let it pass
 
 
 Balls faced: 29
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Alzarri returns"}]Alzarri returns
+Alzarri returns
 
-[{"type": "HTML", "html": "Tad back of length outside off, 130ks, guided to deep third"}]Tad back of length outside off, 130ks, guided to deep third
+Tad back of length outside off, 130ks, guided to deep third
 
 
 Balls faced: 30
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Makes room early, Motie stays at the stumps. It's full on middle, driven to cover"}]Makes room early, Motie stays at the stumps. It's full on middle, driven to cover
+Makes room early, Motie stays at the stumps. It's full on middle, driven to cover
 
 
 Balls faced: 31
 Bowler: Motie
 Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full around off, blocked to the bowler"}]Full around off, blocked to the bowler
+Full around off, blocked to the bowler
 
 
 Balls faced: 32
 Bowler: Motie
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle, 78ks, giiven a lot of air, driven to long-off"}]Full on middle, 78ks, giiven a lot of air, driven to long-off
-[{"type": "HTML", "html": "Ump has a chat with the Hope, the captain. Adam Gilchrist suspects it might be about fielders throwing the ball into the rough"}]Ump has a chat with the Hope, the captain. Adam Gilchrist suspects it might be about fielders throwing the ball into the rough
+Full on middle, 78ks, giiven a lot of air, driven to long-off
+Ump has a chat with the Hope, the captain. Adam Gilchrist suspects it might be about fielders throwing the ball into the rough
 
 Balls faced: 33
 Bowler: Motie
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on leg, nudged to midwicket"}]Fullish ball on leg, nudged to midwicket
+Fullish ball on leg, nudged to midwicket
 
 
 Balls faced: 34
 Bowler: Motie
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tad short and wide, Hardie backs away while cutting. Good stop at cover, Greaves leaps to the left and reaches out to stop it"}]Tad short and wide, Hardie backs away while cutting. Good stop at cover, Greaves leaps to the left and reaches out to stop it
+Tad short and wide, Hardie backs away while cutting. Good stop at cover, Greaves leaps to the left and reaches out to stop it
 
 
 Balls faced: 35
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on off, defended to the right of the bowler"}]Length on off, defended to the right of the bowler
+Length on off, defended to the right of the bowler
 
 
 Balls faced: 36
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Bumper outside off, Hardie sways his bat leg side and swerves his upper body to let it pass"}]Bumper outside off, Hardie sways his bat leg side and swerves his upper body to let it pass
+Bumper outside off, Hardie sways his bat leg side and swerves his upper body to let it pass
 
 
 Balls faced: 37
 Bowler: Alzarri Joseph
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Alzarri returns"}]Alzarri returns
+Alzarri returns
 
-[{"type": "HTML", "html": "Tad back of length outside off, 130ks, guided to deep third"}]Tad back of length outside off, 130ks, guided to deep third
+Tad back of length outside off, 130ks, guided to deep third
 
 
 Balls faced: 38
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Wide and full, driven to deep cover"}]Wide and full, driven to deep cover
+Wide and full, driven to deep cover
 
 
 Balls faced: 39
 Bowler: Motie
 Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on middle, 78ks, giiven a lot of air, driven to long-off"}]Full on middle, 78ks, giiven a lot of air, driven to long-off
-[{"type": "HTML", "html": "Ump has a chat with the Hope, the captain. Adam Gilchrist suspects it might be about fielders throwing the ball into the rough"}]Ump has a chat with the Hope, the captain. Adam Gilchrist suspects it might be about fielders throwing the ball into the rough
+Full on middle, 78ks, giiven a lot of air, driven to long-off
+Ump has a chat with the Hope, the captain. Adam Gilchrist suspects it might be about fielders throwing the ball into the rough
 
 Balls faced: 40
 Bowler: Motie
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on leg, nudged to midwicket"}]Fullish ball on leg, nudged to midwicket
+Fullish ball on leg, nudged to midwicket
 
 
 Balls faced: 41
 Bowler: Motie
 Over: 23
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tad short and wide, Hardie backs away while cutting. Good stop at cover, Greaves leaps to the left and reaches out to stop it"}]Tad short and wide, Hardie backs away while cutting. Good stop at cover, Greaves leaps to the left and reaches out to stop it
+Tad short and wide, Hardie backs away while cutting. Good stop at cover, Greaves leaps to the left and reaches out to stop it
 
 
 Balls faced: 42
 Bowler: Motie
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on leg, worked to long-on"}]Full on leg, worked to long-on
+Full on leg, worked to long-on
 
 
 Balls faced: 43
 Bowler: Motie
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full around middle, Hardie drives it to long-off"}]Full around middle, Hardie drives it to long-off
+Full around middle, Hardie drives it to long-off
 
 
 Balls faced: 44
 Bowler: Alzarri Joseph
 Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Wide and full, driven to deep cover"}]Wide and full, driven to deep cover
+Wide and full, driven to deep cover
 
 
 Balls faced: 45
 Bowler: Chase
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Cuts the wide length ball through point. Carty has to pick that up from the bounday"}]Cuts the wide length ball through point. Carty has to pick that up from the bounday
-[{"type": "HTML", "html": "Chase is unlucky, he got turn and bounce despite bowling slow and should've struck this over"}]Chase is unlucky, he got turn and bounce despite bowling slow and should've struck this over
+Cuts the wide length ball through point. Carty has to pick that up from the bounday
+Chase is unlucky, he got turn and bounce despite bowling slow and should've struck this over
 
 Balls faced: 46
 Bowler: Chase
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Carty tries to take the catch with his right hand and fumbles it</strong>. He was backtracking and was off-balance, the upper body collapsed and the ball popped out. Was a length ball around off, Hardie spooned the reverse sweep that went flat and just above head-height"}]<strong>Carty tries to take the catch with his right hand and fumbles it</strong>. He was backtracking and was off-balance, the upper body collapsed and the ball popped out. Was a length ball around off, Hardie spooned the reverse sweep that went flat and just above head-height
+<strong>Carty tries to take the catch with his right hand and fumbles it</strong>. He was backtracking and was off-balance, the upper body collapsed and the ball popped out. Was a length ball around off, Hardie spooned the reverse sweep that went flat and just above head-height
 
 
 Balls faced: 47
 Bowler: Chase
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball lands wide outside off, spins back in and is patted off the back foot to the off sie"}]Length ball lands wide outside off, spins back in and is patted off the back foot to the off sie
+Length ball lands wide outside off, spins back in and is patted off the back foot to the off sie
 
 
 Balls faced: 48
 Bowler: Motie
 Over: 25
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on leg, worked to long-on"}]Full on leg, worked to long-on
+Full on leg, worked to long-on
 
 
 Balls faced: 49
 Bowler: Motie
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full around middle, Hardie drives it to long-off"}]Full around middle, Hardie drives it to long-off
+Full around middle, Hardie drives it to long-off
 
 
 Balls faced: 50
 Bowler: Motie
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide length ball is slow and spins away sharply, cut to cover"}]Wide length ball is slow and spins away sharply, cut to cover
-[{"type": "HTML", "html": "Sai: \"Do not bowl short to Matt Short :)\""}]Sai: "Do not bowl short to Matt Short :)"
+Wide length ball is slow and spins away sharply, cut to cover
+Sai: "Do not bowl short to Matt Short :)"
 
 Balls faced: 51
 Bowler: Motie
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on fifth, says 79ks but looked faster, punched to cover"}]Length on fifth, says 79ks but looked faster, punched to cover
+Length on fifth, says 79ks but looked faster, punched to cover
 
 
 Balls faced: 52
 Bowler: Motie
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on fifth, pushed to cover"}]Fullish ball on fifth, pushed to cover
+Fullish ball on fifth, pushed to cover
 
 
 Balls faced: 53
 Bowler: Motie
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Goes across and paddles the full ball towards deep fine leg"}]Goes across and paddles the full ball towards deep fine leg
+Goes across and paddles the full ball towards deep fine leg
 
 
 Balls faced: 54
 Bowler: Motie
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off, pushed to the bowler"}]Full on off, pushed to the bowler
+Full on off, pushed to the bowler
 
 
 Balls faced: 55
 Bowler: Chase
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Cuts the wide length ball through point. Carty has to pick that up from the bounday"}]Cuts the wide length ball through point. Carty has to pick that up from the bounday
-[{"type": "HTML", "html": "Chase is unlucky, he got turn and bounce despite bowling slow and should've struck this over"}]Chase is unlucky, he got turn and bounce despite bowling slow and should've struck this over
+Cuts the wide length ball through point. Carty has to pick that up from the bounday
+Chase is unlucky, he got turn and bounce despite bowling slow and should've struck this over
 
 Balls faced: 56
 Bowler: Chase
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: REVERSE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Carty tries to take the catch with his right hand and fumbles it</strong>. He was backtracking and was off-balance, the upper body collapsed and the ball popped out. Was a length ball around off, Hardie spooned the reverse sweep that went flat and just above head-height"}]<strong>Carty tries to take the catch with his right hand and fumbles it</strong>. He was backtracking and was off-balance, the upper body collapsed and the ball popped out. Was a length ball around off, Hardie spooned the reverse sweep that went flat and just above head-height
+<strong>Carty tries to take the catch with his right hand and fumbles it</strong>. He was backtracking and was off-balance, the upper body collapsed and the ball popped out. Was a length ball around off, Hardie spooned the reverse sweep that went flat and just above head-height
 
 
 Balls faced: 57
 Bowler: Chase
 Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball lands wide outside off, spins back in and is patted off the back foot to the off sie"}]Length ball lands wide outside off, spins back in and is patted off the back foot to the off sie
+Length ball lands wide outside off, spins back in and is patted off the back foot to the off sie
 
 
 Balls faced: 58
 Bowler: Chase
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on leg, clipped to midwicket"}]Full on leg, clipped to midwicket
+Full on leg, clipped to midwicket
 
 
 Balls faced: 59
 Bowler: Chase
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball spins to top of off from outside off, cut to point"}]Shortish ball spins to top of off from outside off, cut to point
+Shortish ball spins to top of off from outside off, cut to point
 
 
 Balls faced: 60
 Bowler: Chase
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Chops the wide length ball to point"}]Chops the wide length ball to point
+Chops the wide length ball to point
 
 
 Balls faced: 61
 Bowler: Chase
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball spins back big and beats the pull, hits high on the pad"}]Shortish ball spins back big and beats the pull, hits high on the pad
+Shortish ball spins back big and beats the pull, hits high on the pad
 
 
 Balls faced: 62
 Bowler: Motie
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide length ball is slow and spins away sharply, cut to cover"}]Wide length ball is slow and spins away sharply, cut to cover
-[{"type": "HTML", "html": "Sai: \"Do not bowl short to Matt Short :)\""}]Sai: "Do not bowl short to Matt Short :)"
+Wide length ball is slow and spins away sharply, cut to cover
+Sai: "Do not bowl short to Matt Short :)"
 
 Balls faced: 63
 Bowler: Motie
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on fifth, says 79ks but looked faster, punched to cover"}]Length on fifth, says 79ks but looked faster, punched to cover
+Length on fifth, says 79ks but looked faster, punched to cover
 
 
 Balls faced: 64
 Bowler: Motie
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish ball on fifth, pushed to cover"}]Fullish ball on fifth, pushed to cover
+Fullish ball on fifth, pushed to cover
 
 
 Balls faced: 65
 Bowler: Motie
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Goes across and paddles the full ball towards deep fine leg"}]Goes across and paddles the full ball towards deep fine leg
+Goes across and paddles the full ball towards deep fine leg
 
 
 Balls faced: 66
 Bowler: Motie
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on off, pushed to the bowler"}]Full on off, pushed to the bowler
+Full on off, pushed to the bowler
 
 
 Balls faced: 67
 Bowler: Motie
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Top edges a pull from deep in the crease and Forde takes it at long-on. This was on a length just outside off, Hardie got square-on and signalled right after miscuing that he wanted to go over midwicket. The ball was skied and Forde ran in to take it. he ball spun away a bit, 96ks."}]Top edges a pull from deep in the crease and Forde takes it at long-on. This was on a length just outside off, Hardie got square-on and signalled right after miscuing that he wanted to go over midwicket. The ball was skied and Forde ran in to take it. he ball spun away a bit, 96ks.
+Hardie is OUT! caught
+c Forde b Motie
+Aaron Hardie c Forde b Motie 26 (36b 3x4 0x6 41m) SR: 72.22
+Top edges a pull from deep in the crease and Forde takes it at long-on. This was on a length just outside off, Hardie got square-on and signalled right after miscuing that he wanted to go over midwicket. The ball was skied and Forde ran in to take it. he ball spun away a bit, 96ks.
 
 
 Balls faced: 68
 Bowler: Chase
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full on leg, clipped to midwicket"}]Full on leg, clipped to midwicket
+Full on leg, clipped to midwicket
 
 
 Balls faced: 69
 Bowler: Chase
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball spins to top of off from outside off, cut to point"}]Shortish ball spins to top of off from outside off, cut to point
+Shortish ball spins to top of off from outside off, cut to point
 
 
 Balls faced: 70
 Bowler: Chase
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Chops the wide length ball to point"}]Chops the wide length ball to point
+Chops the wide length ball to point
 
 
 Balls faced: 71
 Bowler: Chase
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortish ball spins back big and beats the pull, hits high on the pad"}]Shortish ball spins back big and beats the pull, hits high on the pad
+Shortish ball spins back big and beats the pull, hits high on the pad
 
 
 Balls faced: 72
 Bowler: Motie
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Top edges a pull from deep in the crease and Forde takes it at long-on. This was on a length just outside off, Hardie got square-on and signalled right after miscuing that he wanted to go over midwicket. The ball was skied and Forde ran in to take it. he ball spun away a bit, 96ks."}]Top edges a pull from deep in the crease and Forde takes it at long-on. This was on a length just outside off, Hardie got square-on and signalled right after miscuing that he wanted to go over midwicket. The ball was skied and Forde ran in to take it. he ball spun away a bit, 96ks.
+Hardie is OUT! caught
+c Forde b Motie
+Aaron Hardie c Forde b Motie 26 (36b 3x4 0x6 41m) SR: 72.22
+Top edges a pull from deep in the crease and Forde takes it at long-on. This was on a length just outside off, Hardie got square-on and signalled right after miscuing that he wanted to go over midwicket. The ball was skied and Forde ran in to take it. he ball spun away a bit, 96ks.
 
 
 
@@ -724,121 +800,137 @@ Match: all_games_1375837_1375849.json
 Balls faced: 1
 Bowler: Alzarri Joseph
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, over middle, he ducks under it"}]bouncer, over middle, he ducks under it
+bouncer, over middle, he ducks under it
 
 
 Balls faced: 2
 Bowler: Alzarri Joseph
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "147kph, good length, angled into leg, he glances to fine leg"}]147kph, good length, angled into leg, he glances to fine leg
-[{"type": "HTML", "html": "Raj: \"They should play another T20 after this to constitute a full ODI match for the spectators to get their money worth :-P\""}]Raj: "They should play another T20 after this to constitute a full ODI match for the spectators to get their money worth :-P"
+147kph, good length, angled into leg, he glances to fine leg
+Raj: "They should play another T20 after this to constitute a full ODI match for the spectators to get their money worth :-P"
 
 Balls faced: 3
 Bowler: Alzarri Joseph
 Over: 5
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Aaron Hardie at No.3 for the first time"}]Aaron Hardie at No.3 for the first time
+Aaron Hardie at No.3 for the first time
 
-[{"type": "HTML", "html": "bouncer, down leg, 146kph, and rightly called wide"}]bouncer, down leg, 146kph, and rightly called wide
-[{"type": "HTML", "html": "Daniel: \"My eight-year-old just said \"Jake Fraser-Berserk\". That'll stick. \""}]Daniel: "My eight-year-old just said "Jake Fraser-Berserk". That'll stick. "
+bouncer, down leg, 146kph, and rightly called wide
+Daniel: "My eight-year-old just said "Jake Fraser-Berserk". That'll stick. "
 Wide: 1
 Balls faced: 4
 Bowler: Motie
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "83kph, drifting into leg, he whips this with ease to deep midwicket"}]83kph, drifting into leg, he whips this with ease to deep midwicket
+83kph, drifting into leg, he whips this with ease to deep midwicket
 
 
 Balls faced: 5
 Bowler: Alzarri Joseph
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, over middle, he ducks under it"}]bouncer, over middle, he ducks under it
+bouncer, over middle, he ducks under it
 
 
 Balls faced: 6
 Bowler: Alzarri Joseph
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "147kph, good length, angled into leg, he glances to fine leg"}]147kph, good length, angled into leg, he glances to fine leg
-[{"type": "HTML", "html": "Raj: \"They should play another T20 after this to constitute a full ODI match for the spectators to get their money worth :-P\""}]Raj: "They should play another T20 after this to constitute a full ODI match for the spectators to get their money worth :-P"
+147kph, good length, angled into leg, he glances to fine leg
+Raj: "They should play another T20 after this to constitute a full ODI match for the spectators to get their money worth :-P"
 
 Balls faced: 7
 Bowler: Alzarri Joseph
 Over: 5
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Aaron Hardie at No.3 for the first time"}]Aaron Hardie at No.3 for the first time
+Aaron Hardie at No.3 for the first time
 
-[{"type": "HTML", "html": "bouncer, down leg, 146kph, and rightly called wide"}]bouncer, down leg, 146kph, and rightly called wide
-[{"type": "HTML", "html": "Daniel: \"My eight-year-old just said \"Jake Fraser-Berserk\". That'll stick. \""}]Daniel: "My eight-year-old just said "Jake Fraser-Berserk". That'll stick. "
+bouncer, down leg, 146kph, and rightly called wide
+Daniel: "My eight-year-old just said "Jake Fraser-Berserk". That'll stick. "
 Wide: 1
 Balls faced: 8
 Bowler: Thomas
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>caught behind!</strong> A cracking delivery. 134kph, good length, angled towards off and it seams away to scratch the edge. That came from nowhere"}]<strong>caught behind!</strong> A cracking delivery. 134kph, good length, angled towards off and it seams away to scratch the edge. That came from nowhere
+Hardie is OUT! caught
+c †Hope b Thomas
+Aaron Hardie c †Hope b Thomas 2 (5b 0x4 0x6 7m) SR: 40
+<strong>caught behind!</strong> A cracking delivery. 134kph, good length, angled towards off and it seams away to scratch the edge. That came from nowhere
 
 
 Balls faced: 9
 Bowler: Thomas
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Oshane Thomas on"}]Oshane Thomas on
+Oshane Thomas on
 
-[{"type": "HTML", "html": "138kph, good length, angled into off, he gets a thick inside edge that drops down behind him but wide of leg"}]138kph, good length, angled into off, he gets a thick inside edge that drops down behind him but wide of leg
+138kph, good length, angled into off, he gets a thick inside edge that drops down behind him but wide of leg
 
 
 Balls faced: 10
 Bowler: Motie
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "83kph, drifting into leg, he whips this with ease to deep midwicket"}]83kph, drifting into leg, he whips this with ease to deep midwicket
+83kph, drifting into leg, he whips this with ease to deep midwicket
 
 
 Balls faced: 11
 Bowler: Thomas
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>caught behind!</strong> A cracking delivery. 134kph, good length, angled towards off and it seams away to scratch the edge. That came from nowhere"}]<strong>caught behind!</strong> A cracking delivery. 134kph, good length, angled towards off and it seams away to scratch the edge. That came from nowhere
+Hardie is OUT! caught
+c †Hope b Thomas
+Aaron Hardie c †Hope b Thomas 2 (5b 0x4 0x6 7m) SR: 40
+<strong>caught behind!</strong> A cracking delivery. 134kph, good length, angled towards off and it seams away to scratch the edge. That came from nowhere
 
 
 Balls faced: 12
 Bowler: Thomas
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Oshane Thomas on"}]Oshane Thomas on
+Oshane Thomas on
 
-[{"type": "HTML", "html": "138kph, good length, angled into off, he gets a thick inside edge that drops down behind him but wide of leg"}]138kph, good length, angled into off, he gets a thick inside edge that drops down behind him but wide of leg
+138kph, good length, angled into off, he gets a thick inside edge that drops down behind him but wide of leg
 
 
 
@@ -846,319 +938,355 @@ Match: all_games_1375837_1375852.json
 Balls faced: 1
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Hardie at No.3"}]Hardie at No.3
+Hardie at No.3
 
-[{"type": "HTML", "html": "90kph, good length wide of off, he premeditates the paddle scoop and flicks it to fine leg who is back"}]90kph, good length wide of off, he premeditates the paddle scoop and flicks it to fine leg who is back
+90kph, good length wide of off, he premeditates the paddle scoop and flicks it to fine leg who is back
 
 
 Balls faced: 2
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hardie steps outside leg early, Chase fires at leg, he defends on the front foot"}]Hardie steps outside leg early, Chase fires at leg, he defends on the front foot
+Hardie steps outside leg early, Chase fires at leg, he defends on the front foot
 
 
 Balls faced: 3
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, he drives to long-on"}]full on middle, he drives to long-on
+full on middle, he drives to long-on
 
 
 Balls faced: 4
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "89kph, shorter on middle, he's back to work it to midwicket but can't beat the man"}]89kph, shorter on middle, he's back to work it to midwicket but can't beat the man
+89kph, shorter on middle, he's back to work it to midwicket but can't beat the man
 
 
 Balls faced: 5
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>paddle pull wide of short fine!</strong> Bad ball. Short down leg, he's down on one knee to pull with ease"}]<strong>paddle pull wide of short fine!</strong> Bad ball. Short down leg, he's down on one knee to pull with ease
+<strong>paddle pull wide of short fine!</strong> Bad ball. Short down leg, he's down on one knee to pull with ease
 
 
 Balls faced: 6
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Hardie at No.3"}]Hardie at No.3
+Hardie at No.3
 
-[{"type": "HTML", "html": "90kph, good length wide of off, he premeditates the paddle scoop and flicks it to fine leg who is back"}]90kph, good length wide of off, he premeditates the paddle scoop and flicks it to fine leg who is back
+90kph, good length wide of off, he premeditates the paddle scoop and flicks it to fine leg who is back
 
 
 Balls faced: 7
 Bowler: Hosein
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "94kph, good length, sliding into middle, he's back to work to deep midwicket"}]94kph, good length, sliding into middle, he's back to work to deep midwicket
+94kph, good length, sliding into middle, he's back to work to deep midwicket
 
 
 Balls faced: 8
 Bowler: Hosein
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "92kph, shorter outside off, he pulls to deep midwicket"}]92kph, shorter outside off, he pulls to deep midwicket
+92kph, shorter outside off, he pulls to deep midwicket
 
 
 Balls faced: 9
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hardie steps outside leg early, Chase fires at leg, he defends on the front foot"}]Hardie steps outside leg early, Chase fires at leg, he defends on the front foot
+Hardie steps outside leg early, Chase fires at leg, he defends on the front foot
 
 
 Balls faced: 10
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, he drives to long-on"}]full on middle, he drives to long-on
+full on middle, he drives to long-on
 
 
 Balls faced: 11
 Bowler: Chase
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "89kph, shorter on middle, he's back to work it to midwicket but can't beat the man"}]89kph, shorter on middle, he's back to work it to midwicket but can't beat the man
+89kph, shorter on middle, he's back to work it to midwicket but can't beat the man
 
 
 Balls faced: 12
 Bowler: Chase
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>paddle pull wide of short fine!</strong> Bad ball. Short down leg, he's down on one knee to pull with ease"}]<strong>paddle pull wide of short fine!</strong> Bad ball. Short down leg, he's down on one knee to pull with ease
+<strong>paddle pull wide of short fine!</strong> Bad ball. Short down leg, he's down on one knee to pull with ease
 
 
 Balls faced: 13
 Bowler: Chase
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "93kph, darted into leg, he swings this away to deep square"}]93kph, darted into leg, he swings this away to deep square
+93kph, darted into leg, he swings this away to deep square
 
 
 Balls faced: 14
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "108kph, flatter, fourth stump, he pulls with power to deep midwicket"}]108kph, flatter, fourth stump, he pulls with power to deep midwicket
+108kph, flatter, fourth stump, he pulls with power to deep midwicket
 
 
 Balls faced: 15
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "darted into leg, 94kph, he skips down and works it to midwicket"}]darted into leg, 94kph, he skips down and works it to midwicket
+darted into leg, 94kph, he skips down and works it to midwicket
 
 
 Balls faced: 16
 Bowler: Hosein
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "94kph, good length, sliding into middle, he's back to work to deep midwicket"}]94kph, good length, sliding into middle, he's back to work to deep midwicket
+94kph, good length, sliding into middle, he's back to work to deep midwicket
 
 
 Balls faced: 17
 Bowler: Hosein
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "92kph, shorter outside off, he pulls to deep midwicket"}]92kph, shorter outside off, he pulls to deep midwicket
+92kph, shorter outside off, he pulls to deep midwicket
 
 
 Balls faced: 18
 Bowler: Hosein
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "similar shot, goes backward of square this time"}]similar shot, goes backward of square this time
+similar shot, goes backward of square this time
 
 
 Balls faced: 19
 Bowler: Hosein
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
-[{"type": "HTML", "html": "Thanks Alex. Could be a good finish"}]Thanks Alex. Could be a good finish
+Thanks Alex. Could be a good finish
 
-[{"type": "HTML", "html": "goes down on the back knee and slog sweeps, places it perfectly between deep midwicket and deep square"}]goes down on the back knee and slog sweeps, places it perfectly between deep midwicket and deep square
+goes down on the back knee and slog sweeps, places it perfectly between deep midwicket and deep square
 
 
 Balls faced: 20
 Bowler: Chase
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "93kph, darted into leg, he swings this away to deep square"}]93kph, darted into leg, he swings this away to deep square
+93kph, darted into leg, he swings this away to deep square
 
 
 Balls faced: 21
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "108kph, flatter, fourth stump, he pulls with power to deep midwicket"}]108kph, flatter, fourth stump, he pulls with power to deep midwicket
+108kph, flatter, fourth stump, he pulls with power to deep midwicket
 
 
 Balls faced: 22
 Bowler: Chase
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "darted into leg, 94kph, he skips down and works it to midwicket"}]darted into leg, 94kph, he skips down and works it to midwicket
+darted into leg, 94kph, he skips down and works it to midwicket
 
 
 Balls faced: 23
 Bowler: Chase
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drives with an open face and finds short third. That's a superb over"}]drives with an open face and finds short third. That's a superb over
+drives with an open face and finds short third. That's a superb over
 
 
 Balls faced: 24
 Bowler: Chase
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "attempts the reverse, can only find short third"}]attempts the reverse, can only find short third
+attempts the reverse, can only find short third
 
 
 Balls faced: 25
 Bowler: Chase
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "106kph, really pushed through, can only play it back to the bowler"}]106kph, really pushed through, can only play it back to the bowler
+106kph, really pushed through, can only play it back to the bowler
 
 
 Balls faced: 26
 Bowler: Hosein
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "similar shot, goes backward of square this time"}]similar shot, goes backward of square this time
+similar shot, goes backward of square this time
 
 
 Balls faced: 27
 Bowler: Hosein
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
-[{"type": "HTML", "html": "Thanks Alex. Could be a good finish"}]Thanks Alex. Could be a good finish
+Thanks Alex. Could be a good finish
 
-[{"type": "HTML", "html": "goes down on the back knee and slog sweeps, places it perfectly between deep midwicket and deep square"}]goes down on the back knee and slog sweeps, places it perfectly between deep midwicket and deep square
+goes down on the back knee and slog sweeps, places it perfectly between deep midwicket and deep square
 
 
 Balls faced: 28
 Bowler: Shepherd
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: STEERED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>got him! </b> Full outside off, takes an inside edge as he drags it into the stumps. A difficult stay for Hardie. West Indies earned that"}]<b>got him! </b> Full outside off, takes an inside edge as he drags it into the stumps. A difficult stay for Hardie. West Indies earned that
-[{"type": "HTML", "html": "Inglis at No. 4 ahead of Maxwell. Interesting move. MW: \"Both teams scored 3 runs in the 12th over. Random stat I know, but quite bizarre in such a high scoring match.\""}]Inglis at No. 4 ahead of Maxwell. Interesting move. MW: "Both teams scored 3 runs in the 12th over. Random stat I know, but quite bizarre in such a high scoring match."
+Hardie is OUT! bowled
+ b Shepherd
+Aaron Hardie b Shepherd 16 (16b 2x4 0x6 24m) SR: 100
+<b>got him! </b> Full outside off, takes an inside edge as he drags it into the stumps. A difficult stay for Hardie. West Indies earned that
+Inglis at No. 4 ahead of Maxwell. Interesting move. MW: "Both teams scored 3 runs in the 12th over. Random stat I know, but quite bizarre in such a high scoring match."
 
 Balls faced: 29
 Bowler: Chase
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drives with an open face and finds short third. That's a superb over"}]drives with an open face and finds short third. That's a superb over
+drives with an open face and finds short third. That's a superb over
 
 
 Balls faced: 30
 Bowler: Chase
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "attempts the reverse, can only find short third"}]attempts the reverse, can only find short third
+attempts the reverse, can only find short third
 
 
 Balls faced: 31
 Bowler: Chase
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "106kph, really pushed through, can only play it back to the bowler"}]106kph, really pushed through, can only play it back to the bowler
+106kph, really pushed through, can only play it back to the bowler
 
 
 Balls faced: 32
 Bowler: Shepherd
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: STEERED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>got him! </b> Full outside off, takes an inside edge as he drags it into the stumps. A difficult stay for Hardie. West Indies earned that"}]<b>got him! </b> Full outside off, takes an inside edge as he drags it into the stumps. A difficult stay for Hardie. West Indies earned that
-[{"type": "HTML", "html": "Inglis at No. 4 ahead of Maxwell. Interesting move. MW: \"Both teams scored 3 runs in the 12th over. Random stat I know, but quite bizarre in such a high scoring match.\""}]Inglis at No. 4 ahead of Maxwell. Interesting move. MW: "Both teams scored 3 runs in the 12th over. Random stat I know, but quite bizarre in such a high scoring match."
+Hardie is OUT! bowled
+ b Shepherd
+Aaron Hardie b Shepherd 16 (16b 2x4 0x6 24m) SR: 100
+<b>got him! </b> Full outside off, takes an inside edge as he drags it into the stumps. A difficult stay for Hardie. West Indies earned that
+Inglis at No. 4 ahead of Maxwell. Interesting move. MW: "Both teams scored 3 runs in the 12th over. Random stat I know, but quite bizarre in such a high scoring match."

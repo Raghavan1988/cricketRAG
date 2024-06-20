@@ -2,6 +2,7 @@ Match: all_games_1410505_1410545.json
 Balls faced: 1
 Bowler: Fraser
 Over: 13
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Fraser
 Over: 13
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -24,6 +26,7 @@ Match: all_games_1410505_1410546.json
 Balls faced: 1
 Bowler: Davis
 Over: 17
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -34,6 +37,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Davis
 Over: 17
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -44,6 +48,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Davis
 Over: 17
+ 
 Shot: SWEEP
 Run scored: 2
 
@@ -54,6 +59,7 @@ Run scored: 2
 Balls faced: 4
 Bowler: Davis
 Over: 17
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -64,6 +70,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Davis
 Over: 17
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -74,16 +81,20 @@ Run scored: 0
 Balls faced: 6
 Bowler: Pavely
 Over: 18
+ 
 Shot: DROP_AND_RUN
 Run scored: 0
 
-
+Graham is OUT! bowled
+ b Pavely
+Heather Graham b Pavely 3 (6b 0x4 0x6 6m) SR: 50
 
 
 
 Balls faced: 7
 Bowler: Davis
 Over: 17
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -94,6 +105,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Davis
 Over: 17
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -104,6 +116,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Davis
 Over: 17
+ 
 Shot: SWEEP
 Run scored: 2
 
@@ -114,6 +127,7 @@ Run scored: 2
 Balls faced: 10
 Bowler: Davis
 Over: 17
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -124,6 +138,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Davis
 Over: 17
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -134,5 +149,10 @@ Run scored: 0
 Balls faced: 12
 Bowler: Pavely
 Over: 18
+ 
 Shot: DROP_AND_RUN
 Run scored: 0
+
+Graham is OUT! bowled
+ b Pavely
+Heather Graham b Pavely 3 (6b 0x4 0x6 6m) SR: 50

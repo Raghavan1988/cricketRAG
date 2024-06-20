@@ -2,41 +2,49 @@ Match: all_games_1411166_1415704.json
 Balls faced: 1
 Bowler: Nortje
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Captain Hasaranga is out there trying to get some adrenaline into this innings."}]Captain Hasaranga is out there trying to get some adrenaline into this innings.
+Captain Hasaranga is out there trying to get some adrenaline into this innings.
 
-[{"type": "HTML", "html": "short ball just outside off, fended defensively towards point, on the hop. Nasty one to get first up"}]short ball just outside off, fended defensively towards point, on the hop. Nasty one to get first up
+short ball just outside off, fended defensively towards point, on the hop. Nasty one to get first up
 
 
 Balls faced: 2
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "gone! Hasaranga down the track to Maharaj straight away trying to bash this one down the ground. But he doesn't get to the pitch of the ball, and although there's not much turn, there's enough to take it away from his shot, and QdK flicks the bails off before Hasaranga can make an attempt at returning to the crease. South Africa are bossing this! Hasaranga's promotion has not worked."}]gone! Hasaranga down the track to Maharaj straight away trying to bash this one down the ground. But he doesn't get to the pitch of the ball, and although there's not much turn, there's enough to take it away from his shot, and QdK flicks the bails off before Hasaranga can make an attempt at returning to the crease. South Africa are bossing this! Hasaranga's promotion has not worked.
+Hasaranga is OUT! stumped
+st †de Kock b Maharaj
+Wanindu Hasaranga st †de Kock b Maharaj 0 (2b 0x4 0x6 2m) SR: 0
+gone! Hasaranga down the track to Maharaj straight away trying to bash this one down the ground. But he doesn't get to the pitch of the ball, and although there's not much turn, there's enough to take it away from his shot, and QdK flicks the bails off before Hasaranga can make an attempt at returning to the crease. South Africa are bossing this! Hasaranga's promotion has not worked.
 
 
 Balls faced: 3
 Bowler: Nortje
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Captain Hasaranga is out there trying to get some adrenaline into this innings."}]Captain Hasaranga is out there trying to get some adrenaline into this innings.
+Captain Hasaranga is out there trying to get some adrenaline into this innings.
 
-[{"type": "HTML", "html": "short ball just outside off, fended defensively towards point, on the hop. Nasty one to get first up"}]short ball just outside off, fended defensively towards point, on the hop. Nasty one to get first up
+short ball just outside off, fended defensively towards point, on the hop. Nasty one to get first up
 
 
 Balls faced: 4
 Bowler: Maharaj
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "gone! Hasaranga down the track to Maharaj straight away trying to bash this one down the ground. But he doesn't get to the pitch of the ball, and although there's not much turn, there's enough to take it away from his shot, and QdK flicks the bails off before Hasaranga can make an attempt at returning to the crease. South Africa are bossing this! Hasaranga's promotion has not worked."}]gone! Hasaranga down the track to Maharaj straight away trying to bash this one down the ground. But he doesn't get to the pitch of the ball, and although there's not much turn, there's enough to take it away from his shot, and QdK flicks the bails off before Hasaranga can make an attempt at returning to the crease. South Africa are bossing this! Hasaranga's promotion has not worked.
+Hasaranga is OUT! stumped
+st †de Kock b Maharaj
+Wanindu Hasaranga st †de Kock b Maharaj 0 (2b 0x4 0x6 2m) SR: 0
+gone! Hasaranga down the track to Maharaj straight away trying to bash this one down the ground. But he doesn't get to the pitch of the ball, and although there's not much turn, there's enough to take it away from his shot, and QdK flicks the bails off before Hasaranga can make an attempt at returning to the crease. South Africa are bossing this! Hasaranga's promotion has not worked.
 
 
 
@@ -44,21 +52,27 @@ Match: all_games_1411166_1415715.json
 Balls faced: 1
 Bowler: Rishad Hossain
 Over: 15
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Is that two-in-two for the leggie? The umpire thinks so and Hasaranga is walking back with a golden duck! This is full around leg, Hasaranga looks to tuck it leg side and closes the face. The ball takes the edge and pops to the slip fielder who makes no mistake"}]Is that two-in-two for the leggie? The umpire thinks so and Hasaranga is walking back with a golden duck! This is full around leg, Hasaranga looks to tuck it leg side and closes the face. The ball takes the edge and pops to the slip fielder who makes no mistake
+Hasaranga is OUT! caught
+c Soumya Sarkar b Rishad Hossain
+Wanindu Hasaranga c Soumya Sarkar b Rishad Hossain 0 (1b 0x4 0x6 1m) SR: 0
+Is that two-in-two for the leggie? The umpire thinks so and Hasaranga is walking back with a golden duck! This is full around leg, Hasaranga looks to tuck it leg side and closes the face. The ball takes the edge and pops to the slip fielder who makes no mistake
 
 
 Balls faced: 2
 Bowler: Rishad Hossain
 Over: 15
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Is that two-in-two for the leggie? The umpire thinks so and Hasaranga is walking back with a golden duck! This is full around leg, Hasaranga looks to tuck it leg side and closes the face. The ball takes the edge and pops to the slip fielder who makes no mistake"}]Is that two-in-two for the leggie? The umpire thinks so and Hasaranga is walking back with a golden duck! This is full around leg, Hasaranga looks to tuck it leg side and closes the face. The ball takes the edge and pops to the slip fielder who makes no mistake
+Hasaranga is OUT! caught
+c Soumya Sarkar b Rishad Hossain
+Wanindu Hasaranga c Soumya Sarkar b Rishad Hossain 0 (1b 0x4 0x6 1m) SR: 0
+Is that two-in-two for the leggie? The umpire thinks so and Hasaranga is walking back with a golden duck! This is full around leg, Hasaranga looks to tuck it leg side and closes the face. The ball takes the edge and pops to the slip fielder who makes no mistake
 
 
 
@@ -66,121 +80,133 @@ Match: all_games_1411166_1415738.json
 Balls faced: 1
 Bowler: van Beek
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>carved over short third!</b> This was full outside off and Hasaranga deliberately opens the face on this and carves it in the air. Just about clears the man as four more gets added to the total"}]<B>carved over short third!</b> This was full outside off and Hasaranga deliberately opens the face on this and carves it in the air. Just about clears the man as four more gets added to the total
+<B>carved over short third!</b> This was full outside off and Hasaranga deliberately opens the face on this and carves it in the air. Just about clears the man as four more gets added to the total
 
 
 Balls faced: 2
 Bowler: van Beek
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "van Beek on a hattrick..."}]van Beek on a hattrick...
+van Beek on a hattrick...
 
-[{"type": "HTML", "html": "back of a length on the stumps, goes back and tucks this to the vacant midwicket region. They run hard and come through for the second. They quickly check for a run out at the bowler's end, but Mathews is safe"}]back of a length on the stumps, goes back and tucks this to the vacant midwicket region. They run hard and come through for the second. They quickly check for a run out at the bowler's end, but Mathews is safe
+back of a length on the stumps, goes back and tucks this to the vacant midwicket region. They run hard and come through for the second. They quickly check for a run out at the bowler's end, but Mathews is safe
 
 
 Balls faced: 3
 Bowler: van Beek
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>carved over short third!</b> This was full outside off and Hasaranga deliberately opens the face on this and carves it in the air. Just about clears the man as four more gets added to the total"}]<B>carved over short third!</b> This was full outside off and Hasaranga deliberately opens the face on this and carves it in the air. Just about clears the man as four more gets added to the total
+<B>carved over short third!</b> This was full outside off and Hasaranga deliberately opens the face on this and carves it in the air. Just about clears the man as four more gets added to the total
 
 
 Balls faced: 4
 Bowler: van Beek
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "van Beek on a hattrick..."}]van Beek on a hattrick...
+van Beek on a hattrick...
 
-[{"type": "HTML", "html": "back of a length on the stumps, goes back and tucks this to the vacant midwicket region. They run hard and come through for the second. They quickly check for a run out at the bowler's end, but Mathews is safe"}]back of a length on the stumps, goes back and tucks this to the vacant midwicket region. They run hard and come through for the second. They quickly check for a run out at the bowler's end, but Mathews is safe
+back of a length on the stumps, goes back and tucks this to the vacant midwicket region. They run hard and come through for the second. They quickly check for a run out at the bowler's end, but Mathews is safe
 
 
 Balls faced: 5
 Bowler: van Beek
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower length ball outside off, picked up over point for another single"}]slower length ball outside off, picked up over point for another single
+slower length ball outside off, picked up over point for another single
 
 
 Balls faced: 6
 Bowler: van Beek
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "makes room once more, but van Beek gets this full on leg stump. Low full toss in fact, as Hasaranga carves this into the covers"}]makes room once more, but van Beek gets this full on leg stump. Low full toss in fact, as Hasaranga carves this into the covers
+makes room once more, but van Beek gets this full on leg stump. Low full toss in fact, as Hasaranga carves this into the covers
 
 
 Balls faced: 7
 Bowler: van Beek
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clobbered down the ground!</> Clears that front leg, gets low and under it, and just launches this slightly fuller one straight back over the bowler"}]<B>Clobbered down the ground!</> Clears that front leg, gets low and under it, and just launches this slightly fuller one straight back over the bowler
+<B>Clobbered down the ground!</> Clears that front leg, gets low and under it, and just launches this slightly fuller one straight back over the bowler
 
 
 Balls faced: 8
 Bowler: van Beek
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "van Beek to bowl the final over"}]van Beek to bowl the final over
+van Beek to bowl the final over
 
-[{"type": "HTML", "html": "<B>Smoked over cover!</b> Pringle is on the ropes, but he initially runs in before realising that he's misjudged it completely. Sails over in the end"}]<B>Smoked over cover!</b> Pringle is on the ropes, but he initially runs in before realising that he's misjudged it completely. Sails over in the end
+<B>Smoked over cover!</b> Pringle is on the ropes, but he initially runs in before realising that he's misjudged it completely. Sails over in the end
 
 
 Balls faced: 9
 Bowler: van Beek
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower length ball outside off, picked up over point for another single"}]slower length ball outside off, picked up over point for another single
+slower length ball outside off, picked up over point for another single
 
 
 Balls faced: 10
 Bowler: van Beek
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "makes room once more, but van Beek gets this full on leg stump. Low full toss in fact, as Hasaranga carves this into the covers"}]makes room once more, but van Beek gets this full on leg stump. Low full toss in fact, as Hasaranga carves this into the covers
+makes room once more, but van Beek gets this full on leg stump. Low full toss in fact, as Hasaranga carves this into the covers
 
 
 Balls faced: 11
 Bowler: van Beek
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clobbered down the ground!</> Clears that front leg, gets low and under it, and just launches this slightly fuller one straight back over the bowler"}]<B>Clobbered down the ground!</> Clears that front leg, gets low and under it, and just launches this slightly fuller one straight back over the bowler
+<B>Clobbered down the ground!</> Clears that front leg, gets low and under it, and just launches this slightly fuller one straight back over the bowler
 
 
 Balls faced: 12
 Bowler: van Beek
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 6
-[{"type": "HTML", "html": "van Beek to bowl the final over"}]van Beek to bowl the final over
+van Beek to bowl the final over
 
-[{"type": "HTML", "html": "<B>Smoked over cover!</b> Pringle is on the ropes, but he initially runs in before realising that he's misjudged it completely. Sails over in the end"}]<B>Smoked over cover!</b> Pringle is on the ropes, but he initially runs in before realising that he's misjudged it completely. Sails over in the end
+<B>Smoked over cover!</b> Pringle is on the ropes, but he initially runs in before realising that he's misjudged it completely. Sails over in the end
 
 
 
@@ -188,41 +214,49 @@ Match: all_games_1412536_1412542.json
 Balls faced: 1
 Bowler: Raza
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>And the skipper gets the skipper! Huge wicket!</b> It was a skiddy offbreak on a good length, Hasaranga is caught in the crease as this grips and turns. The wickets are shattered!"}]<B>And the skipper gets the skipper! Huge wicket!</b> It was a skiddy offbreak on a good length, Hasaranga is caught in the crease as this grips and turns. The wickets are shattered!
-[{"type": "HTML", "html": "Raza has put together a world-class allround effort here today. Ends with figures of 4-0-13-3"}]Raza has put together a world-class allround effort here today. Ends with figures of 4-0-13-3
+Hasaranga is OUT! bowled
+ b Sikandar Raza
+Wanindu Hasaranga b Sikandar Raza 0 (2b 0x4 0x6 1m) SR: 0
+<B>And the skipper gets the skipper! Huge wicket!</b> It was a skiddy offbreak on a good length, Hasaranga is caught in the crease as this grips and turns. The wickets are shattered!
+Raza has put together a world-class allround effort here today. Ends with figures of 4-0-13-3
 
 Balls faced: 2
 Bowler: Raza
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Hasaranga, the skipper, comes in ahead of Shanaka"}]Hasaranga, the skipper, comes in ahead of Shanaka
+Hasaranga, the skipper, comes in ahead of Shanaka
 
-[{"type": "HTML", "html": "good length offbreak, turns in sharply as Hasaranga goes back and punches this straight to cover"}]good length offbreak, turns in sharply as Hasaranga goes back and punches this straight to cover
+good length offbreak, turns in sharply as Hasaranga goes back and punches this straight to cover
 
 
 Balls faced: 3
 Bowler: Raza
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>And the skipper gets the skipper! Huge wicket!</b> It was a skiddy offbreak on a good length, Hasaranga is caught in the crease as this grips and turns. The wickets are shattered!"}]<B>And the skipper gets the skipper! Huge wicket!</b> It was a skiddy offbreak on a good length, Hasaranga is caught in the crease as this grips and turns. The wickets are shattered!
-[{"type": "HTML", "html": "Raza has put together a world-class allround effort here today. Ends with figures of 4-0-13-3"}]Raza has put together a world-class allround effort here today. Ends with figures of 4-0-13-3
+Hasaranga is OUT! bowled
+ b Sikandar Raza
+Wanindu Hasaranga b Sikandar Raza 0 (2b 0x4 0x6 1m) SR: 0
+<B>And the skipper gets the skipper! Huge wicket!</b> It was a skiddy offbreak on a good length, Hasaranga is caught in the crease as this grips and turns. The wickets are shattered!
+Raza has put together a world-class allround effort here today. Ends with figures of 4-0-13-3
 
 Balls faced: 4
 Bowler: Raza
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Hasaranga, the skipper, comes in ahead of Shanaka"}]Hasaranga, the skipper, comes in ahead of Shanaka
+Hasaranga, the skipper, comes in ahead of Shanaka
 
-[{"type": "HTML", "html": "good length offbreak, turns in sharply as Hasaranga goes back and punches this straight to cover"}]good length offbreak, turns in sharply as Hasaranga goes back and punches this straight to cover
+good length offbreak, turns in sharply as Hasaranga goes back and punches this straight to cover
 
 
 
@@ -230,273 +264,302 @@ Match: all_games_1412536_1412543.json
 Balls faced: 1
 Bowler: Muzarabani
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
-[{"type": "HTML", "html": "Hasaranga has one ball"}]Hasaranga has one ball
+Hasaranga has one ball
 
-[{"type": "HTML", "html": "Short ball and he misses the uppercut, Sri Lanka end on 173 for 6!"}]Short ball and he misses the uppercut, Sri Lanka end on 173 for 6!
-[{"type": "HTML", "html": "Neil: \"What an innings from Mathews. He was 23 off 34 and hit 43 from his last 17!!! 10 years on from his golden year in 2014, could he have another in 2024?? This innings reminded me of the match vs England at Leeds in 2019, when he was criticised for batting slowly and ended up getting 85 in the world cup, but that proved to be match innings when SL defended 232\""}, {"type": "HTML", "html": "Joe: \"Hasaranga and Theekshana will be the key to stem the run rate , if they can pick up 4 to 5 wickets that will help SL to go 2 up in series \""}, {"type": "HTML", "html": "shasha: \"Well cricket is unpredictable, but Sri Lanka cricket is unpredictable ultra pro max. Good luck trying to bet on Sri Lankan cricket though. You may never know what these people can do. Just want to point out that this squad is perfectly not being able to defend this total as well.\""}, {"type": "HTML", "html": "niro: \"without being too critical, becuse that comeback but cant help but feel SL a little bit short here , if 2 Batters get going for ZIM it will be very interesting , Raza \""}, {"type": "HTML", "html": "<B>8.32pm</b> So Angelo Mathews is unbeaten on 66 off 51, as he, along with the outstanding Charith Asalanka (69 off 39), steered Sri Lanka to 173 for 6! That's a score that had not only looked unlikely, but borderline impossible when Mathews and Asalanka had come together with the score on 27 for 4 in the fifth over. But the pair would grind their way through a tough period, before unleashing brilliantly at the the death. Asalanka was the first to get going, carrying through a rusty Mathews who was initially struggling to rotate strike. But once Mathews got set, there were fireworks from both sides. This though seems to be quite the favourable batting track, so Zimbabwe will no doubt feel they can hunt these down. Join me in about 10 minutes for the start of the chase!"}]Neil: "What an innings from Mathews. He was 23 off 34 and hit 43 from his last 17!!! 10 years on from his golden year in 2014, could he have another in 2024?? This innings reminded me of the match vs England at Leeds in 2019, when he was criticised for batting slowly and ended up getting 85 in the world cup, but that proved to be match innings when SL defended 232" Joe: "Hasaranga and Theekshana will be the key to stem the run rate , if they can pick up 4 to 5 wickets that will help SL to go 2 up in series " shasha: "Well cricket is unpredictable, but Sri Lanka cricket is unpredictable ultra pro max. Good luck trying to bet on Sri Lankan cricket though. You may never know what these people can do. Just want to point out that this squad is perfectly not being able to defend this total as well." niro: "without being too critical, becuse that comeback but cant help but feel SL a little bit short here , if 2 Batters get going for ZIM it will be very interesting , Raza " <B>8.32pm</b> So Angelo Mathews is unbeaten on 66 off 51, as he, along with the outstanding Charith Asalanka (69 off 39), steered Sri Lanka to 173 for 6! That's a score that had not only looked unlikely, but borderline impossible when Mathews and Asalanka had come together with the score on 27 for 4 in the fifth over. But the pair would grind their way through a tough period, before unleashing brilliantly at the the death. Asalanka was the first to get going, carrying through a rusty Mathews who was initially struggling to rotate strike. But once Mathews got set, there were fireworks from both sides. This though seems to be quite the favourable batting track, so Zimbabwe will no doubt feel they can hunt these down. Join me in about 10 minutes for the start of the chase!
+Short ball and he misses the uppercut, Sri Lanka end on 173 for 6!
+Neil: "What an innings from Mathews. He was 23 off 34 and hit 43 from his last 17!!! 10 years on from his golden year in 2014, could he have another in 2024?? This innings reminded me of the match vs England at Leeds in 2019, when he was criticised for batting slowly and ended up getting 85 in the world cup, but that proved to be match innings when SL defended 232" Joe: "Hasaranga and Theekshana will be the key to stem the run rate , if they can pick up 4 to 5 wickets that will help SL to go 2 up in series " shasha: "Well cricket is unpredictable, but Sri Lanka cricket is unpredictable ultra pro max. Good luck trying to bet on Sri Lankan cricket though. You may never know what these people can do. Just want to point out that this squad is perfectly not being able to defend this total as well." niro: "without being too critical, becuse that comeback but cant help but feel SL a little bit short here , if 2 Batters get going for ZIM it will be very interesting , Raza " <B>8.32pm</b> So Angelo Mathews is unbeaten on 66 off 51, as he, along with the outstanding Charith Asalanka (69 off 39), steered Sri Lanka to 173 for 6! That's a score that had not only looked unlikely, but borderline impossible when Mathews and Asalanka had come together with the score on 27 for 4 in the fifth over. But the pair would grind their way through a tough period, before unleashing brilliantly at the the death. Asalanka was the first to get going, carrying through a rusty Mathews who was initially struggling to rotate strike. But once Mathews got set, there were fireworks from both sides. This though seems to be quite the favourable batting track, so Zimbabwe will no doubt feel they can hunt these down. Join me in about 10 minutes for the start of the chase!
 
 Balls faced: 2
 Bowler: Muzarabani
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
-[{"type": "HTML", "html": "Hasaranga has one ball"}]Hasaranga has one ball
+Hasaranga has one ball
 
-[{"type": "HTML", "html": "Short ball and he misses the uppercut, Sri Lanka end on 173 for 6!"}]Short ball and he misses the uppercut, Sri Lanka end on 173 for 6!
-[{"type": "HTML", "html": "Neil: \"What an innings from Mathews. He was 23 off 34 and hit 43 from his last 17!!! 10 years on from his golden year in 2014, could he have another in 2024?? This innings reminded me of the match vs England at Leeds in 2019, when he was criticised for batting slowly and ended up getting 85 in the world cup, but that proved to be match innings when SL defended 232\""}, {"type": "HTML", "html": "Joe: \"Hasaranga and Theekshana will be the key to stem the run rate , if they can pick up 4 to 5 wickets that will help SL to go 2 up in series \""}, {"type": "HTML", "html": "shasha: \"Well cricket is unpredictable, but Sri Lanka cricket is unpredictable ultra pro max. Good luck trying to bet on Sri Lankan cricket though. You may never know what these people can do. Just want to point out that this squad is perfectly not being able to defend this total as well.\""}, {"type": "HTML", "html": "niro: \"without being too critical, becuse that comeback but cant help but feel SL a little bit short here , if 2 Batters get going for ZIM it will be very interesting , Raza \""}, {"type": "HTML", "html": "<B>8.32pm</b> So Angelo Mathews is unbeaten on 66 off 51, as he, along with the outstanding Charith Asalanka (69 off 39), steered Sri Lanka to 173 for 6! That's a score that had not only looked unlikely, but borderline impossible when Mathews and Asalanka had come together with the score on 27 for 4 in the fifth over. But the pair would grind their way through a tough period, before unleashing brilliantly at the the death. Asalanka was the first to get going, carrying through a rusty Mathews who was initially struggling to rotate strike. But once Mathews got set, there were fireworks from both sides. This though seems to be quite the favourable batting track, so Zimbabwe will no doubt feel they can hunt these down. Join me in about 10 minutes for the start of the chase!"}]Neil: "What an innings from Mathews. He was 23 off 34 and hit 43 from his last 17!!! 10 years on from his golden year in 2014, could he have another in 2024?? This innings reminded me of the match vs England at Leeds in 2019, when he was criticised for batting slowly and ended up getting 85 in the world cup, but that proved to be match innings when SL defended 232" Joe: "Hasaranga and Theekshana will be the key to stem the run rate , if they can pick up 4 to 5 wickets that will help SL to go 2 up in series " shasha: "Well cricket is unpredictable, but Sri Lanka cricket is unpredictable ultra pro max. Good luck trying to bet on Sri Lankan cricket though. You may never know what these people can do. Just want to point out that this squad is perfectly not being able to defend this total as well." niro: "without being too critical, becuse that comeback but cant help but feel SL a little bit short here , if 2 Batters get going for ZIM it will be very interesting , Raza " <B>8.32pm</b> So Angelo Mathews is unbeaten on 66 off 51, as he, along with the outstanding Charith Asalanka (69 off 39), steered Sri Lanka to 173 for 6! That's a score that had not only looked unlikely, but borderline impossible when Mathews and Asalanka had come together with the score on 27 for 4 in the fifth over. But the pair would grind their way through a tough period, before unleashing brilliantly at the the death. Asalanka was the first to get going, carrying through a rusty Mathews who was initially struggling to rotate strike. But once Mathews got set, there were fireworks from both sides. This though seems to be quite the favourable batting track, so Zimbabwe will no doubt feel they can hunt these down. Join me in about 10 minutes for the start of the chase!
+Short ball and he misses the uppercut, Sri Lanka end on 173 for 6!
+Neil: "What an innings from Mathews. He was 23 off 34 and hit 43 from his last 17!!! 10 years on from his golden year in 2014, could he have another in 2024?? This innings reminded me of the match vs England at Leeds in 2019, when he was criticised for batting slowly and ended up getting 85 in the world cup, but that proved to be match innings when SL defended 232" Joe: "Hasaranga and Theekshana will be the key to stem the run rate , if they can pick up 4 to 5 wickets that will help SL to go 2 up in series " shasha: "Well cricket is unpredictable, but Sri Lanka cricket is unpredictable ultra pro max. Good luck trying to bet on Sri Lankan cricket though. You may never know what these people can do. Just want to point out that this squad is perfectly not being able to defend this total as well." niro: "without being too critical, becuse that comeback but cant help but feel SL a little bit short here , if 2 Batters get going for ZIM it will be very interesting , Raza " <B>8.32pm</b> So Angelo Mathews is unbeaten on 66 off 51, as he, along with the outstanding Charith Asalanka (69 off 39), steered Sri Lanka to 173 for 6! That's a score that had not only looked unlikely, but borderline impossible when Mathews and Asalanka had come together with the score on 27 for 4 in the fifth over. But the pair would grind their way through a tough period, before unleashing brilliantly at the the death. Asalanka was the first to get going, carrying through a rusty Mathews who was initially struggling to rotate strike. But once Mathews got set, there were fireworks from both sides. This though seems to be quite the favourable batting track, so Zimbabwe will no doubt feel they can hunt these down. Join me in about 10 minutes for the start of the chase!
 
 
 Match: all_games_1416068_1416075.json
 Balls faced: 1
 Bowler: Noor Ahmad
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Hasaranga at No. 7"}]Hasaranga at No. 7
+Hasaranga at No. 7
 
-[{"type": "HTML", "html": "full and dipping on leg. Whipped to deep midwicket"}]full and dipping on leg. Whipped to deep midwicket
-[{"type": "HTML", "html": "And here comes Fidel to wrap this innings up"}]And here comes Fidel to wrap this innings up
+full and dipping on leg. Whipped to deep midwicket
+And here comes Fidel to wrap this innings up
 
 Balls faced: 2
 Bowler: Fazalhaq Farooqi
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full outside off, opens the face and slices this to deep backward point"}]full outside off, opens the face and slices this to deep backward point
+full outside off, opens the face and slices this to deep backward point
 
 
 Balls faced: 3
 Bowler: Fazalhaq Farooqi
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>dropped!</strong> And it's Gulbadin again, who gets fingers to the ball at mid off and can't hold on. He'd dropped Mendis earlier. This is a full ball on off stump which Hasaranga tries to slam over mid off. Comes over Gulbadin's head, but at a catchable height. Bursts through his fingers and on to the boundary"}]<strong>dropped!</strong> And it's Gulbadin again, who gets fingers to the ball at mid off and can't hold on. He'd dropped Mendis earlier. This is a full ball on off stump which Hasaranga tries to slam over mid off. Comes over Gulbadin's head, but at a catchable height. Bursts through his fingers and on to the boundary
+<strong>dropped!</strong> And it's Gulbadin again, who gets fingers to the ball at mid off and can't hold on. He'd dropped Mendis earlier. This is a full ball on off stump which Hasaranga tries to slam over mid off. Comes over Gulbadin's head, but at a catchable height. Bursts through his fingers and on to the boundary
 
 
 Balls faced: 4
 Bowler: Fazalhaq Farooqi
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Thanks Himanshu. Sri Lanka want 320 here, I expect."}, {"type": "HTML", "html": "Farooqi is in to bow the 46th."}]Thanks Himanshu. Sri Lanka want 320 here, I expect. Farooqi is in to bow the 46th.
+Thanks Himanshu. Sri Lanka want 320 here, I expect. Farooqi is in to bow the 46th.
 
-[{"type": "HTML", "html": "back of a length, on about leg stump, Hasaranga just defends it back"}]back of a length, on about leg stump, Hasaranga just defends it back
+back of a length, on about leg stump, Hasaranga just defends it back
 
 
 Balls faced: 5
 Bowler: Noor Ahmad
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Hasaranga at No. 7"}]Hasaranga at No. 7
+Hasaranga at No. 7
 
-[{"type": "HTML", "html": "full and dipping on leg. Whipped to deep midwicket"}]full and dipping on leg. Whipped to deep midwicket
-[{"type": "HTML", "html": "And here comes Fidel to wrap this innings up"}]And here comes Fidel to wrap this innings up
+full and dipping on leg. Whipped to deep midwicket
+And here comes Fidel to wrap this innings up
 
 Balls faced: 6
 Bowler: Noor Ahmad
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "stays where he is this time and drags it to cow corner"}]stays where he is this time and drags it to cow corner
+stays where he is this time and drags it to cow corner
 
 
 Balls faced: 7
 Bowler: Noor Ahmad
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "backs away and tries to go inside out but the bowler follows him and though Hasaranga goes through with the shot, he can't connect. Seems to have got an inside edge to it actually, but the keeper doesn't complete the catch."}]backs away and tries to go inside out but the bowler follows him and though Hasaranga goes through with the shot, he can't connect. Seems to have got an inside edge to it actually, but the keeper doesn't complete the catch.
+backs away and tries to go inside out but the bowler follows him and though Hasaranga goes through with the shot, he can't connect. Seems to have got an inside edge to it actually, but the keeper doesn't complete the catch.
 
 
 Balls faced: 8
 Bowler: Noor Ahmad
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish outside off, smacked hard down the ground for a single"}]fullish outside off, smacked hard down the ground for a single
+fullish outside off, smacked hard down the ground for a single
 
 
 Balls faced: 9
 Bowler: Fazalhaq Farooqi
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full outside off, opens the face and slices this to deep backward point"}]full outside off, opens the face and slices this to deep backward point
+full outside off, opens the face and slices this to deep backward point
 
 
 Balls faced: 10
 Bowler: Fazalhaq Farooqi
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>dropped!</strong> And it's Gulbadin again, who gets fingers to the ball at mid off and can't hold on. He'd dropped Mendis earlier. This is a full ball on off stump which Hasaranga tries to slam over mid off. Comes over Gulbadin's head, but at a catchable height. Bursts through his fingers and on to the boundary"}]<strong>dropped!</strong> And it's Gulbadin again, who gets fingers to the ball at mid off and can't hold on. He'd dropped Mendis earlier. This is a full ball on off stump which Hasaranga tries to slam over mid off. Comes over Gulbadin's head, but at a catchable height. Bursts through his fingers and on to the boundary
+<strong>dropped!</strong> And it's Gulbadin again, who gets fingers to the ball at mid off and can't hold on. He'd dropped Mendis earlier. This is a full ball on off stump which Hasaranga tries to slam over mid off. Comes over Gulbadin's head, but at a catchable height. Bursts through his fingers and on to the boundary
 
 
 Balls faced: 11
 Bowler: Fazalhaq Farooqi
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Thanks Himanshu. Sri Lanka want 320 here, I expect."}, {"type": "HTML", "html": "Farooqi is in to bow the 46th."}]Thanks Himanshu. Sri Lanka want 320 here, I expect. Farooqi is in to bow the 46th.
+Thanks Himanshu. Sri Lanka want 320 here, I expect. Farooqi is in to bow the 46th.
 
-[{"type": "HTML", "html": "back of a length, on about leg stump, Hasaranga just defends it back"}]back of a length, on about leg stump, Hasaranga just defends it back
+back of a length, on about leg stump, Hasaranga just defends it back
 
 
 Balls faced: 12
 Bowler: Azmatullah
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full, almost a yorker, on the stumps. Clears the front leg and drills this to long off"}]full, almost a yorker, on the stumps. Clears the front leg and drills this to long off
+full, almost a yorker, on the stumps. Clears the front leg and drills this to long off
 
 
 Balls faced: 13
 Bowler: Noor Ahmad
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "stays where he is this time and drags it to cow corner"}]stays where he is this time and drags it to cow corner
+stays where he is this time and drags it to cow corner
 
 
 Balls faced: 14
 Bowler: Noor Ahmad
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "backs away and tries to go inside out but the bowler follows him and though Hasaranga goes through with the shot, he can't connect. Seems to have got an inside edge to it actually, but the keeper doesn't complete the catch."}]backs away and tries to go inside out but the bowler follows him and though Hasaranga goes through with the shot, he can't connect. Seems to have got an inside edge to it actually, but the keeper doesn't complete the catch.
+backs away and tries to go inside out but the bowler follows him and though Hasaranga goes through with the shot, he can't connect. Seems to have got an inside edge to it actually, but the keeper doesn't complete the catch.
 
 
 Balls faced: 15
 Bowler: Noor Ahmad
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish outside off, smacked hard down the ground for a single"}]fullish outside off, smacked hard down the ground for a single
+fullish outside off, smacked hard down the ground for a single
 
 
 Balls faced: 16
 Bowler: Fazalhaq Farooqi
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "gets hold of this one! This is full on leg stump, Hasaranga clears the leg and pounds this past the non-striker's feet, and the long on fielder cannot cut it off. Sweetly hit."}]gets hold of this one! This is full on leg stump, Hasaranga clears the leg and pounds this past the non-striker's feet, and the long on fielder cannot cut it off. Sweetly hit.
+gets hold of this one! This is full on leg stump, Hasaranga clears the leg and pounds this past the non-striker's feet, and the long on fielder cannot cut it off. Sweetly hit.
 
 
 Balls faced: 17
 Bowler: Fazalhaq Farooqi
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "excellent from Farooqi. This is a yorker about 30 cm outside off. Hasaranga tries to get under it and hammer over mid off but misses"}]excellent from Farooqi. This is a yorker about 30 cm outside off. Hasaranga tries to get under it and hammer over mid off but misses
+excellent from Farooqi. This is a yorker about 30 cm outside off. Hasaranga tries to get under it and hammer over mid off but misses
 
 
 Balls faced: 18
 Bowler: Fazalhaq Farooqi
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Akindu: \"Hasaranga really needs to work on his power hitting. With Dasun and DDS off squad hes the only one who can do the job.\""}]Akindu: "Hasaranga really needs to work on his power hitting. With Dasun and DDS off squad hes the only one who can do the job."
+Akindu: "Hasaranga really needs to work on his power hitting. With Dasun and DDS off squad hes the only one who can do the job."
 
-[{"type": "HTML", "html": "length ball on off stump, Hasaranga backs away and slaps this to the sweeper cover"}]length ball on off stump, Hasaranga backs away and slaps this to the sweeper cover
+length ball on off stump, Hasaranga backs away and slaps this to the sweeper cover
 
 
 Balls faced: 19
 Bowler: Fazalhaq Farooqi
 Over: 49
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one, length ball wide of off. Hasaranga tries to hit over cover but misses. This is nice from Farooqi."}]slower one, length ball wide of off. Hasaranga tries to hit over cover but misses. This is nice from Farooqi.
+slower one, length ball wide of off. Hasaranga tries to hit over cover but misses. This is nice from Farooqi.
 
 
 Balls faced: 20
 Bowler: Azmatullah
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full, almost a yorker, on the stumps. Clears the front leg and drills this to long off"}]full, almost a yorker, on the stumps. Clears the front leg and drills this to long off
+full, almost a yorker, on the stumps. Clears the front leg and drills this to long off
 
 
 Balls faced: 21
 Bowler: Azmatullah
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "dug in again, another slower ball I think. Gets to chest heigh and Hasaranga goes back and tries to smack it over the offside. Again it comes off the toe, goes high, and is swallowed by by Ibrahim Zadran coming in off the rope at sweeper cover."}]dug in again, another slower ball I think. Gets to chest heigh and Hasaranga goes back and tries to smack it over the offside. Again it comes off the toe, goes high, and is swallowed by by Ibrahim Zadran coming in off the rope at sweeper cover.
-[{"type": "HTML", "html": "Afghanistan got Sri Lanka's openers early, but Kusal Mendis and Sadeera Samarawickrama rebuilt through a century stand. Then it was Asalanka's 97 off 74 that took them over the 300 line."}, {"type": "HTML", "html": "Afghanistan will feel their bowlers did nicely to restrict Sri Lanka to 308 for 6, though."}, {"type": "HTML", "html": "Azmatullah Omarzai was especially impressive, returning figures of 3 for 56 less than 48 hours after completing an ODI hundred in the first ODi. Mohammad Nabi was his usual miserly self, giving away only 38 from his 10."}, {"type": "HTML", "html": "It seems like a pitch on which batting is not particularly difficult. Sri Lanka may need early wickets again."}, {"type": "HTML", "html": "Back soon witht he chase."}]Afghanistan got Sri Lanka's openers early, but Kusal Mendis and Sadeera Samarawickrama rebuilt through a century stand. Then it was Asalanka's 97 off 74 that took them over the 300 line. Afghanistan will feel their bowlers did nicely to restrict Sri Lanka to 308 for 6, though. Azmatullah Omarzai was especially impressive, returning figures of 3 for 56 less than 48 hours after completing an ODI hundred in the first ODi. Mohammad Nabi was his usual miserly self, giving away only 38 from his 10. It seems like a pitch on which batting is not particularly difficult. Sri Lanka may need early wickets again. Back soon witht he chase.
+Hasaranga is OUT! caught
+c Ibrahim Zadran b Azmatullah Omarzai
+Wanindu Hasaranga c Ibrahim Zadran b Azmatullah Omarzai 14 (13b 2x4 0x6 24m) SR: 107.69
+dug in again, another slower ball I think. Gets to chest heigh and Hasaranga goes back and tries to smack it over the offside. Again it comes off the toe, goes high, and is swallowed by by Ibrahim Zadran coming in off the rope at sweeper cover.
+Afghanistan got Sri Lanka's openers early, but Kusal Mendis and Sadeera Samarawickrama rebuilt through a century stand. Then it was Asalanka's 97 off 74 that took them over the 300 line. Afghanistan will feel their bowlers did nicely to restrict Sri Lanka to 308 for 6, though. Azmatullah Omarzai was especially impressive, returning figures of 3 for 56 less than 48 hours after completing an ODI hundred in the first ODi. Mohammad Nabi was his usual miserly self, giving away only 38 from his 10. It seems like a pitch on which batting is not particularly difficult. Sri Lanka may need early wickets again. Back soon witht he chase.
 
 Balls faced: 22
 Bowler: Fazalhaq Farooqi
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "gets hold of this one! This is full on leg stump, Hasaranga clears the leg and pounds this past the non-striker's feet, and the long on fielder cannot cut it off. Sweetly hit."}]gets hold of this one! This is full on leg stump, Hasaranga clears the leg and pounds this past the non-striker's feet, and the long on fielder cannot cut it off. Sweetly hit.
+gets hold of this one! This is full on leg stump, Hasaranga clears the leg and pounds this past the non-striker's feet, and the long on fielder cannot cut it off. Sweetly hit.
 
 
 Balls faced: 23
 Bowler: Fazalhaq Farooqi
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "excellent from Farooqi. This is a yorker about 30 cm outside off. Hasaranga tries to get under it and hammer over mid off but misses"}]excellent from Farooqi. This is a yorker about 30 cm outside off. Hasaranga tries to get under it and hammer over mid off but misses
+excellent from Farooqi. This is a yorker about 30 cm outside off. Hasaranga tries to get under it and hammer over mid off but misses
 
 
 Balls faced: 24
 Bowler: Fazalhaq Farooqi
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Akindu: \"Hasaranga really needs to work on his power hitting. With Dasun and DDS off squad hes the only one who can do the job.\""}]Akindu: "Hasaranga really needs to work on his power hitting. With Dasun and DDS off squad hes the only one who can do the job."
+Akindu: "Hasaranga really needs to work on his power hitting. With Dasun and DDS off squad hes the only one who can do the job."
 
-[{"type": "HTML", "html": "length ball on off stump, Hasaranga backs away and slaps this to the sweeper cover"}]length ball on off stump, Hasaranga backs away and slaps this to the sweeper cover
+length ball on off stump, Hasaranga backs away and slaps this to the sweeper cover
 
 
 Balls faced: 25
 Bowler: Fazalhaq Farooqi
 Over: 49
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one, length ball wide of off. Hasaranga tries to hit over cover but misses. This is nice from Farooqi."}]slower one, length ball wide of off. Hasaranga tries to hit over cover but misses. This is nice from Farooqi.
+slower one, length ball wide of off. Hasaranga tries to hit over cover but misses. This is nice from Farooqi.
 
 
 
@@ -504,661 +567,731 @@ Match: all_games_1416068_1416077.json
 Balls faced: 1
 Bowler: Noor Ahmad
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>Swing and a miss!</b> Googly tossed up on middle, it swings away as Hasaranga looks to go big downtown"}]<b>Swing and a miss!</b> Googly tossed up on middle, it swings away as Hasaranga looks to go big downtown
+<b>Swing and a miss!</b> Googly tossed up on middle, it swings away as Hasaranga looks to go big downtown
 
 
 Balls faced: 2
 Bowler: Noor Ahmad
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Goes inside out over cover for a one-bounce four! Tossed up outside off and Hasaranga swings picks the wrong'un very well"}]Goes inside out over cover for a one-bounce four! Tossed up outside off and Hasaranga swings picks the wrong'un very well
+Goes inside out over cover for a one-bounce four! Tossed up outside off and Hasaranga swings picks the wrong'un very well
 
 
 Balls faced: 3
 Bowler: Noor Ahmad
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "That's too short, and that's put away! Hasaranga clears his front leg, shifts his weight to the back leg and slaps away this half-tracker that's got enough width"}]That's too short, and that's put away! Hasaranga clears his front leg, shifts his weight to the back leg and slaps away this half-tracker that's got enough width
+That's too short, and that's put away! Hasaranga clears his front leg, shifts his weight to the back leg and slaps away this half-tracker that's got enough width
 
 
 Balls faced: 4
 Bowler: Noor Ahmad
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hasaranga comes out ahead of Mathews and Shanaka. This should be an interesting contest"}]Hasaranga comes out ahead of Mathews and Shanaka. This should be an interesting contest
+Hasaranga comes out ahead of Mathews and Shanaka. This should be an interesting contest
 
-[{"type": "HTML", "html": "Tossed up on middle, Hasaranga defends"}]Tossed up on middle, Hasaranga defends
+Tossed up on middle, Hasaranga defends
 
 
 Balls faced: 5
 Bowler: Azmatullah
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball around off, Hasaranga punches it out to the off-side sweeper"}]Length ball around off, Hasaranga punches it out to the off-side sweeper
+Length ball around off, Hasaranga punches it out to the off-side sweeper
 
 
 Balls faced: 6
 Bowler: Azmatullah
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Hasaranga was moving leg side again and Omarzai follows him with a slower ball. Hasaranga responds by easing it through the vacant midwicket area, where  the fielders are all in the deep, and picks up two more"}]Hasaranga was moving leg side again and Omarzai follows him with a slower ball. Hasaranga responds by easing it through the vacant midwicket area, where  the fielders are all in the deep, and picks up two more
+Hasaranga was moving leg side again and Omarzai follows him with a slower ball. Hasaranga responds by easing it through the vacant midwicket area, where  the fielders are all in the deep, and picks up two more
 
 
 Balls faced: 7
 Bowler: Azmatullah
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: RAMP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Cheekily done!</strong> Back of length delivery outside off, Hasaranga ramps it fine on the off side. Deep third was beat and Hasaranga has another bouncary"}]<strong>Cheekily done!</strong> Back of length delivery outside off, Hasaranga ramps it fine on the off side. Deep third was beat and Hasaranga has another bouncary
+<strong>Cheekily done!</strong> Back of length delivery outside off, Hasaranga ramps it fine on the off side. Deep third was beat and Hasaranga has another bouncary
 
 
 Balls faced: 8
 Bowler: Azmatullah
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Punched away through cover and good work from deep point to run across and save the boundary. Length ball seams in from outside off, Hasaranga makes room and slaps it away on the off side"}]Punched away through cover and good work from deep point to run across and save the boundary. Length ball seams in from outside off, Hasaranga makes room and slaps it away on the off side
+Punched away through cover and good work from deep point to run across and save the boundary. Length ball seams in from outside off, Hasaranga makes room and slaps it away on the off side
 
 
 Balls faced: 9
 Bowler: Noor Ahmad
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>Swing and a miss!</b> Googly tossed up on middle, it swings away as Hasaranga looks to go big downtown"}]<b>Swing and a miss!</b> Googly tossed up on middle, it swings away as Hasaranga looks to go big downtown
+<b>Swing and a miss!</b> Googly tossed up on middle, it swings away as Hasaranga looks to go big downtown
 
 
 Balls faced: 10
 Bowler: Noor Ahmad
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Goes inside out over cover for a one-bounce four! Tossed up outside off and Hasaranga swings picks the wrong'un very well"}]Goes inside out over cover for a one-bounce four! Tossed up outside off and Hasaranga swings picks the wrong'un very well
+Goes inside out over cover for a one-bounce four! Tossed up outside off and Hasaranga swings picks the wrong'un very well
 
 
 Balls faced: 11
 Bowler: Noor Ahmad
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "That's too short, and that's put away! Hasaranga clears his front leg, shifts his weight to the back leg and slaps away this half-tracker that's got enough width"}]That's too short, and that's put away! Hasaranga clears his front leg, shifts his weight to the back leg and slaps away this half-tracker that's got enough width
+That's too short, and that's put away! Hasaranga clears his front leg, shifts his weight to the back leg and slaps away this half-tracker that's got enough width
 
 
 Balls faced: 12
 Bowler: Noor Ahmad
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hasaranga comes out ahead of Mathews and Shanaka. This should be an interesting contest"}]Hasaranga comes out ahead of Mathews and Shanaka. This should be an interesting contest
+Hasaranga comes out ahead of Mathews and Shanaka. This should be an interesting contest
 
-[{"type": "HTML", "html": "Tossed up on middle, Hasaranga defends"}]Tossed up on middle, Hasaranga defends
+Tossed up on middle, Hasaranga defends
 
 
 Balls faced: 13
 Bowler: Qais
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Good single after pushing out a full ball to cover. Sri Lanka's running between the wicket has been very aggressive today!"}]Good single after pushing out a full ball to cover. Sri Lanka's running between the wicket has been very aggressive today!
+Good single after pushing out a full ball to cover. Sri Lanka's running between the wicket has been very aggressive today!
 
 
 Balls faced: 14
 Bowler: Qais
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up on leg, Hasaranga wants to go big but miscues it along the ground to long-on"}]Tossed up on leg, Hasaranga wants to go big but miscues it along the ground to long-on
+Tossed up on leg, Hasaranga wants to go big but miscues it along the ground to long-on
 
 
 Balls faced: 15
 Bowler: Qais
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Now Qais Ahmad comes in, replacing Noor, who got just one over"}]Now Qais Ahmad comes in, replacing Noor, who got just one over
+Now Qais Ahmad comes in, replacing Noor, who got just one over
 
-[{"type": "HTML", "html": "Qais sees Hasaranga advancing and cramps him for room, but Hasaranga is able to punch it down the ground for a single"}]Qais sees Hasaranga advancing and cramps him for room, but Hasaranga is able to punch it down the ground for a single
+Qais sees Hasaranga advancing and cramps him for room, but Hasaranga is able to punch it down the ground for a single
 
 
 Balls faced: 16
 Bowler: Azmatullah
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball around off, Hasaranga punches it out to the off-side sweeper"}]Length ball around off, Hasaranga punches it out to the off-side sweeper
+Length ball around off, Hasaranga punches it out to the off-side sweeper
 
 
 Balls faced: 17
 Bowler: Azmatullah
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Hasaranga was moving leg side again and Omarzai follows him with a slower ball. Hasaranga responds by easing it through the vacant midwicket area, where  the fielders are all in the deep, and picks up two more"}]Hasaranga was moving leg side again and Omarzai follows him with a slower ball. Hasaranga responds by easing it through the vacant midwicket area, where  the fielders are all in the deep, and picks up two more
+Hasaranga was moving leg side again and Omarzai follows him with a slower ball. Hasaranga responds by easing it through the vacant midwicket area, where  the fielders are all in the deep, and picks up two more
 
 
 Balls faced: 18
 Bowler: Azmatullah
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: RAMP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Cheekily done!</strong> Back of length delivery outside off, Hasaranga ramps it fine on the off side. Deep third was beat and Hasaranga has another bouncary"}]<strong>Cheekily done!</strong> Back of length delivery outside off, Hasaranga ramps it fine on the off side. Deep third was beat and Hasaranga has another bouncary
+<strong>Cheekily done!</strong> Back of length delivery outside off, Hasaranga ramps it fine on the off side. Deep third was beat and Hasaranga has another bouncary
 
 
 Balls faced: 19
 Bowler: Azmatullah
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Punched away through cover and good work from deep point to run across and save the boundary. Length ball seams in from outside off, Hasaranga makes room and slaps it away on the off side"}]Punched away through cover and good work from deep point to run across and save the boundary. Length ball seams in from outside off, Hasaranga makes room and slaps it away on the off side
+Punched away through cover and good work from deep point to run across and save the boundary. Length ball seams in from outside off, Hasaranga makes room and slaps it away on the off side
 
 
 Balls faced: 20
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>This time Hasaranga doesn't miss.</b> In the slot outside off and he goes inside-out over cover and picks up his fourth boundary"}]<b>This time Hasaranga doesn't miss.</b> In the slot outside off and he goes inside-out over cover and picks up his fourth boundary
+<b>This time Hasaranga doesn't miss.</b> In the slot outside off and he goes inside-out over cover and picks up his fourth boundary
 
 
 Balls faced: 21
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on leg, Hasaranga drive it hard back down the ground but Noor manages to block it"}]Full on leg, Hasaranga drive it hard back down the ground but Noor manages to block it
+Full on leg, Hasaranga drive it hard back down the ground but Noor manages to block it
 
 
 Balls faced: 22
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Tossed up again, Hasaranga slaps it straight down the ground. Long-off comes across to stop it as Hasaranga picks a brace"}]Tossed up again, Hasaranga slaps it straight down the ground. Long-off comes across to stop it as Hasaranga picks a brace
+Tossed up again, Hasaranga slaps it straight down the ground. Long-off comes across to stop it as Hasaranga picks a brace
 
 
 Balls faced: 23
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full outside off, Hasaranga swings it away along the ground to deep midwicket"}]Full outside off, Hasaranga swings it away along the ground to deep midwicket
+Full outside off, Hasaranga swings it away along the ground to deep midwicket
 
 
 Balls faced: 24
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Change of ends for Noor"}]Change of ends for Noor
+Change of ends for Noor
 
-[{"type": "HTML", "html": "Tossed up full around off, Hasaraga drives it down straight of long-on, where Qais does well to stop it"}]Tossed up full around off, Hasaraga drives it down straight of long-on, where Qais does well to stop it
+Tossed up full around off, Hasaraga drives it down straight of long-on, where Qais does well to stop it
 
 
 Balls faced: 25
 Bowler: Qais
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Good single after pushing out a full ball to cover. Sri Lanka's running between the wicket has been very aggressive today!"}]Good single after pushing out a full ball to cover. Sri Lanka's running between the wicket has been very aggressive today!
+Good single after pushing out a full ball to cover. Sri Lanka's running between the wicket has been very aggressive today!
 
 
 Balls faced: 26
 Bowler: Qais
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up on leg, Hasaranga wants to go big but miscues it along the ground to long-on"}]Tossed up on leg, Hasaranga wants to go big but miscues it along the ground to long-on
+Tossed up on leg, Hasaranga wants to go big but miscues it along the ground to long-on
 
 
 Balls faced: 27
 Bowler: Qais
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Now Qais Ahmad comes in, replacing Noor, who got just one over"}]Now Qais Ahmad comes in, replacing Noor, who got just one over
+Now Qais Ahmad comes in, replacing Noor, who got just one over
 
-[{"type": "HTML", "html": "Qais sees Hasaranga advancing and cramps him for room, but Hasaranga is able to punch it down the ground for a single"}]Qais sees Hasaranga advancing and cramps him for room, but Hasaranga is able to punch it down the ground for a single
+Qais sees Hasaranga advancing and cramps him for room, but Hasaranga is able to punch it down the ground for a single
 
 
 Balls faced: 28
 Bowler: Qais
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball around off, pulled away to long-on. That brings up the team 100 for Sri Lanka"}]Length ball around off, pulled away to long-on. That brings up the team 100 for Sri Lanka
+Length ball around off, pulled away to long-on. That brings up the team 100 for Sri Lanka
 
 
 Balls faced: 29
 Bowler: Qais
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pitched up outside off, Hasaranga sweeps it along the ground to deep midwicket"}]Pitched up outside off, Hasaranga sweeps it along the ground to deep midwicket
+Pitched up outside off, Hasaranga sweeps it along the ground to deep midwicket
 
 
 Balls faced: 30
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>This time Hasaranga doesn't miss.</b> In the slot outside off and he goes inside-out over cover and picks up his fourth boundary"}]<b>This time Hasaranga doesn't miss.</b> In the slot outside off and he goes inside-out over cover and picks up his fourth boundary
+<b>This time Hasaranga doesn't miss.</b> In the slot outside off and he goes inside-out over cover and picks up his fourth boundary
 
 
 Balls faced: 31
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full on leg, Hasaranga drive it hard back down the ground but Noor manages to block it"}]Full on leg, Hasaranga drive it hard back down the ground but Noor manages to block it
+Full on leg, Hasaranga drive it hard back down the ground but Noor manages to block it
 
 
 Balls faced: 32
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Tossed up again, Hasaranga slaps it straight down the ground. Long-off comes across to stop it as Hasaranga picks a brace"}]Tossed up again, Hasaranga slaps it straight down the ground. Long-off comes across to stop it as Hasaranga picks a brace
+Tossed up again, Hasaranga slaps it straight down the ground. Long-off comes across to stop it as Hasaranga picks a brace
 
 
 Balls faced: 33
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full outside off, Hasaranga swings it away along the ground to deep midwicket"}]Full outside off, Hasaranga swings it away along the ground to deep midwicket
+Full outside off, Hasaranga swings it away along the ground to deep midwicket
 
 
 Balls faced: 34
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Change of ends for Noor"}]Change of ends for Noor
+Change of ends for Noor
 
-[{"type": "HTML", "html": "Tossed up full around off, Hasaraga drives it down straight of long-on, where Qais does well to stop it"}]Tossed up full around off, Hasaraga drives it down straight of long-on, where Qais does well to stop it
+Tossed up full around off, Hasaraga drives it down straight of long-on, where Qais does well to stop it
 
 
 Balls faced: 35
 Bowler: Karim Janat
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and wide, he reaches out and carves it fine of deep third but they just get a single. It brings up the <strong>fifty-run partnership</strong>."}]Full and wide, he reaches out and carves it fine of deep third but they just get a single. It brings up the <strong>fifty-run partnership</strong>.
+Full and wide, he reaches out and carves it fine of deep third but they just get a single. It brings up the <strong>fifty-run partnership</strong>.
 
 
 Balls faced: 36
 Bowler: Karim Janat
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full toss outside off, Hasaranga misses out as he slaps it out straight to deep backward point"}]Full toss outside off, Hasaranga misses out as he slaps it out straight to deep backward point
+Full toss outside off, Hasaranga misses out as he slaps it out straight to deep backward point
 
 
 Balls faced: 37
 Bowler: Qais
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball around off, pulled away to long-on. That brings up the team 100 for Sri Lanka"}]Length ball around off, pulled away to long-on. That brings up the team 100 for Sri Lanka
+Length ball around off, pulled away to long-on. That brings up the team 100 for Sri Lanka
 
 
 Balls faced: 38
 Bowler: Qais
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pitched up outside off, Hasaranga sweeps it along the ground to deep midwicket"}]Pitched up outside off, Hasaranga sweeps it along the ground to deep midwicket
+Pitched up outside off, Hasaranga sweeps it along the ground to deep midwicket
 
 
 Balls faced: 39
 Bowler: Qais
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Gets an inside edge to fine leg for a single"}]Gets an inside edge to fine leg for a single
+Gets an inside edge to fine leg for a single
 
 
 Balls faced: 40
 Bowler: Qais
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>24-ball fifty for Hasaranga!</b> Slaps a length ball on off out on the off side and it's in the gap. What a knock this has been. He has attacked from the get go, giving himself a promotion up the order. And he has made it work brilliantly"}]<b>24-ball fifty for Hasaranga!</b> Slaps a length ball on off out on the off side and it's in the gap. What a knock this has been. He has attacked from the get go, giving himself a promotion up the order. And he has made it work brilliantly
+<b>24-ball fifty for Hasaranga!</b> Slaps a length ball on off out on the off side and it's in the gap. What a knock this has been. He has attacked from the get go, giving himself a promotion up the order. And he has made it work brilliantly
 
 
 Balls faced: 41
 Bowler: Qais
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Straight down the ground and that's six more!</b> This is on a length on middle and off, Hasaranga had moved leg-side and does well to adjust when cramped for room to hit it straight down the ground. Back-to-back sixes"}]<b>Straight down the ground and that's six more!</b> This is on a length on middle and off, Hasaranga had moved leg-side and does well to adjust when cramped for room to hit it straight down the ground. Back-to-back sixes
+<b>Straight down the ground and that's six more!</b> This is on a length on middle and off, Hasaranga had moved leg-side and does well to adjust when cramped for room to hit it straight down the ground. Back-to-back sixes
 
 
 Balls faced: 42
 Bowler: Qais
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>All the way this time!</b> Tossed up around off this time, Hasaranga gets down and slogs it just straight of midwicket for a massive sixer!"}]<b>All the way this time!</b> Tossed up around off this time, Hasaranga gets down and slogs it just straight of midwicket for a massive sixer!
+<b>All the way this time!</b> Tossed up around off this time, Hasaranga gets down and slogs it just straight of midwicket for a massive sixer!
 
 
 Balls faced: 43
 Bowler: Qais
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Swung in the gap!</strong> Tossed up full outside off, he gets down on a knee and flat-bats it against the spin, and picks the gap between deep midwicket and long-on"}]<strong>Swung in the gap!</strong> Tossed up full outside off, he gets down on a knee and flat-bats it against the spin, and picks the gap between deep midwicket and long-on
+<strong>Swung in the gap!</strong> Tossed up full outside off, he gets down on a knee and flat-bats it against the spin, and picks the gap between deep midwicket and long-on
 
 
 Balls faced: 44
 Bowler: Karim Janat
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and wide, he reaches out and carves it fine of deep third but they just get a single. It brings up the <strong>fifty-run partnership</strong>."}]Full and wide, he reaches out and carves it fine of deep third but they just get a single. It brings up the <strong>fifty-run partnership</strong>.
+Full and wide, he reaches out and carves it fine of deep third but they just get a single. It brings up the <strong>fifty-run partnership</strong>.
 
 
 Balls faced: 45
 Bowler: Karim Janat
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full toss outside off, Hasaranga misses out as he slaps it out straight to deep backward point"}]Full toss outside off, Hasaranga misses out as he slaps it out straight to deep backward point
+Full toss outside off, Hasaranga misses out as he slaps it out straight to deep backward point
 
 
 Balls faced: 46
 Bowler: Karim Janat
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and wide, Hasaranga again looks to steer it in the gap fine on the off side, but this goes straight to Farooqi at short third. He seems to have been hit awkwardly by the ball and winces in pain as he stops it"}]Full and wide, Hasaranga again looks to steer it in the gap fine on the off side, but this goes straight to Farooqi at short third. He seems to have been hit awkwardly by the ball and winces in pain as he stops it
+Full and wide, Hasaranga again looks to steer it in the gap fine on the off side, but this goes straight to Farooqi at short third. He seems to have been hit awkwardly by the ball and winces in pain as he stops it
 
 
 Balls faced: 47
 Bowler: Karim Janat
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>Carved past short third!</b> Full toss outside off, this time Hasaranga just reaches out and opens the face and steers it to the fielder's right. He is on a roll here"}]<b>Carved past short third!</b> Full toss outside off, this time Hasaranga just reaches out and opens the face and steers it to the fielder's right. He is on a roll here
+<b>Carved past short third!</b> Full toss outside off, this time Hasaranga just reaches out and opens the face and steers it to the fielder's right. He is on a roll here
 
 
 Balls faced: 48
 Bowler: Karim Janat
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Hammered over long-on!</b> Digs a slower ball into the pitch on a length outside off. It was seaming in and right in Hasaranga's zone. Mid-on was inside and that's all the invitation Hasaranga needed to move leg-side and swing it away"}]<b>Hammered over long-on!</b> Digs a slower ball into the pitch on a length outside off. It was seaming in and right in Hasaranga's zone. Mid-on was inside and that's all the invitation Hasaranga needed to move leg-side and swing it away
+<b>Hammered over long-on!</b> Digs a slower ball into the pitch on a length outside off. It was seaming in and right in Hasaranga's zone. Mid-on was inside and that's all the invitation Hasaranga needed to move leg-side and swing it away
 
 
 Balls faced: 49
 Bowler: Karim Janat
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes for the wide yorker, but gets it too full. It turns into a full toss, but Hasaranga can't make contact"}]Goes for the wide yorker, but gets it too full. It turns into a full toss, but Hasaranga can't make contact
+Goes for the wide yorker, but gets it too full. It turns into a full toss, but Hasaranga can't make contact
 
 
 Balls faced: 50
 Bowler: Qais
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Gets an inside edge to fine leg for a single"}]Gets an inside edge to fine leg for a single
+Gets an inside edge to fine leg for a single
 
 
 Balls faced: 51
 Bowler: Qais
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>24-ball fifty for Hasaranga!</b> Slaps a length ball on off out on the off side and it's in the gap. What a knock this has been. He has attacked from the get go, giving himself a promotion up the order. And he has made it work brilliantly"}]<b>24-ball fifty for Hasaranga!</b> Slaps a length ball on off out on the off side and it's in the gap. What a knock this has been. He has attacked from the get go, giving himself a promotion up the order. And he has made it work brilliantly
+<b>24-ball fifty for Hasaranga!</b> Slaps a length ball on off out on the off side and it's in the gap. What a knock this has been. He has attacked from the get go, giving himself a promotion up the order. And he has made it work brilliantly
 
 
 Balls faced: 52
 Bowler: Qais
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Straight down the ground and that's six more!</b> This is on a length on middle and off, Hasaranga had moved leg-side and does well to adjust when cramped for room to hit it straight down the ground. Back-to-back sixes"}]<b>Straight down the ground and that's six more!</b> This is on a length on middle and off, Hasaranga had moved leg-side and does well to adjust when cramped for room to hit it straight down the ground. Back-to-back sixes
+<b>Straight down the ground and that's six more!</b> This is on a length on middle and off, Hasaranga had moved leg-side and does well to adjust when cramped for room to hit it straight down the ground. Back-to-back sixes
 
 
 Balls faced: 53
 Bowler: Qais
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>All the way this time!</b> Tossed up around off this time, Hasaranga gets down and slogs it just straight of midwicket for a massive sixer!"}]<b>All the way this time!</b> Tossed up around off this time, Hasaranga gets down and slogs it just straight of midwicket for a massive sixer!
+<b>All the way this time!</b> Tossed up around off this time, Hasaranga gets down and slogs it just straight of midwicket for a massive sixer!
 
 
 Balls faced: 54
 Bowler: Qais
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Swung in the gap!</strong> Tossed up full outside off, he gets down on a knee and flat-bats it against the spin, and picks the gap between deep midwicket and long-on"}]<strong>Swung in the gap!</strong> Tossed up full outside off, he gets down on a knee and flat-bats it against the spin, and picks the gap between deep midwicket and long-on
+<strong>Swung in the gap!</strong> Tossed up full outside off, he gets down on a knee and flat-bats it against the spin, and picks the gap between deep midwicket and long-on
 
 
 Balls faced: 55
 Bowler: Naveen-ul-Haq
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Hasaranga holes out at long-off!</strong> Slower ball outside off, Hasaranga went for another drive down the ground, but doesn't time this at all. It goes high in the air and Ibrahim settles under it before taking it easily. A whirlwind knock comes to an end. That's Hasaranga's second-highest score in T20Is, and his second half-century"}]<strong>Hasaranga holes out at long-off!</strong> Slower ball outside off, Hasaranga went for another drive down the ground, but doesn't time this at all. It goes high in the air and Ibrahim settles under it before taking it easily. A whirlwind knock comes to an end. That's Hasaranga's second-highest score in T20Is, and his second half-century
+Hasaranga is OUT! caught
+c Ibrahim Zadran b Naveen-ul-Haq
+Wanindu Hasaranga c Ibrahim Zadran b Naveen-ul-Haq 67 (32b 7x4 3x6 39m) SR: 209.37
+<strong>Hasaranga holes out at long-off!</strong> Slower ball outside off, Hasaranga went for another drive down the ground, but doesn't time this at all. It goes high in the air and Ibrahim settles under it before taking it easily. A whirlwind knock comes to an end. That's Hasaranga's second-highest score in T20Is, and his second half-century
 
 
 Balls faced: 56
 Bowler: Naveen-ul-Haq
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Low full toss outside off, Hasaranga slices it out on the bounce to deep backward point"}]Low full toss outside off, Hasaranga slices it out on the bounce to deep backward point
+Low full toss outside off, Hasaranga slices it out on the bounce to deep backward point
 
 
 Balls faced: 57
 Bowler: Naveen-ul-Haq
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Lahiru Abeyrath: \"Wani let's go for 100! you can do it now!\""}]Lahiru Abeyrath: "Wani let's go for 100! you can do it now!"
+Lahiru Abeyrath: "Wani let's go for 100! you can do it now!"
 
-[{"type": "HTML", "html": "Full and wide, Hasaranga goes after it and misses. And the umpire raises his arms very late . Just outside the wide line there. Very close call"}]Full and wide, Hasaranga goes after it and misses. And the umpire raises his arms very late . Just outside the wide line there. Very close call
+Full and wide, Hasaranga goes after it and misses. And the umpire raises his arms very late . Just outside the wide line there. Very close call
 
 Wide: 1
 Balls faced: 58
 Bowler: Naveen-ul-Haq
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 1
-[{"type": "HTML", "html": "Naveen returns"}]Naveen returns
+Naveen returns
 
-[{"type": "HTML", "html": "Slower ball outside off, Hasaranga glides it to short third for a quick run"}]Slower ball outside off, Hasaranga glides it to short third for a quick run
+Slower ball outside off, Hasaranga glides it to short third for a quick run
 
 
 Balls faced: 59
 Bowler: Karim Janat
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and wide, Hasaranga again looks to steer it in the gap fine on the off side, but this goes straight to Farooqi at short third. He seems to have been hit awkwardly by the ball and winces in pain as he stops it"}]Full and wide, Hasaranga again looks to steer it in the gap fine on the off side, but this goes straight to Farooqi at short third. He seems to have been hit awkwardly by the ball and winces in pain as he stops it
+Full and wide, Hasaranga again looks to steer it in the gap fine on the off side, but this goes straight to Farooqi at short third. He seems to have been hit awkwardly by the ball and winces in pain as he stops it
 
 
 Balls faced: 60
 Bowler: Karim Janat
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>Carved past short third!</b> Full toss outside off, this time Hasaranga just reaches out and opens the face and steers it to the fielder's right. He is on a roll here"}]<b>Carved past short third!</b> Full toss outside off, this time Hasaranga just reaches out and opens the face and steers it to the fielder's right. He is on a roll here
+<b>Carved past short third!</b> Full toss outside off, this time Hasaranga just reaches out and opens the face and steers it to the fielder's right. He is on a roll here
 
 
 Balls faced: 61
 Bowler: Karim Janat
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Hammered over long-on!</b> Digs a slower ball into the pitch on a length outside off. It was seaming in and right in Hasaranga's zone. Mid-on was inside and that's all the invitation Hasaranga needed to move leg-side and swing it away"}]<b>Hammered over long-on!</b> Digs a slower ball into the pitch on a length outside off. It was seaming in and right in Hasaranga's zone. Mid-on was inside and that's all the invitation Hasaranga needed to move leg-side and swing it away
+<b>Hammered over long-on!</b> Digs a slower ball into the pitch on a length outside off. It was seaming in and right in Hasaranga's zone. Mid-on was inside and that's all the invitation Hasaranga needed to move leg-side and swing it away
 
 
 Balls faced: 62
 Bowler: Karim Janat
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Goes for the wide yorker, but gets it too full. It turns into a full toss, but Hasaranga can't make contact"}]Goes for the wide yorker, but gets it too full. It turns into a full toss, but Hasaranga can't make contact
+Goes for the wide yorker, but gets it too full. It turns into a full toss, but Hasaranga can't make contact
 
 
 Balls faced: 63
 Bowler: Naveen-ul-Haq
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Hasaranga holes out at long-off!</strong> Slower ball outside off, Hasaranga went for another drive down the ground, but doesn't time this at all. It goes high in the air and Ibrahim settles under it before taking it easily. A whirlwind knock comes to an end. That's Hasaranga's second-highest score in T20Is, and his second half-century"}]<strong>Hasaranga holes out at long-off!</strong> Slower ball outside off, Hasaranga went for another drive down the ground, but doesn't time this at all. It goes high in the air and Ibrahim settles under it before taking it easily. A whirlwind knock comes to an end. That's Hasaranga's second-highest score in T20Is, and his second half-century
+Hasaranga is OUT! caught
+c Ibrahim Zadran b Naveen-ul-Haq
+Wanindu Hasaranga c Ibrahim Zadran b Naveen-ul-Haq 67 (32b 7x4 3x6 39m) SR: 209.37
+<strong>Hasaranga holes out at long-off!</strong> Slower ball outside off, Hasaranga went for another drive down the ground, but doesn't time this at all. It goes high in the air and Ibrahim settles under it before taking it easily. A whirlwind knock comes to an end. That's Hasaranga's second-highest score in T20Is, and his second half-century
 
 
 Balls faced: 64
 Bowler: Naveen-ul-Haq
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Low full toss outside off, Hasaranga slices it out on the bounce to deep backward point"}]Low full toss outside off, Hasaranga slices it out on the bounce to deep backward point
+Low full toss outside off, Hasaranga slices it out on the bounce to deep backward point
 
 
 Balls faced: 65
 Bowler: Naveen-ul-Haq
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Lahiru Abeyrath: \"Wani let's go for 100! you can do it now!\""}]Lahiru Abeyrath: "Wani let's go for 100! you can do it now!"
+Lahiru Abeyrath: "Wani let's go for 100! you can do it now!"
 
-[{"type": "HTML", "html": "Full and wide, Hasaranga goes after it and misses. And the umpire raises his arms very late . Just outside the wide line there. Very close call"}]Full and wide, Hasaranga goes after it and misses. And the umpire raises his arms very late . Just outside the wide line there. Very close call
+Full and wide, Hasaranga goes after it and misses. And the umpire raises his arms very late . Just outside the wide line there. Very close call
 
 Wide: 1
 Balls faced: 66
 Bowler: Naveen-ul-Haq
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 1
-[{"type": "HTML", "html": "Naveen returns"}]Naveen returns
+Naveen returns
 
-[{"type": "HTML", "html": "Slower ball outside off, Hasaranga glides it to short third for a quick run"}]Slower ball outside off, Hasaranga glides it to short third for a quick run
+Slower ball outside off, Hasaranga glides it to short third for a quick run
 
 
 
@@ -1166,181 +1299,203 @@ Match: all_games_1416068_1416078.json
 Balls faced: 1
 Bowler: M Nabi
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Captain Hasaranga walks in"}]Captain Hasaranga walks in
+Captain Hasaranga walks in
 
-[{"type": "HTML", "html": "full on middle and leg. Hasaranga pushes it down the ground to get off the mark"}]full on middle and leg. Hasaranga pushes it down the ground to get off the mark
+full on middle and leg. Hasaranga pushes it down the ground to get off the mark
 
 
 Balls faced: 2
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slowed up a shade on a length on off. Hasaranga looks to go downtown but tugs it towards long on instead"}]slowed up a shade on a length on off. Hasaranga looks to go downtown but tugs it towards long on instead
+slowed up a shade on a length on off. Hasaranga looks to go downtown but tugs it towards long on instead
 
 
 Balls faced: 3
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>four more!</strong> Width outside off and Hasaranga cashes in. Steps down to generate momentum and peels the outer cover off the ball, knifing it past backward point!"}]<strong>four more!</strong> Width outside off and Hasaranga cashes in. Steps down to generate momentum and peels the outer cover off the ball, knifing it past backward point!
+<strong>four more!</strong> Width outside off and Hasaranga cashes in. Steps down to generate momentum and peels the outer cover off the ball, knifing it past backward point!
 
 
 Balls faced: 4
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Back to over the wicket"}]Back to over the wicket
+Back to over the wicket
 
-[{"type": "HTML", "html": "length on middle and leg. Hasaranga gives himself room and slices it past extra cover. Has to scramble back for the second but makes it in the end"}]length on middle and leg. Hasaranga gives himself room and slices it past extra cover. Has to scramble back for the second but makes it in the end
+length on middle and leg. Hasaranga gives himself room and slices it past extra cover. Has to scramble back for the second but makes it in the end
 
 
 Balls faced: 5
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
-[{"type": "HTML", "html": "Noor goes around the wicket"}]Noor goes around the wicket
+Noor goes around the wicket
 
-[{"type": "HTML", "html": "<strong>Hasaranga goes big!</strong> Given a bit of air and this lands right in the slot on the stumps. Hasaranga opens up his stance and clubs it over wide long on!"}]<strong>Hasaranga goes big!</strong> Given a bit of air and this lands right in the slot on the stumps. Hasaranga opens up his stance and clubs it over wide long on!
+<strong>Hasaranga goes big!</strong> Given a bit of air and this lands right in the slot on the stumps. Hasaranga opens up his stance and clubs it over wide long on!
 
 
 Balls faced: 6
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "floated up full outside off. Hasaranga clears his front leg and flat-bats it towards long off"}]floated up full outside off. Hasaranga clears his front leg and flat-bats it towards long off
+floated up full outside off. Hasaranga clears his front leg and flat-bats it towards long off
 
 
 Balls faced: 7
 Bowler: M Nabi
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Captain Hasaranga walks in"}]Captain Hasaranga walks in
+Captain Hasaranga walks in
 
-[{"type": "HTML", "html": "full on middle and leg. Hasaranga pushes it down the ground to get off the mark"}]full on middle and leg. Hasaranga pushes it down the ground to get off the mark
+full on middle and leg. Hasaranga pushes it down the ground to get off the mark
 
 
 Balls faced: 8
 Bowler: M Nabi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>gone this time! Nabi has the big fish!</strong> Hard length and the ball seems to bounce a smidgen more than Hasaranga expects. He tries to muscle it over long on nonetheless but cannot get enough behind it. Ibrahim Zadran uses his height to perfection and takes the overhead catch cleanly, while also maintaining the requisite distance from the boundary cushion!"}]<strong>gone this time! Nabi has the big fish!</strong> Hard length and the ball seems to bounce a smidgen more than Hasaranga expects. He tries to muscle it over long on nonetheless but cannot get enough behind it. Ibrahim Zadran uses his height to perfection and takes the overhead catch cleanly, while also maintaining the requisite distance from the boundary cushion!
-[{"type": "HTML", "html": "The third umpire has gotten involved and wants to check if the catch is fair. Not sure why, though. Looked pretty clean on first glance, and the replays have only confirmed it"}]The third umpire has gotten involved and wants to check if the catch is fair. Not sure why, though. Looked pretty clean on first glance, and the replays have only confirmed it
+Hasaranga is OUT! caught
+c Ibrahim Zadran b Mohammad Nabi
+Wanindu Hasaranga c Ibrahim Zadran b Mohammad Nabi 22 (9b 1x4 2x6 7m) SR: 244.44
+<strong>gone this time! Nabi has the big fish!</strong> Hard length and the ball seems to bounce a smidgen more than Hasaranga expects. He tries to muscle it over long on nonetheless but cannot get enough behind it. Ibrahim Zadran uses his height to perfection and takes the overhead catch cleanly, while also maintaining the requisite distance from the boundary cushion!
+The third umpire has gotten involved and wants to check if the catch is fair. Not sure why, though. Looked pretty clean on first glance, and the replays have only confirmed it
 
 Balls faced: 9
 Bowler: M Nabi
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "thigh-high full toss on leg stump. Hasaranga stabs it past the bowler and picks up a single"}]thigh-high full toss on leg stump. Hasaranga stabs it past the bowler and picks up a single
+thigh-high full toss on leg stump. Hasaranga stabs it past the bowler and picks up a single
 
 
 Balls faced: 10
 Bowler: M Nabi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
-[{"type": "HTML", "html": "Nabi to continue"}]Nabi to continue
+Nabi to continue
 
-[{"type": "HTML", "html": "<strong>and he gets pumped over long on!</strong> Shortish on middle and leg. Hasaranga sizes it up, opens up his hip and launches it over the sweeper!"}]<strong>and he gets pumped over long on!</strong> Shortish on middle and leg. Hasaranga sizes it up, opens up his hip and launches it over the sweeper!
+<strong>and he gets pumped over long on!</strong> Shortish on middle and leg. Hasaranga sizes it up, opens up his hip and launches it over the sweeper!
 
 
 Balls faced: 11
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slowed up a shade on a length on off. Hasaranga looks to go downtown but tugs it towards long on instead"}]slowed up a shade on a length on off. Hasaranga looks to go downtown but tugs it towards long on instead
+slowed up a shade on a length on off. Hasaranga looks to go downtown but tugs it towards long on instead
 
 
 Balls faced: 12
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>four more!</strong> Width outside off and Hasaranga cashes in. Steps down to generate momentum and peels the outer cover off the ball, knifing it past backward point!"}]<strong>four more!</strong> Width outside off and Hasaranga cashes in. Steps down to generate momentum and peels the outer cover off the ball, knifing it past backward point!
+<strong>four more!</strong> Width outside off and Hasaranga cashes in. Steps down to generate momentum and peels the outer cover off the ball, knifing it past backward point!
 
 
 Balls faced: 13
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
-[{"type": "HTML", "html": "Back to over the wicket"}]Back to over the wicket
+Back to over the wicket
 
-[{"type": "HTML", "html": "length on middle and leg. Hasaranga gives himself room and slices it past extra cover. Has to scramble back for the second but makes it in the end"}]length on middle and leg. Hasaranga gives himself room and slices it past extra cover. Has to scramble back for the second but makes it in the end
+length on middle and leg. Hasaranga gives himself room and slices it past extra cover. Has to scramble back for the second but makes it in the end
 
 
 Balls faced: 14
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
-[{"type": "HTML", "html": "Noor goes around the wicket"}]Noor goes around the wicket
+Noor goes around the wicket
 
-[{"type": "HTML", "html": "<strong>Hasaranga goes big!</strong> Given a bit of air and this lands right in the slot on the stumps. Hasaranga opens up his stance and clubs it over wide long on!"}]<strong>Hasaranga goes big!</strong> Given a bit of air and this lands right in the slot on the stumps. Hasaranga opens up his stance and clubs it over wide long on!
+<strong>Hasaranga goes big!</strong> Given a bit of air and this lands right in the slot on the stumps. Hasaranga opens up his stance and clubs it over wide long on!
 
 
 Balls faced: 15
 Bowler: Noor Ahmad
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "floated up full outside off. Hasaranga clears his front leg and flat-bats it towards long off"}]floated up full outside off. Hasaranga clears his front leg and flat-bats it towards long off
+floated up full outside off. Hasaranga clears his front leg and flat-bats it towards long off
 
 
 Balls faced: 16
 Bowler: M Nabi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>gone this time! Nabi has the big fish!</strong> Hard length and the ball seems to bounce a smidgen more than Hasaranga expects. He tries to muscle it over long on nonetheless but cannot get enough behind it. Ibrahim Zadran uses his height to perfection and takes the overhead catch cleanly, while also maintaining the requisite distance from the boundary cushion!"}]<strong>gone this time! Nabi has the big fish!</strong> Hard length and the ball seems to bounce a smidgen more than Hasaranga expects. He tries to muscle it over long on nonetheless but cannot get enough behind it. Ibrahim Zadran uses his height to perfection and takes the overhead catch cleanly, while also maintaining the requisite distance from the boundary cushion!
-[{"type": "HTML", "html": "The third umpire has gotten involved and wants to check if the catch is fair. Not sure why, though. Looked pretty clean on first glance, and the replays have only confirmed it"}]The third umpire has gotten involved and wants to check if the catch is fair. Not sure why, though. Looked pretty clean on first glance, and the replays have only confirmed it
+Hasaranga is OUT! caught
+c Ibrahim Zadran b Mohammad Nabi
+Wanindu Hasaranga c Ibrahim Zadran b Mohammad Nabi 22 (9b 1x4 2x6 7m) SR: 244.44
+<strong>gone this time! Nabi has the big fish!</strong> Hard length and the ball seems to bounce a smidgen more than Hasaranga expects. He tries to muscle it over long on nonetheless but cannot get enough behind it. Ibrahim Zadran uses his height to perfection and takes the overhead catch cleanly, while also maintaining the requisite distance from the boundary cushion!
+The third umpire has gotten involved and wants to check if the catch is fair. Not sure why, though. Looked pretty clean on first glance, and the replays have only confirmed it
 
 Balls faced: 17
 Bowler: M Nabi
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "thigh-high full toss on leg stump. Hasaranga stabs it past the bowler and picks up a single"}]thigh-high full toss on leg stump. Hasaranga stabs it past the bowler and picks up a single
+thigh-high full toss on leg stump. Hasaranga stabs it past the bowler and picks up a single
 
 
 Balls faced: 18
 Bowler: M Nabi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
-[{"type": "HTML", "html": "Nabi to continue"}]Nabi to continue
+Nabi to continue
 
-[{"type": "HTML", "html": "<strong>and he gets pumped over long on!</strong> Shortish on middle and leg. Hasaranga sizes it up, opens up his hip and launches it over the sweeper!"}]<strong>and he gets pumped over long on!</strong> Shortish on middle and leg. Hasaranga sizes it up, opens up his hip and launches it over the sweeper!
+<strong>and he gets pumped over long on!</strong> Shortish on middle and leg. Hasaranga sizes it up, opens up his hip and launches it over the sweeper!
 
 
 
@@ -1348,241 +1503,269 @@ Match: all_games_1416068_1416079.json
 Balls faced: 1
 Bowler: Noor Ahmad
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>falls safe!</strong> Googly bowled full on off stump. Hasaranga does not pick it and goes across the line. Clinks off the toe-end and luckily for him, it lands well in front of long on"}]<strong>falls safe!</strong> Googly bowled full on off stump. Hasaranga does not pick it and goes across the line. Clinks off the toe-end and luckily for him, it lands well in front of long on
+<strong>falls safe!</strong> Googly bowled full on off stump. Hasaranga does not pick it and goes across the line. Clinks off the toe-end and luckily for him, it lands well in front of long on
 
 
 Balls faced: 2
 Bowler: Noor Ahmad
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Hasaranga in at 4"}]Hasaranga in at 4
+Hasaranga in at 4
 
-[{"type": "HTML", "html": "full on leg stump. Hasaranga comes forward and punches it down the ground towards long on"}]full on leg stump. Hasaranga comes forward and punches it down the ground towards long on
+full on leg stump. Hasaranga comes forward and punches it down the ground towards long on
 
 
 Balls faced: 3
 Bowler: M Nabi
 Over: 8
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on leg stump. Hasaranga goes back and pushes it to deep mid wicket"}]back of a length on leg stump. Hasaranga goes back and pushes it to deep mid wicket
+back of a length on leg stump. Hasaranga goes back and pushes it to deep mid wicket
 
 
 Balls faced: 4
 Bowler: M Nabi
 Over: 8
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slowed up on a length just outside leg. Hasaranga has a massive mow across the line and misses. Gets pinged on the back leg"}]slowed up on a length just outside leg. Hasaranga has a massive mow across the line and misses. Gets pinged on the back leg
+slowed up on a length just outside leg. Hasaranga has a massive mow across the line and misses. Gets pinged on the back leg
 
 
 Balls faced: 5
 Bowler: M Nabi
 Over: 8
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on middle and off. Hasaranga lets the ball come to him before meeting it right under his eyes"}]back of a length on middle and off. Hasaranga lets the ball come to him before meeting it right under his eyes
+back of a length on middle and off. Hasaranga lets the ball come to him before meeting it right under his eyes
 
 
 Balls faced: 6
 Bowler: Noor Ahmad
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>falls safe!</strong> Googly bowled full on off stump. Hasaranga does not pick it and goes across the line. Clinks off the toe-end and luckily for him, it lands well in front of long on"}]<strong>falls safe!</strong> Googly bowled full on off stump. Hasaranga does not pick it and goes across the line. Clinks off the toe-end and luckily for him, it lands well in front of long on
+<strong>falls safe!</strong> Googly bowled full on off stump. Hasaranga does not pick it and goes across the line. Clinks off the toe-end and luckily for him, it lands well in front of long on
 
 
 Balls faced: 7
 Bowler: Noor Ahmad
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Hasaranga in at 4"}]Hasaranga in at 4
+Hasaranga in at 4
 
-[{"type": "HTML", "html": "full on leg stump. Hasaranga comes forward and punches it down the ground towards long on"}]full on leg stump. Hasaranga comes forward and punches it down the ground towards long on
+full on leg stump. Hasaranga comes forward and punches it down the ground towards long on
 
 
 Balls faced: 8
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Spins into Hasaranga to cramp him for room. Cuts it towards deep cover point"}]back of a length outside off. Spins into Hasaranga to cramp him for room. Cuts it towards deep cover point
+back of a length outside off. Spins into Hasaranga to cramp him for room. Cuts it towards deep cover point
 
 
 Balls faced: 9
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>shot!</strong> Full on off stump. Hasaranga dances down the track and pumps it over the bowler's head for four!"}]<strong>shot!</strong> Full on off stump. Hasaranga dances down the track and pumps it over the bowler's head for four!
+<strong>shot!</strong> Full on off stump. Hasaranga dances down the track and pumps it over the bowler's head for four!
 
 
 Balls faced: 10
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "googly on a full length on leg stump. Hasaranga bunts it to extra cover and hares across to the other end. Zadran threw at the bowler's end, even as Nissanka was hobbling across to the other end"}]googly on a full length on leg stump. Hasaranga bunts it to extra cover and hares across to the other end. Zadran threw at the bowler's end, even as Nissanka was hobbling across to the other end
+googly on a full length on leg stump. Hasaranga bunts it to extra cover and hares across to the other end. Zadran threw at the bowler's end, even as Nissanka was hobbling across to the other end
 
 
 Balls faced: 11
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>safe!</strong> Short outside off. Hasaranga wafts at it and the ball floats off the outside edge, landing just in front of short third man"}]<strong>safe!</strong> Short outside off. Hasaranga wafts at it and the ball floats off the outside edge, landing just in front of short third man
+<strong>safe!</strong> Short outside off. Hasaranga wafts at it and the ball floats off the outside edge, landing just in front of short third man
 
 
 Balls faced: 12
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide outside off. Hasaranga fishes at it and misses. Called a wide, though"}]short and wide outside off. Hasaranga fishes at it and misses. Called a wide, though
+short and wide outside off. Hasaranga fishes at it and misses. Called a wide, though
 
 Wide: 1
 Balls faced: 13
 Bowler: M Nabi
 Over: 8
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on leg stump. Hasaranga goes back and pushes it to deep mid wicket"}]back of a length on leg stump. Hasaranga goes back and pushes it to deep mid wicket
+back of a length on leg stump. Hasaranga goes back and pushes it to deep mid wicket
 
 
 Balls faced: 14
 Bowler: M Nabi
 Over: 8
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slowed up on a length just outside leg. Hasaranga has a massive mow across the line and misses. Gets pinged on the back leg"}]slowed up on a length just outside leg. Hasaranga has a massive mow across the line and misses. Gets pinged on the back leg
+slowed up on a length just outside leg. Hasaranga has a massive mow across the line and misses. Gets pinged on the back leg
 
 
 Balls faced: 15
 Bowler: M Nabi
 Over: 8
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on middle and off. Hasaranga lets the ball come to him before meeting it right under his eyes"}]back of a length on middle and off. Hasaranga lets the ball come to him before meeting it right under his eyes
+back of a length on middle and off. Hasaranga lets the ball come to him before meeting it right under his eyes
 
 
 Balls faced: 16
 Bowler: M Nabi
 Over: 10
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>holes out to long on!</strong> Gives it a hint of air and Hasaranga's eyes light up. He steps down, looking to go over long on but cannot generate the elevation he is after. Arrows it straight to his opposite number, who takes it reverse-cupped in front of his face!"}]<strong>holes out to long on!</strong> Gives it a hint of air and Hasaranga's eyes light up. He steps down, looking to go over long on but cannot generate the elevation he is after. Arrows it straight to his opposite number, who takes it reverse-cupped in front of his face!
+Hasaranga is OUT! caught
+c Ibrahim Zadran b Mohammad Nabi
+Wanindu Hasaranga c Ibrahim Zadran b Mohammad Nabi 13 (11b 2x4 0x6 16m) SR: 118.18
+<strong>holes out to long on!</strong> Gives it a hint of air and Hasaranga's eyes light up. He steps down, looking to go over long on but cannot generate the elevation he is after. Arrows it straight to his opposite number, who takes it reverse-cupped in front of his face!
 
 
 Balls faced: 17
 Bowler: M Nabi
 Over: 10
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slow and short outside leg. Hasaranga, despite backing away, does not have a lot of room to work with and gets an inside edge that nutmegs the keeper and trickles into the fence!"}]slow and short outside leg. Hasaranga, despite backing away, does not have a lot of room to work with and gets an inside edge that nutmegs the keeper and trickles into the fence!
+slow and short outside leg. Hasaranga, despite backing away, does not have a lot of room to work with and gets an inside edge that nutmegs the keeper and trickles into the fence!
 
 
 Balls faced: 18
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Spins into Hasaranga to cramp him for room. Cuts it towards deep cover point"}]back of a length outside off. Spins into Hasaranga to cramp him for room. Cuts it towards deep cover point
+back of a length outside off. Spins into Hasaranga to cramp him for room. Cuts it towards deep cover point
 
 
 Balls faced: 19
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>shot!</strong> Full on off stump. Hasaranga dances down the track and pumps it over the bowler's head for four!"}]<strong>shot!</strong> Full on off stump. Hasaranga dances down the track and pumps it over the bowler's head for four!
+<strong>shot!</strong> Full on off stump. Hasaranga dances down the track and pumps it over the bowler's head for four!
 
 
 Balls faced: 20
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "googly on a full length on leg stump. Hasaranga bunts it to extra cover and hares across to the other end. Zadran threw at the bowler's end, even as Nissanka was hobbling across to the other end"}]googly on a full length on leg stump. Hasaranga bunts it to extra cover and hares across to the other end. Zadran threw at the bowler's end, even as Nissanka was hobbling across to the other end
+googly on a full length on leg stump. Hasaranga bunts it to extra cover and hares across to the other end. Zadran threw at the bowler's end, even as Nissanka was hobbling across to the other end
 
 
 Balls faced: 21
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>safe!</strong> Short outside off. Hasaranga wafts at it and the ball floats off the outside edge, landing just in front of short third man"}]<strong>safe!</strong> Short outside off. Hasaranga wafts at it and the ball floats off the outside edge, landing just in front of short third man
+<strong>safe!</strong> Short outside off. Hasaranga wafts at it and the ball floats off the outside edge, landing just in front of short third man
 
 
 Balls faced: 22
 Bowler: Noor Ahmad
 Over: 9
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide outside off. Hasaranga fishes at it and misses. Called a wide, though"}]short and wide outside off. Hasaranga fishes at it and misses. Called a wide, though
+short and wide outside off. Hasaranga fishes at it and misses. Called a wide, though
 
 Wide: 1
 Balls faced: 23
 Bowler: M Nabi
 Over: 10
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>holes out to long on!</strong> Gives it a hint of air and Hasaranga's eyes light up. He steps down, looking to go over long on but cannot generate the elevation he is after. Arrows it straight to his opposite number, who takes it reverse-cupped in front of his face!"}]<strong>holes out to long on!</strong> Gives it a hint of air and Hasaranga's eyes light up. He steps down, looking to go over long on but cannot generate the elevation he is after. Arrows it straight to his opposite number, who takes it reverse-cupped in front of his face!
+Hasaranga is OUT! caught
+c Ibrahim Zadran b Mohammad Nabi
+Wanindu Hasaranga c Ibrahim Zadran b Mohammad Nabi 13 (11b 2x4 0x6 16m) SR: 118.18
+<strong>holes out to long on!</strong> Gives it a hint of air and Hasaranga's eyes light up. He steps down, looking to go over long on but cannot generate the elevation he is after. Arrows it straight to his opposite number, who takes it reverse-cupped in front of his face!
 
 
 Balls faced: 24
 Bowler: M Nabi
 Over: 10
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slow and short outside leg. Hasaranga, despite backing away, does not have a lot of room to work with and gets an inside edge that nutmegs the keeper and trickles into the fence!"}]slow and short outside leg. Hasaranga, despite backing away, does not have a lot of room to work with and gets an inside edge that nutmegs the keeper and trickles into the fence!
+slow and short outside leg. Hasaranga, despite backing away, does not have a lot of room to work with and gets an inside edge that nutmegs the keeper and trickles into the fence!
 
 
 
@@ -1590,261 +1773,291 @@ Match: all_games_1419819_1419826.json
 Balls faced: 1
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Hasaranga is the new batter"}]Hasaranga is the new batter
+Hasaranga is the new batter
 
-[{"type": "HTML", "html": "gets a flatter one outside off, drilled to sweeper cover to open his account"}]gets a flatter one outside off, drilled to sweeper cover to open his account
+gets a flatter one outside off, drilled to sweeper cover to open his account
 
 
 Balls faced: 2
 Bowler: Taskin
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "yorker, just wide of off, which again Hasaranga tries to run fine but just sends dribbling towards point. No run"}]yorker, just wide of off, which again Hasaranga tries to run fine but just sends dribbling towards point. No run
+yorker, just wide of off, which again Hasaranga tries to run fine but just sends dribbling towards point. No run
 
 
 Balls faced: 3
 Bowler: Taskin
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short ball, gets up to about belly high, over the stumps. Hasaranga tries to open the face and run it fine, but it's too close to him and there's no power in that shot"}]short ball, gets up to about belly high, over the stumps. Hasaranga tries to open the face and run it fine, but it's too close to him and there's no power in that shot
+short ball, gets up to about belly high, over the stumps. Hasaranga tries to open the face and run it fine, but it's too close to him and there's no power in that shot
 
 
 Balls faced: 4
 Bowler: Taskin
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball wide of off, dabbed unfussily to deep third"}]length ball wide of off, dabbed unfussily to deep third
+length ball wide of off, dabbed unfussily to deep third
 
 
 Balls faced: 5
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Hasaranga is the new batter"}]Hasaranga is the new batter
+Hasaranga is the new batter
 
-[{"type": "HTML", "html": "gets a flatter one outside off, drilled to sweeper cover to open his account"}]gets a flatter one outside off, drilled to sweeper cover to open his account
+gets a flatter one outside off, drilled to sweeper cover to open his account
 
 
 Balls faced: 6
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length ball just wide of off. Hasaranga tries to carve past point but it goes off the top edge to deep third"}]back of a length ball just wide of off. Hasaranga tries to carve past point but it goes off the top edge to deep third
+back of a length ball just wide of off. Hasaranga tries to carve past point but it goes off the top edge to deep third
 
 
 Balls faced: 7
 Bowler: Mustafizur
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, on-pace delivery this time. This is over the stumps and Hasaranga tries to ramp it past the keeper but doesn't get a touch"}]bouncer, on-pace delivery this time. This is over the stumps and Hasaranga tries to ramp it past the keeper but doesn't get a touch
+bouncer, on-pace delivery this time. This is over the stumps and Hasaranga tries to ramp it past the keeper but doesn't get a touch
 
 
 Balls faced: 8
 Bowler: Mustafizur
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "cutter, but poor length - it's overpitched, and Hasaranga throws that front leg out of the way and smokes this aerially down the ground to get his first boundary"}]cutter, but poor length - it's overpitched, and Hasaranga throws that front leg out of the way and smokes this aerially down the ground to get his first boundary
+cutter, but poor length - it's overpitched, and Hasaranga throws that front leg out of the way and smokes this aerially down the ground to get his first boundary
 
 
 Balls faced: 9
 Bowler: Taskin
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "yorker, just wide of off, which again Hasaranga tries to run fine but just sends dribbling towards point. No run"}]yorker, just wide of off, which again Hasaranga tries to run fine but just sends dribbling towards point. No run
+yorker, just wide of off, which again Hasaranga tries to run fine but just sends dribbling towards point. No run
 
 
 Balls faced: 10
 Bowler: Taskin
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short ball, gets up to about belly high, over the stumps. Hasaranga tries to open the face and run it fine, but it's too close to him and there's no power in that shot"}]short ball, gets up to about belly high, over the stumps. Hasaranga tries to open the face and run it fine, but it's too close to him and there's no power in that shot
+short ball, gets up to about belly high, over the stumps. Hasaranga tries to open the face and run it fine, but it's too close to him and there's no power in that shot
 
 
 Balls faced: 11
 Bowler: Taskin
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball wide of off, dabbed unfussily to deep third"}]length ball wide of off, dabbed unfussily to deep third
+length ball wide of off, dabbed unfussily to deep third
 
 
 Balls faced: 12
 Bowler: Rishad Hossain
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, tight into the stumps. Hasaranga goes back and cuts but can't beat backward point"}]flatter, tight into the stumps. Hasaranga goes back and cuts but can't beat backward point
+flatter, tight into the stumps. Hasaranga goes back and cuts but can't beat backward point
 
 
 Balls faced: 13
 Bowler: Rishad Hossain
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "gets hold of this one. This is quicker, fuller, pitching wide of off. Hasaranga gets low and launches this back over the bowlers head, and strikes it sweetly. His first six."}]gets hold of this one. This is quicker, fuller, pitching wide of off. Hasaranga gets low and launches this back over the bowlers head, and strikes it sweetly. His first six.
+gets hold of this one. This is quicker, fuller, pitching wide of off. Hasaranga gets low and launches this back over the bowlers head, and strikes it sweetly. His first six.
 
 
 Balls faced: 14
 Bowler: Rishad Hossain
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows this right down, and deceives Hasaranga with dip and turn. This is is spun hard, pitching outside off and turning away. Hasaranga tries to cut and misses by quite a distance"}]slows this right down, and deceives Hasaranga with dip and turn. This is is spun hard, pitching outside off and turning away. Hasaranga tries to cut and misses by quite a distance
+slows this right down, and deceives Hasaranga with dip and turn. This is is spun hard, pitching outside off and turning away. Hasaranga tries to cut and misses by quite a distance
 
 
 Balls faced: 15
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length ball just wide of off. Hasaranga tries to carve past point but it goes off the top edge to deep third"}]back of a length ball just wide of off. Hasaranga tries to carve past point but it goes off the top edge to deep third
+back of a length ball just wide of off. Hasaranga tries to carve past point but it goes off the top edge to deep third
 
 
 Balls faced: 16
 Bowler: Mustafizur
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, on-pace delivery this time. This is over the stumps and Hasaranga tries to ramp it past the keeper but doesn't get a touch"}]bouncer, on-pace delivery this time. This is over the stumps and Hasaranga tries to ramp it past the keeper but doesn't get a touch
+bouncer, on-pace delivery this time. This is over the stumps and Hasaranga tries to ramp it past the keeper but doesn't get a touch
 
 
 Balls faced: 17
 Bowler: Mustafizur
 Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "cutter, but poor length - it's overpitched, and Hasaranga throws that front leg out of the way and smokes this aerially down the ground to get his first boundary"}]cutter, but poor length - it's overpitched, and Hasaranga throws that front leg out of the way and smokes this aerially down the ground to get his first boundary
+cutter, but poor length - it's overpitched, and Hasaranga throws that front leg out of the way and smokes this aerially down the ground to get his first boundary
 
 
 Balls faced: 18
 Bowler: Soumya
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball outside off, cut away and they take a single"}]length ball outside off, cut away and they take a single
+length ball outside off, cut away and they take a single
 
 
 Balls faced: 19
 Bowler: Rishad Hossain
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, tight into the stumps. Hasaranga goes back and cuts but can't beat backward point"}]flatter, tight into the stumps. Hasaranga goes back and cuts but can't beat backward point
+flatter, tight into the stumps. Hasaranga goes back and cuts but can't beat backward point
 
 
 Balls faced: 20
 Bowler: Rishad Hossain
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "gets hold of this one. This is quicker, fuller, pitching wide of off. Hasaranga gets low and launches this back over the bowlers head, and strikes it sweetly. His first six."}]gets hold of this one. This is quicker, fuller, pitching wide of off. Hasaranga gets low and launches this back over the bowlers head, and strikes it sweetly. His first six.
+gets hold of this one. This is quicker, fuller, pitching wide of off. Hasaranga gets low and launches this back over the bowlers head, and strikes it sweetly. His first six.
 
 
 Balls faced: 21
 Bowler: Rishad Hossain
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slows this right down, and deceives Hasaranga with dip and turn. This is is spun hard, pitching outside off and turning away. Hasaranga tries to cut and misses by quite a distance"}]slows this right down, and deceives Hasaranga with dip and turn. This is is spun hard, pitching outside off and turning away. Hasaranga tries to cut and misses by quite a distance
+slows this right down, and deceives Hasaranga with dip and turn. This is is spun hard, pitching outside off and turning away. Hasaranga tries to cut and misses by quite a distance
 
 
 Balls faced: 22
 Bowler: Mustafizur
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "excellently caught at deep third by Shoriful. This is a shoulder-high bouncer, over about off stump, which Hasaranga tries to ramp over that deep third boundary, But he doesn't get the elevation, and Shoriful Islam is there to take a few steps to his left, judge his leap nicely, and get both hands to the ball about a metre and a half inside the rope. Lovely catching from the seamer"}]excellently caught at deep third by Shoriful. This is a shoulder-high bouncer, over about off stump, which Hasaranga tries to ramp over that deep third boundary, But he doesn't get the elevation, and Shoriful Islam is there to take a few steps to his left, judge his leap nicely, and get both hands to the ball about a metre and a half inside the rope. Lovely catching from the seamer
+Hasaranga is OUT! caught
+c Shoriful Islam b Mustafizur Rahman
+Wanindu Hasaranga c Shoriful Islam b Mustafizur Rahman 15 (13b 1x4 1x6) SR: 115.38
+excellently caught at deep third by Shoriful. This is a shoulder-high bouncer, over about off stump, which Hasaranga tries to ramp over that deep third boundary, But he doesn't get the elevation, and Shoriful Islam is there to take a few steps to his left, judge his leap nicely, and get both hands to the ball about a metre and a half inside the rope. Lovely catching from the seamer
 
 
 Balls faced: 23
 Bowler: Mustafizur
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball, just wide of off. Hasaranga clears the front leg and throws his bat, hitting it hard. But straight to sweeper cover"}]length ball, just wide of off. Hasaranga clears the front leg and throws his bat, hitting it hard. But straight to sweeper cover
+length ball, just wide of off. Hasaranga clears the front leg and throws his bat, hitting it hard. But straight to sweeper cover
 
 
 Balls faced: 24
 Bowler: Soumya
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball outside off, cut away and they take a single"}]length ball outside off, cut away and they take a single
+length ball outside off, cut away and they take a single
 
 
 Balls faced: 25
 Bowler: Mustafizur
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "excellently caught at deep third by Shoriful. This is a shoulder-high bouncer, over about off stump, which Hasaranga tries to ramp over that deep third boundary, But he doesn't get the elevation, and Shoriful Islam is there to take a few steps to his left, judge his leap nicely, and get both hands to the ball about a metre and a half inside the rope. Lovely catching from the seamer"}]excellently caught at deep third by Shoriful. This is a shoulder-high bouncer, over about off stump, which Hasaranga tries to ramp over that deep third boundary, But he doesn't get the elevation, and Shoriful Islam is there to take a few steps to his left, judge his leap nicely, and get both hands to the ball about a metre and a half inside the rope. Lovely catching from the seamer
+Hasaranga is OUT! caught
+c Shoriful Islam b Mustafizur Rahman
+Wanindu Hasaranga c Shoriful Islam b Mustafizur Rahman 15 (13b 1x4 1x6) SR: 115.38
+excellently caught at deep third by Shoriful. This is a shoulder-high bouncer, over about off stump, which Hasaranga tries to ramp over that deep third boundary, But he doesn't get the elevation, and Shoriful Islam is there to take a few steps to his left, judge his leap nicely, and get both hands to the ball about a metre and a half inside the rope. Lovely catching from the seamer
 
 
 Balls faced: 26
 Bowler: Mustafizur
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball, just wide of off. Hasaranga clears the front leg and throws his bat, hitting it hard. But straight to sweeper cover"}]length ball, just wide of off. Hasaranga clears the front leg and throws his bat, hitting it hard. But straight to sweeper cover
+length ball, just wide of off. Hasaranga clears the front leg and throws his bat, hitting it hard. But straight to sweeper cover
 
 
 
@@ -1852,281 +2065,313 @@ Match: all_games_1419819_1419827.json
 Balls faced: 1
 Bowler: Taskin
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Wanindu Hasaranga is the new batter. Expect shots on the offside."}]Wanindu Hasaranga is the new batter. Expect shots on the offside.
+Wanindu Hasaranga is the new batter. Expect shots on the offside.
 
-[{"type": "HTML", "html": "length ball just wide of off, square drive to sweeper cover for a single"}]length ball just wide of off, square drive to sweeper cover for a single
+length ball just wide of off, square drive to sweeper cover for a single
 
 
 Balls faced: 2
 Bowler: Taijul
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in at the stumps, driven inside out to deep cover"}]fired in at the stumps, driven inside out to deep cover
+fired in at the stumps, driven inside out to deep cover
 
 
 Balls faced: 3
 Bowler: Taijul
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slows this right down and pitches it up on off. Hasaranga drives to long off"}]slows this right down and pitches it up on off. Hasaranga drives to long off
+slows this right down and pitches it up on off. Hasaranga drives to long off
 
 
 Balls faced: 4
 Bowler: Taskin
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Wanindu Hasaranga is the new batter. Expect shots on the offside."}]Wanindu Hasaranga is the new batter. Expect shots on the offside.
+Wanindu Hasaranga is the new batter. Expect shots on the offside.
 
-[{"type": "HTML", "html": "length ball just wide of off, square drive to sweeper cover for a single"}]length ball just wide of off, square drive to sweeper cover for a single
+length ball just wide of off, square drive to sweeper cover for a single
 
 
 Balls faced: 5
 Bowler: Taskin
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball angled in at the stumps, Hasaranga hops as he defends this towards point."}]length ball angled in at the stumps, Hasaranga hops as he defends this towards point.
-[{"type": "HTML", "html": "Here's Madushka Balasuriya to take over the comms."}]Here's Madushka Balasuriya to take over the comms.
+length ball angled in at the stumps, Hasaranga hops as he defends this towards point.
+Here's Madushka Balasuriya to take over the comms.
 
 Balls faced: 6
 Bowler: Taskin
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this is fullish again, and Hasaranga is driving. Makes contact this time but hits to cover"}]this is fullish again, and Hasaranga is driving. Makes contact this time but hits to cover
+this is fullish again, and Hasaranga is driving. Makes contact this time but hits to cover
 
 
 Balls faced: 7
 Bowler: Taskin
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes full, gets a tiny bit of seam movement away, and beats the outside edge. Hasaranga had tried to drive this straight"}]goes full, gets a tiny bit of seam movement away, and beats the outside edge. Hasaranga had tried to drive this straight
+goes full, gets a tiny bit of seam movement away, and beats the outside edge. Hasaranga had tried to drive this straight
 
 
 Balls faced: 8
 Bowler: Taskin
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: HOOK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "again Taskin goes short, and again he leaks runs. This is a fast-hands swat from Hasaranga. This is a chest-high bouncer and Hasaranga has thwacked that over deep midwicket for six"}]again Taskin goes short, and again he leaks runs. This is a fast-hands swat from Hasaranga. This is a chest-high bouncer and Hasaranga has thwacked that over deep midwicket for six
+again Taskin goes short, and again he leaks runs. This is a fast-hands swat from Hasaranga. This is a chest-high bouncer and Hasaranga has thwacked that over deep midwicket for six
 
 
 Balls faced: 9
 Bowler: Taskin
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short, wide of off, and Hasaranga hangs back and crashes it over mid on for four. This one has sat up as well and Hasaranga exploits the field placing nicely"}]short, wide of off, and Hasaranga hangs back and crashes it over mid on for four. This one has sat up as well and Hasaranga exploits the field placing nicely
+short, wide of off, and Hasaranga hangs back and crashes it over mid on for four. This one has sat up as well and Hasaranga exploits the field placing nicely
 
 
 Balls faced: 10
 Bowler: Taijul
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in at the stumps, driven inside out to deep cover"}]fired in at the stumps, driven inside out to deep cover
+fired in at the stumps, driven inside out to deep cover
 
 
 Balls faced: 11
 Bowler: Taijul
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slows this right down and pitches it up on off. Hasaranga drives to long off"}]slows this right down and pitches it up on off. Hasaranga drives to long off
+slows this right down and pitches it up on off. Hasaranga drives to long off
 
 
 Balls faced: 12
 Bowler: Shoriful Islam
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Swing and a miss! This was 134kph wide outside off and fullish. Hasaranga's eye's lit up as he got down on one knee to plonk it over extra cover, but all he got was air"}]Swing and a miss! This was 134kph wide outside off and fullish. Hasaranga's eye's lit up as he got down on one knee to plonk it over extra cover, but all he got was air
+Swing and a miss! This was 134kph wide outside off and fullish. Hasaranga's eye's lit up as he got down on one knee to plonk it over extra cover, but all he got was air
 
 
 Balls faced: 13
 Bowler: Shoriful Islam
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the pads, defended to midwicket who hares in to save the single"}]full on the pads, defended to midwicket who hares in to save the single
+full on the pads, defended to midwicket who hares in to save the single
 
 
 Balls faced: 14
 Bowler: Shoriful Islam
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "comes down the track towards leg, Shoriful keeps the length full around off. Poked to point"}]comes down the track towards leg, Shoriful keeps the length full around off. Poked to point
+comes down the track towards leg, Shoriful keeps the length full around off. Poked to point
 
 
 Balls faced: 15
 Bowler: Shoriful Islam
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in from wide of the crease, short outside off. Hasaranga backs away and looks to cut but he can't find a way past point"}]angled in from wide of the crease, short outside off. Hasaranga backs away and looks to cut but he can't find a way past point
+angled in from wide of the crease, short outside off. Hasaranga backs away and looks to cut but he can't find a way past point
 
 
 Balls faced: 16
 Bowler: Taskin
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball angled in at the stumps, Hasaranga hops as he defends this towards point."}]length ball angled in at the stumps, Hasaranga hops as he defends this towards point.
-[{"type": "HTML", "html": "Here's Madushka Balasuriya to take over the comms."}]Here's Madushka Balasuriya to take over the comms.
+length ball angled in at the stumps, Hasaranga hops as he defends this towards point.
+Here's Madushka Balasuriya to take over the comms.
 
 Balls faced: 17
 Bowler: Taskin
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "this is fullish again, and Hasaranga is driving. Makes contact this time but hits to cover"}]this is fullish again, and Hasaranga is driving. Makes contact this time but hits to cover
+this is fullish again, and Hasaranga is driving. Makes contact this time but hits to cover
 
 
 Balls faced: 18
 Bowler: Taskin
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes full, gets a tiny bit of seam movement away, and beats the outside edge. Hasaranga had tried to drive this straight"}]goes full, gets a tiny bit of seam movement away, and beats the outside edge. Hasaranga had tried to drive this straight
+goes full, gets a tiny bit of seam movement away, and beats the outside edge. Hasaranga had tried to drive this straight
 
 
 Balls faced: 19
 Bowler: Taskin
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: HOOK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "again Taskin goes short, and again he leaks runs. This is a fast-hands swat from Hasaranga. This is a chest-high bouncer and Hasaranga has thwacked that over deep midwicket for six"}]again Taskin goes short, and again he leaks runs. This is a fast-hands swat from Hasaranga. This is a chest-high bouncer and Hasaranga has thwacked that over deep midwicket for six
+again Taskin goes short, and again he leaks runs. This is a fast-hands swat from Hasaranga. This is a chest-high bouncer and Hasaranga has thwacked that over deep midwicket for six
 
 
 Balls faced: 20
 Bowler: Taskin
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short, wide of off, and Hasaranga hangs back and crashes it over mid on for four. This one has sat up as well and Hasaranga exploits the field placing nicely"}]short, wide of off, and Hasaranga hangs back and crashes it over mid on for four. This one has sat up as well and Hasaranga exploits the field placing nicely
+short, wide of off, and Hasaranga hangs back and crashes it over mid on for four. This one has sat up as well and Hasaranga exploits the field placing nicely
 
 
 Balls faced: 21
 Bowler: Taskin
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>And the plan works!</b> They've been peppering Hasaranga with the short stuff trying to induce this ramp to third man, and finally Hasaranga succumbs. Short on off, ramped straight down third man's throat. Sri Lanka now in a spot of bother with a little under 10 overs left to go"}]<B>And the plan works!</b> They've been peppering Hasaranga with the short stuff trying to induce this ramp to third man, and finally Hasaranga succumbs. Short on off, ramped straight down third man's throat. Sri Lanka now in a spot of bother with a little under 10 overs left to go
+Hasaranga is OUT! caught
+c Towhid Hridoy b Taskin Ahmed
+Wanindu Hasaranga c Towhid Hridoy b Taskin Ahmed 13 (14b 1x4 1x6 17m) SR: 92.85
+<B>And the plan works!</b> They've been peppering Hasaranga with the short stuff trying to induce this ramp to third man, and finally Hasaranga succumbs. Short on off, ramped straight down third man's throat. Sri Lanka now in a spot of bother with a little under 10 overs left to go
 
 
 Balls faced: 22
 Bowler: Taskin
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Mark: \"Without being able to watch this game what is your opinion of what the par score is on how the wicket is playing? Dew looks likely so will SL need above that par and why did SL bat you think?\" --- Anything less than 300, you'd think Bangladesh would be quite pleased to chase"}]Mark: "Without being able to watch this game what is your opinion of what the par score is on how the wicket is playing? Dew looks likely so will SL need above that par and why did SL bat you think?" --- Anything less than 300, you'd think Bangladesh would be quite pleased to chase
+Mark: "Without being able to watch this game what is your opinion of what the par score is on how the wicket is playing? Dew looks likely so will SL need above that par and why did SL bat you think?" --- Anything less than 300, you'd think Bangladesh would be quite pleased to chase
 
-[{"type": "HTML", "html": "back of a length on off, stays back and defends"}]back of a length on off, stays back and defends
+back of a length on off, stays back and defends
 
 
 Balls faced: 23
 Bowler: Shoriful Islam
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Swing and a miss! This was 134kph wide outside off and fullish. Hasaranga's eye's lit up as he got down on one knee to plonk it over extra cover, but all he got was air"}]Swing and a miss! This was 134kph wide outside off and fullish. Hasaranga's eye's lit up as he got down on one knee to plonk it over extra cover, but all he got was air
+Swing and a miss! This was 134kph wide outside off and fullish. Hasaranga's eye's lit up as he got down on one knee to plonk it over extra cover, but all he got was air
 
 
 Balls faced: 24
 Bowler: Shoriful Islam
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the pads, defended to midwicket who hares in to save the single"}]full on the pads, defended to midwicket who hares in to save the single
+full on the pads, defended to midwicket who hares in to save the single
 
 
 Balls faced: 25
 Bowler: Shoriful Islam
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "comes down the track towards leg, Shoriful keeps the length full around off. Poked to point"}]comes down the track towards leg, Shoriful keeps the length full around off. Poked to point
+comes down the track towards leg, Shoriful keeps the length full around off. Poked to point
 
 
 Balls faced: 26
 Bowler: Shoriful Islam
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in from wide of the crease, short outside off. Hasaranga backs away and looks to cut but he can't find a way past point"}]angled in from wide of the crease, short outside off. Hasaranga backs away and looks to cut but he can't find a way past point
+angled in from wide of the crease, short outside off. Hasaranga backs away and looks to cut but he can't find a way past point
 
 
 Balls faced: 27
 Bowler: Taskin
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: UPPER_CUT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>And the plan works!</b> They've been peppering Hasaranga with the short stuff trying to induce this ramp to third man, and finally Hasaranga succumbs. Short on off, ramped straight down third man's throat. Sri Lanka now in a spot of bother with a little under 10 overs left to go"}]<B>And the plan works!</b> They've been peppering Hasaranga with the short stuff trying to induce this ramp to third man, and finally Hasaranga succumbs. Short on off, ramped straight down third man's throat. Sri Lanka now in a spot of bother with a little under 10 overs left to go
+Hasaranga is OUT! caught
+c Towhid Hridoy b Taskin Ahmed
+Wanindu Hasaranga c Towhid Hridoy b Taskin Ahmed 13 (14b 1x4 1x6 17m) SR: 92.85
+<B>And the plan works!</b> They've been peppering Hasaranga with the short stuff trying to induce this ramp to third man, and finally Hasaranga succumbs. Short on off, ramped straight down third man's throat. Sri Lanka now in a spot of bother with a little under 10 overs left to go
 
 
 Balls faced: 28
 Bowler: Taskin
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Mark: \"Without being able to watch this game what is your opinion of what the par score is on how the wicket is playing? Dew looks likely so will SL need above that par and why did SL bat you think?\" --- Anything less than 300, you'd think Bangladesh would be quite pleased to chase"}]Mark: "Without being able to watch this game what is your opinion of what the par score is on how the wicket is playing? Dew looks likely so will SL need above that par and why did SL bat you think?" --- Anything less than 300, you'd think Bangladesh would be quite pleased to chase
+Mark: "Without being able to watch this game what is your opinion of what the par score is on how the wicket is playing? Dew looks likely so will SL need above that par and why did SL bat you think?" --- Anything less than 300, you'd think Bangladesh would be quite pleased to chase
 
-[{"type": "HTML", "html": "back of a length on off, stays back and defends"}]back of a length on off, stays back and defends
+back of a length on off, stays back and defends
 
 
 
@@ -2134,341 +2379,379 @@ Match: all_games_1419819_1419828.json
 Balls faced: 1
 Bowler: Tanzim Hasan Sakib
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length ball on the pads of Hasaranga who helps it to deep square leg"}]Back of a length ball on the pads of Hasaranga who helps it to deep square leg
+Back of a length ball on the pads of Hasaranga who helps it to deep square leg
 
 
 Balls faced: 2
 Bowler: Tanzim Hasan Sakib
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller on off stump, he drives aerially and on the bounce to mid-off"}]Fuller on off stump, he drives aerially and on the bounce to mid-off
+Fuller on off stump, he drives aerially and on the bounce to mid-off
 
 
 Balls faced: 3
 Bowler: Tanzim Hasan Sakib
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Sri Lanka need 36 off 53 and here's Hasaranga"}]Sri Lanka need 36 off 53 and here's Hasaranga
+Sri Lanka need 36 off 53 and here's Hasaranga
 
-[{"type": "HTML", "html": "Length ball on the pads of Hasaranga, who flicks it neatly to Taijul at deep square leg. The fielder fires a flat throw and Wellalage had to put in the dive to make it home"}]Length ball on the pads of Hasaranga, who flicks it neatly to Taijul at deep square leg. The fielder fires a flat throw and Wellalage had to put in the dive to make it home
+Length ball on the pads of Hasaranga, who flicks it neatly to Taijul at deep square leg. The fielder fires a flat throw and Wellalage had to put in the dive to make it home
 
 
 Balls faced: 4
 Bowler: Shoriful Islam
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Ooh, that's a good ball. Back of a length ball angling into Hasaranga, who backs away and is hit on the thumb as he gets it to deep third"}]Ooh, that's a good ball. Back of a length ball angling into Hasaranga, who backs away and is hit on the thumb as he gets it to deep third
+Ooh, that's a good ball. Back of a length ball angling into Hasaranga, who backs away and is hit on the thumb as he gets it to deep third
 
 
 Balls faced: 5
 Bowler: Shoriful Islam
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "A cleaner pick up could have made things interesting. Fuller on off and middle, he pushes to mid-off and sets off. Was a tight run"}]A cleaner pick up could have made things interesting. Fuller on off and middle, he pushes to mid-off and sets off. Was a tight run
+A cleaner pick up could have made things interesting. Fuller on off and middle, he pushes to mid-off and sets off. Was a tight run
 
 
 Balls faced: 6
 Bowler: Shoriful Islam
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Brilliant fielding by Mehidy at backward point. Back of length ball outside off, he punches it neatly but Mehidy dives to his right"}]Brilliant fielding by Mehidy at backward point. Back of length ball outside off, he punches it neatly but Mehidy dives to his right
+Brilliant fielding by Mehidy at backward point. Back of length ball outside off, he punches it neatly but Mehidy dives to his right
 
 
 Balls faced: 7
 Bowler: Tanzim Hasan Sakib
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length ball on the pads of Hasaranga who helps it to deep square leg"}]Back of a length ball on the pads of Hasaranga who helps it to deep square leg
+Back of a length ball on the pads of Hasaranga who helps it to deep square leg
 
 
 Balls faced: 8
 Bowler: Tanzim Hasan Sakib
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller on off stump, he drives aerially and on the bounce to mid-off"}]Fuller on off stump, he drives aerially and on the bounce to mid-off
+Fuller on off stump, he drives aerially and on the bounce to mid-off
 
 
 Balls faced: 9
 Bowler: Tanzim Hasan Sakib
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
-[{"type": "HTML", "html": "Sri Lanka need 36 off 53 and here's Hasaranga"}]Sri Lanka need 36 off 53 and here's Hasaranga
+Sri Lanka need 36 off 53 and here's Hasaranga
 
-[{"type": "HTML", "html": "Length ball on the pads of Hasaranga, who flicks it neatly to Taijul at deep square leg. The fielder fires a flat throw and Wellalage had to put in the dive to make it home"}]Length ball on the pads of Hasaranga, who flicks it neatly to Taijul at deep square leg. The fielder fires a flat throw and Wellalage had to put in the dive to make it home
+Length ball on the pads of Hasaranga, who flicks it neatly to Taijul at deep square leg. The fielder fires a flat throw and Wellalage had to put in the dive to make it home
 
 
 Balls faced: 10
 Bowler: Tanzim Hasan Sakib
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball on leg stump, he stays leg side of the ball and pushes to long on"}]Length ball on leg stump, he stays leg side of the ball and pushes to long on
+Length ball on leg stump, he stays leg side of the ball and pushes to long on
 
 
 Balls faced: 11
 Bowler: Tanzim Hasan Sakib
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Slower offcutter outside off, he looks to go on the up, but is done in by the lack of pace. Swing and a miss"}]Slower offcutter outside off, he looks to go on the up, but is done in by the lack of pace. Swing and a miss
+Slower offcutter outside off, he looks to go on the up, but is done in by the lack of pace. Swing and a miss
 
 
 Balls faced: 12
 Bowler: Tanzim Hasan Sakib
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length ball outside off, he gives himself some room and thrashes it to deep cover"}]Back of a length ball outside off, he gives himself some room and thrashes it to deep cover
+Back of a length ball outside off, he gives himself some room and thrashes it to deep cover
 
 
 Balls faced: 13
 Bowler: Tanzim Hasan Sakib
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in shirt, but that is very short. Mushfiqur does well to leap and save a few extra runs"}]Banged in shirt, but that is very short. Mushfiqur does well to leap and save a few extra runs
+Banged in shirt, but that is very short. Mushfiqur does well to leap and save a few extra runs
 
 Wide: 1
 Balls faced: 14
 Bowler: Shoriful Islam
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Ooh, that's a good ball. Back of a length ball angling into Hasaranga, who backs away and is hit on the thumb as he gets it to deep third"}]Ooh, that's a good ball. Back of a length ball angling into Hasaranga, who backs away and is hit on the thumb as he gets it to deep third
+Ooh, that's a good ball. Back of a length ball angling into Hasaranga, who backs away and is hit on the thumb as he gets it to deep third
 
 
 Balls faced: 15
 Bowler: Shoriful Islam
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "A cleaner pick up could have made things interesting. Fuller on off and middle, he pushes to mid-off and sets off. Was a tight run"}]A cleaner pick up could have made things interesting. Fuller on off and middle, he pushes to mid-off and sets off. Was a tight run
+A cleaner pick up could have made things interesting. Fuller on off and middle, he pushes to mid-off and sets off. Was a tight run
 
 
 Balls faced: 16
 Bowler: Shoriful Islam
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Brilliant fielding by Mehidy at backward point. Back of length ball outside off, he punches it neatly but Mehidy dives to his right"}]Brilliant fielding by Mehidy at backward point. Back of length ball outside off, he punches it neatly but Mehidy dives to his right
+Brilliant fielding by Mehidy at backward point. Back of length ball outside off, he punches it neatly but Mehidy dives to his right
 
 
 Balls faced: 17
 Bowler: Taskin
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on middle and leg stump, he stays leg side of the ball and opens the face of the bat to deep third"}]Length on middle and leg stump, he stays leg side of the ball and opens the face of the bat to deep third
+Length on middle and leg stump, he stays leg side of the ball and opens the face of the bat to deep third
 
 
 Balls faced: 18
 Bowler: Tanzim Hasan Sakib
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball on leg stump, he stays leg side of the ball and pushes to long on"}]Length ball on leg stump, he stays leg side of the ball and pushes to long on
+Length ball on leg stump, he stays leg side of the ball and pushes to long on
 
 
 Balls faced: 19
 Bowler: Tanzim Hasan Sakib
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Slower offcutter outside off, he looks to go on the up, but is done in by the lack of pace. Swing and a miss"}]Slower offcutter outside off, he looks to go on the up, but is done in by the lack of pace. Swing and a miss
+Slower offcutter outside off, he looks to go on the up, but is done in by the lack of pace. Swing and a miss
 
 
 Balls faced: 20
 Bowler: Tanzim Hasan Sakib
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length ball outside off, he gives himself some room and thrashes it to deep cover"}]Back of a length ball outside off, he gives himself some room and thrashes it to deep cover
+Back of a length ball outside off, he gives himself some room and thrashes it to deep cover
 
 
 Balls faced: 21
 Bowler: Tanzim Hasan Sakib
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in shirt, but that is very short. Mushfiqur does well to leap and save a few extra runs"}]Banged in shirt, but that is very short. Mushfiqur does well to leap and save a few extra runs
+Banged in shirt, but that is very short. Mushfiqur does well to leap and save a few extra runs
 
 Wide: 1
 Balls faced: 22
 Bowler: Tanzim Hasan Sakib
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Finally some aggression and Hasaranga it is who relieves the pressure. Banged in short on off, but Hasaranga was waiting for it. Stays back and slams it over the deep midwicket rope"}]Finally some aggression and Hasaranga it is who relieves the pressure. Banged in short on off, but Hasaranga was waiting for it. Stays back and slams it over the deep midwicket rope
+Finally some aggression and Hasaranga it is who relieves the pressure. Banged in short on off, but Hasaranga was waiting for it. Stays back and slams it over the deep midwicket rope
 
 
 Balls faced: 23
 Bowler: Tanzim Hasan Sakib
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Christof: \"Leaving it late could come back to bite Sri Lanka. One wicket, a new man at the crease--could quickly collapse on the tail.\""}]Christof: "Leaving it late could come back to bite Sri Lanka. One wicket, a new man at the crease--could quickly collapse on the tail."
+Christof: "Leaving it late could come back to bite Sri Lanka. One wicket, a new man at the crease--could quickly collapse on the tail."
 
-[{"type": "HTML", "html": "Low full toss on the pads of Hasaranga who clips it to deep midwicket"}]Low full toss on the pads of Hasaranga who clips it to deep midwicket
+Low full toss on the pads of Hasaranga who clips it to deep midwicket
 
 
 Balls faced: 24
 Bowler: Taskin
 Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length on middle and leg stump, he stays leg side of the ball and opens the face of the bat to deep third"}]Length on middle and leg stump, he stays leg side of the ball and opens the face of the bat to deep third
+Length on middle and leg stump, he stays leg side of the ball and opens the face of the bat to deep third
 
 
 Balls faced: 25
 Bowler: Taijul
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Looks to finish it off but departs in the process. Was floated on middle stump, but Taijul had also pulled the length back. Hasaranga looks for a repeat of the previous shot but this time only gets a top edge that balloons straight up. Litton runs across from mid-on and takes a simple catch"}]Looks to finish it off but departs in the process. Was floated on middle stump, but Taijul had also pulled the length back. Hasaranga looks for a repeat of the previous shot but this time only gets a top edge that balloons straight up. Litton runs across from mid-on and takes a simple catch
+Hasaranga is OUT! caught
+c Litton Das b Taijul Islam
+Wanindu Hasaranga c Litton Das b Taijul Islam 25 (16b 1x4 2x6 31m) SR: 156.25
+Looks to finish it off but departs in the process. Was floated on middle stump, but Taijul had also pulled the length back. Hasaranga looks for a repeat of the previous shot but this time only gets a top edge that balloons straight up. Litton runs across from mid-on and takes a simple catch
 
 
 Balls faced: 26
 Bowler: Taijul
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Fuller on off, he bends down on one knee and slams the slog sweep to the vacant deep midwicket fence"}]Fuller on off, he bends down on one knee and slams the slog sweep to the vacant deep midwicket fence
+Fuller on off, he bends down on one knee and slams the slog sweep to the vacant deep midwicket fence
 
 
 Balls faced: 27
 Bowler: Taijul
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "SL need six"}]SL need six
+SL need six
 
-[{"type": "HTML", "html": "Slightly short, he goes back and slaps it hard but straight to mid-on on the bounce"}]Slightly short, he goes back and slaps it hard but straight to mid-on on the bounce
+Slightly short, he goes back and slaps it hard but straight to mid-on on the bounce
 
 
 Balls faced: 28
 Bowler: Taijul
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>UP AND OVER!</strong> Hasaranga has had enough. Tossed up on leg stump, he backs away, gives himself room and hammers him over mid-on and eventually over the ropes"}]<strong>UP AND OVER!</strong> Hasaranga has had enough. Tossed up on leg stump, he backs away, gives himself room and hammers him over mid-on and eventually over the ropes
+<strong>UP AND OVER!</strong> Hasaranga has had enough. Tossed up on leg stump, he backs away, gives himself room and hammers him over mid-on and eventually over the ropes
 
 
 Balls faced: 29
 Bowler: Tanzim Hasan Sakib
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Finally some aggression and Hasaranga it is who relieves the pressure. Banged in short on off, but Hasaranga was waiting for it. Stays back and slams it over the deep midwicket rope"}]Finally some aggression and Hasaranga it is who relieves the pressure. Banged in short on off, but Hasaranga was waiting for it. Stays back and slams it over the deep midwicket rope
+Finally some aggression and Hasaranga it is who relieves the pressure. Banged in short on off, but Hasaranga was waiting for it. Stays back and slams it over the deep midwicket rope
 
 
 Balls faced: 30
 Bowler: Tanzim Hasan Sakib
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Christof: \"Leaving it late could come back to bite Sri Lanka. One wicket, a new man at the crease--could quickly collapse on the tail.\""}]Christof: "Leaving it late could come back to bite Sri Lanka. One wicket, a new man at the crease--could quickly collapse on the tail."
+Christof: "Leaving it late could come back to bite Sri Lanka. One wicket, a new man at the crease--could quickly collapse on the tail."
 
-[{"type": "HTML", "html": "Low full toss on the pads of Hasaranga who clips it to deep midwicket"}]Low full toss on the pads of Hasaranga who clips it to deep midwicket
+Low full toss on the pads of Hasaranga who clips it to deep midwicket
 
 
 Balls faced: 31
 Bowler: Taijul
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Looks to finish it off but departs in the process. Was floated on middle stump, but Taijul had also pulled the length back. Hasaranga looks for a repeat of the previous shot but this time only gets a top edge that balloons straight up. Litton runs across from mid-on and takes a simple catch"}]Looks to finish it off but departs in the process. Was floated on middle stump, but Taijul had also pulled the length back. Hasaranga looks for a repeat of the previous shot but this time only gets a top edge that balloons straight up. Litton runs across from mid-on and takes a simple catch
+Hasaranga is OUT! caught
+c Litton Das b Taijul Islam
+Wanindu Hasaranga c Litton Das b Taijul Islam 25 (16b 1x4 2x6 31m) SR: 156.25
+Looks to finish it off but departs in the process. Was floated on middle stump, but Taijul had also pulled the length back. Hasaranga looks for a repeat of the previous shot but this time only gets a top edge that balloons straight up. Litton runs across from mid-on and takes a simple catch
 
 
 Balls faced: 32
 Bowler: Taijul
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Fuller on off, he bends down on one knee and slams the slog sweep to the vacant deep midwicket fence"}]Fuller on off, he bends down on one knee and slams the slog sweep to the vacant deep midwicket fence
+Fuller on off, he bends down on one knee and slams the slog sweep to the vacant deep midwicket fence
 
 
 Balls faced: 33
 Bowler: Taijul
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "SL need six"}]SL need six
+SL need six
 
-[{"type": "HTML", "html": "Slightly short, he goes back and slaps it hard but straight to mid-on on the bounce"}]Slightly short, he goes back and slaps it hard but straight to mid-on on the bounce
+Slightly short, he goes back and slaps it hard but straight to mid-on on the bounce
 
 
 Balls faced: 34
 Bowler: Taijul
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>UP AND OVER!</strong> Hasaranga has had enough. Tossed up on leg stump, he backs away, gives himself room and hammers him over mid-on and eventually over the ropes"}]<strong>UP AND OVER!</strong> Hasaranga has had enough. Tossed up on leg stump, he backs away, gives himself room and hammers him over mid-on and eventually over the ropes
+<strong>UP AND OVER!</strong> Hasaranga has had enough. Tossed up on leg stump, he backs away, gives himself room and hammers him over mid-on and eventually over the ropes
 
 
 
@@ -2476,161 +2759,181 @@ Match: all_games_1419819_1419829.json
 Balls faced: 1
 Bowler: Shoriful Islam
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length delivery on the stumps, rocks back and steered it through the thirdman area"}]Back of a length delivery on the stumps, rocks back and steered it through the thirdman area
-[{"type": "HTML", "html": "ThilinaTJ: \"Bangladesh pacers are dominating here and SL on the other hand are playing 3 spinners!! wonder SL management has made another blunder here like in the 1st game!\""}]ThilinaTJ: "Bangladesh pacers are dominating here and SL on the other hand are playing 3 spinners!! wonder SL management has made another blunder here like in the 1st game!"
+Back of a length delivery on the stumps, rocks back and steered it through the thirdman area
+ThilinaTJ: "Bangladesh pacers are dominating here and SL on the other hand are playing 3 spinners!! wonder SL management has made another blunder here like in the 1st game!"
 
 Balls faced: 2
 Bowler: Shoriful Islam
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket"}]Around the wicket
+Around the wicket
 
-[{"type": "HTML", "html": "Good length delivery on middle-leg, defends it to the offside"}]Good length delivery on middle-leg, defends it to the offside
+Good length delivery on middle-leg, defends it to the offside
 
 
 Balls faced: 3
 Bowler: Shoriful Islam
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball on the stumps. rocks back and guides it to the third man fielder"}]Length ball on the stumps. rocks back and guides it to the third man fielder
-[{"type": "HTML", "html": "Shagor: \"Yes Ravi, many people are following cricinfo ball by ball.... It's working day at BD and can't watch TV/mobile :(....\""}]Shagor: "Yes Ravi, many people are following cricinfo ball by ball.... It's working day at BD and can't watch TV/mobile :(...."
+Length ball on the stumps. rocks back and guides it to the third man fielder
+Shagor: "Yes Ravi, many people are following cricinfo ball by ball.... It's working day at BD and can't watch TV/mobile :(...."
 
 Balls faced: 4
 Bowler: Shoriful Islam
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Back of a length ball wide outside off, cuts it fine of the fielder and sets off for a couple"}]Back of a length ball wide outside off, cuts it fine of the fielder and sets off for a couple
+Back of a length ball wide outside off, cuts it fine of the fielder and sets off for a couple
 
 
 Balls faced: 5
 Bowler: Mehidy Hasan Miraz
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length ball on the stumps, defends back to the bowler"}]Good length ball on the stumps, defends back to the bowler
+Good length ball on the stumps, defends back to the bowler
 
 
 Balls faced: 6
 Bowler: Mehidy Hasan Miraz
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Tossed up delivery, Hasaranga charges down the track and smashes it high over the long off fence"}]Tossed up delivery, Hasaranga charges down the track and smashes it high over the long off fence
+Tossed up delivery, Hasaranga charges down the track and smashes it high over the long off fence
 
 
 Balls faced: 7
 Bowler: Mehidy Hasan Miraz
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short pitched delivery on the off stump, moves away to make room, connects it firmly past the short extra cover fielder for a single"}]Short pitched delivery on the off stump, moves away to make room, connects it firmly past the short extra cover fielder for a single
+Short pitched delivery on the off stump, moves away to make room, connects it firmly past the short extra cover fielder for a single
 
 
 Balls faced: 8
 Bowler: Shoriful Islam
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length delivery on the stumps, rocks back and steered it through the thirdman area"}]Back of a length delivery on the stumps, rocks back and steered it through the thirdman area
-[{"type": "HTML", "html": "ThilinaTJ: \"Bangladesh pacers are dominating here and SL on the other hand are playing 3 spinners!! wonder SL management has made another blunder here like in the 1st game!\""}]ThilinaTJ: "Bangladesh pacers are dominating here and SL on the other hand are playing 3 spinners!! wonder SL management has made another blunder here like in the 1st game!"
+Back of a length delivery on the stumps, rocks back and steered it through the thirdman area
+ThilinaTJ: "Bangladesh pacers are dominating here and SL on the other hand are playing 3 spinners!! wonder SL management has made another blunder here like in the 1st game!"
 
 Balls faced: 9
 Bowler: Shoriful Islam
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket"}]Around the wicket
+Around the wicket
 
-[{"type": "HTML", "html": "Good length delivery on middle-leg, defends it to the offside"}]Good length delivery on middle-leg, defends it to the offside
+Good length delivery on middle-leg, defends it to the offside
 
 
 Balls faced: 10
 Bowler: Shoriful Islam
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball on the stumps. rocks back and guides it to the third man fielder"}]Length ball on the stumps. rocks back and guides it to the third man fielder
-[{"type": "HTML", "html": "Shagor: \"Yes Ravi, many people are following cricinfo ball by ball.... It's working day at BD and can't watch TV/mobile :(....\""}]Shagor: "Yes Ravi, many people are following cricinfo ball by ball.... It's working day at BD and can't watch TV/mobile :(...."
+Length ball on the stumps. rocks back and guides it to the third man fielder
+Shagor: "Yes Ravi, many people are following cricinfo ball by ball.... It's working day at BD and can't watch TV/mobile :(...."
 
 Balls faced: 11
 Bowler: Shoriful Islam
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Back of a length ball wide outside off, cuts it fine of the fielder and sets off for a couple"}]Back of a length ball wide outside off, cuts it fine of the fielder and sets off for a couple
+Back of a length ball wide outside off, cuts it fine of the fielder and sets off for a couple
 
 
 Balls faced: 12
 Bowler: Mehidy Hasan Miraz
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length ball on the stumps, defends back to the bowler"}]Good length ball on the stumps, defends back to the bowler
+Good length ball on the stumps, defends back to the bowler
 
 
 Balls faced: 13
 Bowler: Mehidy Hasan Miraz
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Tossed up delivery, Hasaranga charges down the track and smashes it high over the long off fence"}]Tossed up delivery, Hasaranga charges down the track and smashes it high over the long off fence
+Tossed up delivery, Hasaranga charges down the track and smashes it high over the long off fence
 
 
 Balls faced: 14
 Bowler: Mehidy Hasan Miraz
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short pitched delivery on the off stump, moves away to make room, connects it firmly past the short extra cover fielder for a single"}]Short pitched delivery on the off stump, moves away to make room, connects it firmly past the short extra cover fielder for a single
+Short pitched delivery on the off stump, moves away to make room, connects it firmly past the short extra cover fielder for a single
 
 
 Balls faced: 15
 Bowler: Mehidy Hasan Miraz
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Clean bowled!</strong> Length ball on the off stump, Hasaranga moves away to make room, attempts to play it square but gets beaten by the lack of bounce."}]<strong>Clean bowled!</strong> Length ball on the off stump, Hasaranga moves away to make room, attempts to play it square but gets beaten by the lack of bounce.
+Hasaranga is OUT! bowled
+ b Mehidy Hasan Miraz
+Wanindu Hasaranga b Mehidy Hasan Miraz 11 (8b 0x4 1x6 12m) SR: 137.5
+<strong>Clean bowled!</strong> Length ball on the off stump, Hasaranga moves away to make room, attempts to play it square but gets beaten by the lack of bounce.
 
 
 Balls faced: 16
 Bowler: Mehidy Hasan Miraz
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Clean bowled!</strong> Length ball on the off stump, Hasaranga moves away to make room, attempts to play it square but gets beaten by the lack of bounce."}]<strong>Clean bowled!</strong> Length ball on the off stump, Hasaranga moves away to make room, attempts to play it square but gets beaten by the lack of bounce.
+Hasaranga is OUT! bowled
+ b Mehidy Hasan Miraz
+Wanindu Hasaranga b Mehidy Hasan Miraz 11 (8b 0x4 1x6 12m) SR: 137.5
+<strong>Clean bowled!</strong> Length ball on the off stump, Hasaranga moves away to make room, attempts to play it square but gets beaten by the lack of bounce.
 
 
 
@@ -2638,6 +2941,7 @@ Match: all_games_1434088_1434103.json
 Balls faced: 1
 Bowler: McCarthy
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2648,6 +2952,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: McCarthy
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2658,6 +2963,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: McCarthy
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2668,6 +2974,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: McCarthy
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2678,6 +2985,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Campher
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2688,6 +2996,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Campher
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2698,6 +3007,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: McCarthy
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2708,6 +3018,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: McCarthy
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2718,6 +3029,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: McCarthy
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2728,6 +3040,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: McCarthy
 Over: 8
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2738,6 +3051,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2748,6 +3062,7 @@ Run scored: 4
 Balls faced: 12
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2758,6 +3073,7 @@ Run scored: 4
 Balls faced: 13
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2768,6 +3084,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2778,6 +3095,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2788,6 +3106,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -2798,6 +3117,7 @@ Run scored: 6
 Balls faced: 17
 Bowler: Campher
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2808,6 +3128,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Campher
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2818,6 +3139,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Campher
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2828,6 +3150,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2838,6 +3161,7 @@ Run scored: 4
 Balls faced: 21
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2848,6 +3172,7 @@ Run scored: 4
 Balls faced: 22
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2858,6 +3183,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2868,6 +3194,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2878,6 +3205,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: White
 Over: 10
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -2888,6 +3216,7 @@ Run scored: 6
 Balls faced: 26
 Bowler: White
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2898,6 +3227,7 @@ Run scored: 1
 Balls faced: 27
 Bowler: White
 Over: 12
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2908,6 +3238,7 @@ Run scored: 4
 Balls faced: 28
 Bowler: White
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2918,6 +3249,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: White
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2928,6 +3260,7 @@ Run scored: 1
 Balls faced: 30
 Bowler: Campher
 Over: 11
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2938,6 +3271,7 @@ Run scored: 1
 Balls faced: 31
 Bowler: Delany
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2948,6 +3282,7 @@ Run scored: 1
 Balls faced: 32
 Bowler: Delany
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2958,6 +3293,7 @@ Run scored: 1
 Balls faced: 33
 Bowler: Delany
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2968,6 +3304,7 @@ Run scored: 1
 Balls faced: 34
 Bowler: White
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2978,6 +3315,7 @@ Run scored: 1
 Balls faced: 35
 Bowler: White
 Over: 12
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2988,6 +3326,7 @@ Run scored: 4
 Balls faced: 36
 Bowler: White
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2998,6 +3337,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: White
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -3008,16 +3348,20 @@ Run scored: 1
 Balls faced: 38
 Bowler: White
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hasaranga is OUT! caught
+c Little b White
+Wanindu Hasaranga c Little b White 26 (21b 3x4 1x6) SR: 123.8
 
 
 
 Balls faced: 39
 Bowler: Delany
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -3028,6 +3372,7 @@ Run scored: 1
 Balls faced: 40
 Bowler: Delany
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -3038,6 +3383,7 @@ Run scored: 1
 Balls faced: 41
 Bowler: Delany
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -3048,5 +3394,10 @@ Run scored: 1
 Balls faced: 42
 Bowler: White
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
+
+Hasaranga is OUT! caught
+c Little b White
+Wanindu Hasaranga c Little b White 26 (21b 3x4 1x6) SR: 123.8

@@ -2,281 +2,313 @@ Match: all_games_1385666_1385688.json
 Balls faced: 1
 Bowler: Archer
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "More width, slightly shorter too, allowing the right-hander to go backward of point down to third"}]More width, slightly shorter too, allowing the right-hander to go backward of point down to third
+More width, slightly shorter too, allowing the right-hander to go backward of point down to third
 
 
 Balls faced: 2
 Bowler: Archer
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Cutter, off a length, outside off stump, cut straight to backward point"}]Cutter, off a length, outside off stump, cut straight to backward point
+Cutter, off a length, outside off stump, cut straight to backward point
 
 
 Balls faced: 3
 Bowler: Archer
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Into the body, cramping Iftikhar for room ensuring he has to wear it"}]Into the body, cramping Iftikhar for room ensuring he has to wear it
+Into the body, cramping Iftikhar for room ensuring he has to wear it
 
 
 Balls faced: 4
 Bowler: Archer
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Iftikhar Ahmed is the new batter"}]Iftikhar Ahmed is the new batter
+Iftikhar Ahmed is the new batter
 
-[{"type": "HTML", "html": "Ooooooo almost sneaks through onto the base of middle stump - 91.3mph - but Iftikhar gets a toe on the ball to divert it onto his pad"}]Ooooooo almost sneaks through onto the base of middle stump - 91.3mph - but Iftikhar gets a toe on the ball to divert it onto his pad
+Ooooooo almost sneaks through onto the base of middle stump - 91.3mph - but Iftikhar gets a toe on the ball to divert it onto his pad
 
 
 Balls faced: 5
 Bowler: Archer
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "More width, slightly shorter too, allowing the right-hander to go backward of point down to third"}]More width, slightly shorter too, allowing the right-hander to go backward of point down to third
+More width, slightly shorter too, allowing the right-hander to go backward of point down to third
 
 
 Balls faced: 6
 Bowler: Archer
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Cutter, off a length, outside off stump, cut straight to backward point"}]Cutter, off a length, outside off stump, cut straight to backward point
+Cutter, off a length, outside off stump, cut straight to backward point
 
 
 Balls faced: 7
 Bowler: Archer
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Into the body, cramping Iftikhar for room ensuring he has to wear it"}]Into the body, cramping Iftikhar for room ensuring he has to wear it
+Into the body, cramping Iftikhar for room ensuring he has to wear it
 
 
 Balls faced: 8
 Bowler: Archer
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Iftikhar Ahmed is the new batter"}]Iftikhar Ahmed is the new batter
+Iftikhar Ahmed is the new batter
 
-[{"type": "HTML", "html": "Ooooooo almost sneaks through onto the base of middle stump - 91.3mph - but Iftikhar gets a toe on the ball to divert it onto his pad"}]Ooooooo almost sneaks through onto the base of middle stump - 91.3mph - but Iftikhar gets a toe on the ball to divert it onto his pad
+Ooooooo almost sneaks through onto the base of middle stump - 91.3mph - but Iftikhar gets a toe on the ball to divert it onto his pad
 
 
 Balls faced: 9
 Bowler: Rashid
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Rashid corrects with a flatter delivery on off stump which is run down to third"}]Rashid corrects with a flatter delivery on off stump which is run down to third
+Rashid corrects with a flatter delivery on off stump which is run down to third
 
 
 Balls faced: 10
 Bowler: Rashid
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>My oh my!</strong> Glorious strike from Iftikhar, down on one knee as Adil flights one that gets sent back with plenty of interest, into the stands at long on"}]<strong>My oh my!</strong> Glorious strike from Iftikhar, down on one knee as Adil flights one that gets sent back with plenty of interest, into the stands at long on
+<strong>My oh my!</strong> Glorious strike from Iftikhar, down on one knee as Adil flights one that gets sent back with plenty of interest, into the stands at long on
 
 
 Balls faced: 11
 Bowler: Archer
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Into a good length, Iftikhar a little late on this pull but is at least able to retain the strike"}]Into a good length, Iftikhar a little late on this pull but is at least able to retain the strike
+Into a good length, Iftikhar a little late on this pull but is at least able to retain the strike
 
 
 Balls faced: 12
 Bowler: Archer
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Leg cutter, outside off, Iftikhar tries to guide it behind point but can only find the fielder at short third"}]Leg cutter, outside off, Iftikhar tries to guide it behind point but can only find the fielder at short third
+Leg cutter, outside off, Iftikhar tries to guide it behind point but can only find the fielder at short third
 
 
 Balls faced: 13
 Bowler: Archer
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower ball, sits up off a short length, pulled away to deep midwicket"}]Slower ball, sits up off a short length, pulled away to deep midwicket
+Slower ball, sits up off a short length, pulled away to deep midwicket
 
 
 Balls faced: 14
 Bowler: Archer
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Jofra Archer with a change of ends"}]Jofra Archer with a change of ends
+Jofra Archer with a change of ends
 
-[{"type": "HTML", "html": "Starts outside off, run down to third, via a deflecting hand from Reece Topley"}]Starts outside off, run down to third, via a deflecting hand from Reece Topley
+Starts outside off, run down to third, via a deflecting hand from Reece Topley
 
 
 Balls faced: 15
 Bowler: Rashid
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Rashid corrects with a flatter delivery on off stump which is run down to third"}]Rashid corrects with a flatter delivery on off stump which is run down to third
+Rashid corrects with a flatter delivery on off stump which is run down to third
 
 
 Balls faced: 16
 Bowler: Rashid
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>My oh my!</strong> Glorious strike from Iftikhar, down on one knee as Adil flights one that gets sent back with plenty of interest, into the stands at long on"}]<strong>My oh my!</strong> Glorious strike from Iftikhar, down on one knee as Adil flights one that gets sent back with plenty of interest, into the stands at long on
+<strong>My oh my!</strong> Glorious strike from Iftikhar, down on one knee as Adil flights one that gets sent back with plenty of interest, into the stands at long on
 
 
 Balls faced: 17
 Bowler: Topley
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Smoked high.... oh so high... <strong>and lands safely into the hands of Chris Jordan!</strong> Came down with snow on it but Jordan, as ever, keeps his cool. Charged in at first before backtracking to complete the dismissal. Huge wicket"}]Smoked high.... oh so high... <strong>and lands safely into the hands of Chris Jordan!</strong> Came down with snow on it but Jordan, as ever, keeps his cool. Charged in at first before backtracking to complete the dismissal. Huge wicket
+Iftikhar is OUT! caught
+c Jordan b Topley
+Iftikhar Ahmed c Jordan b Topley 23 (17b 1x4 2x6 22m) SR: 135.29
+Smoked high.... oh so high... <strong>and lands safely into the hands of Chris Jordan!</strong> Came down with snow on it but Jordan, as ever, keeps his cool. Charged in at first before backtracking to complete the dismissal. Huge wicket
 
 
 Balls faced: 18
 Bowler: Topley
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>BANG!</strong> Vintage Iftikhar - steps across, picks up a length delivery down on one knee. Hands go from low to high, sending it into the stands at deep backward square leg"}]<strong>BANG!</strong> Vintage Iftikhar - steps across, picks up a length delivery down on one knee. Hands go from low to high, sending it into the stands at deep backward square leg
+<strong>BANG!</strong> Vintage Iftikhar - steps across, picks up a length delivery down on one knee. Hands go from low to high, sending it into the stands at deep backward square leg
 
 
 Balls faced: 19
 Bowler: Topley
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Wide yorker, thick edged down to Bairstow running around from backward point... <strong>and it's gone right through him!</strong> Awful work in the deep, a costly, costly error. Undone by the spin!"}]Wide yorker, thick edged down to Bairstow running around from backward point... <strong>and it's gone right through him!</strong> Awful work in the deep, a costly, costly error. Undone by the spin!
+Wide yorker, thick edged down to Bairstow running around from backward point... <strong>and it's gone right through him!</strong> Awful work in the deep, a costly, costly error. Undone by the spin!
 
 
 Balls faced: 20
 Bowler: Topley
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Required rate is exactly 12 an over for Pakistan. Four wickets remaining. Reece Topley returns to the attack with two overs up his sleeve"}]Required rate is exactly 12 an over for Pakistan. Four wickets remaining. Reece Topley returns to the attack with two overs up his sleeve
+Required rate is exactly 12 an over for Pakistan. Four wickets remaining. Reece Topley returns to the attack with two overs up his sleeve
 
-[{"type": "HTML", "html": "Wide yorker, Iftikhar steps across and manages to get some bat on it away to deep point"}]Wide yorker, Iftikhar steps across and manages to get some bat on it away to deep point
+Wide yorker, Iftikhar steps across and manages to get some bat on it away to deep point
 
 
 Balls faced: 21
 Bowler: Archer
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Into a good length, Iftikhar a little late on this pull but is at least able to retain the strike"}]Into a good length, Iftikhar a little late on this pull but is at least able to retain the strike
+Into a good length, Iftikhar a little late on this pull but is at least able to retain the strike
 
 
 Balls faced: 22
 Bowler: Archer
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Leg cutter, outside off, Iftikhar tries to guide it behind point but can only find the fielder at short third"}]Leg cutter, outside off, Iftikhar tries to guide it behind point but can only find the fielder at short third
+Leg cutter, outside off, Iftikhar tries to guide it behind point but can only find the fielder at short third
 
 
 Balls faced: 23
 Bowler: Archer
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower ball, sits up off a short length, pulled away to deep midwicket"}]Slower ball, sits up off a short length, pulled away to deep midwicket
+Slower ball, sits up off a short length, pulled away to deep midwicket
 
 
 Balls faced: 24
 Bowler: Archer
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Jofra Archer with a change of ends"}]Jofra Archer with a change of ends
+Jofra Archer with a change of ends
 
-[{"type": "HTML", "html": "Starts outside off, run down to third, via a deflecting hand from Reece Topley"}]Starts outside off, run down to third, via a deflecting hand from Reece Topley
+Starts outside off, run down to third, via a deflecting hand from Reece Topley
 
 
 Balls faced: 25
 Bowler: Topley
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Smoked high.... oh so high... <strong>and lands safely into the hands of Chris Jordan!</strong> Came down with snow on it but Jordan, as ever, keeps his cool. Charged in at first before backtracking to complete the dismissal. Huge wicket"}]Smoked high.... oh so high... <strong>and lands safely into the hands of Chris Jordan!</strong> Came down with snow on it but Jordan, as ever, keeps his cool. Charged in at first before backtracking to complete the dismissal. Huge wicket
+Iftikhar is OUT! caught
+c Jordan b Topley
+Iftikhar Ahmed c Jordan b Topley 23 (17b 1x4 2x6 22m) SR: 135.29
+Smoked high.... oh so high... <strong>and lands safely into the hands of Chris Jordan!</strong> Came down with snow on it but Jordan, as ever, keeps his cool. Charged in at first before backtracking to complete the dismissal. Huge wicket
 
 
 Balls faced: 26
 Bowler: Topley
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>BANG!</strong> Vintage Iftikhar - steps across, picks up a length delivery down on one knee. Hands go from low to high, sending it into the stands at deep backward square leg"}]<strong>BANG!</strong> Vintage Iftikhar - steps across, picks up a length delivery down on one knee. Hands go from low to high, sending it into the stands at deep backward square leg
+<strong>BANG!</strong> Vintage Iftikhar - steps across, picks up a length delivery down on one knee. Hands go from low to high, sending it into the stands at deep backward square leg
 
 
 Balls faced: 27
 Bowler: Topley
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Wide yorker, thick edged down to Bairstow running around from backward point... <strong>and it's gone right through him!</strong> Awful work in the deep, a costly, costly error. Undone by the spin!"}]Wide yorker, thick edged down to Bairstow running around from backward point... <strong>and it's gone right through him!</strong> Awful work in the deep, a costly, costly error. Undone by the spin!
+Wide yorker, thick edged down to Bairstow running around from backward point... <strong>and it's gone right through him!</strong> Awful work in the deep, a costly, costly error. Undone by the spin!
 
 
 Balls faced: 28
 Bowler: Topley
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Required rate is exactly 12 an over for Pakistan. Four wickets remaining. Reece Topley returns to the attack with two overs up his sleeve"}]Required rate is exactly 12 an over for Pakistan. Four wickets remaining. Reece Topley returns to the attack with two overs up his sleeve
+Required rate is exactly 12 an over for Pakistan. Four wickets remaining. Reece Topley returns to the attack with two overs up his sleeve
 
-[{"type": "HTML", "html": "Wide yorker, Iftikhar steps across and manages to get some bat on it away to deep point"}]Wide yorker, Iftikhar steps across and manages to get some bat on it away to deep point
+Wide yorker, Iftikhar steps across and manages to get some bat on it away to deep point
 
 
 
@@ -284,463 +316,517 @@ Match: all_games_1385666_1385690.json
 Balls faced: 1
 Bowler: Wood
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short again, swings into the pull but can't time it out to midwicket"}]short again, swings into the pull but can't time it out to midwicket
-[{"type": "HTML", "html": "<B>7.30pm</B> Covers off, we restart at 7.40pm, according to the PA announcement at the ground."}, {"type": "HTML", "html": "Sid : \"Azam Khan against genuine pace is a bunny under the headlights! he's been found out . Serious rethinking is required ..Better now than in the T20WC games \""}, {"type": "HTML", "html": "<B>7.28pm</B> There's a hessian matt on the pitch, and a groundsheet on the main square, but the rest of the covers aren't coming on, and the players are still loitering on the outfield. We might be back out imminently... or we might not... it's just a bit dank out there."}, {"type": "HTML", "html": "<B>7.25pm</B> There's some debate now between the umpires about the rain, the groundstaff are in fact halfway on, and <B>they've called a halt to proceedings</B>. It's light, but very steady. A ripple of boos, but not a lot you can do, it's starting to get tough for the bowlers in particular on the skiddy turf"}, {"type": "HTML", "html": "Kaleem: \"Finally Savior Rain for Pak is IN.\" That renowned middle-order stalwart"}, {"type": "HTML", "html": "Farjad: \"@bait: who is the second weak link, Azam ? :|\""}]<B>7.30pm</B> Covers off, we restart at 7.40pm, according to the PA announcement at the ground. Sid : "Azam Khan against genuine pace is a bunny under the headlights! he's been found out . Serious rethinking is required ..Better now than in the T20WC games " <B>7.28pm</B> There's a hessian matt on the pitch, and a groundsheet on the main square, but the rest of the covers aren't coming on, and the players are still loitering on the outfield. We might be back out imminently... or we might not... it's just a bit dank out there. <B>7.25pm</B> There's some debate now between the umpires about the rain, the groundstaff are in fact halfway on, and <B>they've called a halt to proceedings</B>. It's light, but very steady. A ripple of boos, but not a lot you can do, it's starting to get tough for the bowlers in particular on the skiddy turf Kaleem: "Finally Savior Rain for Pak is IN." That renowned middle-order stalwart Farjad: "@bait: who is the second weak link, Azam ? :|"
+short again, swings into the pull but can't time it out to midwicket
+<B>7.30pm</B> Covers off, we restart at 7.40pm, according to the PA announcement at the ground. Sid : "Azam Khan against genuine pace is a bunny under the headlights! he's been found out . Serious rethinking is required ..Better now than in the T20WC games " <B>7.28pm</B> There's a hessian matt on the pitch, and a groundsheet on the main square, but the rest of the covers aren't coming on, and the players are still loitering on the outfield. We might be back out imminently... or we might not... it's just a bit dank out there. <B>7.25pm</B> There's some debate now between the umpires about the rain, the groundstaff are in fact halfway on, and <B>they've called a halt to proceedings</B>. It's light, but very steady. A ripple of boos, but not a lot you can do, it's starting to get tough for the bowlers in particular on the skiddy turf Kaleem: "Finally Savior Rain for Pak is IN." That renowned middle-order stalwart Farjad: "@bait: who is the second weak link, Azam ? :|"
 
 Balls faced: 2
 Bowler: Wood
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "fuller length, Ifti opens the face on the back foot and picks off a boundary through deep third. He more or less played for that"}]fuller length, Ifti opens the face on the back foot and picks off a boundary through deep third. He more or less played for that
+fuller length, Ifti opens the face on the back foot and picks off a boundary through deep third. He more or less played for that
 
 
 Balls faced: 3
 Bowler: Rashid
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dipping on the front foot, whipped to the on-side"}]dipping on the front foot, whipped to the on-side
+dipping on the front foot, whipped to the on-side
 
 
 Balls faced: 4
 Bowler: Rashid
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the back foot, another googly, guided out to point with an open face"}]on the back foot, another googly, guided out to point with an open face
+on the back foot, another googly, guided out to point with an open face
 
 
 Balls faced: 5
 Bowler: Wood
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short again, swings into the pull but can't time it out to midwicket"}]short again, swings into the pull but can't time it out to midwicket
-[{"type": "HTML", "html": "<B>7.30pm</B> Covers off, we restart at 7.40pm, according to the PA announcement at the ground."}, {"type": "HTML", "html": "Sid : \"Azam Khan against genuine pace is a bunny under the headlights! he's been found out . Serious rethinking is required ..Better now than in the T20WC games \""}, {"type": "HTML", "html": "<B>7.28pm</B> There's a hessian matt on the pitch, and a groundsheet on the main square, but the rest of the covers aren't coming on, and the players are still loitering on the outfield. We might be back out imminently... or we might not... it's just a bit dank out there."}, {"type": "HTML", "html": "<B>7.25pm</B> There's some debate now between the umpires about the rain, the groundstaff are in fact halfway on, and <B>they've called a halt to proceedings</B>. It's light, but very steady. A ripple of boos, but not a lot you can do, it's starting to get tough for the bowlers in particular on the skiddy turf"}, {"type": "HTML", "html": "Kaleem: \"Finally Savior Rain for Pak is IN.\" That renowned middle-order stalwart"}, {"type": "HTML", "html": "Farjad: \"@bait: who is the second weak link, Azam ? :|\""}]<B>7.30pm</B> Covers off, we restart at 7.40pm, according to the PA announcement at the ground. Sid : "Azam Khan against genuine pace is a bunny under the headlights! he's been found out . Serious rethinking is required ..Better now than in the T20WC games " <B>7.28pm</B> There's a hessian matt on the pitch, and a groundsheet on the main square, but the rest of the covers aren't coming on, and the players are still loitering on the outfield. We might be back out imminently... or we might not... it's just a bit dank out there. <B>7.25pm</B> There's some debate now between the umpires about the rain, the groundstaff are in fact halfway on, and <B>they've called a halt to proceedings</B>. It's light, but very steady. A ripple of boos, but not a lot you can do, it's starting to get tough for the bowlers in particular on the skiddy turf Kaleem: "Finally Savior Rain for Pak is IN." That renowned middle-order stalwart Farjad: "@bait: who is the second weak link, Azam ? :|"
+short again, swings into the pull but can't time it out to midwicket
+<B>7.30pm</B> Covers off, we restart at 7.40pm, according to the PA announcement at the ground. Sid : "Azam Khan against genuine pace is a bunny under the headlights! he's been found out . Serious rethinking is required ..Better now than in the T20WC games " <B>7.28pm</B> There's a hessian matt on the pitch, and a groundsheet on the main square, but the rest of the covers aren't coming on, and the players are still loitering on the outfield. We might be back out imminently... or we might not... it's just a bit dank out there. <B>7.25pm</B> There's some debate now between the umpires about the rain, the groundstaff are in fact halfway on, and <B>they've called a halt to proceedings</B>. It's light, but very steady. A ripple of boos, but not a lot you can do, it's starting to get tough for the bowlers in particular on the skiddy turf Kaleem: "Finally Savior Rain for Pak is IN." That renowned middle-order stalwart Farjad: "@bait: who is the second weak link, Azam ? :|"
 
 Balls faced: 6
 Bowler: Wood
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "fuller length, Ifti opens the face on the back foot and picks off a boundary through deep third. He more or less played for that"}]fuller length, Ifti opens the face on the back foot and picks off a boundary through deep third. He more or less played for that
+fuller length, Ifti opens the face on the back foot and picks off a boundary through deep third. He more or less played for that
 
 
 Balls faced: 7
 Bowler: Rashid
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dipping on the front foot, whipped to the on-side"}]dipping on the front foot, whipped to the on-side
+dipping on the front foot, whipped to the on-side
 
 
 Balls faced: 8
 Bowler: Rashid
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on the back foot, another googly, guided out to point with an open face"}]on the back foot, another googly, guided out to point with an open face
+on the back foot, another googly, guided out to point with an open face
 
 
 Balls faced: 9
 Bowler: Jordan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "outside off, and clubbed out to deep cover"}]outside off, and clubbed out to deep cover
+outside off, and clubbed out to deep cover
 
 
 Balls faced: 10
 Bowler: Jordan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "pace off, a fraction of width, picked off through deep third, he'd just brought the man up, and Rashid has no chance"}]pace off, a fraction of width, picked off through deep third, he'd just brought the man up, and Rashid has no chance
+pace off, a fraction of width, picked off through deep third, he'd just brought the man up, and Rashid has no chance
 
 
 Balls faced: 11
 Bowler: Jordan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length, and punched into the off side"}]full length, and punched into the off side
+full length, and punched into the off side
 
 
 Balls faced: 12
 Bowler: Jordan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "outside off, and clubbed out to deep cover"}]outside off, and clubbed out to deep cover
+outside off, and clubbed out to deep cover
 
 
 Balls faced: 13
 Bowler: Jordan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "pace off, a fraction of width, picked off through deep third, he'd just brought the man up, and Rashid has no chance"}]pace off, a fraction of width, picked off through deep third, he'd just brought the man up, and Rashid has no chance
+pace off, a fraction of width, picked off through deep third, he'd just brought the man up, and Rashid has no chance
 
 
 Balls faced: 14
 Bowler: Jordan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length, and punched into the off side"}]full length, and punched into the off side
+full length, and punched into the off side
 
 
 Balls faced: 15
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, Buttler flings out a glove to prevent the wide flying to the boundary"}]bouncer, Buttler flings out a glove to prevent the wide flying to the boundary
+bouncer, Buttler flings out a glove to prevent the wide flying to the boundary
 
 Wide: 2
 Balls faced: 16
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "bottom-handed yank through the leg-side, full from Archer, on a fourth-stump line. Mid-on gathers to keep it tight"}]bottom-handed yank through the leg-side, full from Archer, on a fourth-stump line. Mid-on gathers to keep it tight
+bottom-handed yank through the leg-side, full from Archer, on a fourth-stump line. Mid-on gathers to keep it tight
 
 
 Balls faced: 17
 Bowler: Archer
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tighter line, fuller length, clipped off the pads to the on-side. Drops his bat to prevent any chance of coming back for two"}]tighter line, fuller length, clipped off the pads to the on-side. Drops his bat to prevent any chance of coming back for two
+tighter line, fuller length, clipped off the pads to the on-side. Drops his bat to prevent any chance of coming back for two
 
 
 Balls faced: 18
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hits the deck, back of a length, wide of off, lovely pace and carry, a loose waft from the batter but no contact"}]hits the deck, back of a length, wide of off, lovely pace and carry, a loose waft from the batter but no contact
+hits the deck, back of a length, wide of off, lovely pace and carry, a loose waft from the batter but no contact
 
 
 Balls faced: 19
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked off the pads into space on the leg side"}]tucked off the pads into space on the leg side
+tucked off the pads into space on the leg side
 
 
 Balls faced: 20
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "looped up on a middle-and-leg line, clipped to the on-side"}]looped up on a middle-and-leg line, clipped to the on-side
+looped up on a middle-and-leg line, clipped to the on-side
 
 
 Balls faced: 21
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bouncer, Buttler flings out a glove to prevent the wide flying to the boundary"}]bouncer, Buttler flings out a glove to prevent the wide flying to the boundary
+bouncer, Buttler flings out a glove to prevent the wide flying to the boundary
 
 Wide: 2
 Balls faced: 22
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "bottom-handed yank through the leg-side, full from Archer, on a fourth-stump line. Mid-on gathers to keep it tight"}]bottom-handed yank through the leg-side, full from Archer, on a fourth-stump line. Mid-on gathers to keep it tight
+bottom-handed yank through the leg-side, full from Archer, on a fourth-stump line. Mid-on gathers to keep it tight
 
 
 Balls faced: 23
 Bowler: Archer
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tighter line, fuller length, clipped off the pads to the on-side. Drops his bat to prevent any chance of coming back for two"}]tighter line, fuller length, clipped off the pads to the on-side. Drops his bat to prevent any chance of coming back for two
+tighter line, fuller length, clipped off the pads to the on-side. Drops his bat to prevent any chance of coming back for two
 
 
 Balls faced: 24
 Bowler: Archer
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hits the deck, back of a length, wide of off, lovely pace and carry, a loose waft from the batter but no contact"}]hits the deck, back of a length, wide of off, lovely pace and carry, a loose waft from the batter but no contact
+hits the deck, back of a length, wide of off, lovely pace and carry, a loose waft from the batter but no contact
 
 
 Balls faced: 25
 Bowler: Jordan
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>sails high into the evening sky!</B> A massive wind-up from Iftikhar, but Jordan has taken all the pace off the ball. The bat speed results in a steepling chance to Brook at wide long-on who makes no mistake"}]<B>sails high into the evening sky!</B> A massive wind-up from Iftikhar, but Jordan has taken all the pace off the ball. The bat speed results in a steepling chance to Brook at wide long-on who makes no mistake
-[{"type": "HTML", "html": "Anwesh: \"Michael Vaughan was right. Looking at the performance of Pakistan players, IPL would have been better practise for the English players.\" Harsh, but not entirely untrue if you take this series in the round, rain and all!"}]Anwesh: "Michael Vaughan was right. Looking at the performance of Pakistan players, IPL would have been better practise for the English players." Harsh, but not entirely untrue if you take this series in the round, rain and all!
+Iftikhar is OUT! caught
+c Brook b Jordan
+Iftikhar Ahmed c Brook b Jordan 21 (18b 2x4 0x6 34m) SR: 116.66
+<B>sails high into the evening sky!</B> A massive wind-up from Iftikhar, but Jordan has taken all the pace off the ball. The bat speed results in a steepling chance to Brook at wide long-on who makes no mistake
+Anwesh: "Michael Vaughan was right. Looking at the performance of Pakistan players, IPL would have been better practise for the English players." Harsh, but not entirely untrue if you take this series in the round, rain and all!
 
 Balls faced: 26
 Bowler: Jordan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "hits the pitch outside off, a scuffed pull to long-on"}]hits the pitch outside off, a scuffed pull to long-on
-[{"type": "HTML", "html": "lunch: \"Absolutely glorious, almighty hoick from Naseem. Beautifully struck.\""}]lunch: "Absolutely glorious, almighty hoick from Naseem. Beautifully struck."
+hits the pitch outside off, a scuffed pull to long-on
+lunch: "Absolutely glorious, almighty hoick from Naseem. Beautifully struck."
 
 Balls faced: 27
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked off the pads into space on the leg side"}]tucked off the pads into space on the leg side
+tucked off the pads into space on the leg side
 
 
 Balls faced: 28
 Bowler: Rashid
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "looped up on a middle-and-leg line, clipped to the on-side"}]looped up on a middle-and-leg line, clipped to the on-side
+looped up on a middle-and-leg line, clipped to the on-side
 
 
 Balls faced: 29
 Bowler: Jordan
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>sails high into the evening sky!</B> A massive wind-up from Iftikhar, but Jordan has taken all the pace off the ball. The bat speed results in a steepling chance to Brook at wide long-on who makes no mistake"}]<B>sails high into the evening sky!</B> A massive wind-up from Iftikhar, but Jordan has taken all the pace off the ball. The bat speed results in a steepling chance to Brook at wide long-on who makes no mistake
-[{"type": "HTML", "html": "Anwesh: \"Michael Vaughan was right. Looking at the performance of Pakistan players, IPL would have been better practise for the English players.\" Harsh, but not entirely untrue if you take this series in the round, rain and all!"}]Anwesh: "Michael Vaughan was right. Looking at the performance of Pakistan players, IPL would have been better practise for the English players." Harsh, but not entirely untrue if you take this series in the round, rain and all!
+Iftikhar is OUT! caught
+c Brook b Jordan
+Iftikhar Ahmed c Brook b Jordan 21 (18b 2x4 0x6 34m) SR: 116.66
+<B>sails high into the evening sky!</B> A massive wind-up from Iftikhar, but Jordan has taken all the pace off the ball. The bat speed results in a steepling chance to Brook at wide long-on who makes no mistake
+Anwesh: "Michael Vaughan was right. Looking at the performance of Pakistan players, IPL would have been better practise for the English players." Harsh, but not entirely untrue if you take this series in the round, rain and all!
 
 Balls faced: 30
 Bowler: Jordan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "hits the pitch outside off, a scuffed pull to long-on"}]hits the pitch outside off, a scuffed pull to long-on
-[{"type": "HTML", "html": "lunch: \"Absolutely glorious, almighty hoick from Naseem. Beautifully struck.\""}]lunch: "Absolutely glorious, almighty hoick from Naseem. Beautifully struck."
+hits the pitch outside off, a scuffed pull to long-on
+lunch: "Absolutely glorious, almighty hoick from Naseem. Beautifully struck."
 
 
 Match: all_games_1388184_1388217.json
 Balls faced: 1
 Bowler: Milne
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hurls down another bouncer outside off, left alone for the keeper to collect, wicket will stymie the run-flow, a timely scalp for New Zealand, not a lot of batting to come"}]hurls down another bouncer outside off, left alone for the keeper to collect, wicket will stymie the run-flow, a timely scalp for New Zealand, not a lot of batting to come
+hurls down another bouncer outside off, left alone for the keeper to collect, wicket will stymie the run-flow, a timely scalp for New Zealand, not a lot of batting to come
 
 
 Balls faced: 2
 Bowler: Milne
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Vicious bouncer growing on him and he watches it sail over his head to the keeper and leaves the bat out"}]Vicious bouncer growing on him and he watches it sail over his head to the keeper and leaves the bat out
-[{"type": "HTML", "html": "Jamshaid Qamar: \"Nice to have Kim Cotyon as an umpire here, is this her first T20i?\" No, she made <a href=\"https://www.espncricinfo.com/cricketers/kim-cotton-701735\">her international debut in last April </a>"}]Jamshaid Qamar: "Nice to have Kim Cotyon as an umpire here, is this her first T20i?" No, she made <a href="https://www.espncricinfo.com/cricketers/kim-cotton-701735">her international debut in last April </a>
+Vicious bouncer growing on him and he watches it sail over his head to the keeper and leaves the bat out
+Jamshaid Qamar: "Nice to have Kim Cotyon as an umpire here, is this her first T20i?" No, she made <a href="https://www.espncricinfo.com/cricketers/kim-cotton-701735">her international debut in last April </a>
 
 Balls faced: 3
 Bowler: Sodhi
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Finishes the over with a dot, that's brilliant captaincy, brought him back after Fakhar's wicket. Floated up on a length wide of off, late cuts it to backward point"}]Finishes the over with a dot, that's brilliant captaincy, brought him back after Fakhar's wicket. Floated up on a length wide of off, late cuts it to backward point
+Finishes the over with a dot, that's brilliant captaincy, brought him back after Fakhar's wicket. Floated up on a length wide of off, late cuts it to backward point
 
 
 Balls faced: 4
 Bowler: Sodhi
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Lobbed up, bounces steeply outside off, makes room and whisks it away behind point and they scurry back for the second"}]Lobbed up, bounces steeply outside off, makes room and whisks it away behind point and they scurry back for the second
+Lobbed up, bounces steeply outside off, makes room and whisks it away behind point and they scurry back for the second
 
 
 Balls faced: 5
 Bowler: Sodhi
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up with lots of flight outside off, goes for a wild hoick across the line, got the outside edge and it drops short of Mile at third man"}]Tossed up with lots of flight outside off, goes for a wild hoick across the line, got the outside edge and it drops short of Mile at third man
+Tossed up with lots of flight outside off, goes for a wild hoick across the line, got the outside edge and it drops short of Mile at third man
 
 
 Balls faced: 6
 Bowler: Sodhi
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Very slow through the air, length outside off, deft touch behind point"}]Very slow through the air, length outside off, deft touch behind point
+Very slow through the air, length outside off, deft touch behind point
 
 
 Balls faced: 7
 Bowler: Milne
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hurls down another bouncer outside off, left alone for the keeper to collect, wicket will stymie the run-flow, a timely scalp for New Zealand, not a lot of batting to come"}]hurls down another bouncer outside off, left alone for the keeper to collect, wicket will stymie the run-flow, a timely scalp for New Zealand, not a lot of batting to come
+hurls down another bouncer outside off, left alone for the keeper to collect, wicket will stymie the run-flow, a timely scalp for New Zealand, not a lot of batting to come
 
 
 Balls faced: 8
 Bowler: Milne
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Vicious bouncer growing on him and he watches it sail over his head to the keeper and leaves the bat out"}]Vicious bouncer growing on him and he watches it sail over his head to the keeper and leaves the bat out
-[{"type": "HTML", "html": "Jamshaid Qamar: \"Nice to have Kim Cotyon as an umpire here, is this her first T20i?\" No, she made <a href=\"https://www.espncricinfo.com/cricketers/kim-cotton-701735\">her international debut in last April </a>"}]Jamshaid Qamar: "Nice to have Kim Cotyon as an umpire here, is this her first T20i?" No, she made <a href="https://www.espncricinfo.com/cricketers/kim-cotton-701735">her international debut in last April </a>
+Vicious bouncer growing on him and he watches it sail over his head to the keeper and leaves the bat out
+Jamshaid Qamar: "Nice to have Kim Cotyon as an umpire here, is this her first T20i?" No, she made <a href="https://www.espncricinfo.com/cricketers/kim-cotton-701735">her international debut in last April </a>
 
 Balls faced: 9
 Bowler: Sears
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Pressure was building up and Iftikhar goes for the release shot, not on top of the hook shot and <strong>Ish Sodhi takes a sprawling catch </strong>at deep backward square leg, got the toe-end of the bat, it was not searing fast delivery so the cunning change of pace flummoxed him too"}]Pressure was building up and Iftikhar goes for the release shot, not on top of the hook shot and <strong>Ish Sodhi takes a sprawling catch </strong>at deep backward square leg, got the toe-end of the bat, it was not searing fast delivery so the cunning change of pace flummoxed him too
+Iftikhar is OUT! caught
+c Sodhi b Sears
+Iftikhar Ahmed c Sodhi b Sears 4 (8b 0x4 0x6 10m) SR: 50
+Pressure was building up and Iftikhar goes for the release shot, not on top of the hook shot and <strong>Ish Sodhi takes a sprawling catch </strong>at deep backward square leg, got the toe-end of the bat, it was not searing fast delivery so the cunning change of pace flummoxed him too
 
 
 Balls faced: 10
 Bowler: Sears
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hurls down a spiteful rising ball on middle and leg, eased to square leg and canters across to other end"}]Hurls down a spiteful rising ball on middle and leg, eased to square leg and canters across to other end
+Hurls down a spiteful rising ball on middle and leg, eased to square leg and canters across to other end
 
 
 Balls faced: 11
 Bowler: Sodhi
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Finishes the over with a dot, that's brilliant captaincy, brought him back after Fakhar's wicket. Floated up on a length wide of off, late cuts it to backward point"}]Finishes the over with a dot, that's brilliant captaincy, brought him back after Fakhar's wicket. Floated up on a length wide of off, late cuts it to backward point
+Finishes the over with a dot, that's brilliant captaincy, brought him back after Fakhar's wicket. Floated up on a length wide of off, late cuts it to backward point
 
 
 Balls faced: 12
 Bowler: Sodhi
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Lobbed up, bounces steeply outside off, makes room and whisks it away behind point and they scurry back for the second"}]Lobbed up, bounces steeply outside off, makes room and whisks it away behind point and they scurry back for the second
+Lobbed up, bounces steeply outside off, makes room and whisks it away behind point and they scurry back for the second
 
 
 Balls faced: 13
 Bowler: Sodhi
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up with lots of flight outside off, goes for a wild hoick across the line, got the outside edge and it drops short of Mile at third man"}]Tossed up with lots of flight outside off, goes for a wild hoick across the line, got the outside edge and it drops short of Mile at third man
+Tossed up with lots of flight outside off, goes for a wild hoick across the line, got the outside edge and it drops short of Mile at third man
 
 
 Balls faced: 14
 Bowler: Sodhi
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Very slow through the air, length outside off, deft touch behind point"}]Very slow through the air, length outside off, deft touch behind point
+Very slow through the air, length outside off, deft touch behind point
 
 
 Balls faced: 15
 Bowler: Sears
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Pressure was building up and Iftikhar goes for the release shot, not on top of the hook shot and <strong>Ish Sodhi takes a sprawling catch </strong>at deep backward square leg, got the toe-end of the bat, it was not searing fast delivery so the cunning change of pace flummoxed him too"}]Pressure was building up and Iftikhar goes for the release shot, not on top of the hook shot and <strong>Ish Sodhi takes a sprawling catch </strong>at deep backward square leg, got the toe-end of the bat, it was not searing fast delivery so the cunning change of pace flummoxed him too
+Iftikhar is OUT! caught
+c Sodhi b Sears
+Iftikhar Ahmed c Sodhi b Sears 4 (8b 0x4 0x6 10m) SR: 50
+Pressure was building up and Iftikhar goes for the release shot, not on top of the hook shot and <strong>Ish Sodhi takes a sprawling catch </strong>at deep backward square leg, got the toe-end of the bat, it was not searing fast delivery so the cunning change of pace flummoxed him too
 
 
 Balls faced: 16
 Bowler: Sears
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hurls down a spiteful rising ball on middle and leg, eased to square leg and canters across to other end"}]Hurls down a spiteful rising ball on middle and leg, eased to square leg and canters across to other end
+Hurls down a spiteful rising ball on middle and leg, eased to square leg and canters across to other end
 
 
 
@@ -748,363 +834,407 @@ Match: all_games_1388184_1388218.json
 Balls faced: 1
 Bowler: Santner
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball and little bid of with, cracked a cut off the backfoot past point"}]Length ball and little bid of with, cracked a cut off the backfoot past point
+Length ball and little bid of with, cracked a cut off the backfoot past point
 
 
 Balls faced: 2
 Bowler: Santner
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tossed up, stumps to stumps line, punched back to the bowler"}]Tossed up, stumps to stumps line, punched back to the bowler
+Tossed up, stumps to stumps line, punched back to the bowler
 
 
 Balls faced: 3
 Bowler: Santner
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Looped up fuller on middle, tentatively poked back to the bowler"}]Looped up fuller on middle, tentatively poked back to the bowler
+Looped up fuller on middle, tentatively poked back to the bowler
 
 
 Balls faced: 4
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "On a length and holds its line outside off, clatters it on the rise to extra cover, Santner chucks a sharp throw and Iftikhar Ahmed is short of his crease, he cannot believe it. Takes on Santner's arm and started the single slowly...tries to slides his bat in but by then he was too late. Brilliant throw"}]On a length and holds its line outside off, clatters it on the rise to extra cover, Santner chucks a sharp throw and Iftikhar Ahmed is short of his crease, he cannot believe it. Takes on Santner's arm and started the single slowly...tries to slides his bat in but by then he was too late. Brilliant throw
-[{"type": "HTML", "html": "Ghufran: \"The only interest in this game is to see how much Baber scores. Rest all is lost.\""}]Ghufran: "The only interest in this game is to see how much Baber scores. Rest all is lost."
+Iftikhar is OUT! run out
+run out (Santner)
+Iftikhar Ahmed run out (Santner) 1 (4b 0x4 0x6 5m) SR: 25
+On a length and holds its line outside off, clatters it on the rise to extra cover, Santner chucks a sharp throw and Iftikhar Ahmed is short of his crease, he cannot believe it. Takes on Santner's arm and started the single slowly...tries to slides his bat in but by then he was too late. Brilliant throw
+Ghufran: "The only interest in this game is to see how much Baber scores. Rest all is lost."
 
 Balls faced: 5
 Bowler: Santner
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball and little bid of with, cracked a cut off the backfoot past point"}]Length ball and little bid of with, cracked a cut off the backfoot past point
+Length ball and little bid of with, cracked a cut off the backfoot past point
 
 
 Balls faced: 6
 Bowler: Santner
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tossed up, stumps to stumps line, punched back to the bowler"}]Tossed up, stumps to stumps line, punched back to the bowler
+Tossed up, stumps to stumps line, punched back to the bowler
 
 
 Balls faced: 7
 Bowler: Santner
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Looped up fuller on middle, tentatively poked back to the bowler"}]Looped up fuller on middle, tentatively poked back to the bowler
+Looped up fuller on middle, tentatively poked back to the bowler
 
 
 Balls faced: 8
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "On a length and holds its line outside off, clatters it on the rise to extra cover, Santner chucks a sharp throw and Iftikhar Ahmed is short of his crease, he cannot believe it. Takes on Santner's arm and started the single slowly...tries to slides his bat in but by then he was too late. Brilliant throw"}]On a length and holds its line outside off, clatters it on the rise to extra cover, Santner chucks a sharp throw and Iftikhar Ahmed is short of his crease, he cannot believe it. Takes on Santner's arm and started the single slowly...tries to slides his bat in but by then he was too late. Brilliant throw
-[{"type": "HTML", "html": "Ghufran: \"The only interest in this game is to see how much Baber scores. Rest all is lost.\""}]Ghufran: "The only interest in this game is to see how much Baber scores. Rest all is lost."
+Iftikhar is OUT! run out
+run out (Santner)
+Iftikhar Ahmed run out (Santner) 1 (4b 0x4 0x6 5m) SR: 25
+On a length and holds its line outside off, clatters it on the rise to extra cover, Santner chucks a sharp throw and Iftikhar Ahmed is short of his crease, he cannot believe it. Takes on Santner's arm and started the single slowly...tries to slides his bat in but by then he was too late. Brilliant throw
+Ghufran: "The only interest in this game is to see how much Baber scores. Rest all is lost."
 
 
 Match: all_games_1388184_1388219.json
 Balls faced: 1
 Bowler: Milne
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Biffed out to deep extra cover and the pair runs hard for a double, makes it comfortably in the end"}]Biffed out to deep extra cover and the pair runs hard for a double, makes it comfortably in the end
-[{"type": "HTML", "html": "JD_Kiwi: \"Really enjoying this test match tonight. Hold on, I just realised its a T20 game, where are the boundary scores?\""}]JD_Kiwi: "Really enjoying this test match tonight. Hold on, I just realised its a T20 game, where are the boundary scores?"
+Biffed out to deep extra cover and the pair runs hard for a double, makes it comfortably in the end
+JD_Kiwi: "Really enjoying this test match tonight. Hold on, I just realised its a T20 game, where are the boundary scores?"
 
 Balls faced: 2
 Bowler: Milne
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length on fourth stump line, glides it down to deep third man"}]Back of a length on fourth stump line, glides it down to deep third man
+Back of a length on fourth stump line, glides it down to deep third man
 
 
 Balls faced: 3
 Bowler: Southee
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "goes for the pull, fell short of Phillips at midwicket and they pick up a single"}]goes for the pull, fell short of Phillips at midwicket and they pick up a single
+goes for the pull, fell short of Phillips at midwicket and they pick up a single
 
 
 Balls faced: 4
 Bowler: Southee
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "worked off the pads behind square on the leg side for a run"}]worked off the pads behind square on the leg side for a run
+worked off the pads behind square on the leg side for a run
 
 
 Balls faced: 5
 Bowler: Milne
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Biffed out to deep extra cover and the pair runs hard for a double, makes it comfortably in the end"}]Biffed out to deep extra cover and the pair runs hard for a double, makes it comfortably in the end
-[{"type": "HTML", "html": "JD_Kiwi: \"Really enjoying this test match tonight. Hold on, I just realised its a T20 game, where are the boundary scores?\""}]JD_Kiwi: "Really enjoying this test match tonight. Hold on, I just realised its a T20 game, where are the boundary scores?"
+Biffed out to deep extra cover and the pair runs hard for a double, makes it comfortably in the end
+JD_Kiwi: "Really enjoying this test match tonight. Hold on, I just realised its a T20 game, where are the boundary scores?"
 
 Balls faced: 6
 Bowler: Milne
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length on fourth stump line, glides it down to deep third man"}]Back of a length on fourth stump line, glides it down to deep third man
+Back of a length on fourth stump line, glides it down to deep third man
 
 
 Balls faced: 7
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Brilliant save from Mitchell at short third! Plenty of flight and drops it a touch short with little bit of width, makes room and thwacks a cut, another marvellous spell from New Zealand's captain comes to an end, no wicket but only conceded 23 runs"}]Brilliant save from Mitchell at short third! Plenty of flight and drops it a touch short with little bit of width, makes room and thwacks a cut, another marvellous spell from New Zealand's captain comes to an end, no wicket but only conceded 23 runs
+Brilliant save from Mitchell at short third! Plenty of flight and drops it a touch short with little bit of width, makes room and thwacks a cut, another marvellous spell from New Zealand's captain comes to an end, no wicket but only conceded 23 runs
 
 
 Balls faced: 8
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Clears his front leg and jabs it away to cow corner region, manipulating the ball into the gaps, picks up a couple"}]Clears his front leg and jabs it away to cow corner region, manipulating the ball into the gaps, picks up a couple
+Clears his front leg and jabs it away to cow corner region, manipulating the ball into the gaps, picks up a couple
 
 
 Balls faced: 9
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tossed up with plenty of revs on the ball, some width on offer, chops it away to backward point"}]Tossed up with plenty of revs on the ball, some width on offer, chops it away to backward point
+Tossed up with plenty of revs on the ball, some width on offer, chops it away to backward point
 
 
 Balls faced: 10
 Bowler: Southee
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "goes for the pull, fell short of Phillips at midwicket and they pick up a single"}]goes for the pull, fell short of Phillips at midwicket and they pick up a single
+goes for the pull, fell short of Phillips at midwicket and they pick up a single
 
 
 Balls faced: 11
 Bowler: Southee
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "worked off the pads behind square on the leg side for a run"}]worked off the pads behind square on the leg side for a run
+worked off the pads behind square on the leg side for a run
 
 
 Balls faced: 12
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "gets down low to it and eases it with the angled face to third man, Henry sprints across and cuts it off"}]gets down low to it and eases it with the angled face to third man, Henry sprints across and cuts it off
+gets down low to it and eases it with the angled face to third man, Henry sprints across and cuts it off
 
 
 Balls faced: 13
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: RAMP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hits the deck hard and gets plenty of purchase as the ball rags away in the gate, he tries to play an upper-cut and Ferguson thinks he might have got a faint tickle. Santner decides to use a review. Nothing on the ultra-edge"}]Hits the deck hard and gets plenty of purchase as the ball rags away in the gate, he tries to play an upper-cut and Ferguson thinks he might have got a faint tickle. Santner decides to use a review. Nothing on the ultra-edge
+Hits the deck hard and gets plenty of purchase as the ball rags away in the gate, he tries to play an upper-cut and Ferguson thinks he might have got a faint tickle. Santner decides to use a review. Nothing on the ultra-edge
 
 
 Balls faced: 14
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fraction short and wide of off, carves it away to deep third man"}]Fraction short and wide of off, carves it away to deep third man
+Fraction short and wide of off, carves it away to deep third man
 
 
 Balls faced: 15
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortens his length and keeps it outside off on 123kph, stabs it out to point, straight to the fielder"}]Shortens his length and keeps it outside off on 123kph, stabs it out to point, straight to the fielder
+Shortens his length and keeps it outside off on 123kph, stabs it out to point, straight to the fielder
 
 
 Balls faced: 16
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Brilliant save from Mitchell at short third! Plenty of flight and drops it a touch short with little bit of width, makes room and thwacks a cut, another marvellous spell from New Zealand's captain comes to an end, no wicket but only conceded 23 runs"}]Brilliant save from Mitchell at short third! Plenty of flight and drops it a touch short with little bit of width, makes room and thwacks a cut, another marvellous spell from New Zealand's captain comes to an end, no wicket but only conceded 23 runs
+Brilliant save from Mitchell at short third! Plenty of flight and drops it a touch short with little bit of width, makes room and thwacks a cut, another marvellous spell from New Zealand's captain comes to an end, no wicket but only conceded 23 runs
 
 
 Balls faced: 17
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Clears his front leg and jabs it away to cow corner region, manipulating the ball into the gaps, picks up a couple"}]Clears his front leg and jabs it away to cow corner region, manipulating the ball into the gaps, picks up a couple
+Clears his front leg and jabs it away to cow corner region, manipulating the ball into the gaps, picks up a couple
 
 
 Balls faced: 18
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Tossed up with plenty of revs on the ball, some width on offer, chops it away to backward point"}]Tossed up with plenty of revs on the ball, some width on offer, chops it away to backward point
+Tossed up with plenty of revs on the ball, some width on offer, chops it away to backward point
 
 
 Balls faced: 19
 Bowler: Henry
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "oh dear me! Another wicket down. Good length outside off, Iftikhar tries to smoke him down the ground and miscues the shot, Tim Southee takes a comfortable catch at extra cover, it was another brilliant slow ball seamed across the right-hander,"}]oh dear me! Another wicket down. Good length outside off, Iftikhar tries to smoke him down the ground and miscues the shot, Tim Southee takes a comfortable catch at extra cover, it was another brilliant slow ball seamed across the right-hander,
+Iftikhar is OUT! caught
+c Southee b Henry
+Iftikhar Ahmed c Southee b Henry 10 (14b 0x4 0x6 22m) SR: 71.42
+oh dear me! Another wicket down. Good length outside off, Iftikhar tries to smoke him down the ground and miscues the shot, Tim Southee takes a comfortable catch at extra cover, it was another brilliant slow ball seamed across the right-hander,
 
 
 Balls faced: 20
 Bowler: Henry
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: RAMP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Steepling bounce rising from short of a length, tries an airy waft at it and can't connect."}]Steepling bounce rising from short of a length, tries an airy waft at it and can't connect.
+Steepling bounce rising from short of a length, tries an airy waft at it and can't connect.
 
 
 Balls faced: 21
 Bowler: Henry
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hard length pace on delivery just outside off, tries to go for a full-blooded pull but hasn't timed it well, ball flutters away to Phillips at midwicket"}]Hard length pace on delivery just outside off, tries to go for a full-blooded pull but hasn't timed it well, ball flutters away to Phillips at midwicket
+Hard length pace on delivery just outside off, tries to go for a full-blooded pull but hasn't timed it well, ball flutters away to Phillips at midwicket
 
 
 Balls faced: 22
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "gets down low to it and eases it with the angled face to third man, Henry sprints across and cuts it off"}]gets down low to it and eases it with the angled face to third man, Henry sprints across and cuts it off
+gets down low to it and eases it with the angled face to third man, Henry sprints across and cuts it off
 
 
 Balls faced: 23
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: RAMP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Hits the deck hard and gets plenty of purchase as the ball rags away in the gate, he tries to play an upper-cut and Ferguson thinks he might have got a faint tickle. Santner decides to use a review. Nothing on the ultra-edge"}]Hits the deck hard and gets plenty of purchase as the ball rags away in the gate, he tries to play an upper-cut and Ferguson thinks he might have got a faint tickle. Santner decides to use a review. Nothing on the ultra-edge
+Hits the deck hard and gets plenty of purchase as the ball rags away in the gate, he tries to play an upper-cut and Ferguson thinks he might have got a faint tickle. Santner decides to use a review. Nothing on the ultra-edge
 
 
 Balls faced: 24
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fraction short and wide of off, carves it away to deep third man"}]Fraction short and wide of off, carves it away to deep third man
+Fraction short and wide of off, carves it away to deep third man
 
 
 Balls faced: 25
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Shortens his length and keeps it outside off on 123kph, stabs it out to point, straight to the fielder"}]Shortens his length and keeps it outside off on 123kph, stabs it out to point, straight to the fielder
+Shortens his length and keeps it outside off on 123kph, stabs it out to point, straight to the fielder
 
 
 Balls faced: 26
 Bowler: Henry
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "oh dear me! Another wicket down. Good length outside off, Iftikhar tries to smoke him down the ground and miscues the shot, Tim Southee takes a comfortable catch at extra cover, it was another brilliant slow ball seamed across the right-hander,"}]oh dear me! Another wicket down. Good length outside off, Iftikhar tries to smoke him down the ground and miscues the shot, Tim Southee takes a comfortable catch at extra cover, it was another brilliant slow ball seamed across the right-hander,
+Iftikhar is OUT! caught
+c Southee b Henry
+Iftikhar Ahmed c Southee b Henry 10 (14b 0x4 0x6 22m) SR: 71.42
+oh dear me! Another wicket down. Good length outside off, Iftikhar tries to smoke him down the ground and miscues the shot, Tim Southee takes a comfortable catch at extra cover, it was another brilliant slow ball seamed across the right-hander,
 
 
 Balls faced: 27
 Bowler: Henry
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: RAMP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Steepling bounce rising from short of a length, tries an airy waft at it and can't connect."}]Steepling bounce rising from short of a length, tries an airy waft at it and can't connect.
+Steepling bounce rising from short of a length, tries an airy waft at it and can't connect.
 
 
 Balls faced: 28
 Bowler: Henry
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hard length pace on delivery just outside off, tries to go for a full-blooded pull but hasn't timed it well, ball flutters away to Phillips at midwicket"}]Hard length pace on delivery just outside off, tries to go for a full-blooded pull but hasn't timed it well, ball flutters away to Phillips at midwicket
+Hard length pace on delivery just outside off, tries to go for a full-blooded pull but hasn't timed it well, ball flutters away to Phillips at midwicket
 
 
 
@@ -1112,161 +1242,181 @@ Match: all_games_1388184_1388220.json
 Balls faced: 1
 Bowler: Henry
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Keeping it nice and straight, he drives it to long on and gallops across to the other end, not trying anything risky and just knocking it around for ones and twos"}]Keeping it nice and straight, he drives it to long on and gallops across to the other end, not trying anything risky and just knocking it around for ones and twos
+Keeping it nice and straight, he drives it to long on and gallops across to the other end, not trying anything risky and just knocking it around for ones and twos
 
 
 Balls faced: 2
 Bowler: Henry
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pitched up on middle, swipes it through the line to long on"}]Pitched up on middle, swipes it through the line to long on
+Pitched up on middle, swipes it through the line to long on
 
 
 Balls faced: 3
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "skedaddling down the wicket and forces it away into the covers for a run"}]skedaddling down the wicket and forces it away into the covers for a run
+skedaddling down the wicket and forces it away into the covers for a run
 
 
 Balls faced: 4
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Quicker on a length around middle, shimmies to the leg side and taps it on the rise towards deep cover-point for a run"}]Quicker on a length around middle, shimmies to the leg side and taps it on the rise towards deep cover-point for a run
+Quicker on a length around middle, shimmies to the leg side and taps it on the rise towards deep cover-point for a run
 
 
 Balls faced: 5
 Bowler: Santner
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Lobbed up, quick through the air, gets behind the line and shanks it to the right of the bowler,"}]Lobbed up, quick through the air, gets behind the line and shanks it to the right of the bowler,
+Lobbed up, quick through the air, gets behind the line and shanks it to the right of the bowler,
 
 
 Balls faced: 6
 Bowler: Santner
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Last over of Santner. Tossed up fuller and goes on with the arm, plinked back to the bowler"}]Last over of Santner. Tossed up fuller and goes on with the arm, plinked back to the bowler
+Last over of Santner. Tossed up fuller and goes on with the arm, plinked back to the bowler
 
 
 Balls faced: 7
 Bowler: Henry
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Keeping it nice and straight, he drives it to long on and gallops across to the other end, not trying anything risky and just knocking it around for ones and twos"}]Keeping it nice and straight, he drives it to long on and gallops across to the other end, not trying anything risky and just knocking it around for ones and twos
+Keeping it nice and straight, he drives it to long on and gallops across to the other end, not trying anything risky and just knocking it around for ones and twos
 
 
 Balls faced: 8
 Bowler: Henry
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pitched up on middle, swipes it through the line to long on"}]Pitched up on middle, swipes it through the line to long on
+Pitched up on middle, swipes it through the line to long on
 
 
 Balls faced: 9
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Throws it away!</strong> Iftikhar thinks it's a bump ball after whacking it straight to Henry at mid-off and now he's slowly starting to walk off. That has been hit straight to the fielder, no confusion there, he just couldn't believe he hit that straight to the fielder. Looks very disconsolate after perishing on just five, started off circumspectly and wanted to cut loose now but got it wrong, couldn't lift it over the fielder's head"}]<strong>Throws it away!</strong> Iftikhar thinks it's a bump ball after whacking it straight to Henry at mid-off and now he's slowly starting to walk off. That has been hit straight to the fielder, no confusion there, he just couldn't believe he hit that straight to the fielder. Looks very disconsolate after perishing on just five, started off circumspectly and wanted to cut loose now but got it wrong, couldn't lift it over the fielder's head
+Iftikhar is OUT! caught
+c Young b Ferguson
+Iftikhar Ahmed c Young b Ferguson 5 (8b 0x4 0x6 12m) SR: 62.5
+<strong>Throws it away!</strong> Iftikhar thinks it's a bump ball after whacking it straight to Henry at mid-off and now he's slowly starting to walk off. That has been hit straight to the fielder, no confusion there, he just couldn't believe he hit that straight to the fielder. Looks very disconsolate after perishing on just five, started off circumspectly and wanted to cut loose now but got it wrong, couldn't lift it over the fielder's head
 
 
 Balls faced: 10
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "in the blockhole on fifth stump line, jabs away to deep third with an opened face of the bat"}]in the blockhole on fifth stump line, jabs away to deep third with an opened face of the bat
+in the blockhole on fifth stump line, jabs away to deep third with an opened face of the bat
 
 
 Balls faced: 11
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "skedaddling down the wicket and forces it away into the covers for a run"}]skedaddling down the wicket and forces it away into the covers for a run
+skedaddling down the wicket and forces it away into the covers for a run
 
 
 Balls faced: 12
 Bowler: Santner
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Quicker on a length around middle, shimmies to the leg side and taps it on the rise towards deep cover-point for a run"}]Quicker on a length around middle, shimmies to the leg side and taps it on the rise towards deep cover-point for a run
+Quicker on a length around middle, shimmies to the leg side and taps it on the rise towards deep cover-point for a run
 
 
 Balls faced: 13
 Bowler: Santner
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Lobbed up, quick through the air, gets behind the line and shanks it to the right of the bowler,"}]Lobbed up, quick through the air, gets behind the line and shanks it to the right of the bowler,
+Lobbed up, quick through the air, gets behind the line and shanks it to the right of the bowler,
 
 
 Balls faced: 14
 Bowler: Santner
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Last over of Santner. Tossed up fuller and goes on with the arm, plinked back to the bowler"}]Last over of Santner. Tossed up fuller and goes on with the arm, plinked back to the bowler
+Last over of Santner. Tossed up fuller and goes on with the arm, plinked back to the bowler
 
 
 Balls faced: 15
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Throws it away!</strong> Iftikhar thinks it's a bump ball after whacking it straight to Henry at mid-off and now he's slowly starting to walk off. That has been hit straight to the fielder, no confusion there, he just couldn't believe he hit that straight to the fielder. Looks very disconsolate after perishing on just five, started off circumspectly and wanted to cut loose now but got it wrong, couldn't lift it over the fielder's head"}]<strong>Throws it away!</strong> Iftikhar thinks it's a bump ball after whacking it straight to Henry at mid-off and now he's slowly starting to walk off. That has been hit straight to the fielder, no confusion there, he just couldn't believe he hit that straight to the fielder. Looks very disconsolate after perishing on just five, started off circumspectly and wanted to cut loose now but got it wrong, couldn't lift it over the fielder's head
+Iftikhar is OUT! caught
+c Young b Ferguson
+Iftikhar Ahmed c Young b Ferguson 5 (8b 0x4 0x6 12m) SR: 62.5
+<strong>Throws it away!</strong> Iftikhar thinks it's a bump ball after whacking it straight to Henry at mid-off and now he's slowly starting to walk off. That has been hit straight to the fielder, no confusion there, he just couldn't believe he hit that straight to the fielder. Looks very disconsolate after perishing on just five, started off circumspectly and wanted to cut loose now but got it wrong, couldn't lift it over the fielder's head
 
 
 Balls faced: 16
 Bowler: Ferguson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "in the blockhole on fifth stump line, jabs away to deep third with an opened face of the bat"}]in the blockhole on fifth stump line, jabs away to deep third with an opened face of the bat
+in the blockhole on fifth stump line, jabs away to deep third with an opened face of the bat
 
 
 
@@ -1274,281 +1424,313 @@ Match: all_games_1411166_1415711.json
 Balls faced: 1
 Bowler: Kenjige
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hat-trick ball. Iftikhar on strike, with a slip in."}]Hat-trick ball. Iftikhar on strike, with a slip in.
+Hat-trick ball. Iftikhar on strike, with a slip in.
 
-[{"type": "HTML", "html": "full and slow on middle and off, and defended down"}]full and slow on middle and off, and defended down
+full and slow on middle and off, and defended down
 
 
 Balls faced: 2
 Bowler: Ali Khan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "outside edge... but four! The keeper dived to his right, but the ball was too far away from him. Ali Khan went much fuller this time, with the line being around sixth stump. Iftikhar went driving, but got an outside edge rolling away for four"}]outside edge... but four! The keeper dived to his right, but the ball was too far away from him. Ali Khan went much fuller this time, with the line being around sixth stump. Iftikhar went driving, but got an outside edge rolling away for four
+outside edge... but four! The keeper dived to his right, but the ball was too far away from him. Ali Khan went much fuller this time, with the line being around sixth stump. Iftikhar went driving, but got an outside edge rolling away for four
 
 
 Balls faced: 3
 Bowler: Ali Khan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "well played, and well fielded. The man at deep third runs and slides to his right to keep it to a single, as Iftikhar dabs this shortish ball outside off to play pretty late"}]well played, and well fielded. The man at deep third runs and slides to his right to keep it to a single, as Iftikhar dabs this shortish ball outside off to play pretty late
+well played, and well fielded. The man at deep third runs and slides to his right to keep it to a single, as Iftikhar dabs this shortish ball outside off to play pretty late
 
 
 Balls faced: 4
 Bowler: Ali Khan
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the shorter side of a length on off, and tapped down off the inside edge. The ball rolls past the stumps for a single"}]on the shorter side of a length on off, and tapped down off the inside edge. The ball rolls past the stumps for a single
-[{"type": "HTML", "html": "Shravan: \"Pakistan may want to use Impact Sub... :-)\""}]Shravan: "Pakistan may want to use Impact Sub... :-)"
+on the shorter side of a length on off, and tapped down off the inside edge. The ball rolls past the stumps for a single
+Shravan: "Pakistan may want to use Impact Sub... :-)"
 
 Balls faced: 5
 Bowler: Kenjige
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hat-trick ball. Iftikhar on strike, with a slip in."}]Hat-trick ball. Iftikhar on strike, with a slip in.
+Hat-trick ball. Iftikhar on strike, with a slip in.
 
-[{"type": "HTML", "html": "full and slow on middle and off, and defended down"}]full and slow on middle and off, and defended down
+full and slow on middle and off, and defended down
 
 
 Balls faced: 6
 Bowler: Harmeet Singh
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ahh, again slows it down to bowl full and just outside off. Poked to point this time"}]ahh, again slows it down to bowl full and just outside off. Poked to point this time
+ahh, again slows it down to bowl full and just outside off. Poked to point this time
 
 
 Balls faced: 7
 Bowler: Harmeet Singh
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "much slower, and tossed up. This is full on off, and pushed back to the bowler"}]much slower, and tossed up. This is full on off, and pushed back to the bowler
+much slower, and tossed up. This is full on off, and pushed back to the bowler
 
 
 Balls faced: 8
 Bowler: Ali Khan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "outside edge... but four! The keeper dived to his right, but the ball was too far away from him. Ali Khan went much fuller this time, with the line being around sixth stump. Iftikhar went driving, but got an outside edge rolling away for four"}]outside edge... but four! The keeper dived to his right, but the ball was too far away from him. Ali Khan went much fuller this time, with the line being around sixth stump. Iftikhar went driving, but got an outside edge rolling away for four
+outside edge... but four! The keeper dived to his right, but the ball was too far away from him. Ali Khan went much fuller this time, with the line being around sixth stump. Iftikhar went driving, but got an outside edge rolling away for four
 
 
 Balls faced: 9
 Bowler: Ali Khan
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "well played, and well fielded. The man at deep third runs and slides to his right to keep it to a single, as Iftikhar dabs this shortish ball outside off to play pretty late"}]well played, and well fielded. The man at deep third runs and slides to his right to keep it to a single, as Iftikhar dabs this shortish ball outside off to play pretty late
+well played, and well fielded. The man at deep third runs and slides to his right to keep it to a single, as Iftikhar dabs this shortish ball outside off to play pretty late
 
 
 Balls faced: 10
 Bowler: Ali Khan
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "on the shorter side of a length on off, and tapped down off the inside edge. The ball rolls past the stumps for a single"}]on the shorter side of a length on off, and tapped down off the inside edge. The ball rolls past the stumps for a single
-[{"type": "HTML", "html": "Shravan: \"Pakistan may want to use Impact Sub... :-)\""}]Shravan: "Pakistan may want to use Impact Sub... :-)"
+on the shorter side of a length on off, and tapped down off the inside edge. The ball rolls past the stumps for a single
+Shravan: "Pakistan may want to use Impact Sub... :-)"
 
 Balls faced: 11
 Bowler: Jasdeep
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushes at this length ball angling in, and gets a single towards cover"}]pushes at this length ball angling in, and gets a single towards cover
+pushes at this length ball angling in, and gets a single towards cover
 
 
 Balls faced: 12
 Bowler: Jasdeep
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "ahh, gently guided for four! He just about finds the gap between point and short third, with the former fielder tumbling to his left in vain. Iftikhar spotted this slower ball, which was on a length and slightly wide of off, and opened the face of the bat to pierce the gap"}]ahh, gently guided for four! He just about finds the gap between point and short third, with the former fielder tumbling to his left in vain. Iftikhar spotted this slower ball, which was on a length and slightly wide of off, and opened the face of the bat to pierce the gap
+ahh, gently guided for four! He just about finds the gap between point and short third, with the former fielder tumbling to his left in vain. Iftikhar spotted this slower ball, which was on a length and slightly wide of off, and opened the face of the bat to pierce the gap
 
 
 Balls faced: 13
 Bowler: Harmeet Singh
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "ahh, again slows it down to bowl full and just outside off. Poked to point this time"}]ahh, again slows it down to bowl full and just outside off. Poked to point this time
+ahh, again slows it down to bowl full and just outside off. Poked to point this time
 
 
 Balls faced: 14
 Bowler: Harmeet Singh
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "much slower, and tossed up. This is full on off, and pushed back to the bowler"}]much slower, and tossed up. This is full on off, and pushed back to the bowler
+much slower, and tossed up. This is full on off, and pushed back to the bowler
 
 
 Balls faced: 15
 Bowler: Anderson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball again, and full ball angling into off. Driven to long-off's left amid initial calls of two"}]slower ball again, and full ball angling into off. Driven to long-off's left amid initial calls of two
+slower ball again, and full ball angling into off. Driven to long-off's left amid initial calls of two
 
 
 Balls faced: 16
 Bowler: Anderson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "change of pace, and Iftikhar is beaten! The length is much fuller, with the ball angling into off. Iftikhar looked to push, but missed"}]change of pace, and Iftikhar is beaten! The length is much fuller, with the ball angling into off. Iftikhar looked to push, but missed
+change of pace, and Iftikhar is beaten! The length is much fuller, with the ball angling into off. Iftikhar looked to push, but missed
 
 
 Balls faced: 17
 Bowler: Anderson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "From around to Iftikhar"}]From around to Iftikhar
+From around to Iftikhar
 
-[{"type": "HTML", "html": "slashed behind point! Sees this length ball which is pretty wide of off, and flat-bats it between point and short third"}]slashed behind point! Sees this length ball which is pretty wide of off, and flat-bats it between point and short third
-[{"type": "HTML", "html": "Anjan: \"Pakistan need Iftikhar to stay till over 20\""}]Anjan: "Pakistan need Iftikhar to stay till over 20"
+slashed behind point! Sees this length ball which is pretty wide of off, and flat-bats it between point and short third
+Anjan: "Pakistan need Iftikhar to stay till over 20"
 
 Balls faced: 18
 Bowler: Jasdeep
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushes at this length ball angling in, and gets a single towards cover"}]pushes at this length ball angling in, and gets a single towards cover
+pushes at this length ball angling in, and gets a single towards cover
 
 
 Balls faced: 19
 Bowler: Jasdeep
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "ahh, gently guided for four! He just about finds the gap between point and short third, with the former fielder tumbling to his left in vain. Iftikhar spotted this slower ball, which was on a length and slightly wide of off, and opened the face of the bat to pierce the gap"}]ahh, gently guided for four! He just about finds the gap between point and short third, with the former fielder tumbling to his left in vain. Iftikhar spotted this slower ball, which was on a length and slightly wide of off, and opened the face of the bat to pierce the gap
+ahh, gently guided for four! He just about finds the gap between point and short third, with the former fielder tumbling to his left in vain. Iftikhar spotted this slower ball, which was on a length and slightly wide of off, and opened the face of the bat to pierce the gap
 
 
 Balls faced: 20
 Bowler: Ali Khan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another yorker just outside off. Jammed to deep backward point"}]another yorker just outside off. Jammed to deep backward point
+another yorker just outside off. Jammed to deep backward point
 
 
 Balls faced: 21
 Bowler: Ali Khan
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Ali Khan back, and from around the wicket. But there's a bit of a delay, with an issue or two with the sightscreen."}]Ali Khan back, and from around the wicket. But there's a bit of a delay, with an issue or two with the sightscreen.
+Ali Khan back, and from around the wicket. But there's a bit of a delay, with an issue or two with the sightscreen.
 
-[{"type": "HTML", "html": "this yorker-length ball is angled across, and ends around sixth stump. Iftikhar slices this to deep third"}]this yorker-length ball is angled across, and ends around sixth stump. Iftikhar slices this to deep third
+this yorker-length ball is angled across, and ends around sixth stump. Iftikhar slices this to deep third
 
 
 Balls faced: 22
 Bowler: Anderson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball again, and full ball angling into off. Driven to long-off's left amid initial calls of two"}]slower ball again, and full ball angling into off. Driven to long-off's left amid initial calls of two
+slower ball again, and full ball angling into off. Driven to long-off's left amid initial calls of two
 
 
 Balls faced: 23
 Bowler: Anderson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "change of pace, and Iftikhar is beaten! The length is much fuller, with the ball angling into off. Iftikhar looked to push, but missed"}]change of pace, and Iftikhar is beaten! The length is much fuller, with the ball angling into off. Iftikhar looked to push, but missed
+change of pace, and Iftikhar is beaten! The length is much fuller, with the ball angling into off. Iftikhar looked to push, but missed
 
 
 Balls faced: 24
 Bowler: Anderson
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "From around to Iftikhar"}]From around to Iftikhar
+From around to Iftikhar
 
-[{"type": "HTML", "html": "slashed behind point! Sees this length ball which is pretty wide of off, and flat-bats it between point and short third"}]slashed behind point! Sees this length ball which is pretty wide of off, and flat-bats it between point and short third
-[{"type": "HTML", "html": "Anjan: \"Pakistan need Iftikhar to stay till over 20\""}]Anjan: "Pakistan need Iftikhar to stay till over 20"
+slashed behind point! Sees this length ball which is pretty wide of off, and flat-bats it between point and short third
+Anjan: "Pakistan need Iftikhar to stay till over 20"
 
 Balls faced: 25
 Bowler: Netravalkar
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Netravalkar will finish off"}]Netravalkar will finish off
-
-[{"type": "HTML", "html": "ohh, an animated appeal for lbw... and it is given out! But <strong>Iftikhar reviews</strong>! It was a slower ball which was dipping rather sharply. It hit Iftikhar's front pad seemingly on leg, as he looked to swipe this to the on side. He was standing deep in the crease, and was beaten by the change of pace. Replays show it would have landed right on the base on middle and leg stump, and of course, hit them too. So Pakistan lose Iftikhar right when it mattered most"}]ohh, an animated appeal for lbw... and it is given out! But <strong>Iftikhar reviews</strong>! It was a slower ball which was dipping rather sharply. It hit Iftikhar's front pad seemingly on leg, as he looked to swipe this to the on side. He was standing deep in the crease, and was beaten by the change of pace. Replays show it would have landed right on the base on middle and leg stump, and of course, hit them too. So Pakistan lose Iftikhar right when it mattered most
+Netravalkar will finish off
+Iftikhar is OUT! lbw
+lbw b Netravalkar
+Iftikhar Ahmed lbw b Netravalkar 18 (14b 3x4 0x6 27m) SR: 128.57
+ohh, an animated appeal for lbw... and it is given out! But <strong>Iftikhar reviews</strong>! It was a slower ball which was dipping rather sharply. It hit Iftikhar's front pad seemingly on leg, as he looked to swipe this to the on side. He was standing deep in the crease, and was beaten by the change of pace. Replays show it would have landed right on the base on middle and leg stump, and of course, hit them too. So Pakistan lose Iftikhar right when it mattered most
 
 
 Balls faced: 26
 Bowler: Ali Khan
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another yorker just outside off. Jammed to deep backward point"}]another yorker just outside off. Jammed to deep backward point
+another yorker just outside off. Jammed to deep backward point
 
 
 Balls faced: 27
 Bowler: Ali Khan
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Ali Khan back, and from around the wicket. But there's a bit of a delay, with an issue or two with the sightscreen."}]Ali Khan back, and from around the wicket. But there's a bit of a delay, with an issue or two with the sightscreen.
+Ali Khan back, and from around the wicket. But there's a bit of a delay, with an issue or two with the sightscreen.
 
-[{"type": "HTML", "html": "this yorker-length ball is angled across, and ends around sixth stump. Iftikhar slices this to deep third"}]this yorker-length ball is angled across, and ends around sixth stump. Iftikhar slices this to deep third
+this yorker-length ball is angled across, and ends around sixth stump. Iftikhar slices this to deep third
 
 
 Balls faced: 28
 Bowler: Netravalkar
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Netravalkar will finish off"}]Netravalkar will finish off
-
-[{"type": "HTML", "html": "ohh, an animated appeal for lbw... and it is given out! But <strong>Iftikhar reviews</strong>! It was a slower ball which was dipping rather sharply. It hit Iftikhar's front pad seemingly on leg, as he looked to swipe this to the on side. He was standing deep in the crease, and was beaten by the change of pace. Replays show it would have landed right on the base on middle and leg stump, and of course, hit them too. So Pakistan lose Iftikhar right when it mattered most"}]ohh, an animated appeal for lbw... and it is given out! But <strong>Iftikhar reviews</strong>! It was a slower ball which was dipping rather sharply. It hit Iftikhar's front pad seemingly on leg, as he looked to swipe this to the on side. He was standing deep in the crease, and was beaten by the change of pace. Replays show it would have landed right on the base on middle and leg stump, and of course, hit them too. So Pakistan lose Iftikhar right when it mattered most
+Netravalkar will finish off
+Iftikhar is OUT! lbw
+lbw b Netravalkar
+Iftikhar Ahmed lbw b Netravalkar 18 (14b 3x4 0x6 27m) SR: 128.57
+ohh, an animated appeal for lbw... and it is given out! But <strong>Iftikhar reviews</strong>! It was a slower ball which was dipping rather sharply. It hit Iftikhar's front pad seemingly on leg, as he looked to swipe this to the on side. He was standing deep in the crease, and was beaten by the change of pace. Replays show it would have landed right on the base on middle and leg stump, and of course, hit them too. So Pakistan lose Iftikhar right when it mattered most
 
 
 
@@ -1556,201 +1738,225 @@ Match: all_games_1411166_1415719.json
 Balls faced: 1
 Bowler: Hardik
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Iftikhar is in at No. 7. It's now 72-27 in terms of win probability. What a match."}]Iftikhar is in at No. 7. It's now 72-27 in terms of win probability. What a match.
+Iftikhar is in at No. 7. It's now 72-27 in terms of win probability. What a match.
 
-[{"type": "HTML", "html": "shortish outside off, cut towards deep point"}]shortish outside off, cut towards deep point
+shortish outside off, cut towards deep point
 
 
 Balls faced: 2
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "hard length, angling in towards leg stump. No room at all, and Iftikhar pushes with a straight bat into the vacant midwicket region. Siraj does the chasing himself"}]hard length, angling in towards leg stump. No room at all, and Iftikhar pushes with a straight bat into the vacant midwicket region. Siraj does the chasing himself
+hard length, angling in towards leg stump. No room at all, and Iftikhar pushes with a straight bat into the vacant midwicket region. Siraj does the chasing himself
 
 
 Balls faced: 3
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower bouncer, ends up looping down the leg side, as Iftikhar pulls out of the pull"}]slower bouncer, ends up looping down the leg side, as Iftikhar pulls out of the pull
+slower bouncer, ends up looping down the leg side, as Iftikhar pulls out of the pull
 
 Wide: 1
 Balls faced: 4
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off, chopped to the right of backward point"}]back of a length outside off, chopped to the right of backward point
+back of a length outside off, chopped to the right of backward point
 
 
 Balls faced: 5
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "back of a length outside off, flat-batted to the right of deep point"}]back of a length outside off, flat-batted to the right of deep point
+back of a length outside off, flat-batted to the right of deep point
 
 
 Balls faced: 6
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Short third, short fine leg."}]Short third, short fine leg.
+Short third, short fine leg.
 
-[{"type": "HTML", "html": "full, angling into the stumps. Almost a yorker. Wristily drilled back down the ground, and it hits the stumps at the other end. And... uh oh, Siraj has overstepped. Not by a lot, but a no-ball nonmetheless."}]full, angling into the stumps. Almost a yorker. Wristily drilled back down the ground, and it hits the stumps at the other end. And... uh oh, Siraj has overstepped. Not by a lot, but a no-ball nonmetheless.
+full, angling into the stumps. Almost a yorker. Wristily drilled back down the ground, and it hits the stumps at the other end. And... uh oh, Siraj has overstepped. Not by a lot, but a no-ball nonmetheless.
 
 No Balls: 1
 Balls faced: 7
 Bowler: Hardik
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Iftikhar is in at No. 7. It's now 72-27 in terms of win probability. What a match."}]Iftikhar is in at No. 7. It's now 72-27 in terms of win probability. What a match.
+Iftikhar is in at No. 7. It's now 72-27 in terms of win probability. What a match.
 
-[{"type": "HTML", "html": "shortish outside off, cut towards deep point"}]shortish outside off, cut towards deep point
+shortish outside off, cut towards deep point
 
 
 Balls faced: 8
 Bowler: Bumrah
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "gone, Bumrah strikes with a full-toss, and Arshdeep takes a terrific catch despite almost running into Suryakumar Yadav! Full-toss angling into the batter, about thigh high, and he swings hard at it while cramped for room. Top-edges it high into the sky, and Arshdeep, from fine leg, and SKY, from deep square leg, converge towards the ball, and almost, almost collide. Arshdeep keeps his eyes locked on the ball and catches it nervelessly"}]gone, Bumrah strikes with a full-toss, and Arshdeep takes a terrific catch despite almost running into Suryakumar Yadav! Full-toss angling into the batter, about thigh high, and he swings hard at it while cramped for room. Top-edges it high into the sky, and Arshdeep, from fine leg, and SKY, from deep square leg, converge towards the ball, and almost, almost collide. Arshdeep keeps his eyes locked on the ball and catches it nervelessly
-[{"type": "HTML", "html": "What an over, that. What a bowler."}]What an over, that. What a bowler.
+Iftikhar is OUT! caught
+c Arshdeep Singh b Bumrah
+Iftikhar Ahmed c Arshdeep Singh b Bumrah 5 (9b 0x4 0x6 14m) SR: 55.55
+gone, Bumrah strikes with a full-toss, and Arshdeep takes a terrific catch despite almost running into Suryakumar Yadav! Full-toss angling into the batter, about thigh high, and he swings hard at it while cramped for room. Top-edges it high into the sky, and Arshdeep, from fine leg, and SKY, from deep square leg, converge towards the ball, and almost, almost collide. Arshdeep keeps his eyes locked on the ball and catches it nervelessly
+What an over, that. What a bowler.
 
 Balls faced: 9
 Bowler: Bumrah
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full-toss at thigh height, angling into leg stump. Swiped down to fine leg. Oh, only thigh pad on it."}]full-toss at thigh height, angling into leg stump. Swiped down to fine leg. Oh, only thigh pad on it.
+full-toss at thigh height, angling into leg stump. Swiped down to fine leg. Oh, only thigh pad on it.
 
 Legbyes: 1
 Balls faced: 10
 Bowler: Bumrah
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "into the pitch again, seam-up this time, outside off. Sneaks under the bat as Iftikhar attempts to pull"}]into the pitch again, seam-up this time, outside off. Sneaks under the bat as Iftikhar attempts to pull
+into the pitch again, seam-up this time, outside off. Sneaks under the bat as Iftikhar attempts to pull
 
 
 Balls faced: 11
 Bowler: Bumrah
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower short ball, and again it turns like an offbreak. Amazing. Starts outside the tramline, and it's well within it by the time it reaches the crease. By this time, Iftikhar has just left it alone, playing the initial line. Amazing stuff"}]slower short ball, and again it turns like an offbreak. Amazing. Starts outside the tramline, and it's well within it by the time it reaches the crease. By this time, Iftikhar has just left it alone, playing the initial line. Amazing stuff
+slower short ball, and again it turns like an offbreak. Amazing. Starts outside the tramline, and it's well within it by the time it reaches the crease. By this time, Iftikhar has just left it alone, playing the initial line. Amazing stuff
 
 
 Balls faced: 12
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "hard length, angling in towards leg stump. No room at all, and Iftikhar pushes with a straight bat into the vacant midwicket region. Siraj does the chasing himself"}]hard length, angling in towards leg stump. No room at all, and Iftikhar pushes with a straight bat into the vacant midwicket region. Siraj does the chasing himself
+hard length, angling in towards leg stump. No room at all, and Iftikhar pushes with a straight bat into the vacant midwicket region. Siraj does the chasing himself
 
 
 Balls faced: 13
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower bouncer, ends up looping down the leg side, as Iftikhar pulls out of the pull"}]slower bouncer, ends up looping down the leg side, as Iftikhar pulls out of the pull
+slower bouncer, ends up looping down the leg side, as Iftikhar pulls out of the pull
 
 Wide: 1
 Balls faced: 14
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off, chopped to the right of backward point"}]back of a length outside off, chopped to the right of backward point
+back of a length outside off, chopped to the right of backward point
 
 
 Balls faced: 15
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "back of a length outside off, flat-batted to the right of deep point"}]back of a length outside off, flat-batted to the right of deep point
+back of a length outside off, flat-batted to the right of deep point
 
 
 Balls faced: 16
 Bowler: Siraj
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Short third, short fine leg."}]Short third, short fine leg.
+Short third, short fine leg.
 
-[{"type": "HTML", "html": "full, angling into the stumps. Almost a yorker. Wristily drilled back down the ground, and it hits the stumps at the other end. And... uh oh, Siraj has overstepped. Not by a lot, but a no-ball nonmetheless."}]full, angling into the stumps. Almost a yorker. Wristily drilled back down the ground, and it hits the stumps at the other end. And... uh oh, Siraj has overstepped. Not by a lot, but a no-ball nonmetheless.
+full, angling into the stumps. Almost a yorker. Wristily drilled back down the ground, and it hits the stumps at the other end. And... uh oh, Siraj has overstepped. Not by a lot, but a no-ball nonmetheless.
 
 No Balls: 1
 Balls faced: 17
 Bowler: Bumrah
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "gone, Bumrah strikes with a full-toss, and Arshdeep takes a terrific catch despite almost running into Suryakumar Yadav! Full-toss angling into the batter, about thigh high, and he swings hard at it while cramped for room. Top-edges it high into the sky, and Arshdeep, from fine leg, and SKY, from deep square leg, converge towards the ball, and almost, almost collide. Arshdeep keeps his eyes locked on the ball and catches it nervelessly"}]gone, Bumrah strikes with a full-toss, and Arshdeep takes a terrific catch despite almost running into Suryakumar Yadav! Full-toss angling into the batter, about thigh high, and he swings hard at it while cramped for room. Top-edges it high into the sky, and Arshdeep, from fine leg, and SKY, from deep square leg, converge towards the ball, and almost, almost collide. Arshdeep keeps his eyes locked on the ball and catches it nervelessly
-[{"type": "HTML", "html": "What an over, that. What a bowler."}]What an over, that. What a bowler.
+Iftikhar is OUT! caught
+c Arshdeep Singh b Bumrah
+Iftikhar Ahmed c Arshdeep Singh b Bumrah 5 (9b 0x4 0x6 14m) SR: 55.55
+gone, Bumrah strikes with a full-toss, and Arshdeep takes a terrific catch despite almost running into Suryakumar Yadav! Full-toss angling into the batter, about thigh high, and he swings hard at it while cramped for room. Top-edges it high into the sky, and Arshdeep, from fine leg, and SKY, from deep square leg, converge towards the ball, and almost, almost collide. Arshdeep keeps his eyes locked on the ball and catches it nervelessly
+What an over, that. What a bowler.
 
 Balls faced: 18
 Bowler: Bumrah
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full-toss at thigh height, angling into leg stump. Swiped down to fine leg. Oh, only thigh pad on it."}]full-toss at thigh height, angling into leg stump. Swiped down to fine leg. Oh, only thigh pad on it.
+full-toss at thigh height, angling into leg stump. Swiped down to fine leg. Oh, only thigh pad on it.
 
 Legbyes: 1
 Balls faced: 19
 Bowler: Bumrah
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "into the pitch again, seam-up this time, outside off. Sneaks under the bat as Iftikhar attempts to pull"}]into the pitch again, seam-up this time, outside off. Sneaks under the bat as Iftikhar attempts to pull
+into the pitch again, seam-up this time, outside off. Sneaks under the bat as Iftikhar attempts to pull
 
 
 Balls faced: 20
 Bowler: Bumrah
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower short ball, and again it turns like an offbreak. Amazing. Starts outside the tramline, and it's well within it by the time it reaches the crease. By this time, Iftikhar has just left it alone, playing the initial line. Amazing stuff"}]slower short ball, and again it turns like an offbreak. Amazing. Starts outside the tramline, and it's well within it by the time it reaches the crease. By this time, Iftikhar has just left it alone, playing the initial line. Amazing stuff
+slower short ball, and again it turns like an offbreak. Amazing. Starts outside the tramline, and it's well within it by the time it reaches the crease. By this time, Iftikhar has just left it alone, playing the initial line. Amazing stuff
 
 
 
@@ -1758,543 +1964,601 @@ Match: all_games_1424827_1424831.json
 Balls faced: 1
 Bowler: Duffy
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Varying his pace cleverly and keeps it short in the corridor, swing and a miss"}]Varying his pace cleverly and keeps it short in the corridor, swing and a miss
+Varying his pace cleverly and keeps it short in the corridor, swing and a miss
 
 
 Balls faced: 2
 Bowler: Duffy
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pace off back of a length delivery outside off, whisked away to deep cover-point"}]Pace off back of a length delivery outside off, whisked away to deep cover-point
+Pace off back of a length delivery outside off, whisked away to deep cover-point
 
 
 Balls faced: 3
 Bowler: Foulkes
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hurls a well-directed lifter on middle, pulled away to midwicket, hung in the air for a while, man at deep charged in and got rid of the ball quickly"}]Hurls a well-directed lifter on middle, pulled away to midwicket, hung in the air for a while, man at deep charged in and got rid of the ball quickly
+Hurls a well-directed lifter on middle, pulled away to midwicket, hung in the air for a while, man at deep charged in and got rid of the ball quickly
 
 
 Balls faced: 4
 Bowler: Foulkes
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Idea was right, execution is also impeccable, wide outswinging yorker and Iftikhar leans out to connect but only connects with fresh air"}]Idea was right, execution is also impeccable, wide outswinging yorker and Iftikhar leans out to connect but only connects with fresh air
-[{"type": "HTML", "html": "Brad: \"Usman Khan's average and strike rate both dips sharply whenever he has batted outside the top 3. It's not fair to him to be asked to bat at 4 because he's failing there. Babar himself should come at 4. \""}]Brad: "Usman Khan's average and strike rate both dips sharply whenever he has batted outside the top 3. It's not fair to him to be asked to bat at 4 because he's failing there. Babar himself should come at 4. "
+Idea was right, execution is also impeccable, wide outswinging yorker and Iftikhar leans out to connect but only connects with fresh air
+Brad: "Usman Khan's average and strike rate both dips sharply whenever he has batted outside the top 3. It's not fair to him to be asked to bat at 4 because he's failing there. Babar himself should come at 4. "
 
 Balls faced: 5
 Bowler: Duffy
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Varying his pace cleverly and keeps it short in the corridor, swing and a miss"}]Varying his pace cleverly and keeps it short in the corridor, swing and a miss
+Varying his pace cleverly and keeps it short in the corridor, swing and a miss
 
 
 Balls faced: 6
 Bowler: Duffy
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Pace off back of a length delivery outside off, whisked away to deep cover-point"}]Pace off back of a length delivery outside off, whisked away to deep cover-point
+Pace off back of a length delivery outside off, whisked away to deep cover-point
 
 
 Balls faced: 7
 Bowler: Foulkes
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hurls a well-directed lifter on middle, pulled away to midwicket, hung in the air for a while, man at deep charged in and got rid of the ball quickly"}]Hurls a well-directed lifter on middle, pulled away to midwicket, hung in the air for a while, man at deep charged in and got rid of the ball quickly
+Hurls a well-directed lifter on middle, pulled away to midwicket, hung in the air for a while, man at deep charged in and got rid of the ball quickly
 
 
 Balls faced: 8
 Bowler: Foulkes
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Idea was right, execution is also impeccable, wide outswinging yorker and Iftikhar leans out to connect but only connects with fresh air"}]Idea was right, execution is also impeccable, wide outswinging yorker and Iftikhar leans out to connect but only connects with fresh air
-[{"type": "HTML", "html": "Brad: \"Usman Khan's average and strike rate both dips sharply whenever he has batted outside the top 3. It's not fair to him to be asked to bat at 4 because he's failing there. Babar himself should come at 4. \""}]Brad: "Usman Khan's average and strike rate both dips sharply whenever he has batted outside the top 3. It's not fair to him to be asked to bat at 4 because he's failing there. Babar himself should come at 4. "
+Idea was right, execution is also impeccable, wide outswinging yorker and Iftikhar leans out to connect but only connects with fresh air
+Brad: "Usman Khan's average and strike rate both dips sharply whenever he has batted outside the top 3. It's not fair to him to be asked to bat at 4 because he's failing there. Babar himself should come at 4. "
 
 
 Match: all_games_1424827_1424832.json
 Balls faced: 1
 Bowler: Michael Bracewell
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower through the air on a length just outside off, cut away to point"}]Slower through the air on a length just outside off, cut away to point
+Slower through the air on a length just outside off, cut away to point
 
 
 Balls faced: 2
 Bowler: O'Rourke
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tad short angling in at middle, flicked with zen-like calm to deep square, another quiet over for New Zealand, asking rate creeping up"}]Tad short angling in at middle, flicked with zen-like calm to deep square, another quiet over for New Zealand, asking rate creeping up
+Tad short angling in at middle, flicked with zen-like calm to deep square, another quiet over for New Zealand, asking rate creeping up
 
 
 Balls faced: 3
 Bowler: O'Rourke
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Bouncer shoots up quickly on a leg-stump line, pulled away to deep midwicket"}]Bouncer shoots up quickly on a leg-stump line, pulled away to deep midwicket
+Bouncer shoots up quickly on a leg-stump line, pulled away to deep midwicket
 
 
 Balls faced: 4
 Bowler: O'Rourke
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length, outside off, crisp punch to sweeper cover, rode the bounce pretty well, he opens his account with a confident looking shot"}]Back of a length, outside off, crisp punch to sweeper cover, rode the bounce pretty well, he opens his account with a confident looking shot
+Back of a length, outside off, crisp punch to sweeper cover, rode the bounce pretty well, he opens his account with a confident looking shot
 
 
 Balls faced: 5
 Bowler: Michael Bracewell
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower through the air on a length just outside off, cut away to point"}]Slower through the air on a length just outside off, cut away to point
+Slower through the air on a length just outside off, cut away to point
 
 
 Balls faced: 6
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller and slower, angling in at middle, nudged wristily between long-on and midwicket, Pakistan need boundaries"}]Fuller and slower, angling in at middle, nudged wristily between long-on and midwicket, Pakistan need boundaries
+Fuller and slower, angling in at middle, nudged wristily between long-on and midwicket, Pakistan need boundaries
 
 
 Balls faced: 7
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Third wide of the over, length and away from the marker, trying to keep it away from his long levers"}]Third wide of the over, length and away from the marker, trying to keep it away from his long levers
+Third wide of the over, length and away from the marker, trying to keep it away from his long levers
 
 Wide: 1
 Balls faced: 8
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Lobbed up, spinning from outside off, chalked back to the bowler"}]Lobbed up, spinning from outside off, chalked back to the bowler
+Lobbed up, spinning from outside off, chalked back to the bowler
 
 
 Balls faced: 9
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Gets it right on this occasion, probing line and length, slinks forward and taps it to short extra cover"}]Gets it right on this occasion, probing line and length, slinks forward and taps it to short extra cover
+Gets it right on this occasion, probing line and length, slinks forward and taps it to short extra cover
 
 
 Balls faced: 10
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Over the wicket, short and curving away outside off, away from the tramline, two wides in a row"}]Over the wicket, short and curving away outside off, away from the tramline, two wides in a row
+Over the wicket, short and curving away outside off, away from the tramline, two wides in a row
 
 Wide: 1
 Balls faced: 11
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Zips it quicker down the leg side, will have to reload"}]Zips it quicker down the leg side, will have to reload
+Zips it quicker down the leg side, will have to reload
 
 Wide: 1
 Balls faced: 12
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up on a length outside off, steered away to third man, diving save, only a run"}]Tossed up on a length outside off, steered away to third man, diving save, only a run
+Tossed up on a length outside off, steered away to third man, diving save, only a run
 
 
 Balls faced: 13
 Bowler: O'Rourke
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tad short angling in at middle, flicked with zen-like calm to deep square, another quiet over for New Zealand, asking rate creeping up"}]Tad short angling in at middle, flicked with zen-like calm to deep square, another quiet over for New Zealand, asking rate creeping up
+Tad short angling in at middle, flicked with zen-like calm to deep square, another quiet over for New Zealand, asking rate creeping up
 
 
 Balls faced: 14
 Bowler: O'Rourke
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Bouncer shoots up quickly on a leg-stump line, pulled away to deep midwicket"}]Bouncer shoots up quickly on a leg-stump line, pulled away to deep midwicket
+Bouncer shoots up quickly on a leg-stump line, pulled away to deep midwicket
 
 
 Balls faced: 15
 Bowler: O'Rourke
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length, outside off, crisp punch to sweeper cover, rode the bounce pretty well, he opens his account with a confident looking shot"}]Back of a length, outside off, crisp punch to sweeper cover, rode the bounce pretty well, he opens his account with a confident looking shot
+Back of a length, outside off, crisp punch to sweeper cover, rode the bounce pretty well, he opens his account with a confident looking shot
 
 
 Balls faced: 16
 Bowler: Sears
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Dishes out a high full-toss outside off, slapped it to extra cover, will only get a single which won't perturb New Zealand at all"}]Dishes out a high full-toss outside off, slapped it to extra cover, will only get a single which won't perturb New Zealand at all
+Dishes out a high full-toss outside off, slapped it to extra cover, will only get a single which won't perturb New Zealand at all
 
 
 Balls faced: 17
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller and slower, angling in at middle, nudged wristily between long-on and midwicket, Pakistan need boundaries"}]Fuller and slower, angling in at middle, nudged wristily between long-on and midwicket, Pakistan need boundaries
+Fuller and slower, angling in at middle, nudged wristily between long-on and midwicket, Pakistan need boundaries
 
 
 Balls faced: 18
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Third wide of the over, length and away from the marker, trying to keep it away from his long levers"}]Third wide of the over, length and away from the marker, trying to keep it away from his long levers
+Third wide of the over, length and away from the marker, trying to keep it away from his long levers
 
 Wide: 1
 Balls faced: 19
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Lobbed up, spinning from outside off, chalked back to the bowler"}]Lobbed up, spinning from outside off, chalked back to the bowler
+Lobbed up, spinning from outside off, chalked back to the bowler
 
 
 Balls faced: 20
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Gets it right on this occasion, probing line and length, slinks forward and taps it to short extra cover"}]Gets it right on this occasion, probing line and length, slinks forward and taps it to short extra cover
+Gets it right on this occasion, probing line and length, slinks forward and taps it to short extra cover
 
 
 Balls faced: 21
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Over the wicket, short and curving away outside off, away from the tramline, two wides in a row"}]Over the wicket, short and curving away outside off, away from the tramline, two wides in a row
+Over the wicket, short and curving away outside off, away from the tramline, two wides in a row
 
 Wide: 1
 Balls faced: 22
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Zips it quicker down the leg side, will have to reload"}]Zips it quicker down the leg side, will have to reload
+Zips it quicker down the leg side, will have to reload
 
 Wide: 1
 Balls faced: 23
 Bowler: Michael Bracewell
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up on a length outside off, steered away to third man, diving save, only a run"}]Tossed up on a length outside off, steered away to third man, diving save, only a run
+Tossed up on a length outside off, steered away to third man, diving save, only a run
 
 
 Balls faced: 24
 Bowler: Michael Bracewell
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, length on middle, nuzzled towards midwicket with soft hands, keen on taking the second but settled for a run"}]Over the wicket, length on middle, nuzzled towards midwicket with soft hands, keen on taking the second but settled for a run
+Over the wicket, length on middle, nuzzled towards midwicket with soft hands, keen on taking the second but settled for a run
 
 
 Balls faced: 25
 Bowler: Michael Bracewell
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Overpitched outside off, Iftikhar says thank you very much and <strong>smashes </strong>it with all the gung no ness over long-off for a flat six!"}]Overpitched outside off, Iftikhar says thank you very much and <strong>smashes </strong>it with all the gung no ness over long-off for a flat six!
+Overpitched outside off, Iftikhar says thank you very much and <strong>smashes </strong>it with all the gung no ness over long-off for a flat six!
 
 
 Balls faced: 26
 Bowler: Michael Bracewell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up gently and it's dipping in from outside off, played it with the spin to wide long-on."}]Tossed up gently and it's dipping in from outside off, played it with the spin to wide long-on.
+Tossed up gently and it's dipping in from outside off, played it with the spin to wide long-on.
 
 
 Balls faced: 27
 Bowler: Sears
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Dishes out a high full-toss outside off, slapped it to extra cover, will only get a single which won't perturb New Zealand at all"}]Dishes out a high full-toss outside off, slapped it to extra cover, will only get a single which won't perturb New Zealand at all
+Dishes out a high full-toss outside off, slapped it to extra cover, will only get a single which won't perturb New Zealand at all
 
 
 Balls faced: 28
 Bowler: Neesham
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pinpoint <strong>accurate </strong>yorker right into the blockhole, hurriedly shields his stumps with a block to the off side, finishes the over well"}]Pinpoint <strong>accurate </strong>yorker right into the blockhole, hurriedly shields his stumps with a block to the off side, finishes the over well
+Pinpoint <strong>accurate </strong>yorker right into the blockhole, hurriedly shields his stumps with a block to the off side, finishes the over well
 
 
 Balls faced: 29
 Bowler: Neesham
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and nipping in from outside off, launched in the air and lands just short of wide long-on, hits it flat and he got lucky there, just didn't carry"}]Full and nipping in from outside off, launched in the air and lands just short of wide long-on, hits it flat and he got lucky there, just didn't carry
+Full and nipping in from outside off, launched in the air and lands just short of wide long-on, hits it flat and he got lucky there, just didn't carry
 
 
 Balls faced: 30
 Bowler: Neesham
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Over the wicket, superb yorker on fourth stump line, shovelled away to mid-off"}]Over the wicket, superb yorker on fourth stump line, shovelled away to mid-off
+Over the wicket, superb yorker on fourth stump line, shovelled away to mid-off
 
 
 Balls faced: 31
 Bowler: Michael Bracewell
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, length on middle, nuzzled towards midwicket with soft hands, keen on taking the second but settled for a run"}]Over the wicket, length on middle, nuzzled towards midwicket with soft hands, keen on taking the second but settled for a run
+Over the wicket, length on middle, nuzzled towards midwicket with soft hands, keen on taking the second but settled for a run
 
 
 Balls faced: 32
 Bowler: Michael Bracewell
 Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Overpitched outside off, Iftikhar says thank you very much and <strong>smashes </strong>it with all the gung no ness over long-off for a flat six!"}]Overpitched outside off, Iftikhar says thank you very much and <strong>smashes </strong>it with all the gung no ness over long-off for a flat six!
+Overpitched outside off, Iftikhar says thank you very much and <strong>smashes </strong>it with all the gung no ness over long-off for a flat six!
 
 
 Balls faced: 33
 Bowler: Michael Bracewell
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tossed up gently and it's dipping in from outside off, played it with the spin to wide long-on."}]Tossed up gently and it's dipping in from outside off, played it with the spin to wide long-on.
+Tossed up gently and it's dipping in from outside off, played it with the spin to wide long-on.
 
 
 Balls faced: 34
 Bowler: Duffy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller length, attacks the stumps, opens the face and presses it down the carpet to mid-off"}]Fuller length, attacks the stumps, opens the face and presses it down the carpet to mid-off
+Fuller length, attacks the stumps, opens the face and presses it down the carpet to mid-off
 
 
 Balls faced: 35
 Bowler: Duffy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Pace-off, shortish and widish, clouts it away to deep backward point, superb save in the deep, every run counts, March Chapman lifting New Zealand with a brilliant effort in the field"}]Pace-off, shortish and widish, clouts it away to deep backward point, superb save in the deep, every run counts, March Chapman lifting New Zealand with a brilliant effort in the field
+Pace-off, shortish and widish, clouts it away to deep backward point, superb save in the deep, every run counts, March Chapman lifting New Zealand with a brilliant effort in the field
 
 
 Balls faced: 36
 Bowler: Duffy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Touch short and wide, cuffed to point who makes an acrobatic diving stop, 50 partnership also up after that six"}]Touch short and wide, cuffed to point who makes an acrobatic diving stop, 50 partnership also up after that six
+Touch short and wide, cuffed to point who makes an acrobatic diving stop, 50 partnership also up after that six
 
 
 Balls faced: 37
 Bowler: Neesham
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pinpoint <strong>accurate </strong>yorker right into the blockhole, hurriedly shields his stumps with a block to the off side, finishes the over well"}]Pinpoint <strong>accurate </strong>yorker right into the blockhole, hurriedly shields his stumps with a block to the off side, finishes the over well
+Pinpoint <strong>accurate </strong>yorker right into the blockhole, hurriedly shields his stumps with a block to the off side, finishes the over well
 
 
 Balls faced: 38
 Bowler: Neesham
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and nipping in from outside off, launched in the air and lands just short of wide long-on, hits it flat and he got lucky there, just didn't carry"}]Full and nipping in from outside off, launched in the air and lands just short of wide long-on, hits it flat and he got lucky there, just didn't carry
+Full and nipping in from outside off, launched in the air and lands just short of wide long-on, hits it flat and he got lucky there, just didn't carry
 
 
 Balls faced: 39
 Bowler: Neesham
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Over the wicket, superb yorker on fourth stump line, shovelled away to mid-off"}]Over the wicket, superb yorker on fourth stump line, shovelled away to mid-off
+Over the wicket, superb yorker on fourth stump line, shovelled away to mid-off
 
 
 Balls faced: 40
 Bowler: O'Rourke
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Didn't time it well enough<strong>Such a timely breakthrough, twist in the tale! </strong> Lands it on a length wide of off, he throws the kitchen sink at it and it didn't make a good sound, Neesham comes in from deep cover and takes a comfortable catch at his waist height, Iftikhar is gutted with himself, his cameo comes to an end but there is still some batting to come. Imad coming in next"}]Didn't time it well enough<strong>Such a timely breakthrough, twist in the tale! </strong> Lands it on a length wide of off, he throws the kitchen sink at it and it didn't make a good sound, Neesham comes in from deep cover and takes a comfortable catch at his waist height, Iftikhar is gutted with himself, his cameo comes to an end but there is still some batting to come. Imad coming in next
+Iftikhar is OUT! caught
+c Neesham b O'Rourke
+Iftikhar Ahmed c Neesham b O'Rourke 23 (20b 1x4 1x6 33m) SR: 115
+Didn't time it well enough<strong>Such a timely breakthrough, twist in the tale! </strong> Lands it on a length wide of off, he throws the kitchen sink at it and it didn't make a good sound, Neesham comes in from deep cover and takes a comfortable catch at his waist height, Iftikhar is gutted with himself, his cameo comes to an end but there is still some batting to come. Imad coming in next
 
 
 Balls faced: 41
 Bowler: O'Rourke
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>My! my! my! </strong> Errs on the leg side, he sits deep in the crease and carts it over deep fine leg for a four, superb pick-up shot"}]<strong>My! my! my! </strong> Errs on the leg side, he sits deep in the crease and carts it over deep fine leg for a four, superb pick-up shot
+<strong>My! my! my! </strong> Errs on the leg side, he sits deep in the crease and carts it over deep fine leg for a four, superb pick-up shot
 
 
 Balls faced: 42
 Bowler: Duffy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fuller length, attacks the stumps, opens the face and presses it down the carpet to mid-off"}]Fuller length, attacks the stumps, opens the face and presses it down the carpet to mid-off
+Fuller length, attacks the stumps, opens the face and presses it down the carpet to mid-off
 
 
 Balls faced: 43
 Bowler: Duffy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Pace-off, shortish and widish, clouts it away to deep backward point, superb save in the deep, every run counts, March Chapman lifting New Zealand with a brilliant effort in the field"}]Pace-off, shortish and widish, clouts it away to deep backward point, superb save in the deep, every run counts, March Chapman lifting New Zealand with a brilliant effort in the field
+Pace-off, shortish and widish, clouts it away to deep backward point, superb save in the deep, every run counts, March Chapman lifting New Zealand with a brilliant effort in the field
 
 
 Balls faced: 44
 Bowler: Duffy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Touch short and wide, cuffed to point who makes an acrobatic diving stop, 50 partnership also up after that six"}]Touch short and wide, cuffed to point who makes an acrobatic diving stop, 50 partnership also up after that six
+Touch short and wide, cuffed to point who makes an acrobatic diving stop, 50 partnership also up after that six
 
 
 Balls faced: 45
 Bowler: O'Rourke
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Didn't time it well enough<strong>Such a timely breakthrough, twist in the tale! </strong> Lands it on a length wide of off, he throws the kitchen sink at it and it didn't make a good sound, Neesham comes in from deep cover and takes a comfortable catch at his waist height, Iftikhar is gutted with himself, his cameo comes to an end but there is still some batting to come. Imad coming in next"}]Didn't time it well enough<strong>Such a timely breakthrough, twist in the tale! </strong> Lands it on a length wide of off, he throws the kitchen sink at it and it didn't make a good sound, Neesham comes in from deep cover and takes a comfortable catch at his waist height, Iftikhar is gutted with himself, his cameo comes to an end but there is still some batting to come. Imad coming in next
+Iftikhar is OUT! caught
+c Neesham b O'Rourke
+Iftikhar Ahmed c Neesham b O'Rourke 23 (20b 1x4 1x6 33m) SR: 115
+Didn't time it well enough<strong>Such a timely breakthrough, twist in the tale! </strong> Lands it on a length wide of off, he throws the kitchen sink at it and it didn't make a good sound, Neesham comes in from deep cover and takes a comfortable catch at his waist height, Iftikhar is gutted with himself, his cameo comes to an end but there is still some batting to come. Imad coming in next
 
 
 Balls faced: 46
 Bowler: O'Rourke
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>My! my! my! </strong> Errs on the leg side, he sits deep in the crease and carts it over deep fine leg for a four, superb pick-up shot"}]<strong>My! my! my! </strong> Errs on the leg side, he sits deep in the crease and carts it over deep fine leg for a four, superb pick-up shot
+<strong>My! my! my! </strong> Errs on the leg side, he sits deep in the crease and carts it over deep fine leg for a four, superb pick-up shot
 
 
 
@@ -2302,141 +2566,159 @@ Match: all_games_1424827_1424833.json
 Balls faced: 1
 Bowler: Foulkes
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tad short around the line off, cuffs it away to deep backward square"}]Tad short around the line off, cuffs it away to deep backward square
+Tad short around the line off, cuffs it away to deep backward square
 
 
 Balls faced: 2
 Bowler: Foulkes
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball came back from outside off, crunched down to extra cover who makes a fabulous diving stop"}]Length ball came back from outside off, crunched down to extra cover who makes a fabulous diving stop
+Length ball came back from outside off, crunched down to extra cover who makes a fabulous diving stop
 
 
 Balls faced: 3
 Bowler: O'Rourke
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another wide yorker slapped to deep point"}]Another wide yorker slapped to deep point
+Another wide yorker slapped to deep point
 
 
 Balls faced: 4
 Bowler: Foulkes
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tad short around the line off, cuffs it away to deep backward square"}]Tad short around the line off, cuffs it away to deep backward square
+Tad short around the line off, cuffs it away to deep backward square
 
 
 Balls faced: 5
 Bowler: Foulkes
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length ball came back from outside off, crunched down to extra cover who makes a fabulous diving stop"}]Length ball came back from outside off, crunched down to extra cover who makes a fabulous diving stop
+Length ball came back from outside off, crunched down to extra cover who makes a fabulous diving stop
 
 
 Balls faced: 6
 Bowler: Sears
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Fires in a yorker in the quiet spot towards his toes, digs it out between midwicket and mid-on, finishes the over well"}]Fires in a yorker in the quiet spot towards his toes, digs it out between midwicket and mid-on, finishes the over well
+Fires in a yorker in the quiet spot towards his toes, digs it out between midwicket and mid-on, finishes the over well
 
 
 Balls faced: 7
 Bowler: Sears
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Crouches and attempts a scoop, might have got a faint inside edge, ball rolls over to Ish Sodhi at 45"}]Crouches and attempts a scoop, might have got a faint inside edge, ball rolls over to Ish Sodhi at 45
+Crouches and attempts a scoop, might have got a faint inside edge, ball rolls over to Ish Sodhi at 45
 
 
 Balls faced: 8
 Bowler: O'Rourke
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another wide yorker slapped to deep point"}]Another wide yorker slapped to deep point
+Another wide yorker slapped to deep point
 
 
 Balls faced: 9
 Bowler: Neesham
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Holes out to long-on! </strong> He stayed deep in the crease and tonked the full toss through the line but he didn't get much elevation and distance, his weight pivoting on backfoot, wasn't able to generate the requisite force to clear the ropes"}]<strong>Holes out to long-on! </strong> He stayed deep in the crease and tonked the full toss through the line but he didn't get much elevation and distance, his weight pivoting on backfoot, wasn't able to generate the requisite force to clear the ropes
+Iftikhar is OUT! caught
+c Bracewell b Neesham
+Iftikhar Ahmed c Bracewell b Neesham 6 (7b 0x4 0x6 19m) SR: 85.71
+<strong>Holes out to long-on! </strong> He stayed deep in the crease and tonked the full toss through the line but he didn't get much elevation and distance, his weight pivoting on backfoot, wasn't able to generate the requisite force to clear the ropes
 
 
 Balls faced: 10
 Bowler: Neesham
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dishes out a low full-bunger just outside middle stump, wanted to heave that out of orbit but wasn't inside the line, it was a hit-me ball"}]Dishes out a low full-bunger just outside middle stump, wanted to heave that out of orbit but wasn't inside the line, it was a hit-me ball
+Dishes out a low full-bunger just outside middle stump, wanted to heave that out of orbit but wasn't inside the line, it was a hit-me ball
 
 
 Balls faced: 11
 Bowler: Sears
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Fires in a yorker in the quiet spot towards his toes, digs it out between midwicket and mid-on, finishes the over well"}]Fires in a yorker in the quiet spot towards his toes, digs it out between midwicket and mid-on, finishes the over well
+Fires in a yorker in the quiet spot towards his toes, digs it out between midwicket and mid-on, finishes the over well
 
 
 Balls faced: 12
 Bowler: Sears
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Crouches and attempts a scoop, might have got a faint inside edge, ball rolls over to Ish Sodhi at 45"}]Crouches and attempts a scoop, might have got a faint inside edge, ball rolls over to Ish Sodhi at 45
+Crouches and attempts a scoop, might have got a faint inside edge, ball rolls over to Ish Sodhi at 45
 
 
 Balls faced: 13
 Bowler: Neesham
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Holes out to long-on! </strong> He stayed deep in the crease and tonked the full toss through the line but he didn't get much elevation and distance, his weight pivoting on backfoot, wasn't able to generate the requisite force to clear the ropes"}]<strong>Holes out to long-on! </strong> He stayed deep in the crease and tonked the full toss through the line but he didn't get much elevation and distance, his weight pivoting on backfoot, wasn't able to generate the requisite force to clear the ropes
+Iftikhar is OUT! caught
+c Bracewell b Neesham
+Iftikhar Ahmed c Bracewell b Neesham 6 (7b 0x4 0x6 19m) SR: 85.71
+<strong>Holes out to long-on! </strong> He stayed deep in the crease and tonked the full toss through the line but he didn't get much elevation and distance, his weight pivoting on backfoot, wasn't able to generate the requisite force to clear the ropes
 
 
 Balls faced: 14
 Bowler: Neesham
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dishes out a low full-bunger just outside middle stump, wanted to heave that out of orbit but wasn't inside the line, it was a hit-me ball"}]Dishes out a low full-bunger just outside middle stump, wanted to heave that out of orbit but wasn't inside the line, it was a hit-me ball
+Dishes out a low full-bunger just outside middle stump, wanted to heave that out of orbit but wasn't inside the line, it was a hit-me ball
 
 
 
@@ -2444,321 +2726,353 @@ Match: all_games_1426828_1426830.json
 Balls faced: 1
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slightly short and outside off, a high-elbowed flick towards cow corner for a run"}]Slightly short and outside off, a high-elbowed flick towards cow corner for a run
+Slightly short and outside off, a high-elbowed flick towards cow corner for a run
 
 
 Balls faced: 2
 Bowler: McCarthy
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Helped behind square on the leg side, the couple hares for a couple and just about make it in the nick of time. Pakistan bat deep so Ireland cannot afford to relax"}]Helped behind square on the leg side, the couple hares for a couple and just about make it in the nick of time. Pakistan bat deep so Ireland cannot afford to relax
+Helped behind square on the leg side, the couple hares for a couple and just about make it in the nick of time. Pakistan bat deep so Ireland cannot afford to relax
 
 
 Balls faced: 3
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Banged in short on middle and leg, swivels and munched all along the carpet to deep fine leg boundary, that is a freebie served on a plate and he accepts it gleefully with a pull"}]Banged in short on middle and leg, swivels and munched all along the carpet to deep fine leg boundary, that is a freebie served on a plate and he accepts it gleefully with a pull
+Banged in short on middle and leg, swivels and munched all along the carpet to deep fine leg boundary, that is a freebie served on a plate and he accepts it gleefully with a pull
 
 
 Balls faced: 4
 Bowler: McCarthy
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length, shapes back from outside off, scuffs a drive back to McCarthy"}]Good length, shapes back from outside off, scuffs a drive back to McCarthy
+Good length, shapes back from outside off, scuffs a drive back to McCarthy
 
 
 Balls faced: 5
 Bowler: Young
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, getting a hint of away movement off the pitch, glided down to backward point for a run and finishes a superb spell"}]Short of a length, getting a hint of away movement off the pitch, glided down to backward point for a run and finishes a superb spell
+Short of a length, getting a hint of away movement off the pitch, glided down to backward point for a run and finishes a superb spell
 
 
 Balls faced: 6
 Bowler: Young
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, drags his length back and it's floating away outside off, took the pace off and that flummoxed him, couldn't connect his ramp"}]Over the wicket, drags his length back and it's floating away outside off, took the pace off and that flummoxed him, couldn't connect his ramp
+Over the wicket, drags his length back and it's floating away outside off, took the pace off and that flummoxed him, couldn't connect his ramp
 
 
 Balls faced: 7
 Bowler: Young
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length just outside off, gets down low to it and eases it with the angled face to third man"}]Back of a length just outside off, gets down low to it and eases it with the angled face to third man
+Back of a length just outside off, gets down low to it and eases it with the angled face to third man
 
 
 Balls faced: 8
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slightly short and outside off, a high-elbowed flick towards cow corner for a run"}]Slightly short and outside off, a high-elbowed flick towards cow corner for a run
+Slightly short and outside off, a high-elbowed flick towards cow corner for a run
 
 
 Balls faced: 9
 Bowler: McCarthy
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Helped behind square on the leg side, the couple hares for a couple and just about make it in the nick of time. Pakistan bat deep so Ireland cannot afford to relax"}]Helped behind square on the leg side, the couple hares for a couple and just about make it in the nick of time. Pakistan bat deep so Ireland cannot afford to relax
+Helped behind square on the leg side, the couple hares for a couple and just about make it in the nick of time. Pakistan bat deep so Ireland cannot afford to relax
 
 
 Balls faced: 10
 Bowler: McCarthy
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Banged in short on middle and leg, swivels and munched all along the carpet to deep fine leg boundary, that is a freebie served on a plate and he accepts it gleefully with a pull"}]Banged in short on middle and leg, swivels and munched all along the carpet to deep fine leg boundary, that is a freebie served on a plate and he accepts it gleefully with a pull
+Banged in short on middle and leg, swivels and munched all along the carpet to deep fine leg boundary, that is a freebie served on a plate and he accepts it gleefully with a pull
 
 
 Balls faced: 11
 Bowler: McCarthy
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length, shapes back from outside off, scuffs a drive back to McCarthy"}]Good length, shapes back from outside off, scuffs a drive back to McCarthy
+Good length, shapes back from outside off, scuffs a drive back to McCarthy
 
 
 Balls faced: 12
 Bowler: Adair
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tantalizingly in the air, clouted it towards deep midwicket, two fielders running towards each other and it falls safely between them, Iftikhar only adds one more to the board even though there was an opportunity for another run"}]Tantalizingly in the air, clouted it towards deep midwicket, two fielders running towards each other and it falls safely between them, Iftikhar only adds one more to the board even though there was an opportunity for another run
+Tantalizingly in the air, clouted it towards deep midwicket, two fielders running towards each other and it falls safely between them, Iftikhar only adds one more to the board even though there was an opportunity for another run
 
 
 Balls faced: 13
 Bowler: Adair
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Makes room and steers it down to deep third, it was a slow ball but he was equal to the task, played it with soft hands"}]Makes room and steers it down to deep third, it was a slow ball but he was equal to the task, played it with soft hands
+Makes room and steers it down to deep third, it was a slow ball but he was equal to the task, played it with soft hands
 
 
 Balls faced: 14
 Bowler: Adair
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Tonked for SIX! </strong> Touch full and width on offer, he gets down low and clobbers it up and over deep backward point for a maximum. Meaty blow. Not easy to manufacture a six from that position, he was down on one knee but still generated enough power to clear the ropes"}]<strong>Tonked for SIX! </strong> Touch full and width on offer, he gets down low and clobbers it up and over deep backward point for a maximum. Meaty blow. Not easy to manufacture a six from that position, he was down on one knee but still generated enough power to clear the ropes
+<strong>Tonked for SIX! </strong> Touch full and width on offer, he gets down low and clobbers it up and over deep backward point for a maximum. Meaty blow. Not easy to manufacture a six from that position, he was down on one knee but still generated enough power to clear the ropes
 
 
 Balls faced: 15
 Bowler: Young
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, getting a hint of away movement off the pitch, glided down to backward point for a run and finishes a superb spell"}]Short of a length, getting a hint of away movement off the pitch, glided down to backward point for a run and finishes a superb spell
+Short of a length, getting a hint of away movement off the pitch, glided down to backward point for a run and finishes a superb spell
 
 
 Balls faced: 16
 Bowler: Young
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, drags his length back and it's floating away outside off, took the pace off and that flummoxed him, couldn't connect his ramp"}]Over the wicket, drags his length back and it's floating away outside off, took the pace off and that flummoxed him, couldn't connect his ramp
+Over the wicket, drags his length back and it's floating away outside off, took the pace off and that flummoxed him, couldn't connect his ramp
 
 
 Balls faced: 17
 Bowler: Young
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of a length just outside off, gets down low to it and eases it with the angled face to third man"}]Back of a length just outside off, gets down low to it and eases it with the angled face to third man
+Back of a length just outside off, gets down low to it and eases it with the angled face to third man
 
 
 Balls faced: 18
 Bowler: Adair
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Tantalizingly in the air, clouted it towards deep midwicket, two fielders running towards each other and it falls safely between them, Iftikhar only adds one more to the board even though there was an opportunity for another run"}]Tantalizingly in the air, clouted it towards deep midwicket, two fielders running towards each other and it falls safely between them, Iftikhar only adds one more to the board even though there was an opportunity for another run
+Tantalizingly in the air, clouted it towards deep midwicket, two fielders running towards each other and it falls safely between them, Iftikhar only adds one more to the board even though there was an opportunity for another run
 
 
 Balls faced: 19
 Bowler: Adair
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Makes room and steers it down to deep third, it was a slow ball but he was equal to the task, played it with soft hands"}]Makes room and steers it down to deep third, it was a slow ball but he was equal to the task, played it with soft hands
+Makes room and steers it down to deep third, it was a slow ball but he was equal to the task, played it with soft hands
 
 
 Balls faced: 20
 Bowler: Adair
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Tonked for SIX! </strong> Touch full and width on offer, he gets down low and clobbers it up and over deep backward point for a maximum. Meaty blow. Not easy to manufacture a six from that position, he was down on one knee but still generated enough power to clear the ropes"}]<strong>Tonked for SIX! </strong> Touch full and width on offer, he gets down low and clobbers it up and over deep backward point for a maximum. Meaty blow. Not easy to manufacture a six from that position, he was down on one knee but still generated enough power to clear the ropes
+<strong>Tonked for SIX! </strong> Touch full and width on offer, he gets down low and clobbers it up and over deep backward point for a maximum. Meaty blow. Not easy to manufacture a six from that position, he was down on one knee but still generated enough power to clear the ropes
 
 
 Balls faced: 21
 Bowler: Adair
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, rams the yorker in the quiet zone, digs it out to long-on, Adair runs back and fields off his own bowling to keep them down to one"}]Over the wicket, rams the yorker in the quiet zone, digs it out to long-on, Adair runs back and fields off his own bowling to keep them down to one
+Over the wicket, rams the yorker in the quiet zone, digs it out to long-on, Adair runs back and fields off his own bowling to keep them down to one
 
 
 Balls faced: 22
 Bowler: Adair
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Snuffs out a yorker right into the blockhole, Adair lost the ball and a run-out opportunity at non-striker's end has gone begging, Shaheen was standing in the middle of the crease"}]Snuffs out a yorker right into the blockhole, Adair lost the ball and a run-out opportunity at non-striker's end has gone begging, Shaheen was standing in the middle of the crease
+Snuffs out a yorker right into the blockhole, Adair lost the ball and a run-out opportunity at non-striker's end has gone begging, Shaheen was standing in the middle of the crease
 
 
 Balls faced: 23
 Bowler: Adair
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Oh, that's a biggee! Right out of the screws, crouches and lifts it up and over deep midwicket and it's gone out of the park. Uses his lumberjack strong wrists to club it into the stands"}]Oh, that's a biggee! Right out of the screws, crouches and lifts it up and over deep midwicket and it's gone out of the park. Uses his lumberjack strong wrists to club it into the stands
+Oh, that's a biggee! Right out of the screws, crouches and lifts it up and over deep midwicket and it's gone out of the park. Uses his lumberjack strong wrists to club it into the stands
 
 
 Balls faced: 24
 Bowler: Adair
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Makes room and unfurls a gorgeous late cut past third man for a four, this is exactly what the doctor prescribed for Pakistan, Iftikhar giving the visitors the much-needed impetus towards  the end"}]Makes room and unfurls a gorgeous late cut past third man for a four, this is exactly what the doctor prescribed for Pakistan, Iftikhar giving the visitors the much-needed impetus towards  the end
+Makes room and unfurls a gorgeous late cut past third man for a four, this is exactly what the doctor prescribed for Pakistan, Iftikhar giving the visitors the much-needed impetus towards  the end
 
 
 Balls faced: 25
 Bowler: Adair
 Over: 20
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short and sprays it down the leg side, he'll have to reload"}]Short and sprays it down the leg side, he'll have to reload
+Short and sprays it down the leg side, he'll have to reload
 
 Wide: 1
 Balls faced: 26
 Bowler: Adair
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Smacked over fine leg for a six, not the ideal line, errant delivery down leg, he quickly got down and sashayed across a little on off, gets a top-edge that is enough to send the ball on a trip to the boundary"}]Smacked over fine leg for a six, not the ideal line, errant delivery down leg, he quickly got down and sashayed across a little on off, gets a top-edge that is enough to send the ball on a trip to the boundary
+Smacked over fine leg for a six, not the ideal line, errant delivery down leg, he quickly got down and sashayed across a little on off, gets a top-edge that is enough to send the ball on a trip to the boundary
 
 
 Balls faced: 27
 Bowler: Adair
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Over the wicket, rams the yorker in the quiet zone, digs it out to long-on, Adair runs back and fields off his own bowling to keep them down to one"}]Over the wicket, rams the yorker in the quiet zone, digs it out to long-on, Adair runs back and fields off his own bowling to keep them down to one
+Over the wicket, rams the yorker in the quiet zone, digs it out to long-on, Adair runs back and fields off his own bowling to keep them down to one
 
 
 Balls faced: 28
 Bowler: Adair
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Snuffs out a yorker right into the blockhole, Adair lost the ball and a run-out opportunity at non-striker's end has gone begging, Shaheen was standing in the middle of the crease"}]Snuffs out a yorker right into the blockhole, Adair lost the ball and a run-out opportunity at non-striker's end has gone begging, Shaheen was standing in the middle of the crease
+Snuffs out a yorker right into the blockhole, Adair lost the ball and a run-out opportunity at non-striker's end has gone begging, Shaheen was standing in the middle of the crease
 
 
 Balls faced: 29
 Bowler: Adair
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Oh, that's a biggee! Right out of the screws, crouches and lifts it up and over deep midwicket and it's gone out of the park. Uses his lumberjack strong wrists to club it into the stands"}]Oh, that's a biggee! Right out of the screws, crouches and lifts it up and over deep midwicket and it's gone out of the park. Uses his lumberjack strong wrists to club it into the stands
+Oh, that's a biggee! Right out of the screws, crouches and lifts it up and over deep midwicket and it's gone out of the park. Uses his lumberjack strong wrists to club it into the stands
 
 
 Balls faced: 30
 Bowler: Adair
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Makes room and unfurls a gorgeous late cut past third man for a four, this is exactly what the doctor prescribed for Pakistan, Iftikhar giving the visitors the much-needed impetus towards  the end"}]Makes room and unfurls a gorgeous late cut past third man for a four, this is exactly what the doctor prescribed for Pakistan, Iftikhar giving the visitors the much-needed impetus towards  the end
+Makes room and unfurls a gorgeous late cut past third man for a four, this is exactly what the doctor prescribed for Pakistan, Iftikhar giving the visitors the much-needed impetus towards  the end
 
 
 Balls faced: 31
 Bowler: Adair
 Over: 20
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short and sprays it down the leg side, he'll have to reload"}]Short and sprays it down the leg side, he'll have to reload
+Short and sprays it down the leg side, he'll have to reload
 
 Wide: 1
 Balls faced: 32
 Bowler: Adair
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Smacked over fine leg for a six, not the ideal line, errant delivery down leg, he quickly got down and sashayed across a little on off, gets a top-edge that is enough to send the ball on a trip to the boundary"}]Smacked over fine leg for a six, not the ideal line, errant delivery down leg, he quickly got down and sashayed across a little on off, gets a top-edge that is enough to send the ball on a trip to the boundary
+Smacked over fine leg for a six, not the ideal line, errant delivery down leg, he quickly got down and sashayed across a little on off, gets a top-edge that is enough to send the ball on a trip to the boundary
 
 
 
@@ -2766,78 +3080,90 @@ Match: all_games_1426828_1426832.json
 Balls faced: 1
 Bowler: Young
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slightly short and floating outside off, slaps a cut shot to deep point"}]Slightly short and floating outside off, slaps a cut shot to deep point
+Slightly short and floating outside off, slaps a cut shot to deep point
 
 
 Balls faced: 2
 Bowler: Young
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Slow and dug in short at middle, stands tall and gets off the mark with an exclamation mark, <strong>slugged </strong>behind square leg for a four"}]Slow and dug in short at middle, stands tall and gets off the mark with an exclamation mark, <strong>slugged </strong>behind square leg for a four
+Slow and dug in short at middle, stands tall and gets off the mark with an exclamation mark, <strong>slugged </strong>behind square leg for a four
 
 
 Balls faced: 3
 Bowler: Adair
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Gottim</strong>! On a length and it jags back at middle, Iftikhar pounds it downtown and holes out to long-on. Wanted to finish the game in style but he got more elevation than distance on this occasion, he has been finding fielders at long-on and long-off quite often in the last few games, didn't find the middle on this occasion, Adair continues to have a splendid outing"}]<strong>Gottim</strong>! On a length and it jags back at middle, Iftikhar pounds it downtown and holes out to long-on. Wanted to finish the game in style but he got more elevation than distance on this occasion, he has been finding fielders at long-on and long-off quite often in the last few games, didn't find the middle on this occasion, Adair continues to have a splendid outing
+Iftikhar is OUT! caught
+c Campher b Adair
+Iftikhar Ahmed c Campher b Adair 5 (4b 1x4 0x6 4m) SR: 125
+<strong>Gottim</strong>! On a length and it jags back at middle, Iftikhar pounds it downtown and holes out to long-on. Wanted to finish the game in style but he got more elevation than distance on this occasion, he has been finding fielders at long-on and long-off quite often in the last few games, didn't find the middle on this occasion, Adair continues to have a splendid outing
 
 
 Balls faced: 4
 Bowler: Adair
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of a length outside off, runs it down to short third. Slowish rising ball on fifth stump"}]Back of a length outside off, runs it down to short third. Slowish rising ball on fifth stump
+Back of a length outside off, runs it down to short third. Slowish rising ball on fifth stump
 
 
 Balls faced: 5
 Bowler: Young
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slightly short and floating outside off, slaps a cut shot to deep point"}]Slightly short and floating outside off, slaps a cut shot to deep point
+Slightly short and floating outside off, slaps a cut shot to deep point
 
 
 Balls faced: 6
 Bowler: Young
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Slow and dug in short at middle, stands tall and gets off the mark with an exclamation mark, <strong>slugged </strong>behind square leg for a four"}]Slow and dug in short at middle, stands tall and gets off the mark with an exclamation mark, <strong>slugged </strong>behind square leg for a four
+Slow and dug in short at middle, stands tall and gets off the mark with an exclamation mark, <strong>slugged </strong>behind square leg for a four
 
 
 Balls faced: 7
 Bowler: Adair
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Gottim</strong>! On a length and it jags back at middle, Iftikhar pounds it downtown and holes out to long-on. Wanted to finish the game in style but he got more elevation than distance on this occasion, he has been finding fielders at long-on and long-off quite often in the last few games, didn't find the middle on this occasion, Adair continues to have a splendid outing"}]<strong>Gottim</strong>! On a length and it jags back at middle, Iftikhar pounds it downtown and holes out to long-on. Wanted to finish the game in style but he got more elevation than distance on this occasion, he has been finding fielders at long-on and long-off quite often in the last few games, didn't find the middle on this occasion, Adair continues to have a splendid outing
+Iftikhar is OUT! caught
+c Campher b Adair
+Iftikhar Ahmed c Campher b Adair 5 (4b 1x4 0x6 4m) SR: 125
+<strong>Gottim</strong>! On a length and it jags back at middle, Iftikhar pounds it downtown and holes out to long-on. Wanted to finish the game in style but he got more elevation than distance on this occasion, he has been finding fielders at long-on and long-off quite often in the last few games, didn't find the middle on this occasion, Adair continues to have a splendid outing
 
 
 Balls faced: 8
 Bowler: Adair
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Back of a length outside off, runs it down to short third. Slowish rising ball on fifth stump"}]Back of a length outside off, runs it down to short third. Slowish rising ball on fifth stump
+Back of a length outside off, runs it down to short third. Slowish rising ball on fifth stump

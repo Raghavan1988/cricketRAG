@@ -2,201 +2,225 @@ Match: all_games_1411166_1415725.json
 Balls faced: 1
 Bowler: Arshdeep Singh
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hits a probing length from over the wicket, soft-handed block into the off side"}]hits a probing length from over the wicket, soft-handed block into the off side
+hits a probing length from over the wicket, soft-handed block into the off side
 
 
 Balls faced: 2
 Bowler: Arshdeep Singh
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "over the wicket to the left-hander, keeps low and squeezed to leg"}]over the wicket to the left-hander, keeps low and squeezed to leg
+over the wicket to the left-hander, keeps low and squeezed to leg
 
 
 Balls faced: 3
 Bowler: Bumrah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 3
 
 
-[{"type": "HTML", "html": "fuller length, drilled through the line, confident intent on the front foot, in the air and into space at deep cover"}]fuller length, drilled through the line, confident intent on the front foot, in the air and into space at deep cover
+fuller length, drilled through the line, confident intent on the front foot, in the air and into space at deep cover
 
 
 Balls faced: 4
 Bowler: Bumrah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>flicked off the hips, top-edge over fine leg!</B> Bumrah is going the journey in this over! Cramped on a leg-stump line, but Bumrah's pace and lift do the work for him! The first six he's conceded all tournament"}]<B>flicked off the hips, top-edge over fine leg!</B> Bumrah is going the journey in this over! Cramped on a leg-stump line, but Bumrah's pace and lift do the work for him! The first six he's conceded all tournament
+<B>flicked off the hips, top-edge over fine leg!</B> Bumrah is going the journey in this over! Cramped on a leg-stump line, but Bumrah's pace and lift do the work for him! The first six he's conceded all tournament
 
 
 Balls faced: 5
 Bowler: Arshdeep Singh
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hits a probing length from over the wicket, soft-handed block into the off side"}]hits a probing length from over the wicket, soft-handed block into the off side
+hits a probing length from over the wicket, soft-handed block into the off side
 
 
 Balls faced: 6
 Bowler: Arshdeep Singh
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "over the wicket to the left-hander, keeps low and squeezed to leg"}]over the wicket to the left-hander, keeps low and squeezed to leg
+over the wicket to the left-hander, keeps low and squeezed to leg
 
 
 Balls faced: 7
 Bowler: Hardik
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pace off on the short ball, Harmeet shapes for the pull, is completely deceived by the variation and wears it on the shoulder again. The deflection flies square for a bye"}]pace off on the short ball, Harmeet shapes for the pull, is completely deceived by the variation and wears it on the shoulder again. The deflection flies square for a bye
+pace off on the short ball, Harmeet shapes for the pull, is completely deceived by the variation and wears it on the shoulder again. The deflection flies square for a bye
 
 Legbyes: 1
 Balls faced: 8
 Bowler: Hardik
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "yorker, lovely bowling, and very well dug out too. Jabbing the toe of the bat down into the blockhole"}]yorker, lovely bowling, and very well dug out too. Jabbing the toe of the bat down into the blockhole
-[{"type": "HTML", "html": "Rajan: \"137 is the highest score at this ground by Canada, can USA surpass that!\""}]Rajan: "137 is the highest score at this ground by Canada, can USA surpass that!"
+yorker, lovely bowling, and very well dug out too. Jabbing the toe of the bat down into the blockhole
+Rajan: "137 is the highest score at this ground by Canada, can USA surpass that!"
 
 Balls faced: 9
 Bowler: Hardik
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another short ball, lobs to Pant behind the stumps... there's a distinct lack of excitement, but<B> Rohit is reviewing</B>. Is there a suspicion of glove before the ball clearly clipped the shoulder. It was mighty close to top-edge as Harmeet swung through his pull, but nothing doing"}]another short ball, lobs to Pant behind the stumps... there's a distinct lack of excitement, but<B> Rohit is reviewing</B>. Is there a suspicion of glove before the ball clearly clipped the shoulder. It was mighty close to top-edge as Harmeet swung through his pull, but nothing doing
-[{"type": "HTML", "html": "Anand: \"USA managed runs off one over off Bumrah what Pakitan needed his entire spell !!!\""}]Anand: "USA managed runs off one over off Bumrah what Pakitan needed his entire spell !!!"
+another short ball, lobs to Pant behind the stumps... there's a distinct lack of excitement, but<B> Rohit is reviewing</B>. Is there a suspicion of glove before the ball clearly clipped the shoulder. It was mighty close to top-edge as Harmeet swung through his pull, but nothing doing
+Anand: "USA managed runs off one over off Bumrah what Pakitan needed his entire spell !!!"
 
 Balls faced: 10
 Bowler: Hardik
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Hardik to bowl out"}]Hardik to bowl out
+Hardik to bowl out
 
-[{"type": "HTML", "html": "good cutter, bites the pitch and climbs into a hard pull, can't connect"}]good cutter, bites the pitch and climbs into a hard pull, can't connect
+good cutter, bites the pitch and climbs into a hard pull, can't connect
 
 
 Balls faced: 11
 Bowler: Bumrah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 3
 
 
-[{"type": "HTML", "html": "fuller length, drilled through the line, confident intent on the front foot, in the air and into space at deep cover"}]fuller length, drilled through the line, confident intent on the front foot, in the air and into space at deep cover
+fuller length, drilled through the line, confident intent on the front foot, in the air and into space at deep cover
 
 
 Balls faced: 12
 Bowler: Bumrah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>flicked off the hips, top-edge over fine leg!</B> Bumrah is going the journey in this over! Cramped on a leg-stump line, but Bumrah's pace and lift do the work for him! The first six he's conceded all tournament"}]<B>flicked off the hips, top-edge over fine leg!</B> Bumrah is going the journey in this over! Cramped on a leg-stump line, but Bumrah's pace and lift do the work for him! The first six he's conceded all tournament
+<B>flicked off the hips, top-edge over fine leg!</B> Bumrah is going the journey in this over! Cramped on a leg-stump line, but Bumrah's pace and lift do the work for him! The first six he's conceded all tournament
 
 
 Balls faced: 13
 Bowler: Arshdeep Singh
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>that's the ticket!</B> Arshdeep persists with his short-ball policy, Harmeet has a swish across the line, gets a thin edge off the shoulder of his bat, Pant times his leap behind the stumps and Arshdeep does have four after all!"}]<B>that's the ticket!</B> Arshdeep persists with his short-ball policy, Harmeet has a swish across the line, gets a thin edge off the shoulder of his bat, Pant times his leap behind the stumps and Arshdeep does have four after all!
+Harmeet Singh is OUT! caught
+c †Pant b Arshdeep Singh
+Harmeet Singh c †Pant b Arshdeep Singh 10 (10b 0x4 1x6 16m) SR: 100
+<B>that's the ticket!</B> Arshdeep persists with his short-ball policy, Harmeet has a swish across the line, gets a thin edge off the shoulder of his bat, Pant times his leap behind the stumps and Arshdeep does have four after all!
 
 
 Balls faced: 14
 Bowler: Arshdeep Singh
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Arshdeep to bowl out"}]Arshdeep to bowl out
+Arshdeep to bowl out
 
-[{"type": "HTML", "html": "<B>hoisted high to deep midwicket but a horror drop from Siraj!</B> An excellent bouncer, following the batter, Siraj has one super catch to his name but he misjudged that badly, throwing himself forward at the last second and letting it through his hands"}]<B>hoisted high to deep midwicket but a horror drop from Siraj!</B> An excellent bouncer, following the batter, Siraj has one super catch to his name but he misjudged that badly, throwing himself forward at the last second and letting it through his hands
+<B>hoisted high to deep midwicket but a horror drop from Siraj!</B> An excellent bouncer, following the batter, Siraj has one super catch to his name but he misjudged that badly, throwing himself forward at the last second and letting it through his hands
 
 
 Balls faced: 15
 Bowler: Hardik
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pace off on the short ball, Harmeet shapes for the pull, is completely deceived by the variation and wears it on the shoulder again. The deflection flies square for a bye"}]pace off on the short ball, Harmeet shapes for the pull, is completely deceived by the variation and wears it on the shoulder again. The deflection flies square for a bye
+pace off on the short ball, Harmeet shapes for the pull, is completely deceived by the variation and wears it on the shoulder again. The deflection flies square for a bye
 
 Legbyes: 1
 Balls faced: 16
 Bowler: Hardik
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "yorker, lovely bowling, and very well dug out too. Jabbing the toe of the bat down into the blockhole"}]yorker, lovely bowling, and very well dug out too. Jabbing the toe of the bat down into the blockhole
-[{"type": "HTML", "html": "Rajan: \"137 is the highest score at this ground by Canada, can USA surpass that!\""}]Rajan: "137 is the highest score at this ground by Canada, can USA surpass that!"
+yorker, lovely bowling, and very well dug out too. Jabbing the toe of the bat down into the blockhole
+Rajan: "137 is the highest score at this ground by Canada, can USA surpass that!"
 
 Balls faced: 17
 Bowler: Hardik
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another short ball, lobs to Pant behind the stumps... there's a distinct lack of excitement, but<B> Rohit is reviewing</B>. Is there a suspicion of glove before the ball clearly clipped the shoulder. It was mighty close to top-edge as Harmeet swung through his pull, but nothing doing"}]another short ball, lobs to Pant behind the stumps... there's a distinct lack of excitement, but<B> Rohit is reviewing</B>. Is there a suspicion of glove before the ball clearly clipped the shoulder. It was mighty close to top-edge as Harmeet swung through his pull, but nothing doing
-[{"type": "HTML", "html": "Anand: \"USA managed runs off one over off Bumrah what Pakitan needed his entire spell !!!\""}]Anand: "USA managed runs off one over off Bumrah what Pakitan needed his entire spell !!!"
+another short ball, lobs to Pant behind the stumps... there's a distinct lack of excitement, but<B> Rohit is reviewing</B>. Is there a suspicion of glove before the ball clearly clipped the shoulder. It was mighty close to top-edge as Harmeet swung through his pull, but nothing doing
+Anand: "USA managed runs off one over off Bumrah what Pakitan needed his entire spell !!!"
 
 Balls faced: 18
 Bowler: Hardik
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Hardik to bowl out"}]Hardik to bowl out
+Hardik to bowl out
 
-[{"type": "HTML", "html": "good cutter, bites the pitch and climbs into a hard pull, can't connect"}]good cutter, bites the pitch and climbs into a hard pull, can't connect
+good cutter, bites the pitch and climbs into a hard pull, can't connect
 
 
 Balls faced: 19
 Bowler: Arshdeep Singh
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>that's the ticket!</B> Arshdeep persists with his short-ball policy, Harmeet has a swish across the line, gets a thin edge off the shoulder of his bat, Pant times his leap behind the stumps and Arshdeep does have four after all!"}]<B>that's the ticket!</B> Arshdeep persists with his short-ball policy, Harmeet has a swish across the line, gets a thin edge off the shoulder of his bat, Pant times his leap behind the stumps and Arshdeep does have four after all!
+Harmeet Singh is OUT! caught
+c †Pant b Arshdeep Singh
+Harmeet Singh c †Pant b Arshdeep Singh 10 (10b 0x4 1x6 16m) SR: 100
+<B>that's the ticket!</B> Arshdeep persists with his short-ball policy, Harmeet has a swish across the line, gets a thin edge off the shoulder of his bat, Pant times his leap behind the stumps and Arshdeep does have four after all!
 
 
 Balls faced: 20
 Bowler: Arshdeep Singh
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Arshdeep to bowl out"}]Arshdeep to bowl out
+Arshdeep to bowl out
 
-[{"type": "HTML", "html": "<B>hoisted high to deep midwicket but a horror drop from Siraj!</B> An excellent bouncer, following the batter, Siraj has one super catch to his name but he misjudged that badly, throwing himself forward at the last second and letting it through his hands"}]<B>hoisted high to deep midwicket but a horror drop from Siraj!</B> An excellent bouncer, following the batter, Siraj has one super catch to his name but he misjudged that badly, throwing himself forward at the last second and letting it through his hands
+<B>hoisted high to deep midwicket but a horror drop from Siraj!</B> An excellent bouncer, following the batter, Siraj has one super catch to his name but he misjudged that badly, throwing himself forward at the last second and letting it through his hands
 
 
 
@@ -204,206 +228,227 @@ Match: all_games_1411166_1415741.json
 Balls faced: 1
 Bowler: Shamsi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slapped to long-on as he keeps the strike"}]slapped to long-on as he keeps the strike
+slapped to long-on as he keeps the strike
 
 
 Balls faced: 2
 Bowler: Shamsi
 Over: 12
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "radar was off with that delivery. strayed onto leg, letting him sweep into a vacant fine leg area to <strong>pick up four handy runs</strong>"}]radar was off with that delivery. strayed onto leg, letting him sweep into a vacant fine leg area to <strong>pick up four handy runs</strong>
+radar was off with that delivery. strayed onto leg, letting him sweep into a vacant fine leg area to <strong>pick up four handy runs</strong>
 
 
 Balls faced: 3
 Bowler: Shamsi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length, Harmeet chips uppishly to long-off"}]back of a length, Harmeet chips uppishly to long-off
+back of a length, Harmeet chips uppishly to long-off
 
 
 Balls faced: 4
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slows it down and drags it back. Prodded to cover for a single"}]slows it down and drags it back. Prodded to cover for a single
+slows it down and drags it back. Prodded to cover for a single
 
 
 Balls faced: 5
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "in the slot, and Harmeet punishes him. Picked up off a half-volley length and <strong>shovelled over long-on for a 75m six</strong>. The worst area you can bowl to him at that pace"}]in the slot, and Harmeet punishes him. Picked up off a half-volley length and <strong>shovelled over long-on for a 75m six</strong>. The worst area you can bowl to him at that pace
+in the slot, and Harmeet punishes him. Picked up off a half-volley length and <strong>shovelled over long-on for a 75m six</strong>. The worst area you can bowl to him at that pace
 
 
 Balls faced: 6
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "comes around the wicket again, whipped down to long-on for a single"}]comes around the wicket again, whipped down to long-on for a single
+comes around the wicket again, whipped down to long-on for a single
 
 
 Balls faced: 7
 Bowler: Shamsi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slapped to long-on as he keeps the strike"}]slapped to long-on as he keeps the strike
+slapped to long-on as he keeps the strike
 
 
 Balls faced: 8
 Bowler: Shamsi
 Over: 12
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "radar was off with that delivery. strayed onto leg, letting him sweep into a vacant fine leg area to <strong>pick up four handy runs</strong>"}]radar was off with that delivery. strayed onto leg, letting him sweep into a vacant fine leg area to <strong>pick up four handy runs</strong>
+radar was off with that delivery. strayed onto leg, letting him sweep into a vacant fine leg area to <strong>pick up four handy runs</strong>
 
 
 Balls faced: 9
 Bowler: Shamsi
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length, Harmeet chips uppishly to long-off"}]back of a length, Harmeet chips uppishly to long-off
+back of a length, Harmeet chips uppishly to long-off
 
 
 Balls faced: 10
 Bowler: Shamsi
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short from Shamsi, chipped over long-on. Shamsi squeezes in a tight over and the asking rate rises once more. <strong>Nearly 16 now</strong>"}]short from Shamsi, chipped over long-on. Shamsi squeezes in a tight over and the asking rate rises once more. <strong>Nearly 16 now</strong>
+short from Shamsi, chipped over long-on. Shamsi squeezes in a tight over and the asking rate rises once more. <strong>Nearly 16 now</strong>
 
 
 Balls faced: 11
 Bowler: Shamsi
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "bottom handed shovel over Shamsi's head for a single"}]bottom handed shovel over Shamsi's head for a single
+bottom handed shovel over Shamsi's head for a single
 
 
 Balls faced: 12
 Bowler: Shamsi
 Over: 14
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "strays down leg once more"}]strays down leg once more
+strays down leg once more
 
 
 Balls faced: 13
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slows it down and drags it back. Prodded to cover for a single"}]slows it down and drags it back. Prodded to cover for a single
+slows it down and drags it back. Prodded to cover for a single
 
 
 Balls faced: 14
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "in the slot, and Harmeet punishes him. Picked up off a half-volley length and <strong>shovelled over long-on for a 75m six</strong>. The worst area you can bowl to him at that pace"}]in the slot, and Harmeet punishes him. Picked up off a half-volley length and <strong>shovelled over long-on for a 75m six</strong>. The worst area you can bowl to him at that pace
+in the slot, and Harmeet punishes him. Picked up off a half-volley length and <strong>shovelled over long-on for a 75m six</strong>. The worst area you can bowl to him at that pace
 
 
 Balls faced: 15
 Bowler: Maharaj
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "comes around the wicket again, whipped down to long-on for a single"}]comes around the wicket again, whipped down to long-on for a single
+comes around the wicket again, whipped down to long-on for a single
 
 
 Balls faced: 16
 Bowler: Nortje
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "mistimes an onside slog, and it's cut off at midwicket for a single"}]mistimes an onside slog, and it's cut off at midwicket for a single
+mistimes an onside slog, and it's cut off at midwicket for a single
 
 
 Balls faced: 17
 Bowler: Nortje
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "mayuresh: \"USA batting second was bad decision considering SA bowling lineup and inexperienced batters in USA!!!\" I reckon they just bowled badly for large parts"}]mayuresh: "USA batting second was bad decision considering SA bowling lineup and inexperienced batters in USA!!!" I reckon they just bowled badly for large parts
+mayuresh: "USA batting second was bad decision considering SA bowling lineup and inexperienced batters in USA!!!" I reckon they just bowled badly for large parts
 
-[{"type": "HTML", "html": "too close to cut and is beaten for pace when he attempts it"}]too close to cut and is beaten for pace when he attempts it
+too close to cut and is beaten for pace when he attempts it
 
 
 Balls faced: 18
 Bowler: Shamsi
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short from Shamsi, chipped over long-on. Shamsi squeezes in a tight over and the asking rate rises once more. <strong>Nearly 16 now</strong>"}]short from Shamsi, chipped over long-on. Shamsi squeezes in a tight over and the asking rate rises once more. <strong>Nearly 16 now</strong>
+short from Shamsi, chipped over long-on. Shamsi squeezes in a tight over and the asking rate rises once more. <strong>Nearly 16 now</strong>
 
 
 Balls faced: 19
 Bowler: Shamsi
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "bottom handed shovel over Shamsi's head for a single"}]bottom handed shovel over Shamsi's head for a single
+bottom handed shovel over Shamsi's head for a single
 
 
 Balls faced: 20
 Bowler: Shamsi
 Over: 14
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "strays down leg once more"}]strays down leg once more
+strays down leg once more
 
 
 Balls faced: 21
 Bowler: Shamsi
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -414,46 +459,51 @@ Run scored: 1
 Balls faced: 22
 Bowler: Shamsi
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "whacked to cow corner once more, but there's a fielder there who collects on the bounce"}]whacked to cow corner once more, but there's a fielder there who collects on the bounce
+whacked to cow corner once more, but there's a fielder there who collects on the bounce
 
 
 Balls faced: 23
 Bowler: Shamsi
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "in the slot from Shamsi, this is poor bowling. And he <strong>smears it over midwicket for six more!</strong>"}]in the slot from Shamsi, this is poor bowling. And he <strong>smears it over midwicket for six more!</strong>
+in the slot from Shamsi, this is poor bowling. And he <strong>smears it over midwicket for six more!</strong>
 
 
 Balls faced: 24
 Bowler: Nortje
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "mistimes an onside slog, and it's cut off at midwicket for a single"}]mistimes an onside slog, and it's cut off at midwicket for a single
+mistimes an onside slog, and it's cut off at midwicket for a single
 
 
 Balls faced: 25
 Bowler: Nortje
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "mayuresh: \"USA batting second was bad decision considering SA bowling lineup and inexperienced batters in USA!!!\" I reckon they just bowled badly for large parts"}]mayuresh: "USA batting second was bad decision considering SA bowling lineup and inexperienced batters in USA!!!" I reckon they just bowled badly for large parts
+mayuresh: "USA batting second was bad decision considering SA bowling lineup and inexperienced batters in USA!!!" I reckon they just bowled badly for large parts
 
-[{"type": "HTML", "html": "too close to cut and is beaten for pace when he attempts it"}]too close to cut and is beaten for pace when he attempts it
+too close to cut and is beaten for pace when he attempts it
 
 
 Balls faced: 26
 Bowler: Rabada
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 1
 
@@ -464,16 +514,18 @@ Run scored: 1
 Balls faced: 27
 Bowler: Rabada
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slower bouncer as he saw the batter charging. He can only prod it into the offside for a single"}]slower bouncer as he saw the batter charging. He can only prod it into the offside for a single
+slower bouncer as he saw the batter charging. He can only prod it into the offside for a single
 
 
 Balls faced: 28
 Bowler: Rabada
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
@@ -484,6 +536,7 @@ Run scored: 1
 Balls faced: 29
 Bowler: Rabada
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -494,6 +547,7 @@ No Balls: 1
 Balls faced: 30
 Bowler: Shamsi
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -504,76 +558,84 @@ Run scored: 1
 Balls faced: 31
 Bowler: Shamsi
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "whacked to cow corner once more, but there's a fielder there who collects on the bounce"}]whacked to cow corner once more, but there's a fielder there who collects on the bounce
+whacked to cow corner once more, but there's a fielder there who collects on the bounce
 
 
 Balls faced: 32
 Bowler: Shamsi
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "in the slot from Shamsi, this is poor bowling. And he <strong>smears it over midwicket for six more!</strong>"}]in the slot from Shamsi, this is poor bowling. And he <strong>smears it over midwicket for six more!</strong>
+in the slot from Shamsi, this is poor bowling. And he <strong>smears it over midwicket for six more!</strong>
 
 
 Balls faced: 33
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "gets a top edge and it flies into the air, but into a gap as David Miller at long-off is unable to get there in time"}]gets a top edge and it flies into the air, but into a gap as David Miller at long-off is unable to get there in time
+gets a top edge and it flies into the air, but into a gap as David Miller at long-off is unable to get there in time
 
 
 Balls faced: 34
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes too wide once more"}]goes too wide once more
+goes too wide once more
 
 Wide: 1
 Balls faced: 35
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "goes wide again, but errs by also going full. That means when Harmeet picks it up and uses a lot of bottom hand, he successfully drags it <strong>over wide long-on all the way for six</strong>"}]goes wide again, but errs by also going full. That means when Harmeet picks it up and uses a lot of bottom hand, he successfully drags it <strong>over wide long-on all the way for six</strong>
+goes wide again, but errs by also going full. That means when Harmeet picks it up and uses a lot of bottom hand, he successfully drags it <strong>over wide long-on all the way for six</strong>
 
 
 Balls faced: 36
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide outside off again, but this one's just within the guidelines"}]wide outside off again, but this one's just within the guidelines
+wide outside off again, but this one's just within the guidelines
 
 
 Balls faced: 37
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes across but Shamsi goes wider. The umpire thinks it's too wide though, much to Shamsi's displeasure"}]goes across but Shamsi goes wider. The umpire thinks it's too wide though, much to Shamsi's displeasure
+goes across but Shamsi goes wider. The umpire thinks it's too wide though, much to Shamsi's displeasure
 
 Wide: 1
 Balls faced: 38
 Bowler: Rabada
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 1
 
@@ -584,16 +646,18 @@ Run scored: 1
 Balls faced: 39
 Bowler: Rabada
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slower bouncer as he saw the batter charging. He can only prod it into the offside for a single"}]slower bouncer as he saw the batter charging. He can only prod it into the offside for a single
+slower bouncer as he saw the batter charging. He can only prod it into the offside for a single
 
 
 Balls faced: 40
 Bowler: Rabada
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
@@ -604,6 +668,7 @@ Run scored: 1
 Balls faced: 41
 Bowler: Rabada
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -614,71 +679,82 @@ No Balls: 1
 Balls faced: 42
 Bowler: Rabada
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "full toss that's timed very well. Too well, in fact. It flies to midwicket, <strong>where Stubbs comes across to complete a simple catch</strong>. Harmeet puts his hands on his head before he has to depart after a knock that breathed life back into the USA's chances"}]full toss that's timed very well. Too well, in fact. It flies to midwicket, <strong>where Stubbs comes across to complete a simple catch</strong>. Harmeet puts his hands on his head before he has to depart after a knock that breathed life back into the USA's chances
+Harmeet Singh is OUT! caught
+c Stubbs b Rabada
+Harmeet Singh c Stubbs b Rabada 38 (22b 2x4 3x6 30m) SR: 172.72
+full toss that's timed very well. Too well, in fact. It flies to midwicket, <strong>where Stubbs comes across to complete a simple catch</strong>. Harmeet puts his hands on his head before he has to depart after a knock that breathed life back into the USA's chances
 
 
 Balls faced: 43
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "gets a top edge and it flies into the air, but into a gap as David Miller at long-off is unable to get there in time"}]gets a top edge and it flies into the air, but into a gap as David Miller at long-off is unable to get there in time
+gets a top edge and it flies into the air, but into a gap as David Miller at long-off is unable to get there in time
 
 
 Balls faced: 44
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes too wide once more"}]goes too wide once more
+goes too wide once more
 
 Wide: 1
 Balls faced: 45
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "goes wide again, but errs by also going full. That means when Harmeet picks it up and uses a lot of bottom hand, he successfully drags it <strong>over wide long-on all the way for six</strong>"}]goes wide again, but errs by also going full. That means when Harmeet picks it up and uses a lot of bottom hand, he successfully drags it <strong>over wide long-on all the way for six</strong>
+goes wide again, but errs by also going full. That means when Harmeet picks it up and uses a lot of bottom hand, he successfully drags it <strong>over wide long-on all the way for six</strong>
 
 
 Balls faced: 46
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide outside off again, but this one's just within the guidelines"}]wide outside off again, but this one's just within the guidelines
+wide outside off again, but this one's just within the guidelines
 
 
 Balls faced: 47
 Bowler: Shamsi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes across but Shamsi goes wider. The umpire thinks it's too wide though, much to Shamsi's displeasure"}]goes across but Shamsi goes wider. The umpire thinks it's too wide though, much to Shamsi's displeasure
+goes across but Shamsi goes wider. The umpire thinks it's too wide though, much to Shamsi's displeasure
 
 Wide: 1
 Balls faced: 48
 Bowler: Rabada
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "full toss that's timed very well. Too well, in fact. It flies to midwicket, <strong>where Stubbs comes across to complete a simple catch</strong>. Harmeet puts his hands on his head before he has to depart after a knock that breathed life back into the USA's chances"}]full toss that's timed very well. Too well, in fact. It flies to midwicket, <strong>where Stubbs comes across to complete a simple catch</strong>. Harmeet puts his hands on his head before he has to depart after a knock that breathed life back into the USA's chances
+Harmeet Singh is OUT! caught
+c Stubbs b Rabada
+Harmeet Singh c Stubbs b Rabada 38 (22b 2x4 3x6 30m) SR: 172.72
+full toss that's timed very well. Too well, in fact. It flies to midwicket, <strong>where Stubbs comes across to complete a simple catch</strong>. Harmeet puts his hands on his head before he has to depart after a knock that breathed life back into the USA's chances
 
 
 
@@ -686,6 +762,7 @@ Match: all_games_1425115_1425124.json
 Balls faced: 1
 Bowler: Thaker
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -696,6 +773,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Thaker
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -706,6 +784,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Heyliger
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -716,6 +795,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Heyliger
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: HOOK
 Run scored: 1
 
@@ -726,6 +806,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Heyliger
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: UPPER_CUT
 Run scored: 4
 
@@ -736,6 +817,7 @@ Run scored: 4
 Balls faced: 6
 Bowler: Heyliger
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -746,6 +828,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Heyliger
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -756,6 +839,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Thaker
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -766,6 +850,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Thaker
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -776,6 +861,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Thaker
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -786,6 +872,7 @@ Run scored: 4
 Balls faced: 11
 Bowler: Thaker
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
@@ -796,6 +883,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Thaker
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
@@ -806,6 +894,7 @@ Run scored: 2
 Balls faced: 13
 Bowler: Thaker
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
@@ -816,6 +905,7 @@ Run scored: 6
 Balls faced: 14
 Bowler: Thaker
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
@@ -826,6 +916,7 @@ Run scored: 6
 Balls faced: 15
 Bowler: Heyliger
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -836,6 +927,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Heyliger
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: HOOK
 Run scored: 1
 
@@ -846,6 +938,7 @@ Run scored: 1
 Balls faced: 17
 Bowler: Heyliger
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: UPPER_CUT
 Run scored: 4
 
@@ -856,6 +949,7 @@ Run scored: 4
 Balls faced: 18
 Bowler: Heyliger
 Over: 17
+Pitch Line: DOWN_LEG Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -866,6 +960,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Heyliger
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -876,6 +971,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Joshi
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -886,6 +982,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Joshi
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 2
 
@@ -896,6 +993,7 @@ Run scored: 2
 Balls faced: 22
 Bowler: Thaker
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -906,6 +1004,7 @@ Run scored: 4
 Balls faced: 23
 Bowler: Thaker
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
@@ -916,6 +1015,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Thaker
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
@@ -926,6 +1026,7 @@ Run scored: 2
 Balls faced: 25
 Bowler: Thaker
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
@@ -936,6 +1037,7 @@ Run scored: 6
 Balls faced: 26
 Bowler: Thaker
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
@@ -946,6 +1048,7 @@ Run scored: 6
 Balls faced: 27
 Bowler: Bhagwan
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -956,6 +1059,7 @@ Run scored: 1
 Balls faced: 28
 Bowler: Bhagwan
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -966,6 +1070,7 @@ Run scored: 4
 Balls faced: 29
 Bowler: Bhagwan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -976,6 +1081,7 @@ Run scored: 2
 Balls faced: 30
 Bowler: Joshi
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -986,6 +1092,7 @@ Run scored: 1
 Balls faced: 31
 Bowler: Joshi
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 2
 
@@ -996,6 +1103,7 @@ Run scored: 2
 Balls faced: 32
 Bowler: Bhagwan
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1006,6 +1114,7 @@ Run scored: 1
 Balls faced: 33
 Bowler: Bhagwan
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -1016,6 +1125,7 @@ Run scored: 4
 Balls faced: 34
 Bowler: Bhagwan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -1028,6 +1138,7 @@ Match: all_games_1425115_1425125.json
 Balls faced: 1
 Bowler: Bhagwan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1038,6 +1149,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Thaker
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1048,6 +1160,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Bhagwan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1058,6 +1171,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Bhagwan
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1068,6 +1182,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Bhagwan
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
@@ -1078,6 +1193,7 @@ Run scored: 6
 Balls faced: 6
 Bowler: Bhagwan
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 2
 
@@ -1088,6 +1204,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: Bhagwan
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1098,6 +1215,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Thaker
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1108,6 +1226,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Joshi
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -1118,6 +1237,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Joshi
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1128,6 +1248,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Bhagwan
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1138,6 +1259,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Bhagwan
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
@@ -1148,6 +1270,7 @@ Run scored: 6
 Balls faced: 13
 Bowler: Bhagwan
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 2
 
@@ -1158,6 +1281,7 @@ Run scored: 2
 Balls faced: 14
 Bowler: Bhagwan
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1168,6 +1292,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Joshi
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 1
 
@@ -1178,6 +1303,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Joshi
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1190,340 +1316,378 @@ Match: all_games_1425119_1425131.json
 Balls faced: 1
 Bowler: Shoriful Islam
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in short ball outside off, turns it down back to the bowler"}]Banged in short ball outside off, turns it down back to the bowler
+Banged in short ball outside off, turns it down back to the bowler
 
 
 Balls faced: 2
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length wide outside off, rocks back and attempts to play it late, misses the line of the ball"}]Good length wide outside off, rocks back and attempts to play it late, misses the line of the ball
+Good length wide outside off, rocks back and attempts to play it late, misses the line of the ball
 
 
 Balls faced: 3
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Ranil Herath: \"@Devkota, Cricinfo reports that Malinga has said Sri Lanka has the best bowling line up in this WC.\""}]Ranil Herath: "@Devkota, Cricinfo reports that Malinga has said Sri Lanka has the best bowling line up in this WC."
+Ranil Herath: "@Devkota, Cricinfo reports that Malinga has said Sri Lanka has the best bowling line up in this WC."
 
-[{"type": "HTML", "html": "Short and wide outside off, slices it aerially to deep extra cover region, does not carry to the outfield fielder"}]Short and wide outside off, slices it aerially to deep extra cover region, does not carry to the outfield fielder
+Short and wide outside off, slices it aerially to deep extra cover region, does not carry to the outfield fielder
 
 
 Balls faced: 4
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Generously flighted on the off stump, pushes off the front foot through extra cover"}]Generously flighted on the off stump, pushes off the front foot through extra cover
+Generously flighted on the off stump, pushes off the front foot through extra cover
 
 
 Balls faced: 5
 Bowler: Shoriful Islam
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Banged in short ball outside off, turns it down back to the bowler"}]Banged in short ball outside off, turns it down back to the bowler
+Banged in short ball outside off, turns it down back to the bowler
 
 
 Balls faced: 6
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Back to back sixes! </strong> In the slot delivery outside off, hangs back and smashes it over the cow corner fence."}]<strong>Back to back sixes! </strong> In the slot delivery outside off, hangs back and smashes it over the cow corner fence.
+<strong>Back to back sixes! </strong> In the slot delivery outside off, hangs back and smashes it over the cow corner fence.
 
 
 Balls faced: 7
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Has he got enough? Yes he has! </strong> Slower delivery in the slot, Harmeet Singh clobbers it over the bowler's head and over the boundary ropes too!"}]<strong>Has he got enough? Yes he has! </strong> Slower delivery in the slot, Harmeet Singh clobbers it over the bowler's head and over the boundary ropes too!
+<strong>Has he got enough? Yes he has! </strong> Slower delivery in the slot, Harmeet Singh clobbers it over the bowler's head and over the boundary ropes too!
 
 
 Balls faced: 8
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hard length delivery on the off stump, knocked to the legside"}]Hard length delivery on the off stump, knocked to the legside
+Hard length delivery on the off stump, knocked to the legside
 
 
 Balls faced: 9
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Good length wide outside off, rocks back and attempts to play it late, misses the line of the ball"}]Good length wide outside off, rocks back and attempts to play it late, misses the line of the ball
+Good length wide outside off, rocks back and attempts to play it late, misses the line of the ball
 
 
 Balls faced: 10
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Ranil Herath: \"@Devkota, Cricinfo reports that Malinga has said Sri Lanka has the best bowling line up in this WC.\""}]Ranil Herath: "@Devkota, Cricinfo reports that Malinga has said Sri Lanka has the best bowling line up in this WC."
+Ranil Herath: "@Devkota, Cricinfo reports that Malinga has said Sri Lanka has the best bowling line up in this WC."
 
-[{"type": "HTML", "html": "Short and wide outside off, slices it aerially to deep extra cover region, does not carry to the outfield fielder"}]Short and wide outside off, slices it aerially to deep extra cover region, does not carry to the outfield fielder
+Short and wide outside off, slices it aerially to deep extra cover region, does not carry to the outfield fielder
 
 
 Balls faced: 11
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Generously flighted on the off stump, pushes off the front foot through extra cover"}]Generously flighted on the off stump, pushes off the front foot through extra cover
+Generously flighted on the off stump, pushes off the front foot through extra cover
 
 
 Balls faced: 12
 Bowler: Shoriful Islam
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Full-toss ball on the fourth stump, slices firmly through the point region and beats the outfield fielder!"}]Full-toss ball on the fourth stump, slices firmly through the point region and beats the outfield fielder!
+Full-toss ball on the fourth stump, slices firmly through the point region and beats the outfield fielder!
 
 
 Balls faced: 13
 Bowler: Shoriful Islam
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short pitched delivery over the batter's head"}]Short pitched delivery over the batter's head
+Short pitched delivery over the batter's head
 
 Wide: 1
 Balls faced: 14
 Bowler: Shoriful Islam
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower delivery, swings wildly and skies it high to the vacant square leg region"}]Slower delivery, swings wildly and skies it high to the vacant square leg region
+Slower delivery, swings wildly and skies it high to the vacant square leg region
 
 
 Balls faced: 15
 Bowler: Shoriful Islam
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>That's magnificent hitting! </strong> Full in the slot outside off, Harmeet rocks back and muscles it straight over the bowler's head, onto the sight screen!"}]<strong>That's magnificent hitting! </strong> Full in the slot outside off, Harmeet rocks back and muscles it straight over the bowler's head, onto the sight screen!
+<strong>That's magnificent hitting! </strong> Full in the slot outside off, Harmeet rocks back and muscles it straight over the bowler's head, onto the sight screen!
 
 
 Balls faced: 16
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Back to back sixes! </strong> In the slot delivery outside off, hangs back and smashes it over the cow corner fence."}]<strong>Back to back sixes! </strong> In the slot delivery outside off, hangs back and smashes it over the cow corner fence.
+<strong>Back to back sixes! </strong> In the slot delivery outside off, hangs back and smashes it over the cow corner fence.
 
 
 Balls faced: 17
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Has he got enough? Yes he has! </strong> Slower delivery in the slot, Harmeet Singh clobbers it over the bowler's head and over the boundary ropes too!"}]<strong>Has he got enough? Yes he has! </strong> Slower delivery in the slot, Harmeet Singh clobbers it over the bowler's head and over the boundary ropes too!
+<strong>Has he got enough? Yes he has! </strong> Slower delivery in the slot, Harmeet Singh clobbers it over the bowler's head and over the boundary ropes too!
 
 
 Balls faced: 18
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Hard length delivery on the off stump, knocked to the legside"}]Hard length delivery on the off stump, knocked to the legside
+Hard length delivery on the off stump, knocked to the legside
 
 
 Balls faced: 19
 Bowler: Mustafizur
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and wide outside off, jabs it straight to short extra cover"}]Full and wide outside off, jabs it straight to short extra cover
+Full and wide outside off, jabs it straight to short extra cover
 
 
 Balls faced: 20
 Bowler: Mustafizur
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Low full-toss on the fourth stump, swings it away to deep mid wicket region and sets off for a couple"}]Low full-toss on the fourth stump, swings it away to deep mid wicket region and sets off for a couple
-[{"type": "HTML", "html": "Good running between the wickets"}]Good running between the wickets
+Low full-toss on the fourth stump, swings it away to deep mid wicket region and sets off for a couple
+Good running between the wickets
 
 Balls faced: 21
 Bowler: Mustafizur
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and wide outside off, left alone to the keeper"}]Full and wide outside off, left alone to the keeper
+Full and wide outside off, left alone to the keeper
 
 Wide: 1
 Balls faced: 22
 Bowler: Shoriful Islam
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: SQUARE_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Full-toss ball on the fourth stump, slices firmly through the point region and beats the outfield fielder!"}]Full-toss ball on the fourth stump, slices firmly through the point region and beats the outfield fielder!
+Full-toss ball on the fourth stump, slices firmly through the point region and beats the outfield fielder!
 
 
 Balls faced: 23
 Bowler: Shoriful Islam
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short pitched delivery over the batter's head"}]Short pitched delivery over the batter's head
+Short pitched delivery over the batter's head
 
 Wide: 1
 Balls faced: 24
 Bowler: Shoriful Islam
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Slower delivery, swings wildly and skies it high to the vacant square leg region"}]Slower delivery, swings wildly and skies it high to the vacant square leg region
+Slower delivery, swings wildly and skies it high to the vacant square leg region
 
 
 Balls faced: 25
 Bowler: Shoriful Islam
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>That's magnificent hitting! </strong> Full in the slot outside off, Harmeet rocks back and muscles it straight over the bowler's head, onto the sight screen!"}]<strong>That's magnificent hitting! </strong> Full in the slot outside off, Harmeet rocks back and muscles it straight over the bowler's head, onto the sight screen!
+<strong>That's magnificent hitting! </strong> Full in the slot outside off, Harmeet rocks back and muscles it straight over the bowler's head, onto the sight screen!
 
 
 Balls faced: 26
 Bowler: Mahmudullah
 Over: 20
+ 
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Short of a length wide outside off, Harmeet Singh smacks it aerially over the extra cover fielder and picks up a boundary, finishes the game in style!"}]Short of a length wide outside off, Harmeet Singh smacks it aerially over the extra cover fielder and picks up a boundary, finishes the game in style!
-[{"type": "HTML", "html": "In the three-match series versus Bangladesh, the USA leads 1-0. That's all we have to add at this moment. We truly value your presence with us. Be sure to attend the Second T20I of the series on May 23 at the same time at Prairie View, Houston. Here's Rashad saying farewell on behalf of Ranjith, Thilak, and the entire team till then. Good night and bye."}, {"type": "HTML", "html": "<strong>Player of the Match Harmeet Singh:</strong>  \"I think it's a great feeling (Winning the match). It's a home ground and first game is always advantage for us. Our team backed up ourselves and took that advantage, and surely we did not give Bangladesh the feeling that they would walk over us. I think the way cricket is going nowadays, 12 an over is still in reach. I backed myself, if I give myself a couple of balls, even if it is 13 an over with Corey on the other side. They were a bowler short in the end. So my calculation was someone has to bowl the last one. If you stay in the hunt till the last over, I was backing myself and the main aspect of the game was to stay in the game till the last. It came down to our best efforts in the last over and I think that was our plan. (On Corey Anderson) Definitely Corey brings a lot of experience. He himself played a lot of world cups and a lot of big tournaments, big games. He knows how to finish games and how to stay calm under pressure, finish till the last ball. I think his appearance benefits the team a lot, we all look up to him!\""}, {"type": "HTML", "html": "<strong>Monank Patel: </strong> \"I am really happy the way we played actually, winning the toss and bowling first. Credit goes to our spinners, the way they utilized the condition and bowled at the right areas. The bowling unit gave us crucial wickets. The way they bowled against the left and right combination (Bangladeshi Batters) throughout the 20 overs, we managed it well. (Batting unit) I think the way we started we were in the game. Lost few wickets in the middle and that's an area we need to improve. The way Harmeet and Corey finished the game, all credit to them. We want to carry all the positives from today and make sure the mistakes made today won't be repeated in the next few games.\""}, {"type": "HTML", "html": "<strong>Najmul Hossain Shanto: </strong> \"We didn't bat well. We started well in the beginning but in the middle we lost couple of wickets, so I think if we can score more 20 runs then it would be a decent total. (Batters struggling) I don't think its wrong with the instincts. We did not play on a good wicket even in the Zimbabwe series so batsman are really struggling. But it's all mentality things so I really hope the batsman will come back in form. Our spinners bowled really well. In the last 2-3 overs our seamers did not execute their plan. So I hope in the next matches they will come back.\""}, {"type": "HTML", "html": "<strong>Presentation Ceremony: </strong>"}, {"type": "HTML", "html": "Pradipta : \"Big day for US team! Feeling very proud. Can't stop following the game from NJ while attending daughter's graduation ceremony. Hope to see more such performances in future!\""}, {"type": "HTML", "html": "<strong>Today at the Prairie View in Houston, history has been made!</strong> What a day for cricket lovers in the USA! In the first game of the three-match series, USA defeated Bangladesh by 5 wickets, pulling off the biggest upset in their history of cricket. The dot balls were stacking up for the USA batsmen in the middle, and Bangladesh was well on its way to win. However, Corey Anderson and Harmeet Singh had other ideas. Corey scored 34 runs off 24 balls, and Harmeet Singh scored 33 runs off 13 balls. In T20I cricket, the two hitters scored 62 runs to establish the highest sixth wicket partnership for the USA. Shakib and Mahedi bowled reasonably well, while the other bowlers were quite expensive. The bowlers gave away 12 extras including 7 wides. Most of the times, the USA batters capitalized on the extra deliveries bowled."}, {"type": "HTML", "html": "<strong>U.S.A won the match by 5 wickets</strong>"}]In the three-match series versus Bangladesh, the USA leads 1-0. That's all we have to add at this moment. We truly value your presence with us. Be sure to attend the Second T20I of the series on May 23 at the same time at Prairie View, Houston. Here's Rashad saying farewell on behalf of Ranjith, Thilak, and the entire team till then. Good night and bye. <strong>Player of the Match Harmeet Singh:</strong>  "I think it's a great feeling (Winning the match). It's a home ground and first game is always advantage for us. Our team backed up ourselves and took that advantage, and surely we did not give Bangladesh the feeling that they would walk over us. I think the way cricket is going nowadays, 12 an over is still in reach. I backed myself, if I give myself a couple of balls, even if it is 13 an over with Corey on the other side. They were a bowler short in the end. So my calculation was someone has to bowl the last one. If you stay in the hunt till the last over, I was backing myself and the main aspect of the game was to stay in the game till the last. It came down to our best efforts in the last over and I think that was our plan. (On Corey Anderson) Definitely Corey brings a lot of experience. He himself played a lot of world cups and a lot of big tournaments, big games. He knows how to finish games and how to stay calm under pressure, finish till the last ball. I think his appearance benefits the team a lot, we all look up to him!" <strong>Monank Patel: </strong> "I am really happy the way we played actually, winning the toss and bowling first. Credit goes to our spinners, the way they utilized the condition and bowled at the right areas. The bowling unit gave us crucial wickets. The way they bowled against the left and right combination (Bangladeshi Batters) throughout the 20 overs, we managed it well. (Batting unit) I think the way we started we were in the game. Lost few wickets in the middle and that's an area we need to improve. The way Harmeet and Corey finished the game, all credit to them. We want to carry all the positives from today and make sure the mistakes made today won't be repeated in the next few games." <strong>Najmul Hossain Shanto: </strong> "We didn't bat well. We started well in the beginning but in the middle we lost couple of wickets, so I think if we can score more 20 runs then it would be a decent total. (Batters struggling) I don't think its wrong with the instincts. We did not play on a good wicket even in the Zimbabwe series so batsman are really struggling. But it's all mentality things so I really hope the batsman will come back in form. Our spinners bowled really well. In the last 2-3 overs our seamers did not execute their plan. So I hope in the next matches they will come back." <strong>Presentation Ceremony: </strong> Pradipta : "Big day for US team! Feeling very proud. Can't stop following the game from NJ while attending daughter's graduation ceremony. Hope to see more such performances in future!" <strong>Today at the Prairie View in Houston, history has been made!</strong> What a day for cricket lovers in the USA! In the first game of the three-match series, USA defeated Bangladesh by 5 wickets, pulling off the biggest upset in their history of cricket. The dot balls were stacking up for the USA batsmen in the middle, and Bangladesh was well on its way to win. However, Corey Anderson and Harmeet Singh had other ideas. Corey scored 34 runs off 24 balls, and Harmeet Singh scored 33 runs off 13 balls. In T20I cricket, the two hitters scored 62 runs to establish the highest sixth wicket partnership for the USA. Shakib and Mahedi bowled reasonably well, while the other bowlers were quite expensive. The bowlers gave away 12 extras including 7 wides. Most of the times, the USA batters capitalized on the extra deliveries bowled. <strong>U.S.A won the match by 5 wickets</strong>
+Short of a length wide outside off, Harmeet Singh smacks it aerially over the extra cover fielder and picks up a boundary, finishes the game in style!
+In the three-match series versus Bangladesh, the USA leads 1-0. That's all we have to add at this moment. We truly value your presence with us. Be sure to attend the Second T20I of the series on May 23 at the same time at Prairie View, Houston. Here's Rashad saying farewell on behalf of Ranjith, Thilak, and the entire team till then. Good night and bye. <strong>Player of the Match Harmeet Singh:</strong>  "I think it's a great feeling (Winning the match). It's a home ground and first game is always advantage for us. Our team backed up ourselves and took that advantage, and surely we did not give Bangladesh the feeling that they would walk over us. I think the way cricket is going nowadays, 12 an over is still in reach. I backed myself, if I give myself a couple of balls, even if it is 13 an over with Corey on the other side. They were a bowler short in the end. So my calculation was someone has to bowl the last one. If you stay in the hunt till the last over, I was backing myself and the main aspect of the game was to stay in the game till the last. It came down to our best efforts in the last over and I think that was our plan. (On Corey Anderson) Definitely Corey brings a lot of experience. He himself played a lot of world cups and a lot of big tournaments, big games. He knows how to finish games and how to stay calm under pressure, finish till the last ball. I think his appearance benefits the team a lot, we all look up to him!" <strong>Monank Patel: </strong> "I am really happy the way we played actually, winning the toss and bowling first. Credit goes to our spinners, the way they utilized the condition and bowled at the right areas. The bowling unit gave us crucial wickets. The way they bowled against the left and right combination (Bangladeshi Batters) throughout the 20 overs, we managed it well. (Batting unit) I think the way we started we were in the game. Lost few wickets in the middle and that's an area we need to improve. The way Harmeet and Corey finished the game, all credit to them. We want to carry all the positives from today and make sure the mistakes made today won't be repeated in the next few games." <strong>Najmul Hossain Shanto: </strong> "We didn't bat well. We started well in the beginning but in the middle we lost couple of wickets, so I think if we can score more 20 runs then it would be a decent total. (Batters struggling) I don't think its wrong with the instincts. We did not play on a good wicket even in the Zimbabwe series so batsman are really struggling. But it's all mentality things so I really hope the batsman will come back in form. Our spinners bowled really well. In the last 2-3 overs our seamers did not execute their plan. So I hope in the next matches they will come back." <strong>Presentation Ceremony: </strong> Pradipta : "Big day for US team! Feeling very proud. Can't stop following the game from NJ while attending daughter's graduation ceremony. Hope to see more such performances in future!" <strong>Today at the Prairie View in Houston, history has been made!</strong> What a day for cricket lovers in the USA! In the first game of the three-match series, USA defeated Bangladesh by 5 wickets, pulling off the biggest upset in their history of cricket. The dot balls were stacking up for the USA batsmen in the middle, and Bangladesh was well on its way to win. However, Corey Anderson and Harmeet Singh had other ideas. Corey scored 34 runs off 24 balls, and Harmeet Singh scored 33 runs off 13 balls. In T20I cricket, the two hitters scored 62 runs to establish the highest sixth wicket partnership for the USA. Shakib and Mahedi bowled reasonably well, while the other bowlers were quite expensive. The bowlers gave away 12 extras including 7 wides. Most of the times, the USA batters capitalized on the extra deliveries bowled. <strong>U.S.A won the match by 5 wickets</strong>
 
 Balls faced: 27
 Bowler: Mustafizur
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Full and wide outside off, jabs it straight to short extra cover"}]Full and wide outside off, jabs it straight to short extra cover
+Full and wide outside off, jabs it straight to short extra cover
 
 
 Balls faced: 28
 Bowler: Mustafizur
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Low full-toss on the fourth stump, swings it away to deep mid wicket region and sets off for a couple"}]Low full-toss on the fourth stump, swings it away to deep mid wicket region and sets off for a couple
-[{"type": "HTML", "html": "Good running between the wickets"}]Good running between the wickets
+Low full-toss on the fourth stump, swings it away to deep mid wicket region and sets off for a couple
+Good running between the wickets
 
 Balls faced: 29
 Bowler: Mustafizur
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Full and wide outside off, left alone to the keeper"}]Full and wide outside off, left alone to the keeper
+Full and wide outside off, left alone to the keeper
 
 Wide: 1
 Balls faced: 30
 Bowler: Mahmudullah
 Over: 20
+ 
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Short of a length wide outside off, Harmeet Singh smacks it aerially over the extra cover fielder and picks up a boundary, finishes the game in style!"}]Short of a length wide outside off, Harmeet Singh smacks it aerially over the extra cover fielder and picks up a boundary, finishes the game in style!
-[{"type": "HTML", "html": "In the three-match series versus Bangladesh, the USA leads 1-0. That's all we have to add at this moment. We truly value your presence with us. Be sure to attend the Second T20I of the series on May 23 at the same time at Prairie View, Houston. Here's Rashad saying farewell on behalf of Ranjith, Thilak, and the entire team till then. Good night and bye."}, {"type": "HTML", "html": "<strong>Player of the Match Harmeet Singh:</strong>  \"I think it's a great feeling (Winning the match). It's a home ground and first game is always advantage for us. Our team backed up ourselves and took that advantage, and surely we did not give Bangladesh the feeling that they would walk over us. I think the way cricket is going nowadays, 12 an over is still in reach. I backed myself, if I give myself a couple of balls, even if it is 13 an over with Corey on the other side. They were a bowler short in the end. So my calculation was someone has to bowl the last one. If you stay in the hunt till the last over, I was backing myself and the main aspect of the game was to stay in the game till the last. It came down to our best efforts in the last over and I think that was our plan. (On Corey Anderson) Definitely Corey brings a lot of experience. He himself played a lot of world cups and a lot of big tournaments, big games. He knows how to finish games and how to stay calm under pressure, finish till the last ball. I think his appearance benefits the team a lot, we all look up to him!\""}, {"type": "HTML", "html": "<strong>Monank Patel: </strong> \"I am really happy the way we played actually, winning the toss and bowling first. Credit goes to our spinners, the way they utilized the condition and bowled at the right areas. The bowling unit gave us crucial wickets. The way they bowled against the left and right combination (Bangladeshi Batters) throughout the 20 overs, we managed it well. (Batting unit) I think the way we started we were in the game. Lost few wickets in the middle and that's an area we need to improve. The way Harmeet and Corey finished the game, all credit to them. We want to carry all the positives from today and make sure the mistakes made today won't be repeated in the next few games.\""}, {"type": "HTML", "html": "<strong>Najmul Hossain Shanto: </strong> \"We didn't bat well. We started well in the beginning but in the middle we lost couple of wickets, so I think if we can score more 20 runs then it would be a decent total. (Batters struggling) I don't think its wrong with the instincts. We did not play on a good wicket even in the Zimbabwe series so batsman are really struggling. But it's all mentality things so I really hope the batsman will come back in form. Our spinners bowled really well. In the last 2-3 overs our seamers did not execute their plan. So I hope in the next matches they will come back.\""}, {"type": "HTML", "html": "<strong>Presentation Ceremony: </strong>"}, {"type": "HTML", "html": "Pradipta : \"Big day for US team! Feeling very proud. Can't stop following the game from NJ while attending daughter's graduation ceremony. Hope to see more such performances in future!\""}, {"type": "HTML", "html": "<strong>Today at the Prairie View in Houston, history has been made!</strong> What a day for cricket lovers in the USA! In the first game of the three-match series, USA defeated Bangladesh by 5 wickets, pulling off the biggest upset in their history of cricket. The dot balls were stacking up for the USA batsmen in the middle, and Bangladesh was well on its way to win. However, Corey Anderson and Harmeet Singh had other ideas. Corey scored 34 runs off 24 balls, and Harmeet Singh scored 33 runs off 13 balls. In T20I cricket, the two hitters scored 62 runs to establish the highest sixth wicket partnership for the USA. Shakib and Mahedi bowled reasonably well, while the other bowlers were quite expensive. The bowlers gave away 12 extras including 7 wides. Most of the times, the USA batters capitalized on the extra deliveries bowled."}, {"type": "HTML", "html": "<strong>U.S.A won the match by 5 wickets</strong>"}]In the three-match series versus Bangladesh, the USA leads 1-0. That's all we have to add at this moment. We truly value your presence with us. Be sure to attend the Second T20I of the series on May 23 at the same time at Prairie View, Houston. Here's Rashad saying farewell on behalf of Ranjith, Thilak, and the entire team till then. Good night and bye. <strong>Player of the Match Harmeet Singh:</strong>  "I think it's a great feeling (Winning the match). It's a home ground and first game is always advantage for us. Our team backed up ourselves and took that advantage, and surely we did not give Bangladesh the feeling that they would walk over us. I think the way cricket is going nowadays, 12 an over is still in reach. I backed myself, if I give myself a couple of balls, even if it is 13 an over with Corey on the other side. They were a bowler short in the end. So my calculation was someone has to bowl the last one. If you stay in the hunt till the last over, I was backing myself and the main aspect of the game was to stay in the game till the last. It came down to our best efforts in the last over and I think that was our plan. (On Corey Anderson) Definitely Corey brings a lot of experience. He himself played a lot of world cups and a lot of big tournaments, big games. He knows how to finish games and how to stay calm under pressure, finish till the last ball. I think his appearance benefits the team a lot, we all look up to him!" <strong>Monank Patel: </strong> "I am really happy the way we played actually, winning the toss and bowling first. Credit goes to our spinners, the way they utilized the condition and bowled at the right areas. The bowling unit gave us crucial wickets. The way they bowled against the left and right combination (Bangladeshi Batters) throughout the 20 overs, we managed it well. (Batting unit) I think the way we started we were in the game. Lost few wickets in the middle and that's an area we need to improve. The way Harmeet and Corey finished the game, all credit to them. We want to carry all the positives from today and make sure the mistakes made today won't be repeated in the next few games." <strong>Najmul Hossain Shanto: </strong> "We didn't bat well. We started well in the beginning but in the middle we lost couple of wickets, so I think if we can score more 20 runs then it would be a decent total. (Batters struggling) I don't think its wrong with the instincts. We did not play on a good wicket even in the Zimbabwe series so batsman are really struggling. But it's all mentality things so I really hope the batsman will come back in form. Our spinners bowled really well. In the last 2-3 overs our seamers did not execute their plan. So I hope in the next matches they will come back." <strong>Presentation Ceremony: </strong> Pradipta : "Big day for US team! Feeling very proud. Can't stop following the game from NJ while attending daughter's graduation ceremony. Hope to see more such performances in future!" <strong>Today at the Prairie View in Houston, history has been made!</strong> What a day for cricket lovers in the USA! In the first game of the three-match series, USA defeated Bangladesh by 5 wickets, pulling off the biggest upset in their history of cricket. The dot balls were stacking up for the USA batsmen in the middle, and Bangladesh was well on its way to win. However, Corey Anderson and Harmeet Singh had other ideas. Corey scored 34 runs off 24 balls, and Harmeet Singh scored 33 runs off 13 balls. In T20I cricket, the two hitters scored 62 runs to establish the highest sixth wicket partnership for the USA. Shakib and Mahedi bowled reasonably well, while the other bowlers were quite expensive. The bowlers gave away 12 extras including 7 wides. Most of the times, the USA batters capitalized on the extra deliveries bowled. <strong>U.S.A won the match by 5 wickets</strong>
+Short of a length wide outside off, Harmeet Singh smacks it aerially over the extra cover fielder and picks up a boundary, finishes the game in style!
+In the three-match series versus Bangladesh, the USA leads 1-0. That's all we have to add at this moment. We truly value your presence with us. Be sure to attend the Second T20I of the series on May 23 at the same time at Prairie View, Houston. Here's Rashad saying farewell on behalf of Ranjith, Thilak, and the entire team till then. Good night and bye. <strong>Player of the Match Harmeet Singh:</strong>  "I think it's a great feeling (Winning the match). It's a home ground and first game is always advantage for us. Our team backed up ourselves and took that advantage, and surely we did not give Bangladesh the feeling that they would walk over us. I think the way cricket is going nowadays, 12 an over is still in reach. I backed myself, if I give myself a couple of balls, even if it is 13 an over with Corey on the other side. They were a bowler short in the end. So my calculation was someone has to bowl the last one. If you stay in the hunt till the last over, I was backing myself and the main aspect of the game was to stay in the game till the last. It came down to our best efforts in the last over and I think that was our plan. (On Corey Anderson) Definitely Corey brings a lot of experience. He himself played a lot of world cups and a lot of big tournaments, big games. He knows how to finish games and how to stay calm under pressure, finish till the last ball. I think his appearance benefits the team a lot, we all look up to him!" <strong>Monank Patel: </strong> "I am really happy the way we played actually, winning the toss and bowling first. Credit goes to our spinners, the way they utilized the condition and bowled at the right areas. The bowling unit gave us crucial wickets. The way they bowled against the left and right combination (Bangladeshi Batters) throughout the 20 overs, we managed it well. (Batting unit) I think the way we started we were in the game. Lost few wickets in the middle and that's an area we need to improve. The way Harmeet and Corey finished the game, all credit to them. We want to carry all the positives from today and make sure the mistakes made today won't be repeated in the next few games." <strong>Najmul Hossain Shanto: </strong> "We didn't bat well. We started well in the beginning but in the middle we lost couple of wickets, so I think if we can score more 20 runs then it would be a decent total. (Batters struggling) I don't think its wrong with the instincts. We did not play on a good wicket even in the Zimbabwe series so batsman are really struggling. But it's all mentality things so I really hope the batsman will come back in form. Our spinners bowled really well. In the last 2-3 overs our seamers did not execute their plan. So I hope in the next matches they will come back." <strong>Presentation Ceremony: </strong> Pradipta : "Big day for US team! Feeling very proud. Can't stop following the game from NJ while attending daughter's graduation ceremony. Hope to see more such performances in future!" <strong>Today at the Prairie View in Houston, history has been made!</strong> What a day for cricket lovers in the USA! In the first game of the three-match series, USA defeated Bangladesh by 5 wickets, pulling off the biggest upset in their history of cricket. The dot balls were stacking up for the USA batsmen in the middle, and Bangladesh was well on its way to win. However, Corey Anderson and Harmeet Singh had other ideas. Corey scored 34 runs off 24 balls, and Harmeet Singh scored 33 runs off 13 balls. In T20I cricket, the two hitters scored 62 runs to establish the highest sixth wicket partnership for the USA. Shakib and Mahedi bowled reasonably well, while the other bowlers were quite expensive. The bowlers gave away 12 extras including 7 wides. Most of the times, the USA batters capitalized on the extra deliveries bowled. <strong>U.S.A won the match by 5 wickets</strong>
 
 
 Match: all_games_1425119_1425132.json
 Balls faced: 1
 Bowler: Shoriful Islam
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Harmeet walks in at number 6"}]Harmeet walks in at number 6
+Harmeet walks in at number 6
 
-[{"type": "HTML", "html": "Fuller length down the legside, tries to hoick it over the mid wicket region, does not connect and hits the back pad, loud appeal from the bowler but the umpire is not interested, seems like missing the leg stump"}]Fuller length down the legside, tries to hoick it over the mid wicket region, does not connect and hits the back pad, loud appeal from the bowler but the umpire is not interested, seems like missing the leg stump
-[{"type": "HTML", "html": "Pranali: \"Are USA batting a bit slow considering they have 7 wickets in hand\" They are having difficulty keeping up with Tanzim and Mustafiz's slower deliveries."}]Pranali: "Are USA batting a bit slow considering they have 7 wickets in hand" They are having difficulty keeping up with Tanzim and Mustafiz's slower deliveries.
+Fuller length down the legside, tries to hoick it over the mid wicket region, does not connect and hits the back pad, loud appeal from the bowler but the umpire is not interested, seems like missing the leg stump
+Pranali: "Are USA batting a bit slow considering they have 7 wickets in hand" They are having difficulty keeping up with Tanzim and Mustafiz's slower deliveries.
 Legbyes: 1
 Balls faced: 2
 Bowler: Mustafizur
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Over the wicket"}]Over the wicket
-
-[{"type": "HTML", "html": "<strong>No Harmeet show today! </strong> Short of a length ball with extra bounce wide outside off, Harmeet tries to slice over the in-field, miscued the shot and skies it straight to extra cover, Shakib completes the catch"}]<strong>No Harmeet show today! </strong> Short of a length ball with extra bounce wide outside off, Harmeet tries to slice over the in-field, miscued the shot and skies it straight to extra cover, Shakib completes the catch
+Over the wicket
+Harmeet Singh is OUT! caught
+c Shakib Al Hasan b Mustafizur Rahman
+Harmeet Singh c Shakib Al Hasan b Mustafizur Rahman 0 (2b 0x4 0x6) SR: 0
+<strong>No Harmeet show today! </strong> Short of a length ball with extra bounce wide outside off, Harmeet tries to slice over the in-field, miscued the shot and skies it straight to extra cover, Shakib completes the catch
 
 
 Balls faced: 3
 Bowler: Shoriful Islam
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Harmeet walks in at number 6"}]Harmeet walks in at number 6
+Harmeet walks in at number 6
 
-[{"type": "HTML", "html": "Fuller length down the legside, tries to hoick it over the mid wicket region, does not connect and hits the back pad, loud appeal from the bowler but the umpire is not interested, seems like missing the leg stump"}]Fuller length down the legside, tries to hoick it over the mid wicket region, does not connect and hits the back pad, loud appeal from the bowler but the umpire is not interested, seems like missing the leg stump
-[{"type": "HTML", "html": "Pranali: \"Are USA batting a bit slow considering they have 7 wickets in hand\" They are having difficulty keeping up with Tanzim and Mustafiz's slower deliveries."}]Pranali: "Are USA batting a bit slow considering they have 7 wickets in hand" They are having difficulty keeping up with Tanzim and Mustafiz's slower deliveries.
+Fuller length down the legside, tries to hoick it over the mid wicket region, does not connect and hits the back pad, loud appeal from the bowler but the umpire is not interested, seems like missing the leg stump
+Pranali: "Are USA batting a bit slow considering they have 7 wickets in hand" They are having difficulty keeping up with Tanzim and Mustafiz's slower deliveries.
 Legbyes: 1
 Balls faced: 4
 Bowler: Mustafizur
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Over the wicket"}]Over the wicket
-
-[{"type": "HTML", "html": "<strong>No Harmeet show today! </strong> Short of a length ball with extra bounce wide outside off, Harmeet tries to slice over the in-field, miscued the shot and skies it straight to extra cover, Shakib completes the catch"}]<strong>No Harmeet show today! </strong> Short of a length ball with extra bounce wide outside off, Harmeet tries to slice over the in-field, miscued the shot and skies it straight to extra cover, Shakib completes the catch
+Over the wicket
+Harmeet Singh is OUT! caught
+c Shakib Al Hasan b Mustafizur Rahman
+Harmeet Singh c Shakib Al Hasan b Mustafizur Rahman 0 (2b 0x4 0x6) SR: 0
+<strong>No Harmeet show today! </strong> Short of a length ball with extra bounce wide outside off, Harmeet tries to slice over the in-field, miscued the shot and skies it straight to extra cover, Shakib completes the catch

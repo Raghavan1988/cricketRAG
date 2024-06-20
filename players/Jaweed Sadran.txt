@@ -2,6 +2,7 @@ Match: all_games_1383037_1383081.json
 Balls faced: 1
 Bowler: Main
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Main
 Over: 12
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -22,6 +24,7 @@ Run scored: 2
 Balls faced: 3
 Bowler: Main
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -32,6 +35,7 @@ Wide: 1
 Balls faced: 4
 Bowler: Main
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -42,6 +46,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Main
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Main
 Over: 12
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -62,6 +68,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: Main
 Over: 12
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -72,6 +79,7 @@ Wide: 1
 Balls faced: 8
 Bowler: Main
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -82,6 +90,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -122,6 +134,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -132,6 +145,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Sharif
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -142,6 +156,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -152,6 +167,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -162,6 +178,7 @@ No Balls: 1
 Balls faced: 17
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -172,6 +189,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -182,6 +200,7 @@ Run scored: 4
 Balls faced: 19
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -192,16 +211,20 @@ Run scored: 6
 Balls faced: 20
 Bowler: Greaves
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Jaweed Sadran is OUT! bowled
+ b Greaves
+Jaweed Sadran b Greaves 15 (14b 1x4 1x6) SR: 107.14
 
 
 
 Balls faced: 21
 Bowler: Greaves
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -212,6 +235,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Greaves
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -222,6 +246,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -232,6 +257,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -242,6 +268,7 @@ No Balls: 1
 Balls faced: 25
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -252,6 +279,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -262,6 +290,7 @@ Run scored: 4
 Balls faced: 27
 Bowler: Sharif
 Over: 16
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -272,16 +301,20 @@ Run scored: 6
 Balls faced: 28
 Bowler: Greaves
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Jaweed Sadran is OUT! bowled
+ b Greaves
+Jaweed Sadran b Greaves 15 (14b 1x4 1x6) SR: 107.14
 
 
 
 Balls faced: 29
 Bowler: Greaves
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -292,5 +325,6 @@ Run scored: 0
 Balls faced: 30
 Bowler: Greaves
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0

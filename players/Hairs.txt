@@ -2,6 +2,7 @@ Match: all_games_1383037_1383081.json
 Balls faced: 1
 Bowler: Sahel Zadran
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Jaweed Sadran
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -22,6 +24,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Sahel Zadran
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Sahel Zadran
 Over: 4
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -42,6 +46,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Jaweed Sadran
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -52,6 +57,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -72,6 +79,7 @@ Run scored: 6
 Balls faced: 8
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -82,6 +90,7 @@ Run scored: 4
 Balls faced: 9
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -92,6 +101,7 @@ Run scored: 4
 Balls faced: 10
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -102,6 +112,7 @@ Legbyes: 1
 Balls faced: 11
 Bowler: Sahel Zadran
 Over: 4
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -122,6 +134,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -132,6 +145,7 @@ Run scored: 6
 Balls faced: 14
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -142,6 +156,7 @@ Run scored: 4
 Balls faced: 15
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -152,6 +167,7 @@ Run scored: 4
 Balls faced: 16
 Bowler: Jaweed Sadran
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -162,16 +178,20 @@ Legbyes: 1
 Balls faced: 17
 Bowler: Abdullah Akbarjan
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! caught
+c Randhawa b Abdullah Akbarjan
+Ollie Hairs c Randhawa b Abdullah Akbarjan 23 (12b 2x4 2x6) SR: 191.66
 
 
 
 Balls faced: 18
 Bowler: Abdullah Akbarjan
 Over: 7
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -182,6 +202,7 @@ Run scored: 6
 Balls faced: 19
 Bowler: Abdullah Akbarjan
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -192,6 +213,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Abdullah Akbarjan
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -202,16 +224,20 @@ Run scored: 1
 Balls faced: 21
 Bowler: Abdullah Akbarjan
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! caught
+c Randhawa b Abdullah Akbarjan
+Ollie Hairs c Randhawa b Abdullah Akbarjan 23 (12b 2x4 2x6) SR: 191.66
 
 
 
 Balls faced: 22
 Bowler: Abdullah Akbarjan
 Over: 7
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -222,6 +248,7 @@ Run scored: 6
 Balls faced: 23
 Bowler: Abdullah Akbarjan
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -232,6 +259,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Abdullah Akbarjan
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -244,6 +272,7 @@ Match: all_games_1383037_1383083.json
 Balls faced: 1
 Bowler: Surya Anand
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -254,6 +283,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Surya Anand
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -264,6 +294,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -274,6 +305,7 @@ Run scored: 4
 Balls faced: 4
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -284,6 +316,7 @@ Run scored: 6
 Balls faced: 5
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -294,6 +327,7 @@ Run scored: 6
 Balls faced: 6
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -304,6 +338,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -314,6 +349,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Surya Anand
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -324,6 +360,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Surya Anand
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -334,6 +371,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -344,6 +382,7 @@ Run scored: 4
 Balls faced: 11
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -354,6 +393,7 @@ Run scored: 6
 Balls faced: 12
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -364,6 +404,7 @@ Run scored: 6
 Balls faced: 13
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -374,6 +415,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Ahmad
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -384,20 +426,26 @@ Run scored: 0
 Balls faced: 15
 Bowler: Laegsgaard
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! lbw
+lbw b Laegsgaard
+Ollie Hairs lbw b Laegsgaard 17 (8b 1x4 2x6) SR: 212.5
 
 
 
 Balls faced: 16
 Bowler: Laegsgaard
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! lbw
+lbw b Laegsgaard
+Ollie Hairs lbw b Laegsgaard 17 (8b 1x4 2x6) SR: 212.5
 
 
 
@@ -406,6 +454,7 @@ Match: all_games_1383037_1383088.json
 Balls faced: 1
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -416,6 +465,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Little
 Over: 2
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -426,6 +476,7 @@ Run scored: 2
 Balls faced: 3
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -436,6 +487,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: McCarthy
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -446,6 +498,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Little
 Over: 2
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -456,16 +509,20 @@ Run scored: 2
 Balls faced: 6
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! caught
+c Campher b Adair
+Ollie Hairs c Campher b Adair 4 (4b 0x4 0x6) SR: 100
 
 
 
 Balls faced: 7
 Bowler: McCarthy
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -476,10 +533,13 @@ Run scored: 1
 Balls faced: 8
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! caught
+c Campher b Adair
+Ollie Hairs c Campher b Adair 4 (4b 0x4 0x6) SR: 100
 
 
 
@@ -488,20 +548,26 @@ Match: all_games_1421067_1421078.json
 Balls faced: 1
 Bowler: Junaid Siddique
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
+Hairs is OUT! bowled
+ b Junaid Siddique
+Ollie Hairs b Junaid Siddique 0 (1b 0x4 0x6 2m) SR: 0
 
 
 
 Balls faced: 2
 Bowler: Junaid Siddique
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
-
+Hairs is OUT! bowled
+ b Junaid Siddique
+Ollie Hairs b Junaid Siddique 0 (1b 0x4 0x6 2m) SR: 0
 
 
 
@@ -510,16 +576,20 @@ Match: all_games_1421067_1421079.json
 Balls faced: 1
 Bowler: Junaid Siddique
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
+Hairs is OUT! bowled
+ b Junaid Siddique
+Ollie Hairs b Junaid Siddique 0 (2b 0x4 0x6) SR: 0
 
 
 
 Balls faced: 2
 Bowler: Junaid Siddique
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -530,16 +600,20 @@ Run scored: 0
 Balls faced: 3
 Bowler: Junaid Siddique
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
+Hairs is OUT! bowled
+ b Junaid Siddique
+Ollie Hairs b Junaid Siddique 0 (2b 0x4 0x6) SR: 0
 
 
 
 Balls faced: 4
 Bowler: Junaid Siddique
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -552,6 +626,7 @@ Match: all_games_1428145_1428151.json
 Balls faced: 1
 Bowler: Dutt
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -562,6 +637,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Dutt
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -572,6 +648,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Dutt
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -582,6 +659,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Dutt
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -592,6 +670,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Dutt
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -602,6 +681,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Kingma
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -612,6 +692,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Kingma
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -622,6 +703,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Dutt
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -632,6 +714,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Dutt
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -642,6 +725,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Dutt
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -652,6 +736,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Dutt
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -662,6 +747,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Dutt
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -672,16 +758,20 @@ Run scored: 0
 Balls faced: 13
 Bowler: van Beek
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
+Hairs is OUT! bowled
+ b van Beek
+Ollie Hairs b van Beek 4 (11b 1x4 0x6 13m) SR: 36.36
 
 
 
 Balls faced: 14
 Bowler: van Beek
 Over: 3
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -692,6 +782,7 @@ Wide: 1
 Balls faced: 15
 Bowler: van Beek
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
@@ -702,6 +793,7 @@ Run scored: 4
 Balls faced: 16
 Bowler: van Beek
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -712,6 +804,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: van Beek
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
@@ -722,6 +815,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Kingma
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -732,6 +826,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Kingma
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -742,16 +837,20 @@ Run scored: 0
 Balls faced: 20
 Bowler: van Beek
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
+Hairs is OUT! bowled
+ b van Beek
+Ollie Hairs b van Beek 4 (11b 1x4 0x6 13m) SR: 36.36
 
 
 
 Balls faced: 21
 Bowler: van Beek
 Over: 3
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -762,6 +861,7 @@ Wide: 1
 Balls faced: 22
 Bowler: van Beek
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
@@ -772,6 +872,7 @@ Run scored: 4
 Balls faced: 23
 Bowler: van Beek
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -782,6 +883,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: van Beek
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
@@ -794,6 +896,7 @@ Match: all_games_1428145_1428154.json
 Balls faced: 1
 Bowler: Dutt
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -804,6 +907,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Dutt
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -814,6 +918,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Dutt
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -824,6 +929,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Kingma
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -834,6 +940,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Kingma
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -844,6 +951,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Kingma
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -854,6 +962,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Kingma
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -864,6 +973,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Dutt
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -874,6 +984,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Dutt
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -884,6 +995,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Dutt
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -894,6 +1006,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -904,6 +1017,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -914,6 +1028,7 @@ Run scored: 4
 Balls faced: 13
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -924,6 +1039,7 @@ No Balls: 1
 Balls faced: 14
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -934,6 +1050,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -944,6 +1061,7 @@ Byes: 1
 Balls faced: 16
 Bowler: Kingma
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -954,6 +1072,7 @@ Run scored: 1
 Balls faced: 17
 Bowler: Kingma
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -964,6 +1083,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Kingma
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -974,6 +1094,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Kingma
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -984,6 +1105,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Kingma
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -994,6 +1116,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Kingma
 Over: 4
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1004,6 +1127,7 @@ Run scored: 4
 Balls faced: 22
 Bowler: Kingma
 Over: 4
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1014,6 +1138,7 @@ Run scored: 4
 Balls faced: 23
 Bowler: Kingma
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1024,6 +1149,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1034,6 +1160,7 @@ Run scored: 1
 Balls faced: 25
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1044,6 +1171,7 @@ Run scored: 4
 Balls faced: 26
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1054,6 +1182,7 @@ No Balls: 1
 Balls faced: 27
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1064,6 +1193,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Dutt
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1074,16 +1204,20 @@ Byes: 1
 Balls faced: 29
 Bowler: van Beek
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! caught
+c Levitt b van Beek
+Ollie Hairs c Levitt b van Beek 15 (17b 3x4 0x6 17m) SR: 88.23
 
 
 
 Balls faced: 30
 Bowler: Kingma
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1094,6 +1228,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Kingma
 Over: 4
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1104,6 +1239,7 @@ Run scored: 4
 Balls faced: 32
 Bowler: Kingma
 Over: 4
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1114,6 +1250,7 @@ Run scored: 4
 Balls faced: 33
 Bowler: Kingma
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1124,10 +1261,13 @@ Run scored: 0
 Balls faced: 34
 Bowler: van Beek
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! caught
+c Levitt b van Beek
+Ollie Hairs c Levitt b van Beek 15 (17b 3x4 0x6 17m) SR: 88.23
 
 
 
@@ -1136,6 +1276,7 @@ Match: all_games_1428145_1428155.json
 Balls faced: 1
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1146,6 +1287,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1156,6 +1298,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1166,6 +1309,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1176,6 +1320,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1186,6 +1331,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1196,6 +1342,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1206,6 +1353,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1216,16 +1364,20 @@ Run scored: 1
 Balls faced: 9
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! caught
+c Tector b Adair
+Ollie Hairs c Tector b Adair 9 (8b 0x4 1x6 18m) SR: 112.5
 
 
 
 Balls faced: 10
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -1236,6 +1388,7 @@ Run scored: 6
 Balls faced: 11
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1246,6 +1399,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1256,16 +1410,20 @@ Run scored: 0
 Balls faced: 13
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Hairs is OUT! caught
+c Tector b Adair
+Ollie Hairs c Tector b Adair 9 (8b 0x4 1x6 18m) SR: 112.5
 
 
 
 Balls faced: 14
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -1276,6 +1434,7 @@ Run scored: 6
 Balls faced: 15
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1286,5 +1445,6 @@ Run scored: 0
 Balls faced: 16
 Bowler: Adair
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0

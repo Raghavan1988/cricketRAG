@@ -2,6 +2,7 @@ Match: all_games_1410505_1410545.json
 Balls faced: 1
 Bowler: Morris
 Over: 6
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Morris
 Over: 6
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -22,16 +24,20 @@ Run scored: 0
 Balls faced: 3
 Bowler: Cross
 Over: 7
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
-
+Heath is OUT! caught
+c †Threlkeld b Cross
+Bess Heath c †Threlkeld b Cross 1 (3b 0x4 0x6 3m) SR: 33.33
 
 
 
 Balls faced: 4
 Bowler: Morris
 Over: 6
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -42,6 +48,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Morris
 Over: 6
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -52,5 +59,10 @@ Run scored: 0
 Balls faced: 6
 Bowler: Cross
 Over: 7
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
+
+Heath is OUT! caught
+c †Threlkeld b Cross
+Bess Heath c †Threlkeld b Cross 1 (3b 0x4 0x6 3m) SR: 33.33

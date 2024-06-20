@@ -2,221 +2,247 @@ Match: all_games_1373558_1373578.json
 Balls faced: 1
 Bowler: Rehan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "round the wicket, floated up into the blockhole and clipped down to long-on. <b>That's the West Indies 100 up</b>"}]round the wicket, floated up into the blockhole and clipped down to long-on. <b>That's the West Indies 100 up</b>
+round the wicket, floated up into the blockhole and clipped down to long-on. <b>That's the West Indies 100 up</b>
 
 
 Balls faced: 2
 Bowler: Jacks
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "round the wicket, full on the toes and whipped down to long-on"}]round the wicket, full on the toes and whipped down to long-on
+round the wicket, full on the toes and whipped down to long-on
 
 
 Balls faced: 3
 Bowler: Jacks
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted, 83kph and again room to swing the arms, sliced out to deep backward point"}]flighted, 83kph and again room to swing the arms, sliced out to deep backward point
+flighted, 83kph and again room to swing the arms, sliced out to deep backward point
 
 
 Balls faced: 4
 Bowler: Jacks
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "England turn to Liam Livingstone... nope, scratch that. Will Jacks will bowl instead. Maybe because the left-hander is on strike (although Livingstone can bowl offies too)?"}]England turn to Liam Livingstone... nope, scratch that. Will Jacks will bowl instead. Maybe because the left-hander is on strike (although Livingstone can bowl offies too)?
+England turn to Liam Livingstone... nope, scratch that. Will Jacks will bowl instead. Maybe because the left-hander is on strike (although Livingstone can bowl offies too)?
 
-[{"type": "HTML", "html": "looped up outside off, little bit of grip and spin. Cut off the back foot to cover"}]looped up outside off, little bit of grip and spin. Cut off the back foot to cover
+looped up outside off, little bit of grip and spin. Cut off the back foot to cover
 
 
 Balls faced: 5
 Bowler: Rehan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "round the wicket, floated up into the blockhole and clipped down to long-on. <b>That's the West Indies 100 up</b>"}]round the wicket, floated up into the blockhole and clipped down to long-on. <b>That's the West Indies 100 up</b>
+round the wicket, floated up into the blockhole and clipped down to long-on. <b>That's the West Indies 100 up</b>
 
 
 Balls faced: 6
 Bowler: Jacks
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "round the wicket, full on the toes and whipped down to long-on"}]round the wicket, full on the toes and whipped down to long-on
+round the wicket, full on the toes and whipped down to long-on
 
 
 Balls faced: 7
 Bowler: Jacks
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted, 83kph and again room to swing the arms, sliced out to deep backward point"}]flighted, 83kph and again room to swing the arms, sliced out to deep backward point
+flighted, 83kph and again room to swing the arms, sliced out to deep backward point
 
 
 Balls faced: 8
 Bowler: Jacks
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "England turn to Liam Livingstone... nope, scratch that. Will Jacks will bowl instead. Maybe because the left-hander is on strike (although Livingstone can bowl offies too)?"}]England turn to Liam Livingstone... nope, scratch that. Will Jacks will bowl instead. Maybe because the left-hander is on strike (although Livingstone can bowl offies too)?
+England turn to Liam Livingstone... nope, scratch that. Will Jacks will bowl instead. Maybe because the left-hander is on strike (although Livingstone can bowl offies too)?
 
-[{"type": "HTML", "html": "looped up outside off, little bit of grip and spin. Cut off the back foot to cover"}]looped up outside off, little bit of grip and spin. Cut off the back foot to cover
+looped up outside off, little bit of grip and spin. Cut off the back foot to cover
 
 
 Balls faced: 9
 Bowler: Jacks
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>seizes on the length and smashes six over cow corner!</b> Just a touch short and Hetmyer rocks back to swing a muscular pull into the boards. Denies Jacks a maiden with a mighty six"}]<b>seizes on the length and smashes six over cow corner!</b> Just a touch short and Hetmyer rocks back to swing a muscular pull into the boards. Denies Jacks a maiden with a mighty six
+<b>seizes on the length and smashes six over cow corner!</b> Just a touch short and Hetmyer rocks back to swing a muscular pull into the boards. Denies Jacks a maiden with a mighty six
 
 
 Balls faced: 10
 Bowler: Jacks
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up nice and full, 81kph and he advances to drive back to the bowler on the bounce"}]tossed up nice and full, 81kph and he advances to drive back to the bowler on the bounce
+tossed up nice and full, 81kph and he advances to drive back to the bowler on the bounce
 
 
 Balls faced: 11
 Bowler: Jacks
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up outside off, Hetmyer presses forward and stabs the ball to cover"}]looped up outside off, Hetmyer presses forward and stabs the ball to cover
+looped up outside off, Hetmyer presses forward and stabs the ball to cover
 
 
 Balls faced: 12
 Bowler: Jacks
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "some flight and turn, wide of the stumps and cut without timing"}]some flight and turn, wide of the stumps and cut without timing
+some flight and turn, wide of the stumps and cut without timing
 
 
 Balls faced: 13
 Bowler: Jacks
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker, 86kph from round the wicket, pushed away"}]quicker, 86kph from round the wicket, pushed away
+quicker, 86kph from round the wicket, pushed away
 
 
 Balls faced: 14
 Bowler: Jacks
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up on off, defended"}]looped up on off, defended
+looped up on off, defended
 
 
 Balls faced: 15
 Bowler: Jacks
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>seizes on the length and smashes six over cow corner!</b> Just a touch short and Hetmyer rocks back to swing a muscular pull into the boards. Denies Jacks a maiden with a mighty six"}]<b>seizes on the length and smashes six over cow corner!</b> Just a touch short and Hetmyer rocks back to swing a muscular pull into the boards. Denies Jacks a maiden with a mighty six
+<b>seizes on the length and smashes six over cow corner!</b> Just a touch short and Hetmyer rocks back to swing a muscular pull into the boards. Denies Jacks a maiden with a mighty six
 
 
 Balls faced: 16
 Bowler: Jacks
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up nice and full, 81kph and he advances to drive back to the bowler on the bounce"}]tossed up nice and full, 81kph and he advances to drive back to the bowler on the bounce
+tossed up nice and full, 81kph and he advances to drive back to the bowler on the bounce
 
 
 Balls faced: 17
 Bowler: Jacks
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up outside off, Hetmyer presses forward and stabs the ball to cover"}]looped up outside off, Hetmyer presses forward and stabs the ball to cover
+looped up outside off, Hetmyer presses forward and stabs the ball to cover
 
 
 Balls faced: 18
 Bowler: Jacks
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "some flight and turn, wide of the stumps and cut without timing"}]some flight and turn, wide of the stumps and cut without timing
+some flight and turn, wide of the stumps and cut without timing
 
 
 Balls faced: 19
 Bowler: Jacks
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "quicker, 86kph from round the wicket, pushed away"}]quicker, 86kph from round the wicket, pushed away
+quicker, 86kph from round the wicket, pushed away
 
 
 Balls faced: 20
 Bowler: Jacks
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up on off, defended"}]looped up on off, defended
+looped up on off, defended
 
 
 Balls faced: 21
 Bowler: Jacks
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>flashes a cut but picks out the man!</b> Loose from Hetmyer and West Indies lose another, Jacks into the action. Maybe a hint of extra bounce, there was room to play the shot but he couldn't keep the ball down. Well held by his bootstraps by Salt at point"}]<b>flashes a cut but picks out the man!</b> Loose from Hetmyer and West Indies lose another, Jacks into the action. Maybe a hint of extra bounce, there was room to play the shot but he couldn't keep the ball down. Well held by his bootstraps by Salt at point
+Hetmyer is OUT! caught
+c Salt b Jacks
+Shimron Hetmyer c Salt b Jacks 12 (15b 0x4 1x6 16m) SR: 80
+<b>flashes a cut but picks out the man!</b> Loose from Hetmyer and West Indies lose another, Jacks into the action. Maybe a hint of extra bounce, there was room to play the shot but he couldn't keep the ball down. Well held by his bootstraps by Salt at point
 
 
 Balls faced: 22
 Bowler: Jacks
 Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>flashes a cut but picks out the man!</b> Loose from Hetmyer and West Indies lose another, Jacks into the action. Maybe a hint of extra bounce, there was room to play the shot but he couldn't keep the ball down. Well held by his bootstraps by Salt at point"}]<b>flashes a cut but picks out the man!</b> Loose from Hetmyer and West Indies lose another, Jacks into the action. Maybe a hint of extra bounce, there was room to play the shot but he couldn't keep the ball down. Well held by his bootstraps by Salt at point
+Hetmyer is OUT! caught
+c Salt b Jacks
+Shimron Hetmyer c Salt b Jacks 12 (15b 0x4 1x6 16m) SR: 80
+<b>flashes a cut but picks out the man!</b> Loose from Hetmyer and West Indies lose another, Jacks into the action. Maybe a hint of extra bounce, there was room to play the shot but he couldn't keep the ball down. Well held by his bootstraps by Salt at point
 
 
 
@@ -224,81 +250,93 @@ Match: all_games_1373558_1373579.json
 Balls faced: 1
 Bowler: Rehan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Another leftie, Shimron Hetmyer, comes to the crease"}]Another leftie, Shimron Hetmyer, comes to the crease
+Another leftie, Shimron Hetmyer, comes to the crease
 
-[{"type": "HTML", "html": "Googly to start, pitching outside leg, Hetmyer tucks it into square leg to get off the mark"}]Googly to start, pitching outside leg, Hetmyer tucks it into square leg to get off the mark
+Googly to start, pitching outside leg, Hetmyer tucks it into square leg to get off the mark
 
 
 Balls faced: 2
 Bowler: Rashid
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Rash gets his 100th T20i wicket!</strong> History for Rashid, and a bit of a gift as Hetmyer skips down the track and picks out Duckett positioned on the midwicket fence"}]<strong>Rash gets his 100th T20i wicket!</strong> History for Rashid, and a bit of a gift as Hetmyer skips down the track and picks out Duckett positioned on the midwicket fence
+Hetmyer is OUT! caught
+c Duckett b Rashid
+Shimron Hetmyer c Duckett b Rashid 1 (4b 0x4 0x6 5m) SR: 25
+<strong>Rash gets his 100th T20i wicket!</strong> History for Rashid, and a bit of a gift as Hetmyer skips down the track and picks out Duckett positioned on the midwicket fence
 
 
 Balls faced: 3
 Bowler: Rashid
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Played off the back foot, straight to backward point"}]Played off the back foot, straight to backward point
+Played off the back foot, straight to backward point
 
 
 Balls faced: 4
 Bowler: Rashid
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Box of balls being brought out here, presumably because of the boundaries and dew? Anyway, Rashid to continue"}]Box of balls being brought out here, presumably because of the boundaries and dew? Anyway, Rashid to continue
+Box of balls being brought out here, presumably because of the boundaries and dew? Anyway, Rashid to continue
 
-[{"type": "HTML", "html": "Good length, bit of dip, bit of turn too - Hetmyer presses forward and gets a thick inside edge which balloons into where short leg would have been if this were that type of game"}]Good length, bit of dip, bit of turn too - Hetmyer presses forward and gets a thick inside edge which balloons into where short leg would have been if this were that type of game
+Good length, bit of dip, bit of turn too - Hetmyer presses forward and gets a thick inside edge which balloons into where short leg would have been if this were that type of game
 
 
 Balls faced: 5
 Bowler: Rehan
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Another leftie, Shimron Hetmyer, comes to the crease"}]Another leftie, Shimron Hetmyer, comes to the crease
+Another leftie, Shimron Hetmyer, comes to the crease
 
-[{"type": "HTML", "html": "Googly to start, pitching outside leg, Hetmyer tucks it into square leg to get off the mark"}]Googly to start, pitching outside leg, Hetmyer tucks it into square leg to get off the mark
+Googly to start, pitching outside leg, Hetmyer tucks it into square leg to get off the mark
 
 
 Balls faced: 6
 Bowler: Rashid
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Rash gets his 100th T20i wicket!</strong> History for Rashid, and a bit of a gift as Hetmyer skips down the track and picks out Duckett positioned on the midwicket fence"}]<strong>Rash gets his 100th T20i wicket!</strong> History for Rashid, and a bit of a gift as Hetmyer skips down the track and picks out Duckett positioned on the midwicket fence
+Hetmyer is OUT! caught
+c Duckett b Rashid
+Shimron Hetmyer c Duckett b Rashid 1 (4b 0x4 0x6 5m) SR: 25
+<strong>Rash gets his 100th T20i wicket!</strong> History for Rashid, and a bit of a gift as Hetmyer skips down the track and picks out Duckett positioned on the midwicket fence
 
 
 Balls faced: 7
 Bowler: Rashid
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Played off the back foot, straight to backward point"}]Played off the back foot, straight to backward point
+Played off the back foot, straight to backward point
 
 
 Balls faced: 8
 Bowler: Rashid
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Box of balls being brought out here, presumably because of the boundaries and dew? Anyway, Rashid to continue"}]Box of balls being brought out here, presumably because of the boundaries and dew? Anyway, Rashid to continue
+Box of balls being brought out here, presumably because of the boundaries and dew? Anyway, Rashid to continue
 
-[{"type": "HTML", "html": "Good length, bit of dip, bit of turn too - Hetmyer presses forward and gets a thick inside edge which balloons into where short leg would have been if this were that type of game"}]Good length, bit of dip, bit of turn too - Hetmyer presses forward and gets a thick inside edge which balloons into where short leg would have been if this were that type of game
+Good length, bit of dip, bit of turn too - Hetmyer presses forward and gets a thick inside edge which balloons into where short leg would have been if this were that type of game
 
 
 
@@ -306,101 +344,115 @@ Match: all_games_1373558_1373580.json
 Balls faced: 1
 Bowler: Rehan
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "firm drive to long-off, hitting through the full length. Super over, and West Indies have some work to do here"}]firm drive to long-off, hitting through the full length. Super over, and West Indies have some work to do here
+firm drive to long-off, hitting through the full length. Super over, and West Indies have some work to do here
 
 
 Balls faced: 2
 Bowler: Rehan
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "right up to the pad, on the front foot, pressed back down the pitch"}]right up to the pad, on the front foot, pressed back down the pitch
+right up to the pad, on the front foot, pressed back down the pitch
 
 
 Balls faced: 3
 Bowler: Rehan
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up to the left-hander, dipping on off stump, eased to mid-off on the front foot"}]tossed up to the left-hander, dipping on off stump, eased to mid-off on the front foot
+tossed up to the left-hander, dipping on off stump, eased to mid-off on the front foot
 
 
 Balls faced: 4
 Bowler: Rashid
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "faster, flatter, jabbed off the back foot, <B>straight to slip!</B> Such cunning bowling, the big air one ball, and then the sucker-punch the next, pushed across the left-hander's bows. Flew quickly to Moeen but he made no mistake"}]faster, flatter, jabbed off the back foot, <B>straight to slip!</B> Such cunning bowling, the big air one ball, and then the sucker-punch the next, pushed across the left-hander's bows. Flew quickly to Moeen but he made no mistake
+Hetmyer is OUT! caught
+c Ali b Rashid
+Shimron Hetmyer c Ali b Rashid 2 (5b 0x4 0x6 5m) SR: 40
+faster, flatter, jabbed off the back foot, <B>straight to slip!</B> Such cunning bowling, the big air one ball, and then the sucker-punch the next, pushed across the left-hander's bows. Flew quickly to Moeen but he made no mistake
 
 
 Balls faced: 5
 Bowler: Rashid
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Back to Rash then"}]Back to Rash then
+Back to Rash then
 
-[{"type": "HTML", "html": "so much air, tossed right above the eyeline, and dipping on middle and leg, eased to the on-side"}]so much air, tossed right above the eyeline, and dipping on middle and leg, eased to the on-side
+so much air, tossed right above the eyeline, and dipping on middle and leg, eased to the on-side
 
 
 Balls faced: 6
 Bowler: Rehan
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "firm drive to long-off, hitting through the full length. Super over, and West Indies have some work to do here"}]firm drive to long-off, hitting through the full length. Super over, and West Indies have some work to do here
+firm drive to long-off, hitting through the full length. Super over, and West Indies have some work to do here
 
 
 Balls faced: 7
 Bowler: Rehan
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "right up to the pad, on the front foot, pressed back down the pitch"}]right up to the pad, on the front foot, pressed back down the pitch
+right up to the pad, on the front foot, pressed back down the pitch
 
 
 Balls faced: 8
 Bowler: Rehan
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up to the left-hander, dipping on off stump, eased to mid-off on the front foot"}]tossed up to the left-hander, dipping on off stump, eased to mid-off on the front foot
+tossed up to the left-hander, dipping on off stump, eased to mid-off on the front foot
 
 
 Balls faced: 9
 Bowler: Rashid
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
-
-[{"type": "HTML", "html": "faster, flatter, jabbed off the back foot, <B>straight to slip!</B> Such cunning bowling, the big air one ball, and then the sucker-punch the next, pushed across the left-hander's bows. Flew quickly to Moeen but he made no mistake"}]faster, flatter, jabbed off the back foot, <B>straight to slip!</B> Such cunning bowling, the big air one ball, and then the sucker-punch the next, pushed across the left-hander's bows. Flew quickly to Moeen but he made no mistake
+Hetmyer is OUT! caught
+c Ali b Rashid
+Shimron Hetmyer c Ali b Rashid 2 (5b 0x4 0x6 5m) SR: 40
+faster, flatter, jabbed off the back foot, <B>straight to slip!</B> Such cunning bowling, the big air one ball, and then the sucker-punch the next, pushed across the left-hander's bows. Flew quickly to Moeen but he made no mistake
 
 
 Balls faced: 10
 Bowler: Rashid
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Back to Rash then"}]Back to Rash then
+Back to Rash then
 
-[{"type": "HTML", "html": "so much air, tossed right above the eyeline, and dipping on middle and leg, eased to the on-side"}]so much air, tossed right above the eyeline, and dipping on middle and leg, eased to the on-side
+so much air, tossed right above the eyeline, and dipping on middle and leg, eased to the on-side
 
 
 
@@ -408,6 +460,7 @@ Match: all_games_1434088_1434102.json
 Balls faced: 1
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -418,6 +471,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Agar
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -428,6 +482,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Agar
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -438,6 +493,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -448,6 +504,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: David
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -458,6 +515,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: David
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -468,6 +526,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Agar
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -478,6 +537,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Agar
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -488,6 +548,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: David
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -498,6 +559,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: David
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -508,6 +570,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Ellis
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -518,6 +581,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Ellis
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -528,6 +592,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Ellis
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -538,6 +603,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Ellis
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -548,6 +614,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Hazlewood
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -558,6 +625,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Hazlewood
 Over: 19
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -568,6 +636,7 @@ Run scored: 6
 Balls faced: 17
 Bowler: Hazlewood
 Over: 19
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -578,6 +647,7 @@ Run scored: 4
 Balls faced: 18
 Bowler: Ellis
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -588,6 +658,7 @@ Run scored: 1
 Balls faced: 19
 Bowler: Ellis
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -598,6 +669,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Ellis
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -608,6 +680,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Ellis
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -618,6 +691,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Ellis
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -628,6 +702,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Hazlewood
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -638,6 +713,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: Hazlewood
 Over: 19
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -648,6 +724,7 @@ Run scored: 6
 Balls faced: 25
 Bowler: Hazlewood
 Over: 19
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -658,5 +735,6 @@ Run scored: 4
 Balls faced: 26
 Bowler: Ellis
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1

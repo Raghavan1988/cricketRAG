@@ -2,81 +2,89 @@ Match: all_games_1389386_1389399.json
 Balls faced: 1
 Bowler: Bumrah
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beats the edge with one that holds its line! Cracking delivery. Looked like there was a hint of reverse"}]beats the edge with one that holds its line! Cracking delivery. Looked like there was a hint of reverse
+beats the edge with one that holds its line! Cracking delivery. Looked like there was a hint of reverse
 
 
 Balls faced: 2
 Bowler: Bumrah
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "squeezes this off the edge to gully"}]squeezes this off the edge to gully
+squeezes this off the edge to gully
 
 
 Balls faced: 3
 Bowler: Bumrah
 Over: 49
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Hartley comes out on debut"}]Hartley comes out on debut
+Hartley comes out on debut
 
-[{"type": "HTML", "html": "slips in a rip roaring yorker but just errs a touch on leg stump, Bharat dives low to his right to stop that. <b> Excellent glove work </b>"}]slips in a rip roaring yorker but just errs a touch on leg stump, Bharat dives low to his right to stop that. <b> Excellent glove work </b>
+slips in a rip roaring yorker but just errs a touch on leg stump, Bharat dives low to his right to stop that. <b> Excellent glove work </b>
 
 
 Balls faced: 4
 Bowler: Ashwin
 Over: 50
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "defended back to the bowler"}]defended back to the bowler
+defended back to the bowler
 
 
 Balls faced: 5
 Bowler: Ashwin
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Benedict: \"I know it's tough out there, but you get the feeling Stokes needs to play some shots now to get to a decent total.\""}]Benedict: "I know it's tough out there, but you get the feeling Stokes needs to play some shots now to get to a decent total."
+Benedict: "I know it's tough out there, but you get the feeling Stokes needs to play some shots now to get to a decent total."
 
-[{"type": "HTML", "html": "what a welcome! His first runs in Test cricket. Hacks this across the line to clear mid-on for four."}]what a welcome! His first runs in Test cricket. Hacks this across the line to clear mid-on for four.
+what a welcome! His first runs in Test cricket. Hacks this across the line to clear mid-on for four.
 
 
 Balls faced: 6
 Bowler: Bumrah
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beats the edge with one that holds its line! Cracking delivery. Looked like there was a hint of reverse"}]beats the edge with one that holds its line! Cracking delivery. Looked like there was a hint of reverse
+beats the edge with one that holds its line! Cracking delivery. Looked like there was a hint of reverse
 
 
 Balls faced: 7
 Bowler: Bumrah
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "squeezes this off the edge to gully"}]squeezes this off the edge to gully
+squeezes this off the edge to gully
 
 
 Balls faced: 8
 Bowler: Bumrah
 Over: 49
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Hartley comes out on debut"}]Hartley comes out on debut
+Hartley comes out on debut
 
-[{"type": "HTML", "html": "slips in a rip roaring yorker but just errs a touch on leg stump, Bharat dives low to his right to stop that. <b> Excellent glove work </b>"}]slips in a rip roaring yorker but just errs a touch on leg stump, Bharat dives low to his right to stop that. <b> Excellent glove work </b>
+slips in a rip roaring yorker but just errs a touch on leg stump, Bharat dives low to his right to stop that. <b> Excellent glove work </b>
 
 
 
@@ -84,411 +92,452 @@ Match: all_games_1389386_1389400.json
 Balls faced: 1
 Bowler: Kuldeep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>and Kuldeep slips in another wrong'un</b>, which gets big on him, but drops short of cover"}]<b>and Kuldeep slips in another wrong'un</b>, which gets big on him, but drops short of cover
+<b>and Kuldeep slips in another wrong'un</b>, which gets big on him, but drops short of cover
 
 
 Balls faced: 2
 Bowler: Kuldeep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "A slip and a silly point"}]A slip and a silly point
+A slip and a silly point
 
-[{"type": "HTML", "html": "<strong>big appeal for lbw shout</strong> as he beats Hartley with a wrong'un. Not given, not reviewed. Seems like they are thinking he has got an edge"}]<strong>big appeal for lbw shout</strong> as he beats Hartley with a wrong'un. Not given, not reviewed. Seems like they are thinking he has got an edge
+<strong>big appeal for lbw shout</strong> as he beats Hartley with a wrong'un. Not given, not reviewed. Seems like they are thinking he has got an edge
 
 
 Balls faced: 3
 Bowler: Kuldeep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Tom Hartley comes in. It is academic, I know, but England still need 15 to avoid the follow-on"}]Tom Hartley comes in. It is academic, I know, but England still need 15 to avoid the follow-on
+Tom Hartley comes in. It is academic, I know, but England still need 15 to avoid the follow-on
 
-[{"type": "HTML", "html": "shortish, punched down to mid-off"}]shortish, punched down to mid-off
+shortish, punched down to mid-off
 
 
 Balls faced: 4
 Bowler: Ashwin
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slow in the air, turns from middle and leg, hits the outer half of the bat"}]slow in the air, turns from middle and leg, hits the outer half of the bat
+slow in the air, turns from middle and leg, hits the outer half of the bat
 
 
 Balls faced: 5
 Bowler: Ashwin
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Hartley skips down the wicket, takes this one of the full, gets a couple to deep midwicket"}]Hartley skips down the wicket, takes this one of the full, gets a couple to deep midwicket
+Hartley skips down the wicket, takes this one of the full, gets a couple to deep midwicket
 
 
 Balls faced: 6
 Bowler: Ashwin
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays back to a fullish ball, stays low, hits the bottom of the bat"}]stays back to a fullish ball, stays low, hits the bottom of the bat
+stays back to a fullish ball, stays low, hits the bottom of the bat
 
 
 Balls faced: 7
 Bowler: Ashwin
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "\"Ben Stokes tee-off time is coming!\" Paul, not until Hartley gets out"}]"Ben Stokes tee-off time is coming!" Paul, not until Hartley gets out
+"Ben Stokes tee-off time is coming!" Paul, not until Hartley gets out
 
-[{"type": "HTML", "html": "stays back to cut a flat length ball to point"}]stays back to cut a flat length ball to point
+stays back to cut a flat length ball to point
 
 
 Balls faced: 8
 Bowler: Kuldeep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>and Kuldeep slips in another wrong'un</b>, which gets big on him, but drops short of cover"}]<b>and Kuldeep slips in another wrong'un</b>, which gets big on him, but drops short of cover
+<b>and Kuldeep slips in another wrong'un</b>, which gets big on him, but drops short of cover
 
 
 Balls faced: 9
 Bowler: Kuldeep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "A slip and a silly point"}]A slip and a silly point
+A slip and a silly point
 
-[{"type": "HTML", "html": "<strong>big appeal for lbw shout</strong> as he beats Hartley with a wrong'un. Not given, not reviewed. Seems like they are thinking he has got an edge"}]<strong>big appeal for lbw shout</strong> as he beats Hartley with a wrong'un. Not given, not reviewed. Seems like they are thinking he has got an edge
+<strong>big appeal for lbw shout</strong> as he beats Hartley with a wrong'un. Not given, not reviewed. Seems like they are thinking he has got an edge
 
 
 Balls faced: 10
 Bowler: Kuldeep
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Tom Hartley comes in. It is academic, I know, but England still need 15 to avoid the follow-on"}]Tom Hartley comes in. It is academic, I know, but England still need 15 to avoid the follow-on
+Tom Hartley comes in. It is academic, I know, but England still need 15 to avoid the follow-on
 
-[{"type": "HTML", "html": "shortish, punched down to mid-off"}]shortish, punched down to mid-off
+shortish, punched down to mid-off
 
 
 Balls faced: 11
 Bowler: Kuldeep
 Over: 45
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Kuldeep to Hartley. Interesting again. He is not picking Kuldeep"}]Kuldeep to Hartley. Interesting again. He is not picking Kuldeep
+Kuldeep to Hartley. Interesting again. He is not picking Kuldeep
 
-[{"type": "HTML", "html": "<b>slog-sweep with a deep midwicket in place</b>. It doesn't carry to him"}]<b>slog-sweep with a deep midwicket in place</b>. It doesn't carry to him
+<b>slog-sweep with a deep midwicket in place</b>. It doesn't carry to him
 
 
 Balls faced: 12
 Bowler: Ashwin
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slow in the air, turns from middle and leg, hits the outer half of the bat"}]slow in the air, turns from middle and leg, hits the outer half of the bat
+slow in the air, turns from middle and leg, hits the outer half of the bat
 
 
 Balls faced: 13
 Bowler: Ashwin
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Hartley skips down the wicket, takes this one of the full, gets a couple to deep midwicket"}]Hartley skips down the wicket, takes this one of the full, gets a couple to deep midwicket
+Hartley skips down the wicket, takes this one of the full, gets a couple to deep midwicket
 
 
 Balls faced: 14
 Bowler: Ashwin
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays back to a fullish ball, stays low, hits the bottom of the bat"}]stays back to a fullish ball, stays low, hits the bottom of the bat
+stays back to a fullish ball, stays low, hits the bottom of the bat
 
 
 Balls faced: 15
 Bowler: Ashwin
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "\"Ben Stokes tee-off time is coming!\" Paul, not until Hartley gets out"}]"Ben Stokes tee-off time is coming!" Paul, not until Hartley gets out
+"Ben Stokes tee-off time is coming!" Paul, not until Hartley gets out
 
-[{"type": "HTML", "html": "stays back to cut a flat length ball to point"}]stays back to cut a flat length ball to point
+stays back to cut a flat length ball to point
 
 
 Balls faced: 16
 Bowler: Ashwin
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drifting in, middle and leg, worked to leg but no run"}]drifting in, middle and leg, worked to leg but no run
+drifting in, middle and leg, worked to leg but no run
 
 
 Balls faced: 17
 Bowler: Kuldeep
 Over: 45
+Pitch Line: DOWN_LEG Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "Kuldeep to Hartley. Interesting again. He is not picking Kuldeep"}]Kuldeep to Hartley. Interesting again. He is not picking Kuldeep
+Kuldeep to Hartley. Interesting again. He is not picking Kuldeep
 
-[{"type": "HTML", "html": "<b>slog-sweep with a deep midwicket in place</b>. It doesn't carry to him"}]<b>slog-sweep with a deep midwicket in place</b>. It doesn't carry to him
+<b>slog-sweep with a deep midwicket in place</b>. It doesn't carry to him
 
 
 Balls faced: 18
 Bowler: Kuldeep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Hartley frees his arms. Slog-sweep over long-on. Full from Kuldeep, and he gets under it"}]Hartley frees his arms. Slog-sweep over long-on. Full from Kuldeep, and he gets under it
+Hartley frees his arms. Slog-sweep over long-on. Full from Kuldeep, and he gets under it
 
 
 Balls faced: 19
 Bowler: Kuldeep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "goes back to cut a length ball to deep cover"}]goes back to cut a length ball to deep cover
+goes back to cut a length ball to deep cover
 
 
 Balls faced: 20
 Bowler: Ashwin
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drifting in, middle and leg, worked to leg but no run"}]drifting in, middle and leg, worked to leg but no run
+drifting in, middle and leg, worked to leg but no run
 
 
 Balls faced: 21
 Bowler: Ashwin
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>leading edge</strong> as he looks to work this full ball to leg. Gets a single through cover"}]<strong>leading edge</strong> as he looks to work this full ball to leg. Gets a single through cover
+<strong>leading edge</strong> as he looks to work this full ball to leg. Gets a single through cover
 
 
 Balls faced: 22
 Bowler: Kuldeep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Hartley frees his arms. Slog-sweep over long-on. Full from Kuldeep, and he gets under it"}]Hartley frees his arms. Slog-sweep over long-on. Full from Kuldeep, and he gets under it
+Hartley frees his arms. Slog-sweep over long-on. Full from Kuldeep, and he gets under it
 
 
 Balls faced: 23
 Bowler: Kuldeep
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "goes back to cut a length ball to deep cover"}]goes back to cut a length ball to deep cover
+goes back to cut a length ball to deep cover
 
 
 Balls faced: 24
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, hit back to Mukesh"}]on a length, hit back to Mukesh
-[{"type": "HTML", "html": "To see you through to stumps, here is Alan"}]To see you through to stumps, here is Alan
+on a length, hit back to Mukesh
+To see you through to stumps, here is Alan
 
 Balls faced: 25
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "lovely shot. Overpitched on the pads, and he has flicked it off the toes through midwicket. Also a no-ball"}]lovely shot. Overpitched on the pads, and he has flicked it off the toes through midwicket. Also a no-ball
+lovely shot. Overpitched on the pads, and he has flicked it off the toes through midwicket. Also a no-ball
 
 No Balls: 1
 Balls faced: 26
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "slightly fuller, and Hartley drives it past cover for a couple"}]slightly fuller, and Hartley drives it past cover for a couple
+slightly fuller, and Hartley drives it past cover for a couple
 
 
 Balls faced: 27
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays on that good length, targeting the top of off. Defended"}]stays on that good length, targeting the top of off. Defended
+stays on that good length, targeting the top of off. Defended
 
 
 Balls faced: 28
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "top of off, defended to cover"}]top of off, defended to cover
+top of off, defended to cover
 
 
 Balls faced: 29
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slight shape back in again, hits the inner half of the bat"}]slight shape back in again, hits the inner half of the bat
+slight shape back in again, hits the inner half of the bat
 
 
 Balls faced: 30
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Mukesh Kumar comes back. Four overs for 33 so far. A change of ends for Mukesh. Two staggered slips. Around the wicket"}]Mukesh Kumar comes back. Four overs for 33 so far. A change of ends for Mukesh. Two staggered slips. Around the wicket
+Mukesh Kumar comes back. Four overs for 33 so far. A change of ends for Mukesh. Two staggered slips. Around the wicket
 
-[{"type": "HTML", "html": "on a length, angling in, pushed back to him"}]on a length, angling in, pushed back to him
+on a length, angling in, pushed back to him
 
 
 Balls faced: 31
 Bowler: Ashwin
 Over: 48
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>leading edge</strong> as he looks to work this full ball to leg. Gets a single through cover"}]<strong>leading edge</strong> as he looks to work this full ball to leg. Gets a single through cover
+<strong>leading edge</strong> as he looks to work this full ball to leg. Gets a single through cover
 
 
 Balls faced: 32
 Bowler: Bumrah
 Over: 50
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired in straight and nudged watchfully to leg"}]fired in straight and nudged watchfully to leg
+fired in straight and nudged watchfully to leg
 
 
 Balls faced: 33
 Bowler: Bumrah
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball attacking the stumps, Hartley shows it a straight bat in defence"}]length ball attacking the stumps, Hartley shows it a straight bat in defence
-[{"type": "HTML", "html": "\"No 150 for Boom Boom!!\" Indeed it is, Shubham"}]"No 150 for Boom Boom!!" Indeed it is, Shubham
+length ball attacking the stumps, Hartley shows it a straight bat in defence
+"No 150 for Boom Boom!!" Indeed it is, Shubham
 
 Balls faced: 34
 Bowler: Bumrah
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slightly short again, 134kph/83mph and tucked to leg"}]slightly short again, 134kph/83mph and tucked to leg
+slightly short again, 134kph/83mph and tucked to leg
 
 
 Balls faced: 35
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on a length, hit back to Mukesh"}]on a length, hit back to Mukesh
-[{"type": "HTML", "html": "To see you through to stumps, here is Alan"}]To see you through to stumps, here is Alan
+on a length, hit back to Mukesh
+To see you through to stumps, here is Alan
 
 Balls faced: 36
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "lovely shot. Overpitched on the pads, and he has flicked it off the toes through midwicket. Also a no-ball"}]lovely shot. Overpitched on the pads, and he has flicked it off the toes through midwicket. Also a no-ball
+lovely shot. Overpitched on the pads, and he has flicked it off the toes through midwicket. Also a no-ball
 
 No Balls: 1
 Balls faced: 37
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "slightly fuller, and Hartley drives it past cover for a couple"}]slightly fuller, and Hartley drives it past cover for a couple
+slightly fuller, and Hartley drives it past cover for a couple
 
 
 Balls faced: 38
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "stays on that good length, targeting the top of off. Defended"}]stays on that good length, targeting the top of off. Defended
+stays on that good length, targeting the top of off. Defended
 
 
 Balls faced: 39
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "top of off, defended to cover"}]top of off, defended to cover
+top of off, defended to cover
 
 
 Balls faced: 40
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slight shape back in again, hits the inner half of the bat"}]slight shape back in again, hits the inner half of the bat
+slight shape back in again, hits the inner half of the bat
 
 
 Balls faced: 41
 Bowler: Mukesh Kumar
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Mukesh Kumar comes back. Four overs for 33 so far. A change of ends for Mukesh. Two staggered slips. Around the wicket"}]Mukesh Kumar comes back. Four overs for 33 so far. A change of ends for Mukesh. Two staggered slips. Around the wicket
+Mukesh Kumar comes back. Four overs for 33 so far. A change of ends for Mukesh. Two staggered slips. Around the wicket
 
-[{"type": "HTML", "html": "on a length, angling in, pushed back to him"}]on a length, angling in, pushed back to him
+on a length, angling in, pushed back to him
 
 
 
@@ -496,158 +545,176 @@ Match: all_games_1389386_1389403.json
 Balls faced: 1
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 4
-[{"type": "HTML", "html": "Slip, gully and short leg"}]Slip, gully and short leg
+Slip, gully and short leg
 
-[{"type": "HTML", "html": "<b>smashed to long-on!</b> Touch short and Hartley gives himself room to swat the ball hard down the ground, beats the man back"}]<b>smashed to long-on!</b> Touch short and Hartley gives himself room to swat the ball hard down the ground, beats the man back
-[{"type": "HTML", "html": "\"I see England bundling out here for 195,\" chortles Venkat. \"Foakes 10, Wood 5, Stokes 0. And the rest fill up the gap between\""}]"I see England bundling out here for 195," chortles Venkat. "Foakes 10, Wood 5, Stokes 0. And the rest fill up the gap between"
+<b>smashed to long-on!</b> Touch short and Hartley gives himself room to swat the ball hard down the ground, beats the man back
+"I see England bundling out here for 195," chortles Venkat. "Foakes 10, Wood 5, Stokes 0. And the rest fill up the gap between"
 
 Balls faced: 2
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "blocked coming forwards on off stump"}]blocked coming forwards on off stump
+blocked coming forwards on off stump
 
 
 Balls faced: 3
 Bowler: Jadeja
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "angled in from over the wicket, clipped off the pads going back"}]angled in from over the wicket, clipped off the pads going back
+angled in from over the wicket, clipped off the pads going back
 
 
 Balls faced: 4
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 4
-[{"type": "HTML", "html": "Slip, gully and short leg"}]Slip, gully and short leg
+Slip, gully and short leg
 
-[{"type": "HTML", "html": "<b>smashed to long-on!</b> Touch short and Hartley gives himself room to swat the ball hard down the ground, beats the man back"}]<b>smashed to long-on!</b> Touch short and Hartley gives himself room to swat the ball hard down the ground, beats the man back
-[{"type": "HTML", "html": "\"I see England bundling out here for 195,\" chortles Venkat. \"Foakes 10, Wood 5, Stokes 0. And the rest fill up the gap between\""}]"I see England bundling out here for 195," chortles Venkat. "Foakes 10, Wood 5, Stokes 0. And the rest fill up the gap between"
+<b>smashed to long-on!</b> Touch short and Hartley gives himself room to swat the ball hard down the ground, beats the man back
+"I see England bundling out here for 195," chortles Venkat. "Foakes 10, Wood 5, Stokes 0. And the rest fill up the gap between"
 
 Balls faced: 5
 Bowler: Kuldeep
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "blocked coming forwards on off stump"}]blocked coming forwards on off stump
+blocked coming forwards on off stump
 
 
 Balls faced: 6
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Ashwin vs Hartley is its <a href=https://www.espncricinfo.com/story/ind-vs-eng-tom-hartley-keen-for-nathan-lyon-lancashire-link-up-1423548>own little subplot for the series</a>, by the way"}]Ashwin vs Hartley is its <a href=https://www.espncricinfo.com/story/ind-vs-eng-tom-hartley-keen-for-nathan-lyon-lancashire-link-up-1423548>own little subplot for the series</a>, by the way
+Ashwin vs Hartley is its <a href=https://www.espncricinfo.com/story/ind-vs-eng-tom-hartley-keen-for-nathan-lyon-lancashire-link-up-1423548>own little subplot for the series</a>, by the way
 
-[{"type": "HTML", "html": "sliding in from round the wicket and defended calmly this time"}]sliding in from round the wicket and defended calmly this time
-[{"type": "HTML", "html": "\"Stokes must be out of his mind to declare this pitch as a belter. India would never prepare a belter,\" snickers Chandra. \"Those are only for IPL games. \""}]"Stokes must be out of his mind to declare this pitch as a belter. India would never prepare a belter," snickers Chandra. "Those are only for IPL games. "
+sliding in from round the wicket and defended calmly this time
+"Stokes must be out of his mind to declare this pitch as a belter. India would never prepare a belter," snickers Chandra. "Those are only for IPL games. "
 
 Balls faced: 7
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slows his pace up, 86kph and Hartley gives him the charge, thick-edged past last stump"}]slows his pace up, 86kph and Hartley gives him the charge, thick-edged past last stump
+slows his pace up, 86kph and Hartley gives him the charge, thick-edged past last stump
 
 
 Balls faced: 8
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes a touch fuller, tapped back to the bowler"}]goes a touch fuller, tapped back to the bowler
+goes a touch fuller, tapped back to the bowler
 
 
 Balls faced: 9
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kuldeep is spelled after his five-for, R Ashwin back into the attack"}]Kuldeep is spelled after his five-for, R Ashwin back into the attack
+Kuldeep is spelled after his five-for, R Ashwin back into the attack
 
-[{"type": "HTML", "html": "round the wicket, 92kph on off stump and defended"}]round the wicket, 92kph on off stump and defended
-[{"type": "HTML", "html": "\"The bowling has been outstanding, yes, but how awful have those reviews been? Both looked plumber than Mario!\" They were both optimistic at best, Adi"}]"The bowling has been outstanding, yes, but how awful have those reviews been? Both looked plumber than Mario!" They were both optimistic at best, Adi
+round the wicket, 92kph on off stump and defended
+"The bowling has been outstanding, yes, but how awful have those reviews been? Both looked plumber than Mario!" They were both optimistic at best, Adi
 
 Balls faced: 10
 Bowler: Jadeja
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "angled in from over the wicket, clipped off the pads going back"}]angled in from over the wicket, clipped off the pads going back
+angled in from over the wicket, clipped off the pads going back
 
 
 Balls faced: 11
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Ashwin vs Hartley is its <a href=https://www.espncricinfo.com/story/ind-vs-eng-tom-hartley-keen-for-nathan-lyon-lancashire-link-up-1423548>own little subplot for the series</a>, by the way"}]Ashwin vs Hartley is its <a href=https://www.espncricinfo.com/story/ind-vs-eng-tom-hartley-keen-for-nathan-lyon-lancashire-link-up-1423548>own little subplot for the series</a>, by the way
+Ashwin vs Hartley is its <a href=https://www.espncricinfo.com/story/ind-vs-eng-tom-hartley-keen-for-nathan-lyon-lancashire-link-up-1423548>own little subplot for the series</a>, by the way
 
-[{"type": "HTML", "html": "sliding in from round the wicket and defended calmly this time"}]sliding in from round the wicket and defended calmly this time
-[{"type": "HTML", "html": "\"Stokes must be out of his mind to declare this pitch as a belter. India would never prepare a belter,\" snickers Chandra. \"Those are only for IPL games. \""}]"Stokes must be out of his mind to declare this pitch as a belter. India would never prepare a belter," snickers Chandra. "Those are only for IPL games. "
+sliding in from round the wicket and defended calmly this time
+"Stokes must be out of his mind to declare this pitch as a belter. India would never prepare a belter," snickers Chandra. "Those are only for IPL games. "
 
 Balls faced: 12
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slows his pace up, 86kph and Hartley gives him the charge, thick-edged past last stump"}]slows his pace up, 86kph and Hartley gives him the charge, thick-edged past last stump
+slows his pace up, 86kph and Hartley gives him the charge, thick-edged past last stump
 
 
 Balls faced: 13
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "goes a touch fuller, tapped back to the bowler"}]goes a touch fuller, tapped back to the bowler
+goes a touch fuller, tapped back to the bowler
 
 
 Balls faced: 14
 Bowler: Ashwin
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kuldeep is spelled after his five-for, R Ashwin back into the attack"}]Kuldeep is spelled after his five-for, R Ashwin back into the attack
+Kuldeep is spelled after his five-for, R Ashwin back into the attack
 
-[{"type": "HTML", "html": "round the wicket, 92kph on off stump and defended"}]round the wicket, 92kph on off stump and defended
-[{"type": "HTML", "html": "\"The bowling has been outstanding, yes, but how awful have those reviews been? Both looked plumber than Mario!\" They were both optimistic at best, Adi"}]"The bowling has been outstanding, yes, but how awful have those reviews been? Both looked plumber than Mario!" They were both optimistic at best, Adi
+round the wicket, 92kph on off stump and defended
+"The bowling has been outstanding, yes, but how awful have those reviews been? Both looked plumber than Mario!" They were both optimistic at best, Adi
 
 Balls faced: 15
 Bowler: Ashwin
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>goes for the slog-sweep... but holes out!</b> Hartley won't be hitting Ashwin for six No. 5 in the series, although he's not all that far off. Well taken just in from the rope by the debutant Padikkal. Ashwin has the first wicket of his 100th Test"}]<b>goes for the slog-sweep... but holes out!</b> Hartley won't be hitting Ashwin for six No. 5 in the series, although he's not all that far off. Well taken just in from the rope by the debutant Padikkal. Ashwin has the first wicket of his 100th Test
+Hartley is OUT! caught
+c Padikkal b Ashwin
+Tom Hartley c Padikkal b Ashwin 6 (9b 1x4 0x6 12m) SR: 66.66
+<b>goes for the slog-sweep... but holes out!</b> Hartley won't be hitting Ashwin for six No. 5 in the series, although he's not all that far off. Well taken just in from the rope by the debutant Padikkal. Ashwin has the first wicket of his 100th Test
 
 
 Balls faced: 16
 Bowler: Ashwin
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up and tapped to backward point"}]tossed up and tapped to backward point
+tossed up and tapped to backward point

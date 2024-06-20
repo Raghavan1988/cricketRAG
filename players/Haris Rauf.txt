@@ -2,41 +2,45 @@ Match: all_games_1385666_1385688.json
 Balls faced: 1
 Bowler: Jordan
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another slowie, another batter swinging too early... .but the length is such that Rauf ends up clothing his cut into point"}]Another slowie, another batter swinging too early... .but the length is such that Rauf ends up clothing his cut into point
+Another slowie, another batter swinging too early... .but the length is such that Rauf ends up clothing his cut into point
 
 
 Balls faced: 2
 Bowler: Jordan
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Over-pitched yorker, met with the full face of the bat down the ground... and Archer does brilliantly to save, running to his left from a wide long on put in a tumbling effort that saves two"}]Over-pitched yorker, met with the full face of the bat down the ground... and Archer does brilliantly to save, running to his left from a wide long on put in a tumbling effort that saves two
+Over-pitched yorker, met with the full face of the bat down the ground... and Archer does brilliantly to save, running to his left from a wide long on put in a tumbling effort that saves two
 
 
 Balls faced: 3
 Bowler: Jordan
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Another slowie, another batter swinging too early... .but the length is such that Rauf ends up clothing his cut into point"}]Another slowie, another batter swinging too early... .but the length is such that Rauf ends up clothing his cut into point
+Another slowie, another batter swinging too early... .but the length is such that Rauf ends up clothing his cut into point
 
 
 Balls faced: 4
 Bowler: Jordan
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Over-pitched yorker, met with the full face of the bat down the ground... and Archer does brilliantly to save, running to his left from a wide long on put in a tumbling effort that saves two"}]Over-pitched yorker, met with the full face of the bat down the ground... and Archer does brilliantly to save, running to his left from a wide long on put in a tumbling effort that saves two
+Over-pitched yorker, met with the full face of the bat down the ground... and Archer does brilliantly to save, running to his left from a wide long on put in a tumbling effort that saves two
 
 
 
@@ -44,141 +48,159 @@ Match: all_games_1385666_1385690.json
 Balls faced: 1
 Bowler: Wood
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball, lumped hard into the covers, making room on the back foot. Jordan swoops at mid-off to cut off the runs, but the 150 is up"}]length ball, lumped hard into the covers, making room on the back foot. Jordan swoops at mid-off to cut off the runs, but the 150 is up
-[{"type": "HTML", "html": "Lovely evening's work from Wood. Serious pace, good control, and a brace of wickets. His first outing of the season is a good one"}]Lovely evening's work from Wood. Serious pace, good control, and a brace of wickets. His first outing of the season is a good one
+length ball, lumped hard into the covers, making room on the back foot. Jordan swoops at mid-off to cut off the runs, but the 150 is up
+Lovely evening's work from Wood. Serious pace, good control, and a brace of wickets. His first outing of the season is a good one
 
 Balls faced: 2
 Bowler: Wood
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired in on the full, well dug out"}]fired in on the full, well dug out
+fired in on the full, well dug out
 
 
 Balls faced: 3
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
-
-[{"type": "HTML", "html": "wide line, hacked up in the air, <B>deep third can't get there, but his shy can!</B> In comes the throw from Livingstone as they turn back for two. Miles short, and Pakistan's innings ends with a ball to spare"}]wide line, hacked up in the air, <B>deep third can't get there, but his shy can!</B> In comes the throw from Livingstone as they turn back for two. Miles short, and Pakistan's innings ends with a ball to spare
-[{"type": "HTML", "html": "<B>8.21pm</B> A satisfactory evening for England in the field. Excellent spells from Archer and Wood, and wickets all across the board, including two for Rashid, and two for Liam Livingstone. Here he is:"}, {"type": "HTML", "html": "\"Really enjoyed bowling with Mo and Rash, bowling off and legspin, work with them away from the games and use them in the matches. We bowled really well. The quick boys were quick and the spinners got something out of the surface. Hopefully we chase them down. I love coming back to England because Motty and Jos rate my bowling. I enjoy it and work hard at it. Hope to contribute in all three facets of the game, and go to the World Cup and try to win it.\""}, {"type": "HTML", "html": "Plenty to ponder for Pakistan meanwhile. It looked solid enough while Babar and Rizwan were accelerating through the powerplay, but their departures in consecutive overs exposed a middle-order that has plenty of questions hanging over it, with days to go until the main event."}, {"type": "HTML", "html": "Alan will be here for the chase shortly."}]<B>8.21pm</B> A satisfactory evening for England in the field. Excellent spells from Archer and Wood, and wickets all across the board, including two for Rashid, and two for Liam Livingstone. Here he is: "Really enjoyed bowling with Mo and Rash, bowling off and legspin, work with them away from the games and use them in the matches. We bowled really well. The quick boys were quick and the spinners got something out of the surface. Hopefully we chase them down. I love coming back to England because Motty and Jos rate my bowling. I enjoy it and work hard at it. Hope to contribute in all three facets of the game, and go to the World Cup and try to win it." Plenty to ponder for Pakistan meanwhile. It looked solid enough while Babar and Rizwan were accelerating through the powerplay, but their departures in consecutive overs exposed a middle-order that has plenty of questions hanging over it, with days to go until the main event. Alan will be here for the chase shortly.
+Haris Rauf is OUT! run out
+run out (Livingstone/†Buttler)
+Haris Rauf run out (Livingstone/†Buttler) 8 (7b 1x4 0x6 5m) SR: 114.28
+wide line, hacked up in the air, <B>deep third can't get there, but his shy can!</B> In comes the throw from Livingstone as they turn back for two. Miles short, and Pakistan's innings ends with a ball to spare
+<B>8.21pm</B> A satisfactory evening for England in the field. Excellent spells from Archer and Wood, and wickets all across the board, including two for Rashid, and two for Liam Livingstone. Here he is: "Really enjoyed bowling with Mo and Rash, bowling off and legspin, work with them away from the games and use them in the matches. We bowled really well. The quick boys were quick and the spinners got something out of the surface. Hopefully we chase them down. I love coming back to England because Motty and Jos rate my bowling. I enjoy it and work hard at it. Hope to contribute in all three facets of the game, and go to the World Cup and try to win it." Plenty to ponder for Pakistan meanwhile. It looked solid enough while Babar and Rizwan were accelerating through the powerplay, but their departures in consecutive overs exposed a middle-order that has plenty of questions hanging over it, with days to go until the main event. Alan will be here for the chase shortly.
 
 Balls faced: 4
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short, sharp, through to the keeper"}]short, sharp, through to the keeper
+short, sharp, through to the keeper
 
 
 Balls faced: 5
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>panned through long-on!</B> That's an excellent bit of tail-end lumping. Stayed deep in the crease, made room to leg, swung lustily through the line"}]<B>panned through long-on!</B> That's an excellent bit of tail-end lumping. Stayed deep in the crease, made room to leg, swung lustily through the line
+<B>panned through long-on!</B> That's an excellent bit of tail-end lumping. Stayed deep in the crease, made room to leg, swung lustily through the line
 
 
 Balls faced: 6
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "pace off, Rauf is through his slap too soon, and toe-ends into space at deep backward square"}]pace off, Rauf is through his slap too soon, and toe-ends into space at deep backward square
-[{"type": "HTML", "html": "Harris: \"From 59/1 to 149/9 Pakistan cricket at its best. One minute up next minute down, next minute also down and they're staying down...\""}]Harris: "From 59/1 to 149/9 Pakistan cricket at its best. One minute up next minute down, next minute also down and they're staying down..."
+pace off, Rauf is through his slap too soon, and toe-ends into space at deep backward square
+Harris: "From 59/1 to 149/9 Pakistan cricket at its best. One minute up next minute down, next minute also down and they're staying down..."
 
 Balls faced: 7
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "has a hack through the length outside off, can't connect"}]has a hack through the length outside off, can't connect
+has a hack through the length outside off, can't connect
 
 
 Balls faced: 8
 Bowler: Wood
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball, lumped hard into the covers, making room on the back foot. Jordan swoops at mid-off to cut off the runs, but the 150 is up"}]length ball, lumped hard into the covers, making room on the back foot. Jordan swoops at mid-off to cut off the runs, but the 150 is up
-[{"type": "HTML", "html": "Lovely evening's work from Wood. Serious pace, good control, and a brace of wickets. His first outing of the season is a good one"}]Lovely evening's work from Wood. Serious pace, good control, and a brace of wickets. His first outing of the season is a good one
+length ball, lumped hard into the covers, making room on the back foot. Jordan swoops at mid-off to cut off the runs, but the 150 is up
+Lovely evening's work from Wood. Serious pace, good control, and a brace of wickets. His first outing of the season is a good one
 
 Balls faced: 9
 Bowler: Wood
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired in on the full, well dug out"}]fired in on the full, well dug out
+fired in on the full, well dug out
 
 
 Balls faced: 10
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
-
-[{"type": "HTML", "html": "wide line, hacked up in the air, <B>deep third can't get there, but his shy can!</B> In comes the throw from Livingstone as they turn back for two. Miles short, and Pakistan's innings ends with a ball to spare"}]wide line, hacked up in the air, <B>deep third can't get there, but his shy can!</B> In comes the throw from Livingstone as they turn back for two. Miles short, and Pakistan's innings ends with a ball to spare
-[{"type": "HTML", "html": "<B>8.21pm</B> A satisfactory evening for England in the field. Excellent spells from Archer and Wood, and wickets all across the board, including two for Rashid, and two for Liam Livingstone. Here he is:"}, {"type": "HTML", "html": "\"Really enjoyed bowling with Mo and Rash, bowling off and legspin, work with them away from the games and use them in the matches. We bowled really well. The quick boys were quick and the spinners got something out of the surface. Hopefully we chase them down. I love coming back to England because Motty and Jos rate my bowling. I enjoy it and work hard at it. Hope to contribute in all three facets of the game, and go to the World Cup and try to win it.\""}, {"type": "HTML", "html": "Plenty to ponder for Pakistan meanwhile. It looked solid enough while Babar and Rizwan were accelerating through the powerplay, but their departures in consecutive overs exposed a middle-order that has plenty of questions hanging over it, with days to go until the main event."}, {"type": "HTML", "html": "Alan will be here for the chase shortly."}]<B>8.21pm</B> A satisfactory evening for England in the field. Excellent spells from Archer and Wood, and wickets all across the board, including two for Rashid, and two for Liam Livingstone. Here he is: "Really enjoyed bowling with Mo and Rash, bowling off and legspin, work with them away from the games and use them in the matches. We bowled really well. The quick boys were quick and the spinners got something out of the surface. Hopefully we chase them down. I love coming back to England because Motty and Jos rate my bowling. I enjoy it and work hard at it. Hope to contribute in all three facets of the game, and go to the World Cup and try to win it." Plenty to ponder for Pakistan meanwhile. It looked solid enough while Babar and Rizwan were accelerating through the powerplay, but their departures in consecutive overs exposed a middle-order that has plenty of questions hanging over it, with days to go until the main event. Alan will be here for the chase shortly.
+Haris Rauf is OUT! run out
+run out (Livingstone/†Buttler)
+Haris Rauf run out (Livingstone/†Buttler) 8 (7b 1x4 0x6 5m) SR: 114.28
+wide line, hacked up in the air, <B>deep third can't get there, but his shy can!</B> In comes the throw from Livingstone as they turn back for two. Miles short, and Pakistan's innings ends with a ball to spare
+<B>8.21pm</B> A satisfactory evening for England in the field. Excellent spells from Archer and Wood, and wickets all across the board, including two for Rashid, and two for Liam Livingstone. Here he is: "Really enjoyed bowling with Mo and Rash, bowling off and legspin, work with them away from the games and use them in the matches. We bowled really well. The quick boys were quick and the spinners got something out of the surface. Hopefully we chase them down. I love coming back to England because Motty and Jos rate my bowling. I enjoy it and work hard at it. Hope to contribute in all three facets of the game, and go to the World Cup and try to win it." Plenty to ponder for Pakistan meanwhile. It looked solid enough while Babar and Rizwan were accelerating through the powerplay, but their departures in consecutive overs exposed a middle-order that has plenty of questions hanging over it, with days to go until the main event. Alan will be here for the chase shortly.
 
 Balls faced: 11
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short, sharp, through to the keeper"}]short, sharp, through to the keeper
+short, sharp, through to the keeper
 
 
 Balls faced: 12
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>panned through long-on!</B> That's an excellent bit of tail-end lumping. Stayed deep in the crease, made room to leg, swung lustily through the line"}]<B>panned through long-on!</B> That's an excellent bit of tail-end lumping. Stayed deep in the crease, made room to leg, swung lustily through the line
+<B>panned through long-on!</B> That's an excellent bit of tail-end lumping. Stayed deep in the crease, made room to leg, swung lustily through the line
 
 
 Balls faced: 13
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "pace off, Rauf is through his slap too soon, and toe-ends into space at deep backward square"}]pace off, Rauf is through his slap too soon, and toe-ends into space at deep backward square
-[{"type": "HTML", "html": "Harris: \"From 59/1 to 149/9 Pakistan cricket at its best. One minute up next minute down, next minute also down and they're staying down...\""}]Harris: "From 59/1 to 149/9 Pakistan cricket at its best. One minute up next minute down, next minute also down and they're staying down..."
+pace off, Rauf is through his slap too soon, and toe-ends into space at deep backward square
+Harris: "From 59/1 to 149/9 Pakistan cricket at its best. One minute up next minute down, next minute also down and they're staying down..."
 
 Balls faced: 14
 Bowler: Archer
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "has a hack through the length outside off, can't connect"}]has a hack through the length outside off, can't connect
+has a hack through the length outside off, can't connect
 
 
 
@@ -186,61 +208,67 @@ Match: all_games_1388184_1388217.json
 Balls faced: 1
 Bowler: Milne
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller on the pads, clipped away off his toes to deep square, plays it with the late inswing, calmly played, stunning spell from Milne"}]Fuller on the pads, clipped away off his toes to deep square, plays it with the late inswing, calmly played, stunning spell from Milne
+Fuller on the pads, clipped away off his toes to deep square, plays it with the late inswing, calmly played, stunning spell from Milne
 
 
 Balls faced: 2
 Bowler: Southee
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short ball angled into leg stump, helps it on its way to deep fine and they walk for a run"}]Short ball angled into leg stump, helps it on its way to deep fine and they walk for a run
-[{"type": "HTML", "html": "Fahad Abbasi: \"No offense but at times it feels like Pakistan players are following steps of Windies Team, where everyone wants to do the heroics and none interested in playing sensible cricket as team support. \""}, {"type": "HTML", "html": "Tamal: \"Did DJ just play 'you can't see me' in response to Sodhi's jesture to the catch! LOL\""}, {"type": "HTML", "html": "Rahoul RP: \"Ohh Abbas .. you proved me wrong.. my prediction was NZ will win by 25 runs\""}]Fahad Abbasi: "No offense but at times it feels like Pakistan players are following steps of Windies Team, where everyone wants to do the heroics and none interested in playing sensible cricket as team support. " Tamal: "Did DJ just play 'you can't see me' in response to Sodhi's jesture to the catch! LOL" Rahoul RP: "Ohh Abbas .. you proved me wrong.. my prediction was NZ will win by 25 runs"
+Short ball angled into leg stump, helps it on its way to deep fine and they walk for a run
+Fahad Abbasi: "No offense but at times it feels like Pakistan players are following steps of Windies Team, where everyone wants to do the heroics and none interested in playing sensible cricket as team support. " Tamal: "Did DJ just play 'you can't see me' in response to Sodhi's jesture to the catch! LOL" Rahoul RP: "Ohh Abbas .. you proved me wrong.. my prediction was NZ will win by 25 runs"
 
 Balls faced: 3
 Bowler: Southee
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, swerving away outside off, tries to smack it across the line and not sure if he edged it. Well, the ball just kissed the outside edge and the third umpire is taking a look if Conway's fingers were under the ball, checking from different camera angles, there is doubt and looks like ball hit the ground before going in the gloves, Conway didn't like the decision"}]Short of a length, swerving away outside off, tries to smack it across the line and not sure if he edged it. Well, the ball just kissed the outside edge and the third umpire is taking a look if Conway's fingers were under the ball, checking from different camera angles, there is doubt and looks like ball hit the ground before going in the gloves, Conway didn't like the decision
+Short of a length, swerving away outside off, tries to smack it across the line and not sure if he edged it. Well, the ball just kissed the outside edge and the third umpire is taking a look if Conway's fingers were under the ball, checking from different camera angles, there is doubt and looks like ball hit the ground before going in the gloves, Conway didn't like the decision
 
 
 Balls faced: 4
 Bowler: Milne
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Fuller on the pads, clipped away off his toes to deep square, plays it with the late inswing, calmly played, stunning spell from Milne"}]Fuller on the pads, clipped away off his toes to deep square, plays it with the late inswing, calmly played, stunning spell from Milne
+Fuller on the pads, clipped away off his toes to deep square, plays it with the late inswing, calmly played, stunning spell from Milne
 
 
 Balls faced: 5
 Bowler: Southee
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Short ball angled into leg stump, helps it on its way to deep fine and they walk for a run"}]Short ball angled into leg stump, helps it on its way to deep fine and they walk for a run
-[{"type": "HTML", "html": "Fahad Abbasi: \"No offense but at times it feels like Pakistan players are following steps of Windies Team, where everyone wants to do the heroics and none interested in playing sensible cricket as team support. \""}, {"type": "HTML", "html": "Tamal: \"Did DJ just play 'you can't see me' in response to Sodhi's jesture to the catch! LOL\""}, {"type": "HTML", "html": "Rahoul RP: \"Ohh Abbas .. you proved me wrong.. my prediction was NZ will win by 25 runs\""}]Fahad Abbasi: "No offense but at times it feels like Pakistan players are following steps of Windies Team, where everyone wants to do the heroics and none interested in playing sensible cricket as team support. " Tamal: "Did DJ just play 'you can't see me' in response to Sodhi's jesture to the catch! LOL" Rahoul RP: "Ohh Abbas .. you proved me wrong.. my prediction was NZ will win by 25 runs"
+Short ball angled into leg stump, helps it on its way to deep fine and they walk for a run
+Fahad Abbasi: "No offense but at times it feels like Pakistan players are following steps of Windies Team, where everyone wants to do the heroics and none interested in playing sensible cricket as team support. " Tamal: "Did DJ just play 'you can't see me' in response to Sodhi's jesture to the catch! LOL" Rahoul RP: "Ohh Abbas .. you proved me wrong.. my prediction was NZ will win by 25 runs"
 
 Balls faced: 6
 Bowler: Southee
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short of a length, swerving away outside off, tries to smack it across the line and not sure if he edged it. Well, the ball just kissed the outside edge and the third umpire is taking a look if Conway's fingers were under the ball, checking from different camera angles, there is doubt and looks like ball hit the ground before going in the gloves, Conway didn't like the decision"}]Short of a length, swerving away outside off, tries to smack it across the line and not sure if he edged it. Well, the ball just kissed the outside edge and the third umpire is taking a look if Conway's fingers were under the ball, checking from different camera angles, there is doubt and looks like ball hit the ground before going in the gloves, Conway didn't like the decision
+Short of a length, swerving away outside off, tries to smack it across the line and not sure if he edged it. Well, the ball just kissed the outside edge and the third umpire is taking a look if Conway's fingers were under the ball, checking from different camera angles, there is doubt and looks like ball hit the ground before going in the gloves, Conway didn't like the decision
 
 
 
@@ -248,58 +276,64 @@ Match: all_games_1411166_1415711.json
 Balls faced: 1
 Bowler: Netravalkar
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another full toss, but this is pretty low. It angles across and ends outside off, and is heaved wide of long-on"}]another full toss, but this is pretty low. It angles across and ends outside off, and is heaved wide of long-on
+another full toss, but this is pretty low. It angles across and ends outside off, and is heaved wide of long-on
 
 
 Balls faced: 2
 Bowler: Netravalkar
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Rauf"}]Rauf
+Rauf
 
-[{"type": "HTML", "html": "full on off, and driven towards extra cover for a quick single"}]full on off, and driven towards extra cover for a quick single
+full on off, and driven towards extra cover for a quick single
 
 
 Balls faced: 3
 Bowler: Ali Khan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish ball angling across and ending outside off. Hoicked to long-on on the bounce"}]fullish ball angling across and ending outside off. Hoicked to long-on on the bounce
+fullish ball angling across and ending outside off. Hoicked to long-on on the bounce
 
 
 Balls faced: 4
 Bowler: Netravalkar
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "another full toss, but this is pretty low. It angles across and ends outside off, and is heaved wide of long-on"}]another full toss, but this is pretty low. It angles across and ends outside off, and is heaved wide of long-on
+another full toss, but this is pretty low. It angles across and ends outside off, and is heaved wide of long-on
 
 
 Balls faced: 5
 Bowler: Netravalkar
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Rauf"}]Rauf
+Rauf
 
-[{"type": "HTML", "html": "full on off, and driven towards extra cover for a quick single"}]full on off, and driven towards extra cover for a quick single
+full on off, and driven towards extra cover for a quick single
 
 
 Balls faced: 6
 Bowler: Ali Khan
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish ball angling across and ending outside off. Hoicked to long-on on the bounce"}]fullish ball angling across and ending outside off. Hoicked to long-on on the bounce
+fullish ball angling across and ending outside off. Hoicked to long-on on the bounce

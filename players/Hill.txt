@@ -2,6 +2,7 @@ Match: all_games_1410505_1410547.json
 Balls faced: 1
 Bowler: Dean
 Over: 9
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Dean
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Dean
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Taylor
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -42,6 +46,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Taylor
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -52,6 +57,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Taylor
 Over: 10
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Dean
 Over: 9
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Dean
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -82,6 +90,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Dean
 Over: 9
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Knott
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -102,6 +112,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Knott
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Taylor
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -122,6 +134,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Taylor
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -132,6 +145,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Taylor
 Over: 10
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -142,16 +156,20 @@ Run scored: 0
 Balls faced: 15
 Bowler: Adams
 Over: 12
+ 
 Shot: REVERSE_SWEEP
 Run scored: 0
 
-
+Hill is OUT! lbw
+lbw b Adams
+Chloe Hill lbw b Adams 4 (9b 0x4 0x6 10m) SR: 44.44
 
 
 
 Balls faced: 16
 Bowler: Knott
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -162,6 +180,7 @@ Run scored: 1
 Balls faced: 17
 Bowler: Knott
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -172,5 +191,10 @@ Run scored: 1
 Balls faced: 18
 Bowler: Adams
 Over: 12
+ 
 Shot: REVERSE_SWEEP
 Run scored: 0
+
+Hill is OUT! lbw
+lbw b Adams
+Chloe Hill lbw b Adams 4 (9b 0x4 0x6 10m) SR: 44.44

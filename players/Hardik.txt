@@ -2,49 +2,54 @@ Match: all_games_1411166_1415719.json
 Balls faced: 1
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pandya swings like a rusty gate and misses. Naseem gets away with it, and <strong>it's a phenomenally good over</strong> - two runs and a wicket"}]Pandya swings like a rusty gate and misses. Naseem gets away with it, and <strong>it's a phenomenally good over</strong> - two runs and a wicket
+Pandya swings like a rusty gate and misses. Naseem gets away with it, and <strong>it's a phenomenally good over</strong> - two runs and a wicket
 
 
 Balls faced: 2
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drags this one down leg and the umpire calls it wide. Oh, wait, it's a no-ball! Naseem overstepped, and <b>India have a free hit</b>"}]drags this one down leg and the umpire calls it wide. Oh, wait, it's a no-ball! Naseem overstepped, and <b>India have a free hit</b>
+drags this one down leg and the umpire calls it wide. Oh, wait, it's a no-ball! Naseem overstepped, and <b>India have a free hit</b>
 
 No Balls: 1
 Balls faced: 3
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Ray Vermont: \"Has the pitch changed or is it poor shot selection from the batsmen. Pakistan have completely turned it around. \" To be fair I think Pakistan were quite unlucky in the phase before the clump of wickets well"}]Ray Vermont: "Has the pitch changed or is it poor shot selection from the batsmen. Pakistan have completely turned it around. " To be fair I think Pakistan were quite unlucky in the phase before the clump of wickets well
+Ray Vermont: "Has the pitch changed or is it poor shot selection from the batsmen. Pakistan have completely turned it around. " To be fair I think Pakistan were quite unlucky in the phase before the clump of wickets well
 
-[{"type": "HTML", "html": "length ball defended back down the ground"}]length ball defended back down the ground
+length ball defended back down the ground
 
 
 Balls faced: 4
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "comes down the wicket and slaps it uppishly towards the general direction of mid-off, but it bounces before it gets there"}]comes down the wicket and slaps it uppishly towards the general direction of mid-off, but it bounces before it gets there
+comes down the wicket and slaps it uppishly towards the general direction of mid-off, but it bounces before it gets there
 
 
 Balls faced: 5
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Salman Lalwani: \"So Shadab is playing as a batsmen today?\" Looks that way. Hard to blame Pakistan for that though"}, {"type": "HTML", "html": "Adway Lele : \"I wonder if Surya and Dube are right selections for American leg of world cup. With spicey pitches, Surya is neutralized and Dube is not required to disrupt spin either. Both these players should be handy in Caribbean. \""}]Salman Lalwani: "So Shadab is playing as a batsmen today?" Looks that way. Hard to blame Pakistan for that though Adway Lele : "I wonder if Surya and Dube are right selections for American leg of world cup. With spicey pitches, Surya is neutralized and Dube is not required to disrupt spin either. Both these players should be handy in Caribbean. "
+Salman Lalwani: "So Shadab is playing as a batsmen today?" Looks that way. Hard to blame Pakistan for that though Adway Lele : "I wonder if Surya and Dube are right selections for American leg of world cup. With spicey pitches, Surya is neutralized and Dube is not required to disrupt spin either. Both these players should be handy in Caribbean. "
 
 
 
@@ -52,69 +57,76 @@ Run scored: 0
 Balls faced: 6
 Bowler: Amir
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Sudhir: \"Ridiculous performance from India here. \"Imploding\" is an understatement. All shots that has gotten wickets have either been clueless batting, lack of awareness, inability to read the pitch or just plain over-confidence and arrogance.\""}]Sudhir: "Ridiculous performance from India here. "Imploding" is an understatement. All shots that has gotten wickets have either been clueless batting, lack of awareness, inability to read the pitch or just plain over-confidence and arrogance."
+Sudhir: "Ridiculous performance from India here. "Imploding" is an understatement. All shots that has gotten wickets have either been clueless batting, lack of awareness, inability to read the pitch or just plain over-confidence and arrogance."
 
-[{"type": "HTML", "html": "lets another one go. Two wickets and one run in that over. On that note, I hand it to Karthik to finish the innings off"}]lets another one go. Two wickets and one run in that over. On that note, I hand it to Karthik to finish the innings off
+lets another one go. Two wickets and one run in that over. On that note, I hand it to Karthik to finish the innings off
 
 
 Balls faced: 7
 Bowler: Amir
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball, and Hardik lets this one go"}]slower ball, and Hardik lets this one go
+slower ball, and Hardik lets this one go
 
 
 Balls faced: 8
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Pandya swings like a rusty gate and misses. Naseem gets away with it, and <strong>it's a phenomenally good over</strong> - two runs and a wicket"}]Pandya swings like a rusty gate and misses. Naseem gets away with it, and <strong>it's a phenomenally good over</strong> - two runs and a wicket
+Pandya swings like a rusty gate and misses. Naseem gets away with it, and <strong>it's a phenomenally good over</strong> - two runs and a wicket
 
 
 Balls faced: 9
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drags this one down leg and the umpire calls it wide. Oh, wait, it's a no-ball! Naseem overstepped, and <b>India have a free hit</b>"}]drags this one down leg and the umpire calls it wide. Oh, wait, it's a no-ball! Naseem overstepped, and <b>India have a free hit</b>
+drags this one down leg and the umpire calls it wide. Oh, wait, it's a no-ball! Naseem overstepped, and <b>India have a free hit</b>
 
 No Balls: 1
 Balls faced: 10
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Ray Vermont: \"Has the pitch changed or is it poor shot selection from the batsmen. Pakistan have completely turned it around. \" To be fair I think Pakistan were quite unlucky in the phase before the clump of wickets well"}]Ray Vermont: "Has the pitch changed or is it poor shot selection from the batsmen. Pakistan have completely turned it around. " To be fair I think Pakistan were quite unlucky in the phase before the clump of wickets well
+Ray Vermont: "Has the pitch changed or is it poor shot selection from the batsmen. Pakistan have completely turned it around. " To be fair I think Pakistan were quite unlucky in the phase before the clump of wickets well
 
-[{"type": "HTML", "html": "length ball defended back down the ground"}]length ball defended back down the ground
+length ball defended back down the ground
 
 
 Balls faced: 11
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "comes down the wicket and slaps it uppishly towards the general direction of mid-off, but it bounces before it gets there"}]comes down the wicket and slaps it uppishly towards the general direction of mid-off, but it bounces before it gets there
+comes down the wicket and slaps it uppishly towards the general direction of mid-off, but it bounces before it gets there
 
 
 Balls faced: 12
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Salman Lalwani: \"So Shadab is playing as a batsmen today?\" Looks that way. Hard to blame Pakistan for that though"}, {"type": "HTML", "html": "Adway Lele : \"I wonder if Surya and Dube are right selections for American leg of world cup. With spicey pitches, Surya is neutralized and Dube is not required to disrupt spin either. Both these players should be handy in Caribbean. \""}]Salman Lalwani: "So Shadab is playing as a batsmen today?" Looks that way. Hard to blame Pakistan for that though Adway Lele : "I wonder if Surya and Dube are right selections for American leg of world cup. With spicey pitches, Surya is neutralized and Dube is not required to disrupt spin either. Both these players should be handy in Caribbean. "
+Salman Lalwani: "So Shadab is playing as a batsmen today?" Looks that way. Hard to blame Pakistan for that though Adway Lele : "I wonder if Surya and Dube are right selections for American leg of world cup. With spicey pitches, Surya is neutralized and Dube is not required to disrupt spin either. Both these players should be handy in Caribbean. "
 
 
 
@@ -122,121 +134,137 @@ Run scored: 0
 Balls faced: 13
 Bowler: Naseem Shah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish, close to off stump, steps across first and then gets forward for a push towards mid-off, who's on the edge of the circle"}]fullish, close to off stump, steps across first and then gets forward for a push towards mid-off, who's on the edge of the circle
+fullish, close to off stump, steps across first and then gets forward for a push towards mid-off, who's on the edge of the circle
 
 
 Balls faced: 14
 Bowler: Amir
 Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Sudhir: \"Ridiculous performance from India here. \"Imploding\" is an understatement. All shots that has gotten wickets have either been clueless batting, lack of awareness, inability to read the pitch or just plain over-confidence and arrogance.\""}]Sudhir: "Ridiculous performance from India here. "Imploding" is an understatement. All shots that has gotten wickets have either been clueless batting, lack of awareness, inability to read the pitch or just plain over-confidence and arrogance."
+Sudhir: "Ridiculous performance from India here. "Imploding" is an understatement. All shots that has gotten wickets have either been clueless batting, lack of awareness, inability to read the pitch or just plain over-confidence and arrogance."
 
-[{"type": "HTML", "html": "lets another one go. Two wickets and one run in that over. On that note, I hand it to Karthik to finish the innings off"}]lets another one go. Two wickets and one run in that over. On that note, I hand it to Karthik to finish the innings off
+lets another one go. Two wickets and one run in that over. On that note, I hand it to Karthik to finish the innings off
 
 
 Balls faced: 15
 Bowler: Amir
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball, and Hardik lets this one go"}]slower ball, and Hardik lets this one go
+slower ball, and Hardik lets this one go
 
 
 Balls faced: 16
 Bowler: Naseem Shah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish, close to off stump, steps across first and then gets forward for a push towards mid-off, who's on the edge of the circle"}]fullish, close to off stump, steps across first and then gets forward for a push towards mid-off, who's on the edge of the circle
+fullish, close to off stump, steps across first and then gets forward for a push towards mid-off, who's on the edge of the circle
 
 
 Balls faced: 17
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "taken, Ifti on the leg-side boundary! Length ball angling into the stumps, and Hardik shuffles across and looks for the pick-up flick. Hits it pretty well, but Iftikhar, sprinting left from long leg, intercepts it nicely"}]taken, Ifti on the leg-side boundary! Length ball angling into the stumps, and Hardik shuffles across and looks for the pick-up flick. Hits it pretty well, but Iftikhar, sprinting left from long leg, intercepts it nicely
+Hardik is OUT! caught
+c Iftikhar Ahmed b Haris Rauf
+Hardik Pandya c Iftikhar Ahmed b Haris Rauf 7 (12b 1x4 0x6 24m) SR: 58.33
+taken, Ifti on the leg-side boundary! Length ball angling into the stumps, and Hardik shuffles across and looks for the pick-up flick. Hits it pretty well, but Iftikhar, sprinting left from long leg, intercepts it nicely
 
 
 Balls faced: 18
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "another thick edge, and this time Shadab is back at deep third, and he stops this from reaching the boundary. Similar to the previous boundary, shortish ball that Hardik makes room against and flashes at. Not quite as short as the previous one, and a terrific bit of work from Shadab, throws himself full-length to his left"}]another thick edge, and this time Shadab is back at deep third, and he stops this from reaching the boundary. Similar to the previous boundary, shortish ball that Hardik makes room against and flashes at. Not quite as short as the previous one, and a terrific bit of work from Shadab, throws himself full-length to his left
+another thick edge, and this time Shadab is back at deep third, and he stops this from reaching the boundary. Similar to the previous boundary, shortish ball that Hardik makes room against and flashes at. Not quite as short as the previous one, and a terrific bit of work from Shadab, throws himself full-length to his left
 
 
 Balls faced: 19
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, nips in to hit the thigh pad as Hardik misses the tuck off his legs"}]back of a length, nips in to hit the thigh pad as Hardik misses the tuck off his legs
+back of a length, nips in to hit the thigh pad as Hardik misses the tuck off his legs
 
 
 Balls faced: 20
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Rauf."}]Rauf.
+Rauf.
 
-[{"type": "HTML", "html": "shortish, angling into the stumps, and Hardik makes room, exposes all his stumps, and rolls his wrists over a back-cut. Thick edge, flies very fine, and the diving deep third, moving to his left, can't cut it off. Naseem seems to hurt his right knee while diving there"}]shortish, angling into the stumps, and Hardik makes room, exposes all his stumps, and rolls his wrists over a back-cut. Thick edge, flies very fine, and the diving deep third, moving to his left, can't cut it off. Naseem seems to hurt his right knee while diving there
+shortish, angling into the stumps, and Hardik makes room, exposes all his stumps, and rolls his wrists over a back-cut. Thick edge, flies very fine, and the diving deep third, moving to his left, can't cut it off. Naseem seems to hurt his right knee while diving there
 
 
 Balls faced: 21
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "taken, Ifti on the leg-side boundary! Length ball angling into the stumps, and Hardik shuffles across and looks for the pick-up flick. Hits it pretty well, but Iftikhar, sprinting left from long leg, intercepts it nicely"}]taken, Ifti on the leg-side boundary! Length ball angling into the stumps, and Hardik shuffles across and looks for the pick-up flick. Hits it pretty well, but Iftikhar, sprinting left from long leg, intercepts it nicely
+Hardik is OUT! caught
+c Iftikhar Ahmed b Haris Rauf
+Hardik Pandya c Iftikhar Ahmed b Haris Rauf 7 (12b 1x4 0x6 24m) SR: 58.33
+taken, Ifti on the leg-side boundary! Length ball angling into the stumps, and Hardik shuffles across and looks for the pick-up flick. Hits it pretty well, but Iftikhar, sprinting left from long leg, intercepts it nicely
 
 
 Balls faced: 22
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "another thick edge, and this time Shadab is back at deep third, and he stops this from reaching the boundary. Similar to the previous boundary, shortish ball that Hardik makes room against and flashes at. Not quite as short as the previous one, and a terrific bit of work from Shadab, throws himself full-length to his left"}]another thick edge, and this time Shadab is back at deep third, and he stops this from reaching the boundary. Similar to the previous boundary, shortish ball that Hardik makes room against and flashes at. Not quite as short as the previous one, and a terrific bit of work from Shadab, throws himself full-length to his left
+another thick edge, and this time Shadab is back at deep third, and he stops this from reaching the boundary. Similar to the previous boundary, shortish ball that Hardik makes room against and flashes at. Not quite as short as the previous one, and a terrific bit of work from Shadab, throws himself full-length to his left
 
 
 Balls faced: 23
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length, nips in to hit the thigh pad as Hardik misses the tuck off his legs"}]back of a length, nips in to hit the thigh pad as Hardik misses the tuck off his legs
+back of a length, nips in to hit the thigh pad as Hardik misses the tuck off his legs
 
 
 Balls faced: 24
 Bowler: Haris Rauf
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
-[{"type": "HTML", "html": "Rauf."}]Rauf.
+Rauf.
 
-[{"type": "HTML", "html": "shortish, angling into the stumps, and Hardik makes room, exposes all his stumps, and rolls his wrists over a back-cut. Thick edge, flies very fine, and the diving deep third, moving to his left, can't cut it off. Naseem seems to hurt his right knee while diving there"}]shortish, angling into the stumps, and Hardik makes room, exposes all his stumps, and rolls his wrists over a back-cut. Thick edge, flies very fine, and the diving deep third, moving to his left, can't cut it off. Naseem seems to hurt his right knee while diving there
+shortish, angling into the stumps, and Hardik makes room, exposes all his stumps, and rolls his wrists over a back-cut. Thick edge, flies very fine, and the diving deep third, moving to his left, can't cut it off. Naseem seems to hurt his right knee while diving there
 
 
 
@@ -244,478 +272,526 @@ Match: all_games_1434088_1434105.json
 Balls faced: 1
 Bowler: Mahedi Hasan
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length just outside off. Pandya opens his bat face and dabs it towards backward point"}]length just outside off. Pandya opens his bat face and dabs it towards backward point
+length just outside off. Pandya opens his bat face and dabs it towards backward point
 
 
 Balls faced: 2
 Bowler: Mahedi Hasan
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
-[{"type": "HTML", "html": "Pandya joins SKY"}]Pandya joins SKY
+Pandya joins SKY
 
-[{"type": "HTML", "html": "length on middle and leg. Pandya comes forward and plays the textbook forward defence"}]length on middle and leg. Pandya comes forward and plays the textbook forward defence
+length on middle and leg. Pandya comes forward and plays the textbook forward defence
 
 
 Balls faced: 3
 Bowler: Shakib
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on off. Pandya stands tall on the front foot and punches it to long off"}]length on off. Pandya stands tall on the front foot and punches it to long off
+length on off. Pandya stands tall on the front foot and punches it to long off
 
 
 Balls faced: 4
 Bowler: Shakib
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in on a back of a length on middle and leg. Pandya is tucked up for room and jabs it towards backward point"}]angled in on a back of a length on middle and leg. Pandya is tucked up for room and jabs it towards backward point
+angled in on a back of a length on middle and leg. Pandya is tucked up for room and jabs it towards backward point
 
 
 Balls faced: 5
 Bowler: Shakib
 Over: 16
+ 
 Shot: No Shot
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>shot!</strong> Tossed up on a length on middle and off. Pandya marches down the track, stays leg side to create room and cracks it past extra cover!"}]<strong>shot!</strong> Tossed up on a length on middle and off. Pandya marches down the track, stays leg side to create room and cracks it past extra cover!
+<strong>shot!</strong> Tossed up on a length on middle and off. Pandya marches down the track, stays leg side to create room and cracks it past extra cover!
 
 
 Balls faced: 6
 Bowler: Shakib
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on middle and off. Pandya steps down the track and blocks"}]length on middle and off. Pandya steps down the track and blocks
+length on middle and off. Pandya steps down the track and blocks
 
 
 Balls faced: 7
 Bowler: Mahedi Hasan
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length just outside off. Pandya opens his bat face and dabs it towards backward point"}]length just outside off. Pandya opens his bat face and dabs it towards backward point
+length just outside off. Pandya opens his bat face and dabs it towards backward point
 
 
 Balls faced: 8
 Bowler: Mahedi Hasan
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
-[{"type": "HTML", "html": "Pandya joins SKY"}]Pandya joins SKY
+Pandya joins SKY
 
-[{"type": "HTML", "html": "length on middle and leg. Pandya comes forward and plays the textbook forward defence"}]length on middle and leg. Pandya comes forward and plays the textbook forward defence
+length on middle and leg. Pandya comes forward and plays the textbook forward defence
 
 
 Balls faced: 9
 Bowler: Tanvir Islam
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on middle and leg. Pandya knocks it down the ground to long off"}]length on middle and leg. Pandya knocks it down the ground to long off
+length on middle and leg. Pandya knocks it down the ground to long off
 
 
 Balls faced: 10
 Bowler: Tanvir Islam
 Over: 17
+ 
 Shot: No Shot
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>this is the best of the lot!</strong> Angled in on a length on leg stump. Pandya opens up his front hip and clatters it way over the deep mid wicket fence!"}]<strong>this is the best of the lot!</strong> Angled in on a length on leg stump. Pandya opens up his front hip and clatters it way over the deep mid wicket fence!
+<strong>this is the best of the lot!</strong> Angled in on a length on leg stump. Pandya opens up his front hip and clatters it way over the deep mid wicket fence!
 
 
 Balls faced: 11
 Bowler: Tanvir Islam
 Over: 17
+ 
 Shot: No Shot
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>back to back sixes!</strong> Given some more air outside off and Pandya is not holding back now. Slices this one a shade but has enough behind it to clear long off!"}]<strong>back to back sixes!</strong> Given some more air outside off and Pandya is not holding back now. Slices this one a shade but has enough behind it to clear long off!
+<strong>back to back sixes!</strong> Given some more air outside off and Pandya is not holding back now. Slices this one a shade but has enough behind it to clear long off!
 
 
 Balls faced: 12
 Bowler: Tanvir Islam
 Over: 17
+ 
 Shot: No Shot
 Run scored: 6
-[{"type": "HTML", "html": "Tanvir to bowl the 17th"}, {"type": "HTML", "html": "With less than two months to go to the 2024 Paris Olympics, what are India's <a href=\"https://www.espn.in/olympics/story/_/id/40228100/60-days-2024-paris-olympics-tracking-india-top-10-medal-hopes\" target=\"_blank\">10 best medal prospects</a> up to?"}]Tanvir to bowl the 17th With less than two months to go to the 2024 Paris Olympics, what are India's <a href="https://www.espn.in/olympics/story/_/id/40228100/60-days-2024-paris-olympics-tracking-india-top-10-medal-hopes" target="_blank">10 best medal prospects</a> up to?
+Tanvir to bowl the 17th With less than two months to go to the 2024 Paris Olympics, what are India's <a href="https://www.espn.in/olympics/story/_/id/40228100/60-days-2024-paris-olympics-tracking-india-top-10-medal-hopes" target="_blank">10 best medal prospects</a> up to?
 
-[{"type": "HTML", "html": "<strong>clean as a whistle!</strong> Floated up into the slot on middle and leg. Pandya plants his front foot and wallops it clean over long on!"}]<strong>clean as a whistle!</strong> Floated up into the slot on middle and leg. Pandya plants his front foot and wallops it clean over long on!
+<strong>clean as a whistle!</strong> Floated up into the slot on middle and leg. Pandya plants his front foot and wallops it clean over long on!
 
 
 Balls faced: 13
 Bowler: Shakib
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on off. Pandya stands tall on the front foot and punches it to long off"}]length on off. Pandya stands tall on the front foot and punches it to long off
+length on off. Pandya stands tall on the front foot and punches it to long off
 
 
 Balls faced: 14
 Bowler: Shakib
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in on a back of a length on middle and leg. Pandya is tucked up for room and jabs it towards backward point"}]angled in on a back of a length on middle and leg. Pandya is tucked up for room and jabs it towards backward point
+angled in on a back of a length on middle and leg. Pandya is tucked up for room and jabs it towards backward point
 
 
 Balls faced: 15
 Bowler: Shakib
 Over: 16
+ 
 Shot: No Shot
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>shot!</strong> Tossed up on a length on middle and off. Pandya marches down the track, stays leg side to create room and cracks it past extra cover!"}]<strong>shot!</strong> Tossed up on a length on middle and off. Pandya marches down the track, stays leg side to create room and cracks it past extra cover!
+<strong>shot!</strong> Tossed up on a length on middle and off. Pandya marches down the track, stays leg side to create room and cracks it past extra cover!
 
 
 Balls faced: 16
 Bowler: Shakib
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length on middle and off. Pandya steps down the track and blocks"}]length on middle and off. Pandya steps down the track and blocks
+length on middle and off. Pandya steps down the track and blocks
 
 
 Balls faced: 17
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>falls safely!</strong> Off-pace and into the track on leg stump. Grips in the surface and sticks. Pandya is too early into his swing and the ball goes straight up. Fortunately for him, short fine leg cannot get around"}]<strong>falls safely!</strong> Off-pace and into the track on leg stump. Grips in the surface and sticks. Pandya is too early into his swing and the ball goes straight up. Fortunately for him, short fine leg cannot get around
+<strong>falls safely!</strong> Off-pace and into the track on leg stump. Grips in the surface and sticks. Pandya is too early into his swing and the ball goes straight up. Fortunately for him, short fine leg cannot get around
 
 
 Balls faced: 18
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track outside off. Pandya looks for the upper-cut again but fails to get bat on it. Called a wide, though"}]banged into the track outside off. Pandya looks for the upper-cut again but fails to get bat on it. Called a wide, though
+banged into the track outside off. Pandya looks for the upper-cut again but fails to get bat on it. Called a wide, though
 
 Wide: 1
 Balls faced: 19
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another top yorker outside off. Pandya chalks it off the toe-end and wrings his right hand almost immediately"}]another top yorker outside off. Pandya chalks it off the toe-end and wrings his right hand almost immediately
+another top yorker outside off. Pandya chalks it off the toe-end and wrings his right hand almost immediately
 
 
 Balls faced: 20
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Pandya skips down the track and slaps it towards deep cover point"}]back of a length outside off. Pandya skips down the track and slaps it towards deep cover point
+back of a length outside off. Pandya skips down the track and slaps it towards deep cover point
 
 
 Balls faced: 21
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide outside off. Fizzes off the surface and Pandya, slashing hard at it, is beaten for pace"}]short and wide outside off. Fizzes off the surface and Pandya, slashing hard at it, is beaten for pace
+short and wide outside off. Fizzes off the surface and Pandya, slashing hard at it, is beaten for pace
 
 
 Balls faced: 22
 Bowler: Tanvir Islam
 Over: 17
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on middle and leg. Pandya knocks it down the ground to long off"}]length on middle and leg. Pandya knocks it down the ground to long off
+length on middle and leg. Pandya knocks it down the ground to long off
 
 
 Balls faced: 23
 Bowler: Tanvir Islam
 Over: 17
+ 
 Shot: No Shot
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>this is the best of the lot!</strong> Angled in on a length on leg stump. Pandya opens up his front hip and clatters it way over the deep mid wicket fence!"}]<strong>this is the best of the lot!</strong> Angled in on a length on leg stump. Pandya opens up his front hip and clatters it way over the deep mid wicket fence!
+<strong>this is the best of the lot!</strong> Angled in on a length on leg stump. Pandya opens up his front hip and clatters it way over the deep mid wicket fence!
 
 
 Balls faced: 24
 Bowler: Tanvir Islam
 Over: 17
+ 
 Shot: No Shot
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>back to back sixes!</strong> Given some more air outside off and Pandya is not holding back now. Slices this one a shade but has enough behind it to clear long off!"}]<strong>back to back sixes!</strong> Given some more air outside off and Pandya is not holding back now. Slices this one a shade but has enough behind it to clear long off!
+<strong>back to back sixes!</strong> Given some more air outside off and Pandya is not holding back now. Slices this one a shade but has enough behind it to clear long off!
 
 
 Balls faced: 25
 Bowler: Tanvir Islam
 Over: 17
+ 
 Shot: No Shot
 Run scored: 6
-[{"type": "HTML", "html": "Tanvir to bowl the 17th"}, {"type": "HTML", "html": "With less than two months to go to the 2024 Paris Olympics, what are India's <a href=\"https://www.espn.in/olympics/story/_/id/40228100/60-days-2024-paris-olympics-tracking-india-top-10-medal-hopes\" target=\"_blank\">10 best medal prospects</a> up to?"}]Tanvir to bowl the 17th With less than two months to go to the 2024 Paris Olympics, what are India's <a href="https://www.espn.in/olympics/story/_/id/40228100/60-days-2024-paris-olympics-tracking-india-top-10-medal-hopes" target="_blank">10 best medal prospects</a> up to?
+Tanvir to bowl the 17th With less than two months to go to the 2024 Paris Olympics, what are India's <a href="https://www.espn.in/olympics/story/_/id/40228100/60-days-2024-paris-olympics-tracking-india-top-10-medal-hopes" target="_blank">10 best medal prospects</a> up to?
 
-[{"type": "HTML", "html": "<strong>clean as a whistle!</strong> Floated up into the slot on middle and leg. Pandya plants his front foot and wallops it clean over long on!"}]<strong>clean as a whistle!</strong> Floated up into the slot on middle and leg. Pandya plants his front foot and wallops it clean over long on!
+<strong>clean as a whistle!</strong> Floated up into the slot on middle and leg. Pandya plants his front foot and wallops it clean over long on!
 
 
 Balls faced: 26
 Bowler: Rishad Hossain
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on middle and leg. Pandya makes room for himself and cuts it towards backward point. Retains strike"}]back of a length on middle and leg. Pandya makes room for himself and cuts it towards backward point. Retains strike
+back of a length on middle and leg. Pandya makes room for himself and cuts it towards backward point. Retains strike
 
 
 Balls faced: 27
 Bowler: Rishad Hossain
 Over: 19
+ 
 Shot: No Shot
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>that is a shot and a half!</strong> Marginally short outside off and that is all Pandya needs. Uses the depth of the crease, gets his hands through the ball and creams it over the wide long off fence!"}]<strong>that is a shot and a half!</strong> Marginally short outside off and that is all Pandya needs. Uses the depth of the crease, gets his hands through the ball and creams it over the wide long off fence!
+<strong>that is a shot and a half!</strong> Marginally short outside off and that is all Pandya needs. Uses the depth of the crease, gets his hands through the ball and creams it over the wide long off fence!
 
 
 Balls faced: 28
 Bowler: Rishad Hossain
 Over: 19
+ 
 Shot: No Shot
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<strong>goes straight up, and it goes down. More sloppy fielding!</strong> Fizzed through on a length on leg stump. Pandya has a wild swipe across the line and miscues it terribly. Deep mid wicket comes running in and makes a mess of it"}]<strong>goes straight up, and it goes down. More sloppy fielding!</strong> Fizzed through on a length on leg stump. Pandya has a wild swipe across the line and miscues it terribly. Deep mid wicket comes running in and makes a mess of it
+<strong>goes straight up, and it goes down. More sloppy fielding!</strong> Fizzed through on a length on leg stump. Pandya has a wild swipe across the line and miscues it terribly. Deep mid wicket comes running in and makes a mess of it
 
 
 Balls faced: 29
 Bowler: Rishad Hossain
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slowed up nicely on a length just outside off. Pandya backs away and has an almighty swish at it. Connects with fresh air and we go upstairs again for a stumping. Smart work by Litton but Pandya might be safe here. This also looks very close, although Pandya seems to have more behind the line than Jadeja did. <b>The third umpire agrees with that assessment and Pandya stays!</b>"}]slowed up nicely on a length just outside off. Pandya backs away and has an almighty swish at it. Connects with fresh air and we go upstairs again for a stumping. Smart work by Litton but Pandya might be safe here. This also looks very close, although Pandya seems to have more behind the line than Jadeja did. <b>The third umpire agrees with that assessment and Pandya stays!</b>
+slowed up nicely on a length just outside off. Pandya backs away and has an almighty swish at it. Connects with fresh air and we go upstairs again for a stumping. Smart work by Litton but Pandya might be safe here. This also looks very close, although Pandya seems to have more behind the line than Jadeja did. <b>The third umpire agrees with that assessment and Pandya stays!</b>
 
 
 Balls faced: 30
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>falls safely!</strong> Off-pace and into the track on leg stump. Grips in the surface and sticks. Pandya is too early into his swing and the ball goes straight up. Fortunately for him, short fine leg cannot get around"}]<strong>falls safely!</strong> Off-pace and into the track on leg stump. Grips in the surface and sticks. Pandya is too early into his swing and the ball goes straight up. Fortunately for him, short fine leg cannot get around
+<strong>falls safely!</strong> Off-pace and into the track on leg stump. Grips in the surface and sticks. Pandya is too early into his swing and the ball goes straight up. Fortunately for him, short fine leg cannot get around
 
 
 Balls faced: 31
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track outside off. Pandya looks for the upper-cut again but fails to get bat on it. Called a wide, though"}]banged into the track outside off. Pandya looks for the upper-cut again but fails to get bat on it. Called a wide, though
+banged into the track outside off. Pandya looks for the upper-cut again but fails to get bat on it. Called a wide, though
 
 Wide: 1
 Balls faced: 32
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "another top yorker outside off. Pandya chalks it off the toe-end and wrings his right hand almost immediately"}]another top yorker outside off. Pandya chalks it off the toe-end and wrings his right hand almost immediately
+another top yorker outside off. Pandya chalks it off the toe-end and wrings his right hand almost immediately
 
 
 Balls faced: 33
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Pandya skips down the track and slaps it towards deep cover point"}]back of a length outside off. Pandya skips down the track and slaps it towards deep cover point
+back of a length outside off. Pandya skips down the track and slaps it towards deep cover point
 
 
 Balls faced: 34
 Bowler: Shoriful Islam
 Over: 18
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide outside off. Fizzes off the surface and Pandya, slashing hard at it, is beaten for pace"}]short and wide outside off. Fizzes off the surface and Pandya, slashing hard at it, is beaten for pace
+short and wide outside off. Fizzes off the surface and Pandya, slashing hard at it, is beaten for pace
 
 
 Balls faced: 35
 Bowler: Tanzim Hasan Sakib
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
-[{"type": "HTML", "html": "Shoriful is going off, and he looks in some pain. Not the sight Bangladesh fans would have wanted to see. Tanzim to bowl what should be the last ball of the innings"}]Shoriful is going off, and he looks in some pain. Not the sight Bangladesh fans would have wanted to see. Tanzim to bowl what should be the last ball of the innings
+Shoriful is going off, and he looks in some pain. Not the sight Bangladesh fans would have wanted to see. Tanzim to bowl what should be the last ball of the innings
 
-[{"type": "HTML", "html": "cutter dug into the track outside off. Pandya has a whoosh across the line but is a week early into the stroke. Gets nowhere close to it, and <strong>Bangladesh keep India down to under 185!</strong>"}]cutter dug into the track outside off. Pandya has a whoosh across the line but is a week early into the stroke. Gets nowhere close to it, and <strong>Bangladesh keep India down to under 185!</strong>
-[{"type": "HTML", "html": "<b>12:10pm</b> A stop-start innings for India. Samson and Rohit could not get going early and India's powerplay blushes were spared by Pant, who sparkled with a 32-ball 53. He then retired hurt and Dube had an excellent opportunity to show off his skills. Unfortunately for him and India, he laboured to a 16-ball 14. Pandya got stuck into the bowlers late in the innings, and his 40-run cameo has allowed India to post a total in excess of 180."}, {"type": "HTML", "html": "Bangladesh tried a lot of things and bowlers in this innings and will be largely happy with how it went. Mahedi was impressive, bagging a wicket and only conceding 22 runs in four overs. Shoriful was not bad either, although Bangladesh will now be sweating over the injury he picked up. Shakib was uncharacteristically expensive, although Bangladesh, at this stage, will feel they can chase this down and head to their T20 World Cup opener high on confidence. Join us in a bit for the run-chase!"}, {"type": "HTML", "html": "Match State: Innings Break"}]<b>12:10pm</b> A stop-start innings for India. Samson and Rohit could not get going early and India's powerplay blushes were spared by Pant, who sparkled with a 32-ball 53. He then retired hurt and Dube had an excellent opportunity to show off his skills. Unfortunately for him and India, he laboured to a 16-ball 14. Pandya got stuck into the bowlers late in the innings, and his 40-run cameo has allowed India to post a total in excess of 180. Bangladesh tried a lot of things and bowlers in this innings and will be largely happy with how it went. Mahedi was impressive, bagging a wicket and only conceding 22 runs in four overs. Shoriful was not bad either, although Bangladesh will now be sweating over the injury he picked up. Shakib was uncharacteristically expensive, although Bangladesh, at this stage, will feel they can chase this down and head to their T20 World Cup opener high on confidence. Join us in a bit for the run-chase! Match State: Innings Break
+cutter dug into the track outside off. Pandya has a whoosh across the line but is a week early into the stroke. Gets nowhere close to it, and <strong>Bangladesh keep India down to under 185!</strong>
+<b>12:10pm</b> A stop-start innings for India. Samson and Rohit could not get going early and India's powerplay blushes were spared by Pant, who sparkled with a 32-ball 53. He then retired hurt and Dube had an excellent opportunity to show off his skills. Unfortunately for him and India, he laboured to a 16-ball 14. Pandya got stuck into the bowlers late in the innings, and his 40-run cameo has allowed India to post a total in excess of 180. Bangladesh tried a lot of things and bowlers in this innings and will be largely happy with how it went. Mahedi was impressive, bagging a wicket and only conceding 22 runs in four overs. Shoriful was not bad either, although Bangladesh will now be sweating over the injury he picked up. Shakib was uncharacteristically expensive, although Bangladesh, at this stage, will feel they can chase this down and head to their T20 World Cup opener high on confidence. Join us in a bit for the run-chase! Match State: Innings Break
 
 Balls faced: 36
 Bowler: Shoriful Islam
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball on a very full length on off. Pandya clinks it off the toe-end and Shoriful gets his left hand behind it. He might have done himself some mischief, however"}]slower ball on a very full length on off. Pandya clinks it off the toe-end and Shoriful gets his left hand behind it. He might have done himself some mischief, however
+slower ball on a very full length on off. Pandya clinks it off the toe-end and Shoriful gets his left hand behind it. He might have done himself some mischief, however
 
 
 Balls faced: 37
 Bowler: Shoriful Islam
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
-[{"type": "HTML", "html": "Looks like Pandya has damaged his bat again, and we are going to have a change of equipment for the second time in as many minutes"}]Looks like Pandya has damaged his bat again, and we are going to have a change of equipment for the second time in as many minutes
+Looks like Pandya has damaged his bat again, and we are going to have a change of equipment for the second time in as many minutes
 
-[{"type": "HTML", "html": "<strong>vital boundary!</strong> Dug in short on leg stump, designed to cramp Pandya for room. He picks the length early, though, and manages to hammer it past deep mid wicket!"}]<strong>vital boundary!</strong> Dug in short on leg stump, designed to cramp Pandya for room. He picks the length early, though, and manages to hammer it past deep mid wicket!
+<strong>vital boundary!</strong> Dug in short on leg stump, designed to cramp Pandya for room. He picks the length early, though, and manages to hammer it past deep mid wicket!
 
 
 Balls faced: 38
 Bowler: Shoriful Islam
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide outside off. Pandya looks for the cute, little upper-cut but does not make contact. Third time he has failed to make contact with that stroke"}]short and wide outside off. Pandya looks for the cute, little upper-cut but does not make contact. Third time he has failed to make contact with that stroke
+short and wide outside off. Pandya looks for the cute, little upper-cut but does not make contact. Third time he has failed to make contact with that stroke
 
 
 Balls faced: 39
 Bowler: Shoriful Islam
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
-[{"type": "HTML", "html": "Right. Final over coming up. Can India get close to 190? Can Bangladesh keep India down to under 185? A change of bat for Pandya. Shoriful to bowl"}]Right. Final over coming up. Can India get close to 190? Can Bangladesh keep India down to under 185? A change of bat for Pandya. Shoriful to bowl
+Right. Final over coming up. Can India get close to 190? Can Bangladesh keep India down to under 185? A change of bat for Pandya. Shoriful to bowl
 
-[{"type": "HTML", "html": "full and wide outside off. Pandya throws his hands at it and drills it towards deep cover point"}]full and wide outside off. Pandya throws his hands at it and drills it towards deep cover point
+full and wide outside off. Pandya throws his hands at it and drills it towards deep cover point
 
 
 Balls faced: 40
 Bowler: Rishad Hossain
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on middle and leg. Pandya makes room for himself and cuts it towards backward point. Retains strike"}]back of a length on middle and leg. Pandya makes room for himself and cuts it towards backward point. Retains strike
+back of a length on middle and leg. Pandya makes room for himself and cuts it towards backward point. Retains strike
 
 
 Balls faced: 41
 Bowler: Rishad Hossain
 Over: 19
+ 
 Shot: No Shot
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>that is a shot and a half!</strong> Marginally short outside off and that is all Pandya needs. Uses the depth of the crease, gets his hands through the ball and creams it over the wide long off fence!"}]<strong>that is a shot and a half!</strong> Marginally short outside off and that is all Pandya needs. Uses the depth of the crease, gets his hands through the ball and creams it over the wide long off fence!
+<strong>that is a shot and a half!</strong> Marginally short outside off and that is all Pandya needs. Uses the depth of the crease, gets his hands through the ball and creams it over the wide long off fence!
 
 
 Balls faced: 42
 Bowler: Rishad Hossain
 Over: 19
+ 
 Shot: No Shot
 Run scored: 2
 
 
-[{"type": "HTML", "html": "<strong>goes straight up, and it goes down. More sloppy fielding!</strong> Fizzed through on a length on leg stump. Pandya has a wild swipe across the line and miscues it terribly. Deep mid wicket comes running in and makes a mess of it"}]<strong>goes straight up, and it goes down. More sloppy fielding!</strong> Fizzed through on a length on leg stump. Pandya has a wild swipe across the line and miscues it terribly. Deep mid wicket comes running in and makes a mess of it
+<strong>goes straight up, and it goes down. More sloppy fielding!</strong> Fizzed through on a length on leg stump. Pandya has a wild swipe across the line and miscues it terribly. Deep mid wicket comes running in and makes a mess of it
 
 
 Balls faced: 43
 Bowler: Rishad Hossain
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slowed up nicely on a length just outside off. Pandya backs away and has an almighty swish at it. Connects with fresh air and we go upstairs again for a stumping. Smart work by Litton but Pandya might be safe here. This also looks very close, although Pandya seems to have more behind the line than Jadeja did. <b>The third umpire agrees with that assessment and Pandya stays!</b>"}]slowed up nicely on a length just outside off. Pandya backs away and has an almighty swish at it. Connects with fresh air and we go upstairs again for a stumping. Smart work by Litton but Pandya might be safe here. This also looks very close, although Pandya seems to have more behind the line than Jadeja did. <b>The third umpire agrees with that assessment and Pandya stays!</b>
+slowed up nicely on a length just outside off. Pandya backs away and has an almighty swish at it. Connects with fresh air and we go upstairs again for a stumping. Smart work by Litton but Pandya might be safe here. This also looks very close, although Pandya seems to have more behind the line than Jadeja did. <b>The third umpire agrees with that assessment and Pandya stays!</b>
 
 
 Balls faced: 44
 Bowler: Tanzim Hasan Sakib
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
-[{"type": "HTML", "html": "Shoriful is going off, and he looks in some pain. Not the sight Bangladesh fans would have wanted to see. Tanzim to bowl what should be the last ball of the innings"}]Shoriful is going off, and he looks in some pain. Not the sight Bangladesh fans would have wanted to see. Tanzim to bowl what should be the last ball of the innings
+Shoriful is going off, and he looks in some pain. Not the sight Bangladesh fans would have wanted to see. Tanzim to bowl what should be the last ball of the innings
 
-[{"type": "HTML", "html": "cutter dug into the track outside off. Pandya has a whoosh across the line but is a week early into the stroke. Gets nowhere close to it, and <strong>Bangladesh keep India down to under 185!</strong>"}]cutter dug into the track outside off. Pandya has a whoosh across the line but is a week early into the stroke. Gets nowhere close to it, and <strong>Bangladesh keep India down to under 185!</strong>
-[{"type": "HTML", "html": "<b>12:10pm</b> A stop-start innings for India. Samson and Rohit could not get going early and India's powerplay blushes were spared by Pant, who sparkled with a 32-ball 53. He then retired hurt and Dube had an excellent opportunity to show off his skills. Unfortunately for him and India, he laboured to a 16-ball 14. Pandya got stuck into the bowlers late in the innings, and his 40-run cameo has allowed India to post a total in excess of 180."}, {"type": "HTML", "html": "Bangladesh tried a lot of things and bowlers in this innings and will be largely happy with how it went. Mahedi was impressive, bagging a wicket and only conceding 22 runs in four overs. Shoriful was not bad either, although Bangladesh will now be sweating over the injury he picked up. Shakib was uncharacteristically expensive, although Bangladesh, at this stage, will feel they can chase this down and head to their T20 World Cup opener high on confidence. Join us in a bit for the run-chase!"}, {"type": "HTML", "html": "Match State: Innings Break"}]<b>12:10pm</b> A stop-start innings for India. Samson and Rohit could not get going early and India's powerplay blushes were spared by Pant, who sparkled with a 32-ball 53. He then retired hurt and Dube had an excellent opportunity to show off his skills. Unfortunately for him and India, he laboured to a 16-ball 14. Pandya got stuck into the bowlers late in the innings, and his 40-run cameo has allowed India to post a total in excess of 180. Bangladesh tried a lot of things and bowlers in this innings and will be largely happy with how it went. Mahedi was impressive, bagging a wicket and only conceding 22 runs in four overs. Shoriful was not bad either, although Bangladesh will now be sweating over the injury he picked up. Shakib was uncharacteristically expensive, although Bangladesh, at this stage, will feel they can chase this down and head to their T20 World Cup opener high on confidence. Join us in a bit for the run-chase! Match State: Innings Break
+cutter dug into the track outside off. Pandya has a whoosh across the line but is a week early into the stroke. Gets nowhere close to it, and <strong>Bangladesh keep India down to under 185!</strong>
+<b>12:10pm</b> A stop-start innings for India. Samson and Rohit could not get going early and India's powerplay blushes were spared by Pant, who sparkled with a 32-ball 53. He then retired hurt and Dube had an excellent opportunity to show off his skills. Unfortunately for him and India, he laboured to a 16-ball 14. Pandya got stuck into the bowlers late in the innings, and his 40-run cameo has allowed India to post a total in excess of 180. Bangladesh tried a lot of things and bowlers in this innings and will be largely happy with how it went. Mahedi was impressive, bagging a wicket and only conceding 22 runs in four overs. Shoriful was not bad either, although Bangladesh will now be sweating over the injury he picked up. Shakib was uncharacteristically expensive, although Bangladesh, at this stage, will feel they can chase this down and head to their T20 World Cup opener high on confidence. Join us in a bit for the run-chase! Match State: Innings Break
 
 Balls faced: 45
 Bowler: Shoriful Islam
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball on a very full length on off. Pandya clinks it off the toe-end and Shoriful gets his left hand behind it. He might have done himself some mischief, however"}]slower ball on a very full length on off. Pandya clinks it off the toe-end and Shoriful gets his left hand behind it. He might have done himself some mischief, however
+slower ball on a very full length on off. Pandya clinks it off the toe-end and Shoriful gets his left hand behind it. He might have done himself some mischief, however
 
 
 Balls faced: 46
 Bowler: Shoriful Islam
 Over: 20
+ 
 Shot: No Shot
 Run scored: 4
-[{"type": "HTML", "html": "Looks like Pandya has damaged his bat again, and we are going to have a change of equipment for the second time in as many minutes"}]Looks like Pandya has damaged his bat again, and we are going to have a change of equipment for the second time in as many minutes
+Looks like Pandya has damaged his bat again, and we are going to have a change of equipment for the second time in as many minutes
 
-[{"type": "HTML", "html": "<strong>vital boundary!</strong> Dug in short on leg stump, designed to cramp Pandya for room. He picks the length early, though, and manages to hammer it past deep mid wicket!"}]<strong>vital boundary!</strong> Dug in short on leg stump, designed to cramp Pandya for room. He picks the length early, though, and manages to hammer it past deep mid wicket!
+<strong>vital boundary!</strong> Dug in short on leg stump, designed to cramp Pandya for room. He picks the length early, though, and manages to hammer it past deep mid wicket!
 
 
 Balls faced: 47
 Bowler: Shoriful Islam
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide outside off. Pandya looks for the cute, little upper-cut but does not make contact. Third time he has failed to make contact with that stroke"}]short and wide outside off. Pandya looks for the cute, little upper-cut but does not make contact. Third time he has failed to make contact with that stroke
+short and wide outside off. Pandya looks for the cute, little upper-cut but does not make contact. Third time he has failed to make contact with that stroke
 
 
 Balls faced: 48
 Bowler: Shoriful Islam
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
-[{"type": "HTML", "html": "Right. Final over coming up. Can India get close to 190? Can Bangladesh keep India down to under 185? A change of bat for Pandya. Shoriful to bowl"}]Right. Final over coming up. Can India get close to 190? Can Bangladesh keep India down to under 185? A change of bat for Pandya. Shoriful to bowl
+Right. Final over coming up. Can India get close to 190? Can Bangladesh keep India down to under 185? A change of bat for Pandya. Shoriful to bowl
 
-[{"type": "HTML", "html": "full and wide outside off. Pandya throws his hands at it and drills it towards deep cover point"}]full and wide outside off. Pandya throws his hands at it and drills it towards deep cover point
+full and wide outside off. Pandya throws his hands at it and drills it towards deep cover point

@@ -2,6 +2,7 @@ Match: all_games_1410505_1410544.json
 Balls faced: 1
 Bowler: Smale
 Over: 11
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Smale
 Over: 11
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Wong
 Over: 12
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -32,6 +35,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Wong
 Over: 12
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Wong
 Over: 12
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -52,6 +57,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Wong
 Over: 12
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -62,6 +68,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: Smale
 Over: 11
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Smale
 Over: 11
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -82,6 +90,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Wong
 Over: 12
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -92,6 +101,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Wong
 Over: 12
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 0
 
@@ -102,6 +112,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Wong
 Over: 12
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Wong
 Over: 12
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -122,6 +134,7 @@ Run scored: 2
 Balls faced: 13
 Bowler: Filer
 Over: 15
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -132,6 +145,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Filer
 Over: 15
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -142,6 +156,7 @@ Run scored: 4
 Balls faced: 15
 Bowler: Filer
 Over: 15
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -152,6 +167,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Filer
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -162,6 +178,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Filer
 Over: 15
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -172,6 +189,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Filer
 Over: 15
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -182,6 +200,7 @@ Run scored: 4
 Balls faced: 19
 Bowler: Filer
 Over: 15
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -192,6 +211,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Filer
 Over: 15
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Filer
 Over: 17
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -212,6 +233,7 @@ Run scored: 2
 Balls faced: 22
 Bowler: Filer
 Over: 17
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -222,6 +244,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Filer
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -232,6 +255,7 @@ Run scored: 0
 Balls faced: 24
 Bowler: Smale
 Over: 18
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -242,6 +266,7 @@ Run scored: 1
 Balls faced: 25
 Bowler: Smale
 Over: 18
+ 
 Shot: SWEEP
 Run scored: 2
 
@@ -252,6 +277,7 @@ Run scored: 2
 Balls faced: 26
 Bowler: Smale
 Over: 18
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -262,6 +288,7 @@ Run scored: 1
 Balls faced: 27
 Bowler: Smale
 Over: 18
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -272,6 +299,7 @@ Run scored: 2
 Balls faced: 28
 Bowler: Filer
 Over: 17
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -282,6 +310,7 @@ Run scored: 2
 Balls faced: 29
 Bowler: Filer
 Over: 17
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -292,6 +321,7 @@ Run scored: 1
 Balls faced: 30
 Bowler: Filer
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -302,6 +332,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Smale
 Over: 18
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -312,6 +343,7 @@ Run scored: 1
 Balls faced: 32
 Bowler: Smale
 Over: 18
+ 
 Shot: SWEEP
 Run scored: 2
 
@@ -322,6 +354,7 @@ Run scored: 2
 Balls faced: 33
 Bowler: Smale
 Over: 18
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -332,6 +365,7 @@ Run scored: 1
 Balls faced: 34
 Bowler: Smale
 Over: 18
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -342,6 +376,7 @@ Run scored: 2
 Balls faced: 35
 Bowler: Smale
 Over: 20
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -352,5 +387,6 @@ Run scored: 1
 Balls faced: 36
 Bowler: Smale
 Over: 20
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
