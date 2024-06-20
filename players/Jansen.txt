@@ -1,255 +1,367 @@
-Match: southafrica_1367856_1384438.json
+Match: all_games_1367856_1384438.json
 Balls faced: 1
 Bowler: Head
-Over:31
+Over: 31
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Now then. Marco Jansen is out at No. 7, still almost 20 overs of this SA innings to bat. Slip in"}]Now then. Marco Jansen is out at No. 7, still almost 20 overs of this SA innings to bat. Slip in
-OUT! {"short": "lbw", "long": "lbw b Head", "commentary": "Marco Jansen lbw b Head 0 (1b 0x4 0x6 1m) SR: 0"}
-<b>sharp turn and he's trapped in front!</b> Head wheels away in celebration and I don't think this looks good for Jansen - even though he <b>reviews</b> after a chat with Miller. Stuck on the crease, missed the ball by a long way... and it is thumping into leg stump! Head has ripped the guts out, SA six down and with a lengthy tail exposed
+
+[{"type": "HTML", "html": "<b>sharp turn and he's trapped in front!</b> Head wheels away in celebration and I don't think this looks good for Jansen - even though he <b>reviews</b> after a chat with Miller. Stuck on the crease, missed the ball by a long way... and it is thumping into leg stump! Head has ripped the guts out, SA six down and with a lengthy tail exposed"}]<b>sharp turn and he's trapped in front!</b> Head wheels away in celebration and I don't think this looks good for Jansen - even though he <b>reviews</b> after a chat with Miller. Stuck on the crease, missed the ball by a long way... and it is thumping into leg stump! Head has ripped the guts out, SA six down and with a lengthy tail exposed
+
+
 Balls faced: 2
 Bowler: Head
-Over:31
+Over: 31
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Now then. Marco Jansen is out at No. 7, still almost 20 overs of this SA innings to bat. Slip in"}]Now then. Marco Jansen is out at No. 7, still almost 20 overs of this SA innings to bat. Slip in
-OUT! {"short": "lbw", "long": "lbw b Head", "commentary": "Marco Jansen lbw b Head 0 (1b 0x4 0x6 1m) SR: 0"}
-<b>sharp turn and he's trapped in front!</b> Head wheels away in celebration and I don't think this looks good for Jansen - even though he <b>reviews</b> after a chat with Miller. Stuck on the crease, missed the ball by a long way... and it is thumping into leg stump! Head has ripped the guts out, SA six down and with a lengthy tail exposed
-Match: southafrica_1387592_1387604.json
+
+[{"type": "HTML", "html": "<b>sharp turn and he's trapped in front!</b> Head wheels away in celebration and I don't think this looks good for Jansen - even though he <b>reviews</b> after a chat with Miller. Stuck on the crease, missed the ball by a long way... and it is thumping into leg stump! Head has ripped the guts out, SA six down and with a lengthy tail exposed"}]<b>sharp turn and he's trapped in front!</b> Head wheels away in celebration and I don't think this looks good for Jansen - even though he <b>reviews</b> after a chat with Miller. Stuck on the crease, missed the ball by a long way... and it is thumping into leg stump! Head has ripped the guts out, SA six down and with a lengthy tail exposed
+
+
+
+Match: all_games_1387592_1387604.json
 Balls faced: 1
 Bowler: Siraj
-Over:16
+Over: 16
 Shot: DEFENDED
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020Rahul b Mohammed Siraj", "commentary": "Marco Jansen c \u2020Rahul b Mohammed Siraj 0 (3b 0x4 0x6 2m) SR: 0"}
-<b>Make that 34 for 6. Siraj has a five-for!</b> The legcutter does the trick this time. Was a length ball around off, forcing Jansen to play at it. All he manages is an outside edge as he looks to defend it on the front foot. A regulation catch to KL Rahul. Looks like Kohli had gestured to Siraj to try to get Jansen caught behind on the front foot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b>Make that 34 for 6. Siraj has a five-for!</b> The legcutter does the trick this time. Was a length ball around off, forcing Jansen to play at it. All he manages is an outside edge as he looks to defend it on the front foot. A regulation catch to KL Rahul. Looks like Kohli had gestured to Siraj to try to get Jansen caught behind on the front foot"}]<b>Make that 34 for 6. Siraj has a five-for!</b> The legcutter does the trick this time. Was a length ball around off, forcing Jansen to play at it. All he manages is an outside edge as he looks to defend it on the front foot. A regulation catch to KL Rahul. Looks like Kohli had gestured to Siraj to try to get Jansen caught behind on the front foot
+
+
 Balls faced: 2
 Bowler: Siraj
-Over:16
+Over: 16
 Shot: DEFENDED
-run scored: 0
-length ball around off. Defended
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball around off. Defended"}]length ball around off. Defended
+
+
 Balls faced: 3
 Bowler: Siraj
-Over:16
+Over: 16
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Marco Jansen is the new batter. Three slips and a gully"}]Marco Jansen is the new batter. Three slips and a gully
-slightly full around off. Jansen comes forward and blocks
+
+[{"type": "HTML", "html": "slightly full around off. Jansen comes forward and blocks"}]slightly full around off. Jansen comes forward and blocks
+
+
 Balls faced: 4
 Bowler: Siraj
-Over:16
+Over: 16
 Shot: DEFENDED
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020Rahul b Mohammed Siraj", "commentary": "Marco Jansen c \u2020Rahul b Mohammed Siraj 0 (3b 0x4 0x6 2m) SR: 0"}
-<b>Make that 34 for 6. Siraj has a five-for!</b> The legcutter does the trick this time. Was a length ball around off, forcing Jansen to play at it. All he manages is an outside edge as he looks to defend it on the front foot. A regulation catch to KL Rahul. Looks like Kohli had gestured to Siraj to try to get Jansen caught behind on the front foot
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b>Make that 34 for 6. Siraj has a five-for!</b> The legcutter does the trick this time. Was a length ball around off, forcing Jansen to play at it. All he manages is an outside edge as he looks to defend it on the front foot. A regulation catch to KL Rahul. Looks like Kohli had gestured to Siraj to try to get Jansen caught behind on the front foot"}]<b>Make that 34 for 6. Siraj has a five-for!</b> The legcutter does the trick this time. Was a length ball around off, forcing Jansen to play at it. All he manages is an outside edge as he looks to defend it on the front foot. A regulation catch to KL Rahul. Looks like Kohli had gestured to Siraj to try to get Jansen caught behind on the front foot
+
+
 Balls faced: 5
 Bowler: Siraj
-Over:16
+Over: 16
 Shot: DEFENDED
-run scored: 0
-length ball around off. Defended
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length ball around off. Defended"}]length ball around off. Defended
+
+
 Balls faced: 6
 Bowler: Siraj
-Over:16
+Over: 16
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Marco Jansen is the new batter. Three slips and a gully"}]Marco Jansen is the new batter. Three slips and a gully
-slightly full around off. Jansen comes forward and blocks
-Match: southafrica_1411166_1415716.json
+
+[{"type": "HTML", "html": "slightly full around off. Jansen comes forward and blocks"}]slightly full around off. Jansen comes forward and blocks
+
+
+
+Match: all_games_1411166_1415716.json
 Balls faced: 1
 Bowler: de Leede
-Over:17
+Over: 17
 Shot: PULL
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Hassan Naeem: \"Miller's wicket is the key!\""}]Hassan Naeem: "Miller's wicket is the key!"
-ohh, just short of Edwards trying to rush forward! And Jansen is down on his knees after what seemed like a harsh blow. On the shorter side of a length on middle and leg from de Leede, as Jansen looked to pull, but the ball ballooned up and went behind the wicket after taking an inside edge on to his body
+
+[{"type": "HTML", "html": "ohh, just short of Edwards trying to rush forward! And Jansen is down on his knees after what seemed like a harsh blow. On the shorter side of a length on middle and leg from de Leede, as Jansen looked to pull, but the ball ballooned up and went behind the wicket after taking an inside edge on to his body"}]ohh, just short of Edwards trying to rush forward! And Jansen is down on his knees after what seemed like a harsh blow. On the shorter side of a length on middle and leg from de Leede, as Jansen looked to pull, but the ball ballooned up and went behind the wicket after taking an inside edge on to his body
+
+
 Balls faced: 2
 Bowler: de Leede
-Over:17
+Over: 17
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Fox: \"It reminds me of van der Merwe catch of 2022 !! Game on!\" --- Not as great, but yeah, a good one considering the match situation"}]Fox: "It reminds me of van der Merwe catch of 2022 !! Game on!" --- Not as great, but yeah, a good one considering the match situation
-on a shortish length on middle, and clipped behind to fine leg
+
+[{"type": "HTML", "html": "on a shortish length on middle, and clipped behind to fine leg"}]on a shortish length on middle, and clipped behind to fine leg
+
+
 Balls faced: 3
 Bowler: de Leede
-Over:17
+Over: 17
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Jansen at No. 7"}]Jansen at No. 7
-on a good length, and there is good bounce even for someone as tall as Jansen. Dabbed down after getting across
+
+[{"type": "HTML", "html": "on a good length, and there is good bounce even for someone as tall as Jansen. Dabbed down after getting across"}]on a good length, and there is good bounce even for someone as tall as Jansen. Dabbed down after getting across
+
+
 Balls faced: 4
 Bowler: van Beek
-Over:18
+Over: 18
 Shot: SLOG_SHOT
-run scored: 0
-OUT! {"short": "bowled", "long": " b van Beek", "commentary": "Marco Jansen b van Beek 3 (5b 0x4 0x6 8m) SR: 60"}
-bowled him! The roar from van Beek and co signal what this means for Netherlands. It was a length ball all right - and in the zone to attack. The ball landed on off after being angled in, and shaped back in further to hit the middle stump, as Jansen looked hoick across the line but missed. Big blow for South Africa late into the game
+Run scored: 0
+
+
+[{"type": "HTML", "html": "bowled him! The roar from van Beek and co signal what this means for Netherlands. It was a length ball all right - and in the zone to attack. The ball landed on off after being angled in, and shaped back in further to hit the middle stump, as Jansen looked hoick across the line but missed. Big blow for South Africa late into the game"}]bowled him! The roar from van Beek and co signal what this means for Netherlands. It was a length ball all right - and in the zone to attack. The ball landed on off after being angled in, and shaped back in further to hit the middle stump, as Jansen looked hoick across the line but missed. Big blow for South Africa late into the game
+
+
 Balls faced: 5
 Bowler: van Beek
-Over:18
+Over: 18
 Shot: FLICK
-run scored: 2
-good work by Pringle at deep square leg, as he runs and dives to his right to pull the back. Yup, replays show he did it pretty cleanly. Jansen whipped this length ball behind the wicket, even as it come off the inside half of the bat
+Run scored: 2
+
+
+[{"type": "HTML", "html": "good work by Pringle at deep square leg, as he runs and dives to his right to pull the back. Yup, replays show he did it pretty cleanly. Jansen whipped this length ball behind the wicket, even as it come off the inside half of the bat"}]good work by Pringle at deep square leg, as he runs and dives to his right to pull the back. Yup, replays show he did it pretty cleanly. Jansen whipped this length ball behind the wicket, even as it come off the inside half of the bat
+
+
 Balls faced: 6
 Bowler: de Leede
-Over:17
+Over: 17
 Shot: PULL
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Hassan Naeem: \"Miller's wicket is the key!\""}]Hassan Naeem: "Miller's wicket is the key!"
-ohh, just short of Edwards trying to rush forward! And Jansen is down on his knees after what seemed like a harsh blow. On the shorter side of a length on middle and leg from de Leede, as Jansen looked to pull, but the ball ballooned up and went behind the wicket after taking an inside edge on to his body
+
+[{"type": "HTML", "html": "ohh, just short of Edwards trying to rush forward! And Jansen is down on his knees after what seemed like a harsh blow. On the shorter side of a length on middle and leg from de Leede, as Jansen looked to pull, but the ball ballooned up and went behind the wicket after taking an inside edge on to his body"}]ohh, just short of Edwards trying to rush forward! And Jansen is down on his knees after what seemed like a harsh blow. On the shorter side of a length on middle and leg from de Leede, as Jansen looked to pull, but the ball ballooned up and went behind the wicket after taking an inside edge on to his body
+
+
 Balls faced: 7
 Bowler: de Leede
-Over:17
+Over: 17
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Fox: \"It reminds me of van der Merwe catch of 2022 !! Game on!\" --- Not as great, but yeah, a good one considering the match situation"}]Fox: "It reminds me of van der Merwe catch of 2022 !! Game on!" --- Not as great, but yeah, a good one considering the match situation
-on a shortish length on middle, and clipped behind to fine leg
+
+[{"type": "HTML", "html": "on a shortish length on middle, and clipped behind to fine leg"}]on a shortish length on middle, and clipped behind to fine leg
+
+
 Balls faced: 8
 Bowler: de Leede
-Over:17
+Over: 17
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Jansen at No. 7"}]Jansen at No. 7
-on a good length, and there is good bounce even for someone as tall as Jansen. Dabbed down after getting across
+
+[{"type": "HTML", "html": "on a good length, and there is good bounce even for someone as tall as Jansen. Dabbed down after getting across"}]on a good length, and there is good bounce even for someone as tall as Jansen. Dabbed down after getting across
+
+
 Balls faced: 9
 Bowler: van Beek
-Over:18
+Over: 18
 Shot: SLOG_SHOT
-run scored: 0
-OUT! {"short": "bowled", "long": " b van Beek", "commentary": "Marco Jansen b van Beek 3 (5b 0x4 0x6 8m) SR: 60"}
-bowled him! The roar from van Beek and co signal what this means for Netherlands. It was a length ball all right - and in the zone to attack. The ball landed on off after being angled in, and shaped back in further to hit the middle stump, as Jansen looked hoick across the line but missed. Big blow for South Africa late into the game
+Run scored: 0
+
+
+[{"type": "HTML", "html": "bowled him! The roar from van Beek and co signal what this means for Netherlands. It was a length ball all right - and in the zone to attack. The ball landed on off after being angled in, and shaped back in further to hit the middle stump, as Jansen looked hoick across the line but missed. Big blow for South Africa late into the game"}]bowled him! The roar from van Beek and co signal what this means for Netherlands. It was a length ball all right - and in the zone to attack. The ball landed on off after being angled in, and shaped back in further to hit the middle stump, as Jansen looked hoick across the line but missed. Big blow for South Africa late into the game
+
+
 Balls faced: 10
 Bowler: van Beek
-Over:18
+Over: 18
 Shot: FLICK
-run scored: 2
-good work by Pringle at deep square leg, as he runs and dives to his right to pull the back. Yup, replays show he did it pretty cleanly. Jansen whipped this length ball behind the wicket, even as it come off the inside half of the bat
-Match: southafrica_1411166_1415721.json
+Run scored: 2
+
+
+[{"type": "HTML", "html": "good work by Pringle at deep square leg, as he runs and dives to his right to pull the back. Yup, replays show he did it pretty cleanly. Jansen whipped this length ball behind the wicket, even as it come off the inside half of the bat"}]good work by Pringle at deep square leg, as he runs and dives to his right to pull the back. Yup, replays show he did it pretty cleanly. Jansen whipped this length ball behind the wicket, even as it come off the inside half of the bat
+
+
+
+Match: all_games_1411166_1415721.json
 Balls faced: 1
 Bowler: Taskin
-Over:18
+Over: 18
 Shot: SQUARE_DRIVE
-run scored: 1
-Opens the face and guides the length ball to deep third
-M B Aditto: "Why not use Shakib Al hasan more? His experience could be crucial to break this partnership! " Mahmudullah tbf has been great
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Opens the face and guides the length ball to deep third"}]Opens the face and guides the length ball to deep third
+[{"type": "HTML", "html": "M B Aditto: \"Why not use Shakib Al hasan more? His experience could be crucial to break this partnership! \" Mahmudullah tbf has been great"}]M B Aditto: "Why not use Shakib Al hasan more? His experience could be crucial to break this partnership! " Mahmudullah tbf has been great
+
 Balls faced: 2
 Bowler: Taskin
-Over:18
+Over: 18
 Shot: FLICK
-run scored: 1
-Jansen was ball-watching and almost run himself out, but he uses his long reach and there is no direct hit
-Krishna : "Please don't say kept low to Klassen, ball deviated, he missed the line." Wrote it as I saw it. Will change if there is a replay and I spot the difference. Replay is on at the end of the over, even Nasser Hussain said, "ball died on him" in passing
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Jansen was ball-watching and almost run himself out, but he uses his long reach and there is no direct hit"}]Jansen was ball-watching and almost run himself out, but he uses his long reach and there is no direct hit
+[{"type": "HTML", "html": "Krishna : \"Please don't say kept low to Klassen, ball deviated, he missed the line.\" Wrote it as I saw it. Will change if there is a replay and I spot the difference. Replay is on at the end of the over, even Nasser Hussain said, \"ball died on him\" in passing"}]Krishna : "Please don't say kept low to Klassen, ball deviated, he missed the line." Wrote it as I saw it. Will change if there is a replay and I spot the difference. Replay is on at the end of the over, even Nasser Hussain said, "ball died on him" in passing
+
 Balls faced: 3
 Bowler: Rishad Hossain
-Over:19
+Over: 19
 Shot: REVERSE_SWEEP
-run scored: 0
-Jansen tries to manufacture something but doesn't connect with the reverse sweep. Went with force but the length ball hit him on the wrist after beating him, and it rolled towards point
-Saif: "SA could not manipulate over Mahmudullah which could cost them. SA also slowed down at the end overs, should have geared up instead. " They tried, don't think the batting can be faulted too much. Open to disagreement though
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Jansen tries to manufacture something but doesn't connect with the reverse sweep. Went with force but the length ball hit him on the wrist after beating him, and it rolled towards point"}]Jansen tries to manufacture something but doesn't connect with the reverse sweep. Went with force but the length ball hit him on the wrist after beating him, and it rolled towards point
+[{"type": "HTML", "html": "Saif: \"SA could not manipulate over Mahmudullah which could cost them. SA also slowed down at the end overs, should have geared up instead. \" They tried, don't think the batting can be faulted too much. Open to disagreement though"}]Saif: "SA could not manipulate over Mahmudullah which could cost them. SA also slowed down at the end overs, should have geared up instead. " They tried, don't think the batting can be faulted too much. Open to disagreement though
+
 Balls faced: 4
 Bowler: Rishad Hossain
-Over:19
+Over: 19
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Crowd's up and about after a quiet last over. 130 still on, but Rishad will bowl. Shanto really trusting the leggie"}]Crowd's up and about after a quiet last over. 130 still on, but Rishad will bowl. Shanto really trusting the leggie
-Jansen brings Miller back on strike. Length ball clipped to midwicket
+
+[{"type": "HTML", "html": "Jansen brings Miller back on strike. Length ball clipped to midwicket"}]Jansen brings Miller back on strike. Length ball clipped to midwicket
+
+
 Balls faced: 5
 Bowler: Taskin
-Over:18
+Over: 18
 Shot: SQUARE_DRIVE
-run scored: 1
-Opens the face and guides the length ball to deep third
-M B Aditto: "Why not use Shakib Al hasan more? His experience could be crucial to break this partnership! " Mahmudullah tbf has been great
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Opens the face and guides the length ball to deep third"}]Opens the face and guides the length ball to deep third
+[{"type": "HTML", "html": "M B Aditto: \"Why not use Shakib Al hasan more? His experience could be crucial to break this partnership! \" Mahmudullah tbf has been great"}]M B Aditto: "Why not use Shakib Al hasan more? His experience could be crucial to break this partnership! " Mahmudullah tbf has been great
+
 Balls faced: 6
 Bowler: Taskin
-Over:18
+Over: 18
 Shot: FLICK
-run scored: 1
-Jansen was ball-watching and almost run himself out, but he uses his long reach and there is no direct hit
-Krishna : "Please don't say kept low to Klassen, ball deviated, he missed the line." Wrote it as I saw it. Will change if there is a replay and I spot the difference. Replay is on at the end of the over, even Nasser Hussain said, "ball died on him" in passing
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Jansen was ball-watching and almost run himself out, but he uses his long reach and there is no direct hit"}]Jansen was ball-watching and almost run himself out, but he uses his long reach and there is no direct hit
+[{"type": "HTML", "html": "Krishna : \"Please don't say kept low to Klassen, ball deviated, he missed the line.\" Wrote it as I saw it. Will change if there is a replay and I spot the difference. Replay is on at the end of the over, even Nasser Hussain said, \"ball died on him\" in passing"}]Krishna : "Please don't say kept low to Klassen, ball deviated, he missed the line." Wrote it as I saw it. Will change if there is a replay and I spot the difference. Replay is on at the end of the over, even Nasser Hussain said, "ball died on him" in passing
+
 Balls faced: 7
 Bowler: Mustafizur
-Over:20
+Over: 20
 Shot: SLOG_SHOT
-run scored: 2
-Jansen flat bats it, hits Maharaj on the bounce as he ran forward, the ball deflects and loses pace. Fielder has to come to mid-off, there's enough time to sneak back for two.
-<strong>Tanzim Hasan Sakib</strong>: We saw all matches have been low-scoring in New York. Tried to stick to the basics and that worked. De Kock's wicket was my favourite - he hit me for sixes and I got him which was crucial.  It's always happy, crowd always comes. We appreciate you guys, thank you. (<em>smiles and raises the mic, the crowd cheer</em>) Jay : "Now this generation of cricket fans gets a real life experience of the intensity that 1990s ODI matches would bring all too often. Miss those days." For nostalgia if not for anything else Sriram: "A city that's so fast-paced you hardly can catch a breath and on the contrary, this pitch." <strong>12:07pm</strong> WTC20 continues in New York. Bangladesh have restricted SA well but Miller and Klaasen have taken the score near par. Still not sure SA batting first after winning the toss was a good idea. Teams today are smart, you'd expect them to know how to play the conditions. They'd know bowlers would just bowl length and let the variability in pace, bounce and lateral movement do its thing. That's what Bangladesh did today. Tanzim started it off, Taskin too was brilliant. The ball to Markram was a beauty, I thought that went straight but Hawk-Eye showed it moved ever so slightly to beat bat. Miller and Klaasen had to bat defensively to ensure they didn't fold. Their run-a-ball 79 stand keeps SA in the hunt, but they couldn't accelerate at the death. Litton used his spinners, Mahmudullah and Rishad, to ensure that didn't happen. Sayan: "This score suggests that people were too harsh on Pak batting." No, they were chasing and could've gotten off in the powerplay. Even SA tried to maximise today but had to hold back because of wickets. Pakistan fluffed it, that's why the <a href="https://www.espncricinfo.com/story/ind-vs-pak-t20-world-cup-2024-old-debate-simple-answer-pakistans-batting-just-not-very-good-1437864">old debate continues</a>
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Jansen flat bats it, hits Maharaj on the bounce as he ran forward, the ball deflects and loses pace. Fielder has to come to mid-off, there's enough time to sneak back for two."}]Jansen flat bats it, hits Maharaj on the bounce as he ran forward, the ball deflects and loses pace. Fielder has to come to mid-off, there's enough time to sneak back for two.
+[{"type": "LIVE_STREAM", "url": "https://livestream.com/accounts/6115179/events/11150881"}, {"type": "HTML", "html": "<strong>Tanzim Hasan Sakib</strong>: We saw all matches have been low-scoring in New York. Tried to stick to the basics and that worked. De Kock's wicket was my favourite - he hit me for sixes and I got him which was crucial.  It's always happy, crowd always comes. We appreciate you guys, thank you. (<em>smiles and raises the mic, the crowd cheer</em>)"}, {"type": "HTML", "html": "Jay : \"Now this generation of cricket fans gets a real life experience of the intensity that 1990s ODI matches would bring all too often. Miss those days.\" For nostalgia if not for anything else"}, {"type": "HTML", "html": "Sriram: \"A city that's so fast-paced you hardly can catch a breath and on the contrary, this pitch.\""}, {"type": "HTML", "html": "<strong>12:07pm</strong> WTC20 continues in New York. Bangladesh have restricted SA well but Miller and Klaasen have taken the score near par. Still not sure SA batting first after winning the toss was a good idea. Teams today are smart, you'd expect them to know how to play the conditions. They'd know bowlers would just bowl length and let the variability in pace, bounce and lateral movement do its thing. That's what Bangladesh did today. Tanzim started it off, Taskin too was brilliant. The ball to Markram was a beauty, I thought that went straight but Hawk-Eye showed it moved ever so slightly to beat bat. Miller and Klaasen had to bat defensively to ensure they didn't fold. Their run-a-ball 79 stand keeps SA in the hunt, but they couldn't accelerate at the death. Litton used his spinners, Mahmudullah and Rishad, to ensure that didn't happen."}, {"type": "HTML", "html": "Sayan: \"This score suggests that people were too harsh on Pak batting.\" No, they were chasing and could've gotten off in the powerplay. Even SA tried to maximise today but had to hold back because of wickets. Pakistan fluffed it, that's why the <a href=\"https://www.espncricinfo.com/story/ind-vs-pak-t20-world-cup-2024-old-debate-simple-answer-pakistans-batting-just-not-very-good-1437864\">old debate continues</a>"}]<strong>Tanzim Hasan Sakib</strong>: We saw all matches have been low-scoring in New York. Tried to stick to the basics and that worked. De Kock's wicket was my favourite - he hit me for sixes and I got him which was crucial.  It's always happy, crowd always comes. We appreciate you guys, thank you. (<em>smiles and raises the mic, the crowd cheer</em>) Jay : "Now this generation of cricket fans gets a real life experience of the intensity that 1990s ODI matches would bring all too often. Miss those days." For nostalgia if not for anything else Sriram: "A city that's so fast-paced you hardly can catch a breath and on the contrary, this pitch." <strong>12:07pm</strong> WTC20 continues in New York. Bangladesh have restricted SA well but Miller and Klaasen have taken the score near par. Still not sure SA batting first after winning the toss was a good idea. Teams today are smart, you'd expect them to know how to play the conditions. They'd know bowlers would just bowl length and let the variability in pace, bounce and lateral movement do its thing. That's what Bangladesh did today. Tanzim started it off, Taskin too was brilliant. The ball to Markram was a beauty, I thought that went straight but Hawk-Eye showed it moved ever so slightly to beat bat. Miller and Klaasen had to bat defensively to ensure they didn't fold. Their run-a-ball 79 stand keeps SA in the hunt, but they couldn't accelerate at the death. Litton used his spinners, Mahmudullah and Rishad, to ensure that didn't happen. Sayan: "This score suggests that people were too harsh on Pak batting." No, they were chasing and could've gotten off in the powerplay. Even SA tried to maximise today but had to hold back because of wickets. Pakistan fluffed it, that's why the <a href="https://www.espncricinfo.com/story/ind-vs-pak-t20-world-cup-2024-old-debate-simple-answer-pakistans-batting-just-not-very-good-1437864">old debate continues</a>
+
 Balls faced: 8
 Bowler: Rishad Hossain
-Over:19
+Over: 19
 Shot: REVERSE_SWEEP
-run scored: 0
-Jansen tries to manufacture something but doesn't connect with the reverse sweep. Went with force but the length ball hit him on the wrist after beating him, and it rolled towards point
-Saif: "SA could not manipulate over Mahmudullah which could cost them. SA also slowed down at the end overs, should have geared up instead. " They tried, don't think the batting can be faulted too much. Open to disagreement though
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Jansen tries to manufacture something but doesn't connect with the reverse sweep. Went with force but the length ball hit him on the wrist after beating him, and it rolled towards point"}]Jansen tries to manufacture something but doesn't connect with the reverse sweep. Went with force but the length ball hit him on the wrist after beating him, and it rolled towards point
+[{"type": "HTML", "html": "Saif: \"SA could not manipulate over Mahmudullah which could cost them. SA also slowed down at the end overs, should have geared up instead. \" They tried, don't think the batting can be faulted too much. Open to disagreement though"}]Saif: "SA could not manipulate over Mahmudullah which could cost them. SA also slowed down at the end overs, should have geared up instead. " They tried, don't think the batting can be faulted too much. Open to disagreement though
+
 Balls faced: 9
 Bowler: Rishad Hossain
-Over:19
+Over: 19
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Crowd's up and about after a quiet last over. 130 still on, but Rishad will bowl. Shanto really trusting the leggie"}]Crowd's up and about after a quiet last over. 130 still on, but Rishad will bowl. Shanto really trusting the leggie
-Jansen brings Miller back on strike. Length ball clipped to midwicket
+
+[{"type": "HTML", "html": "Jansen brings Miller back on strike. Length ball clipped to midwicket"}]Jansen brings Miller back on strike. Length ball clipped to midwicket
+
+
 Balls faced: 10
 Bowler: Mustafizur
-Over:20
+Over: 20
 Shot: SLOG_SHOT
-run scored: 2
-Jansen flat bats it, hits Maharaj on the bounce as he ran forward, the ball deflects and loses pace. Fielder has to come to mid-off, there's enough time to sneak back for two.
-<strong>Tanzim Hasan Sakib</strong>: We saw all matches have been low-scoring in New York. Tried to stick to the basics and that worked. De Kock's wicket was my favourite - he hit me for sixes and I got him which was crucial.  It's always happy, crowd always comes. We appreciate you guys, thank you. (<em>smiles and raises the mic, the crowd cheer</em>) Jay : "Now this generation of cricket fans gets a real life experience of the intensity that 1990s ODI matches would bring all too often. Miss those days." For nostalgia if not for anything else Sriram: "A city that's so fast-paced you hardly can catch a breath and on the contrary, this pitch." <strong>12:07pm</strong> WTC20 continues in New York. Bangladesh have restricted SA well but Miller and Klaasen have taken the score near par. Still not sure SA batting first after winning the toss was a good idea. Teams today are smart, you'd expect them to know how to play the conditions. They'd know bowlers would just bowl length and let the variability in pace, bounce and lateral movement do its thing. That's what Bangladesh did today. Tanzim started it off, Taskin too was brilliant. The ball to Markram was a beauty, I thought that went straight but Hawk-Eye showed it moved ever so slightly to beat bat. Miller and Klaasen had to bat defensively to ensure they didn't fold. Their run-a-ball 79 stand keeps SA in the hunt, but they couldn't accelerate at the death. Litton used his spinners, Mahmudullah and Rishad, to ensure that didn't happen. Sayan: "This score suggests that people were too harsh on Pak batting." No, they were chasing and could've gotten off in the powerplay. Even SA tried to maximise today but had to hold back because of wickets. Pakistan fluffed it, that's why the <a href="https://www.espncricinfo.com/story/ind-vs-pak-t20-world-cup-2024-old-debate-simple-answer-pakistans-batting-just-not-very-good-1437864">old debate continues</a>
-Match: southafrica_1411166_1415731.json
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Jansen flat bats it, hits Maharaj on the bounce as he ran forward, the ball deflects and loses pace. Fielder has to come to mid-off, there's enough time to sneak back for two."}]Jansen flat bats it, hits Maharaj on the bounce as he ran forward, the ball deflects and loses pace. Fielder has to come to mid-off, there's enough time to sneak back for two.
+[{"type": "LIVE_STREAM", "url": "https://livestream.com/accounts/6115179/events/11150881"}, {"type": "HTML", "html": "<strong>Tanzim Hasan Sakib</strong>: We saw all matches have been low-scoring in New York. Tried to stick to the basics and that worked. De Kock's wicket was my favourite - he hit me for sixes and I got him which was crucial.  It's always happy, crowd always comes. We appreciate you guys, thank you. (<em>smiles and raises the mic, the crowd cheer</em>)"}, {"type": "HTML", "html": "Jay : \"Now this generation of cricket fans gets a real life experience of the intensity that 1990s ODI matches would bring all too often. Miss those days.\" For nostalgia if not for anything else"}, {"type": "HTML", "html": "Sriram: \"A city that's so fast-paced you hardly can catch a breath and on the contrary, this pitch.\""}, {"type": "HTML", "html": "<strong>12:07pm</strong> WTC20 continues in New York. Bangladesh have restricted SA well but Miller and Klaasen have taken the score near par. Still not sure SA batting first after winning the toss was a good idea. Teams today are smart, you'd expect them to know how to play the conditions. They'd know bowlers would just bowl length and let the variability in pace, bounce and lateral movement do its thing. That's what Bangladesh did today. Tanzim started it off, Taskin too was brilliant. The ball to Markram was a beauty, I thought that went straight but Hawk-Eye showed it moved ever so slightly to beat bat. Miller and Klaasen had to bat defensively to ensure they didn't fold. Their run-a-ball 79 stand keeps SA in the hunt, but they couldn't accelerate at the death. Litton used his spinners, Mahmudullah and Rishad, to ensure that didn't happen."}, {"type": "HTML", "html": "Sayan: \"This score suggests that people were too harsh on Pak batting.\" No, they were chasing and could've gotten off in the powerplay. Even SA tried to maximise today but had to hold back because of wickets. Pakistan fluffed it, that's why the <a href=\"https://www.espncricinfo.com/story/ind-vs-pak-t20-world-cup-2024-old-debate-simple-answer-pakistans-batting-just-not-very-good-1437864\">old debate continues</a>"}]<strong>Tanzim Hasan Sakib</strong>: We saw all matches have been low-scoring in New York. Tried to stick to the basics and that worked. De Kock's wicket was my favourite - he hit me for sixes and I got him which was crucial.  It's always happy, crowd always comes. We appreciate you guys, thank you. (<em>smiles and raises the mic, the crowd cheer</em>) Jay : "Now this generation of cricket fans gets a real life experience of the intensity that 1990s ODI matches would bring all too often. Miss those days." For nostalgia if not for anything else Sriram: "A city that's so fast-paced you hardly can catch a breath and on the contrary, this pitch." <strong>12:07pm</strong> WTC20 continues in New York. Bangladesh have restricted SA well but Miller and Klaasen have taken the score near par. Still not sure SA batting first after winning the toss was a good idea. Teams today are smart, you'd expect them to know how to play the conditions. They'd know bowlers would just bowl length and let the variability in pace, bounce and lateral movement do its thing. That's what Bangladesh did today. Tanzim started it off, Taskin too was brilliant. The ball to Markram was a beauty, I thought that went straight but Hawk-Eye showed it moved ever so slightly to beat bat. Miller and Klaasen had to bat defensively to ensure they didn't fold. Their run-a-ball 79 stand keeps SA in the hunt, but they couldn't accelerate at the death. Litton used his spinners, Mahmudullah and Rishad, to ensure that didn't happen. Sayan: "This score suggests that people were too harsh on Pak batting." No, they were chasing and could've gotten off in the powerplay. Even SA tried to maximise today but had to hold back because of wickets. Pakistan fluffed it, that's why the <a href="https://www.espncricinfo.com/story/ind-vs-pak-t20-world-cup-2024-old-debate-simple-answer-pakistans-batting-just-not-very-good-1437864">old debate continues</a>
+
+
+Match: all_games_1411166_1415731.json
 Balls faced: 1
 Bowler: Airee
-Over:18
+Over: 18
 Shot: DEFENDED
-run scored: 0
-good length on the stumps, defended
-Airee ends with figures of 3 for 21, outstanding.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length on the stumps, defended"}]good length on the stumps, defended
+[{"type": "HTML", "html": "Airee ends with figures of 3 for 21, outstanding."}]Airee ends with figures of 3 for 21, outstanding.
+
 Balls faced: 2
 Bowler: Airee
-Over:18
+Over: 18
 Shot: ON_DRIVE
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Sk: \"AFG is playing 2 out of their 3 Super8 games here in Kingstown, and their spinners could be really handy! \""}]Sk: "AFG is playing 2 out of their 3 Super8 games here in Kingstown, and their spinners could be really handy! "
-full and straight, worked down towards wide long-on
+
+[{"type": "HTML", "html": "full and straight, worked down towards wide long-on"}]full and straight, worked down towards wide long-on
+
+
 Balls faced: 3
 Bowler: Bohara
-Over:19
+Over: 19
 Shot: REVERSE_SWEEP
-run scored: 0
-Jansen now looks to paddle it as well, again a good yorker though. They run the leg bye
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Jansen now looks to paddle it as well, again a good yorker though. They run the leg bye"}]Jansen now looks to paddle it as well, again a good yorker though. They run the leg bye
+
 Legbyes: 1
 Balls faced: 4
 Bowler: Airee
-Over:18
+Over: 18
 Shot: DEFENDED
-run scored: 0
-good length on the stumps, defended
-Airee ends with figures of 3 for 21, outstanding.
+Run scored: 0
+
+
+[{"type": "HTML", "html": "good length on the stumps, defended"}]good length on the stumps, defended
+[{"type": "HTML", "html": "Airee ends with figures of 3 for 21, outstanding."}]Airee ends with figures of 3 for 21, outstanding.
+
 Balls faced: 5
 Bowler: Airee
-Over:18
+Over: 18
 Shot: ON_DRIVE
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Sk: \"AFG is playing 2 out of their 3 Super8 games here in Kingstown, and their spinners could be really handy! \""}]Sk: "AFG is playing 2 out of their 3 Super8 games here in Kingstown, and their spinners could be really handy! "
-full and straight, worked down towards wide long-on
+
+[{"type": "HTML", "html": "full and straight, worked down towards wide long-on"}]full and straight, worked down towards wide long-on
+
+
 Balls faced: 6
 Bowler: Bhurtel
-Over:20
+Over: 20
 Shot: ON_DRIVE
-run scored: 0
-OUT! {"short": "caught", "long": "c Sah b Bhurtel", "commentary": "Marco Jansen c Sah b Bhurtel 1 (4b 0x4 0x6 9m) SR: 25"}
-<B>Jansen holes out!</b> This was slightly back of a length as Jansen goes back and looks to muscle this over long-on. It's off the toe-end on the bat as Sah rushes in from the long-on boundary and takes a good catch falling forward
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<B>Jansen holes out!</b> This was slightly back of a length as Jansen goes back and looks to muscle this over long-on. It's off the toe-end on the bat as Sah rushes in from the long-on boundary and takes a good catch falling forward"}]<B>Jansen holes out!</b> This was slightly back of a length as Jansen goes back and looks to muscle this over long-on. It's off the toe-end on the bat as Sah rushes in from the long-on boundary and takes a good catch falling forward
+
+
 Balls faced: 7
 Bowler: Bohara
-Over:19
+Over: 19
 Shot: REVERSE_SWEEP
-run scored: 0
-Jansen now looks to paddle it as well, again a good yorker though. They run the leg bye
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Jansen now looks to paddle it as well, again a good yorker though. They run the leg bye"}]Jansen now looks to paddle it as well, again a good yorker though. They run the leg bye
+
 Legbyes: 1
 Balls faced: 8
 Bowler: Bhurtel
-Over:20
+Over: 20
 Shot: ON_DRIVE
-run scored: 0
-OUT! {"short": "caught", "long": "c Sah b Bhurtel", "commentary": "Marco Jansen c Sah b Bhurtel 1 (4b 0x4 0x6 9m) SR: 25"}
-<B>Jansen holes out!</b> This was slightly back of a length as Jansen goes back and looks to muscle this over long-on. It's off the toe-end on the bat as Sah rushes in from the long-on boundary and takes a good catch falling forward
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<B>Jansen holes out!</b> This was slightly back of a length as Jansen goes back and looks to muscle this over long-on. It's off the toe-end on the bat as Sah rushes in from the long-on boundary and takes a good catch falling forward"}]<B>Jansen holes out!</b> This was slightly back of a length as Jansen goes back and looks to muscle this over long-on. It's off the toe-end on the bat as Sah rushes in from the long-on boundary and takes a good catch falling forward

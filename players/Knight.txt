@@ -1,0 +1,896 @@
+Match: all_games_1410505_1410544.json
+Balls faced: 1
+Bowler: Gray
+Over: 5
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Gray
+Over: 5
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Gray
+Over: 5
+Shot: LEG_GLANCE
+Run scored: 4
+
+
+
+
+
+Balls faced: 4
+Bowler: Gray
+Over: 5
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Gray
+Over: 5
+Shot: LEG_GLANCE
+Run scored: 4
+
+
+
+
+
+Balls faced: 6
+Bowler: Villiers
+Over: 6
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Villiers
+Over: 6
+Shot: REVERSE_SWEEP
+Run scored: 4
+
+
+
+
+
+Balls faced: 8
+Bowler: Gray
+Over: 5
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Gray
+Over: 5
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Gray
+Over: 5
+Shot: LEG_GLANCE
+Run scored: 4
+
+
+
+
+
+Balls faced: 11
+Bowler: Gray
+Over: 5
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Gray
+Over: 5
+Shot: LEG_GLANCE
+Run scored: 4
+
+
+
+
+
+Balls faced: 13
+Bowler: Coppack
+Over: 7
+Shot: DROP_AND_RUN
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: Coppack
+Over: 7
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Villiers
+Over: 6
+Shot: PUSH_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Villiers
+Over: 6
+Shot: REVERSE_SWEEP
+Run scored: 4
+
+
+
+
+
+Balls faced: 17
+Bowler: Munro
+Over: 8
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Munro
+Over: 8
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 19
+Bowler: Munro
+Over: 8
+Shot: SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Coppack
+Over: 7
+Shot: DROP_AND_RUN
+Run scored: 1
+
+
+
+
+
+Balls faced: 21
+Bowler: Coppack
+Over: 7
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 22
+Bowler: Surenkumar
+Over: 9
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Surenkumar
+Over: 9
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 24
+Bowler: Surenkumar
+Over: 9
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Surenkumar
+Over: 9
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Munro
+Over: 8
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 27
+Bowler: Munro
+Over: 8
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Munro
+Over: 8
+Shot: SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Grewcock
+Over: 10
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: Surenkumar
+Over: 9
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 31
+Bowler: Surenkumar
+Over: 9
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 32
+Bowler: Surenkumar
+Over: 9
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 33
+Bowler: Surenkumar
+Over: 9
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: Villiers
+Over: 11
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 35
+Bowler: Villiers
+Over: 11
+Shot: SWEEP
+Run scored: 6
+
+
+
+
+
+Balls faced: 36
+Bowler: Villiers
+Over: 11
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 37
+Bowler: Grewcock
+Over: 10
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 38
+Bowler: Grewcock
+Over: 12
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 39
+Bowler: Grewcock
+Over: 12
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 40
+Bowler: Villiers
+Over: 11
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 41
+Bowler: Villiers
+Over: 11
+Shot: SWEEP
+Run scored: 6
+
+
+
+
+
+Balls faced: 42
+Bowler: Villiers
+Over: 11
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 43
+Bowler: Munro
+Over: 13
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 44
+Bowler: Grewcock
+Over: 12
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 45
+Bowler: Grewcock
+Over: 12
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 46
+Bowler: Grewcock
+Over: 14
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 47
+Bowler: Grewcock
+Over: 14
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 48
+Bowler: Munro
+Over: 13
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 49
+Bowler: Surenkumar
+Over: 15
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 50
+Bowler: Surenkumar
+Over: 15
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 51
+Bowler: Grewcock
+Over: 14
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 52
+Bowler: Grewcock
+Over: 14
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 53
+Bowler: Villiers
+Over: 16
+Shot: SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 54
+Bowler: Villiers
+Over: 16
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 55
+Bowler: Villiers
+Over: 16
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 56
+Bowler: Villiers
+Over: 16
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 57
+Bowler: Villiers
+Over: 16
+Shot: SWEEP
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 58
+Bowler: Surenkumar
+Over: 15
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 59
+Bowler: Surenkumar
+Over: 15
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 60
+Bowler: Gray
+Over: 17
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 61
+Bowler: Gray
+Over: 17
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 62
+Bowler: Gray
+Over: 17
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 63
+Bowler: Gray
+Over: 17
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 64
+Bowler: Gray
+Over: 17
+Shot: SWEEP
+Run scored: 2
+
+
+
+
+
+Balls faced: 65
+Bowler: Villiers
+Over: 16
+Shot: SWEEP
+Run scored: 1
+
+
+
+
+
+Balls faced: 66
+Bowler: Villiers
+Over: 16
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 67
+Bowler: Villiers
+Over: 16
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 68
+Bowler: Villiers
+Over: 16
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 69
+Bowler: Villiers
+Over: 16
+Shot: SWEEP
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 70
+Bowler: Munro
+Over: 18
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 71
+Bowler: Gray
+Over: 17
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 72
+Bowler: Gray
+Over: 17
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 73
+Bowler: Gray
+Over: 17
+Shot: PULL_HOOK_ON_BACK_FOOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 74
+Bowler: Gray
+Over: 17
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 75
+Bowler: Gray
+Over: 17
+Shot: SWEEP
+Run scored: 2
+
+
+
+
+
+Balls faced: 76
+Bowler: Surenkumar
+Over: 19
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 77
+Bowler: Surenkumar
+Over: 19
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 2
+Balls faced: 78
+Bowler: Surenkumar
+Over: 19
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 79
+Bowler: Surenkumar
+Over: 19
+Shot: SWEEP
+Run scored: 0
+
+
+
+
+
+Balls faced: 80
+Bowler: Munro
+Over: 18
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 81
+Bowler: Munro
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 82
+Bowler: Munro
+Over: 20
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 83
+Bowler: Munro
+Over: 20
+Shot: SWEEP
+Run scored: 2
+
+
+
+
+
+Balls faced: 84
+Bowler: Surenkumar
+Over: 19
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 85
+Bowler: Surenkumar
+Over: 19
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 2
+Balls faced: 86
+Bowler: Surenkumar
+Over: 19
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 87
+Bowler: Surenkumar
+Over: 19
+Shot: SWEEP
+Run scored: 0
+
+
+
+
+
+Balls faced: 88
+Bowler: Munro
+Over: 20
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 89
+Bowler: Munro
+Over: 20
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 90
+Bowler: Munro
+Over: 20
+Shot: SWEEP
+Run scored: 2

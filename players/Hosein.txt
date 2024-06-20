@@ -1,58 +1,789 @@
-Match: southafrica_1433350_1433362.json
+Match: all_games_1373558_1373582.json
+Balls faced: 1
+Bowler: Rashid
+Over: 10
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<b>hoyed high into the leg side... Jacks can't quite flick it back in!</b> Hosein lands a glove on Rashid, who had bowled 11 balls for five runs. Just had the legs to clear deep midwicket, though Jacks put in a valiant effort"}]<b>hoyed high into the leg side... Jacks can't quite flick it back in!</b> Hosein lands a glove on Rashid, who had bowled 11 balls for five runs. Just had the legs to clear deep midwicket, though Jacks put in a valiant effort
+[{"type": "HTML", "html": "Well, this game is moving - and fast. Over to Matt to finish things off"}]Well, this game is moving - and fast. Over to Matt to finish things off
+
+Balls faced: 2
+Bowler: Rashid
+Over: 10
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly, pushed across the lefty, Hosein chops it into the covers"}]googly, pushed across the lefty, Hosein chops it into the covers
+
+
+Balls faced: 3
+Bowler: Rashid
+Over: 10
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "whipped down the ground to long-on"}]whipped down the ground to long-on
+
+
+Balls faced: 4
+Bowler: Rashid
+Over: 10
+Shot: ON_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Akeal Hosein is the new batter"}]Akeal Hosein is the new batter
+
+[{"type": "HTML", "html": "stays over the wicket, spinning from outside off, beats Hosein's flick across the line"}]stays over the wicket, spinning from outside off, beats Hosein's flick across the line
+
+
+Balls faced: 5
+Bowler: Rehan
+Over: 11
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pushed through fast and flat, and past Hosein's attempted hoick down the ground"}]pushed through fast and flat, and past Hosein's attempted hoick down the ground
+
+
+Balls faced: 6
+Bowler: Rehan
+Over: 11
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "googly, whipped off the pads to short fine leg where Moeen gathers and throws towards the non-striker's end"}]googly, whipped off the pads to short fine leg where Moeen gathers and throws towards the non-striker's end
+
+
+Balls faced: 7
+Bowler: Rashid
+Over: 10
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<b>hoyed high into the leg side... Jacks can't quite flick it back in!</b> Hosein lands a glove on Rashid, who had bowled 11 balls for five runs. Just had the legs to clear deep midwicket, though Jacks put in a valiant effort"}]<b>hoyed high into the leg side... Jacks can't quite flick it back in!</b> Hosein lands a glove on Rashid, who had bowled 11 balls for five runs. Just had the legs to clear deep midwicket, though Jacks put in a valiant effort
+[{"type": "HTML", "html": "Well, this game is moving - and fast. Over to Matt to finish things off"}]Well, this game is moving - and fast. Over to Matt to finish things off
+
+Balls faced: 8
+Bowler: Rashid
+Over: 10
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly, pushed across the lefty, Hosein chops it into the covers"}]googly, pushed across the lefty, Hosein chops it into the covers
+
+
+Balls faced: 9
+Bowler: Rashid
+Over: 10
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "whipped down the ground to long-on"}]whipped down the ground to long-on
+
+
+Balls faced: 10
+Bowler: Rashid
+Over: 10
+Shot: ON_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Akeal Hosein is the new batter"}]Akeal Hosein is the new batter
+
+[{"type": "HTML", "html": "stays over the wicket, spinning from outside off, beats Hosein's flick across the line"}]stays over the wicket, spinning from outside off, beats Hosein's flick across the line
+
+
+Balls faced: 11
+Bowler: Rashid
+Over: 12
+Shot: ON_DRIVE
+Run scored: 2
+
+
+[{"type": "HTML", "html": "<strong>superb from Brook on the long-on boundary</strong>. Full and straight, thumped down the ground and Brook dives low to his right to flick it back"}]<strong>superb from Brook on the long-on boundary</strong>. Full and straight, thumped down the ground and Brook dives low to his right to flick it back
+
+
+Balls faced: 12
+Bowler: Rashid
+Over: 12
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "tossed up, almost like a Moonball from the Jeremy Snape era. Knocked down to wide long-on"}]tossed up, almost like a Moonball from the Jeremy Snape era. Knocked down to wide long-on
+
+
+Balls faced: 13
+Bowler: Rashid
+Over: 12
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly, pushed to short cover"}]googly, pushed to short cover
+
+
+Balls faced: 14
+Bowler: Rehan
+Over: 11
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "pushed through fast and flat, and past Hosein's attempted hoick down the ground"}]pushed through fast and flat, and past Hosein's attempted hoick down the ground
+
+
+Balls faced: 15
+Bowler: Rehan
+Over: 11
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "googly, whipped off the pads to short fine leg where Moeen gathers and throws towards the non-striker's end"}]googly, whipped off the pads to short fine leg where Moeen gathers and throws towards the non-striker's end
+
+
+Balls faced: 16
+Bowler: Sam Curran
+Over: 13
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "dug in halfway down, Hosein skies the pull shot and <strong>Moeen settles underneath it</strong>, running in from deep midwicket. A slower-ball bouncer, which Hosein jumped to reach. Nowhere near the middle of the bat, and a simple chance for England's vice-captain"}]dug in halfway down, Hosein skies the pull shot and <strong>Moeen settles underneath it</strong>, running in from deep midwicket. A slower-ball bouncer, which Hosein jumped to reach. Nowhere near the middle of the bat, and a simple chance for England's vice-captain
+[{"type": "HTML", "html": "Amis: \"This game the closest thing I've seen to stick cricket\" -- Remember, every ball can be hit for six"}]Amis: "This game the closest thing I've seen to stick cricket" -- Remember, every ball can be hit for six
+
+Balls faced: 17
+Bowler: Sam Curran
+Over: 13
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "half-volley outside off stump, <strong>smashed through the off side for four</strong>! Brook raced around from wide long-off and dived and full stretch but could only parry it into the toblerone"}]half-volley outside off stump, <strong>smashed through the off side for four</strong>! Brook raced around from wide long-off and dived and full stretch but could only parry it into the toblerone
+
+
+Balls faced: 18
+Bowler: Rashid
+Over: 12
+Shot: ON_DRIVE
+Run scored: 2
+
+
+[{"type": "HTML", "html": "<strong>superb from Brook on the long-on boundary</strong>. Full and straight, thumped down the ground and Brook dives low to his right to flick it back"}]<strong>superb from Brook on the long-on boundary</strong>. Full and straight, thumped down the ground and Brook dives low to his right to flick it back
+
+
+Balls faced: 19
+Bowler: Rashid
+Over: 12
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "tossed up, almost like a Moonball from the Jeremy Snape era. Knocked down to wide long-on"}]tossed up, almost like a Moonball from the Jeremy Snape era. Knocked down to wide long-on
+
+
+Balls faced: 20
+Bowler: Rashid
+Over: 12
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "googly, pushed to short cover"}]googly, pushed to short cover
+
+
+Balls faced: 21
+Bowler: Sam Curran
+Over: 13
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "dug in halfway down, Hosein skies the pull shot and <strong>Moeen settles underneath it</strong>, running in from deep midwicket. A slower-ball bouncer, which Hosein jumped to reach. Nowhere near the middle of the bat, and a simple chance for England's vice-captain"}]dug in halfway down, Hosein skies the pull shot and <strong>Moeen settles underneath it</strong>, running in from deep midwicket. A slower-ball bouncer, which Hosein jumped to reach. Nowhere near the middle of the bat, and a simple chance for England's vice-captain
+[{"type": "HTML", "html": "Amis: \"This game the closest thing I've seen to stick cricket\" -- Remember, every ball can be hit for six"}]Amis: "This game the closest thing I've seen to stick cricket" -- Remember, every ball can be hit for six
+
+Balls faced: 22
+Bowler: Sam Curran
+Over: 13
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "half-volley outside off stump, <strong>smashed through the off side for four</strong>! Brook raced around from wide long-off and dived and full stretch but could only parry it into the toblerone"}]half-volley outside off stump, <strong>smashed through the off side for four</strong>! Brook raced around from wide long-off and dived and full stretch but could only parry it into the toblerone
+
+
+
+Match: all_games_1375837_1375850.json
+Balls faced: 1
+Bowler: Behrendorff
+Over: 18
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full toss on the stumps, worked to deep square leg"}]full toss on the stumps, worked to deep square leg
+
+
+Balls faced: 2
+Bowler: Hazlewood
+Over: 19
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "through him, 139ph, full and spearing past off stump. Hazlewood closed that out very well"}]through him, 139ph, full and spearing past off stump. Hazlewood closed that out very well
+
+
+Balls faced: 3
+Bowler: Hazlewood
+Over: 19
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "gets the wide yorker on target this time, driven to deep point"}]gets the wide yorker on target this time, driven to deep point
+[{"type": "HTML", "html": "Holder needs to find at least two sixes in these four balls"}]Holder needs to find at least two sixes in these four balls
+
+Balls faced: 4
+Bowler: Hazlewood
+Over: 19
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "and now a wide, sprayed well outside off as he goes for the wide yorker"}]and now a wide, sprayed well outside off as he goes for the wide yorker
+[{"type": "HTML", "html": "Suyog: \"Hold on MoM predictions. It may just be Holder with 12 more balls to go\""}]Suyog: "Hold on MoM predictions. It may just be Holder with 12 more balls to go"
+Wide: 1
+Balls faced: 5
+Bowler: Hazlewood
+Over: 19
+Shot: ON_DRIVE
+Run scored: 4
+[{"type": "HTML", "html": "Hazlewood for his last"}]Hazlewood for his last
+
+[{"type": "HTML", "html": "<b>good shot!</b> Back of a length outside off, driven straight down the ground. Nicely done from the No. 10"}]<b>good shot!</b> Back of a length outside off, driven straight down the ground. Nicely done from the No. 10
+
+
+Balls faced: 6
+Bowler: Behrendorff
+Over: 18
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full toss on the stumps, worked to deep square leg"}]full toss on the stumps, worked to deep square leg
+
+
+Balls faced: 7
+Bowler: Abbott
+Over: 20
+Shot: STRAIGHT_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full outside off, steps across a crunches a drive, Abbott gets a boot on it"}]full outside off, steps across a crunches a drive, Abbott gets a boot on it
+
+
+Balls faced: 8
+Bowler: Hazlewood
+Over: 19
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "through him, 139ph, full and spearing past off stump. Hazlewood closed that out very well"}]through him, 139ph, full and spearing past off stump. Hazlewood closed that out very well
+
+
+Balls faced: 9
+Bowler: Hazlewood
+Over: 19
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "gets the wide yorker on target this time, driven to deep point"}]gets the wide yorker on target this time, driven to deep point
+[{"type": "HTML", "html": "Holder needs to find at least two sixes in these four balls"}]Holder needs to find at least two sixes in these four balls
+
+Balls faced: 10
+Bowler: Hazlewood
+Over: 19
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "and now a wide, sprayed well outside off as he goes for the wide yorker"}]and now a wide, sprayed well outside off as he goes for the wide yorker
+[{"type": "HTML", "html": "Suyog: \"Hold on MoM predictions. It may just be Holder with 12 more balls to go\""}]Suyog: "Hold on MoM predictions. It may just be Holder with 12 more balls to go"
+Wide: 1
+Balls faced: 11
+Bowler: Hazlewood
+Over: 19
+Shot: ON_DRIVE
+Run scored: 4
+[{"type": "HTML", "html": "Hazlewood for his last"}]Hazlewood for his last
+
+[{"type": "HTML", "html": "<b>good shot!</b> Back of a length outside off, driven straight down the ground. Nicely done from the No. 10"}]<b>good shot!</b> Back of a length outside off, driven straight down the ground. Nicely done from the No. 10
+
+
+Balls faced: 12
+Bowler: Abbott
+Over: 20
+Shot: STRAIGHT_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full outside off, steps across a crunches a drive, Abbott gets a boot on it"}]full outside off, steps across a crunches a drive, Abbott gets a boot on it
+
+
+
+Match: all_games_1375837_1375851.json
+Balls faced: 1
+Bowler: Hazlewood
+Over: 18
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b>fantastic delivery!</b> You won't see a better yorker. And it's a knuckle ball. Into the base of off stump. Superb bowling"}]<b>fantastic delivery!</b> You won't see a better yorker. And it's a knuckle ball. Into the base of off stump. Superb bowling
+
+
+Balls faced: 2
+Bowler: Hazlewood
+Over: 18
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<b>fantastic delivery!</b> You won't see a better yorker. And it's a knuckle ball. Into the base of off stump. Superb bowling"}]<b>fantastic delivery!</b> You won't see a better yorker. And it's a knuckle ball. Into the base of off stump. Superb bowling
+
+
+
+Match: all_games_1411166_1415726.json
+Balls faced: 1
+Bowler: Neesham
+Over: 7
+Shot: COVER_DRIVE
+Run scored: 1
+[{"type": "HTML", "html": "Hosein in at 7. Perhaps to help the two-time champions consolidate. Neesham goes back to around the wicket"}]Hosein in at 7. Perhaps to help the two-time champions consolidate. Neesham goes back to around the wicket
+
+[{"type": "HTML", "html": "<strong>edged!</strong> Full and wide outside off. Hosein goes nibbling at it and edges it down to third man"}]<strong>edged!</strong> Full and wide outside off. Hosein goes nibbling at it and edges it down to third man
+
+
+Balls faced: 2
+Bowler: Ferguson
+Over: 8
+Shot: DEFENDED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on off. Hosein stabs at it and chunks it off the inside half of the bat towards deep square leg"}]back of a length on off. Hosein stabs at it and chunks it off the inside half of the bat towards deep square leg
+
+
+Balls faced: 3
+Bowler: Ferguson
+Over: 8
+Shot: ON_DRIVE
+Run scored: 2
+[{"type": "HTML", "html": "Around the wicket now"}]Around the wicket now
+
+[{"type": "HTML", "html": "full outside off. Hosein comes forward and pushes it towards mid off. Williamson misfields and that allows the second. First real mistake NZ have made in the field tonight"}]full outside off. Hosein comes forward and pushes it towards mid off. Williamson misfields and that allows the second. First real mistake NZ have made in the field tonight
+
+
+Balls faced: 4
+Bowler: Ferguson
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Hosein stays back and defends"}]back of a length just outside off. Hosein stays back and defends
+
+
+Balls faced: 5
+Bowler: Ferguson
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length on leg stump. Pitches and nips back in, going past the inside edge of Hosein's bat and thudding into his thigh pad"}]length on leg stump. Pitches and nips back in, going past the inside edge of Hosein's bat and thudding into his thigh pad
+
+
+Balls faced: 6
+Bowler: Neesham
+Over: 7
+Shot: COVER_DRIVE
+Run scored: 1
+[{"type": "HTML", "html": "Hosein in at 7. Perhaps to help the two-time champions consolidate. Neesham goes back to around the wicket"}]Hosein in at 7. Perhaps to help the two-time champions consolidate. Neesham goes back to around the wicket
+
+[{"type": "HTML", "html": "<strong>edged!</strong> Full and wide outside off. Hosein goes nibbling at it and edges it down to third man"}]<strong>edged!</strong> Full and wide outside off. Hosein goes nibbling at it and edges it down to third man
+
+
+Balls faced: 7
+Bowler: Phillips
+Over: 9
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on middle and off. Hosein waits in his crease and punches it to long on"}]back of a length on middle and off. Hosein waits in his crease and punches it to long on
+
+
+Balls faced: 8
+Bowler: Phillips
+Over: 9
+Shot: ON_DRIVE
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<strong>clean as a whistle!</strong> Tossed up into the slot outside off and Hosein climbs into it. Plants his front foot, swings through the line and pumps it over long off!"}]<strong>clean as a whistle!</strong> Tossed up into the slot outside off and Hosein climbs into it. Plants his front foot, swings through the line and pumps it over long off!
+
+
+Balls faced: 9
+Bowler: Phillips
+Over: 9
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "slowed up on a full length on middle and off. Hosein stretches forward and knocks it to long off"}]slowed up on a full length on middle and off. Hosein stretches forward and knocks it to long off
+
+
+Balls faced: 10
+Bowler: Phillips
+Over: 9
+Shot: PUSH
+Run scored: 0
+[{"type": "HTML", "html": "First look at spin tonight. Here's Phillips. Around the wicket to Hosein"}]First look at spin tonight. Here's Phillips. Around the wicket to Hosein
+
+[{"type": "HTML", "html": "very full on leg stump. Hosein digs it out towards the bowler"}]very full on leg stump. Hosein digs it out towards the bowler
+
+
+Balls faced: 11
+Bowler: Ferguson
+Over: 8
+Shot: DEFENDED
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on off. Hosein stabs at it and chunks it off the inside half of the bat towards deep square leg"}]back of a length on off. Hosein stabs at it and chunks it off the inside half of the bat towards deep square leg
+
+
+Balls faced: 12
+Bowler: Ferguson
+Over: 8
+Shot: ON_DRIVE
+Run scored: 2
+[{"type": "HTML", "html": "Around the wicket now"}]Around the wicket now
+
+[{"type": "HTML", "html": "full outside off. Hosein comes forward and pushes it towards mid off. Williamson misfields and that allows the second. First real mistake NZ have made in the field tonight"}]full outside off. Hosein comes forward and pushes it towards mid off. Williamson misfields and that allows the second. First real mistake NZ have made in the field tonight
+
+
+Balls faced: 13
+Bowler: Ferguson
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Hosein stays back and defends"}]back of a length just outside off. Hosein stays back and defends
+
+
+Balls faced: 14
+Bowler: Ferguson
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length on leg stump. Pitches and nips back in, going past the inside edge of Hosein's bat and thudding into his thigh pad"}]length on leg stump. Pitches and nips back in, going past the inside edge of Hosein's bat and thudding into his thigh pad
+
+
+Balls faced: 15
+Bowler: Neesham
+Over: 10
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>oh dear!</strong> Back of a length just outside off and that almost rolls along the floor. Hosein cannot get his bat down and that is another sign of variable bounce"}]<strong>oh dear!</strong> Back of a length just outside off and that almost rolls along the floor. Hosein cannot get his bat down and that is another sign of variable bounce
+[{"type": "HTML", "html": "NZ will definitely be the happier of the two sides at the drinks break. This is a good partnership, though, and if they can stick around for a few more overs, WI will think they can get up to 125-130, which could be competitive on a surface that has been two-paced and has exhibited variable bounce"}]NZ will definitely be the happier of the two sides at the drinks break. This is a good partnership, though, and if they can stick around for a few more overs, WI will think they can get up to 125-130, which could be competitive on a surface that has been two-paced and has exhibited variable bounce
+
+Balls faced: 16
+Bowler: Neesham
+Over: 10
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length in the sixth stump channel. Holds its line after pitching and Hosein, feeling for it outside his eye-line, sees the ball sneak past the outside edge"}]length in the sixth stump channel. Holds its line after pitching and Hosein, feeling for it outside his eye-line, sees the ball sneak past the outside edge
+
+
+Balls faced: 17
+Bowler: Neesham
+Over: 10
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "off-pace on a length just outside off. Deviates into Hosein and he is beaten on the inside as he looks to defend. Gets struck on the thigh"}]off-pace on a length just outside off. Deviates into Hosein and he is beaten on the inside as he looks to defend. Gets struck on the thigh
+
+
+Balls faced: 18
+Bowler: Neesham
+Over: 10
+Shot: LEG_GLANCE
+Run scored: 1
+[{"type": "HTML", "html": "Neesham back for his second"}]Neesham back for his second
+
+[{"type": "HTML", "html": "back of a length just outside off. Hosein goes back and works it towards deep square leg"}]back of a length just outside off. Hosein goes back and works it towards deep square leg
+
+
+Balls faced: 19
+Bowler: Phillips
+Over: 9
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on middle and off. Hosein waits in his crease and punches it to long on"}]back of a length on middle and off. Hosein waits in his crease and punches it to long on
+
+
+Balls faced: 20
+Bowler: Phillips
+Over: 9
+Shot: ON_DRIVE
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<strong>clean as a whistle!</strong> Tossed up into the slot outside off and Hosein climbs into it. Plants his front foot, swings through the line and pumps it over long off!"}]<strong>clean as a whistle!</strong> Tossed up into the slot outside off and Hosein climbs into it. Plants his front foot, swings through the line and pumps it over long off!
+
+
+Balls faced: 21
+Bowler: Phillips
+Over: 9
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "slowed up on a full length on middle and off. Hosein stretches forward and knocks it to long off"}]slowed up on a full length on middle and off. Hosein stretches forward and knocks it to long off
+
+
+Balls faced: 22
+Bowler: Phillips
+Over: 9
+Shot: PUSH
+Run scored: 0
+[{"type": "HTML", "html": "First look at spin tonight. Here's Phillips. Around the wicket to Hosein"}]First look at spin tonight. Here's Phillips. Around the wicket to Hosein
+
+[{"type": "HTML", "html": "very full on leg stump. Hosein digs it out towards the bowler"}]very full on leg stump. Hosein digs it out towards the bowler
+
+
+Balls faced: 23
+Bowler: Santner
+Over: 11
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>taken sharply by Neesham!</strong> Back of a length on middle and off. Holds in the surface and spins back into Hosein. He tries to work it past short mid wicket but hits it uppishly. Neesham snaps to his left and gobbles up the chance. Just as a partnership was building, WI lose their sixth!"}]<strong>taken sharply by Neesham!</strong> Back of a length on middle and off. Holds in the surface and spins back into Hosein. He tries to work it past short mid wicket but hits it uppishly. Neesham snaps to his left and gobbles up the chance. Just as a partnership was building, WI lose their sixth!
+
+
+Balls faced: 24
+Bowler: Santner
+Over: 11
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "given plenty of air on a full length outside off. Hosein gets down on one knee and drags it to deep mid wicket's left"}]given plenty of air on a full length outside off. Hosein gets down on one knee and drags it to deep mid wicket's left
+
+
+Balls faced: 25
+Bowler: Santner
+Over: 11
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "floated up fuller outside off. Hosein comes forward and plays it back to the bowler, who dives to his left and stops it one-handed"}]floated up fuller outside off. Hosein comes forward and plays it back to the bowler, who dives to his left and stops it one-handed
+
+
+Balls faced: 26
+Bowler: Santner
+Over: 11
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Hosein turns it towards short mid wicket"}]back of a length just outside off. Hosein turns it towards short mid wicket
+
+
+Balls faced: 27
+Bowler: Neesham
+Over: 10
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>oh dear!</strong> Back of a length just outside off and that almost rolls along the floor. Hosein cannot get his bat down and that is another sign of variable bounce"}]<strong>oh dear!</strong> Back of a length just outside off and that almost rolls along the floor. Hosein cannot get his bat down and that is another sign of variable bounce
+[{"type": "HTML", "html": "NZ will definitely be the happier of the two sides at the drinks break. This is a good partnership, though, and if they can stick around for a few more overs, WI will think they can get up to 125-130, which could be competitive on a surface that has been two-paced and has exhibited variable bounce"}]NZ will definitely be the happier of the two sides at the drinks break. This is a good partnership, though, and if they can stick around for a few more overs, WI will think they can get up to 125-130, which could be competitive on a surface that has been two-paced and has exhibited variable bounce
+
+Balls faced: 28
+Bowler: Neesham
+Over: 10
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "length in the sixth stump channel. Holds its line after pitching and Hosein, feeling for it outside his eye-line, sees the ball sneak past the outside edge"}]length in the sixth stump channel. Holds its line after pitching and Hosein, feeling for it outside his eye-line, sees the ball sneak past the outside edge
+
+
+Balls faced: 29
+Bowler: Neesham
+Over: 10
+Shot: PUSH
+Run scored: 0
+
+
+[{"type": "HTML", "html": "off-pace on a length just outside off. Deviates into Hosein and he is beaten on the inside as he looks to defend. Gets struck on the thigh"}]off-pace on a length just outside off. Deviates into Hosein and he is beaten on the inside as he looks to defend. Gets struck on the thigh
+
+
+Balls faced: 30
+Bowler: Neesham
+Over: 10
+Shot: LEG_GLANCE
+Run scored: 1
+[{"type": "HTML", "html": "Neesham back for his second"}]Neesham back for his second
+
+[{"type": "HTML", "html": "back of a length just outside off. Hosein goes back and works it towards deep square leg"}]back of a length just outside off. Hosein goes back and works it towards deep square leg
+
+
+Balls faced: 31
+Bowler: Santner
+Over: 11
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>taken sharply by Neesham!</strong> Back of a length on middle and off. Holds in the surface and spins back into Hosein. He tries to work it past short mid wicket but hits it uppishly. Neesham snaps to his left and gobbles up the chance. Just as a partnership was building, WI lose their sixth!"}]<strong>taken sharply by Neesham!</strong> Back of a length on middle and off. Holds in the surface and spins back into Hosein. He tries to work it past short mid wicket but hits it uppishly. Neesham snaps to his left and gobbles up the chance. Just as a partnership was building, WI lose their sixth!
+
+
+Balls faced: 32
+Bowler: Santner
+Over: 11
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "given plenty of air on a full length outside off. Hosein gets down on one knee and drags it to deep mid wicket's left"}]given plenty of air on a full length outside off. Hosein gets down on one knee and drags it to deep mid wicket's left
+
+
+Balls faced: 33
+Bowler: Santner
+Over: 11
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "floated up fuller outside off. Hosein comes forward and plays it back to the bowler, who dives to his left and stops it one-handed"}]floated up fuller outside off. Hosein comes forward and plays it back to the bowler, who dives to his left and stops it one-handed
+
+
+Balls faced: 34
+Bowler: Santner
+Over: 11
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Hosein turns it towards short mid wicket"}]back of a length just outside off. Hosein turns it towards short mid wicket
+
+
+
+Match: all_games_1433350_1433362.json
 Balls faced: 1
 Bowler: Phehlukwayo
-Over:15
+Over: 15
 Shot: ON_DRIVE
-run scored: 2
-Driven well off the front foot, long-off runs to the right and stops it
-Phehlukwayo finishes with a three-for
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Driven well off the front foot, long-off runs to the right and stops it"}]Driven well off the front foot, long-off runs to the right and stops it
+[{"type": "HTML", "html": "Phehlukwayo finishes with a three-for"}]Phehlukwayo finishes with a three-for
+
 Balls faced: 2
 Bowler: Phehlukwayo
-Over:15
+Over: 15
 Shot: PUSH
-run scored: 0
-<strong>WI are collapsing but low bounce this sharp isn't too bad a sign</strong>. This scooted off a length and, luckily for Hosein, the line was around fifth stump. So being bowled wasn't a threat after it went below the back-foot straight punch. Eventually beat QDK too
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>WI are collapsing but low bounce this sharp isn't too bad a sign</strong>. This scooted off a length and, luckily for Hosein, the line was around fifth stump. So being bowled wasn't a threat after it went below the back-foot straight punch. Eventually beat QDK too"}]<strong>WI are collapsing but low bounce this sharp isn't too bad a sign</strong>. This scooted off a length and, luckily for Hosein, the line was around fifth stump. So being bowled wasn't a threat after it went below the back-foot straight punch. Eventually beat QDK too
+
 Byes: 4
 Balls faced: 3
 Bowler: Phehlukwayo
-Over:15
+Over: 15
 Shot: ON_DRIVE
-run scored: 2
-Driven well off the front foot, long-off runs to the right and stops it
-Phehlukwayo finishes with a three-for
+Run scored: 2
+
+
+[{"type": "HTML", "html": "Driven well off the front foot, long-off runs to the right and stops it"}]Driven well off the front foot, long-off runs to the right and stops it
+[{"type": "HTML", "html": "Phehlukwayo finishes with a three-for"}]Phehlukwayo finishes with a three-for
+
 Balls faced: 4
 Bowler: Phehlukwayo
-Over:15
+Over: 15
 Shot: PUSH
-run scored: 0
-<strong>WI are collapsing but low bounce this sharp isn't too bad a sign</strong>. This scooted off a length and, luckily for Hosein, the line was around fifth stump. So being bowled wasn't a threat after it went below the back-foot straight punch. Eventually beat QDK too
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>WI are collapsing but low bounce this sharp isn't too bad a sign</strong>. This scooted off a length and, luckily for Hosein, the line was around fifth stump. So being bowled wasn't a threat after it went below the back-foot straight punch. Eventually beat QDK too"}]<strong>WI are collapsing but low bounce this sharp isn't too bad a sign</strong>. This scooted off a length and, luckily for Hosein, the line was around fifth stump. So being bowled wasn't a threat after it went below the back-foot straight punch. Eventually beat QDK too
+
 Byes: 4
 Balls faced: 5
 Bowler: Baartman
-Over:17
+Over: 17
 Shot: PUSH
-run scored: 0
-OUT! {"short": "bowled", "long": " b Baartman", "commentary": "Akeal Hosein b Baartman 2 (3b 0x4 0x6 7m) SR: 66.66"}
-<strong>Another shooter gets a wicket</strong>. Not much Hosein could've done there, especially after going on the back foot to a fullish length ball that was jagging back at 134ks. He was deep in the crease and was swindled by the low bounce. Looked like the wobble ball. Lots of similarities to a Stuart Broad delivery
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Another shooter gets a wicket</strong>. Not much Hosein could've done there, especially after going on the back foot to a fullish length ball that was jagging back at 134ks. He was deep in the crease and was swindled by the low bounce. Looked like the wobble ball. Lots of similarities to a Stuart Broad delivery"}]<strong>Another shooter gets a wicket</strong>. Not much Hosein could've done there, especially after going on the back foot to a fullish length ball that was jagging back at 134ks. He was deep in the crease and was swindled by the low bounce. Looked like the wobble ball. Lots of similarities to a Stuart Broad delivery
+
+
 Balls faced: 6
 Bowler: Baartman
-Over:17
+Over: 17
 Shot: PUSH
-run scored: 0
-OUT! {"short": "bowled", "long": " b Baartman", "commentary": "Akeal Hosein b Baartman 2 (3b 0x4 0x6 7m) SR: 66.66"}
-<strong>Another shooter gets a wicket</strong>. Not much Hosein could've done there, especially after going on the back foot to a fullish length ball that was jagging back at 134ks. He was deep in the crease and was swindled by the low bounce. Looked like the wobble ball. Lots of similarities to a Stuart Broad delivery
-Match: southafrica_1433350_1433363.json
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Another shooter gets a wicket</strong>. Not much Hosein could've done there, especially after going on the back foot to a fullish length ball that was jagging back at 134ks. He was deep in the crease and was swindled by the low bounce. Looked like the wobble ball. Lots of similarities to a Stuart Broad delivery"}]<strong>Another shooter gets a wicket</strong>. Not much Hosein could've done there, especially after going on the back foot to a fullish length ball that was jagging back at 134ks. He was deep in the crease and was swindled by the low bounce. Looked like the wobble ball. Lots of similarities to a Stuart Broad delivery
+
+
+
+Match: all_games_1433350_1433363.json
 Balls faced: 1
 Bowler: Ngidi
-Over:20
+Over: 20
 Shot: SLOG_SHOT
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020de Kock b Ngidi", "commentary": "Akeal Hosein c \u2020de Kock b Ngidi 0 (1b 0x4 0x6 1m) SR: 0"}
-bowls from around the stumps, and bowls it full and wide outside off. It's the cutter as well and the left-handed Hosein gets an outside edge to the keeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "bowls from around the stumps, and bowls it full and wide outside off. It's the cutter as well and the left-handed Hosein gets an outside edge to the keeper"}]bowls from around the stumps, and bowls it full and wide outside off. It's the cutter as well and the left-handed Hosein gets an outside edge to the keeper
+
+
 Balls faced: 2
 Bowler: Ngidi
-Over:20
+Over: 20
 Shot: SLOG_SHOT
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020de Kock b Ngidi", "commentary": "Akeal Hosein c \u2020de Kock b Ngidi 0 (1b 0x4 0x6 1m) SR: 0"}
-bowls from around the stumps, and bowls it full and wide outside off. It's the cutter as well and the left-handed Hosein gets an outside edge to the keeper
+Run scored: 0
+
+
+[{"type": "HTML", "html": "bowls from around the stumps, and bowls it full and wide outside off. It's the cutter as well and the left-handed Hosein gets an outside edge to the keeper"}]bowls from around the stumps, and bowls it full and wide outside off. It's the cutter as well and the left-handed Hosein gets an outside edge to the keeper
