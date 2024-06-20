@@ -47,6 +47,8 @@ if st.button("Go! Get Strategy"):
     if selected_file and prompt:
         # Read the content of the selected player file
         player_content = read_file(os.path.join(player_directory, selected_file))
+
+        st.markdown(player_content)
         
         # Concatenate player content and custom prompt
         final_prompt = prompt + "\n" + player_content  
