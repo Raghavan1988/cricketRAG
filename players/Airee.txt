@@ -1,143 +1,1483 @@
-Match: southafrica_1411166_1415731.json
+Match: all_games_1377745_1377751.json
+Balls faced: 1
+Bowler: Taylor
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Quicker length ball outside off, he gets across and defends"}]Quicker length ball outside off, he gets across and defends
+
+
+Balls faced: 2
+Bowler: Taylor
+Over: 33
+Shot: SQUARE_DRIVE
+Run scored: 1
+[{"type": "HTML", "html": "Dipendra Airee has a task up his sleeve. Over the wicket is Taylor"}]Dipendra Airee has a task up his sleeve. Over the wicket is Taylor
+
+[{"type": "HTML", "html": "Slower length ball well outside off, he slaps it deep point"}]Slower length ball well outside off, he slaps it deep point
+
+
+Balls faced: 3
+Bowler: Kenjige
+Over: 34
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Pushed through outside off, he pats it to cover and they take another quick run"}]Pushed through outside off, he pats it to cover and they take another quick run
+
+
+Balls faced: 4
+Bowler: Taylor
+Over: 33
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Quicker length ball outside off, he gets across and defends"}]Quicker length ball outside off, he gets across and defends
+
+
+Balls faced: 5
+Bowler: Taylor
+Over: 33
+Shot: SQUARE_DRIVE
+Run scored: 1
+[{"type": "HTML", "html": "Dipendra Airee has a task up his sleeve. Over the wicket is Taylor"}]Dipendra Airee has a task up his sleeve. Over the wicket is Taylor
+
+[{"type": "HTML", "html": "Slower length ball well outside off, he slaps it deep point"}]Slower length ball well outside off, he slaps it deep point
+
+
+Balls faced: 6
+Bowler: Taylor
+Over: 35
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Turns that length ball sharply into Airee who stays back and taps to covers for a quick run"}]Turns that length ball sharply into Airee who stays back and taps to covers for a quick run
+
+
+Balls faced: 7
+Bowler: Taylor
+Over: 35
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Skips down the track and pats the length ball back to the bowler"}]Skips down the track and pats the length ball back to the bowler
+
+
+Balls faced: 8
+Bowler: Taylor
+Over: 35
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Oh, shot, yeah!</strong> Too full and too wide from Taylor and duly punished. Unfurls a full-blooded cover drive through covers"}]<strong>Oh, shot, yeah!</strong> Too full and too wide from Taylor and duly punished. Unfurls a full-blooded cover drive through covers
+
+
+Balls faced: 9
+Bowler: Kenjige
+Over: 34
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Pushed through outside off, he pats it to cover and they take another quick run"}]Pushed through outside off, he pats it to cover and they take another quick run
+
+
+Balls faced: 10
+Bowler: Kenjige
+Over: 36
+Shot: PULL
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Oh, that's a lovely sweep. Gets inside the line again to the length ball on middle and slams it to the right of short fine leg. The 3D player that is Airee, is doing the job"}]Oh, that's a lovely sweep. Gets inside the line again to the length ball on middle and slams it to the right of short fine leg. The 3D player that is Airee, is doing the job
+
+
+Balls faced: 11
+Bowler: Kenjige
+Over: 36
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length as he goes back and plays it back to the bowler"}]Length as he goes back and plays it back to the bowler
+
+
+Balls faced: 12
+Bowler: Kenjige
+Over: 36
+Shot: PULL
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<b>SHOT!</b> Just a touch short on off as Airee goes back and hacks the pull over a leaping midwicket and the ball shoots away to the fence"}]<b>SHOT!</b> Just a touch short on off as Airee goes back and hacks the pull over a leaping midwicket and the ball shoots away to the fence
+
+
+Balls faced: 13
+Bowler: Kenjige
+Over: 36
+Shot: STRAIGHT_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Jumps down the track to the full ball and thumps it past the bowler to long off for a run"}]Jumps down the track to the full ball and thumps it past the bowler to long off for a run
+
+
+Balls faced: 14
+Bowler: Kenjige
+Over: 36
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Slider into the batter, who defends"}]Slider into the batter, who defends
+
+
+Balls faced: 15
+Bowler: Taylor
+Over: 35
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Turns that length ball sharply into Airee who stays back and taps to covers for a quick run"}]Turns that length ball sharply into Airee who stays back and taps to covers for a quick run
+
+
+Balls faced: 16
+Bowler: Taylor
+Over: 35
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Skips down the track and pats the length ball back to the bowler"}]Skips down the track and pats the length ball back to the bowler
+
+
+Balls faced: 17
+Bowler: Taylor
+Over: 35
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Oh, shot, yeah!</strong> Too full and too wide from Taylor and duly punished. Unfurls a full-blooded cover drive through covers"}]<strong>Oh, shot, yeah!</strong> Too full and too wide from Taylor and duly punished. Unfurls a full-blooded cover drive through covers
+
+
+Balls faced: 18
+Bowler: Taylor
+Over: 37
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Darted on middle stump, Airee whips it to the left of short midwicket who makes a one-handed stop"}]Darted on middle stump, Airee whips it to the left of short midwicket who makes a one-handed stop
+
+
+Balls faced: 19
+Bowler: Kenjige
+Over: 36
+Shot: PULL
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Oh, that's a lovely sweep. Gets inside the line again to the length ball on middle and slams it to the right of short fine leg. The 3D player that is Airee, is doing the job"}]Oh, that's a lovely sweep. Gets inside the line again to the length ball on middle and slams it to the right of short fine leg. The 3D player that is Airee, is doing the job
+
+
+Balls faced: 20
+Bowler: Kenjige
+Over: 36
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length as he goes back and plays it back to the bowler"}]Length as he goes back and plays it back to the bowler
+
+
+Balls faced: 21
+Bowler: Kenjige
+Over: 36
+Shot: PULL
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<b>SHOT!</b> Just a touch short on off as Airee goes back and hacks the pull over a leaping midwicket and the ball shoots away to the fence"}]<b>SHOT!</b> Just a touch short on off as Airee goes back and hacks the pull over a leaping midwicket and the ball shoots away to the fence
+
+
+Balls faced: 22
+Bowler: Kenjige
+Over: 36
+Shot: STRAIGHT_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Jumps down the track to the full ball and thumps it past the bowler to long off for a run"}]Jumps down the track to the full ball and thumps it past the bowler to long off for a run
+
+
+Balls faced: 23
+Bowler: Kenjige
+Over: 36
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Slider into the batter, who defends"}]Slider into the batter, who defends
+
+
+Balls faced: 24
+Bowler: Jasdeep
+Over: 38
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball just outside off, he gets a thickish outside edge towards point"}]Length ball just outside off, he gets a thickish outside edge towards point
+
+
+Balls faced: 25
+Bowler: Jasdeep
+Over: 38
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Loud appeal for lbw, but think that was high.</strong> Back of a length that comes back into the batter. Airee gets across and is rapped high on the pad."}]<strong>Loud appeal for lbw, but think that was high.</strong> Back of a length that comes back into the batter. Airee gets across and is rapped high on the pad.
+
+
+Balls faced: 26
+Bowler: Jasdeep
+Over: 38
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length just outside off stump, Airee opens the face of the bat to point"}]On a length just outside off stump, Airee opens the face of the bat to point
+
+
+Balls faced: 27
+Bowler: Taylor
+Over: 37
+Shot: ON_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Darted on middle stump, Airee whips it to the left of short midwicket who makes a one-handed stop"}]Darted on middle stump, Airee whips it to the left of short midwicket who makes a one-handed stop
+
+
+Balls faced: 28
+Bowler: Patel
+Over: 39
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "He skips down the track and pushes to long off"}]He skips down the track and pushes to long off
+
+
+Balls faced: 29
+Bowler: Patel
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length outside off, pushed to cover"}]Length outside off, pushed to cover
+
+
+Balls faced: 30
+Bowler: Jasdeep
+Over: 38
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length ball just outside off, he gets a thickish outside edge towards point"}]Length ball just outside off, he gets a thickish outside edge towards point
+
+
+Balls faced: 31
+Bowler: Jasdeep
+Over: 38
+Shot: FLICK
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Loud appeal for lbw, but think that was high.</strong> Back of a length that comes back into the batter. Airee gets across and is rapped high on the pad."}]<strong>Loud appeal for lbw, but think that was high.</strong> Back of a length that comes back into the batter. Airee gets across and is rapped high on the pad.
+
+
+Balls faced: 32
+Bowler: Jasdeep
+Over: 38
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "On a length just outside off stump, Airee opens the face of the bat to point"}]On a length just outside off stump, Airee opens the face of the bat to point
+
+
+Balls faced: 33
+Bowler: Jasdeep
+Over: 40
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "On a length outside off, he pats it towards point and sets off quickly."}]On a length outside off, he pats it towards point and sets off quickly.
+
+
+Balls faced: 34
+Bowler: Patel
+Over: 39
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "He skips down the track and pushes to long off"}]He skips down the track and pushes to long off
+
+
+Balls faced: 35
+Bowler: Patel
+Over: 39
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Length outside off, pushed to cover"}]Length outside off, pushed to cover
+
+
+Balls faced: 36
+Bowler: Patel
+Over: 41
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Angled into the batter, who works it towards short midwicket"}]Angled into the batter, who works it towards short midwicket
+
+
+Balls faced: 37
+Bowler: Patel
+Over: 41
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<b>Up and over!</b> Jumps down the track to the length ball and swings through the line over long off for a huge six. Airee has been tremendous this innings."}]<b>Up and over!</b> Jumps down the track to the length ball and swings through the line over long off for a huge six. Airee has been tremendous this innings.
+
+
+Balls faced: 38
+Bowler: Patel
+Over: 41
+Shot: ON_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Skips down the track and collects that ball on the full to long off <strike>for a single</strike>. Netravalkar slides and lets the ball through his legs. That was just poor fielding and this is unravelling rather quickly for USA."}]Skips down the track and collects that ball on the full to long off <strike>for a single</strike>. Netravalkar slides and lets the ball through his legs. That was just poor fielding and this is unravelling rather quickly for USA.
+
+
+Balls faced: 39
+Bowler: Patel
+Over: 41
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Quicker ball into the batter who opens the face of the bat towards point for a run"}]Quicker ball into the batter who opens the face of the bat towards point for a run
+
+
+Balls faced: 40
+Bowler: Patel
+Over: 41
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Slider into the batter as he defends back to the bowler"}]Slider into the batter as he defends back to the bowler
+
+
+Balls faced: 41
+Bowler: Jasdeep
+Over: 40
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "On a length outside off, he pats it towards point and sets off quickly."}]On a length outside off, he pats it towards point and sets off quickly.
+
+
+Balls faced: 42
+Bowler: Jasdeep
+Over: 42
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Can he finish it off with one blow?"}]Can he finish it off with one blow?
+
+[{"type": "HTML", "html": "Nope. Jessy gets it on a hard length just around off stump. Sharki pats it towards cover for another quick single."}]Nope. Jessy gets it on a hard length just around off stump. Sharki pats it towards cover for another quick single.
+[{"type": "HTML", "html": "Bimal: \"Dipendra on song is our most destructive batsman and here he is showing glimpses of why..!! \""}]Bimal: "Dipendra on song is our most destructive batsman and here he is showing glimpses of why..!! "
+
+Balls faced: 43
+Bowler: Jasdeep
+Over: 42
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Gets across and eases the length ball down to long on for a run. Just seven to get."}]Gets across and eases the length ball down to long on for a run. Just seven to get.
+
+
+Balls faced: 44
+Bowler: Jasdeep
+Over: 42
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "On a length on middle and leg, he gets across and works it to deep backward square leg and they push for a quick two"}]On a length on middle and leg, he gets across and works it to deep backward square leg and they push for a quick two
+
+
+Balls faced: 45
+Bowler: Jasdeep
+Over: 42
+Shot: ON_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Jordon: \"Better to wrap up as quickly as we can to secure the way to super Six by net run rate, I hope run rate well be decider for third team to super six, hoping for Nepal.\""}]Jordon: "Better to wrap up as quickly as we can to secure the way to super Six by net run rate, I hope run rate well be decider for third team to super six, hoping for Nepal."
+
+[{"type": "HTML", "html": "Back of a length ball that hurries the batter, who was looking to flay it away to the on-side, can only miscue it to mid-off."}]Back of a length ball that hurries the batter, who was looking to flay it away to the on-side, can only miscue it to mid-off.
+
+
+Balls faced: 46
+Bowler: Jasdeep
+Over: 42
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Short and wide, and he wanted to hack the leather off the ball there. Fails to connect."}]Short and wide, and he wanted to hack the leather off the ball there. Fails to connect.
+
+
+Balls faced: 47
+Bowler: Patel
+Over: 41
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Angled into the batter, who works it towards short midwicket"}]Angled into the batter, who works it towards short midwicket
+
+
+Balls faced: 48
+Bowler: Patel
+Over: 41
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+[{"type": "HTML", "html": "<b>Up and over!</b> Jumps down the track to the length ball and swings through the line over long off for a huge six. Airee has been tremendous this innings."}]<b>Up and over!</b> Jumps down the track to the length ball and swings through the line over long off for a huge six. Airee has been tremendous this innings.
+
+
+Balls faced: 49
+Bowler: Patel
+Over: 41
+Shot: ON_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "Skips down the track and collects that ball on the full to long off <strike>for a single</strike>. Netravalkar slides and lets the ball through his legs. That was just poor fielding and this is unravelling rather quickly for USA."}]Skips down the track and collects that ball on the full to long off <strike>for a single</strike>. Netravalkar slides and lets the ball through his legs. That was just poor fielding and this is unravelling rather quickly for USA.
+
+
+Balls faced: 50
+Bowler: Patel
+Over: 41
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Quicker ball into the batter who opens the face of the bat towards point for a run"}]Quicker ball into the batter who opens the face of the bat towards point for a run
+
+
+Balls faced: 51
+Bowler: Patel
+Over: 41
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Slider into the batter as he defends back to the bowler"}]Slider into the batter as he defends back to the bowler
+
+
+Balls faced: 52
+Bowler: Netravalkar
+Over: 43
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>That's that! Nepal win by six wickets and 42 balls to spare.</strong> A proper thumping. Airee it is who gets the winning runs. Right in the slot on middle stump. He waits for it and smashes it straight down the ground. All smiles in the Nepal camp and they get on the board with two points."}]<strong>That's that! Nepal win by six wickets and 42 balls to spare.</strong> A proper thumping. Airee it is who gets the winning runs. Right in the slot on middle stump. He waits for it and smashes it straight down the ground. All smiles in the Nepal camp and they get on the board with two points.
+[{"type": "HTML", "html": "Nepal collect two points while USA have a lot of thinking to do. In case you missed the action, PDP has you covered with his report. That will be it from us today but we will be back tomorrow nice and early for the two games. Till then, this is Ashish Pant, signing off on behalf of Peter Della Penna and K Vairavan. Ciao!"}, {"type": "HTML", "html": "Kalpit Dhakal: \"Dipendra Singh Airee back in form, major positive of this match.\""}, {"type": "HTML", "html": "<b>Rohit Paudel</b>, Nepal captain: Happy with the performance of teh team. We were looking for a win and we got it. He [Karan KC] was brilliant. He used the conditions really well. He and Lalit bowled very well and that set the tone for us. His [Rajbanshi's] contribution is main, and that helped Karan. [Batting] Bhim batted really well, and Deepi <i>da</i> also batted well. We hope to not make the same mistakes again. [West Indies match] We all are looking forward to the match. We want everyone to contribute in that game, and we have to play our best cricket."}, {"type": "HTML", "html": "<b>Aaron Jones</b>, USA captain: [The target] It was enough, but we did not bowl well. The wicket started playing better in the second innings. It was a bit tough at the top but Shayan played a good innings. Very happy for him. We have lost the first two games, but we are positive we can win and qualify for the World Cup."}, {"type": "HTML", "html": "<b>Karan KC is the Player of the Match</b>: It was just the plan. If we won the toss, we had to bowl and I got the basics right. I really enjoyed the opening spell. The ball was doing enough, and it was my ideal length. Very important win, we have two games and we have to win at least one of the games and qualify for the top six. The batters played really well. Sharki enjoyed his batting, and we were also enjoying from the outside."}, {"type": "HTML", "html": "<b>Presentation time</b>"}, {"type": "HTML", "html": "<strong>4.21pm</strong> A performance right out of the top drawer from Nepal. It was Karan KC who set the tone with the ball a four-wicket haul up top and Ben Sharki setup the chase, scoring an unbeaten 114-ball 77. That USA got to 207 was all down to Shayan Jahangir's maiden ODI century. However, the target was always expected to be within  Nepal's grasp. They need a good start, which was provided by Kushal Burtel and Sharki who added 49 runs for the second wicket. Paudel and Sharki then pitched in important contributions before USA got back with a couple of wickets. However, Dipendra Singh Airee was quick off the blocks and that rubbed on Sharki, who begann playing his shots. The duo added 74 runs off 64 and took Nepal to an easy win in the end."}]Nepal collect two points while USA have a lot of thinking to do. In case you missed the action, PDP has you covered with his report. That will be it from us today but we will be back tomorrow nice and early for the two games. Till then, this is Ashish Pant, signing off on behalf of Peter Della Penna and K Vairavan. Ciao! Kalpit Dhakal: "Dipendra Singh Airee back in form, major positive of this match." <b>Rohit Paudel</b>, Nepal captain: Happy with the performance of teh team. We were looking for a win and we got it. He [Karan KC] was brilliant. He used the conditions really well. He and Lalit bowled very well and that set the tone for us. His [Rajbanshi's] contribution is main, and that helped Karan. [Batting] Bhim batted really well, and Deepi <i>da</i> also batted well. We hope to not make the same mistakes again. [West Indies match] We all are looking forward to the match. We want everyone to contribute in that game, and we have to play our best cricket. <b>Aaron Jones</b>, USA captain: [The target] It was enough, but we did not bowl well. The wicket started playing better in the second innings. It was a bit tough at the top but Shayan played a good innings. Very happy for him. We have lost the first two games, but we are positive we can win and qualify for the World Cup. <b>Karan KC is the Player of the Match</b>: It was just the plan. If we won the toss, we had to bowl and I got the basics right. I really enjoyed the opening spell. The ball was doing enough, and it was my ideal length. Very important win, we have two games and we have to win at least one of the games and qualify for the top six. The batters played really well. Sharki enjoyed his batting, and we were also enjoying from the outside. <b>Presentation time</b> <strong>4.21pm</strong> A performance right out of the top drawer from Nepal. It was Karan KC who set the tone with the ball a four-wicket haul up top and Ben Sharki setup the chase, scoring an unbeaten 114-ball 77. That USA got to 207 was all down to Shayan Jahangir's maiden ODI century. However, the target was always expected to be within  Nepal's grasp. They need a good start, which was provided by Kushal Burtel and Sharki who added 49 runs for the second wicket. Paudel and Sharki then pitched in important contributions before USA got back with a couple of wickets. However, Dipendra Singh Airee was quick off the blocks and that rubbed on Sharki, who begann playing his shots. The duo added 74 runs off 64 and took Nepal to an easy win in the end.
+
+Balls faced: 53
+Bowler: Netravalkar
+Over: 43
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Again, on a length outside off, he pushes to point with an open face"}]Again, on a length outside off, he pushes to point with an open face
+
+
+Balls faced: 54
+Bowler: Netravalkar
+Over: 43
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Scores level. Field comes in."}, {"type": "HTML", "html": "Aashish: \"May b early to say bt These are great signs for Nepal innit? New players contributing in two different matches. Keep on repeating this and we're gonna qualify, Nepal.\""}]Scores level. Field comes in. Aashish: "May b early to say bt These are great signs for Nepal innit? New players contributing in two different matches. Keep on repeating this and we're gonna qualify, Nepal."
+
+[{"type": "HTML", "html": "Length on off, defended with a full face of the bat and getting right behind it"}]Length on off, defended with a full face of the bat and getting right behind it
+
+
+Balls faced: 55
+Bowler: Netravalkar
+Over: 43
+Shot: ON_DRIVE
+Run scored: 1
+[{"type": "HTML", "html": "Last over of the day? Netravalkar back from around the wicket."}]Last over of the day? Netravalkar back from around the wicket.
+
+[{"type": "HTML", "html": "Slower full toss outside off, he pushes to long on"}]Slower full toss outside off, he pushes to long on
+
+
+Balls faced: 56
+Bowler: Jasdeep
+Over: 42
+Shot: PUSH
+Run scored: 1
+[{"type": "HTML", "html": "Can he finish it off with one blow?"}]Can he finish it off with one blow?
+
+[{"type": "HTML", "html": "Nope. Jessy gets it on a hard length just around off stump. Sharki pats it towards cover for another quick single."}]Nope. Jessy gets it on a hard length just around off stump. Sharki pats it towards cover for another quick single.
+[{"type": "HTML", "html": "Bimal: \"Dipendra on song is our most destructive batsman and here he is showing glimpses of why..!! \""}]Bimal: "Dipendra on song is our most destructive batsman and here he is showing glimpses of why..!! "
+
+Balls faced: 57
+Bowler: Jasdeep
+Over: 42
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Gets across and eases the length ball down to long on for a run. Just seven to get."}]Gets across and eases the length ball down to long on for a run. Just seven to get.
+
+
+Balls faced: 58
+Bowler: Jasdeep
+Over: 42
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "On a length on middle and leg, he gets across and works it to deep backward square leg and they push for a quick two"}]On a length on middle and leg, he gets across and works it to deep backward square leg and they push for a quick two
+
+
+Balls faced: 59
+Bowler: Jasdeep
+Over: 42
+Shot: ON_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Jordon: \"Better to wrap up as quickly as we can to secure the way to super Six by net run rate, I hope run rate well be decider for third team to super six, hoping for Nepal.\""}]Jordon: "Better to wrap up as quickly as we can to secure the way to super Six by net run rate, I hope run rate well be decider for third team to super six, hoping for Nepal."
+
+[{"type": "HTML", "html": "Back of a length ball that hurries the batter, who was looking to flay it away to the on-side, can only miscue it to mid-off."}]Back of a length ball that hurries the batter, who was looking to flay it away to the on-side, can only miscue it to mid-off.
+
+
+Balls faced: 60
+Bowler: Jasdeep
+Over: 42
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Short and wide, and he wanted to hack the leather off the ball there. Fails to connect."}]Short and wide, and he wanted to hack the leather off the ball there. Fails to connect.
+
+
+Balls faced: 61
+Bowler: Netravalkar
+Over: 43
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>That's that! Nepal win by six wickets and 42 balls to spare.</strong> A proper thumping. Airee it is who gets the winning runs. Right in the slot on middle stump. He waits for it and smashes it straight down the ground. All smiles in the Nepal camp and they get on the board with two points."}]<strong>That's that! Nepal win by six wickets and 42 balls to spare.</strong> A proper thumping. Airee it is who gets the winning runs. Right in the slot on middle stump. He waits for it and smashes it straight down the ground. All smiles in the Nepal camp and they get on the board with two points.
+[{"type": "HTML", "html": "Nepal collect two points while USA have a lot of thinking to do. In case you missed the action, PDP has you covered with his report. That will be it from us today but we will be back tomorrow nice and early for the two games. Till then, this is Ashish Pant, signing off on behalf of Peter Della Penna and K Vairavan. Ciao!"}, {"type": "HTML", "html": "Kalpit Dhakal: \"Dipendra Singh Airee back in form, major positive of this match.\""}, {"type": "HTML", "html": "<b>Rohit Paudel</b>, Nepal captain: Happy with the performance of teh team. We were looking for a win and we got it. He [Karan KC] was brilliant. He used the conditions really well. He and Lalit bowled very well and that set the tone for us. His [Rajbanshi's] contribution is main, and that helped Karan. [Batting] Bhim batted really well, and Deepi <i>da</i> also batted well. We hope to not make the same mistakes again. [West Indies match] We all are looking forward to the match. We want everyone to contribute in that game, and we have to play our best cricket."}, {"type": "HTML", "html": "<b>Aaron Jones</b>, USA captain: [The target] It was enough, but we did not bowl well. The wicket started playing better in the second innings. It was a bit tough at the top but Shayan played a good innings. Very happy for him. We have lost the first two games, but we are positive we can win and qualify for the World Cup."}, {"type": "HTML", "html": "<b>Karan KC is the Player of the Match</b>: It was just the plan. If we won the toss, we had to bowl and I got the basics right. I really enjoyed the opening spell. The ball was doing enough, and it was my ideal length. Very important win, we have two games and we have to win at least one of the games and qualify for the top six. The batters played really well. Sharki enjoyed his batting, and we were also enjoying from the outside."}, {"type": "HTML", "html": "<b>Presentation time</b>"}, {"type": "HTML", "html": "<strong>4.21pm</strong> A performance right out of the top drawer from Nepal. It was Karan KC who set the tone with the ball a four-wicket haul up top and Ben Sharki setup the chase, scoring an unbeaten 114-ball 77. That USA got to 207 was all down to Shayan Jahangir's maiden ODI century. However, the target was always expected to be within  Nepal's grasp. They need a good start, which was provided by Kushal Burtel and Sharki who added 49 runs for the second wicket. Paudel and Sharki then pitched in important contributions before USA got back with a couple of wickets. However, Dipendra Singh Airee was quick off the blocks and that rubbed on Sharki, who begann playing his shots. The duo added 74 runs off 64 and took Nepal to an easy win in the end."}]Nepal collect two points while USA have a lot of thinking to do. In case you missed the action, PDP has you covered with his report. That will be it from us today but we will be back tomorrow nice and early for the two games. Till then, this is Ashish Pant, signing off on behalf of Peter Della Penna and K Vairavan. Ciao! Kalpit Dhakal: "Dipendra Singh Airee back in form, major positive of this match." <b>Rohit Paudel</b>, Nepal captain: Happy with the performance of teh team. We were looking for a win and we got it. He [Karan KC] was brilliant. He used the conditions really well. He and Lalit bowled very well and that set the tone for us. His [Rajbanshi's] contribution is main, and that helped Karan. [Batting] Bhim batted really well, and Deepi <i>da</i> also batted well. We hope to not make the same mistakes again. [West Indies match] We all are looking forward to the match. We want everyone to contribute in that game, and we have to play our best cricket. <b>Aaron Jones</b>, USA captain: [The target] It was enough, but we did not bowl well. The wicket started playing better in the second innings. It was a bit tough at the top but Shayan played a good innings. Very happy for him. We have lost the first two games, but we are positive we can win and qualify for the World Cup. <b>Karan KC is the Player of the Match</b>: It was just the plan. If we won the toss, we had to bowl and I got the basics right. I really enjoyed the opening spell. The ball was doing enough, and it was my ideal length. Very important win, we have two games and we have to win at least one of the games and qualify for the top six. The batters played really well. Sharki enjoyed his batting, and we were also enjoying from the outside. <b>Presentation time</b> <strong>4.21pm</strong> A performance right out of the top drawer from Nepal. It was Karan KC who set the tone with the ball a four-wicket haul up top and Ben Sharki setup the chase, scoring an unbeaten 114-ball 77. That USA got to 207 was all down to Shayan Jahangir's maiden ODI century. However, the target was always expected to be within  Nepal's grasp. They need a good start, which was provided by Kushal Burtel and Sharki who added 49 runs for the second wicket. Paudel and Sharki then pitched in important contributions before USA got back with a couple of wickets. However, Dipendra Singh Airee was quick off the blocks and that rubbed on Sharki, who begann playing his shots. The duo added 74 runs off 64 and took Nepal to an easy win in the end.
+
+Balls faced: 62
+Bowler: Netravalkar
+Over: 43
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Again, on a length outside off, he pushes to point with an open face"}]Again, on a length outside off, he pushes to point with an open face
+
+
+Balls faced: 63
+Bowler: Netravalkar
+Over: 43
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Scores level. Field comes in."}, {"type": "HTML", "html": "Aashish: \"May b early to say bt These are great signs for Nepal innit? New players contributing in two different matches. Keep on repeating this and we're gonna qualify, Nepal.\""}]Scores level. Field comes in. Aashish: "May b early to say bt These are great signs for Nepal innit? New players contributing in two different matches. Keep on repeating this and we're gonna qualify, Nepal."
+
+[{"type": "HTML", "html": "Length on off, defended with a full face of the bat and getting right behind it"}]Length on off, defended with a full face of the bat and getting right behind it
+
+
+Balls faced: 64
+Bowler: Netravalkar
+Over: 43
+Shot: ON_DRIVE
+Run scored: 1
+[{"type": "HTML", "html": "Last over of the day? Netravalkar back from around the wicket."}]Last over of the day? Netravalkar back from around the wicket.
+
+[{"type": "HTML", "html": "Slower full toss outside off, he pushes to long on"}]Slower full toss outside off, he pushes to long on
+
+
+
+Match: all_games_1411166_1415731.json
 Balls faced: 1
 Bowler: Markram
-Over:14
+Over: 14
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Airee the new batter for Nepal"}]Airee the new batter for Nepal
-On a length around off, Airee tucks it square on the leg side for a quick single to get off the mark
+
+[{"type": "HTML", "html": "On a length around off, Airee tucks it square on the leg side for a quick single to get off the mark"}]On a length around off, Airee tucks it square on the leg side for a quick single to get off the mark
+
+
 Balls faced: 2
 Bowler: Baartman
-Over:15
+Over: 15
 Shot: FLICK
-run scored: 1
-Full and flicked down to long leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Full and flicked down to long leg"}]Full and flicked down to long leg
+
+
 Balls faced: 3
 Bowler: Baartman
-Over:15
+Over: 15
 Shot: FLICK
-run scored: 1
-Full around middle and leg, tickled down to long leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Full around middle and leg, tickled down to long leg"}]Full around middle and leg, tickled down to long leg
+
+
 Balls faced: 4
 Bowler: Baartman
-Over:15
+Over: 15
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Sah got out trying to take on Markram, but he has played a very good knock here. Ensured Nepal didn't slow down and come under pressure. He has left them in a very good position, and they are primed to win the first ever SA-Nepal clash!"}]Sah got out trying to take on Markram, but he has played a very good knock here. Ensured Nepal didn't slow down and come under pressure. He has left them in a very good position, and they are primed to win the first ever SA-Nepal clash!
-Length ball outside off, blunted to backward point
+
+[{"type": "HTML", "html": "Length ball outside off, blunted to backward point"}]Length ball outside off, blunted to backward point
+
+
 Balls faced: 5
 Bowler: Markram
-Over:14
+Over: 14
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "Airee the new batter for Nepal"}]Airee the new batter for Nepal
-On a length around off, Airee tucks it square on the leg side for a quick single to get off the mark
+
+[{"type": "HTML", "html": "On a length around off, Airee tucks it square on the leg side for a quick single to get off the mark"}]On a length around off, Airee tucks it square on the leg side for a quick single to get off the mark
+
+
 Balls faced: 6
 Bowler: Markram
-Over:16
+Over: 16
 Shot: PULL
-run scored: 1
-On a length outside off, Airee pulls it away to deep square as the singles keep coming
+Run scored: 1
+
+
+[{"type": "HTML", "html": "On a length outside off, Airee pulls it away to deep square as the singles keep coming"}]On a length outside off, Airee pulls it away to deep square as the singles keep coming
+
+
 Balls faced: 7
 Bowler: Markram
-Over:16
+Over: 16
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "So Nepal need 25 off the last five overs for a historic win"}]So Nepal need 25 off the last five overs for a historic win
-Markram tosses it up outside off, pushed out to point
+
+[{"type": "HTML", "html": "Markram tosses it up outside off, pushed out to point"}]Markram tosses it up outside off, pushed out to point
+
+
 Balls faced: 8
 Bowler: Baartman
-Over:15
+Over: 15
 Shot: FLICK
-run scored: 1
-Full and flicked down to long leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Full and flicked down to long leg"}]Full and flicked down to long leg
+
+
 Balls faced: 9
 Bowler: Baartman
-Over:15
+Over: 15
 Shot: FLICK
-run scored: 1
-Full around middle and leg, tickled down to long leg
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Full around middle and leg, tickled down to long leg"}]Full around middle and leg, tickled down to long leg
+
+
 Balls faced: 10
 Bowler: Baartman
-Over:15
+Over: 15
 Shot: DEFENDED
-run scored: 0
+Run scored: 0
 [{"type": "HTML", "html": "Sah got out trying to take on Markram, but he has played a very good knock here. Ensured Nepal didn't slow down and come under pressure. He has left them in a very good position, and they are primed to win the first ever SA-Nepal clash!"}]Sah got out trying to take on Markram, but he has played a very good knock here. Ensured Nepal didn't slow down and come under pressure. He has left them in a very good position, and they are primed to win the first ever SA-Nepal clash!
-Length ball outside off, blunted to backward point
+
+[{"type": "HTML", "html": "Length ball outside off, blunted to backward point"}]Length ball outside off, blunted to backward point
+
+
 Balls faced: 11
 Bowler: Jansen
-Over:17
+Over: 17
 Shot: COVER_DRIVE
-run scored: 0
-Low full toss outside off sneaks under the bat as Airee looks to drive on the off side. Jansen closes the over well
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Low full toss outside off sneaks under the bat as Airee looks to drive on the off side. Jansen closes the over well"}]Low full toss outside off sneaks under the bat as Airee looks to drive on the off side. Jansen closes the over well
+
+
 Balls faced: 12
 Bowler: Jansen
-Over:17
+Over: 17
 Shot: FLICK
-run scored: 0
-Yorker around middle and off, Airee manages to jam his bat down and dig it out to midwicket
-Monish Pokhrel: "Super excited to witness such a spectacular performance from Nepal. All Nepal needs to do is Rotation of strike and keep calm…that will take us to historic victory."
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Yorker around middle and off, Airee manages to jam his bat down and dig it out to midwicket"}]Yorker around middle and off, Airee manages to jam his bat down and dig it out to midwicket
+[{"type": "HTML", "html": "Monish Pokhrel: \"Super excited to witness such a spectacular performance from Nepal. All Nepal needs to do is Rotation of strike and keep calm\u2026that will take us to historic victory.\""}]Monish Pokhrel: "Super excited to witness such a spectacular performance from Nepal. All Nepal needs to do is Rotation of strike and keep calm…that will take us to historic victory."
+
 Balls faced: 13
 Bowler: Jansen
-Over:17
+Over: 17
 Shot: CUT_SHOT
-run scored: 0
-Goes short and takes pace off. Airee prods but is beaten on the bounce
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Goes short and takes pace off. Airee prods but is beaten on the bounce"}]Goes short and takes pace off. Airee prods but is beaten on the bounce
+
+
 Balls faced: 14
 Bowler: Jansen
-Over:17
+Over: 17
 Shot: FLICK
-run scored: 1
-Full on leg, he ends up chipping it to the vacant mid-on region
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Full on leg, he ends up chipping it to the vacant mid-on region"}]Full on leg, he ends up chipping it to the vacant mid-on region
+
+
 Balls faced: 15
 Bowler: Markram
-Over:16
+Over: 16
 Shot: PULL
-run scored: 1
-On a length outside off, Airee pulls it away to deep square as the singles keep coming
+Run scored: 1
+
+
+[{"type": "HTML", "html": "On a length outside off, Airee pulls it away to deep square as the singles keep coming"}]On a length outside off, Airee pulls it away to deep square as the singles keep coming
+
+
 Balls faced: 16
 Bowler: Markram
-Over:16
+Over: 16
 Shot: FLICK
-run scored: 1
+Run scored: 1
 [{"type": "HTML", "html": "So Nepal need 25 off the last five overs for a historic win"}]So Nepal need 25 off the last five overs for a historic win
-Markram tosses it up outside off, pushed out to point
+
+[{"type": "HTML", "html": "Markram tosses it up outside off, pushed out to point"}]Markram tosses it up outside off, pushed out to point
+
+
 Balls faced: 17
 Bowler: Shamsi
-Over:18
+Over: 18
 Shot: SWEEP_SHOT
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020de Kock b Shamsi", "commentary": "Dipendra Singh Airee c \u2020de Kock b Shamsi 6 (11b 0x4 0x6 15m) SR: 54.54"}
-<strong>Late twist?!</strong> Shamsi gets a wicket with a ball fired down leg! Airee looks to sweep but misses. QDK grabs it and goes up in appeal. The umpire thinks so too and Nepal review immediately. There's a spike as the ball passes the glove and Airee will have to go!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Late twist?!</strong> Shamsi gets a wicket with a ball fired down leg! Airee looks to sweep but misses. QDK grabs it and goes up in appeal. The umpire thinks so too and Nepal review immediately. There's a spike as the ball passes the glove and Airee will have to go!"}]<strong>Late twist?!</strong> Shamsi gets a wicket with a ball fired down leg! Airee looks to sweep but misses. QDK grabs it and goes up in appeal. The umpire thinks so too and Nepal review immediately. There's a spike as the ball passes the glove and Airee will have to go!
+
+
 Balls faced: 18
 Bowler: Jansen
-Over:17
+Over: 17
 Shot: COVER_DRIVE
-run scored: 0
-Low full toss outside off sneaks under the bat as Airee looks to drive on the off side. Jansen closes the over well
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Low full toss outside off sneaks under the bat as Airee looks to drive on the off side. Jansen closes the over well"}]Low full toss outside off sneaks under the bat as Airee looks to drive on the off side. Jansen closes the over well
+
+
 Balls faced: 19
 Bowler: Jansen
-Over:17
+Over: 17
 Shot: FLICK
-run scored: 0
-Yorker around middle and off, Airee manages to jam his bat down and dig it out to midwicket
-Monish Pokhrel: "Super excited to witness such a spectacular performance from Nepal. All Nepal needs to do is Rotation of strike and keep calm…that will take us to historic victory."
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Yorker around middle and off, Airee manages to jam his bat down and dig it out to midwicket"}]Yorker around middle and off, Airee manages to jam his bat down and dig it out to midwicket
+[{"type": "HTML", "html": "Monish Pokhrel: \"Super excited to witness such a spectacular performance from Nepal. All Nepal needs to do is Rotation of strike and keep calm\u2026that will take us to historic victory.\""}]Monish Pokhrel: "Super excited to witness such a spectacular performance from Nepal. All Nepal needs to do is Rotation of strike and keep calm…that will take us to historic victory."
+
 Balls faced: 20
 Bowler: Jansen
-Over:17
+Over: 17
 Shot: CUT_SHOT
-run scored: 0
-Goes short and takes pace off. Airee prods but is beaten on the bounce
+Run scored: 0
+
+
+[{"type": "HTML", "html": "Goes short and takes pace off. Airee prods but is beaten on the bounce"}]Goes short and takes pace off. Airee prods but is beaten on the bounce
+
+
 Balls faced: 21
 Bowler: Jansen
-Over:17
+Over: 17
 Shot: FLICK
-run scored: 1
-Full on leg, he ends up chipping it to the vacant mid-on region
+Run scored: 1
+
+
+[{"type": "HTML", "html": "Full on leg, he ends up chipping it to the vacant mid-on region"}]Full on leg, he ends up chipping it to the vacant mid-on region
+
+
 Balls faced: 22
 Bowler: Shamsi
-Over:18
+Over: 18
 Shot: SWEEP_SHOT
-run scored: 0
-OUT! {"short": "caught", "long": "c \u2020de Kock b Shamsi", "commentary": "Dipendra Singh Airee c \u2020de Kock b Shamsi 6 (11b 0x4 0x6 15m) SR: 54.54"}
-<strong>Late twist?!</strong> Shamsi gets a wicket with a ball fired down leg! Airee looks to sweep but misses. QDK grabs it and goes up in appeal. The umpire thinks so too and Nepal review immediately. There's a spike as the ball passes the glove and Airee will have to go!
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>Late twist?!</strong> Shamsi gets a wicket with a ball fired down leg! Airee looks to sweep but misses. QDK grabs it and goes up in appeal. The umpire thinks so too and Nepal review immediately. There's a spike as the ball passes the glove and Airee will have to go!"}]<strong>Late twist?!</strong> Shamsi gets a wicket with a ball fired down leg! Airee looks to sweep but misses. QDK grabs it and goes up in appeal. The umpire thinks so too and Nepal review immediately. There's a spike as the ball passes the glove and Airee will have to go!
+
+
+
+Match: all_games_1411166_1415737.json
+Balls faced: 1
+Bowler: Rishad Hossain
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>appeal for a stumping!</strong> Tossed up on a length just outside off. Drifts in before ragging away past the outside edge. Litton was quick to whip off the bails too but reckon Airee had his back foot grounded behind the crease. <strong>The back foot is behind the crease but might have been a brief moment when it was not grounded. When the bails were dislodged, though, it was grounded and that is all that matters!</strong>"}]<strong>appeal for a stumping!</strong> Tossed up on a length just outside off. Drifts in before ragging away past the outside edge. Litton was quick to whip off the bails too but reckon Airee had his back foot grounded behind the crease. <strong>The back foot is behind the crease but might have been a brief moment when it was not grounded. When the bails were dislodged, though, it was grounded and that is all that matters!</strong>
+
+
+Balls faced: 2
+Bowler: Rishad Hossain
+Over: 8
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length on leg stump. Airee has a swing at it but does not get the purchase he is after"}]back of a length on leg stump. Airee has a swing at it but does not get the purchase he is after
+
+
+Balls faced: 3
+Bowler: Shakib
+Over: 9
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "shortish outside off. Jabbed out to deep cover point"}]shortish outside off. Jabbed out to deep cover point
+
+
+Balls faced: 4
+Bowler: Shakib
+Over: 9
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "floated up full outside off. Airee tugs at it and squirts it off the inside edge towards fine leg"}]floated up full outside off. Airee tugs at it and squirts it off the inside edge towards fine leg
+
+
+Balls faced: 5
+Bowler: Rishad Hossain
+Over: 8
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>appeal for a stumping!</strong> Tossed up on a length just outside off. Drifts in before ragging away past the outside edge. Litton was quick to whip off the bails too but reckon Airee had his back foot grounded behind the crease. <strong>The back foot is behind the crease but might have been a brief moment when it was not grounded. When the bails were dislodged, though, it was grounded and that is all that matters!</strong>"}]<strong>appeal for a stumping!</strong> Tossed up on a length just outside off. Drifts in before ragging away past the outside edge. Litton was quick to whip off the bails too but reckon Airee had his back foot grounded behind the crease. <strong>The back foot is behind the crease but might have been a brief moment when it was not grounded. When the bails were dislodged, though, it was grounded and that is all that matters!</strong>
+
+
+Balls faced: 6
+Bowler: Rishad Hossain
+Over: 8
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length on leg stump. Airee has a swing at it but does not get the purchase he is after"}]back of a length on leg stump. Airee has a swing at it but does not get the purchase he is after
+
+
+Balls faced: 7
+Bowler: Mustafizur
+Over: 10
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Mustafizur returns. Around the wicket to Airee"}, {"type": "HTML", "html": "Ashu: \"Calm down Nepal, just rotate the strike till 12 overs.\" -- Looks like they are on board with that plan..."}]Mustafizur returns. Around the wicket to Airee Ashu: "Calm down Nepal, just rotate the strike till 12 overs." -- Looks like they are on board with that plan...
+
+[{"type": "HTML", "html": "hard length on middle and leg. Airee gets inside the line and glances it to fine leg"}]hard length on middle and leg. Airee gets inside the line and glances it to fine leg
+
+
+Balls faced: 8
+Bowler: Shakib
+Over: 9
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "shortish outside off. Jabbed out to deep cover point"}]shortish outside off. Jabbed out to deep cover point
+
+
+Balls faced: 9
+Bowler: Shakib
+Over: 9
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "floated up full outside off. Airee tugs at it and squirts it off the inside edge towards fine leg"}]floated up full outside off. Airee tugs at it and squirts it off the inside edge towards fine leg
+
+
+Balls faced: 10
+Bowler: Rishad Hossain
+Over: 11
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Airee breaks the shackles!</strong> Fired in fuller and quicker on middle and leg. Airee gets down on one knee and razes it behind square on the leg side!"}]<strong>Airee breaks the shackles!</strong> Fired in fuller and quicker on middle and leg. Airee gets down on one knee and razes it behind square on the leg side!
+
+
+Balls faced: 11
+Bowler: Rishad Hossain
+Over: 11
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Airee accounts for the turn and drops it into the off side"}]back of a length just outside off. Airee accounts for the turn and drops it into the off side
+
+
+Balls faced: 12
+Bowler: Rishad Hossain
+Over: 11
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>more prodigious turn!</strong> Back of a length just outside off. Spins a mile and beats Airee all ends up. Litton takes off the bails too, and appeals, almost forcing the square leg umpire to go upstairs. <strong>Litton waited an eternity to take off the bails but even when he did, Airee's back foot was grounded behind the crease!</strong>"}]<strong>more prodigious turn!</strong> Back of a length just outside off. Spins a mile and beats Airee all ends up. Litton takes off the bails too, and appeals, almost forcing the square leg umpire to go upstairs. <strong>Litton waited an eternity to take off the bails but even when he did, Airee's back foot was grounded behind the crease!</strong>
+
+
+Balls faced: 13
+Bowler: Rishad Hossain
+Over: 11
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length on middle and leg. Grips in the surface and spins away sharply, rapping Airee on the back thigh"}]back of a length on middle and leg. Grips in the surface and spins away sharply, rapping Airee on the back thigh
+
+
+Balls faced: 14
+Bowler: Rishad Hossain
+Over: 11
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>ripper!</strong> Flighted up nicely on a length on middle and off. Brings Airee forward and then snakes past his outside edge"}]<strong>ripper!</strong> Flighted up nicely on a length on middle and off. Brings Airee forward and then snakes past his outside edge
+
+
+Balls faced: 15
+Bowler: Mustafizur
+Over: 10
+Shot: FLICK
+Run scored: 1
+[{"type": "HTML", "html": "Mustafizur returns. Around the wicket to Airee"}, {"type": "HTML", "html": "Ashu: \"Calm down Nepal, just rotate the strike till 12 overs.\" -- Looks like they are on board with that plan..."}]Mustafizur returns. Around the wicket to Airee Ashu: "Calm down Nepal, just rotate the strike till 12 overs." -- Looks like they are on board with that plan...
+
+[{"type": "HTML", "html": "hard length on middle and leg. Airee gets inside the line and glances it to fine leg"}]hard length on middle and leg. Airee gets inside the line and glances it to fine leg
+
+
+Balls faced: 16
+Bowler: Mahmudullah
+Over: 12
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shortish outside off and this skids on with the angle. Airee wafts at it and misses. Punches his thigh pad in frustration"}]shortish outside off and this skids on with the angle. Airee wafts at it and misses. Punches his thigh pad in frustration
+
+
+Balls faced: 17
+Bowler: Mahmudullah
+Over: 12
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Around the wicket to Airee now"}]Around the wicket to Airee now
+
+[{"type": "HTML", "html": "back of a length on the stumps. Airee taps it back to the bowler, who misfields and parries it towards extra cover"}]back of a length on the stumps. Airee taps it back to the bowler, who misfields and parries it towards extra cover
+
+
+Balls faced: 18
+Bowler: Mahmudullah
+Over: 12
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on middle and off. Airee lets the ball come to him before helping it round the corner"}]back of a length on middle and off. Airee lets the ball come to him before helping it round the corner
+
+
+Balls faced: 19
+Bowler: Rishad Hossain
+Over: 11
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+[{"type": "HTML", "html": "<strong>Airee breaks the shackles!</strong> Fired in fuller and quicker on middle and leg. Airee gets down on one knee and razes it behind square on the leg side!"}]<strong>Airee breaks the shackles!</strong> Fired in fuller and quicker on middle and leg. Airee gets down on one knee and razes it behind square on the leg side!
+
+
+Balls faced: 20
+Bowler: Rishad Hossain
+Over: 11
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length just outside off. Airee accounts for the turn and drops it into the off side"}]back of a length just outside off. Airee accounts for the turn and drops it into the off side
+
+
+Balls faced: 21
+Bowler: Rishad Hossain
+Over: 11
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>more prodigious turn!</strong> Back of a length just outside off. Spins a mile and beats Airee all ends up. Litton takes off the bails too, and appeals, almost forcing the square leg umpire to go upstairs. <strong>Litton waited an eternity to take off the bails but even when he did, Airee's back foot was grounded behind the crease!</strong>"}]<strong>more prodigious turn!</strong> Back of a length just outside off. Spins a mile and beats Airee all ends up. Litton takes off the bails too, and appeals, almost forcing the square leg umpire to go upstairs. <strong>Litton waited an eternity to take off the bails but even when he did, Airee's back foot was grounded behind the crease!</strong>
+
+
+Balls faced: 22
+Bowler: Rishad Hossain
+Over: 11
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "back of a length on middle and leg. Grips in the surface and spins away sharply, rapping Airee on the back thigh"}]back of a length on middle and leg. Grips in the surface and spins away sharply, rapping Airee on the back thigh
+
+
+Balls faced: 23
+Bowler: Rishad Hossain
+Over: 11
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>ripper!</strong> Flighted up nicely on a length on middle and off. Brings Airee forward and then snakes past his outside edge"}]<strong>ripper!</strong> Flighted up nicely on a length on middle and off. Brings Airee forward and then snakes past his outside edge
+
+
+Balls faced: 24
+Bowler: Mahmudullah
+Over: 12
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "shortish outside off and this skids on with the angle. Airee wafts at it and misses. Punches his thigh pad in frustration"}]shortish outside off and this skids on with the angle. Airee wafts at it and misses. Punches his thigh pad in frustration
+
+
+Balls faced: 25
+Bowler: Mahmudullah
+Over: 12
+Shot: DEFENDED
+Run scored: 0
+[{"type": "HTML", "html": "Around the wicket to Airee now"}]Around the wicket to Airee now
+
+[{"type": "HTML", "html": "back of a length on the stumps. Airee taps it back to the bowler, who misfields and parries it towards extra cover"}]back of a length on the stumps. Airee taps it back to the bowler, who misfields and parries it towards extra cover
+
+
+Balls faced: 26
+Bowler: Mahmudullah
+Over: 12
+Shot: FLICK
+Run scored: 1
+
+
+[{"type": "HTML", "html": "back of a length on middle and off. Airee lets the ball come to him before helping it round the corner"}]back of a length on middle and off. Airee lets the ball come to him before helping it round the corner
+
+
+Balls faced: 27
+Bowler: Taskin
+Over: 14
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "angled in on a length on off. Airee prods it just past the bowler and scampers across to the other end"}]angled in on a length on off. Airee prods it just past the bowler and scampers across to the other end
+
+
+Balls faced: 28
+Bowler: Taskin
+Over: 14
+Shot: CUT_SHOT
+Run scored: 4
+[{"type": "HTML", "html": "Required run-rate almost up to eight runs per over now"}]Required run-rate almost up to eight runs per over now
+
+[{"type": "HTML", "html": "<strong>finds the fence!</strong> Short, wide and put away. Lots of width on offer and Airee flashes hard at it, slashing it over backward point!"}]<strong>finds the fence!</strong> Short, wide and put away. Lots of width on offer and Airee flashes hard at it, slashing it over backward point!
+
+
+Balls faced: 29
+Bowler: Taskin
+Over: 14
+Shot: CUT_SHOT
+Run scored: 1
+[{"type": "HTML", "html": "Christian: \"Nepal can just tap the ball around for a bit, but that run rate will get pretty urgent if they don't get a move on here!\" -- The early wickets have forced their hand, though"}]Christian: "Nepal can just tap the ball around for a bit, but that run rate will get pretty urgent if they don't get a move on here!" -- The early wickets have forced their hand, though
+
+[{"type": "HTML", "html": "shortish outside off. Airee uses the pace and runs it down to third man"}]shortish outside off. Airee uses the pace and runs it down to third man
+
+
+Balls faced: 30
+Bowler: Shakib
+Over: 15
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full just outside off. Airee plants his front foot and drills it to long off"}]full just outside off. Airee plants his front foot and drills it to long off
+
+
+Balls faced: 31
+Bowler: Shakib
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>big appeal, not given!</strong> Darted in full on leg stump. Airee falls over while trying to flick it away and gets pinged on the pads. Seemed to be heading down leg with the angle but Shakib was quick with the \"T\" signal. In fact, he did not even wait for his skipper. <strong>No bat but Ball Tracking shows it would have only kissed the outside of leg stump. Umpire's Call, so Bangladesh do not lose the review!</strong>"}]<strong>big appeal, not given!</strong> Darted in full on leg stump. Airee falls over while trying to flick it away and gets pinged on the pads. Seemed to be heading down leg with the angle but Shakib was quick with the "T" signal. In fact, he did not even wait for his skipper. <strong>No bat but Ball Tracking shows it would have only kissed the outside of leg stump. Umpire's Call, so Bangladesh do not lose the review!</strong>
+
+
+Balls faced: 32
+Bowler: Shakib
+Over: 15
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "back of a length on the stumps. Airee goes back and works it between deep mid wicket and long on. Canters back for the second"}]back of a length on the stumps. Airee goes back and works it between deep mid wicket and long on. Canters back for the second
+
+
+Balls faced: 33
+Bowler: Shakib
+Over: 15
+Shot: CUT_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "Shakib is back. Nepal need 46 off 36"}]Shakib is back. Nepal need 46 off 36
+
+[{"type": "HTML", "html": "short outside off. Airee cuts it towards backward point. Good stop by Rishad, diving to his right"}]short outside off. Airee cuts it towards backward point. Good stop by Rishad, diving to his right
+
+
+Balls faced: 34
+Bowler: Taskin
+Over: 14
+Shot: PUSH
+Run scored: 1
+
+
+[{"type": "HTML", "html": "angled in on a length on off. Airee prods it just past the bowler and scampers across to the other end"}]angled in on a length on off. Airee prods it just past the bowler and scampers across to the other end
+
+
+Balls faced: 35
+Bowler: Taskin
+Over: 14
+Shot: CUT_SHOT
+Run scored: 4
+[{"type": "HTML", "html": "Required run-rate almost up to eight runs per over now"}]Required run-rate almost up to eight runs per over now
+
+[{"type": "HTML", "html": "<strong>finds the fence!</strong> Short, wide and put away. Lots of width on offer and Airee flashes hard at it, slashing it over backward point!"}]<strong>finds the fence!</strong> Short, wide and put away. Lots of width on offer and Airee flashes hard at it, slashing it over backward point!
+
+
+Balls faced: 36
+Bowler: Taskin
+Over: 14
+Shot: CUT_SHOT
+Run scored: 1
+[{"type": "HTML", "html": "Christian: \"Nepal can just tap the ball around for a bit, but that run rate will get pretty urgent if they don't get a move on here!\" -- The early wickets have forced their hand, though"}]Christian: "Nepal can just tap the ball around for a bit, but that run rate will get pretty urgent if they don't get a move on here!" -- The early wickets have forced their hand, though
+
+[{"type": "HTML", "html": "shortish outside off. Airee uses the pace and runs it down to third man"}]shortish outside off. Airee uses the pace and runs it down to third man
+
+
+Balls faced: 37
+Bowler: Shakib
+Over: 15
+Shot: ON_DRIVE
+Run scored: 1
+
+
+[{"type": "HTML", "html": "full just outside off. Airee plants his front foot and drills it to long off"}]full just outside off. Airee plants his front foot and drills it to long off
+
+
+Balls faced: 38
+Bowler: Shakib
+Over: 15
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "<strong>big appeal, not given!</strong> Darted in full on leg stump. Airee falls over while trying to flick it away and gets pinged on the pads. Seemed to be heading down leg with the angle but Shakib was quick with the \"T\" signal. In fact, he did not even wait for his skipper. <strong>No bat but Ball Tracking shows it would have only kissed the outside of leg stump. Umpire's Call, so Bangladesh do not lose the review!</strong>"}]<strong>big appeal, not given!</strong> Darted in full on leg stump. Airee falls over while trying to flick it away and gets pinged on the pads. Seemed to be heading down leg with the angle but Shakib was quick with the "T" signal. In fact, he did not even wait for his skipper. <strong>No bat but Ball Tracking shows it would have only kissed the outside of leg stump. Umpire's Call, so Bangladesh do not lose the review!</strong>
+
+
+Balls faced: 39
+Bowler: Shakib
+Over: 15
+Shot: FLICK
+Run scored: 2
+
+
+[{"type": "HTML", "html": "back of a length on the stumps. Airee goes back and works it between deep mid wicket and long on. Canters back for the second"}]back of a length on the stumps. Airee goes back and works it between deep mid wicket and long on. Canters back for the second
+
+
+Balls faced: 40
+Bowler: Shakib
+Over: 15
+Shot: CUT_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "Shakib is back. Nepal need 46 off 36"}]Shakib is back. Nepal need 46 off 36
+
+[{"type": "HTML", "html": "short outside off. Airee cuts it towards backward point. Good stop by Rishad, diving to his right"}]short outside off. Airee cuts it towards backward point. Good stop by Rishad, diving to his right
+
+
+Balls faced: 41
+Bowler: Mustafizur
+Over: 17
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "<strong>just short!</strong> Hard length on middle and leg. Airee looks to pull but is cramped for room. Splices it towards deep square leg, where Tanzid comes hurtling in but just cannot get there"}]<strong>just short!</strong> Hard length on middle and leg. Airee looks to pull but is cramped for room. Splices it towards deep square leg, where Tanzid comes hurtling in but just cannot get there
+
+
+Balls faced: 42
+Bowler: Mustafizur
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "30 off 24 now. This is getting edgy and nervy. Mustafizur returns for his third over. How Nepal play him could determine the outcome of this contest"}]30 off 24 now. This is getting edgy and nervy. Mustafizur returns for his third over. How Nepal play him could determine the outcome of this contest
+
+[{"type": "HTML", "html": "cutter on a length outside off. Airee has a huge waft at it but does not make any contact. Not sure he picked the variation either"}]cutter on a length outside off. Airee has a huge waft at it but does not make any contact. Not sure he picked the variation either
+
+
+Balls faced: 43
+Bowler: Taskin
+Over: 18
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "dug into the track again, this time on middle and off. Airee swivels and pulls it towards deep square leg"}]dug into the track again, this time on middle and off. Airee swivels and pulls it towards deep square leg
+
+
+Balls faced: 44
+Bowler: Taskin
+Over: 18
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fullish and angling into off. Airee is squared up a touch and pokes it towards backward point"}]fullish and angling into off. Airee is squared up a touch and pokes it towards backward point
+
+
+Balls faced: 45
+Bowler: Taskin
+Over: 18
+Shot: CUT_SHOT
+Run scored: 6
+[{"type": "HTML", "html": "Taskin to bowl out. Nepal need 29 off 18"}]Taskin to bowl out. Nepal need 29 off 18
+
+[{"type": "HTML", "html": "<strong>Airee keeps fighting!</strong> Banged in short outside off. Airee, having advanced, jumps up onto his toes and carves it over the deep point fence. Eerily reminiscent of a stroke Airee's cricketing idol played back in the 2011 World Cup final!"}]<strong>Airee keeps fighting!</strong> Banged in short outside off. Airee, having advanced, jumps up onto his toes and carves it over the deep point fence. Eerily reminiscent of a stroke Airee's cricketing idol played back in the 2011 World Cup final!
+
+
+Balls faced: 46
+Bowler: Mustafizur
+Over: 17
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "<strong>just short!</strong> Hard length on middle and leg. Airee looks to pull but is cramped for room. Splices it towards deep square leg, where Tanzid comes hurtling in but just cannot get there"}]<strong>just short!</strong> Hard length on middle and leg. Airee looks to pull but is cramped for room. Splices it towards deep square leg, where Tanzid comes hurtling in but just cannot get there
+
+
+Balls faced: 47
+Bowler: Mustafizur
+Over: 17
+Shot: COVER_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "30 off 24 now. This is getting edgy and nervy. Mustafizur returns for his third over. How Nepal play him could determine the outcome of this contest"}]30 off 24 now. This is getting edgy and nervy. Mustafizur returns for his third over. How Nepal play him could determine the outcome of this contest
+
+[{"type": "HTML", "html": "cutter on a length outside off. Airee has a huge waft at it but does not make any contact. Not sure he picked the variation either"}]cutter on a length outside off. Airee has a huge waft at it but does not make any contact. Not sure he picked the variation either
+
+
+Balls faced: 48
+Bowler: Mustafizur
+Over: 19
+Shot: PUSH
+Run scored: 0
+[{"type": "HTML", "html": "Surely Airee looks for a single now? The last over could be bowled by a spinner. Nepal still need 22"}]Surely Airee looks for a single now? The last over could be bowled by a spinner. Nepal still need 22
+
+[{"type": "HTML", "html": "<strong>looks for the single, and nicks it through to Litton! A wicket-maiden. In the 19th over, and that could be that for Nepal!</strong> Sublime cutter on a length outside off. Airee has only one thing on his mind and that is a single. Tries to help it past the keeper but ends up giving Litton some catching practice. Bangladesh almost there!"}]<strong>looks for the single, and nicks it through to Litton! A wicket-maiden. In the 19th over, and that could be that for Nepal!</strong> Sublime cutter on a length outside off. Airee has only one thing on his mind and that is a single. Tries to help it past the keeper but ends up giving Litton some catching practice. Bangladesh almost there!
+
+
+Balls faced: 49
+Bowler: Mustafizur
+Over: 19
+Shot: CUT_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "Airee needs to hold his shape and get bat to ball for starters"}]Airee needs to hold his shape and get bat to ball for starters
+
+[{"type": "HTML", "html": "another off-cutter on a back of a length outside off, and Airee is not learning. Swings like a rusty gate and misses"}]another off-cutter on a back of a length outside off, and Airee is not learning. Swings like a rusty gate and misses
+
+
+Balls faced: 50
+Bowler: Mustafizur
+Over: 19
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "another slower ball hung up on a length outside off. Airee has a wild slog at it, almost swinging himself off his feet but can only swat away a few flies"}]another slower ball hung up on a length outside off. Airee has a wild slog at it, almost swinging himself off his feet but can only swat away a few flies
+
+
+Balls faced: 51
+Bowler: Mustafizur
+Over: 19
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "sharp bumper on middle and leg. Airee seemed to suggest he was lining up the scoop before trying to pull it. Very late on the stroke, though, and the ball whizzes past his ear"}]sharp bumper on middle and leg. Airee seemed to suggest he was lining up the scoop before trying to pull it. Very late on the stroke, though, and the ball whizzes past his ear
+
+
+Balls faced: 52
+Bowler: Mustafizur
+Over: 19
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "cutter pushed across the batter outside off. Airee continues swinging and misses for the second ball running"}]cutter pushed across the batter outside off. Airee continues swinging and misses for the second ball running
+
+
+Balls faced: 53
+Bowler: Mustafizur
+Over: 19
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Mustafizur to bowl. This could be the game here"}]Mustafizur to bowl. This could be the game here
+
+[{"type": "HTML", "html": "slower delivery on a length just outside off. Airee has an airy swish at it and gets nowhere close to the ball"}]slower delivery on a length just outside off. Airee has an airy swish at it and gets nowhere close to the ball
+
+
+Balls faced: 54
+Bowler: Taskin
+Over: 18
+Shot: PULL
+Run scored: 1
+
+
+[{"type": "HTML", "html": "dug into the track again, this time on middle and off. Airee swivels and pulls it towards deep square leg"}]dug into the track again, this time on middle and off. Airee swivels and pulls it towards deep square leg
+
+
+Balls faced: 55
+Bowler: Taskin
+Over: 18
+Shot: DEFENDED
+Run scored: 0
+
+
+[{"type": "HTML", "html": "fullish and angling into off. Airee is squared up a touch and pokes it towards backward point"}]fullish and angling into off. Airee is squared up a touch and pokes it towards backward point
+
+
+Balls faced: 56
+Bowler: Taskin
+Over: 18
+Shot: CUT_SHOT
+Run scored: 6
+[{"type": "HTML", "html": "Taskin to bowl out. Nepal need 29 off 18"}]Taskin to bowl out. Nepal need 29 off 18
+
+[{"type": "HTML", "html": "<strong>Airee keeps fighting!</strong> Banged in short outside off. Airee, having advanced, jumps up onto his toes and carves it over the deep point fence. Eerily reminiscent of a stroke Airee's cricketing idol played back in the 2011 World Cup final!"}]<strong>Airee keeps fighting!</strong> Banged in short outside off. Airee, having advanced, jumps up onto his toes and carves it over the deep point fence. Eerily reminiscent of a stroke Airee's cricketing idol played back in the 2011 World Cup final!
+
+
+Balls faced: 57
+Bowler: Mustafizur
+Over: 19
+Shot: PUSH
+Run scored: 0
+[{"type": "HTML", "html": "Surely Airee looks for a single now? The last over could be bowled by a spinner. Nepal still need 22"}]Surely Airee looks for a single now? The last over could be bowled by a spinner. Nepal still need 22
+
+[{"type": "HTML", "html": "<strong>looks for the single, and nicks it through to Litton! A wicket-maiden. In the 19th over, and that could be that for Nepal!</strong> Sublime cutter on a length outside off. Airee has only one thing on his mind and that is a single. Tries to help it past the keeper but ends up giving Litton some catching practice. Bangladesh almost there!"}]<strong>looks for the single, and nicks it through to Litton! A wicket-maiden. In the 19th over, and that could be that for Nepal!</strong> Sublime cutter on a length outside off. Airee has only one thing on his mind and that is a single. Tries to help it past the keeper but ends up giving Litton some catching practice. Bangladesh almost there!
+
+
+Balls faced: 58
+Bowler: Mustafizur
+Over: 19
+Shot: CUT_SHOT
+Run scored: 0
+[{"type": "HTML", "html": "Airee needs to hold his shape and get bat to ball for starters"}]Airee needs to hold his shape and get bat to ball for starters
+
+[{"type": "HTML", "html": "another off-cutter on a back of a length outside off, and Airee is not learning. Swings like a rusty gate and misses"}]another off-cutter on a back of a length outside off, and Airee is not learning. Swings like a rusty gate and misses
+
+
+Balls faced: 59
+Bowler: Mustafizur
+Over: 19
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+[{"type": "HTML", "html": "another slower ball hung up on a length outside off. Airee has a wild slog at it, almost swinging himself off his feet but can only swat away a few flies"}]another slower ball hung up on a length outside off. Airee has a wild slog at it, almost swinging himself off his feet but can only swat away a few flies
+
+
+Balls faced: 60
+Bowler: Mustafizur
+Over: 19
+Shot: PULL
+Run scored: 0
+
+
+[{"type": "HTML", "html": "sharp bumper on middle and leg. Airee seemed to suggest he was lining up the scoop before trying to pull it. Very late on the stroke, though, and the ball whizzes past his ear"}]sharp bumper on middle and leg. Airee seemed to suggest he was lining up the scoop before trying to pull it. Very late on the stroke, though, and the ball whizzes past his ear
+
+
+Balls faced: 61
+Bowler: Mustafizur
+Over: 19
+Shot: CUT_SHOT
+Run scored: 0
+
+
+[{"type": "HTML", "html": "cutter pushed across the batter outside off. Airee continues swinging and misses for the second ball running"}]cutter pushed across the batter outside off. Airee continues swinging and misses for the second ball running
+
+
+Balls faced: 62
+Bowler: Mustafizur
+Over: 19
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+[{"type": "HTML", "html": "Mustafizur to bowl. This could be the game here"}]Mustafizur to bowl. This could be the game here
+
+[{"type": "HTML", "html": "slower delivery on a length just outside off. Airee has an airy swish at it and gets nowhere close to the ball"}]slower delivery on a length just outside off. Airee has an airy swish at it and gets nowhere close to the ball
