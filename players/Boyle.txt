@@ -1,0 +1,273 @@
+Match: southafrica_1388186_1418775.json
+Balls faced: 1
+Bowler: Olivier
+Over:1
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 2
+Bowler: Olivier
+Over:1
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 2
+Balls faced: 3
+Bowler: Olivier
+Over:1
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 4
+Bowler: Olivier
+Over:1
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 5
+Bowler: Olivier
+Over:1
+Shot: BACK_DEFENCE
+run scored: 0
+Balls faced: 6
+Bowler: Olivier
+Over:1
+No Shot
+run scored: 0
+Balls faced: 7
+Bowler: Olivier
+Over:1
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 8
+Bowler: Olivier
+Over:1
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 2
+Balls faced: 9
+Bowler: Olivier
+Over:1
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 10
+Bowler: Olivier
+Over:1
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 11
+Bowler: Olivier
+Over:1
+Shot: BACK_DEFENCE
+run scored: 0
+Balls faced: 12
+Bowler: Olivier
+Over:1
+No Shot
+run scored: 0
+Balls faced: 13
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 14
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 15
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 4
+Balls faced: 16
+Bowler: Olivier
+Over:3
+No Shot
+run scored: 0
+Balls faced: 17
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 2
+Balls faced: 18
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 19
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 20
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 21
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 4
+Balls faced: 22
+Bowler: Olivier
+Over:3
+No Shot
+run scored: 0
+Balls faced: 23
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 2
+Balls faced: 24
+Bowler: Olivier
+Over:3
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 25
+Bowler: Olivier
+Over:5
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 1
+Balls faced: 26
+Bowler: Olivier
+Over:5
+No Shot
+run scored: 0
+Balls faced: 27
+Bowler: Olivier
+Over:5
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 28
+Bowler: Olivier
+Over:5
+No Shot
+run scored: 0
+Balls faced: 29
+Bowler: Olivier
+Over:5
+No Shot
+run scored: 0
+Balls faced: 30
+Bowler: Paterson
+Over:6
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 31
+Bowler: Paterson
+Over:6
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 32
+Bowler: Paterson
+Over:6
+No Shot
+run scored: 0
+Balls faced: 33
+Bowler: Paterson
+Over:6
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 34
+Bowler: Paterson
+Over:6
+Shot: LEG_GLANCE
+run scored: 0
+Balls faced: 35
+Bowler: Paterson
+Over:6
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 36
+Bowler: Olivier
+Over:5
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 1
+Balls faced: 37
+Bowler: Olivier
+Over:5
+No Shot
+run scored: 0
+Balls faced: 38
+Bowler: Olivier
+Over:5
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 39
+Bowler: Olivier
+Over:5
+No Shot
+run scored: 0
+Balls faced: 40
+Bowler: Olivier
+Over:5
+No Shot
+run scored: 0
+Balls faced: 41
+Bowler: Paterson
+Over:6
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 42
+Bowler: Paterson
+Over:6
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 43
+Bowler: Paterson
+Over:6
+No Shot
+run scored: 0
+Balls faced: 44
+Bowler: Paterson
+Over:6
+Shot: VERTICAL_FORWARD_ATTACK
+run scored: 0
+Balls faced: 45
+Bowler: Paterson
+Over:6
+Shot: LEG_GLANCE
+run scored: 0
+Balls faced: 46
+Bowler: Paterson
+Over:6
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 47
+Bowler: Piedt
+Over:8
+Shot: FORWARD_DEFENCE
+run scored: 0
+OUT! {"short": "stumped", "long": "st \u2020Fortuin b Piedt", "commentary": "Matthew Boyle st \u2020Fortuin b Piedt 9 (27b 1x4 0x6 34m) SR: 33.33"}
+Balls faced: 48
+Bowler: Piedt
+Over:8
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 49
+Bowler: Piedt
+Over:8
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 50
+Bowler: Piedt
+Over:8
+No Shot
+run scored: 0
+Balls faced: 51
+Bowler: Piedt
+Over:8
+Shot: FORWARD_DEFENCE
+run scored: 0
+OUT! {"short": "stumped", "long": "st \u2020Fortuin b Piedt", "commentary": "Matthew Boyle st \u2020Fortuin b Piedt 9 (27b 1x4 0x6 34m) SR: 33.33"}
+Balls faced: 52
+Bowler: Piedt
+Over:8
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 53
+Bowler: Piedt
+Over:8
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 54
+Bowler: Piedt
+Over:8
+No Shot
+run scored: 0

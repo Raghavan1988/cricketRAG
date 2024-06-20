@@ -1,0 +1,517 @@
+Match: southafrica_1433350_1433362.json
+Balls faced: 1
+Bowler: Fortuin
+Over:1
+Shot: FLICK
+run scored: 0
+Flicked away to square leg. Good start from SA
+Balls faced: 2
+Bowler: Fortuin
+Over:1
+Shot: FLICK
+run scored: 0
+Fuller on leg stump, looks to flick this away to on side, doesn't time it. Ball goes off to point
+Balls faced: 3
+Bowler: Fortuin
+Over:1
+Shot: FLICK
+run scored: 0
+Flicked away to square leg. Good start from SA
+Balls faced: 4
+Bowler: Fortuin
+Over:1
+Shot: FLICK
+run scored: 0
+Fuller on leg stump, looks to flick this away to on side, doesn't time it. Ball goes off to point
+Balls faced: 5
+Bowler: Baartman
+Over:4
+Shot: SLOG_SHOT
+run scored: 0
+OUT! {"short": "caught", "long": "c Rickelton b Baartman", "commentary": "Johnson Charles c Rickelton b Baartman 1 (5b 0x4 0x6 16m) SR: 20"}
+<b>First T20I wicket for Baartman!</b> Full length delivery slightly outside off, Charles hits this towards deep square leg fence but only to be caught by Rickelton near the rope
+Balls faced: 6
+Bowler: Baartman
+Over:4
+Shot: FLICK
+run scored: 0
+Full length delivery on middle and leg, tries to flick it to legside but can't connect properly
+Balls faced: 7
+Bowler: Baartman
+Over:4
+Shot: FLICK
+run scored: 1
+[{"type": "HTML", "html": "Baartman, the debutant, comes in"}]Baartman, the debutant, comes in
+Starts with a fuller length on middle and leg, whipped away to on side
+Balls faced: 8
+Bowler: Baartman
+Over:4
+Shot: SLOG_SHOT
+run scored: 0
+OUT! {"short": "caught", "long": "c Rickelton b Baartman", "commentary": "Johnson Charles c Rickelton b Baartman 1 (5b 0x4 0x6 16m) SR: 20"}
+<b>First T20I wicket for Baartman!</b> Full length delivery slightly outside off, Charles hits this towards deep square leg fence but only to be caught by Rickelton near the rope
+Balls faced: 9
+Bowler: Baartman
+Over:4
+Shot: FLICK
+run scored: 0
+Full length delivery on middle and leg, tries to flick it to legside but can't connect properly
+Balls faced: 10
+Bowler: Baartman
+Over:4
+Shot: FLICK
+run scored: 1
+[{"type": "HTML", "html": "Baartman, the debutant, comes in"}]Baartman, the debutant, comes in
+Starts with a fuller length on middle and leg, whipped away to on side
+Match: southafrica_1433350_1433363.json
+Balls faced: 1
+Bowler: Ngidi
+Over:1
+Shot: ON_DRIVE
+run scored: 0
+Goes on the fuller side of a length, and just outside off by taking pace off. Nudged back to the bowler after shifting his weight on to the back foot
+Balls faced: 2
+Bowler: Ngidi
+Over:1
+Shot: SLOG_SHOT
+run scored: 6
+[{"type": "HTML", "html": "Charles on strike"}]Charles on strike
+Flings this wide of long-on! On a length around sixth stump from Ngidi, and Charles swung across the line to deposit it with the wind
+Balls faced: 3
+Bowler: Fortuin
+Over:2
+Shot: SWEEP_SHOT
+run scored: 0
+Looks for the sweep, but is hit on his pad outside leg
+Balls faced: 4
+Bowler: Fortuin
+Over:2
+Shot: FLICK
+run scored: 0
+Much fuller, and angled into leg. It hits his back leg outside leg as he looks to launch to the leg side
+Balls faced: 5
+Bowler: Fortuin
+Over:2
+Shot: ON_DRIVE
+run scored: 1
+Tucked towards mid-on, as Fortuin gives the chase initially
+Balls faced: 6
+Bowler: Ngidi
+Over:1
+Shot: ON_DRIVE
+run scored: 0
+Goes on the fuller side of a length, and just outside off by taking pace off. Nudged back to the bowler after shifting his weight on to the back foot
+Balls faced: 7
+Bowler: Ngidi
+Over:1
+Shot: SLOG_SHOT
+run scored: 6
+[{"type": "HTML", "html": "Charles on strike"}]Charles on strike
+Flings this wide of long-on! On a length around sixth stump from Ngidi, and Charles swung across the line to deposit it with the wind
+Balls faced: 8
+Bowler: Nortje
+Over:3
+Shot: PULL
+run scored: 0
+Another short ball at rapid pace. This one takes off from outside off, and goes Charles' bat as he attempts to pull
+Balls faced: 9
+Bowler: Fortuin
+Over:2
+Shot: SWEEP_SHOT
+run scored: 0
+Looks for the sweep, but is hit on his pad outside leg
+Balls faced: 10
+Bowler: Fortuin
+Over:2
+Shot: FLICK
+run scored: 0
+Much fuller, and angled into leg. It hits his back leg outside leg as he looks to launch to the leg side
+Balls faced: 11
+Bowler: Fortuin
+Over:2
+Shot: ON_DRIVE
+run scored: 1
+Tucked towards mid-on, as Fortuin gives the chase initially
+Balls faced: 12
+Bowler: Fortuin
+Over:4
+Shot: FLICK
+run scored: 0
+OUT! {"short": "caught", "long": "c Rickelton b Fortuin", "commentary": "Johnson Charles c Rickelton b Fortuin 7 (9b 0x4 1x6 15m) SR: 77.77"}
+Makes room… and finds deep square leg! The ball was in the air for a while, and the man at deep-square leg took a good few steps forward while keeping his eyes on the ball all along.
+Balls faced: 13
+Bowler: Fortuin
+Over:4
+Shot: COVER_DRIVE
+run scored: 0
+Shorter in length, and outside off. Slapped to cover
+Balls faced: 14
+Bowler: Fortuin
+Over:4
+Shot: SWEEP_SHOT
+run scored: 0
+Ahh, slows it down, and bowls full on middle and leg. It turns away and bounces over the stumps, as Charles looks to sweep
+Balls faced: 15
+Bowler: Nortje
+Over:3
+Shot: PULL
+run scored: 0
+Another short ball at rapid pace. This one takes off from outside off, and goes Charles' bat as he attempts to pull
+Balls faced: 16
+Bowler: Fortuin
+Over:4
+Shot: FLICK
+run scored: 0
+OUT! {"short": "caught", "long": "c Rickelton b Fortuin", "commentary": "Johnson Charles c Rickelton b Fortuin 7 (9b 0x4 1x6 15m) SR: 77.77"}
+Makes room… and finds deep square leg! The ball was in the air for a while, and the man at deep-square leg took a good few steps forward while keeping his eyes on the ball all along.
+Balls faced: 17
+Bowler: Fortuin
+Over:4
+Shot: COVER_DRIVE
+run scored: 0
+Shorter in length, and outside off. Slapped to cover
+Balls faced: 18
+Bowler: Fortuin
+Over:4
+Shot: SWEEP_SHOT
+run scored: 0
+Ahh, slows it down, and bowls full on middle and leg. It turns away and bounces over the stumps, as Charles looks to sweep
+Match: southafrica_1433350_1433364.json
+Balls faced: 1
+Bowler: Nortje
+Over:1
+Shot: STRAIGHT_DRIVE
+run scored: 0
+a low full toss angling into leg, and driven down, only for the ball to hit the leg stump at the other end. Might have been four otherwise, who knows?
+Balls faced: 2
+Bowler: Nortje
+Over:1
+Shot: ON_DRIVE
+run scored: 4
+launched down the ground! Again stands with his front leg out of the way, and gets a length ball on off. Charles thumps it with a horizontal bat
+Balls faced: 3
+Bowler: Nortje
+Over:1
+Shot: RAMP
+run scored: 4
+ramped over short third! He sways out of the way initially at this short delivery on middle, but one which angles in to cramp him. Lofted from leg stump, with him standing well outside leg
+Balls faced: 4
+Bowler: Nortje
+Over:1
+Shot: ON_DRIVE
+run scored: 4
+clears his front leg, and has a hoick! The length of the ball seemed a bit too full for that shot, but Charles still executed it, attacking across the line for four to deep midwicket
+Balls faced: 5
+Bowler: Nortje
+Over:1
+Shot: STEERED
+run scored: 0
+[{"type": "HTML", "html": "Charles on strike"}]Charles on strike
+opens the face of the bat to guide this length ball outside off to point
+Balls faced: 6
+Bowler: Fortuin
+Over:2
+Shot: LEFT_ALONE
+run scored: 0
+backs away early, and Fortuin goes full and wide of off. Left alone
+Balls faced: 7
+Bowler: Fortuin
+Over:2
+Shot: ON_DRIVE
+run scored: 6
+dumped down the pitch! This time it is Charles who jumps out of the crease, and lofts this length ball angling into middle and leg. Another massive six
+Balls faced: 8
+Bowler: Fortuin
+Over:2
+Shot: SWEEP_SHOT
+run scored: 0
+full ball outside leg, and swept to short fine leg
+Balls faced: 9
+Bowler: Nortje
+Over:1
+Shot: STRAIGHT_DRIVE
+run scored: 0
+a low full toss angling into leg, and driven down, only for the ball to hit the leg stump at the other end. Might have been four otherwise, who knows?
+Balls faced: 10
+Bowler: Nortje
+Over:1
+Shot: ON_DRIVE
+run scored: 4
+launched down the ground! Again stands with his front leg out of the way, and gets a length ball on off. Charles thumps it with a horizontal bat
+Balls faced: 11
+Bowler: Nortje
+Over:1
+Shot: RAMP
+run scored: 4
+ramped over short third! He sways out of the way initially at this short delivery on middle, but one which angles in to cramp him. Lofted from leg stump, with him standing well outside leg
+Balls faced: 12
+Bowler: Nortje
+Over:1
+Shot: ON_DRIVE
+run scored: 4
+clears his front leg, and has a hoick! The length of the ball seemed a bit too full for that shot, but Charles still executed it, attacking across the line for four to deep midwicket
+Balls faced: 13
+Bowler: Nortje
+Over:1
+Shot: STEERED
+run scored: 0
+[{"type": "HTML", "html": "Charles on strike"}]Charles on strike
+opens the face of the bat to guide this length ball outside off to point
+Balls faced: 14
+Bowler: Coetzee
+Over:3
+Shot: STRAIGHT_DRIVE
+run scored: 4
+ahh, driven gently! Coetzee bowls a slower ball, and full on middle and leg, as Charles leans forward to drive between the stumps and the non-striker
+Balls faced: 15
+Bowler: Coetzee
+Over:3
+Shot: ON_DRIVE
+run scored: 6
+over mid-off! This goes over the shorter side of the ground. Another length ball, and this is on middle. Charles slightly opens the face of the bat, and lofts for the third six in a row
+Balls faced: 16
+Bowler: Coetzee
+Over:3
+Shot: HOOK
+run scored: 6
+hooked just behind the wicket! He gets slightly across the stumps at this short delivery outside off, which shapes back in towards middle and leg, and hammers it while using the pace of the ball
+Balls faced: 17
+Bowler: Coetzee
+Over:3
+Shot: ON_DRIVE
+run scored: 6
+heaved over mid-on! That lands deep into the stands. Length delivery arriving into the line of the stumps, and absolutely clubbed down the ground
+Balls faced: 18
+Bowler: Fortuin
+Over:2
+Shot: LEFT_ALONE
+run scored: 0
+backs away early, and Fortuin goes full and wide of off. Left alone
+Balls faced: 19
+Bowler: Fortuin
+Over:2
+Shot: ON_DRIVE
+run scored: 6
+dumped down the pitch! This time it is Charles who jumps out of the crease, and lofts this length ball angling into middle and leg. Another massive six
+Balls faced: 20
+Bowler: Fortuin
+Over:2
+Shot: SWEEP_SHOT
+run scored: 0
+full ball outside leg, and swept to short fine leg
+Balls faced: 21
+Bowler: Mulder
+Over:4
+Shot: LEG_GLANCE
+run scored: 4
+clipped off his pads! Length delivery angling in again, and ending on leg, as Charles tickles it late in between the keeper and short fine leg
+Balls faced: 22
+Bowler: Mulder
+Over:4
+Shot: FLICK
+run scored: 0
+now he fires in a yorker well outside leg, seeing Charles make room. The ball is squeezed out to the keeper behind, as de Kock dives to his right
+Balls faced: 23
+Bowler: Mulder
+Over:4
+Shot: PULL
+run scored: 0
+ahh, this keeps low off a length! Mulder bowled on middle, getting the ball to angle in, as Charles aimed to pull but missed
+Balls faced: 24
+Bowler: Mulder
+Over:4
+Shot: ON_DRIVE
+run scored: 0
+punches at this length ball shaping back in to finish outside leg. The ball rolls to Mulder's left
+Balls faced: 25
+Bowler: Mulder
+Over:4
+Shot: PULL
+run scored: 4
+pulled to fine leg! He backs away, and Mulder bowls short while angling it in towards outside leg. Charles waits and has a swivel to beat the fielder inside the circle to his left
+Balls faced: 26
+Bowler: Coetzee
+Over:3
+Shot: STRAIGHT_DRIVE
+run scored: 4
+ahh, driven gently! Coetzee bowls a slower ball, and full on middle and leg, as Charles leans forward to drive between the stumps and the non-striker
+Balls faced: 27
+Bowler: Coetzee
+Over:3
+Shot: ON_DRIVE
+run scored: 6
+over mid-off! This goes over the shorter side of the ground. Another length ball, and this is on middle. Charles slightly opens the face of the bat, and lofts for the third six in a row
+Balls faced: 28
+Bowler: Coetzee
+Over:3
+Shot: HOOK
+run scored: 6
+hooked just behind the wicket! He gets slightly across the stumps at this short delivery outside off, which shapes back in towards middle and leg, and hammers it while using the pace of the ball
+Balls faced: 29
+Bowler: Coetzee
+Over:3
+Shot: ON_DRIVE
+run scored: 6
+heaved over mid-on! That lands deep into the stands. Length delivery arriving into the line of the stumps, and absolutely clubbed down the ground
+Balls faced: 30
+Bowler: Fortuin
+Over:5
+Shot: ON_DRIVE
+run scored: 1
+short of a length on the stumps, and punched to long-on
+Balls faced: 31
+Bowler: Mulder
+Over:4
+Shot: LEG_GLANCE
+run scored: 4
+clipped off his pads! Length delivery angling in again, and ending on leg, as Charles tickles it late in between the keeper and short fine leg
+Balls faced: 32
+Bowler: Mulder
+Over:4
+Shot: FLICK
+run scored: 0
+now he fires in a yorker well outside leg, seeing Charles make room. The ball is squeezed out to the keeper behind, as de Kock dives to his right
+Balls faced: 33
+Bowler: Mulder
+Over:4
+Shot: PULL
+run scored: 0
+ahh, this keeps low off a length! Mulder bowled on middle, getting the ball to angle in, as Charles aimed to pull but missed
+Balls faced: 34
+Bowler: Mulder
+Over:4
+Shot: ON_DRIVE
+run scored: 0
+punches at this length ball shaping back in to finish outside leg. The ball rolls to Mulder's left
+Balls faced: 35
+Bowler: Mulder
+Over:4
+Shot: PULL
+run scored: 4
+pulled to fine leg! He backs away, and Mulder bowls short while angling it in towards outside leg. Charles waits and has a swivel to beat the fielder inside the circle to his left
+Balls faced: 36
+Bowler: Nortje
+Over:6
+Shot: FLICK
+run scored: 1
+goes swinging across the line at this yorker-length ball, but gets it off the inside half of the bat towards short fine
+Balls faced: 37
+Bowler: Nortje
+Over:6
+Shot: CUT_SHOT
+run scored: 4
+slashed to deep cover! Merciless from Charles, who gets a short ball rising on middle and off this time. He shifts his weight back, though, and slams it pwoerfully
+Balls faced: 38
+Bowler: Nortje
+Over:6
+Shot: STRAIGHT_DRIVE
+run scored: 4
+this is a low full toss angling in to end wide of leg, but Charles has made room, and drills it between mid-off and mid-on
+Balls faced: 39
+Bowler: Nortje
+Over:6
+Shot: ON_DRIVE
+run scored: 4
+ahh, the mid-off fielder gets a hand and deflects the ball, but it is still four! It is also <strong>Charles' fifty</strong>. Quite full and angling into leg, as he drove that forcefully. Mid-off moved to his right and tickled it, but in vain
+Balls faced: 40
+Bowler: Nortje
+Over:6
+Shot: PUSH
+run scored: 0
+[{"type": "HTML", "html": "Nortje back"}]Nortje back
+on a length on the stumps, and angling in. Chopped off the bottom edge by Charles
+Yves: ""King and Charles" walk out to open. LOL!I was half expecting you would leave out the "and" there" --- The royal family was at the football last night, though, attending the FA Cup final
+Balls faced: 41
+Bowler: Fortuin
+Over:5
+Shot: ON_DRIVE
+run scored: 1
+short of a length on the stumps, and punched to long-on
+Balls faced: 42
+Bowler: Peter
+Over:7
+Shot: PULL
+run scored: 0
+OUT! {"short": "caught", "long": "c Breetzke b Peter", "commentary": "Johnson Charles c Breetzke b Peter 69 (26b 9x4 5x6 28m) SR: 265.38"}
+finds deep midwicket! Peter strikes in his first over again. Short of a length this time, as Charles goes deep in the crease to pull but right to the man placed at the boundary. A terrific knock ends, one which included 66 out of the 69 runs in boundaries
+Balls faced: 43
+Bowler: Peter
+Over:7
+Shot: ON_DRIVE
+run scored: 6
+dumped deep over long-on! He gets down at this length ball on off, and crashes it with a sweep, fetching the ball from off despite standing outsdie leg
+Balls faced: 44
+Bowler: Peter
+Over:7
+Shot: ON_DRIVE
+run scored: 1
+fuller side of a length on middle and leg, and pushed to long-on's right
+Balls faced: 45
+Bowler: Peter
+Over:7
+Shot: FLICK
+run scored: 0
+[{"type": "HTML", "html": "Peter into the attack"}]Peter into the attack
+full and flat just outside leg, as it heads down. He looks to clip but misses, and it's a wide
+Sujal: "Charles has made a mockery of all the critics who were questioning his place in the World Cup team"
+Wide: 1
+Balls faced: 46
+Bowler: Nortje
+Over:6
+Shot: FLICK
+run scored: 1
+goes swinging across the line at this yorker-length ball, but gets it off the inside half of the bat towards short fine
+Balls faced: 47
+Bowler: Nortje
+Over:6
+Shot: CUT_SHOT
+run scored: 4
+slashed to deep cover! Merciless from Charles, who gets a short ball rising on middle and off this time. He shifts his weight back, though, and slams it pwoerfully
+Balls faced: 48
+Bowler: Nortje
+Over:6
+Shot: STRAIGHT_DRIVE
+run scored: 4
+this is a low full toss angling in to end wide of leg, but Charles has made room, and drills it between mid-off and mid-on
+Balls faced: 49
+Bowler: Nortje
+Over:6
+Shot: ON_DRIVE
+run scored: 4
+ahh, the mid-off fielder gets a hand and deflects the ball, but it is still four! It is also <strong>Charles' fifty</strong>. Quite full and angling into leg, as he drove that forcefully. Mid-off moved to his right and tickled it, but in vain
+Balls faced: 50
+Bowler: Nortje
+Over:6
+Shot: PUSH
+run scored: 0
+[{"type": "HTML", "html": "Nortje back"}]Nortje back
+on a length on the stumps, and angling in. Chopped off the bottom edge by Charles
+Yves: ""King and Charles" walk out to open. LOL!I was half expecting you would leave out the "and" there" --- The royal family was at the football last night, though, attending the FA Cup final
+Balls faced: 51
+Bowler: Peter
+Over:7
+Shot: PULL
+run scored: 0
+OUT! {"short": "caught", "long": "c Breetzke b Peter", "commentary": "Johnson Charles c Breetzke b Peter 69 (26b 9x4 5x6 28m) SR: 265.38"}
+finds deep midwicket! Peter strikes in his first over again. Short of a length this time, as Charles goes deep in the crease to pull but right to the man placed at the boundary. A terrific knock ends, one which included 66 out of the 69 runs in boundaries
+Balls faced: 52
+Bowler: Peter
+Over:7
+Shot: ON_DRIVE
+run scored: 6
+dumped deep over long-on! He gets down at this length ball on off, and crashes it with a sweep, fetching the ball from off despite standing outsdie leg
+Balls faced: 53
+Bowler: Peter
+Over:7
+Shot: ON_DRIVE
+run scored: 1
+fuller side of a length on middle and leg, and pushed to long-on's right
+Balls faced: 54
+Bowler: Peter
+Over:7
+Shot: FLICK
+run scored: 0
+[{"type": "HTML", "html": "Peter into the attack"}]Peter into the attack
+full and flat just outside leg, as it heads down. He looks to clip but misses, and it's a wide
+Sujal: "Charles has made a mockery of all the critics who were questioning his place in the World Cup team"
+Wide: 1

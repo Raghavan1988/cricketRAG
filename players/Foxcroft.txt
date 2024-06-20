@@ -1,0 +1,43 @@
+Match: southafrica_1388186_1418775.json
+Balls faced: 1
+Bowler: Paterson
+Over:15
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 2
+Bowler: Paterson
+Over:15
+No Shot
+run scored: 0
+Balls faced: 3
+Bowler: Paterson
+Over:15
+Shot: FORWARD_DEFENCE
+run scored: 0
+Balls faced: 4
+Bowler: Paterson
+Over:15
+No Shot
+run scored: 0
+Balls faced: 5
+Bowler: Paterson
+Over:17
+Shot: FORWARD_DEFENCE
+run scored: 0
+OUT! {"short": "bowled", "long": " b Paterson", "commentary": "Dean Foxcroft b Paterson 0 (4b 0x4 0x6 11m) SR: 0"}
+Balls faced: 6
+Bowler: Paterson
+Over:17
+No Shot
+run scored: 0
+Balls faced: 7
+Bowler: Paterson
+Over:17
+Shot: FORWARD_DEFENCE
+run scored: 0
+OUT! {"short": "bowled", "long": " b Paterson", "commentary": "Dean Foxcroft b Paterson 0 (4b 0x4 0x6 11m) SR: 0"}
+Balls faced: 8
+Bowler: Paterson
+Over:17
+No Shot
+run scored: 0
