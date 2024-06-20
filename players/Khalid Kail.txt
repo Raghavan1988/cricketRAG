@@ -2,241 +2,269 @@ Match: all_games_1411166_1415710.json
 Balls faced: 1
 Bowler: Maxwell
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length outside off, tapped behind point"}]On a length outside off, tapped behind point
+On a length outside off, tapped behind point
 
 
 Balls faced: 2
 Bowler: Maxwell
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length outside off, Kail defends"}]On a length outside off, Kail defends
+On a length outside off, Kail defends
 
 
 Balls faced: 3
 Bowler: Maxwell
 Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Dragged short again and this time Kail picks the gap between backward point and short third for his first boundary"}]Dragged short again and this time Kail picks the gap between backward point and short third for his first boundary
+Dragged short again and this time Kail picks the gap between backward point and short third for his first boundary
 
 
 Balls faced: 4
 Bowler: Maxwell
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dragged short outside off, Kail can't clear backward point with his cut"}]Dragged short outside off, Kail can't clear backward point with his cut
+Dragged short outside off, Kail can't clear backward point with his cut
 
 
 Balls faced: 5
 Bowler: Maxwell
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length outside off, tapped behind point"}]On a length outside off, tapped behind point
+On a length outside off, tapped behind point
 
 
 Balls faced: 6
 Bowler: Maxwell
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "On a length outside off, Kail defends"}]On a length outside off, Kail defends
+On a length outside off, Kail defends
 
 
 Balls faced: 7
 Bowler: Maxwell
 Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Dragged short again and this time Kail picks the gap between backward point and short third for his first boundary"}]Dragged short again and this time Kail picks the gap between backward point and short third for his first boundary
+Dragged short again and this time Kail picks the gap between backward point and short third for his first boundary
 
 
 Balls faced: 8
 Bowler: Maxwell
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Dragged short outside off, Kail can't clear backward point with his cut"}]Dragged short outside off, Kail can't clear backward point with his cut
+Dragged short outside off, Kail can't clear backward point with his cut
 
 
 Balls faced: 9
 Bowler: Ellis
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of length outside off, cut away to deep point"}]Back of length outside off, cut away to deep point
+Back of length outside off, cut away to deep point
 
 
 Balls faced: 10
 Bowler: Zampa
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Again waits for it and stabs it late behind point for another single"}]Again waits for it and stabs it late behind point for another single
+Again waits for it and stabs it late behind point for another single
 
 
 Balls faced: 11
 Bowler: Zampa
 Over: 11
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "low full toss on the pads, paddle swept fine but just the single"}]low full toss on the pads, paddle swept fine but just the single
+low full toss on the pads, paddle swept fine but just the single
 
 
 Balls faced: 12
 Bowler: Zampa
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Zampa to continue after drinks"}, {"type": "HTML", "html": "Thanks Abhimanyu. Australia well on top then, is there any way back for Oman here? Looking at the rising required runrate and net runrate permutations, more likely to be an exercise in damage limitation from hereon."}]Zampa to continue after drinks Thanks Abhimanyu. Australia well on top then, is there any way back for Oman here? Looking at the rising required runrate and net runrate permutations, more likely to be an exercise in damage limitation from hereon.
+Zampa to continue after drinks Thanks Abhimanyu. Australia well on top then, is there any way back for Oman here? Looking at the rising required runrate and net runrate permutations, more likely to be an exercise in damage limitation from hereon.
 
-[{"type": "HTML", "html": "tossed up on off, gets a good stride in but still has to reach for this as it's swept behind square leg"}]tossed up on off, gets a good stride in but still has to reach for this as it's swept behind square leg
+tossed up on off, gets a good stride in but still has to reach for this as it's swept behind square leg
 
 
 Balls faced: 13
 Bowler: Ellis
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Back of length outside off, cut away to deep point"}]Back of length outside off, cut away to deep point
+Back of length outside off, cut away to deep point
 
 
 Balls faced: 14
 Bowler: Starc
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Holes out at deep point!</b> This was another one full and wide, Kail slices it in the air but just can't get the power that he's looking for. Straight at Maxwell in the deep. <B>Oman lose their fifth</b>"}]<B>Holes out at deep point!</b> This was another one full and wide, Kail slices it in the air but just can't get the power that he's looking for. Straight at Maxwell in the deep. <B>Oman lose their fifth</b>
+Khalid Kail is OUT! caught
+c Maxwell b Starc
+Khalid Kail c Maxwell b Starc 8 (12b 1x4 0x6 24m) SR: 66.66
+<B>Holes out at deep point!</b> This was another one full and wide, Kail slices it in the air but just can't get the power that he's looking for. Straight at Maxwell in the deep. <B>Oman lose their fifth</b>
 
 
 Balls faced: 15
 Bowler: Starc
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide full toss, 135kph, play and a miss"}]Wide full toss, 135kph, play and a miss
+Wide full toss, 135kph, play and a miss
 
 
 Balls faced: 16
 Bowler: Starc
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in on the stumps now, backs away and slaps this straight back at Starc"}]angled in on the stumps now, backs away and slaps this straight back at Starc
+angled in on the stumps now, backs away and slaps this straight back at Starc
 
 
 Balls faced: 17
 Bowler: Starc
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Starc moves around the wicket"}]Starc moves around the wicket
+Starc moves around the wicket
 
-[{"type": "HTML", "html": "Wide yorker, and this looks to be just along the blue wide line. Too wide says the umpire"}]Wide yorker, and this looks to be just along the blue wide line. Too wide says the umpire
+Wide yorker, and this looks to be just along the blue wide line. Too wide says the umpire
 
 Wide: 1
 Balls faced: 18
 Bowler: Zampa
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Again waits for it and stabs it late behind point for another single"}]Again waits for it and stabs it late behind point for another single
+Again waits for it and stabs it late behind point for another single
 
 
 Balls faced: 19
 Bowler: Zampa
 Over: 11
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "low full toss on the pads, paddle swept fine but just the single"}]low full toss on the pads, paddle swept fine but just the single
+low full toss on the pads, paddle swept fine but just the single
 
 
 Balls faced: 20
 Bowler: Zampa
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Zampa to continue after drinks"}, {"type": "HTML", "html": "Thanks Abhimanyu. Australia well on top then, is there any way back for Oman here? Looking at the rising required runrate and net runrate permutations, more likely to be an exercise in damage limitation from hereon."}]Zampa to continue after drinks Thanks Abhimanyu. Australia well on top then, is there any way back for Oman here? Looking at the rising required runrate and net runrate permutations, more likely to be an exercise in damage limitation from hereon.
+Zampa to continue after drinks Thanks Abhimanyu. Australia well on top then, is there any way back for Oman here? Looking at the rising required runrate and net runrate permutations, more likely to be an exercise in damage limitation from hereon.
 
-[{"type": "HTML", "html": "tossed up on off, gets a good stride in but still has to reach for this as it's swept behind square leg"}]tossed up on off, gets a good stride in but still has to reach for this as it's swept behind square leg
+tossed up on off, gets a good stride in but still has to reach for this as it's swept behind square leg
 
 
 Balls faced: 21
 Bowler: Starc
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<B>Holes out at deep point!</b> This was another one full and wide, Kail slices it in the air but just can't get the power that he's looking for. Straight at Maxwell in the deep. <B>Oman lose their fifth</b>"}]<B>Holes out at deep point!</b> This was another one full and wide, Kail slices it in the air but just can't get the power that he's looking for. Straight at Maxwell in the deep. <B>Oman lose their fifth</b>
+Khalid Kail is OUT! caught
+c Maxwell b Starc
+Khalid Kail c Maxwell b Starc 8 (12b 1x4 0x6 24m) SR: 66.66
+<B>Holes out at deep point!</b> This was another one full and wide, Kail slices it in the air but just can't get the power that he's looking for. Straight at Maxwell in the deep. <B>Oman lose their fifth</b>
 
 
 Balls faced: 22
 Bowler: Starc
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide full toss, 135kph, play and a miss"}]Wide full toss, 135kph, play and a miss
+Wide full toss, 135kph, play and a miss
 
 
 Balls faced: 23
 Bowler: Starc
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled in on the stumps now, backs away and slaps this straight back at Starc"}]angled in on the stumps now, backs away and slaps this straight back at Starc
+angled in on the stumps now, backs away and slaps this straight back at Starc
 
 
 Balls faced: 24
 Bowler: Starc
 Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Starc moves around the wicket"}]Starc moves around the wicket
+Starc moves around the wicket
 
-[{"type": "HTML", "html": "Wide yorker, and this looks to be just along the blue wide line. Too wide says the umpire"}]Wide yorker, and this looks to be just along the blue wide line. Too wide says the umpire
+Wide yorker, and this looks to be just along the blue wide line. Too wide says the umpire
 
 Wide: 1
 
@@ -244,141 +272,159 @@ Match: all_games_1411166_1415720.json
 Balls faced: 1
 Bowler: Sharif
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "attempted yorker, fired in at the toes, clipped to the on-side"}]attempted yorker, fired in at the toes, clipped to the on-side
+attempted yorker, fired in at the toes, clipped to the on-side
 
 
 Balls faced: 2
 Bowler: Sharif
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short ball, swished off the helmet out to midwicket to get Kail off the mark"}]short ball, swished off the helmet out to midwicket to get Kail off the mark
+short ball, swished off the helmet out to midwicket to get Kail off the mark
 
 
 Balls faced: 3
 Bowler: Sharif
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "taken on the splice again from a good length, low hands out to point where McMullen pounces"}]taken on the splice again from a good length, low hands out to point where McMullen pounces
+taken on the splice again from a good length, low hands out to point where McMullen pounces
 
 
 Balls faced: 4
 Bowler: Sharif
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>skids through outside off, just eludes the edge!</B> Loose from Kail, opening the face to an outswinger, and misjudging that extra bounce"}]<B>skids through outside off, just eludes the edge!</B> Loose from Kail, opening the face to an outswinger, and misjudging that extra bounce
+<B>skids through outside off, just eludes the edge!</B> Loose from Kail, opening the face to an outswinger, and misjudging that extra bounce
 
 
 Balls faced: 5
 Bowler: Watt
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "<B>Another 24-yarder and this time the batter is bowled!</B> Watt is deeply unimpressed as the umpire signals dead ball, but the batter was ready and watching, and pulled out only as the ball was delivered"}]<B>Another 24-yarder and this time the batter is bowled!</B> Watt is deeply unimpressed as the umpire signals dead ball, but the batter was ready and watching, and pulled out only as the ball was delivered
-
-[{"type": "HTML", "html": "<B>That will be a deeply satisfying dismissal for Scotland!</B> Kail punches a single into the covers, completes his first run, is sent back for the second, and the shy comes in for Watt to ping down the bowler's stumps with glee!"}]<B>That will be a deeply satisfying dismissal for Scotland!</B> Kail punches a single into the covers, completes his first run, is sent back for the second, and the shy comes in for Watt to ping down the bowler's stumps with glee!
+<B>Another 24-yarder and this time the batter is bowled!</B> Watt is deeply unimpressed as the umpire signals dead ball, but the batter was ready and watching, and pulled out only as the ball was delivered
+Khalid Kail is OUT! run out
+run out (Sole/Watt)
+Khalid Kail run out (Sole/Watt) 5 (7b 0x4 0x6 8m) SR: 71.42
+<B>That will be a deeply satisfying dismissal for Scotland!</B> Kail punches a single into the covers, completes his first run, is sent back for the second, and the shy comes in for Watt to ping down the bowler's stumps with glee!
 
 
 Balls faced: 6
 Bowler: Watt
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Watt fires in another ball from behind the umpire, the batter is unimpressed and pulls out"}]Watt fires in another ball from behind the umpire, the batter is unimpressed and pulls out
+Watt fires in another ball from behind the umpire, the batter is unimpressed and pulls out
 
-[{"type": "HTML", "html": "clipped to the on-side"}]clipped to the on-side
+clipped to the on-side
 
 
 Balls faced: 7
 Bowler: Watt
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "a touch of width, gets on top of a chopped cut out to point, mopped up in the deep"}]a touch of width, gets on top of a chopped cut out to point, mopped up in the deep
+a touch of width, gets on top of a chopped cut out to point, mopped up in the deep
 
 
 Balls faced: 8
 Bowler: Sharif
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "attempted yorker, fired in at the toes, clipped to the on-side"}]attempted yorker, fired in at the toes, clipped to the on-side
+attempted yorker, fired in at the toes, clipped to the on-side
 
 
 Balls faced: 9
 Bowler: Sharif
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short ball, swished off the helmet out to midwicket to get Kail off the mark"}]short ball, swished off the helmet out to midwicket to get Kail off the mark
+short ball, swished off the helmet out to midwicket to get Kail off the mark
 
 
 Balls faced: 10
 Bowler: Sharif
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "taken on the splice again from a good length, low hands out to point where McMullen pounces"}]taken on the splice again from a good length, low hands out to point where McMullen pounces
+taken on the splice again from a good length, low hands out to point where McMullen pounces
 
 
 Balls faced: 11
 Bowler: Sharif
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<B>skids through outside off, just eludes the edge!</B> Loose from Kail, opening the face to an outswinger, and misjudging that extra bounce"}]<B>skids through outside off, just eludes the edge!</B> Loose from Kail, opening the face to an outswinger, and misjudging that extra bounce
+<B>skids through outside off, just eludes the edge!</B> Loose from Kail, opening the face to an outswinger, and misjudging that extra bounce
 
 
 Balls faced: 12
 Bowler: Watt
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "<B>Another 24-yarder and this time the batter is bowled!</B> Watt is deeply unimpressed as the umpire signals dead ball, but the batter was ready and watching, and pulled out only as the ball was delivered"}]<B>Another 24-yarder and this time the batter is bowled!</B> Watt is deeply unimpressed as the umpire signals dead ball, but the batter was ready and watching, and pulled out only as the ball was delivered
-
-[{"type": "HTML", "html": "<B>That will be a deeply satisfying dismissal for Scotland!</B> Kail punches a single into the covers, completes his first run, is sent back for the second, and the shy comes in for Watt to ping down the bowler's stumps with glee!"}]<B>That will be a deeply satisfying dismissal for Scotland!</B> Kail punches a single into the covers, completes his first run, is sent back for the second, and the shy comes in for Watt to ping down the bowler's stumps with glee!
+<B>Another 24-yarder and this time the batter is bowled!</B> Watt is deeply unimpressed as the umpire signals dead ball, but the batter was ready and watching, and pulled out only as the ball was delivered
+Khalid Kail is OUT! run out
+run out (Sole/Watt)
+Khalid Kail run out (Sole/Watt) 5 (7b 0x4 0x6 8m) SR: 71.42
+<B>That will be a deeply satisfying dismissal for Scotland!</B> Kail punches a single into the covers, completes his first run, is sent back for the second, and the shy comes in for Watt to ping down the bowler's stumps with glee!
 
 
 Balls faced: 13
 Bowler: Watt
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Watt fires in another ball from behind the umpire, the batter is unimpressed and pulls out"}]Watt fires in another ball from behind the umpire, the batter is unimpressed and pulls out
+Watt fires in another ball from behind the umpire, the batter is unimpressed and pulls out
 
-[{"type": "HTML", "html": "clipped to the on-side"}]clipped to the on-side
+clipped to the on-side
 
 
 Balls faced: 14
 Bowler: Watt
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "a touch of width, gets on top of a chopped cut out to point, mopped up in the deep"}]a touch of width, gets on top of a chopped cut out to point, mopped up in the deep
+a touch of width, gets on top of a chopped cut out to point, mopped up in the deep
 
 
 
@@ -386,59 +432,69 @@ Match: all_games_1411166_1415728.json
 Balls faced: 1
 Bowler: Wood
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Bit of width, Kail has a hack and top edges over the cordon, to Topley on the bounce at deep third"}]Bit of width, Kail has a hack and top edges over the cordon, to Topley on the bounce at deep third
+Bit of width, Kail has a hack and top edges over the cordon, to Topley on the bounce at deep third
 
 
 Balls faced: 2
 Bowler: Wood
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide of the crease, into the top of the stumps. Kail's feet were very leg-side there..."}]Wide of the crease, into the top of the stumps. Kail's feet were very leg-side there...
+Wide of the crease, into the top of the stumps. Kail's feet were very leg-side there...
 
 
 Balls faced: 3
 Bowler: Rashid
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Sami: \"Guess the Scots are gonna have to take matters into their own hands this Sunday\". That ranks as Oman's worst Powerplay of the World Cup, by the way. Strong start for England, as Ayaan Khan - the run machine - comes out as Adil Rashid comes on"}]Sami: "Guess the Scots are gonna have to take matters into their own hands this Sunday". That ranks as Oman's worst Powerplay of the World Cup, by the way. Strong start for England, as Ayaan Khan - the run machine - comes out as Adil Rashid comes on
-
-[{"type": "HTML", "html": "Big leggie, big sweep - misses completely. Buttler goes way out wide to gather and comes back to remove the bails at the second attempt... and Kail's foot is in the air! Great work from the England skipper - even if he did botch the first go - but terrible game awareness from the batter!"}]Big leggie, big sweep - misses completely. Buttler goes way out wide to gather and comes back to remove the bails at the second attempt... and Kail's foot is in the air! Great work from the England skipper - even if he did botch the first go - but terrible game awareness from the batter!
-[{"type": "HTML", "html": "Callum : \"As a Scotland fan, this is depressing\u2026 give us something Oman! \""}]Callum : "As a Scotland fan, this is depressing… give us something Oman! "
+Sami: "Guess the Scots are gonna have to take matters into their own hands this Sunday". That ranks as Oman's worst Powerplay of the World Cup, by the way. Strong start for England, as Ayaan Khan - the run machine - comes out as Adil Rashid comes on
+Khalid Kail is OUT! stumped
+st †Buttler b Rashid
+Khalid Kail st †Buttler b Rashid 1 (3b 0x4 0x6 6m) SR: 33.33
+Big leggie, big sweep - misses completely. Buttler goes way out wide to gather and comes back to remove the bails at the second attempt... and Kail's foot is in the air! Great work from the England skipper - even if he did botch the first go - but terrible game awareness from the batter!
+Callum : "As a Scotland fan, this is depressing… give us something Oman! "
 
 Balls faced: 4
 Bowler: Wood
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Bit of width, Kail has a hack and top edges over the cordon, to Topley on the bounce at deep third"}]Bit of width, Kail has a hack and top edges over the cordon, to Topley on the bounce at deep third
+Bit of width, Kail has a hack and top edges over the cordon, to Topley on the bounce at deep third
 
 
 Balls faced: 5
 Bowler: Wood
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Wide of the crease, into the top of the stumps. Kail's feet were very leg-side there..."}]Wide of the crease, into the top of the stumps. Kail's feet were very leg-side there...
+Wide of the crease, into the top of the stumps. Kail's feet were very leg-side there...
 
 
 Balls faced: 6
 Bowler: Rashid
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Sami: \"Guess the Scots are gonna have to take matters into their own hands this Sunday\". That ranks as Oman's worst Powerplay of the World Cup, by the way. Strong start for England, as Ayaan Khan - the run machine - comes out as Adil Rashid comes on"}]Sami: "Guess the Scots are gonna have to take matters into their own hands this Sunday". That ranks as Oman's worst Powerplay of the World Cup, by the way. Strong start for England, as Ayaan Khan - the run machine - comes out as Adil Rashid comes on
-
-[{"type": "HTML", "html": "Big leggie, big sweep - misses completely. Buttler goes way out wide to gather and comes back to remove the bails at the second attempt... and Kail's foot is in the air! Great work from the England skipper - even if he did botch the first go - but terrible game awareness from the batter!"}]Big leggie, big sweep - misses completely. Buttler goes way out wide to gather and comes back to remove the bails at the second attempt... and Kail's foot is in the air! Great work from the England skipper - even if he did botch the first go - but terrible game awareness from the batter!
-[{"type": "HTML", "html": "Callum : \"As a Scotland fan, this is depressing\u2026 give us something Oman! \""}]Callum : "As a Scotland fan, this is depressing… give us something Oman! "
+Sami: "Guess the Scots are gonna have to take matters into their own hands this Sunday". That ranks as Oman's worst Powerplay of the World Cup, by the way. Strong start for England, as Ayaan Khan - the run machine - comes out as Adil Rashid comes on
+Khalid Kail is OUT! stumped
+st †Buttler b Rashid
+Khalid Kail st †Buttler b Rashid 1 (3b 0x4 0x6 6m) SR: 33.33
+Big leggie, big sweep - misses completely. Buttler goes way out wide to gather and comes back to remove the bails at the second attempt... and Kail's foot is in the air! Great work from the England skipper - even if he did botch the first go - but terrible game awareness from the batter!
+Callum : "As a Scotland fan, this is depressing… give us something Oman! "

@@ -2,81 +2,93 @@ Match: all_games_1411166_1415716.json
 Balls faced: 1
 Bowler: Jansen
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "There's a sound as Levitt slashes, QDK is sure he's been nicked off. Jansen isn't and doesn't appeal. Umpire doesn't give it, SA review. Yep, 'there is a clear spike on the inside edge,' says the third umpire. On-field umpire accidentally signals not out, but Levitt is walking back. So the right decision has been made. Ball was around the fuller side of length and swung in a bit, Levitt tried to go square and the bat was mostly horizontal while lunging on one knee. Feathered it to the keeper"}]There's a sound as Levitt slashes, QDK is sure he's been nicked off. Jansen isn't and doesn't appeal. Umpire doesn't give it, SA review. Yep, 'there is a clear spike on the inside edge,' says the third umpire. On-field umpire accidentally signals not out, but Levitt is walking back. So the right decision has been made. Ball was around the fuller side of length and swung in a bit, Levitt tried to go square and the bat was mostly horizontal while lunging on one knee. Feathered it to the keeper
+Levitt is OUT! caught
+c †de Kock b Jansen
+Michael Levitt c †de Kock b Jansen 0 (3b 0x4 0x6 4m) SR: 0
+There's a sound as Levitt slashes, QDK is sure he's been nicked off. Jansen isn't and doesn't appeal. Umpire doesn't give it, SA review. Yep, 'there is a clear spike on the inside edge,' says the third umpire. On-field umpire accidentally signals not out, but Levitt is walking back. So the right decision has been made. Ball was around the fuller side of length and swung in a bit, Levitt tried to go square and the bat was mostly horizontal while lunging on one knee. Feathered it to the keeper
 
 
 Balls faced: 2
 Bowler: Jansen
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Leg slip in, was in for the last ball. Not sure of the first"}]Leg slip in, was in for the last ball. Not sure of the first
+Leg slip in, was in for the last ball. Not sure of the first
 
-[{"type": "HTML", "html": "Levitt seemed like he was walking down but Jansen keeps him rooted with a bounce"}]Levitt seemed like he was walking down but Jansen keeps him rooted with a bounce
+Levitt seemed like he was walking down but Jansen keeps him rooted with a bounce
 
 Wide: 1
 Balls faced: 3
 Bowler: Jansen
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on the pads, comes back in again. Doesn't lay bat on the flick"}]Length on the pads, comes back in again. Doesn't lay bat on the flick
+Length on the pads, comes back in again. Doesn't lay bat on the flick
 
 
 Balls faced: 4
 Bowler: Jansen
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Thanks, Himanshu. Jansen has the ball. Slip in. Will he find swing?"}, {"type": "HTML", "html": "The South Africa players spread around to take their respective positions on the field, and the Netherlands openers follow. O'Dowd and Levitt to open for Netherlands. And with them, here comes Ekanth to get the action started in New York. Say hello!"}, {"type": "HTML", "html": "<strong>10.25am</strong> We are just five minutes from the start this morning. Fans are filling up the seats in New York, with yellow and orange competing for dominance. The teams walk out for their respective national anthems, as bright sunshine continues to bake the city. South Africa's anthem first, followed by Netherlands'."}, {"type": "HTML", "html": "Nikunj: \"Netherlands knocked out SA in the last T20 world cup. SA would want some redemption today.\""}, {"type": "HTML", "html": "<strong>South Africa</strong>: 1 Quinton de Kock (wk), 2 Reeza Hendricks, 3 Aiden Markram (capt), 4 Heinrich Klaasen, 5 David Miller, 6 Tristan Stubbs, 7 Marco Jansen, 8 Keshav Maharaj, 9 Kagiso Rabada, 10 Anrich Nortje, 11Ottneil Baartman"}, {"type": "HTML", "html": "<strong>Netherlands</strong>: 1 Max O'Dowd, 2 Michael Levitt, 3 Vikramjit Singh, 4 Scott Edwards (capt, wk), 5 Teja Nidamanuru, 6 Bas de Leede, 7 Sybrand Engelbrecht, 8 Logan van Beek, 9 Tim Pringle, 10 Paul van Meekeren, 11 Vivian Kingma"}, {"type": "HTML", "html": "<strong>10.03am</strong> Time for the toss. <strong>South Africa opt to bowl</strong>. Aiden Markram thinks the \"wicket looks different\" than what it did when they played Sri Lanka. <strong>South Africa are unchanged</strong>. Scott Edwards, meanwhile, says he takes confidence from previous World Cup results against South Africa. <strong>Netherlands are also playing the same side</strong>. And here's confirmation that pitch No. 2 will be used today."}, {"type": "VIDEO", "url": "https://www.espncricinfo.com/cricket-videos/sa-vs-sl-t20-world-cup-2024-what-did-baartman-get-right-on-his-world-cup-debut-1436582", "video": {"id": 138131, "objectId": 1436582, "scribeId": 40270188, "statusTypeId": 3, "slug": "sa-vs-sl-t20-world-cup-2024-what-did-baartman-get-right-on-his-world-cup-debut", "title": "What did Baartman get right on his World Cup debut?", "subTitle": "", "seoTitle": "SA vs SL - T20 World Cup 2024 - What did Baartman get right on his World Cup debut", "summary": "Farveez Maharoof and Sanjay Manjrekar on the South Africa pacer's outing, which produced figures of 4-1-9-1", "duration": 80, "genreId": 221, "genreType": "GENERAL", "genreName": "Time:Out", "publishedAt": "2024-06-03T00:00:00.000Z", "modifiedAt": "2024-06-03T17:00:51.000Z", "recordedAt": "2024-06-03T00:00:00.000Z", "expireAt": "2044-06-06T16:46:00.000Z", "countryCodes": [], "imageUrl": "/media/motion/2024/0603/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global.jpg", "origin": {"type": "CLIP"}, "assetId": "dm_240603_INET_CRIC_wc24-m4-baart_maruti_global", "scribeMongoId": "665df3bdca84b714577dfa7f", "language": "en", "playbacks": [{"type": "AUDIO", "url": "https://media.video-origin.espn.com/motion/2024/0603/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global.mp3"}, {"type": "HLS", "url": "https://service-pkgespn.akamaized.net/opp/hls/espn/2024/0603/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global/playlist.m3u8"}]}}, {"type": "HTML", "html": "Matthew: \"@Nalin, as a Kiwi, I wouldn't consider Afghanistan beating us to be a true upset. We brought poor preparation and an unbalanced squad to the WC, and we rightly got pasted for our efforts\""}, {"type": "HTML", "html": "Nalin: \"Wait... you mention Canada surprising Ireland, but ignore <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/full-scorecard\">Afghanistan upsetting New Zealand</a>!!\" --- Ah, I blame the up-and-down timezones for that!"}, {"type": "HTML", "html": "<strong>9.50am</strong> We had former South Africa quick Morne Morkel on our expert panel. He says his side <a href=\"https://www.espncricinfo.com/cricket-videos/t20-world-cup-2024-morne-morkel-south-africa-cannot-expect-to-roll-netherlands-over-1437371\">cannot expect</a> to roll Netherlands over, and thinks that the opposition batters <a href=\"https://www.espncricinfo.com/cricket-videos/t20-world-cup-morne-morkel-netherlands-will-plan-well-against-a-hungry-south-african-attack-1437372\">would plan well</a> against a hungry South African attack. So hang tight as we await the toss and the XIs, which are due in just ten minutes."}, {"type": "HTML", "html": "AJ: \"Miss Roelof... Always provides a unique energy\""}, {"type": "HTML", "html": "Johann Kruger: \"SA  will win comfortably today. Netherlands batters don't have what it takes to play the SA bowlers on this type of track\" --- If recent history teaches us anything, it is to never underestimate your opponents"}, {"type": "HTML", "html": "Mustafa Moudi: \"<a href=\"https://www.espncricinfo.com/story/herschelle-gibbs-on-his-six-sixes-at-the-2007-world-cup-i-didn-t-miscue-any-of-them-285651\">Herschelle Gibbs' six sixes</a>, Roloef van der Merwe's transfer from South Africa to Netherlands and two back-to-back upsets... South Africa vs Netherlands has so many memories. Hoping for another epic battle between the sides!!\" --- And none other than <a href=\"https://www.espncricinfo.com/story/you-see-the-whole-game-situation-in-those-few-seconds-roelof-van-der-merwe-relives-the-catch-of-the-t20-world-cup-1344499\">van der Merwe's stunning catch</a> too to turn it around in 2022..."}, {"type": "HTML", "html": "<strong>9.40am</strong> <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-south-africa-16th-match-group-d-1415716/match-preview\">Firdose Moonda's preview</a> sets things up nicely for this morning. Both Netherlands and South Africa have started this World Cup with a win - against Nepal and Sri Lanka, respectively. But conditions at the Nassau County ground could yet suit Netherlands' style of batting. South Africa's Heinrich Klaasen, meanwhile, says <a href=\"https://www.espncricinfo.com/story/klaasen-on-new-york-pitch-batters-need-to-suck-it-up-in-t20-world-cup-1437074\">\"batters need to suck it up\"</a> in New York, even as the pitch seemed a lot more settled yesterday, when Canada played Ireland."}, {"type": "HTML", "html": "Ankur Baid: \"If Netherlands beat South Africa today, it should not be called an upset\""}, {"type": "HTML", "html": "<strong>9.30am</strong> If <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/netherlands-vs-south-africa-40th-match-group-2-1298174/full-scorecard\">this game</a> from one-and-a-half years ago, and <a href=\"https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/netherlands-vs-south-africa-15th-match-1384406/full-scorecard\">this one</a> from eight months back is anything to go by, then Netherlands have become a thorn in South Africa's flesh across World Cups. And if the last two matches in this T20 World Cup - USA shocking Pakistan, and Canada surprising Ireland - prove anything, it is that there are hardly any favourites in the shortest format. Welcome to Netherlands vs South Africa in New York, where cricket could be further in the headlines again."}]Thanks, Himanshu. Jansen has the ball. Slip in. Will he find swing? The South Africa players spread around to take their respective positions on the field, and the Netherlands openers follow. O'Dowd and Levitt to open for Netherlands. And with them, here comes Ekanth to get the action started in New York. Say hello! <strong>10.25am</strong> We are just five minutes from the start this morning. Fans are filling up the seats in New York, with yellow and orange competing for dominance. The teams walk out for their respective national anthems, as bright sunshine continues to bake the city. South Africa's anthem first, followed by Netherlands'. Nikunj: "Netherlands knocked out SA in the last T20 world cup. SA would want some redemption today." <strong>South Africa</strong>: 1 Quinton de Kock (wk), 2 Reeza Hendricks, 3 Aiden Markram (capt), 4 Heinrich Klaasen, 5 David Miller, 6 Tristan Stubbs, 7 Marco Jansen, 8 Keshav Maharaj, 9 Kagiso Rabada, 10 Anrich Nortje, 11Ottneil Baartman <strong>Netherlands</strong>: 1 Max O'Dowd, 2 Michael Levitt, 3 Vikramjit Singh, 4 Scott Edwards (capt, wk), 5 Teja Nidamanuru, 6 Bas de Leede, 7 Sybrand Engelbrecht, 8 Logan van Beek, 9 Tim Pringle, 10 Paul van Meekeren, 11 Vivian Kingma <strong>10.03am</strong> Time for the toss. <strong>South Africa opt to bowl</strong>. Aiden Markram thinks the "wicket looks different" than what it did when they played Sri Lanka. <strong>South Africa are unchanged</strong>. Scott Edwards, meanwhile, says he takes confidence from previous World Cup results against South Africa. <strong>Netherlands are also playing the same side</strong>. And here's confirmation that pitch No. 2 will be used today. Matthew: "@Nalin, as a Kiwi, I wouldn't consider Afghanistan beating us to be a true upset. We brought poor preparation and an unbalanced squad to the WC, and we rightly got pasted for our efforts" Nalin: "Wait... you mention Canada surprising Ireland, but ignore <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/full-scorecard">Afghanistan upsetting New Zealand</a>!!" --- Ah, I blame the up-and-down timezones for that! <strong>9.50am</strong> We had former South Africa quick Morne Morkel on our expert panel. He says his side <a href="https://www.espncricinfo.com/cricket-videos/t20-world-cup-2024-morne-morkel-south-africa-cannot-expect-to-roll-netherlands-over-1437371">cannot expect</a> to roll Netherlands over, and thinks that the opposition batters <a href="https://www.espncricinfo.com/cricket-videos/t20-world-cup-morne-morkel-netherlands-will-plan-well-against-a-hungry-south-african-attack-1437372">would plan well</a> against a hungry South African attack. So hang tight as we await the toss and the XIs, which are due in just ten minutes. AJ: "Miss Roelof... Always provides a unique energy" Johann Kruger: "SA  will win comfortably today. Netherlands batters don't have what it takes to play the SA bowlers on this type of track" --- If recent history teaches us anything, it is to never underestimate your opponents Mustafa Moudi: "<a href="https://www.espncricinfo.com/story/herschelle-gibbs-on-his-six-sixes-at-the-2007-world-cup-i-didn-t-miscue-any-of-them-285651">Herschelle Gibbs' six sixes</a>, Roloef van der Merwe's transfer from South Africa to Netherlands and two back-to-back upsets... South Africa vs Netherlands has so many memories. Hoping for another epic battle between the sides!!" --- And none other than <a href="https://www.espncricinfo.com/story/you-see-the-whole-game-situation-in-those-few-seconds-roelof-van-der-merwe-relives-the-catch-of-the-t20-world-cup-1344499">van der Merwe's stunning catch</a> too to turn it around in 2022... <strong>9.40am</strong> <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-south-africa-16th-match-group-d-1415716/match-preview">Firdose Moonda's preview</a> sets things up nicely for this morning. Both Netherlands and South Africa have started this World Cup with a win - against Nepal and Sri Lanka, respectively. But conditions at the Nassau County ground could yet suit Netherlands' style of batting. South Africa's Heinrich Klaasen, meanwhile, says <a href="https://www.espncricinfo.com/story/klaasen-on-new-york-pitch-batters-need-to-suck-it-up-in-t20-world-cup-1437074">"batters need to suck it up"</a> in New York, even as the pitch seemed a lot more settled yesterday, when Canada played Ireland. Ankur Baid: "If Netherlands beat South Africa today, it should not be called an upset" <strong>9.30am</strong> If <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/netherlands-vs-south-africa-40th-match-group-2-1298174/full-scorecard">this game</a> from one-and-a-half years ago, and <a href="https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/netherlands-vs-south-africa-15th-match-1384406/full-scorecard">this one</a> from eight months back is anything to go by, then Netherlands have become a thorn in South Africa's flesh across World Cups. And if the last two matches in this T20 World Cup - USA shocking Pakistan, and Canada surprising Ireland - prove anything, it is that there are hardly any favourites in the shortest format. Welcome to Netherlands vs South Africa in New York, where cricket could be further in the headlines again.
+Thanks, Himanshu. Jansen has the ball. Slip in. Will he find swing? The South Africa players spread around to take their respective positions on the field, and the Netherlands openers follow. O'Dowd and Levitt to open for Netherlands. And with them, here comes Ekanth to get the action started in New York. Say hello! <strong>10.25am</strong> We are just five minutes from the start this morning. Fans are filling up the seats in New York, with yellow and orange competing for dominance. The teams walk out for their respective national anthems, as bright sunshine continues to bake the city. South Africa's anthem first, followed by Netherlands'. Nikunj: "Netherlands knocked out SA in the last T20 world cup. SA would want some redemption today." <strong>South Africa</strong>: 1 Quinton de Kock (wk), 2 Reeza Hendricks, 3 Aiden Markram (capt), 4 Heinrich Klaasen, 5 David Miller, 6 Tristan Stubbs, 7 Marco Jansen, 8 Keshav Maharaj, 9 Kagiso Rabada, 10 Anrich Nortje, 11Ottneil Baartman <strong>Netherlands</strong>: 1 Max O'Dowd, 2 Michael Levitt, 3 Vikramjit Singh, 4 Scott Edwards (capt, wk), 5 Teja Nidamanuru, 6 Bas de Leede, 7 Sybrand Engelbrecht, 8 Logan van Beek, 9 Tim Pringle, 10 Paul van Meekeren, 11 Vivian Kingma <strong>10.03am</strong> Time for the toss. <strong>South Africa opt to bowl</strong>. Aiden Markram thinks the "wicket looks different" than what it did when they played Sri Lanka. <strong>South Africa are unchanged</strong>. Scott Edwards, meanwhile, says he takes confidence from previous World Cup results against South Africa. <strong>Netherlands are also playing the same side</strong>. And here's confirmation that pitch No. 2 will be used today. Matthew: "@Nalin, as a Kiwi, I wouldn't consider Afghanistan beating us to be a true upset. We brought poor preparation and an unbalanced squad to the WC, and we rightly got pasted for our efforts" Nalin: "Wait... you mention Canada surprising Ireland, but ignore <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/full-scorecard">Afghanistan upsetting New Zealand</a>!!" --- Ah, I blame the up-and-down timezones for that! <strong>9.50am</strong> We had former South Africa quick Morne Morkel on our expert panel. He says his side <a href="https://www.espncricinfo.com/cricket-videos/t20-world-cup-2024-morne-morkel-south-africa-cannot-expect-to-roll-netherlands-over-1437371">cannot expect</a> to roll Netherlands over, and thinks that the opposition batters <a href="https://www.espncricinfo.com/cricket-videos/t20-world-cup-morne-morkel-netherlands-will-plan-well-against-a-hungry-south-african-attack-1437372">would plan well</a> against a hungry South African attack. So hang tight as we await the toss and the XIs, which are due in just ten minutes. AJ: "Miss Roelof... Always provides a unique energy" Johann Kruger: "SA  will win comfortably today. Netherlands batters don't have what it takes to play the SA bowlers on this type of track" --- If recent history teaches us anything, it is to never underestimate your opponents Mustafa Moudi: "<a href="https://www.espncricinfo.com/story/herschelle-gibbs-on-his-six-sixes-at-the-2007-world-cup-i-didn-t-miscue-any-of-them-285651">Herschelle Gibbs' six sixes</a>, Roloef van der Merwe's transfer from South Africa to Netherlands and two back-to-back upsets... South Africa vs Netherlands has so many memories. Hoping for another epic battle between the sides!!" --- And none other than <a href="https://www.espncricinfo.com/story/you-see-the-whole-game-situation-in-those-few-seconds-roelof-van-der-merwe-relives-the-catch-of-the-t20-world-cup-1344499">van der Merwe's stunning catch</a> too to turn it around in 2022... <strong>9.40am</strong> <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-south-africa-16th-match-group-d-1415716/match-preview">Firdose Moonda's preview</a> sets things up nicely for this morning. Both Netherlands and South Africa have started this World Cup with a win - against Nepal and Sri Lanka, respectively. But conditions at the Nassau County ground could yet suit Netherlands' style of batting. South Africa's Heinrich Klaasen, meanwhile, says <a href="https://www.espncricinfo.com/story/klaasen-on-new-york-pitch-batters-need-to-suck-it-up-in-t20-world-cup-1437074">"batters need to suck it up"</a> in New York, even as the pitch seemed a lot more settled yesterday, when Canada played Ireland. Ankur Baid: "If Netherlands beat South Africa today, it should not be called an upset" <strong>9.30am</strong> If <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/netherlands-vs-south-africa-40th-match-group-2-1298174/full-scorecard">this game</a> from one-and-a-half years ago, and <a href="https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/netherlands-vs-south-africa-15th-match-1384406/full-scorecard">this one</a> from eight months back is anything to go by, then Netherlands have become a thorn in South Africa's flesh across World Cups. And if the last two matches in this T20 World Cup - USA shocking Pakistan, and Canada surprising Ireland - prove anything, it is that there are hardly any favourites in the shortest format. Welcome to Netherlands vs South Africa in New York, where cricket could be further in the headlines again.
 
-[{"type": "HTML", "html": "Pitches it up, swerves it back in from leg stump to beat the flick. Hits pad but that's going down leg, no appeal"}]Pitches it up, swerves it back in from leg stump to beat the flick. Hits pad but that's going down leg, no appeal
+Pitches it up, swerves it back in from leg stump to beat the flick. Hits pad but that's going down leg, no appeal
 
 
 Balls faced: 5
 Bowler: Jansen
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "There's a sound as Levitt slashes, QDK is sure he's been nicked off. Jansen isn't and doesn't appeal. Umpire doesn't give it, SA review. Yep, 'there is a clear spike on the inside edge,' says the third umpire. On-field umpire accidentally signals not out, but Levitt is walking back. So the right decision has been made. Ball was around the fuller side of length and swung in a bit, Levitt tried to go square and the bat was mostly horizontal while lunging on one knee. Feathered it to the keeper"}]There's a sound as Levitt slashes, QDK is sure he's been nicked off. Jansen isn't and doesn't appeal. Umpire doesn't give it, SA review. Yep, 'there is a clear spike on the inside edge,' says the third umpire. On-field umpire accidentally signals not out, but Levitt is walking back. So the right decision has been made. Ball was around the fuller side of length and swung in a bit, Levitt tried to go square and the bat was mostly horizontal while lunging on one knee. Feathered it to the keeper
+Levitt is OUT! caught
+c †de Kock b Jansen
+Michael Levitt c †de Kock b Jansen 0 (3b 0x4 0x6 4m) SR: 0
+There's a sound as Levitt slashes, QDK is sure he's been nicked off. Jansen isn't and doesn't appeal. Umpire doesn't give it, SA review. Yep, 'there is a clear spike on the inside edge,' says the third umpire. On-field umpire accidentally signals not out, but Levitt is walking back. So the right decision has been made. Ball was around the fuller side of length and swung in a bit, Levitt tried to go square and the bat was mostly horizontal while lunging on one knee. Feathered it to the keeper
 
 
 Balls faced: 6
 Bowler: Jansen
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Leg slip in, was in for the last ball. Not sure of the first"}]Leg slip in, was in for the last ball. Not sure of the first
+Leg slip in, was in for the last ball. Not sure of the first
 
-[{"type": "HTML", "html": "Levitt seemed like he was walking down but Jansen keeps him rooted with a bounce"}]Levitt seemed like he was walking down but Jansen keeps him rooted with a bounce
+Levitt seemed like he was walking down but Jansen keeps him rooted with a bounce
 
 Wide: 1
 Balls faced: 7
 Bowler: Jansen
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on the pads, comes back in again. Doesn't lay bat on the flick"}]Length on the pads, comes back in again. Doesn't lay bat on the flick
+Length on the pads, comes back in again. Doesn't lay bat on the flick
 
 
 Balls faced: 8
 Bowler: Jansen
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Thanks, Himanshu. Jansen has the ball. Slip in. Will he find swing?"}, {"type": "HTML", "html": "The South Africa players spread around to take their respective positions on the field, and the Netherlands openers follow. O'Dowd and Levitt to open for Netherlands. And with them, here comes Ekanth to get the action started in New York. Say hello!"}, {"type": "HTML", "html": "<strong>10.25am</strong> We are just five minutes from the start this morning. Fans are filling up the seats in New York, with yellow and orange competing for dominance. The teams walk out for their respective national anthems, as bright sunshine continues to bake the city. South Africa's anthem first, followed by Netherlands'."}, {"type": "HTML", "html": "Nikunj: \"Netherlands knocked out SA in the last T20 world cup. SA would want some redemption today.\""}, {"type": "HTML", "html": "<strong>South Africa</strong>: 1 Quinton de Kock (wk), 2 Reeza Hendricks, 3 Aiden Markram (capt), 4 Heinrich Klaasen, 5 David Miller, 6 Tristan Stubbs, 7 Marco Jansen, 8 Keshav Maharaj, 9 Kagiso Rabada, 10 Anrich Nortje, 11Ottneil Baartman"}, {"type": "HTML", "html": "<strong>Netherlands</strong>: 1 Max O'Dowd, 2 Michael Levitt, 3 Vikramjit Singh, 4 Scott Edwards (capt, wk), 5 Teja Nidamanuru, 6 Bas de Leede, 7 Sybrand Engelbrecht, 8 Logan van Beek, 9 Tim Pringle, 10 Paul van Meekeren, 11 Vivian Kingma"}, {"type": "HTML", "html": "<strong>10.03am</strong> Time for the toss. <strong>South Africa opt to bowl</strong>. Aiden Markram thinks the \"wicket looks different\" than what it did when they played Sri Lanka. <strong>South Africa are unchanged</strong>. Scott Edwards, meanwhile, says he takes confidence from previous World Cup results against South Africa. <strong>Netherlands are also playing the same side</strong>. And here's confirmation that pitch No. 2 will be used today."}, {"type": "VIDEO", "url": "https://www.espncricinfo.com/cricket-videos/sa-vs-sl-t20-world-cup-2024-what-did-baartman-get-right-on-his-world-cup-debut-1436582", "video": {"id": 138131, "objectId": 1436582, "scribeId": 40270188, "statusTypeId": 3, "slug": "sa-vs-sl-t20-world-cup-2024-what-did-baartman-get-right-on-his-world-cup-debut", "title": "What did Baartman get right on his World Cup debut?", "subTitle": "", "seoTitle": "SA vs SL - T20 World Cup 2024 - What did Baartman get right on his World Cup debut", "summary": "Farveez Maharoof and Sanjay Manjrekar on the South Africa pacer's outing, which produced figures of 4-1-9-1", "duration": 80, "genreId": 221, "genreType": "GENERAL", "genreName": "Time:Out", "publishedAt": "2024-06-03T00:00:00.000Z", "modifiedAt": "2024-06-03T17:00:51.000Z", "recordedAt": "2024-06-03T00:00:00.000Z", "expireAt": "2044-06-06T16:46:00.000Z", "countryCodes": [], "imageUrl": "/media/motion/2024/0603/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global.jpg", "origin": {"type": "CLIP"}, "assetId": "dm_240603_INET_CRIC_wc24-m4-baart_maruti_global", "scribeMongoId": "665df3bdca84b714577dfa7f", "language": "en", "playbacks": [{"type": "AUDIO", "url": "https://media.video-origin.espn.com/motion/2024/0603/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global.mp3"}, {"type": "HLS", "url": "https://service-pkgespn.akamaized.net/opp/hls/espn/2024/0603/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global/dm_240603_INET_CRIC_wc24-m4-baart_maruti_global/playlist.m3u8"}]}}, {"type": "HTML", "html": "Matthew: \"@Nalin, as a Kiwi, I wouldn't consider Afghanistan beating us to be a true upset. We brought poor preparation and an unbalanced squad to the WC, and we rightly got pasted for our efforts\""}, {"type": "HTML", "html": "Nalin: \"Wait... you mention Canada surprising Ireland, but ignore <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/full-scorecard\">Afghanistan upsetting New Zealand</a>!!\" --- Ah, I blame the up-and-down timezones for that!"}, {"type": "HTML", "html": "<strong>9.50am</strong> We had former South Africa quick Morne Morkel on our expert panel. He says his side <a href=\"https://www.espncricinfo.com/cricket-videos/t20-world-cup-2024-morne-morkel-south-africa-cannot-expect-to-roll-netherlands-over-1437371\">cannot expect</a> to roll Netherlands over, and thinks that the opposition batters <a href=\"https://www.espncricinfo.com/cricket-videos/t20-world-cup-morne-morkel-netherlands-will-plan-well-against-a-hungry-south-african-attack-1437372\">would plan well</a> against a hungry South African attack. So hang tight as we await the toss and the XIs, which are due in just ten minutes."}, {"type": "HTML", "html": "AJ: \"Miss Roelof... Always provides a unique energy\""}, {"type": "HTML", "html": "Johann Kruger: \"SA  will win comfortably today. Netherlands batters don't have what it takes to play the SA bowlers on this type of track\" --- If recent history teaches us anything, it is to never underestimate your opponents"}, {"type": "HTML", "html": "Mustafa Moudi: \"<a href=\"https://www.espncricinfo.com/story/herschelle-gibbs-on-his-six-sixes-at-the-2007-world-cup-i-didn-t-miscue-any-of-them-285651\">Herschelle Gibbs' six sixes</a>, Roloef van der Merwe's transfer from South Africa to Netherlands and two back-to-back upsets... South Africa vs Netherlands has so many memories. Hoping for another epic battle between the sides!!\" --- And none other than <a href=\"https://www.espncricinfo.com/story/you-see-the-whole-game-situation-in-those-few-seconds-roelof-van-der-merwe-relives-the-catch-of-the-t20-world-cup-1344499\">van der Merwe's stunning catch</a> too to turn it around in 2022..."}, {"type": "HTML", "html": "<strong>9.40am</strong> <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-south-africa-16th-match-group-d-1415716/match-preview\">Firdose Moonda's preview</a> sets things up nicely for this morning. Both Netherlands and South Africa have started this World Cup with a win - against Nepal and Sri Lanka, respectively. But conditions at the Nassau County ground could yet suit Netherlands' style of batting. South Africa's Heinrich Klaasen, meanwhile, says <a href=\"https://www.espncricinfo.com/story/klaasen-on-new-york-pitch-batters-need-to-suck-it-up-in-t20-world-cup-1437074\">\"batters need to suck it up\"</a> in New York, even as the pitch seemed a lot more settled yesterday, when Canada played Ireland."}, {"type": "HTML", "html": "Ankur Baid: \"If Netherlands beat South Africa today, it should not be called an upset\""}, {"type": "HTML", "html": "<strong>9.30am</strong> If <a href=\"https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/netherlands-vs-south-africa-40th-match-group-2-1298174/full-scorecard\">this game</a> from one-and-a-half years ago, and <a href=\"https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/netherlands-vs-south-africa-15th-match-1384406/full-scorecard\">this one</a> from eight months back is anything to go by, then Netherlands have become a thorn in South Africa's flesh across World Cups. And if the last two matches in this T20 World Cup - USA shocking Pakistan, and Canada surprising Ireland - prove anything, it is that there are hardly any favourites in the shortest format. Welcome to Netherlands vs South Africa in New York, where cricket could be further in the headlines again."}]Thanks, Himanshu. Jansen has the ball. Slip in. Will he find swing? The South Africa players spread around to take their respective positions on the field, and the Netherlands openers follow. O'Dowd and Levitt to open for Netherlands. And with them, here comes Ekanth to get the action started in New York. Say hello! <strong>10.25am</strong> We are just five minutes from the start this morning. Fans are filling up the seats in New York, with yellow and orange competing for dominance. The teams walk out for their respective national anthems, as bright sunshine continues to bake the city. South Africa's anthem first, followed by Netherlands'. Nikunj: "Netherlands knocked out SA in the last T20 world cup. SA would want some redemption today." <strong>South Africa</strong>: 1 Quinton de Kock (wk), 2 Reeza Hendricks, 3 Aiden Markram (capt), 4 Heinrich Klaasen, 5 David Miller, 6 Tristan Stubbs, 7 Marco Jansen, 8 Keshav Maharaj, 9 Kagiso Rabada, 10 Anrich Nortje, 11Ottneil Baartman <strong>Netherlands</strong>: 1 Max O'Dowd, 2 Michael Levitt, 3 Vikramjit Singh, 4 Scott Edwards (capt, wk), 5 Teja Nidamanuru, 6 Bas de Leede, 7 Sybrand Engelbrecht, 8 Logan van Beek, 9 Tim Pringle, 10 Paul van Meekeren, 11 Vivian Kingma <strong>10.03am</strong> Time for the toss. <strong>South Africa opt to bowl</strong>. Aiden Markram thinks the "wicket looks different" than what it did when they played Sri Lanka. <strong>South Africa are unchanged</strong>. Scott Edwards, meanwhile, says he takes confidence from previous World Cup results against South Africa. <strong>Netherlands are also playing the same side</strong>. And here's confirmation that pitch No. 2 will be used today. Matthew: "@Nalin, as a Kiwi, I wouldn't consider Afghanistan beating us to be a true upset. We brought poor preparation and an unbalanced squad to the WC, and we rightly got pasted for our efforts" Nalin: "Wait... you mention Canada surprising Ireland, but ignore <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/full-scorecard">Afghanistan upsetting New Zealand</a>!!" --- Ah, I blame the up-and-down timezones for that! <strong>9.50am</strong> We had former South Africa quick Morne Morkel on our expert panel. He says his side <a href="https://www.espncricinfo.com/cricket-videos/t20-world-cup-2024-morne-morkel-south-africa-cannot-expect-to-roll-netherlands-over-1437371">cannot expect</a> to roll Netherlands over, and thinks that the opposition batters <a href="https://www.espncricinfo.com/cricket-videos/t20-world-cup-morne-morkel-netherlands-will-plan-well-against-a-hungry-south-african-attack-1437372">would plan well</a> against a hungry South African attack. So hang tight as we await the toss and the XIs, which are due in just ten minutes. AJ: "Miss Roelof... Always provides a unique energy" Johann Kruger: "SA  will win comfortably today. Netherlands batters don't have what it takes to play the SA bowlers on this type of track" --- If recent history teaches us anything, it is to never underestimate your opponents Mustafa Moudi: "<a href="https://www.espncricinfo.com/story/herschelle-gibbs-on-his-six-sixes-at-the-2007-world-cup-i-didn-t-miscue-any-of-them-285651">Herschelle Gibbs' six sixes</a>, Roloef van der Merwe's transfer from South Africa to Netherlands and two back-to-back upsets... South Africa vs Netherlands has so many memories. Hoping for another epic battle between the sides!!" --- And none other than <a href="https://www.espncricinfo.com/story/you-see-the-whole-game-situation-in-those-few-seconds-roelof-van-der-merwe-relives-the-catch-of-the-t20-world-cup-1344499">van der Merwe's stunning catch</a> too to turn it around in 2022... <strong>9.40am</strong> <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-south-africa-16th-match-group-d-1415716/match-preview">Firdose Moonda's preview</a> sets things up nicely for this morning. Both Netherlands and South Africa have started this World Cup with a win - against Nepal and Sri Lanka, respectively. But conditions at the Nassau County ground could yet suit Netherlands' style of batting. South Africa's Heinrich Klaasen, meanwhile, says <a href="https://www.espncricinfo.com/story/klaasen-on-new-york-pitch-batters-need-to-suck-it-up-in-t20-world-cup-1437074">"batters need to suck it up"</a> in New York, even as the pitch seemed a lot more settled yesterday, when Canada played Ireland. Ankur Baid: "If Netherlands beat South Africa today, it should not be called an upset" <strong>9.30am</strong> If <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/netherlands-vs-south-africa-40th-match-group-2-1298174/full-scorecard">this game</a> from one-and-a-half years ago, and <a href="https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/netherlands-vs-south-africa-15th-match-1384406/full-scorecard">this one</a> from eight months back is anything to go by, then Netherlands have become a thorn in South Africa's flesh across World Cups. And if the last two matches in this T20 World Cup - USA shocking Pakistan, and Canada surprising Ireland - prove anything, it is that there are hardly any favourites in the shortest format. Welcome to Netherlands vs South Africa in New York, where cricket could be further in the headlines again.
+Thanks, Himanshu. Jansen has the ball. Slip in. Will he find swing? The South Africa players spread around to take their respective positions on the field, and the Netherlands openers follow. O'Dowd and Levitt to open for Netherlands. And with them, here comes Ekanth to get the action started in New York. Say hello! <strong>10.25am</strong> We are just five minutes from the start this morning. Fans are filling up the seats in New York, with yellow and orange competing for dominance. The teams walk out for their respective national anthems, as bright sunshine continues to bake the city. South Africa's anthem first, followed by Netherlands'. Nikunj: "Netherlands knocked out SA in the last T20 world cup. SA would want some redemption today." <strong>South Africa</strong>: 1 Quinton de Kock (wk), 2 Reeza Hendricks, 3 Aiden Markram (capt), 4 Heinrich Klaasen, 5 David Miller, 6 Tristan Stubbs, 7 Marco Jansen, 8 Keshav Maharaj, 9 Kagiso Rabada, 10 Anrich Nortje, 11Ottneil Baartman <strong>Netherlands</strong>: 1 Max O'Dowd, 2 Michael Levitt, 3 Vikramjit Singh, 4 Scott Edwards (capt, wk), 5 Teja Nidamanuru, 6 Bas de Leede, 7 Sybrand Engelbrecht, 8 Logan van Beek, 9 Tim Pringle, 10 Paul van Meekeren, 11 Vivian Kingma <strong>10.03am</strong> Time for the toss. <strong>South Africa opt to bowl</strong>. Aiden Markram thinks the "wicket looks different" than what it did when they played Sri Lanka. <strong>South Africa are unchanged</strong>. Scott Edwards, meanwhile, says he takes confidence from previous World Cup results against South Africa. <strong>Netherlands are also playing the same side</strong>. And here's confirmation that pitch No. 2 will be used today. Matthew: "@Nalin, as a Kiwi, I wouldn't consider Afghanistan beating us to be a true upset. We brought poor preparation and an unbalanced squad to the WC, and we rightly got pasted for our efforts" Nalin: "Wait... you mention Canada surprising Ireland, but ignore <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/full-scorecard">Afghanistan upsetting New Zealand</a>!!" --- Ah, I blame the up-and-down timezones for that! <strong>9.50am</strong> We had former South Africa quick Morne Morkel on our expert panel. He says his side <a href="https://www.espncricinfo.com/cricket-videos/t20-world-cup-2024-morne-morkel-south-africa-cannot-expect-to-roll-netherlands-over-1437371">cannot expect</a> to roll Netherlands over, and thinks that the opposition batters <a href="https://www.espncricinfo.com/cricket-videos/t20-world-cup-morne-morkel-netherlands-will-plan-well-against-a-hungry-south-african-attack-1437372">would plan well</a> against a hungry South African attack. So hang tight as we await the toss and the XIs, which are due in just ten minutes. AJ: "Miss Roelof... Always provides a unique energy" Johann Kruger: "SA  will win comfortably today. Netherlands batters don't have what it takes to play the SA bowlers on this type of track" --- If recent history teaches us anything, it is to never underestimate your opponents Mustafa Moudi: "<a href="https://www.espncricinfo.com/story/herschelle-gibbs-on-his-six-sixes-at-the-2007-world-cup-i-didn-t-miscue-any-of-them-285651">Herschelle Gibbs' six sixes</a>, Roloef van der Merwe's transfer from South Africa to Netherlands and two back-to-back upsets... South Africa vs Netherlands has so many memories. Hoping for another epic battle between the sides!!" --- And none other than <a href="https://www.espncricinfo.com/story/you-see-the-whole-game-situation-in-those-few-seconds-roelof-van-der-merwe-relives-the-catch-of-the-t20-world-cup-1344499">van der Merwe's stunning catch</a> too to turn it around in 2022... <strong>9.40am</strong> <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-south-africa-16th-match-group-d-1415716/match-preview">Firdose Moonda's preview</a> sets things up nicely for this morning. Both Netherlands and South Africa have started this World Cup with a win - against Nepal and Sri Lanka, respectively. But conditions at the Nassau County ground could yet suit Netherlands' style of batting. South Africa's Heinrich Klaasen, meanwhile, says <a href="https://www.espncricinfo.com/story/klaasen-on-new-york-pitch-batters-need-to-suck-it-up-in-t20-world-cup-1437074">"batters need to suck it up"</a> in New York, even as the pitch seemed a lot more settled yesterday, when Canada played Ireland. Ankur Baid: "If Netherlands beat South Africa today, it should not be called an upset" <strong>9.30am</strong> If <a href="https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/netherlands-vs-south-africa-40th-match-group-2-1298174/full-scorecard">this game</a> from one-and-a-half years ago, and <a href="https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/netherlands-vs-south-africa-15th-match-1384406/full-scorecard">this one</a> from eight months back is anything to go by, then Netherlands have become a thorn in South Africa's flesh across World Cups. And if the last two matches in this T20 World Cup - USA shocking Pakistan, and Canada surprising Ireland - prove anything, it is that there are hardly any favourites in the shortest format. Welcome to Netherlands vs South Africa in New York, where cricket could be further in the headlines again.
 
-[{"type": "HTML", "html": "Pitches it up, swerves it back in from leg stump to beat the flick. Hits pad but that's going down leg, no appeal"}]Pitches it up, swerves it back in from leg stump to beat the flick. Hits pad but that's going down leg, no appeal
+Pitches it up, swerves it back in from leg stump to beat the flick. Hits pad but that's going down leg, no appeal
 
 
 
@@ -84,321 +96,357 @@ Match: all_games_1411166_1415727.json
 Balls faced: 1
 Bowler: Mustafizur
 Over: 1
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Walks down and has an ungainly flat-bat, splices the shortish ball a few feet left of the bowler. The call for the single is early"}]Walks down and has an ungainly flat-bat, splices the shortish ball a few feet left of the bowler. The call for the single is early
+Walks down and has an ungainly flat-bat, splices the shortish ball a few feet left of the bowler. The call for the single is early
 
 
 Balls faced: 2
 Bowler: Mustafizur
 Over: 1
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length at the stumps, defended in front"}]Length at the stumps, defended in front
-[{"type": "HTML", "html": "Rumesh Wijetung: \"No need of 5 overs of the chase. We from SL had already given up hope long before\""}]Rumesh Wijetung: "No need of 5 overs of the chase. We from SL had already given up hope long before"
+Length at the stumps, defended in front
+Rumesh Wijetung: "No need of 5 overs of the chase. We from SL had already given up hope long before"
 
 Balls faced: 3
 Bowler: Mustafizur
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "The Fizz overpitches in the pursuit of swing and offers a bit of width, Levitt capitalises by smearing it along the ground through cover. Bowler slaps his hand in disappointment"}]The Fizz overpitches in the pursuit of swing and offers a bit of width, Levitt capitalises by smearing it along the ground through cover. Bowler slaps his hand in disappointment
+The Fizz overpitches in the pursuit of swing and offers a bit of width, Levitt capitalises by smearing it along the ground through cover. Bowler slaps his hand in disappointment
 
 
 Balls faced: 4
 Bowler: Mustafizur
 Over: 1
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on leg, clipped to the bowler's right"}]Length on leg, clipped to the bowler's right
+Length on leg, clipped to the bowler's right
 
 
 Balls faced: 5
 Bowler: Mustafizur
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "<strong>12:37pm</strong>: Hello and welcome back. Firstly, five overs of this innings and SL will be eliminated. The score is par in excelsiuspar in excelsis, it's like 10:10 on an analog clock. Both teams are in contention and need a win to boost their chances of a Super Eights. The Fizz to start to Levitt. Slip in"}]<strong>12:37pm</strong>: Hello and welcome back. Firstly, five overs of this innings and SL will be eliminated. The score is par in excelsiuspar in excelsis, it's like 10:10 on an analog clock. Both teams are in contention and need a win to boost their chances of a Super Eights. The Fizz to start to Levitt. Slip in
+<strong>12:37pm</strong>: Hello and welcome back. Firstly, five overs of this innings and SL will be eliminated. The score is par in excelsiuspar in excelsis, it's like 10:10 on an analog clock. Both teams are in contention and need a win to boost their chances of a Super Eights. The Fizz to start to Levitt. Slip in
 
-[{"type": "HTML", "html": "<strong>Big swing first up, inside edge saves Levitt</strong>. Was a full ball that swung late, Levitt was hurried and in a last-second move, jammed it down"}]<strong>Big swing first up, inside edge saves Levitt</strong>. Was a full ball that swung late, Levitt was hurried and in a last-second move, jammed it down
+<strong>Big swing first up, inside edge saves Levitt</strong>. Was a full ball that swung late, Levitt was hurried and in a last-second move, jammed it down
 
 
 Balls faced: 6
 Bowler: Tanzim Hasan Sakib
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Tanzim has a slip too"}]Tanzim has a slip too
+Tanzim has a slip too
 
-[{"type": "HTML", "html": "Fullish ball around off is run down to deep third with an open bat-face"}]Fullish ball around off is run down to deep third with an open bat-face
+Fullish ball around off is run down to deep third with an open bat-face
 
 
 Balls faced: 7
 Bowler: Mustafizur
 Over: 1
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Walks down and has an ungainly flat-bat, splices the shortish ball a few feet left of the bowler. The call for the single is early"}]Walks down and has an ungainly flat-bat, splices the shortish ball a few feet left of the bowler. The call for the single is early
+Walks down and has an ungainly flat-bat, splices the shortish ball a few feet left of the bowler. The call for the single is early
 
 
 Balls faced: 8
 Bowler: Mustafizur
 Over: 1
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length at the stumps, defended in front"}]Length at the stumps, defended in front
-[{"type": "HTML", "html": "Rumesh Wijetung: \"No need of 5 overs of the chase. We from SL had already given up hope long before\""}]Rumesh Wijetung: "No need of 5 overs of the chase. We from SL had already given up hope long before"
+Length at the stumps, defended in front
+Rumesh Wijetung: "No need of 5 overs of the chase. We from SL had already given up hope long before"
 
 Balls faced: 9
 Bowler: Mustafizur
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "The Fizz overpitches in the pursuit of swing and offers a bit of width, Levitt capitalises by smearing it along the ground through cover. Bowler slaps his hand in disappointment"}]The Fizz overpitches in the pursuit of swing and offers a bit of width, Levitt capitalises by smearing it along the ground through cover. Bowler slaps his hand in disappointment
+The Fizz overpitches in the pursuit of swing and offers a bit of width, Levitt capitalises by smearing it along the ground through cover. Bowler slaps his hand in disappointment
 
 
 Balls faced: 10
 Bowler: Mustafizur
 Over: 1
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length on leg, clipped to the bowler's right"}]Length on leg, clipped to the bowler's right
+Length on leg, clipped to the bowler's right
 
 
 Balls faced: 11
 Bowler: Mustafizur
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "<strong>12:37pm</strong>: Hello and welcome back. Firstly, five overs of this innings and SL will be eliminated. The score is par in excelsiuspar in excelsis, it's like 10:10 on an analog clock. Both teams are in contention and need a win to boost their chances of a Super Eights. The Fizz to start to Levitt. Slip in"}]<strong>12:37pm</strong>: Hello and welcome back. Firstly, five overs of this innings and SL will be eliminated. The score is par in excelsiuspar in excelsis, it's like 10:10 on an analog clock. Both teams are in contention and need a win to boost their chances of a Super Eights. The Fizz to start to Levitt. Slip in
+<strong>12:37pm</strong>: Hello and welcome back. Firstly, five overs of this innings and SL will be eliminated. The score is par in excelsiuspar in excelsis, it's like 10:10 on an analog clock. Both teams are in contention and need a win to boost their chances of a Super Eights. The Fizz to start to Levitt. Slip in
 
-[{"type": "HTML", "html": "<strong>Big swing first up, inside edge saves Levitt</strong>. Was a full ball that swung late, Levitt was hurried and in a last-second move, jammed it down"}]<strong>Big swing first up, inside edge saves Levitt</strong>. Was a full ball that swung late, Levitt was hurried and in a last-second move, jammed it down
+<strong>Big swing first up, inside edge saves Levitt</strong>. Was a full ball that swung late, Levitt was hurried and in a last-second move, jammed it down
 
 
 Balls faced: 12
 Bowler: Taskin
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Direct hit from mid-off, has Levitt run himself out?</strong> Coin-toss decision, so very close but a tiny fraction of the bat seems to be in as the bails were dislodged. Was a full ball that was driven, Levitt took off for a very tight single. He leapt into the dive with sheer desperation, and it saved him"}]<strong>Direct hit from mid-off, has Levitt run himself out?</strong> Coin-toss decision, so very close but a tiny fraction of the bat seems to be in as the bails were dislodged. Was a full ball that was driven, Levitt took off for a very tight single. He leapt into the dive with sheer desperation, and it saved him
+<strong>Direct hit from mid-off, has Levitt run himself out?</strong> Coin-toss decision, so very close but a tiny fraction of the bat seems to be in as the bails were dislodged. Was a full ball that was driven, Levitt took off for a very tight single. He leapt into the dive with sheer desperation, and it saved him
 
 
 Balls faced: 13
 Bowler: Taskin
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Levitt takes a chance, connects with a slog sweep over square leg. Ample bravado in that shot, was a pre-meditated hit. Got on one knee and under it"}]Levitt takes a chance, connects with a slog sweep over square leg. Ample bravado in that shot, was a pre-meditated hit. Got on one knee and under it
+Levitt takes a chance, connects with a slog sweep over square leg. Ample bravado in that shot, was a pre-meditated hit. Got on one knee and under it
 
 
 Balls faced: 14
 Bowler: Taskin
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Huge shout from Taskin for caught behind.</strong> Not given. LItton has a long chat with the bowler, they won't go for it in the end. Looked like an outswinger off the hand, seam was pointing towards first slip but that hit the seam and jagged back in. Levitt tried to defend straight and was cut in half. Close to the inside edge but no contact. Ultra-Edge shows the sound was off the bat flicking the pocket"}]<strong>Huge shout from Taskin for caught behind.</strong> Not given. LItton has a long chat with the bowler, they won't go for it in the end. Looked like an outswinger off the hand, seam was pointing towards first slip but that hit the seam and jagged back in. Levitt tried to defend straight and was cut in half. Close to the inside edge but no contact. Ultra-Edge shows the sound was off the bat flicking the pocket
+<strong>Huge shout from Taskin for caught behind.</strong> Not given. LItton has a long chat with the bowler, they won't go for it in the end. Looked like an outswinger off the hand, seam was pointing towards first slip but that hit the seam and jagged back in. Levitt tried to defend straight and was cut in half. Close to the inside edge but no contact. Ultra-Edge shows the sound was off the bat flicking the pocket
 
 
 Balls faced: 15
 Bowler: Tanzim Hasan Sakib
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Tanzim has a slip too"}]Tanzim has a slip too
+Tanzim has a slip too
 
-[{"type": "HTML", "html": "Fullish ball around off is run down to deep third with an open bat-face"}]Fullish ball around off is run down to deep third with an open bat-face
+Fullish ball around off is run down to deep third with an open bat-face
 
 
 Balls faced: 16
 Bowler: Shakib
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Makes a lot of room very early, Shakib keeps the line at the stumps. The length ball is delivered at 90ks, slapped uppishly and with limited control, goes to long-off"}]Makes a lot of room very early, Shakib keeps the line at the stumps. The length ball is delivered at 90ks, slapped uppishly and with limited control, goes to long-off
+Makes a lot of room very early, Shakib keeps the line at the stumps. The length ball is delivered at 90ks, slapped uppishly and with limited control, goes to long-off
 
 
 Balls faced: 17
 Bowler: Shakib
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish on leg, backs away and pushes it to cover point"}]Fullish on leg, backs away and pushes it to cover point
+Fullish on leg, backs away and pushes it to cover point
 
 
 Balls faced: 18
 Bowler: Shakib
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "That one skidded through. Length on off, 91ks, defended in front."}]That one skidded through. Length on off, 91ks, defended in front.
+That one skidded through. Length on off, 91ks, defended in front.
 
 
 Balls faced: 19
 Bowler: Shakib
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Not that short but sits up. Shakib looped it but that works against him, Levitt cleared the front leg and pulled far over midwicket. Middled it despite the turn away."}]Not that short but sits up. Shakib looped it but that works against him, Levitt cleared the front leg and pulled far over midwicket. Middled it despite the turn away.
+Not that short but sits up. Shakib looped it but that works against him, Levitt cleared the front leg and pulled far over midwicket. Middled it despite the turn away.
 
 
 Balls faced: 20
 Bowler: Shakib
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Shakib in the powerplay. Around"}]Shakib in the powerplay. Around
+Shakib in the powerplay. Around
 
-[{"type": "HTML", "html": "Length outside off, punched to cover"}]Length outside off, punched to cover
+Length outside off, punched to cover
 
 
 Balls faced: 21
 Bowler: Taskin
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>Direct hit from mid-off, has Levitt run himself out?</strong> Coin-toss decision, so very close but a tiny fraction of the bat seems to be in as the bails were dislodged. Was a full ball that was driven, Levitt took off for a very tight single. He leapt into the dive with sheer desperation, and it saved him"}]<strong>Direct hit from mid-off, has Levitt run himself out?</strong> Coin-toss decision, so very close but a tiny fraction of the bat seems to be in as the bails were dislodged. Was a full ball that was driven, Levitt took off for a very tight single. He leapt into the dive with sheer desperation, and it saved him
+<strong>Direct hit from mid-off, has Levitt run himself out?</strong> Coin-toss decision, so very close but a tiny fraction of the bat seems to be in as the bails were dislodged. Was a full ball that was driven, Levitt took off for a very tight single. He leapt into the dive with sheer desperation, and it saved him
 
 
 Balls faced: 22
 Bowler: Taskin
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Levitt takes a chance, connects with a slog sweep over square leg. Ample bravado in that shot, was a pre-meditated hit. Got on one knee and under it"}]Levitt takes a chance, connects with a slog sweep over square leg. Ample bravado in that shot, was a pre-meditated hit. Got on one knee and under it
+Levitt takes a chance, connects with a slog sweep over square leg. Ample bravado in that shot, was a pre-meditated hit. Got on one knee and under it
 
 
 Balls faced: 23
 Bowler: Taskin
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Huge shout from Taskin for caught behind.</strong> Not given. LItton has a long chat with the bowler, they won't go for it in the end. Looked like an outswinger off the hand, seam was pointing towards first slip but that hit the seam and jagged back in. Levitt tried to defend straight and was cut in half. Close to the inside edge but no contact. Ultra-Edge shows the sound was off the bat flicking the pocket"}]<strong>Huge shout from Taskin for caught behind.</strong> Not given. LItton has a long chat with the bowler, they won't go for it in the end. Looked like an outswinger off the hand, seam was pointing towards first slip but that hit the seam and jagged back in. Levitt tried to defend straight and was cut in half. Close to the inside edge but no contact. Ultra-Edge shows the sound was off the bat flicking the pocket
+<strong>Huge shout from Taskin for caught behind.</strong> Not given. LItton has a long chat with the bowler, they won't go for it in the end. Looked like an outswinger off the hand, seam was pointing towards first slip but that hit the seam and jagged back in. Levitt tried to defend straight and was cut in half. Close to the inside edge but no contact. Ultra-Edge shows the sound was off the bat flicking the pocket
 
 
 Balls faced: 24
 Bowler: Taskin
 Over: 5
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Top edges a cut and the fielder at point takes it</strong>. Shortish ball in the early 140ks, Levitt made room again and tried to carve it over the infield. Taskin got good carry and the pace had him hit it high on the bat."}]<strong>Top edges a cut and the fielder at point takes it</strong>. Shortish ball in the early 140ks, Levitt made room again and tried to carve it over the infield. Taskin got good carry and the pace had him hit it high on the bat.
+Levitt is OUT! caught
+c Towhid Hridoy b Taskin Ahmed
+Michael Levitt c Towhid Hridoy b Taskin Ahmed 18 (16b 2x4 1x6 17m) SR: 112.5
+<strong>Top edges a cut and the fielder at point takes it</strong>. Shortish ball in the early 140ks, Levitt made room again and tried to carve it over the infield. Taskin got good carry and the pace had him hit it high on the bat.
 
 
 Balls faced: 25
 Bowler: Taskin
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Makes room and Taskin, smartly, offers a bit of width to go away from Levitt's range. Was a length ball on fifth, Levitt shaped to cut but let it go in the end"}]Makes room and Taskin, smartly, offers a bit of width to go away from Levitt's range. Was a length ball on fifth, Levitt shaped to cut but let it go in the end
+Makes room and Taskin, smartly, offers a bit of width to go away from Levitt's range. Was a length ball on fifth, Levitt shaped to cut but let it go in the end
 
 
 Balls faced: 26
 Bowler: Shakib
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Makes a lot of room very early, Shakib keeps the line at the stumps. The length ball is delivered at 90ks, slapped uppishly and with limited control, goes to long-off"}]Makes a lot of room very early, Shakib keeps the line at the stumps. The length ball is delivered at 90ks, slapped uppishly and with limited control, goes to long-off
+Makes a lot of room very early, Shakib keeps the line at the stumps. The length ball is delivered at 90ks, slapped uppishly and with limited control, goes to long-off
 
 
 Balls faced: 27
 Bowler: Shakib
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Fullish on leg, backs away and pushes it to cover point"}]Fullish on leg, backs away and pushes it to cover point
+Fullish on leg, backs away and pushes it to cover point
 
 
 Balls faced: 28
 Bowler: Shakib
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "That one skidded through. Length on off, 91ks, defended in front."}]That one skidded through. Length on off, 91ks, defended in front.
+That one skidded through. Length on off, 91ks, defended in front.
 
 
 Balls faced: 29
 Bowler: Shakib
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Not that short but sits up. Shakib looped it but that works against him, Levitt cleared the front leg and pulled far over midwicket. Middled it despite the turn away."}]Not that short but sits up. Shakib looped it but that works against him, Levitt cleared the front leg and pulled far over midwicket. Middled it despite the turn away.
+Not that short but sits up. Shakib looped it but that works against him, Levitt cleared the front leg and pulled far over midwicket. Middled it despite the turn away.
 
 
 Balls faced: 30
 Bowler: Shakib
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Shakib in the powerplay. Around"}]Shakib in the powerplay. Around
+Shakib in the powerplay. Around
 
-[{"type": "HTML", "html": "Length outside off, punched to cover"}]Length outside off, punched to cover
+Length outside off, punched to cover
 
 
 Balls faced: 31
 Bowler: Taskin
 Over: 5
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Top edges a cut and the fielder at point takes it</strong>. Shortish ball in the early 140ks, Levitt made room again and tried to carve it over the infield. Taskin got good carry and the pace had him hit it high on the bat."}]<strong>Top edges a cut and the fielder at point takes it</strong>. Shortish ball in the early 140ks, Levitt made room again and tried to carve it over the infield. Taskin got good carry and the pace had him hit it high on the bat.
+Levitt is OUT! caught
+c Towhid Hridoy b Taskin Ahmed
+Michael Levitt c Towhid Hridoy b Taskin Ahmed 18 (16b 2x4 1x6 17m) SR: 112.5
+<strong>Top edges a cut and the fielder at point takes it</strong>. Shortish ball in the early 140ks, Levitt made room again and tried to carve it over the infield. Taskin got good carry and the pace had him hit it high on the bat.
 
 
 Balls faced: 32
 Bowler: Taskin
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Makes room and Taskin, smartly, offers a bit of width to go away from Levitt's range. Was a length ball on fifth, Levitt shaped to cut but let it go in the end"}]Makes room and Taskin, smartly, offers a bit of width to go away from Levitt's range. Was a length ball on fifth, Levitt shaped to cut but let it go in the end
+Makes room and Taskin, smartly, offers a bit of width to go away from Levitt's range. Was a length ball on fifth, Levitt shaped to cut but let it go in the end
 
 
 
@@ -406,461 +454,511 @@ Match: all_games_1411166_1415738.json
 Balls faced: 1
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish ball on the stumps, flicked aerially to deep midwicket. They think about a second but the sweeper there gets to it smartly"}]fullish ball on the stumps, flicked aerially to deep midwicket. They think about a second but the sweeper there gets to it smartly
+fullish ball on the stumps, flicked aerially to deep midwicket. They think about a second but the sweeper there gets to it smartly
 
 
 Balls faced: 2
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "cuts him in half with an inducker, This is in the channel, coming in off the seam, and Levitt plays at it but it misses, passing between bat and pad to the keeper"}]cuts him in half with an inducker, This is in the channel, coming in off the seam, and Levitt plays at it but it misses, passing between bat and pad to the keeper
+cuts him in half with an inducker, This is in the channel, coming in off the seam, and Levitt plays at it but it misses, passing between bat and pad to the keeper
 
 
 Balls faced: 3
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Welcome back folks. So Netherlands have 202 to chase down, against what on paper at least is a very good Sri Lanka attack."}, {"type": "HTML", "html": "They've got to absolutely crush this chase to have a chance of getting to the Super Eights."}, {"type": "HTML", "html": "Levitt and O'Dowd are out there. Mathews - in quite possibly his last T20 WC game - has the ball."}]Welcome back folks. So Netherlands have 202 to chase down, against what on paper at least is a very good Sri Lanka attack. They've got to absolutely crush this chase to have a chance of getting to the Super Eights. Levitt and O'Dowd are out there. Mathews - in quite possibly his last T20 WC game - has the ball.
+Welcome back folks. So Netherlands have 202 to chase down, against what on paper at least is a very good Sri Lanka attack. They've got to absolutely crush this chase to have a chance of getting to the Super Eights. Levitt and O'Dowd are out there. Mathews - in quite possibly his last T20 WC game - has the ball.
 
-[{"type": "HTML", "html": "length ball outside off, shaping away, defended into the offside"}]length ball outside off, shaping away, defended into the offside
+length ball outside off, shaping away, defended into the offside
 
 
 Balls faced: 4
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, into the legs, straightening in the air. Levitt tries to whip through midwicket but doesn't connect. They run a legbye as the ball dribbles off towards point"}]full, into the legs, straightening in the air. Levitt tries to whip through midwicket but doesn't connect. They run a legbye as the ball dribbles off towards point
+full, into the legs, straightening in the air. Levitt tries to whip through midwicket but doesn't connect. They run a legbye as the ball dribbles off towards point
 
 Legbyes: 1
 Balls faced: 5
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball, a little tighter into the stumps, defended with the full face"}]length ball, a little tighter into the stumps, defended with the full face
+length ball, a little tighter into the stumps, defended with the full face
 
 
 Balls faced: 6
 Bowler: Thushara
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball, wide of off, Levitt flashes at it and misses"}]length ball, wide of off, Levitt flashes at it and misses
+length ball, wide of off, Levitt flashes at it and misses
 
 
 Balls faced: 7
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>juuuust clears fine leg!</strong> This is a full ball on the pads and Levitt flicks it, turning his wrists, and making a decent connection. It's going against the wind though, and that brings Pathum Nissanka on that boundary into the game. He leaps and gets a palm to it, but wasn't able to do anything more"}]<strong>juuuust clears fine leg!</strong> This is a full ball on the pads and Levitt flicks it, turning his wrists, and making a decent connection. It's going against the wind though, and that brings Pathum Nissanka on that boundary into the game. He leaps and gets a palm to it, but wasn't able to do anything more
+<strong>juuuust clears fine leg!</strong> This is a full ball on the pads and Levitt flicks it, turning his wrists, and making a decent connection. It's going against the wind though, and that brings Pathum Nissanka on that boundary into the game. He leaps and gets a palm to it, but wasn't able to do anything more
 
 
 Balls faced: 8
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "takes a risk and it pays off. Levitt makes room, gets another delivery full on the stumps, and he carves this high over cover point with the wind, and fetches a four"}]takes a risk and it pays off. Levitt makes room, gets another delivery full on the stumps, and he carves this high over cover point with the wind, and fetches a four
+takes a risk and it pays off. Levitt makes room, gets another delivery full on the stumps, and he carves this high over cover point with the wind, and fetches a four
 
 
 Balls faced: 9
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Thushara from the other end"}]Thushara from the other end
+Thushara from the other end
 
-[{"type": "HTML", "html": "there's that swing first up. This is yorker length, just outside off, curving away from the right-hander. Levitt just digs it out"}]there's that swing first up. This is yorker length, just outside off, curving away from the right-hander. Levitt just digs it out
+there's that swing first up. This is yorker length, just outside off, curving away from the right-hander. Levitt just digs it out
 
 
 Balls faced: 10
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish ball on the stumps, flicked aerially to deep midwicket. They think about a second but the sweeper there gets to it smartly"}]fullish ball on the stumps, flicked aerially to deep midwicket. They think about a second but the sweeper there gets to it smartly
+fullish ball on the stumps, flicked aerially to deep midwicket. They think about a second but the sweeper there gets to it smartly
 
 
 Balls faced: 11
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "cuts him in half with an inducker, This is in the channel, coming in off the seam, and Levitt plays at it but it misses, passing between bat and pad to the keeper"}]cuts him in half with an inducker, This is in the channel, coming in off the seam, and Levitt plays at it but it misses, passing between bat and pad to the keeper
+cuts him in half with an inducker, This is in the channel, coming in off the seam, and Levitt plays at it but it misses, passing between bat and pad to the keeper
 
 
 Balls faced: 12
 Bowler: Angelo Mathews
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Welcome back folks. So Netherlands have 202 to chase down, against what on paper at least is a very good Sri Lanka attack."}, {"type": "HTML", "html": "They've got to absolutely crush this chase to have a chance of getting to the Super Eights."}, {"type": "HTML", "html": "Levitt and O'Dowd are out there. Mathews - in quite possibly his last T20 WC game - has the ball."}]Welcome back folks. So Netherlands have 202 to chase down, against what on paper at least is a very good Sri Lanka attack. They've got to absolutely crush this chase to have a chance of getting to the Super Eights. Levitt and O'Dowd are out there. Mathews - in quite possibly his last T20 WC game - has the ball.
+Welcome back folks. So Netherlands have 202 to chase down, against what on paper at least is a very good Sri Lanka attack. They've got to absolutely crush this chase to have a chance of getting to the Super Eights. Levitt and O'Dowd are out there. Mathews - in quite possibly his last T20 WC game - has the ball.
 
-[{"type": "HTML", "html": "length ball outside off, shaping away, defended into the offside"}]length ball outside off, shaping away, defended into the offside
+length ball outside off, shaping away, defended into the offside
 
 
 Balls faced: 13
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shuffles down to this fullish delivery, and mistimes it to mid on, but they can run a single"}]shuffles down to this fullish delivery, and mistimes it to mid on, but they can run a single
+shuffles down to this fullish delivery, and mistimes it to mid on, but they can run a single
 
 
 Balls faced: 14
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball just wide of off, Levitt swings and misses"}]length ball just wide of off, Levitt swings and misses
+length ball just wide of off, Levitt swings and misses
 
 
 Balls faced: 15
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish, outside off, Levitt tries to club it to leg, but is caught on the full at midwicket (it's a free hit though). There's a shy at the stumps, but O'Dowd has raced back after initially looking for a single."}]fullish, outside off, Levitt tries to club it to leg, but is caught on the full at midwicket (it's a free hit though). There's a shy at the stumps, but O'Dowd has raced back after initially looking for a single.
+fullish, outside off, Levitt tries to club it to leg, but is caught on the full at midwicket (it's a free hit though). There's a shy at the stumps, but O'Dowd has raced back after initially looking for a single.
 
 
 Balls faced: 16
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 6
-[{"type": "HTML", "html": "Tanveer: \"whats the equation for Netherlands now, if Bangladesh loses to Nepal?\" Depends on how quickly Nepal chase those runs (if they do.)"}, {"type": "HTML", "html": "That's a no ball for overstepping, so that's a free hit next ball too."}]Tanveer: "whats the equation for Netherlands now, if Bangladesh loses to Nepal?" Depends on how quickly Nepal chase those runs (if they do.) That's a no ball for overstepping, so that's a free hit next ball too.
+Tanveer: "whats the equation for Netherlands now, if Bangladesh loses to Nepal?" Depends on how quickly Nepal chase those runs (if they do.) That's a no ball for overstepping, so that's a free hit next ball too.
 
-[{"type": "HTML", "html": "big six with the wind firstball Full on the pads, flicked beautifully, And as it's with the wind it carries a good 1.5 metres over the rope this time. Levitt is making a charge here."}]big six with the wind firstball Full on the pads, flicked beautifully, And as it's with the wind it carries a good 1.5 metres over the rope this time. Levitt is making a charge here.
+big six with the wind firstball Full on the pads, flicked beautifully, And as it's with the wind it carries a good 1.5 metres over the rope this time. Levitt is making a charge here.
 
 No Balls: 1
 Balls faced: 17
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full, into the legs, straightening in the air. Levitt tries to whip through midwicket but doesn't connect. They run a legbye as the ball dribbles off towards point"}]full, into the legs, straightening in the air. Levitt tries to whip through midwicket but doesn't connect. They run a legbye as the ball dribbles off towards point
+full, into the legs, straightening in the air. Levitt tries to whip through midwicket but doesn't connect. They run a legbye as the ball dribbles off towards point
 
 Legbyes: 1
 Balls faced: 18
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball, a little tighter into the stumps, defended with the full face"}]length ball, a little tighter into the stumps, defended with the full face
+length ball, a little tighter into the stumps, defended with the full face
 
 
 Balls faced: 19
 Bowler: Thushara
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball, wide of off, Levitt flashes at it and misses"}]length ball, wide of off, Levitt flashes at it and misses
+length ball, wide of off, Levitt flashes at it and misses
 
 
 Balls faced: 20
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>juuuust clears fine leg!</strong> This is a full ball on the pads and Levitt flicks it, turning his wrists, and making a decent connection. It's going against the wind though, and that brings Pathum Nissanka on that boundary into the game. He leaps and gets a palm to it, but wasn't able to do anything more"}]<strong>juuuust clears fine leg!</strong> This is a full ball on the pads and Levitt flicks it, turning his wrists, and making a decent connection. It's going against the wind though, and that brings Pathum Nissanka on that boundary into the game. He leaps and gets a palm to it, but wasn't able to do anything more
+<strong>juuuust clears fine leg!</strong> This is a full ball on the pads and Levitt flicks it, turning his wrists, and making a decent connection. It's going against the wind though, and that brings Pathum Nissanka on that boundary into the game. He leaps and gets a palm to it, but wasn't able to do anything more
 
 
 Balls faced: 21
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "takes a risk and it pays off. Levitt makes room, gets another delivery full on the stumps, and he carves this high over cover point with the wind, and fetches a four"}]takes a risk and it pays off. Levitt makes room, gets another delivery full on the stumps, and he carves this high over cover point with the wind, and fetches a four
+takes a risk and it pays off. Levitt makes room, gets another delivery full on the stumps, and he carves this high over cover point with the wind, and fetches a four
 
 
 Balls faced: 22
 Bowler: Thushara
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Thushara from the other end"}]Thushara from the other end
+Thushara from the other end
 
-[{"type": "HTML", "html": "there's that swing first up. This is yorker length, just outside off, curving away from the right-hander. Levitt just digs it out"}]there's that swing first up. This is yorker length, just outside off, curving away from the right-hander. Levitt just digs it out
+there's that swing first up. This is yorker length, just outside off, curving away from the right-hander. Levitt just digs it out
 
 
 Balls faced: 23
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shortish ball, flat on the stumps, Levitt goes back and drags this to deep midwicket"}]shortish ball, flat on the stumps, Levitt goes back and drags this to deep midwicket
+shortish ball, flat on the stumps, Levitt goes back and drags this to deep midwicket
 
 
 Balls faced: 24
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on the stumps, and offbreak I think. Played towards mid on for a single"}]length on the stumps, and offbreak I think. Played towards mid on for a single
+length on the stumps, and offbreak I think. Played towards mid on for a single
 
 
 Balls faced: 25
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "a back-foot lofted cover drive. Levitt hops back in his stance, opens up the off side, and when he gets a flat one on the stumps, crashes it over the cover boundary for six. Spectacular shot"}]a back-foot lofted cover drive. Levitt hops back in his stance, opens up the off side, and when he gets a flat one on the stumps, crashes it over the cover boundary for six. Spectacular shot
+a back-foot lofted cover drive. Levitt hops back in his stance, opens up the off side, and when he gets a flat one on the stumps, crashes it over the cover boundary for six. Spectacular shot
 
 
 Balls faced: 26
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flat delivery, fired in at the stumps, hit right back to the bowler"}]flat delivery, fired in at the stumps, hit right back to the bowler
+flat delivery, fired in at the stumps, hit right back to the bowler
 
 
 Balls faced: 27
 Bowler: Theekshana
 Over: 4
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "wide, outside off, and punished first ball. Levitt gets deep in his crease and crashes this through cover point"}]wide, outside off, and punished first ball. Levitt gets deep in his crease and crashes this through cover point
+wide, outside off, and punished first ball. Levitt gets deep in his crease and crashes this through cover point
 
 
 Balls faced: 28
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shuffles down to this fullish delivery, and mistimes it to mid on, but they can run a single"}]shuffles down to this fullish delivery, and mistimes it to mid on, but they can run a single
+shuffles down to this fullish delivery, and mistimes it to mid on, but they can run a single
 
 
 Balls faced: 29
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball just wide of off, Levitt swings and misses"}]length ball just wide of off, Levitt swings and misses
+length ball just wide of off, Levitt swings and misses
 
 
 Balls faced: 30
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish, outside off, Levitt tries to club it to leg, but is caught on the full at midwicket (it's a free hit though). There's a shy at the stumps, but O'Dowd has raced back after initially looking for a single."}]fullish, outside off, Levitt tries to club it to leg, but is caught on the full at midwicket (it's a free hit though). There's a shy at the stumps, but O'Dowd has raced back after initially looking for a single.
+fullish, outside off, Levitt tries to club it to leg, but is caught on the full at midwicket (it's a free hit though). There's a shy at the stumps, but O'Dowd has raced back after initially looking for a single.
 
 
 Balls faced: 31
 Bowler: Angelo Mathews
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: FLICK
 Run scored: 6
-[{"type": "HTML", "html": "Tanveer: \"whats the equation for Netherlands now, if Bangladesh loses to Nepal?\" Depends on how quickly Nepal chase those runs (if they do.)"}, {"type": "HTML", "html": "That's a no ball for overstepping, so that's a free hit next ball too."}]Tanveer: "whats the equation for Netherlands now, if Bangladesh loses to Nepal?" Depends on how quickly Nepal chase those runs (if they do.) That's a no ball for overstepping, so that's a free hit next ball too.
+Tanveer: "whats the equation for Netherlands now, if Bangladesh loses to Nepal?" Depends on how quickly Nepal chase those runs (if they do.) That's a no ball for overstepping, so that's a free hit next ball too.
 
-[{"type": "HTML", "html": "big six with the wind firstball Full on the pads, flicked beautifully, And as it's with the wind it carries a good 1.5 metres over the rope this time. Levitt is making a charge here."}]big six with the wind firstball Full on the pads, flicked beautifully, And as it's with the wind it carries a good 1.5 metres over the rope this time. Levitt is making a charge here.
+big six with the wind firstball Full on the pads, flicked beautifully, And as it's with the wind it carries a good 1.5 metres over the rope this time. Levitt is making a charge here.
 
 No Balls: 1
 Balls faced: 32
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one, dug into the pitch, just outside off. Levitt tries to sit back and pull it, but makes no contact with that. It bangs into his torso"}]slower one, dug into the pitch, just outside off. Levitt tries to sit back and pull it, but makes no contact with that. It bangs into his torso
+slower one, dug into the pitch, just outside off. Levitt tries to sit back and pull it, but makes no contact with that. It bangs into his torso
 
 
 Balls faced: 33
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish one on off stump, driven to mid off"}]fullish one on off stump, driven to mid off
+fullish one on off stump, driven to mid off
 
 
 Balls faced: 34
 Bowler: Thushara
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on off stump, swinging away slightly. Levitt tries to blast throughoff, but gets it far enough away from the mid off fielder and gets a single"}]full ball on off stump, swinging away slightly. Levitt tries to blast throughoff, but gets it far enough away from the mid off fielder and gets a single
+full ball on off stump, swinging away slightly. Levitt tries to blast throughoff, but gets it far enough away from the mid off fielder and gets a single
 
 
 Balls faced: 35
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball, wide of off, a slower one I think. Levitt doesn't quite read the pace correctly and swings and misses"}]full ball, wide of off, a slower one I think. Levitt doesn't quite read the pace correctly and swings and misses
+full ball, wide of off, a slower one I think. Levitt doesn't quite read the pace correctly and swings and misses
 
 
 Balls faced: 36
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shortish ball, flat on the stumps, Levitt goes back and drags this to deep midwicket"}]shortish ball, flat on the stumps, Levitt goes back and drags this to deep midwicket
+shortish ball, flat on the stumps, Levitt goes back and drags this to deep midwicket
 
 
 Balls faced: 37
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length on the stumps, and offbreak I think. Played towards mid on for a single"}]length on the stumps, and offbreak I think. Played towards mid on for a single
+length on the stumps, and offbreak I think. Played towards mid on for a single
 
 
 Balls faced: 38
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "a back-foot lofted cover drive. Levitt hops back in his stance, opens up the off side, and when he gets a flat one on the stumps, crashes it over the cover boundary for six. Spectacular shot"}]a back-foot lofted cover drive. Levitt hops back in his stance, opens up the off side, and when he gets a flat one on the stumps, crashes it over the cover boundary for six. Spectacular shot
+a back-foot lofted cover drive. Levitt hops back in his stance, opens up the off side, and when he gets a flat one on the stumps, crashes it over the cover boundary for six. Spectacular shot
 
 
 Balls faced: 39
 Bowler: Theekshana
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flat delivery, fired in at the stumps, hit right back to the bowler"}]flat delivery, fired in at the stumps, hit right back to the bowler
+flat delivery, fired in at the stumps, hit right back to the bowler
 
 
 Balls faced: 40
 Bowler: Theekshana
 Over: 4
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "wide, outside off, and punished first ball. Levitt gets deep in his crease and crashes this through cover point"}]wide, outside off, and punished first ball. Levitt gets deep in his crease and crashes this through cover point
+wide, outside off, and punished first ball. Levitt gets deep in his crease and crashes this through cover point
 
 
 Balls faced: 41
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "stumped! Levitt runs down the track, and gets a Theekshana offbreak that keeps low, wide of off. His bat goes over the ball, and Mendis behind the stumps takes a nice low take and completes the stumping before Levitt can even bowl back"}]stumped! Levitt runs down the track, and gets a Theekshana offbreak that keeps low, wide of off. His bat goes over the ball, and Mendis behind the stumps takes a nice low take and completes the stumping before Levitt can even bowl back
+Levitt is OUT! stumped
+st †BKG Mendis b Theekshana
+Michael Levitt st †BKG Mendis b Theekshana 31 (23b 2x4 3x6 25m) SR: 134.78
+stumped! Levitt runs down the track, and gets a Theekshana offbreak that keeps low, wide of off. His bat goes over the ball, and Mendis behind the stumps takes a nice low take and completes the stumping before Levitt can even bowl back
 
 
 Balls faced: 42
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower one, dug into the pitch, just outside off. Levitt tries to sit back and pull it, but makes no contact with that. It bangs into his torso"}]slower one, dug into the pitch, just outside off. Levitt tries to sit back and pull it, but makes no contact with that. It bangs into his torso
+slower one, dug into the pitch, just outside off. Levitt tries to sit back and pull it, but makes no contact with that. It bangs into his torso
 
 
 Balls faced: 43
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish one on off stump, driven to mid off"}]fullish one on off stump, driven to mid off
+fullish one on off stump, driven to mid off
 
 
 Balls faced: 44
 Bowler: Thushara
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on off stump, swinging away slightly. Levitt tries to blast throughoff, but gets it far enough away from the mid off fielder and gets a single"}]full ball on off stump, swinging away slightly. Levitt tries to blast throughoff, but gets it far enough away from the mid off fielder and gets a single
+full ball on off stump, swinging away slightly. Levitt tries to blast throughoff, but gets it far enough away from the mid off fielder and gets a single
 
 
 Balls faced: 45
 Bowler: Thushara
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball, wide of off, a slower one I think. Levitt doesn't quite read the pace correctly and swings and misses"}]full ball, wide of off, a slower one I think. Levitt doesn't quite read the pace correctly and swings and misses
+full ball, wide of off, a slower one I think. Levitt doesn't quite read the pace correctly and swings and misses
 
 
 Balls faced: 46
 Bowler: Theekshana
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "stumped! Levitt runs down the track, and gets a Theekshana offbreak that keeps low, wide of off. His bat goes over the ball, and Mendis behind the stumps takes a nice low take and completes the stumping before Levitt can even bowl back"}]stumped! Levitt runs down the track, and gets a Theekshana offbreak that keeps low, wide of off. His bat goes over the ball, and Mendis behind the stumps takes a nice low take and completes the stumping before Levitt can even bowl back
+Levitt is OUT! stumped
+st †Mendis b Theekshana
+Michael Levitt st †Mendis b Theekshana 31 (23b 2x4 3x6 25m) SR: 134.78
+stumped! Levitt runs down the track, and gets a Theekshana offbreak that keeps low, wide of off. His bat goes over the ball, and Mendis behind the stumps takes a nice low take and completes the stumping before Levitt can even bowl back
 
 
 
@@ -868,6 +966,7 @@ Match: all_games_1428145_1428151.json
 Balls faced: 1
 Bowler: Currie
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -878,6 +977,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Currie
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -888,6 +988,7 @@ Run scored: 4
 Balls faced: 3
 Bowler: Currie
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -898,6 +999,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Currie
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
 
@@ -908,6 +1010,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Sole
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -918,6 +1021,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Sole
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -928,6 +1032,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Sole
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
@@ -938,6 +1043,7 @@ Run scored: 6
 Balls faced: 8
 Bowler: Currie
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -948,6 +1054,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Currie
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -958,6 +1065,7 @@ Run scored: 4
 Balls faced: 10
 Bowler: Currie
 Over: 1
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -968,6 +1076,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Currie
 Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
 
@@ -978,6 +1087,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Currie
 Over: 3
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -988,6 +1098,7 @@ Run scored: 2
 Balls faced: 13
 Bowler: Currie
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -998,6 +1109,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Currie
 Over: 3
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
@@ -1008,6 +1120,7 @@ Run scored: 0
 Balls faced: 15
 Bowler: Currie
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -1018,6 +1131,7 @@ Run scored: 4
 Balls faced: 16
 Bowler: Currie
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -1028,6 +1142,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Sole
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -1038,6 +1153,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Sole
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
@@ -1048,6 +1164,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Sole
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 6
 
@@ -1058,6 +1175,7 @@ Run scored: 6
 Balls faced: 20
 Bowler: Main
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1068,6 +1186,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Main
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -1078,6 +1197,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Main
 Over: 4
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -1088,6 +1208,7 @@ Run scored: 4
 Balls faced: 23
 Bowler: Currie
 Over: 3
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -1098,6 +1219,7 @@ Run scored: 2
 Balls faced: 24
 Bowler: Currie
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1108,6 +1230,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Currie
 Over: 3
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
@@ -1118,6 +1241,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: Currie
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
@@ -1128,6 +1252,7 @@ Run scored: 4
 Balls faced: 27
 Bowler: Currie
 Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -1138,6 +1263,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1148,6 +1274,7 @@ Run scored: 1
 Balls faced: 29
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
@@ -1158,6 +1285,7 @@ Run scored: 4
 Balls faced: 30
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1168,6 +1296,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Watt
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1178,6 +1307,7 @@ Run scored: 1
 Balls faced: 32
 Bowler: Main
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1188,6 +1318,7 @@ Run scored: 1
 Balls faced: 33
 Bowler: Main
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -1198,6 +1329,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Main
 Over: 4
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
 
@@ -1208,6 +1340,7 @@ Run scored: 4
 Balls faced: 35
 Bowler: Sole
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
@@ -1218,6 +1351,7 @@ Run scored: 2
 Balls faced: 36
 Bowler: Sole
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
@@ -1228,6 +1362,7 @@ Run scored: 4
 Balls faced: 37
 Bowler: Sole
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
@@ -1238,6 +1373,7 @@ Run scored: 0
 Balls faced: 38
 Bowler: Sole
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -1248,6 +1384,7 @@ Run scored: 2
 Balls faced: 39
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1258,6 +1395,7 @@ Run scored: 1
 Balls faced: 40
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
@@ -1268,6 +1406,7 @@ Run scored: 4
 Balls faced: 41
 Bowler: Watt
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -1278,6 +1417,7 @@ Run scored: 0
 Balls faced: 42
 Bowler: Watt
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1288,6 +1428,7 @@ Run scored: 1
 Balls faced: 43
 Bowler: Watt
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1298,6 +1439,7 @@ Run scored: 1
 Balls faced: 44
 Bowler: Watt
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -1308,6 +1450,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: Watt
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1318,6 +1461,7 @@ Run scored: 1
 Balls faced: 46
 Bowler: Sole
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 2
 
@@ -1328,6 +1472,7 @@ Run scored: 2
 Balls faced: 47
 Bowler: Sole
 Over: 6
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
@@ -1338,6 +1483,7 @@ Run scored: 4
 Balls faced: 48
 Bowler: Sole
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
@@ -1348,6 +1494,7 @@ Run scored: 0
 Balls faced: 49
 Bowler: Sole
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -1358,6 +1505,7 @@ Run scored: 2
 Balls faced: 50
 Bowler: Greaves
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1368,6 +1516,7 @@ Run scored: 1
 Balls faced: 51
 Bowler: Greaves
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1378,6 +1527,7 @@ Run scored: 1
 Balls faced: 52
 Bowler: Greaves
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -1388,6 +1538,7 @@ Run scored: 2
 Balls faced: 53
 Bowler: Watt
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1398,6 +1549,7 @@ Run scored: 1
 Balls faced: 54
 Bowler: Watt
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -1408,6 +1560,7 @@ Run scored: 0
 Balls faced: 55
 Bowler: Watt
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1418,16 +1571,20 @@ Run scored: 1
 Balls faced: 56
 Bowler: Main
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
+Levitt is OUT! bowled
+ b Main
+Michael Levitt b Main 43 (31b 5x4 1x6 32m) SR: 138.7
 
 
 
 Balls faced: 57
 Bowler: Main
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1438,6 +1595,7 @@ Run scored: 1
 Balls faced: 58
 Bowler: Greaves
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1448,6 +1606,7 @@ Run scored: 1
 Balls faced: 59
 Bowler: Greaves
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -1458,6 +1617,7 @@ Run scored: 1
 Balls faced: 60
 Bowler: Greaves
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -1468,16 +1628,20 @@ Run scored: 2
 Balls faced: 61
 Bowler: Main
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
+Levitt is OUT! bowled
+ b Main
+Michael Levitt b Main 43 (31b 5x4 1x6 32m) SR: 138.7
 
 
 
 Balls faced: 62
 Bowler: Main
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
@@ -1490,6 +1654,7 @@ Match: all_games_1428145_1428152.json
 Balls faced: 1
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 3
 
@@ -1500,6 +1665,7 @@ Run scored: 3
 Balls faced: 2
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1510,6 +1676,7 @@ Run scored: 4
 Balls faced: 3
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1520,6 +1687,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1530,6 +1698,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1540,6 +1709,7 @@ Run scored: 2
 Balls faced: 6
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1550,6 +1720,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1560,6 +1731,7 @@ Run scored: 2
 Balls faced: 8
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1570,6 +1742,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1580,6 +1753,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1590,6 +1764,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1600,6 +1775,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1610,6 +1786,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1620,6 +1797,7 @@ Wide: 1
 Balls faced: 14
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 3
 
@@ -1630,6 +1808,7 @@ Run scored: 3
 Balls faced: 15
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1640,6 +1819,7 @@ Run scored: 4
 Balls faced: 16
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1650,6 +1830,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1660,6 +1841,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1670,6 +1852,7 @@ Run scored: 2
 Balls faced: 19
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1680,6 +1863,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1690,6 +1874,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1700,6 +1885,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1710,6 +1896,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1720,6 +1907,7 @@ Run scored: 2
 Balls faced: 24
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1730,6 +1918,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1740,6 +1929,7 @@ Run scored: 0
 Balls faced: 26
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1750,6 +1940,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1760,6 +1951,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1770,6 +1962,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1780,6 +1973,7 @@ Wide: 1
 Balls faced: 30
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1790,6 +1984,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1800,6 +1995,7 @@ Run scored: 4
 Balls faced: 32
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1810,6 +2006,7 @@ Run scored: 0
 Balls faced: 33
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1820,6 +2017,7 @@ Run scored: 2
 Balls faced: 34
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1830,6 +2028,7 @@ Run scored: 0
 Balls faced: 35
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1840,6 +2039,7 @@ Run scored: 0
 Balls faced: 36
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1850,6 +2050,7 @@ Run scored: 1
 Balls faced: 37
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1860,6 +2061,7 @@ Run scored: 0
 Balls faced: 38
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1870,6 +2072,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: McCarthy
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1880,6 +2083,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1890,6 +2094,7 @@ Run scored: 0
 Balls faced: 41
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -1900,6 +2105,7 @@ Run scored: 4
 Balls faced: 42
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1910,6 +2116,7 @@ Run scored: 0
 Balls faced: 43
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -1920,6 +2127,7 @@ Run scored: 2
 Balls faced: 44
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1930,6 +2138,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: Hand
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1940,16 +2149,20 @@ Run scored: 0
 Balls faced: 46
 Bowler: Campher
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Levitt is OUT! caught
+c sub (GR Adair) b Campher
+Michael Levitt c sub (GR Adair) b Campher 19 (24b 2x4 0x6) SR: 79.16
 
 
 
 Balls faced: 47
 Bowler: Campher
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1960,6 +2173,7 @@ Run scored: 1
 Balls faced: 48
 Bowler: McCarthy
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -1970,16 +2184,20 @@ Run scored: 0
 Balls faced: 49
 Bowler: Campher
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Levitt is OUT! caught
+c sub (GR Adair) b Campher
+Michael Levitt c sub (GR Adair) b Campher 19 (24b 2x4 0x6) SR: 79.16
 
 
 
 Balls faced: 50
 Bowler: Campher
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -1992,6 +2210,7 @@ Match: all_games_1428145_1428154.json
 Balls faced: 1
 Bowler: Leask
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2002,6 +2221,7 @@ Wide: 2
 Balls faced: 2
 Bowler: Leask
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2012,16 +2232,20 @@ Run scored: 1
 Balls faced: 3
 Bowler: Sole
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Levitt is OUT! caught
+c & b Sole
+Michael Levitt c & b Sole 1 (3b 0x4 0x6 6m) SR: 33.33
 
 
 
 Balls faced: 4
 Bowler: Sole
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2032,6 +2256,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Leask
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2042,6 +2267,7 @@ Wide: 2
 Balls faced: 6
 Bowler: Leask
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2052,16 +2278,20 @@ Run scored: 1
 Balls faced: 7
 Bowler: Sole
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Levitt is OUT! caught
+c & b Sole
+Michael Levitt c & b Sole 1 (3b 0x4 0x6 6m) SR: 33.33
 
 
 
 Balls faced: 8
 Bowler: Sole
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2074,6 +2304,7 @@ Match: all_games_1428145_1428156.json
 Balls faced: 1
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2084,6 +2315,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2094,6 +2326,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2104,6 +2337,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2114,6 +2348,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2124,6 +2359,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -2134,6 +2370,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2144,6 +2381,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 3
 
@@ -2154,6 +2392,7 @@ Run scored: 3
 Balls faced: 9
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2164,6 +2403,7 @@ Run scored: 4
 Balls faced: 10
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2174,6 +2414,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2184,6 +2425,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2194,6 +2436,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Adair
 Over: 1
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2204,6 +2447,7 @@ Run scored: 1
 Balls faced: 14
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2214,6 +2458,7 @@ Legbyes: 1
 Balls faced: 15
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2224,6 +2469,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2234,6 +2480,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2244,6 +2491,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -2254,6 +2502,7 @@ Run scored: 2
 Balls faced: 19
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2264,6 +2513,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 3
 
@@ -2274,6 +2524,7 @@ Run scored: 3
 Balls faced: 21
 Bowler: McCarthy
 Over: 2
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2284,6 +2535,7 @@ Run scored: 4
 Balls faced: 22
 Bowler: Young
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2294,6 +2546,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: Young
 Over: 4
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -2304,6 +2557,7 @@ Run scored: 6
 Balls faced: 24
 Bowler: Young
 Over: 4
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2314,6 +2568,7 @@ Run scored: 1
 Balls faced: 25
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2324,6 +2579,7 @@ Legbyes: 1
 Balls faced: 26
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2334,6 +2590,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Adair
 Over: 3
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2344,6 +2601,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: McCarthy
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2354,6 +2612,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: McCarthy
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2364,6 +2623,7 @@ Wide: 1
 Balls faced: 30
 Bowler: McCarthy
 Over: 5
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2374,6 +2634,7 @@ Run scored: 1
 Balls faced: 31
 Bowler: Young
 Over: 4
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2384,6 +2645,7 @@ Run scored: 0
 Balls faced: 32
 Bowler: Young
 Over: 4
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -2394,6 +2656,7 @@ Run scored: 6
 Balls faced: 33
 Bowler: Young
 Over: 4
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2404,6 +2667,7 @@ Run scored: 1
 Balls faced: 34
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2414,6 +2678,7 @@ Run scored: 1
 Balls faced: 35
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2424,6 +2689,7 @@ Run scored: 0
 Balls faced: 36
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2434,6 +2700,7 @@ Run scored: 4
 Balls faced: 37
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2444,6 +2711,7 @@ Run scored: 0
 Balls faced: 38
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2454,6 +2722,7 @@ Run scored: 0
 Balls faced: 39
 Bowler: McCarthy
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2464,6 +2733,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: McCarthy
 Over: 5
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2474,6 +2744,7 @@ Wide: 1
 Balls faced: 41
 Bowler: McCarthy
 Over: 5
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2484,6 +2755,7 @@ Run scored: 1
 Balls faced: 42
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2494,6 +2766,7 @@ Run scored: 1
 Balls faced: 43
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2504,6 +2777,7 @@ Run scored: 4
 Balls faced: 44
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2514,6 +2788,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2524,6 +2799,7 @@ Run scored: 0
 Balls faced: 46
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2534,6 +2810,7 @@ Run scored: 0
 Balls faced: 47
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2544,6 +2821,7 @@ Run scored: 4
 Balls faced: 48
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2554,6 +2832,7 @@ Run scored: 1
 Balls faced: 49
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2564,6 +2843,7 @@ Run scored: 0
 Balls faced: 50
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2574,6 +2854,7 @@ Run scored: 4
 Balls faced: 51
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2584,6 +2865,7 @@ Run scored: 0
 Balls faced: 52
 Bowler: Delany
 Over: 6
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2594,6 +2876,7 @@ Run scored: 0
 Balls faced: 53
 Bowler: Dockrell
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2604,6 +2887,7 @@ Run scored: 1
 Balls faced: 54
 Bowler: Dockrell
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2614,6 +2898,7 @@ Run scored: 1
 Balls faced: 55
 Bowler: Dockrell
 Over: 8
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -2624,6 +2909,7 @@ Run scored: 2
 Balls faced: 56
 Bowler: Dockrell
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2634,6 +2920,7 @@ Run scored: 1
 Balls faced: 57
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2644,6 +2931,7 @@ Run scored: 1
 Balls faced: 58
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2654,6 +2942,7 @@ Run scored: 4
 Balls faced: 59
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2664,6 +2953,7 @@ Run scored: 0
 Balls faced: 60
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2674,6 +2964,7 @@ Run scored: 0
 Balls faced: 61
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -2684,6 +2975,7 @@ Run scored: 0
 Balls faced: 62
 Bowler: White
 Over: 7
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -2694,16 +2986,20 @@ Run scored: 4
 Balls faced: 63
 Bowler: Delany
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Levitt is OUT! caught
+c Tector b Delany
+Michael Levitt c Tector b Delany 39 (34b 4x4 1x6) SR: 114.7
 
 
 
 Balls faced: 64
 Bowler: Delany
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2714,6 +3010,7 @@ Run scored: 1
 Balls faced: 65
 Bowler: Dockrell
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2724,6 +3021,7 @@ Run scored: 1
 Balls faced: 66
 Bowler: Dockrell
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2734,6 +3032,7 @@ Run scored: 1
 Balls faced: 67
 Bowler: Dockrell
 Over: 8
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -2744,6 +3043,7 @@ Run scored: 2
 Balls faced: 68
 Bowler: Dockrell
 Over: 8
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -2754,15 +3054,19 @@ Run scored: 1
 Balls faced: 69
 Bowler: Delany
 Over: 9
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Levitt is OUT! caught
+c Tector b Delany
+Michael Levitt c Tector b Delany 39 (34b 4x4 1x6) SR: 114.7
 
 
 
 Balls faced: 70
 Bowler: Delany
 Over: 9
+ 
 Shot: No Shot
 Run scored: 1

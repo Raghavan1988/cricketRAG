@@ -2,278 +2,306 @@ Match: all_games_1411166_1415722.json
 Balls faced: 1
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short again, 135kph/84mph, snaking back a the body, helped away through backward square leg"}]short again, 135kph/84mph, snaking back a the body, helped away through backward square leg
+short again, 135kph/84mph, snaking back a the body, helped away through backward square leg
 
 
 Balls faced: 2
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "digs this in short, flies through past the gloves"}]digs this in short, flies through past the gloves
+digs this in short, flies through past the gloves
 
 
 Balls faced: 3
 Bowler: Imad Wasim
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up on off, pushed away coming across"}]tossed up on off, pushed away coming across
+tossed up on off, pushed away coming across
 
 
 Balls faced: 4
 Bowler: Imad Wasim
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "undercutter, sliding into the front pad... heading down leg, I think"}]undercutter, sliding into the front pad... heading down leg, I think
+undercutter, sliding into the front pad... heading down leg, I think
 
 
 Balls faced: 5
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short again, 135kph/84mph, snaking back a the body, helped away through backward square leg"}]short again, 135kph/84mph, snaking back a the body, helped away through backward square leg
+short again, 135kph/84mph, snaking back a the body, helped away through backward square leg
 
 
 Balls faced: 6
 Bowler: Naseem Shah
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "digs this in short, flies through past the gloves"}]digs this in short, flies through past the gloves
+digs this in short, flies through past the gloves
 
 
 Balls faced: 7
 Bowler: Haris Rauf
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "goes full and wide, Kaleem slices a drive into the gap at backward point for two"}]goes full and wide, Kaleem slices a drive into the gap at backward point for two
+goes full and wide, Kaleem slices a drive into the gap at backward point for two
 
 
 Balls faced: 8
 Bowler: Imad Wasim
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up on off, pushed away coming across"}]tossed up on off, pushed away coming across
+tossed up on off, pushed away coming across
 
 
 Balls faced: 9
 Bowler: Imad Wasim
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "undercutter, sliding into the front pad... heading down leg, I think"}]undercutter, sliding into the front pad... heading down leg, I think
+undercutter, sliding into the front pad... heading down leg, I think
 
 
 Balls faced: 10
 Bowler: Amir
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, dinked into the gap"}]slower ball, dinked into the gap
+slower ball, dinked into the gap
 
 
 Balls faced: 11
 Bowler: Haris Rauf
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "goes full and wide, Kaleem slices a drive into the gap at backward point for two"}]goes full and wide, Kaleem slices a drive into the gap at backward point for two
+goes full and wide, Kaleem slices a drive into the gap at backward point for two
 
 
 Balls faced: 12
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "122kph cutter, fourth stump and played late towards backward point. Would have been gone with a direct hit! Shadab the fielder"}]122kph cutter, fourth stump and played late towards backward point. Would have been gone with a direct hit! Shadab the fielder
+122kph cutter, fourth stump and played late towards backward point. Would have been gone with a direct hit! Shadab the fielder
 
 
 Balls faced: 13
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back-of-a-length slower ball, popped into the off side... but again it doesn't go to hand"}]back-of-a-length slower ball, popped into the off side... but again it doesn't go to hand
+back-of-a-length slower ball, popped into the off side... but again it doesn't go to hand
 
 
 Balls faced: 14
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pitched up, 139kph/86mph around off stump, patted into the covers by Kaleem"}]pitched up, 139kph/86mph around off stump, patted into the covers by Kaleem
+pitched up, 139kph/86mph around off stump, patted into the covers by Kaleem
 
 
 Balls faced: 15
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "round the wicket, full length and driven to mid-off on the bounce"}]round the wicket, full length and driven to mid-off on the bounce
+round the wicket, full length and driven to mid-off on the bounce
 
 
 Balls faced: 16
 Bowler: Amir
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, dinked into the gap"}]slower ball, dinked into the gap
+slower ball, dinked into the gap
 
 
 Balls faced: 17
 Bowler: Amir
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired into the blockhole, Kaleem tries to clamp down on it. The ball skids through to Rizwan past leg stump. There was half an appeal for caught behind but I think it flicked the pad"}]fired into the blockhole, Kaleem tries to clamp down on it. The ball skids through to Rizwan past leg stump. There was half an appeal for caught behind but I think it flicked the pad
+fired into the blockhole, Kaleem tries to clamp down on it. The ball skids through to Rizwan past leg stump. There was half an appeal for caught behind but I think it flicked the pad
 
 
 Balls faced: 18
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "122kph cutter, fourth stump and played late towards backward point. Would have been gone with a direct hit! Shadab the fielder"}]122kph cutter, fourth stump and played late towards backward point. Would have been gone with a direct hit! Shadab the fielder
+122kph cutter, fourth stump and played late towards backward point. Would have been gone with a direct hit! Shadab the fielder
 
 
 Balls faced: 19
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back-of-a-length slower ball, popped into the off side... but again it doesn't go to hand"}]back-of-a-length slower ball, popped into the off side... but again it doesn't go to hand
+back-of-a-length slower ball, popped into the off side... but again it doesn't go to hand
 
 
 Balls faced: 20
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pitched up, 139kph/86mph around off stump, patted into the covers by Kaleem"}]pitched up, 139kph/86mph around off stump, patted into the covers by Kaleem
+pitched up, 139kph/86mph around off stump, patted into the covers by Kaleem
 
 
 Balls faced: 21
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "round the wicket, full length and driven to mid-off on the bounce"}]round the wicket, full length and driven to mid-off on the bounce
+round the wicket, full length and driven to mid-off on the bounce
 
 
 Balls faced: 22
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "nails the yorker, 139kph/86mph and dug out to mid-off... who sets himself and has a shy, misses! So a single off the final ball, and Canada have scraped together something from the depths of 55 for 5"}]nails the yorker, 139kph/86mph and dug out to mid-off... who sets himself and has a shy, misses! So a single off the final ball, and Canada have scraped together something from the depths of 55 for 5
-[{"type": "HTML", "html": "<b>12.05pm:</b> Forecaster reckons Pakistan are a 93% chance from here. I only wish I had that sort of confidence. They've done a decent job with the ball, nevertheless, and certainly the efforts of Aaron Johnson (52 off 44) made this look like one of the better surfaces we've seen at Nassau County. Anyway, while the Pakistan fans bite their nails during the break, you can see what Urooj Mumtaz and Niall O'Brien think on Time:Out, then join Vish Ehantharajah for the chase"}, {"type": "HTML", "html": "Here's Johnson: \"My mentality is always to get the team off to a good start and be positive. The coach tells me, see the ball and hit the ball. [Pakistan quicks] It was tough but I have some Caribbean background. The team want me to face the pace and I relish the opportunity. [Defendable?] Our bowling attack has been doing well for the last six months so hopefully we can get across the line.\""}]<b>12.05pm:</b> Forecaster reckons Pakistan are a 93% chance from here. I only wish I had that sort of confidence. They've done a decent job with the ball, nevertheless, and certainly the efforts of Aaron Johnson (52 off 44) made this look like one of the better surfaces we've seen at Nassau County. Anyway, while the Pakistan fans bite their nails during the break, you can see what Urooj Mumtaz and Niall O'Brien think on Time:Out, then join Vish Ehantharajah for the chase Here's Johnson: "My mentality is always to get the team off to a good start and be positive. The coach tells me, see the ball and hit the ball. [Pakistan quicks] It was tough but I have some Caribbean background. The team want me to face the pace and I relish the opportunity. [Defendable?] Our bowling attack has been doing well for the last six months so hopefully we can get across the line."
+nails the yorker, 139kph/86mph and dug out to mid-off... who sets himself and has a shy, misses! So a single off the final ball, and Canada have scraped together something from the depths of 55 for 5
+<b>12.05pm:</b> Forecaster reckons Pakistan are a 93% chance from here. I only wish I had that sort of confidence. They've done a decent job with the ball, nevertheless, and certainly the efforts of Aaron Johnson (52 off 44) made this look like one of the better surfaces we've seen at Nassau County. Anyway, while the Pakistan fans bite their nails during the break, you can see what Urooj Mumtaz and Niall O'Brien think on Time:Out, then join Vish Ehantharajah for the chase Here's Johnson: "My mentality is always to get the team off to a good start and be positive. The coach tells me, see the ball and hit the ball. [Pakistan quicks] It was tough but I have some Caribbean background. The team want me to face the pace and I relish the opportunity. [Defendable?] Our bowling attack has been doing well for the last six months so hopefully we can get across the line."
 
 Balls faced: 23
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "<b>That's the Canada 100 up</b>"}]<b>That's the Canada 100 up</b>
+<b>That's the Canada 100 up</b>
 
-[{"type": "HTML", "html": "goes to the change-up, heaved without timing into the leg side"}]goes to the change-up, heaved without timing into the leg side
+goes to the change-up, heaved without timing into the leg side
 
 
 Balls faced: 24
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>length ball, carved all the way!</b> Pace on and Kaleem uses it to his advantage to dump the ball over deep backward point"}]<b>length ball, carved all the way!</b> Pace on and Kaleem uses it to his advantage to dump the ball over deep backward point
+<b>length ball, carved all the way!</b> Pace on and Kaleem uses it to his advantage to dump the ball over deep backward point
 
 
 Balls faced: 25
 Bowler: Amir
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fired into the blockhole, Kaleem tries to clamp down on it. The ball skids through to Rizwan past leg stump. There was half an appeal for caught behind but I think it flicked the pad"}]fired into the blockhole, Kaleem tries to clamp down on it. The ball skids through to Rizwan past leg stump. There was half an appeal for caught behind but I think it flicked the pad
+fired into the blockhole, Kaleem tries to clamp down on it. The ball skids through to Rizwan past leg stump. There was half an appeal for caught behind but I think it flicked the pad
 
 
 Balls faced: 26
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "nails the yorker, 139kph/86mph and dug out to mid-off... who sets himself and has a shy, misses! So a single off the final ball, and Canada have scraped together something from the depths of 55 for 5"}]nails the yorker, 139kph/86mph and dug out to mid-off... who sets himself and has a shy, misses! So a single off the final ball, and Canada have scraped together something from the depths of 55 for 5
-[{"type": "HTML", "html": "<b>12.05pm:</b> Forecaster reckons Pakistan are a 93% chance from here. I only wish I had that sort of confidence. They've done a decent job with the ball, nevertheless, and certainly the efforts of Aaron Johnson (52 off 44) made this look like one of the better surfaces we've seen at Nassau County. Anyway, while the Pakistan fans bite their nails during the break, you can see what Urooj Mumtaz and Niall O'Brien think on Time:Out, then join Vish Ehantharajah for the chase"}, {"type": "HTML", "html": "Here's Johnson: \"My mentality is always to get the team off to a good start and be positive. The coach tells me, see the ball and hit the ball. [Pakistan quicks] It was tough but I have some Caribbean background. The team want me to face the pace and I relish the opportunity. [Defendable?] Our bowling attack has been doing well for the last six months so hopefully we can get across the line.\""}]<b>12.05pm:</b> Forecaster reckons Pakistan are a 93% chance from here. I only wish I had that sort of confidence. They've done a decent job with the ball, nevertheless, and certainly the efforts of Aaron Johnson (52 off 44) made this look like one of the better surfaces we've seen at Nassau County. Anyway, while the Pakistan fans bite their nails during the break, you can see what Urooj Mumtaz and Niall O'Brien think on Time:Out, then join Vish Ehantharajah for the chase Here's Johnson: "My mentality is always to get the team off to a good start and be positive. The coach tells me, see the ball and hit the ball. [Pakistan quicks] It was tough but I have some Caribbean background. The team want me to face the pace and I relish the opportunity. [Defendable?] Our bowling attack has been doing well for the last six months so hopefully we can get across the line."
+nails the yorker, 139kph/86mph and dug out to mid-off... who sets himself and has a shy, misses! So a single off the final ball, and Canada have scraped together something from the depths of 55 for 5
+<b>12.05pm:</b> Forecaster reckons Pakistan are a 93% chance from here. I only wish I had that sort of confidence. They've done a decent job with the ball, nevertheless, and certainly the efforts of Aaron Johnson (52 off 44) made this look like one of the better surfaces we've seen at Nassau County. Anyway, while the Pakistan fans bite their nails during the break, you can see what Urooj Mumtaz and Niall O'Brien think on Time:Out, then join Vish Ehantharajah for the chase Here's Johnson: "My mentality is always to get the team off to a good start and be positive. The coach tells me, see the ball and hit the ball. [Pakistan quicks] It was tough but I have some Caribbean background. The team want me to face the pace and I relish the opportunity. [Defendable?] Our bowling attack has been doing well for the last six months so hopefully we can get across the line."
 
 Balls faced: 27
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "<b>That's the Canada 100 up</b>"}]<b>That's the Canada 100 up</b>
+<b>That's the Canada 100 up</b>
 
-[{"type": "HTML", "html": "goes to the change-up, heaved without timing into the leg side"}]goes to the change-up, heaved without timing into the leg side
+goes to the change-up, heaved without timing into the leg side
 
 
 Balls faced: 28
 Bowler: Naseem Shah
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: CUT_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>length ball, carved all the way!</b> Pace on and Kaleem uses it to his advantage to dump the ball over deep backward point"}]<b>length ball, carved all the way!</b> Pace on and Kaleem uses it to his advantage to dump the ball over deep backward point
+<b>length ball, carved all the way!</b> Pace on and Kaleem uses it to his advantage to dump the ball over deep backward point

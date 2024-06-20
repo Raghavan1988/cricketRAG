@@ -2,161 +2,177 @@ Match: all_games_1419819_1419827.json
 Balls faced: 1
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off, driven straight to mid-off"}]full on off, driven straight to mid-off
+full on off, driven straight to mid-off
 
 
 Balls faced: 2
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and straight, strikes the pads but this is shaping down leg"}]full and straight, strikes the pads but this is shaping down leg
+full and straight, strikes the pads but this is shaping down leg
 
 
 Balls faced: 3
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short outside off, leaves this one alone"}]short outside off, leaves this one alone
+short outside off, leaves this one alone
 
 
 Balls faced: 4
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length, down leg"}]length, down leg
+length, down leg
 
 Wide: 1
 Balls faced: 5
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Well, well, lovely stuff from Lahiru!</b> Back of a length outside off, Lahiru leans back and just opens the face. Guides it in the air clear of backward point but square enough of third man"}]<B>Well, well, lovely stuff from Lahiru!</b> Back of a length outside off, Lahiru leans back and just opens the face. Guides it in the air clear of backward point but square enough of third man
+<B>Well, well, lovely stuff from Lahiru!</b> Back of a length outside off, Lahiru leans back and just opens the face. Guides it in the air clear of backward point but square enough of third man
 
 
 Balls faced: 6
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
-[{"type": "HTML", "html": "Sri Lanka 8 down and now at very real risk of not finishing their 50 overs"}]Sri Lanka 8 down and now at very real risk of not finishing their 50 overs
+Sri Lanka 8 down and now at very real risk of not finishing their 50 overs
 
-[{"type": "HTML", "html": "back of a length on off, backs away and pokes it to backward point"}]back of a length on off, backs away and pokes it to backward point
+back of a length on off, backs away and pokes it to backward point
 
 
 Balls faced: 7
 Bowler: Taskin
 Over: 48
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length down leg, clips of the thigh pad as Mushfiqur fails to grab this cleanly low to his right. Wide was called initially, but the square leg umpire made a late interjection to correct the call"}]back of a length down leg, clips of the thigh pad as Mushfiqur fails to grab this cleanly low to his right. Wide was called initially, but the square leg umpire made a late interjection to correct the call
+back of a length down leg, clips of the thigh pad as Mushfiqur fails to grab this cleanly low to his right. Wide was called initially, but the square leg umpire made a late interjection to correct the call
 
 Legbyes: 1
 Balls faced: 8
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on off, driven straight to mid-off"}]full on off, driven straight to mid-off
+full on off, driven straight to mid-off
 
 
 Balls faced: 9
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and straight, strikes the pads but this is shaping down leg"}]full and straight, strikes the pads but this is shaping down leg
+full and straight, strikes the pads but this is shaping down leg
 
 
 Balls faced: 10
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short outside off, leaves this one alone"}]short outside off, leaves this one alone
+short outside off, leaves this one alone
 
 
 Balls faced: 11
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length, down leg"}]length, down leg
+length, down leg
 
 Wide: 1
 Balls faced: 12
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Well, well, lovely stuff from Lahiru!</b> Back of a length outside off, Lahiru leans back and just opens the face. Guides it in the air clear of backward point but square enough of third man"}]<B>Well, well, lovely stuff from Lahiru!</b> Back of a length outside off, Lahiru leans back and just opens the face. Guides it in the air clear of backward point but square enough of third man
+<B>Well, well, lovely stuff from Lahiru!</b> Back of a length outside off, Lahiru leans back and just opens the face. Guides it in the air clear of backward point but square enough of third man
 
 
 Balls faced: 13
 Bowler: Shoriful Islam
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 0
-[{"type": "HTML", "html": "Sri Lanka 8 down and now at very real risk of not finishing their 50 overs"}]Sri Lanka 8 down and now at very real risk of not finishing their 50 overs
+Sri Lanka 8 down and now at very real risk of not finishing their 50 overs
 
-[{"type": "HTML", "html": "back of a length on off, backs away and pokes it to backward point"}]back of a length on off, backs away and pokes it to backward point
+back of a length on off, backs away and pokes it to backward point
 
 
 Balls faced: 14
 Bowler: Shoriful Islam
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, Kumara makes room and leans back to crash this through the covers but gets a thick inside edge towards square leg for one"}]full on off, Kumara makes room and leans back to crash this through the covers but gets a thick inside edge towards square leg for one
+full on off, Kumara makes room and leans back to crash this through the covers but gets a thick inside edge towards square leg for one
 
 
 Balls faced: 15
 Bowler: Taskin
 Over: 48
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length down leg, clips of the thigh pad as Mushfiqur fails to grab this cleanly low to his right. Wide was called initially, but the square leg umpire made a late interjection to correct the call"}]back of a length down leg, clips of the thigh pad as Mushfiqur fails to grab this cleanly low to his right. Wide was called initially, but the square leg umpire made a late interjection to correct the call
+back of a length down leg, clips of the thigh pad as Mushfiqur fails to grab this cleanly low to his right. Wide was called initially, but the square leg umpire made a late interjection to correct the call
 
 Legbyes: 1
 Balls faced: 16
 Bowler: Shoriful Islam
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on off, Kumara makes room and leans back to crash this through the covers but gets a thick inside edge towards square leg for one"}]full on off, Kumara makes room and leans back to crash this through the covers but gets a thick inside edge towards square leg for one
+full on off, Kumara makes room and leans back to crash this through the covers but gets a thick inside edge towards square leg for one
 
 
 
@@ -164,9 +180,12 @@ Match: all_games_1419819_1419829.json
 Balls faced: 1
 Bowler: Taskin
 Over: 50
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "Kumara to face the last ball"}]Kumara to face the last ball
-
-[{"type": "HTML", "html": "short and slow outside off, pulls this down to deep midwicket and Kumara's slow turning arc sees him well short on a suicidal second. <B>Sri Lanka are bowled out for 235</b>"}]short and slow outside off, pulls this down to deep midwicket and Kumara's slow turning arc sees him well short on a suicidal second. <B>Sri Lanka are bowled out for 235</b>
-[{"type": "HTML", "html": "<B>2.02pm</b> Play will begin in about 20 minutes, Rashad will be back for that. So don't go too far, we'll be back soon."}, {"type": "HTML", "html": "Findeshi: \"It was good to see Bangladeshi players coming and congratulating Liyanage after the last wicket of the srilankan innings. Good to see friendly attitude in the pitch. Hope this good spirit of the game continues between Bangladesh and Srilanka. \""}, {"type": "HTML", "html": "Thilina T: \"Importance of playing 50 overs! A couple of month back SL could lose all wickets well before 50 overs. Good to see how well they recovered. \" --- You don't need to go back months, one week should be enough. But this was a much more resolute display from the tail."}, {"type": "HTML", "html": "Sakib: \"Janith played well. But Bangladeshi bowlers did good job as well. SL has scored 39 runs in the last 5 overs, couldn't hit a sixer...\" --- Yes, all credit to Bangladesh bowlers. Forced SL into low risk, low reward cricket."}, {"type": "HTML", "html": "Noman: \"@49.5 commentary, if Anamul and Jaker Ali collided then how come crashed into Mehidy?\" --- Apologies. Took my cue off broadcast commentary, it's been duly corrected now. Jaker was the injured party, Mehidy was uninvolved."}, {"type": "HTML", "html": "<B>13.55pm</b> Sri Lanka then scrambled and clawed themselves up to 235, after languishing at one point on 154 for 7. That was essentially solely down to Janith Liyanage's 102-ball 101, as he shepherded the tail and dragged Sri Lanka to a total they might just about fancy defending. But this was an innings that belonged to the Bangladesh bowlers. The seamers extracted good movement and kept disciplined lines and lengths to pick up regular wickets, while the dryness in the pitch came to the fore later on to make the spinners also a fairly threatening proposition. Sri Lanka didn't do themselves any favours with some lose strokeplay, and a very poor non-review of the in-form Nissanka's lbw, but they will glad for Liyanage's intervention so their bowlers now have something to work with."}]<B>2.02pm</b> Play will begin in about 20 minutes, Rashad will be back for that. So don't go too far, we'll be back soon. Findeshi: "It was good to see Bangladeshi players coming and congratulating Liyanage after the last wicket of the srilankan innings. Good to see friendly attitude in the pitch. Hope this good spirit of the game continues between Bangladesh and Srilanka. " Thilina T: "Importance of playing 50 overs! A couple of month back SL could lose all wickets well before 50 overs. Good to see how well they recovered. " --- You don't need to go back months, one week should be enough. But this was a much more resolute display from the tail. Sakib: "Janith played well. But Bangladeshi bowlers did good job as well. SL has scored 39 runs in the last 5 overs, couldn't hit a sixer..." --- Yes, all credit to Bangladesh bowlers. Forced SL into low risk, low reward cricket. Noman: "@49.5 commentary, if Anamul and Jaker Ali collided then how come crashed into Mehidy?" --- Apologies. Took my cue off broadcast commentary, it's been duly corrected now. Jaker was the injured party, Mehidy was uninvolved. <B>13.55pm</b> Sri Lanka then scrambled and clawed themselves up to 235, after languishing at one point on 154 for 7. That was essentially solely down to Janith Liyanage's 102-ball 101, as he shepherded the tail and dragged Sri Lanka to a total they might just about fancy defending. But this was an innings that belonged to the Bangladesh bowlers. The seamers extracted good movement and kept disciplined lines and lengths to pick up regular wickets, while the dryness in the pitch came to the fore later on to make the spinners also a fairly threatening proposition. Sri Lanka didn't do themselves any favours with some lose strokeplay, and a very poor non-review of the in-form Nissanka's lbw, but they will glad for Liyanage's intervention so their bowlers now have something to work with.
+Kumara to face the last ball
+Lahiru Kumara is OUT! run out
+run out (Towhid Hridoy/†Mushfiqur Rahim)
+Lahiru Kumara run out (Towhid Hridoy/†Mushfiqur Rahim) 1 (1b 0x4 0x6 2m) SR: 100
+short and slow outside off, pulls this down to deep midwicket and Kumara's slow turning arc sees him well short on a suicidal second. <B>Sri Lanka are bowled out for 235</b>
+<B>2.02pm</b> Play will begin in about 20 minutes, Rashad will be back for that. So don't go too far, we'll be back soon. Findeshi: "It was good to see Bangladeshi players coming and congratulating Liyanage after the last wicket of the srilankan innings. Good to see friendly attitude in the pitch. Hope this good spirit of the game continues between Bangladesh and Srilanka. " Thilina T: "Importance of playing 50 overs! A couple of month back SL could lose all wickets well before 50 overs. Good to see how well they recovered. " --- You don't need to go back months, one week should be enough. But this was a much more resolute display from the tail. Sakib: "Janith played well. But Bangladeshi bowlers did good job as well. SL has scored 39 runs in the last 5 overs, couldn't hit a sixer..." --- Yes, all credit to Bangladesh bowlers. Forced SL into low risk, low reward cricket. Noman: "@49.5 commentary, if Anamul and Jaker Ali collided then how come crashed into Mehidy?" --- Apologies. Took my cue off broadcast commentary, it's been duly corrected now. Jaker was the injured party, Mehidy was uninvolved. <B>13.55pm</b> Sri Lanka then scrambled and clawed themselves up to 235, after languishing at one point on 154 for 7. That was essentially solely down to Janith Liyanage's 102-ball 101, as he shepherded the tail and dragged Sri Lanka to a total they might just about fancy defending. But this was an innings that belonged to the Bangladesh bowlers. The seamers extracted good movement and kept disciplined lines and lengths to pick up regular wickets, while the dryness in the pitch came to the fore later on to make the spinners also a fairly threatening proposition. Sri Lanka didn't do themselves any favours with some lose strokeplay, and a very poor non-review of the in-form Nissanka's lbw, but they will glad for Liyanage's intervention so their bowlers now have something to work with.

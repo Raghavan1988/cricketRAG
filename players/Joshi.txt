@@ -2,6 +2,7 @@ Match: all_games_1425115_1425121.json
 Balls faced: 1
 Bowler: Jasdeep
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Jasdeep
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -22,16 +24,20 @@ Run scored: 0
 Balls faced: 3
 Bowler: van Schalkwyk
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
+Joshi is OUT! run out
+run out (Milind Kumar/†Patel)
+Rishiv Joshi run out (Milind Kumar/†Patel) 1 (3b 0x4 0x6) SR: 33.33
 
-
-[{"type": "HTML", "html": "Match State: Innings Break"}]Match State: Innings Break
+Match State: Innings Break
 Byes: 1
 Balls faced: 4
 Bowler: Jasdeep
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -42,6 +48,7 @@ Run scored: 1
 Balls faced: 5
 Bowler: Jasdeep
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -52,18 +59,22 @@ Run scored: 0
 Balls faced: 6
 Bowler: van Schalkwyk
 Over: 20
+ 
 Shot: No Shot
 Run scored: 0
 
+Joshi is OUT! run out
+run out (Milind Kumar/†Patel)
+Rishiv Joshi run out (Milind Kumar/†Patel) 1 (3b 0x4 0x6) SR: 33.33
 
-
-[{"type": "HTML", "html": "Match State: Innings Break"}]Match State: Innings Break
+Match State: Innings Break
 Byes: 1
 
 Match: all_games_1425115_1425122.json
 Balls faced: 1
 Bowler: Kenjige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -74,6 +85,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Kenjige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -84,6 +96,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: van Schalkwyk
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 1
 
@@ -94,6 +107,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: van Schalkwyk
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -104,6 +118,7 @@ Wide: 1
 Balls faced: 5
 Bowler: van Schalkwyk
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
@@ -114,6 +129,7 @@ Run scored: 6
 Balls faced: 6
 Bowler: Kenjige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -124,6 +140,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Kenjige
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -134,16 +151,20 @@ Run scored: 1
 Balls faced: 8
 Bowler: Harmeet Singh
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
-
+Joshi is OUT! caught
+c †Patel b Harmeet Singh
+Rishiv Joshi c †Patel b Harmeet Singh 8 (5b 0x4 1x6) SR: 160
 
 
 
 Balls faced: 9
 Bowler: van Schalkwyk
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: SLOG_SHOT
 Run scored: 1
 
@@ -154,6 +175,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: van Schalkwyk
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
 
@@ -164,6 +186,7 @@ Wide: 1
 Balls faced: 11
 Bowler: van Schalkwyk
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
@@ -174,5 +197,10 @@ Run scored: 6
 Balls faced: 12
 Bowler: Harmeet Singh
 Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
+
+Joshi is OUT! caught
+c †Patel b Harmeet Singh
+Rishiv Joshi c †Patel b Harmeet Singh 8 (5b 0x4 1x6) SR: 160

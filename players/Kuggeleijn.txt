@@ -2,41 +2,49 @@ Match: all_games_1388188_1388226.json
 Balls faced: 1
 Bowler: Lyon
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>straight to deep midwicket! </strong>That's awful batting. Uses his feet, tries to clear the leg side but just offers a simple catch on the fence"}]<strong>straight to deep midwicket! </strong>That's awful batting. Uses his feet, tries to clear the leg side but just offers a simple catch on the fence
-[{"type": "HTML", "html": "Proactive batting is one thing, but surely he had to try and play for Phillips? Matt Henry at No. 9. He has the ability to hang around"}]Proactive batting is one thing, but surely he had to try and play for Phillips? Matt Henry at No. 9. He has the ability to hang around
+Kuggeleijn is OUT! caught
+c Green b Lyon
+Scott Kuggeleijn c Green b Lyon 0 (2b 0x4 0x6 2m) SR: 0
+<strong>straight to deep midwicket! </strong>That's awful batting. Uses his feet, tries to clear the leg side but just offers a simple catch on the fence
+Proactive batting is one thing, but surely he had to try and play for Phillips? Matt Henry at No. 9. He has the ability to hang around
 
 Balls faced: 2
 Bowler: Lyon
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>big appeal for lbw!</strong> Sharp spin from outside off, squeezes past the inside edge into the back leg. Probably doing too much"}]<strong>big appeal for lbw!</strong> Sharp spin from outside off, squeezes past the inside edge into the back leg. Probably doing too much
+<strong>big appeal for lbw!</strong> Sharp spin from outside off, squeezes past the inside edge into the back leg. Probably doing too much
 
 
 Balls faced: 3
 Bowler: Lyon
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>straight to deep midwicket! </strong>That's awful batting. Uses his feet, tries to clear the leg side but just offers a simple catch on the fence"}]<strong>straight to deep midwicket! </strong>That's awful batting. Uses his feet, tries to clear the leg side but just offers a simple catch on the fence
-[{"type": "HTML", "html": "Proactive batting is one thing, but surely he had to try and play for Phillips? Matt Henry at No. 9. He has the ability to hang around"}]Proactive batting is one thing, but surely he had to try and play for Phillips? Matt Henry at No. 9. He has the ability to hang around
+Kuggeleijn is OUT! caught
+c Green b Lyon
+Scott Kuggeleijn c Green b Lyon 0 (2b 0x4 0x6 2m) SR: 0
+<strong>straight to deep midwicket! </strong>That's awful batting. Uses his feet, tries to clear the leg side but just offers a simple catch on the fence
+Proactive batting is one thing, but surely he had to try and play for Phillips? Matt Henry at No. 9. He has the ability to hang around
 
 Balls faced: 4
 Bowler: Lyon
 Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>big appeal for lbw!</strong> Sharp spin from outside off, squeezes past the inside edge into the back leg. Probably doing too much"}]<strong>big appeal for lbw!</strong> Sharp spin from outside off, squeezes past the inside edge into the back leg. Probably doing too much
+<strong>big appeal for lbw!</strong> Sharp spin from outside off, squeezes past the inside edge into the back leg. Probably doing too much
 
 
 
@@ -44,19 +52,25 @@ Match: all_games_1388188_1388227.json
 Balls faced: 1
 Bowler: Starc
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Lol the lbw appeal gets upheld before it was completed.</b> Kuggeleijn reviews. Yorker swinging in at leg stump, 141ks if I read that right. The bat, jamming down, was behind the front leg and the ball hit the inner-half of the front boot. Looked more out on first view but it's good enough as Hawk-Eye shows it'd go on to clip leg stump. Starc's 357th wicket comes in like a bonus for going past Lillee"}]<b>Lol the lbw appeal gets upheld before it was completed.</b> Kuggeleijn reviews. Yorker swinging in at leg stump, 141ks if I read that right. The bat, jamming down, was behind the front leg and the ball hit the inner-half of the front boot. Looked more out on first view but it's good enough as Hawk-Eye shows it'd go on to clip leg stump. Starc's 357th wicket comes in like a bonus for going past Lillee
-[{"type": "HTML", "html": "Drinks. Here's Gnasher to finish off the tail"}]Drinks. Here's Gnasher to finish off the tail
+Kuggeleijn is OUT! lbw
+lbw b Starc
+Scott Kuggeleijn lbw b Starc 0 (1b 0x4 0x6 4m) SR: 0
+<b>Lol the lbw appeal gets upheld before it was completed.</b> Kuggeleijn reviews. Yorker swinging in at leg stump, 141ks if I read that right. The bat, jamming down, was behind the front leg and the ball hit the inner-half of the front boot. Looked more out on first view but it's good enough as Hawk-Eye shows it'd go on to clip leg stump. Starc's 357th wicket comes in like a bonus for going past Lillee
+Drinks. Here's Gnasher to finish off the tail
 
 Balls faced: 2
 Bowler: Starc
 Over: 37
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: DEFENDED
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Lol the lbw appeal gets upheld before it was completed.</b> Kuggeleijn reviews. Yorker swinging in at leg stump, 141ks if I read that right. The bat, jamming down, was behind the front leg and the ball hit the inner-half of the front boot. Looked more out on first view but it's good enough as Hawk-Eye shows it'd go on to clip leg stump. Starc's 357th wicket comes in like a bonus for going past Lillee"}]<b>Lol the lbw appeal gets upheld before it was completed.</b> Kuggeleijn reviews. Yorker swinging in at leg stump, 141ks if I read that right. The bat, jamming down, was behind the front leg and the ball hit the inner-half of the front boot. Looked more out on first view but it's good enough as Hawk-Eye shows it'd go on to clip leg stump. Starc's 357th wicket comes in like a bonus for going past Lillee
-[{"type": "HTML", "html": "Drinks. Here's Gnasher to finish off the tail"}]Drinks. Here's Gnasher to finish off the tail
+Kuggeleijn is OUT! lbw
+lbw b Starc
+Scott Kuggeleijn lbw b Starc 0 (1b 0x4 0x6 4m) SR: 0
+<b>Lol the lbw appeal gets upheld before it was completed.</b> Kuggeleijn reviews. Yorker swinging in at leg stump, 141ks if I read that right. The bat, jamming down, was behind the front leg and the ball hit the inner-half of the front boot. Looked more out on first view but it's good enough as Hawk-Eye shows it'd go on to clip leg stump. Starc's 357th wicket comes in like a bonus for going past Lillee
+Drinks. Here's Gnasher to finish off the tail

@@ -2,21 +2,27 @@ Match: all_games_1411166_1415705.json
 Balls faced: 1
 Bowler: Fazalhaq Farooqi
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Captain Masaba walks in. Farooqi goes around the wicket"}]Captain Masaba walks in. Farooqi goes around the wicket
-
-[{"type": "HTML", "html": "<strong>edged and taken! Two in two for Farooqi for the second time this evening!</strong> Length ball hung up way outside off. Masaba goes chasing after it but does so without any real footwork. Nicks it through to Gurbaz, who makes no mistake this time. Afghanistan inch closer to a massive win!"}]<strong>edged and taken! Two in two for Farooqi for the second time this evening!</strong> Length ball hung up way outside off. Masaba goes chasing after it but does so without any real footwork. Nicks it through to Gurbaz, who makes no mistake this time. Afghanistan inch closer to a massive win!
+Captain Masaba walks in. Farooqi goes around the wicket
+Masaba is OUT! caught
+c †Rahmanullah Gurbaz b Fazalhaq Farooqi
+Brian Masaba c †Rahmanullah Gurbaz b Fazalhaq Farooqi 0 (1b 0x4 0x6 1m) SR: 0
+<strong>edged and taken! Two in two for Farooqi for the second time this evening!</strong> Length ball hung up way outside off. Masaba goes chasing after it but does so without any real footwork. Nicks it through to Gurbaz, who makes no mistake this time. Afghanistan inch closer to a massive win!
 
 
 Balls faced: 2
 Bowler: Fazalhaq Farooqi
 Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Captain Masaba walks in. Farooqi goes around the wicket"}]Captain Masaba walks in. Farooqi goes around the wicket
-
-[{"type": "HTML", "html": "<strong>edged and taken! Two in two for Farooqi for the second time this evening!</strong> Length ball hung up way outside off. Masaba goes chasing after it but does so without any real footwork. Nicks it through to Gurbaz, who makes no mistake this time. Afghanistan inch closer to a massive win!"}]<strong>edged and taken! Two in two for Farooqi for the second time this evening!</strong> Length ball hung up way outside off. Masaba goes chasing after it but does so without any real footwork. Nicks it through to Gurbaz, who makes no mistake this time. Afghanistan inch closer to a massive win!
+Captain Masaba walks in. Farooqi goes around the wicket
+Masaba is OUT! caught
+c †Rahmanullah Gurbaz b Fazalhaq Farooqi
+Brian Masaba c †Rahmanullah Gurbaz b Fazalhaq Farooqi 0 (1b 0x4 0x6 1m) SR: 0
+<strong>edged and taken! Two in two for Farooqi for the second time this evening!</strong> Length ball hung up way outside off. Masaba goes chasing after it but does so without any real footwork. Nicks it through to Gurbaz, who makes no mistake this time. Afghanistan inch closer to a massive win!
 
 
 
@@ -24,81 +30,93 @@ Match: all_games_1411166_1415718.json
 Balls faced: 1
 Bowler: Hosein
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted up full on middle and off. Masaba comes forward and pushes it to long off"}]flighted up full on middle and off. Masaba comes forward and pushes it to long off
+flighted up full on middle and off. Masaba comes forward and pushes it to long off
 
 
 Balls faced: 2
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Captain Masaba strides in, with his side in a heap of trouble. Hosein goes back to around the wicket to the right-hander. Two slips in place"}]Captain Masaba strides in, with his side in a heap of trouble. Hosein goes back to around the wicket to the right-hander. Two slips in place
+Captain Masaba strides in, with his side in a heap of trouble. Hosein goes back to around the wicket to the right-hander. Two slips in place
 
-[{"type": "HTML", "html": "length ball angled into off stump. Masaba looks for the paddle sweep but makes a hash of it. Gets struck on the front pad"}]length ball angled into off stump. Masaba looks for the paddle sweep but makes a hash of it. Gets struck on the front pad
+length ball angled into off stump. Masaba looks for the paddle sweep but makes a hash of it. Gets struck on the front pad
 
 
 Balls faced: 3
 Bowler: Alzarri Joseph
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>gloved through to Pooran! Another one bites the dust!</strong> Banged in short on middle and leg. Masaba wants to have a crack at this but he is awfully late on the stroke. The ball gets big on him too and he can only feather it through to the keeper. Joseph in on the wicket-taking act now!"}]<strong>gloved through to Pooran! Another one bites the dust!</strong> Banged in short on middle and leg. Masaba wants to have a crack at this but he is awfully late on the stroke. The ball gets big on him too and he can only feather it through to the keeper. Joseph in on the wicket-taking act now!
+Masaba is OUT! caught
+c †Pooran b Joseph
+Brian Masaba c †Pooran b Joseph 1 (4b 0x4 0x6 8m) SR: 25
+<strong>gloved through to Pooran! Another one bites the dust!</strong> Banged in short on middle and leg. Masaba wants to have a crack at this but he is awfully late on the stroke. The ball gets big on him too and he can only feather it through to the keeper. Joseph in on the wicket-taking act now!
 
 
 Balls faced: 4
 Bowler: Alzarri Joseph
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
-[{"type": "HTML", "html": "Here's Sampath with a couple of stats: Akeal Hosein is the <a href=\"https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI&tournament=mt20wchttp://\">first WI bowler to take a five-wicket haul at the men's T20 World Cup.</a> And he is <a href=\"https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI-by-a-spinner&tournament=menst20i\">also the first WI spinner to take a five-wicket haul in men's T20Is.</a>"}]Here's Sampath with a couple of stats: Akeal Hosein is the <a href="https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI&tournament=mt20wchttp://">first WI bowler to take a five-wicket haul at the men's T20 World Cup.</a> And he is <a href="https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI-by-a-spinner&tournament=menst20i">also the first WI spinner to take a five-wicket haul in men's T20Is.</a>
+Here's Sampath with a couple of stats: Akeal Hosein is the <a href="https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI&tournament=mt20wchttp://">first WI bowler to take a five-wicket haul at the men's T20 World Cup.</a> And he is <a href="https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI-by-a-spinner&tournament=menst20i">also the first WI spinner to take a five-wicket haul in men's T20Is.</a>
 
-[{"type": "HTML", "html": "hard length, slanting into leg stump. Masaba is late on the pull and the ball trickles off the thigh pad behind square"}]hard length, slanting into leg stump. Masaba is late on the pull and the ball trickles off the thigh pad behind square
+hard length, slanting into leg stump. Masaba is late on the pull and the ball trickles off the thigh pad behind square
 
 Legbyes: 1
 Balls faced: 5
 Bowler: Hosein
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted up full on middle and off. Masaba comes forward and pushes it to long off"}]flighted up full on middle and off. Masaba comes forward and pushes it to long off
+flighted up full on middle and off. Masaba comes forward and pushes it to long off
 
 
 Balls faced: 6
 Bowler: Hosein
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Captain Masaba strides in, with his side in a heap of trouble. Hosein goes back to around the wicket to the right-hander. Two slips in place"}]Captain Masaba strides in, with his side in a heap of trouble. Hosein goes back to around the wicket to the right-hander. Two slips in place
+Captain Masaba strides in, with his side in a heap of trouble. Hosein goes back to around the wicket to the right-hander. Two slips in place
 
-[{"type": "HTML", "html": "length ball angled into off stump. Masaba looks for the paddle sweep but makes a hash of it. Gets struck on the front pad"}]length ball angled into off stump. Masaba looks for the paddle sweep but makes a hash of it. Gets struck on the front pad
+length ball angled into off stump. Masaba looks for the paddle sweep but makes a hash of it. Gets struck on the front pad
 
 
 Balls faced: 7
 Bowler: Alzarri Joseph
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>gloved through to Pooran! Another one bites the dust!</strong> Banged in short on middle and leg. Masaba wants to have a crack at this but he is awfully late on the stroke. The ball gets big on him too and he can only feather it through to the keeper. Joseph in on the wicket-taking act now!"}]<strong>gloved through to Pooran! Another one bites the dust!</strong> Banged in short on middle and leg. Masaba wants to have a crack at this but he is awfully late on the stroke. The ball gets big on him too and he can only feather it through to the keeper. Joseph in on the wicket-taking act now!
+Masaba is OUT! caught
+c †Pooran b Joseph
+Brian Masaba c †Pooran b Joseph 1 (4b 0x4 0x6 8m) SR: 25
+<strong>gloved through to Pooran! Another one bites the dust!</strong> Banged in short on middle and leg. Masaba wants to have a crack at this but he is awfully late on the stroke. The ball gets big on him too and he can only feather it through to the keeper. Joseph in on the wicket-taking act now!
 
 
 Balls faced: 8
 Bowler: Alzarri Joseph
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
-[{"type": "HTML", "html": "Here's Sampath with a couple of stats: Akeal Hosein is the <a href=\"https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI&tournament=mt20wchttp://\">first WI bowler to take a five-wicket haul at the men's T20 World Cup.</a> And he is <a href=\"https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI-by-a-spinner&tournament=menst20i\">also the first WI spinner to take a five-wicket haul in men's T20Is.</a>"}]Here's Sampath with a couple of stats: Akeal Hosein is the <a href="https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI&tournament=mt20wchttp://">first WI bowler to take a five-wicket haul at the men's T20 World Cup.</a> And he is <a href="https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI-by-a-spinner&tournament=menst20i">also the first WI spinner to take a five-wicket haul in men's T20Is.</a>
+Here's Sampath with a couple of stats: Akeal Hosein is the <a href="https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI&tournament=mt20wchttp://">first WI bowler to take a five-wicket haul at the men's T20 World Cup.</a> And he is <a href="https://www.espncricinfo.com/ask/cricket-qna/best-bowling-figures-for-WI-by-a-spinner&tournament=menst20i">also the first WI spinner to take a five-wicket haul in men's T20Is.</a>
 
-[{"type": "HTML", "html": "hard length, slanting into leg stump. Masaba is late on the pull and the ball trickles off the thigh pad behind square"}]hard length, slanting into leg stump. Masaba is late on the pull and the ball trickles off the thigh pad behind square
+hard length, slanting into leg stump. Masaba is late on the pull and the ball trickles off the thigh pad behind square
 
 Legbyes: 1
 
@@ -106,398 +124,438 @@ Match: all_games_1411166_1415732.json
 Balls faced: 1
 Bowler: Ravindra
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Comes off very sluggishly and Masaba misses his paddle sweep completely. Conway is nutmegged too and Uganda get a couple of byes for their toil. Not a great deal of bounce again"}]length outside off. Comes off very sluggishly and Masaba misses his paddle sweep completely. Conway is nutmegged too and Uganda get a couple of byes for their toil. Not a great deal of bounce again
+length outside off. Comes off very sluggishly and Masaba misses his paddle sweep completely. Conway is nutmegged too and Uganda get a couple of byes for their toil. Not a great deal of bounce again
 
 Byes: 2
 Balls faced: 2
 Bowler: Ravindra
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length outside off. Masaba hangs back and prods it into the off side"}]back of a length outside off. Masaba hangs back and prods it into the off side
+back of a length outside off. Masaba hangs back and prods it into the off side
 
 
 Balls faced: 3
 Bowler: Ravindra
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up on a length outside off. Masaba jumps across his stumps, trying to swipe it away. Misses the ball by a fair margin after being defeated in the air. Conway whips off the bails too and the third umpire has been called into question to check the stumping. <b>Masaba's back foot is grounded behind the crease, so nothing fruitful for the Kiwis on that front!</b>"}]tossed up on a length outside off. Masaba jumps across his stumps, trying to swipe it away. Misses the ball by a fair margin after being defeated in the air. Conway whips off the bails too and the third umpire has been called into question to check the stumping. <b>Masaba's back foot is grounded behind the crease, so nothing fruitful for the Kiwis on that front!</b>
+tossed up on a length outside off. Masaba jumps across his stumps, trying to swipe it away. Misses the ball by a fair margin after being defeated in the air. Conway whips off the bails too and the third umpire has been called into question to check the stumping. <b>Masaba's back foot is grounded behind the crease, so nothing fruitful for the Kiwis on that front!</b>
 
 
 Balls faced: 4
 Bowler: Ravindra
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Captain Masaba strides out"}, {"type": "HTML", "html": "max : \"What is the atmosphere on field like? How are New Zealand celebrating? I imagine still quite low-key despite the good position they're in \" -- New Zealand have been very professional in how they have gone about things. No real fuss about anything, just sticking to doing their job"}]Captain Masaba strides out max : "What is the atmosphere on field like? How are New Zealand celebrating? I imagine still quite low-key despite the good position they're in " -- New Zealand have been very professional in how they have gone about things. No real fuss about anything, just sticking to doing their job
+Captain Masaba strides out max : "What is the atmosphere on field like? How are New Zealand celebrating? I imagine still quite low-key despite the good position they're in " -- New Zealand have been very professional in how they have gone about things. No real fuss about anything, just sticking to doing their job
 
-[{"type": "HTML", "html": "shortish on off. Keeps low and Masaba stabs it off the back foot towards short extra cover"}]shortish on off. Keeps low and Masaba stabs it off the back foot towards short extra cover
+shortish on off. Keeps low and Masaba stabs it off the back foot towards short extra cover
 
 
 Balls faced: 5
 Bowler: Ferguson
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Masaba gets up on his toes and defends"}]back of a length just outside off. Masaba gets up on his toes and defends
+back of a length just outside off. Masaba gets up on his toes and defends
 
 
 Balls faced: 6
 Bowler: Ferguson
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "much fuller, slanted into the pads. Masaba works it towards mid wicket"}]much fuller, slanted into the pads. Masaba works it towards mid wicket
+much fuller, slanted into the pads. Masaba works it towards mid wicket
 
 
 Balls faced: 7
 Bowler: Ferguson
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length outside off. Nips back in sharply and pings Masaba very high on the bat. Almost near the handle"}]hard length outside off. Nips back in sharply and pings Masaba very high on the bat. Almost near the handle
+hard length outside off. Nips back in sharply and pings Masaba very high on the bat. Almost near the handle
 
 
 Balls faced: 8
 Bowler: Ferguson
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length just outside off. Bounces extra and hits Masaba on the splice as he defends"}]hard length just outside off. Bounces extra and hits Masaba on the splice as he defends
+hard length just outside off. Bounces extra and hits Masaba on the splice as he defends
 
 
 Balls faced: 9
 Bowler: Ferguson
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track outside off. Masaba watches it go through to the keeper"}]banged into the track outside off. Masaba watches it go through to the keeper
+banged into the track outside off. Masaba watches it go through to the keeper
 
 
 Balls faced: 10
 Bowler: Ravindra
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Comes off very sluggishly and Masaba misses his paddle sweep completely. Conway is nutmegged too and Uganda get a couple of byes for their toil. Not a great deal of bounce again"}]length outside off. Comes off very sluggishly and Masaba misses his paddle sweep completely. Conway is nutmegged too and Uganda get a couple of byes for their toil. Not a great deal of bounce again
+length outside off. Comes off very sluggishly and Masaba misses his paddle sweep completely. Conway is nutmegged too and Uganda get a couple of byes for their toil. Not a great deal of bounce again
 
 Byes: 2
 Balls faced: 11
 Bowler: Ravindra
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length outside off. Masaba hangs back and prods it into the off side"}]back of a length outside off. Masaba hangs back and prods it into the off side
+back of a length outside off. Masaba hangs back and prods it into the off side
 
 
 Balls faced: 12
 Bowler: Ravindra
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "tossed up on a length outside off. Masaba jumps across his stumps, trying to swipe it away. Misses the ball by a fair margin after being defeated in the air. Conway whips off the bails too and the third umpire has been called into question to check the stumping. <b>Masaba's back foot is grounded behind the crease, so nothing fruitful for the Kiwis on that front!</b>"}]tossed up on a length outside off. Masaba jumps across his stumps, trying to swipe it away. Misses the ball by a fair margin after being defeated in the air. Conway whips off the bails too and the third umpire has been called into question to check the stumping. <b>Masaba's back foot is grounded behind the crease, so nothing fruitful for the Kiwis on that front!</b>
+tossed up on a length outside off. Masaba jumps across his stumps, trying to swipe it away. Misses the ball by a fair margin after being defeated in the air. Conway whips off the bails too and the third umpire has been called into question to check the stumping. <b>Masaba's back foot is grounded behind the crease, so nothing fruitful for the Kiwis on that front!</b>
 
 
 Balls faced: 13
 Bowler: Ravindra
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Captain Masaba strides out"}, {"type": "HTML", "html": "max : \"What is the atmosphere on field like? How are New Zealand celebrating? I imagine still quite low-key despite the good position they're in \" -- New Zealand have been very professional in how they have gone about things. No real fuss about anything, just sticking to doing their job"}]Captain Masaba strides out max : "What is the atmosphere on field like? How are New Zealand celebrating? I imagine still quite low-key despite the good position they're in " -- New Zealand have been very professional in how they have gone about things. No real fuss about anything, just sticking to doing their job
+Captain Masaba strides out max : "What is the atmosphere on field like? How are New Zealand celebrating? I imagine still quite low-key despite the good position they're in " -- New Zealand have been very professional in how they have gone about things. No real fuss about anything, just sticking to doing their job
 
-[{"type": "HTML", "html": "shortish on off. Keeps low and Masaba stabs it off the back foot towards short extra cover"}]shortish on off. Keeps low and Masaba stabs it off the back foot towards short extra cover
+shortish on off. Keeps low and Masaba stabs it off the back foot towards short extra cover
 
 
 Balls faced: 14
 Bowler: Ravindra
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled into the stumps. Masaba keeps it out without much fuss. Another dot, though"}]angled into the stumps. Masaba keeps it out without much fuss. Another dot, though
+angled into the stumps. Masaba keeps it out without much fuss. Another dot, though
 
 
 Balls faced: 15
 Bowler: Ferguson
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Masaba gets up on his toes and defends"}]back of a length just outside off. Masaba gets up on his toes and defends
+back of a length just outside off. Masaba gets up on his toes and defends
 
 
 Balls faced: 16
 Bowler: Ferguson
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "much fuller, slanted into the pads. Masaba works it towards mid wicket"}]much fuller, slanted into the pads. Masaba works it towards mid wicket
+much fuller, slanted into the pads. Masaba works it towards mid wicket
 
 
 Balls faced: 17
 Bowler: Ferguson
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length outside off. Nips back in sharply and pings Masaba very high on the bat. Almost near the handle"}]hard length outside off. Nips back in sharply and pings Masaba very high on the bat. Almost near the handle
+hard length outside off. Nips back in sharply and pings Masaba very high on the bat. Almost near the handle
 
 
 Balls faced: 18
 Bowler: Ferguson
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length just outside off. Bounces extra and hits Masaba on the splice as he defends"}]hard length just outside off. Bounces extra and hits Masaba on the splice as he defends
+hard length just outside off. Bounces extra and hits Masaba on the splice as he defends
 
 
 Balls faced: 19
 Bowler: Ferguson
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track outside off. Masaba watches it go through to the keeper"}]banged into the track outside off. Masaba watches it go through to the keeper
+banged into the track outside off. Masaba watches it go through to the keeper
 
 
 Balls faced: 20
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length in the channel. Masaba goes feeling for it without any footwork and is beaten on the outside"}]length in the channel. Masaba goes feeling for it without any footwork and is beaten on the outside
+length in the channel. Masaba goes feeling for it without any footwork and is beaten on the outside
 
 
 Balls faced: 21
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Ferguson is causing Masaba all sorts of problems with the steep bounce he is getting"}]Ferguson is causing Masaba all sorts of problems with the steep bounce he is getting
+Ferguson is causing Masaba all sorts of problems with the steep bounce he is getting
 
-[{"type": "HTML", "html": "length in the channel just outside off. Zips off the surface and breezes past the outside edge of Masaba's booming drive"}]length in the channel just outside off. Zips off the surface and breezes past the outside edge of Masaba's booming drive
+length in the channel just outside off. Zips off the surface and breezes past the outside edge of Masaba's booming drive
 
 
 Balls faced: 22
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off. A bit of extra bounce and Masaba plonks it back towards the bowler"}]back of a length on off. A bit of extra bounce and Masaba plonks it back towards the bowler
+back of a length on off. A bit of extra bounce and Masaba plonks it back towards the bowler
 
 
 Balls faced: 23
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bumper on leg stump and Ferguson gets away with this. Seemed to slide down leg but the umpire is happy with it"}]bumper on leg stump and Ferguson gets away with this. Seemed to slide down leg but the umpire is happy with it
+bumper on leg stump and Ferguson gets away with this. Seemed to slide down leg but the umpire is happy with it
 
 
 Balls faced: 24
 Bowler: Ravindra
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "angled into the stumps. Masaba keeps it out without much fuss. Another dot, though"}]angled into the stumps. Masaba keeps it out without much fuss. Another dot, though
+angled into the stumps. Masaba keeps it out without much fuss. Another dot, though
 
 
 Balls faced: 25
 Bowler: Ravindra
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slow and short outside off. Masaba hangs back and knocks it to long on"}]slow and short outside off. Masaba hangs back and knocks it to long on
+slow and short outside off. Masaba hangs back and knocks it to long on
 
 
 Balls faced: 26
 Bowler: Ravindra
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length outside off. Masaba moves across his stumps and helps it round the corner towards deep backward square leg. Finally, off the mark"}]length outside off. Masaba moves across his stumps and helps it round the corner towards deep backward square leg. Finally, off the mark
+length outside off. Masaba moves across his stumps and helps it round the corner towards deep backward square leg. Finally, off the mark
 
 
 Balls faced: 27
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length in the channel. Masaba goes feeling for it without any footwork and is beaten on the outside"}]length in the channel. Masaba goes feeling for it without any footwork and is beaten on the outside
+length in the channel. Masaba goes feeling for it without any footwork and is beaten on the outside
 
 
 Balls faced: 28
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Ferguson is causing Masaba all sorts of problems with the steep bounce he is getting"}]Ferguson is causing Masaba all sorts of problems with the steep bounce he is getting
+Ferguson is causing Masaba all sorts of problems with the steep bounce he is getting
 
-[{"type": "HTML", "html": "length in the channel just outside off. Zips off the surface and breezes past the outside edge of Masaba's booming drive"}]length in the channel just outside off. Zips off the surface and breezes past the outside edge of Masaba's booming drive
+length in the channel just outside off. Zips off the surface and breezes past the outside edge of Masaba's booming drive
 
 
 Balls faced: 29
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off. A bit of extra bounce and Masaba plonks it back towards the bowler"}]back of a length on off. A bit of extra bounce and Masaba plonks it back towards the bowler
+back of a length on off. A bit of extra bounce and Masaba plonks it back towards the bowler
 
 
 Balls faced: 30
 Bowler: Ferguson
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "bumper on leg stump and Ferguson gets away with this. Seemed to slide down leg but the umpire is happy with it"}]bumper on leg stump and Ferguson gets away with this. Seemed to slide down leg but the umpire is happy with it
+bumper on leg stump and Ferguson gets away with this. Seemed to slide down leg but the umpire is happy with it
 
 
 Balls faced: 31
 Bowler: Boult
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Over the wicket now"}]Over the wicket now
+Over the wicket now
 
-[{"type": "HTML", "html": "shortish just outside off. Masaba gets on top of the bounce and dabs it past backward point"}]shortish just outside off. Masaba gets on top of the bounce and dabs it past backward point
+shortish just outside off. Masaba gets on top of the bounce and dabs it past backward point
 
 
 Balls faced: 32
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish, angling into middle and off. Masaba stabs at it and chunks it off the inside half of the bat towards mid wicket"}]fullish, angling into middle and off. Masaba stabs at it and chunks it off the inside half of the bat towards mid wicket
+fullish, angling into middle and off. Masaba stabs at it and chunks it off the inside half of the bat towards mid wicket
 
 
 Balls faced: 33
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Masaba has a massive waft at it and only connects with fresh air"}]length outside off. Masaba has a massive waft at it and only connects with fresh air
+length outside off. Masaba has a massive waft at it and only connects with fresh air
 
 
 Balls faced: 34
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Boult back for his final over. He would love another wicket here. Around the wicket"}]Boult back for his final over. He would love another wicket here. Around the wicket
+Boult back for his final over. He would love another wicket here. Around the wicket
 
-[{"type": "HTML", "html": "back of a length outside off. Kisses the surface and whizzes through, whistling past the outside edge of Masaba's bat"}]back of a length outside off. Kisses the surface and whizzes through, whistling past the outside edge of Masaba's bat
+back of a length outside off. Kisses the surface and whizzes through, whistling past the outside edge of Masaba's bat
 
 
 Balls faced: 35
 Bowler: Ravindra
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slow and short outside off. Masaba hangs back and knocks it to long on"}]slow and short outside off. Masaba hangs back and knocks it to long on
+slow and short outside off. Masaba hangs back and knocks it to long on
 
 
 Balls faced: 36
 Bowler: Ravindra
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PADDLE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length outside off. Masaba moves across his stumps and helps it round the corner towards deep backward square leg. Finally, off the mark"}]length outside off. Masaba moves across his stumps and helps it round the corner towards deep backward square leg. Finally, off the mark
+length outside off. Masaba moves across his stumps and helps it round the corner towards deep backward square leg. Finally, off the mark
 
 
 Balls faced: 37
 Bowler: Boult
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
-[{"type": "HTML", "html": "Over the wicket now"}]Over the wicket now
+Over the wicket now
 
-[{"type": "HTML", "html": "shortish just outside off. Masaba gets on top of the bounce and dabs it past backward point"}]shortish just outside off. Masaba gets on top of the bounce and dabs it past backward point
+shortish just outside off. Masaba gets on top of the bounce and dabs it past backward point
 
 
 Balls faced: 38
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish, angling into middle and off. Masaba stabs at it and chunks it off the inside half of the bat towards mid wicket"}]fullish, angling into middle and off. Masaba stabs at it and chunks it off the inside half of the bat towards mid wicket
+fullish, angling into middle and off. Masaba stabs at it and chunks it off the inside half of the bat towards mid wicket
 
 
 Balls faced: 39
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off. Masaba has a massive waft at it and only connects with fresh air"}]length outside off. Masaba has a massive waft at it and only connects with fresh air
+length outside off. Masaba has a massive waft at it and only connects with fresh air
 
 
 Balls faced: 40
 Bowler: Boult
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Boult back for his final over. He would love another wicket here. Around the wicket"}]Boult back for his final over. He would love another wicket here. Around the wicket
+Boult back for his final over. He would love another wicket here. Around the wicket
 
-[{"type": "HTML", "html": "back of a length outside off. Kisses the surface and whizzes through, whistling past the outside edge of Masaba's bat"}]back of a length outside off. Kisses the surface and whizzes through, whistling past the outside edge of Masaba's bat
+back of a length outside off. Kisses the surface and whizzes through, whistling past the outside edge of Masaba's bat

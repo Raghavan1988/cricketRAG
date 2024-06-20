@@ -2,1728 +2,1901 @@ Match: all_games_1434282_1434288.json
 Balls faced: 1
 Bowler: Mlaba
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>oh!</strong> Slowed up on a length on off. Harmanpreet looks for the paddle-sweep first up and misses. Trickles off the front pad towards short third"}]<strong>oh!</strong> Slowed up on a length on off. Harmanpreet looks for the paddle-sweep first up and misses. Trickles off the front pad towards short third
+<strong>oh!</strong> Slowed up on a length on off. Harmanpreet looks for the paddle-sweep first up and misses. Trickles off the front pad towards short third
 
 
 Balls faced: 2
 Bowler: Bosch
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full just outside off. Harmanpreet comes forward and knocks it to long on"}]full just outside off. Harmanpreet comes forward and knocks it to long on
+full just outside off. Harmanpreet comes forward and knocks it to long on
 
 
 Balls faced: 3
 Bowler: Mlaba
 Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>oh!</strong> Slowed up on a length on off. Harmanpreet looks for the paddle-sweep first up and misses. Trickles off the front pad towards short third"}]<strong>oh!</strong> Slowed up on a length on off. Harmanpreet looks for the paddle-sweep first up and misses. Trickles off the front pad towards short third
+<strong>oh!</strong> Slowed up on a length on off. Harmanpreet looks for the paddle-sweep first up and misses. Trickles off the front pad towards short third
 
 
 Balls faced: 4
 Bowler: Mlaba
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "quicker and flatter this time, but Kaur isn't changing her plan of dealing with Mlaba. Gets down low again, paddles it fine again."}]quicker and flatter this time, but Kaur isn't changing her plan of dealing with Mlaba. Gets down low again, paddles it fine again.
+quicker and flatter this time, but Kaur isn't changing her plan of dealing with Mlaba. Gets down low again, paddles it fine again.
 
 
 Balls faced: 5
 Bowler: Mlaba
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "flighted delivery, on a length outside off, Kaur gets far across to the offside and paddles fine again. This time she gives the fielder in the deep a little more work to do, so they get a couple"}]flighted delivery, on a length outside off, Kaur gets far across to the offside and paddles fine again. This time she gives the fielder in the deep a little more work to do, so they get a couple
+flighted delivery, on a length outside off, Kaur gets far across to the offside and paddles fine again. This time she gives the fielder in the deep a little more work to do, so they get a couple
 
 
 Balls faced: 6
 Bowler: Mlaba
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted and bowled full outside off, Kaur gets far across outside off, and paddles it towards backward square"}]flighted and bowled full outside off, Kaur gets far across outside off, and paddles it towards backward square
+flighted and bowled full outside off, Kaur gets far across outside off, and paddles it towards backward square
 
 
 Balls faced: 7
 Bowler: Mlaba
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Thanks Shashwat"}]Thanks Shashwat
+Thanks Shashwat
 
-[{"type": "HTML", "html": "Kaur gets hurried by the arm ball, bu tjust manages to get her bat down in time, she would've been plumb in front if she'd missed"}]Kaur gets hurried by the arm ball, bu tjust manages to get her bat down in time, she would've been plumb in front if she'd missed
+Kaur gets hurried by the arm ball, bu tjust manages to get her bat down in time, she would've been plumb in front if she'd missed
 
 
 Balls faced: 8
 Bowler: Bosch
 Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full just outside off. Harmanpreet comes forward and knocks it to long on"}]full just outside off. Harmanpreet comes forward and knocks it to long on
+full just outside off. Harmanpreet comes forward and knocks it to long on
 
 
 Balls faced: 9
 Bowler: Luus
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and leg, flicked away to deep square leg"}]length ball on middle and leg, flicked away to deep square leg
+length ball on middle and leg, flicked away to deep square leg
 
 
 Balls faced: 10
 Bowler: Luus
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted generously again, full length on off stump, Kaur gets forward and drives to long-on"}]flighted generously again, full length on off stump, Kaur gets forward and drives to long-on
+flighted generously again, full length on off stump, Kaur gets forward and drives to long-on
 
 
 Balls faced: 11
 Bowler: Luus
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball, pitching on middle and leg and turning a bit further down leg, turned away to short fine"}]length ball, pitching on middle and leg and turning a bit further down leg, turned away to short fine
+length ball, pitching on middle and leg and turning a bit further down leg, turned away to short fine
 
 
 Balls faced: 12
 Bowler: Luus
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Just one over for Bosch, Sune Luus is on now"}]Just one over for Bosch, Sune Luus is on now
+Just one over for Bosch, Sune Luus is on now
 
-[{"type": "HTML", "html": "slips it down leg first up, Kaur looks to paddle again but doesn't make any contact"}]slips it down leg first up, Kaur looks to paddle again but doesn't make any contact
+slips it down leg first up, Kaur looks to paddle again but doesn't make any contact
 
 
 Balls faced: 13
 Bowler: Mlaba
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "quicker and flatter this time, but Kaur isn't changing her plan of dealing with Mlaba. Gets down low again, paddles it fine again."}]quicker and flatter this time, but Kaur isn't changing her plan of dealing with Mlaba. Gets down low again, paddles it fine again.
+quicker and flatter this time, but Kaur isn't changing her plan of dealing with Mlaba. Gets down low again, paddles it fine again.
 
 
 Balls faced: 14
 Bowler: Mlaba
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "flighted delivery, on a length outside off, Kaur gets far across to the offside and paddles fine again. This time she gives the fielder in the deep a little more work to do, so they get a couple"}]flighted delivery, on a length outside off, Kaur gets far across to the offside and paddles fine again. This time she gives the fielder in the deep a little more work to do, so they get a couple
+flighted delivery, on a length outside off, Kaur gets far across to the offside and paddles fine again. This time she gives the fielder in the deep a little more work to do, so they get a couple
 
 
 Balls faced: 15
 Bowler: Mlaba
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted and bowled full outside off, Kaur gets far across outside off, and paddles it towards backward square"}]flighted and bowled full outside off, Kaur gets far across outside off, and paddles it towards backward square
+flighted and bowled full outside off, Kaur gets far across outside off, and paddles it towards backward square
 
 
 Balls faced: 16
 Bowler: Mlaba
 Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Thanks Shashwat"}]Thanks Shashwat
+Thanks Shashwat
 
-[{"type": "HTML", "html": "Kaur gets hurried by the arm ball, bu tjust manages to get her bat down in time, she would've been plumb in front if she'd missed"}]Kaur gets hurried by the arm ball, bu tjust manages to get her bat down in time, she would've been plumb in front if she'd missed
+Kaur gets hurried by the arm ball, bu tjust manages to get her bat down in time, she would've been plumb in front if she'd missed
 
 
 Balls faced: 17
 Bowler: Mlaba
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide again, Kaur cuts again, but this time the fielder is in the deep at point, so they get only one"}]short and wide again, Kaur cuts again, but this time the fielder is in the deep at point, so they get only one
+short and wide again, Kaur cuts again, but this time the fielder is in the deep at point, so they get only one
 
 
 Balls faced: 18
 Bowler: Mlaba
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Kaur will be annoyed with herself for missing out. Filthy long hop, wide of off stump. The Indian skipper cuts powerfully, but can't beat the fielder at cover point"}]Kaur will be annoyed with herself for missing out. Filthy long hop, wide of off stump. The Indian skipper cuts powerfully, but can't beat the fielder at cover point
+Kaur will be annoyed with herself for missing out. Filthy long hop, wide of off stump. The Indian skipper cuts powerfully, but can't beat the fielder at cover point
 
 
 Balls faced: 19
 Bowler: Mlaba
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a bit shorter and wider this time, cut away to backward point"}]a bit shorter and wider this time, cut away to backward point
+a bit shorter and wider this time, cut away to backward point
 
 
 Balls faced: 20
 Bowler: Mlaba
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball just outside off stump, this time Kaur looks to late cut, but doesn't get enough timing on it and doesn't place it either side of short third as well"}]length ball just outside off stump, this time Kaur looks to late cut, but doesn't get enough timing on it and doesn't place it either side of short third as well
+length ball just outside off stump, this time Kaur looks to late cut, but doesn't get enough timing on it and doesn't place it either side of short third as well
 
 
 Balls faced: 21
 Bowler: Mlaba
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 2
-[{"type": "HTML", "html": "Mandhana's motoring here for India. How can South Africa put the brakes on? For now, Mlaba continues."}]Mandhana's motoring here for India. How can South Africa put the brakes on? For now, Mlaba continues.
+Mandhana's motoring here for India. How can South Africa put the brakes on? For now, Mlaba continues.
 
-[{"type": "HTML", "html": "length ball outside off, Kaur paddles fine, deep square runs around to her right to collect, batters take two easily"}]length ball outside off, Kaur paddles fine, deep square runs around to her right to collect, batters take two easily
+length ball outside off, Kaur paddles fine, deep square runs around to her right to collect, batters take two easily
 
 
 Balls faced: 22
 Bowler: Luus
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and leg, flicked away to deep square leg"}]length ball on middle and leg, flicked away to deep square leg
+length ball on middle and leg, flicked away to deep square leg
 
 
 Balls faced: 23
 Bowler: Luus
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flighted generously again, full length on off stump, Kaur gets forward and drives to long-on"}]flighted generously again, full length on off stump, Kaur gets forward and drives to long-on
+flighted generously again, full length on off stump, Kaur gets forward and drives to long-on
 
 
 Balls faced: 24
 Bowler: Luus
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball, pitching on middle and leg and turning a bit further down leg, turned away to short fine"}]length ball, pitching on middle and leg and turning a bit further down leg, turned away to short fine
+length ball, pitching on middle and leg and turning a bit further down leg, turned away to short fine
 
 
 Balls faced: 25
 Bowler: Luus
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Just one over for Bosch, Sune Luus is on now"}]Just one over for Bosch, Sune Luus is on now
+Just one over for Bosch, Sune Luus is on now
 
-[{"type": "HTML", "html": "slips it down leg first up, Kaur looks to paddle again but doesn't make any contact"}]slips it down leg first up, Kaur looks to paddle again but doesn't make any contact
+slips it down leg first up, Kaur looks to paddle again but doesn't make any contact
 
 
 Balls faced: 26
 Bowler: Luus
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide again, cut away, Brits dives to her right at cover point but doesn't stop it cleanly, so they get through for a run and Kaur will keep strike"}]short and wide again, cut away, Brits dives to her right at cover point but doesn't stop it cleanly, so they get through for a run and Kaur will keep strike
+short and wide again, cut away, Brits dives to her right at cover point but doesn't stop it cleanly, so they get through for a run and Kaur will keep strike
 
 
 Balls faced: 27
 Bowler: Luus
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>now she gets the boundary she's been itching for! </strong>Luus drops this one short, Kaur rocks back and muscles a pull away in front of square"}]<strong>now she gets the boundary she's been itching for! </strong>Luus drops this one short, Kaur rocks back and muscles a pull away in front of square
+<strong>now she gets the boundary she's been itching for! </strong>Luus drops this one short, Kaur rocks back and muscles a pull away in front of square
 
 
 Balls faced: 28
 Bowler: Luus
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on middle and leg, swept straight to short fine"}]length ball on middle and leg, swept straight to short fine
+length ball on middle and leg, swept straight to short fine
 
 
 Balls faced: 29
 Bowler: Luus
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, just outside off, Kaur goes for the big cut shot, but it's too close to her to be playing that shot"}]short of a length, just outside off, Kaur goes for the big cut shot, but it's too close to her to be playing that shot
+short of a length, just outside off, Kaur goes for the big cut shot, but it's too close to her to be playing that shot
 
 
 Balls faced: 30
 Bowler: Mlaba
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide again, Kaur cuts again, but this time the fielder is in the deep at point, so they get only one"}]short and wide again, Kaur cuts again, but this time the fielder is in the deep at point, so they get only one
+short and wide again, Kaur cuts again, but this time the fielder is in the deep at point, so they get only one
 
 
 Balls faced: 31
 Bowler: Mlaba
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Kaur will be annoyed with herself for missing out. Filthy long hop, wide of off stump. The Indian skipper cuts powerfully, but can't beat the fielder at cover point"}]Kaur will be annoyed with herself for missing out. Filthy long hop, wide of off stump. The Indian skipper cuts powerfully, but can't beat the fielder at cover point
+Kaur will be annoyed with herself for missing out. Filthy long hop, wide of off stump. The Indian skipper cuts powerfully, but can't beat the fielder at cover point
 
 
 Balls faced: 32
 Bowler: Mlaba
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a bit shorter and wider this time, cut away to backward point"}]a bit shorter and wider this time, cut away to backward point
+a bit shorter and wider this time, cut away to backward point
 
 
 Balls faced: 33
 Bowler: Mlaba
 Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball just outside off stump, this time Kaur looks to late cut, but doesn't get enough timing on it and doesn't place it either side of short third as well"}]length ball just outside off stump, this time Kaur looks to late cut, but doesn't get enough timing on it and doesn't place it either side of short third as well
+length ball just outside off stump, this time Kaur looks to late cut, but doesn't get enough timing on it and doesn't place it either side of short third as well
 
 
 Balls faced: 34
 Bowler: Mlaba
 Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 2
-[{"type": "HTML", "html": "Mandhana's motoring here for India. How can South Africa put the brakes on? For now, Mlaba continues."}]Mandhana's motoring here for India. How can South Africa put the brakes on? For now, Mlaba continues.
+Mandhana's motoring here for India. How can South Africa put the brakes on? For now, Mlaba continues.
 
-[{"type": "HTML", "html": "length ball outside off, Kaur paddles fine, deep square runs around to her right to collect, batters take two easily"}]length ball outside off, Kaur paddles fine, deep square runs around to her right to collect, batters take two easily
+length ball outside off, Kaur paddles fine, deep square runs around to her right to collect, batters take two easily
 
 
 Balls faced: 35
 Bowler: de Klerk
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball again, pitching on a length around off stump, Kaur flicks to midwicket"}]slower ball again, pitching on a length around off stump, Kaur flicks to midwicket
+slower ball again, pitching on a length around off stump, Kaur flicks to midwicket
 
 
 Balls faced: 36
 Bowler: de Klerk
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short and wide, cut away wide of third, who runs to her right and makes a diving stop to save a boundary, but can't stop the batters from coming back from the second run"}]short and wide, cut away wide of third, who runs to her right and makes a diving stop to save a boundary, but can't stop the batters from coming back from the second run
+short and wide, cut away wide of third, who runs to her right and makes a diving stop to save a boundary, but can't stop the batters from coming back from the second run
 
 
 Balls faced: 37
 Bowler: de Klerk
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Lucky boundary for Kaur!</strong> Slower ball, pitched on a length outside off, and seemed to spin back into the batter. Kaur went for the big booming drive, but got an inside edge just past the stumps and to the wicketkeeper's left"}]<strong>Lucky boundary for Kaur!</strong> Slower ball, pitched on a length outside off, and seemed to spin back into the batter. Kaur went for the big booming drive, but got an inside edge just past the stumps and to the wicketkeeper's left
+<strong>Lucky boundary for Kaur!</strong> Slower ball, pitched on a length outside off, and seemed to spin back into the batter. Kaur went for the big booming drive, but got an inside edge just past the stumps and to the wicketkeeper's left
 
 
 Balls faced: 38
 Bowler: de Klerk
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length, just outside off, Kaur goes for the big cover drive again, gets a thick outside edge down to third"}]good length, just outside off, Kaur goes for the big cover drive again, gets a thick outside edge down to third
+good length, just outside off, Kaur goes for the big cover drive again, gets a thick outside edge down to third
 
 
 Balls faced: 39
 Bowler: de Klerk
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "superb fielding from Kapp at sweeper cover! Floaty half volley from de Klerk, Kaur strides into it and plays a superb cover drive. Kapp covered a lot of ground to her right and made an excellent diving stop"}]superb fielding from Kapp at sweeper cover! Floaty half volley from de Klerk, Kaur strides into it and plays a superb cover drive. Kapp covered a lot of ground to her right and made an excellent diving stop
+superb fielding from Kapp at sweeper cover! Floaty half volley from de Klerk, Kaur strides into it and plays a superb cover drive. Kapp covered a lot of ground to her right and made an excellent diving stop
 
 
 Balls faced: 40
 Bowler: Luus
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide again, cut away, Brits dives to her right at cover point but doesn't stop it cleanly, so they get through for a run and Kaur will keep strike"}]short and wide again, cut away, Brits dives to her right at cover point but doesn't stop it cleanly, so they get through for a run and Kaur will keep strike
+short and wide again, cut away, Brits dives to her right at cover point but doesn't stop it cleanly, so they get through for a run and Kaur will keep strike
 
 
 Balls faced: 41
 Bowler: Luus
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>now she gets the boundary she's been itching for! </strong>Luus drops this one short, Kaur rocks back and muscles a pull away in front of square"}]<strong>now she gets the boundary she's been itching for! </strong>Luus drops this one short, Kaur rocks back and muscles a pull away in front of square
+<strong>now she gets the boundary she's been itching for! </strong>Luus drops this one short, Kaur rocks back and muscles a pull away in front of square
 
 
 Balls faced: 42
 Bowler: Luus
 Over: 29
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on middle and leg, swept straight to short fine"}]length ball on middle and leg, swept straight to short fine
+length ball on middle and leg, swept straight to short fine
 
 
 Balls faced: 43
 Bowler: Luus
 Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length, just outside off, Kaur goes for the big cut shot, but it's too close to her to be playing that shot"}]short of a length, just outside off, Kaur goes for the big cut shot, but it's too close to her to be playing that shot
+short of a length, just outside off, Kaur goes for the big cut shot, but it's too close to her to be playing that shot
 
 
 Balls faced: 44
 Bowler: Shangase
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length delivery on off stump, whipped down to long-on"}]full length delivery on off stump, whipped down to long-on
+full length delivery on off stump, whipped down to long-on
 
 
 Balls faced: 45
 Bowler: Shangase
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length on middle and off, Kaur rocks back and taps it back to the bowler"}]short of a length on middle and off, Kaur rocks back and taps it back to the bowler
+short of a length on middle and off, Kaur rocks back and taps it back to the bowler
 
 
 Balls faced: 46
 Bowler: Shangase
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle and off, driven to long-on"}]full ball on middle and off, driven to long-on
+full ball on middle and off, driven to long-on
 
 
 Balls faced: 47
 Bowler: Shangase
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 2
 
 
-[{"type": "HTML", "html": "deft touch from Kaur, but the ball doesn't have enough legs to run through to the boundary. Length ball on off stump, Kaur gave herself some room and glided it down with a late cut"}]deft touch from Kaur, but the ball doesn't have enough legs to run through to the boundary. Length ball on off stump, Kaur gave herself some room and glided it down with a late cut
+deft touch from Kaur, but the ball doesn't have enough legs to run through to the boundary. Length ball on off stump, Kaur gave herself some room and glided it down with a late cut
 
 
 Balls faced: 48
 Bowler: de Klerk
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball again, pitching on a length around off stump, Kaur flicks to midwicket"}]slower ball again, pitching on a length around off stump, Kaur flicks to midwicket
+slower ball again, pitching on a length around off stump, Kaur flicks to midwicket
 
 
 Balls faced: 49
 Bowler: de Klerk
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "short and wide, cut away wide of third, who runs to her right and makes a diving stop to save a boundary, but can't stop the batters from coming back from the second run"}]short and wide, cut away wide of third, who runs to her right and makes a diving stop to save a boundary, but can't stop the batters from coming back from the second run
+short and wide, cut away wide of third, who runs to her right and makes a diving stop to save a boundary, but can't stop the batters from coming back from the second run
 
 
 Balls faced: 50
 Bowler: de Klerk
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>Lucky boundary for Kaur!</strong> Slower ball, pitched on a length outside off, and seemed to spin back into the batter. Kaur went for the big booming drive, but got an inside edge just past the stumps and to the wicketkeeper's left"}]<strong>Lucky boundary for Kaur!</strong> Slower ball, pitched on a length outside off, and seemed to spin back into the batter. Kaur went for the big booming drive, but got an inside edge just past the stumps and to the wicketkeeper's left
+<strong>Lucky boundary for Kaur!</strong> Slower ball, pitched on a length outside off, and seemed to spin back into the batter. Kaur went for the big booming drive, but got an inside edge just past the stumps and to the wicketkeeper's left
 
 
 Balls faced: 51
 Bowler: de Klerk
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length, just outside off, Kaur goes for the big cover drive again, gets a thick outside edge down to third"}]good length, just outside off, Kaur goes for the big cover drive again, gets a thick outside edge down to third
+good length, just outside off, Kaur goes for the big cover drive again, gets a thick outside edge down to third
 
 
 Balls faced: 52
 Bowler: de Klerk
 Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "superb fielding from Kapp at sweeper cover! Floaty half volley from de Klerk, Kaur strides into it and plays a superb cover drive. Kapp covered a lot of ground to her right and made an excellent diving stop"}]superb fielding from Kapp at sweeper cover! Floaty half volley from de Klerk, Kaur strides into it and plays a superb cover drive. Kapp covered a lot of ground to her right and made an excellent diving stop
+superb fielding from Kapp at sweeper cover! Floaty half volley from de Klerk, Kaur strides into it and plays a superb cover drive. Kapp covered a lot of ground to her right and made an excellent diving stop
 
 
 Balls faced: 53
 Bowler: de Klerk
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "oh, that passes through perilously close to leg stump. Kaur had moved across to the offside and looked to flick it away but missed it. De Ridder doesn't take it cleanly, so India get the bye"}]oh, that passes through perilously close to leg stump. Kaur had moved across to the offside and looked to flick it away but missed it. De Ridder doesn't take it cleanly, so India get the bye
+oh, that passes through perilously close to leg stump. Kaur had moved across to the offside and looked to flick it away but missed it. De Ridder doesn't take it cleanly, so India get the bye
 
 Byes: 1
 Balls faced: 54
 Bowler: de Klerk
 Over: 32
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball, short of a length and well outside off, Kaur misses the cut, looks to the umpire for a wide, but the ball passed through just inside the guideline"}]slower ball, short of a length and well outside off, Kaur misses the cut, looks to the umpire for a wide, but the ball passed through just inside the guideline
+slower ball, short of a length and well outside off, Kaur misses the cut, looks to the umpire for a wide, but the ball passed through just inside the guideline
 
 
 Balls faced: 55
 Bowler: Shangase
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length delivery on off stump, whipped down to long-on"}]full length delivery on off stump, whipped down to long-on
+full length delivery on off stump, whipped down to long-on
 
 
 Balls faced: 56
 Bowler: Shangase
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of a length on middle and off, Kaur rocks back and taps it back to the bowler"}]short of a length on middle and off, Kaur rocks back and taps it back to the bowler
+short of a length on middle and off, Kaur rocks back and taps it back to the bowler
 
 
 Balls faced: 57
 Bowler: Shangase
 Over: 31
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball on middle and off, driven to long-on"}]full ball on middle and off, driven to long-on
+full ball on middle and off, driven to long-on
 
 
 Balls faced: 58
 Bowler: Shangase
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 2
 
 
-[{"type": "HTML", "html": "deft touch from Kaur, but the ball doesn't have enough legs to run through to the boundary. Length ball on off stump, Kaur gave herself some room and glided it down with a late cut"}]deft touch from Kaur, but the ball doesn't have enough legs to run through to the boundary. Length ball on off stump, Kaur gave herself some room and glided it down with a late cut
+deft touch from Kaur, but the ball doesn't have enough legs to run through to the boundary. Length ball on off stump, Kaur gave herself some room and glided it down with a late cut
 
 
 Balls faced: 59
 Bowler: Shangase
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on off stump again, Kaur dances down with the intention of sending this one into the Chinnaswamy stands, but gets too close to it and has to adjust and drive it down to long-on"}]length ball on off stump again, Kaur dances down with the intention of sending this one into the Chinnaswamy stands, but gets too close to it and has to adjust and drive it down to long-on
+length ball on off stump again, Kaur dances down with the intention of sending this one into the Chinnaswamy stands, but gets too close to it and has to adjust and drive it down to long-on
 
 
 Balls faced: 60
 Bowler: Shangase
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off stump, Kaur goes back and pushes it to extra cover"}]length ball on off stump, Kaur goes back and pushes it to extra cover
+length ball on off stump, Kaur goes back and pushes it to extra cover
 
 
 Balls faced: 61
 Bowler: Shangase
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and off stump, driven to long-on"}]length ball on middle and off stump, driven to long-on
+length ball on middle and off stump, driven to long-on
 
 
 Balls faced: 62
 Bowler: de Klerk
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "oh, that passes through perilously close to leg stump. Kaur had moved across to the offside and looked to flick it away but missed it. De Ridder doesn't take it cleanly, so India get the bye"}]oh, that passes through perilously close to leg stump. Kaur had moved across to the offside and looked to flick it away but missed it. De Ridder doesn't take it cleanly, so India get the bye
+oh, that passes through perilously close to leg stump. Kaur had moved across to the offside and looked to flick it away but missed it. De Ridder doesn't take it cleanly, so India get the bye
 
 Byes: 1
 Balls faced: 63
 Bowler: de Klerk
 Over: 32
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball, short of a length and well outside off, Kaur misses the cut, looks to the umpire for a wide, but the ball passed through just inside the guideline"}]slower ball, short of a length and well outside off, Kaur misses the cut, looks to the umpire for a wide, but the ball passed through just inside the guideline
+slower ball, short of a length and well outside off, Kaur misses the cut, looks to the umpire for a wide, but the ball passed through just inside the guideline
 
 
 Balls faced: 64
 Bowler: Khaka
 Over: 34
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and slightly wide, steered away to third"}]short and slightly wide, steered away to third
+short and slightly wide, steered away to third
 
 
 Balls faced: 65
 Bowler: Khaka
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off stump, defended from the crease again, as Kaur continues to show Khaka more respect than she managed for the spinners"}]length ball on off stump, defended from the crease again, as Kaur continues to show Khaka more respect than she managed for the spinners
+length ball on off stump, defended from the crease again, as Kaur continues to show Khaka more respect than she managed for the spinners
 
 
 Balls faced: 66
 Bowler: Khaka
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off stump, defended off the back foot"}]length ball on off stump, defended off the back foot
+length ball on off stump, defended off the back foot
 
 
 Balls faced: 67
 Bowler: Shangase
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on off stump again, Kaur dances down with the intention of sending this one into the Chinnaswamy stands, but gets too close to it and has to adjust and drive it down to long-on"}]length ball on off stump again, Kaur dances down with the intention of sending this one into the Chinnaswamy stands, but gets too close to it and has to adjust and drive it down to long-on
+length ball on off stump again, Kaur dances down with the intention of sending this one into the Chinnaswamy stands, but gets too close to it and has to adjust and drive it down to long-on
 
 
 Balls faced: 68
 Bowler: Shangase
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off stump, Kaur goes back and pushes it to extra cover"}]length ball on off stump, Kaur goes back and pushes it to extra cover
+length ball on off stump, Kaur goes back and pushes it to extra cover
 
 
 Balls faced: 69
 Bowler: Shangase
 Over: 33
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and off stump, driven to long-on"}]length ball on middle and off stump, driven to long-on
+length ball on middle and off stump, driven to long-on
 
 
 Balls faced: 70
 Bowler: Shangase
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide from Shangase, cut away square on the offside, Brits does the fielding nicely at sweeper cover"}]short and wide from Shangase, cut away square on the offside, Brits does the fielding nicely at sweeper cover
+short and wide from Shangase, cut away square on the offside, Brits does the fielding nicely at sweeper cover
 
 
 Balls faced: 71
 Bowler: Khaka
 Over: 34
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and slightly wide, steered away to third"}]short and slightly wide, steered away to third
+short and slightly wide, steered away to third
 
 
 Balls faced: 72
 Bowler: Khaka
 Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off stump, defended from the crease again, as Kaur continues to show Khaka more respect than she managed for the spinners"}]length ball on off stump, defended from the crease again, as Kaur continues to show Khaka more respect than she managed for the spinners
+length ball on off stump, defended from the crease again, as Kaur continues to show Khaka more respect than she managed for the spinners
 
 
 Balls faced: 73
 Bowler: Khaka
 Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off stump, defended off the back foot"}]length ball on off stump, defended off the back foot
+length ball on off stump, defended off the back foot
 
 
 Balls faced: 74
 Bowler: Khaka
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Kaur looks to go big, but doesn't get the timing on it. Dances down the track to a length ball, but can only mow it to midwicket"}]Kaur looks to go big, but doesn't get the timing on it. Dances down the track to a length ball, but can only mow it to midwicket
+Kaur looks to go big, but doesn't get the timing on it. Dances down the track to a length ball, but can only mow it to midwicket
 
 
 Balls faced: 75
 Bowler: Khaka
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball, angling back into off stump, having been delivered from wider of the crease. No width for Kaur to play that square cut, she adjusts nicely to block it"}]length ball, angling back into off stump, having been delivered from wider of the crease. No width for Kaur to play that square cut, she adjusts nicely to block it
+length ball, angling back into off stump, having been delivered from wider of the crease. No width for Kaur to play that square cut, she adjusts nicely to block it
 
 
 Balls faced: 76
 Bowler: Khaka
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off stump, pushed to backward point"}]length ball on off stump, pushed to backward point
+length ball on off stump, pushed to backward point
 
 
 Balls faced: 77
 Bowler: Khaka
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling into the body, calmly flicked away to deep square leg"}]length ball angling into the body, calmly flicked away to deep square leg
+length ball angling into the body, calmly flicked away to deep square leg
 
 
 Balls faced: 78
 Bowler: Shangase
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short and wide from Shangase, cut away square on the offside, Brits does the fielding nicely at sweeper cover"}]short and wide from Shangase, cut away square on the offside, Brits does the fielding nicely at sweeper cover
+short and wide from Shangase, cut away square on the offside, Brits does the fielding nicely at sweeper cover
 
 
 Balls faced: 79
 Bowler: Luus
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dances down again, but this time Luus shortens the length and slows it down, Kaur waits on it and pushes it back towards the bowler's right. A misfield allows a single"}]dances down again, but this time Luus shortens the length and slows it down, Kaur waits on it and pushes it back towards the bowler's right. A misfield allows a single
+dances down again, but this time Luus shortens the length and slows it down, Kaur waits on it and pushes it back towards the bowler's right. A misfield allows a single
 
 
 Balls faced: 80
 Bowler: Luus
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "another rank high full toss! Kaur advances and takes it really at chest height and belts it into the gap between deep square leg and deep midwicket"}]another rank high full toss! Kaur advances and takes it really at chest height and belts it into the gap between deep square leg and deep midwicket
+another rank high full toss! Kaur advances and takes it really at chest height and belts it into the gap between deep square leg and deep midwicket
 
 
 Balls faced: 81
 Bowler: Luus
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and off stump, worked away through midwicket"}]length ball on middle and off stump, worked away through midwicket
+length ball on middle and off stump, worked away through midwicket
 
 
 Balls faced: 82
 Bowler: Khaka
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Kaur looks to go big, but doesn't get the timing on it. Dances down the track to a length ball, but can only mow it to midwicket"}]Kaur looks to go big, but doesn't get the timing on it. Dances down the track to a length ball, but can only mow it to midwicket
+Kaur looks to go big, but doesn't get the timing on it. Dances down the track to a length ball, but can only mow it to midwicket
 
 
 Balls faced: 83
 Bowler: Khaka
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball, angling back into off stump, having been delivered from wider of the crease. No width for Kaur to play that square cut, she adjusts nicely to block it"}]length ball, angling back into off stump, having been delivered from wider of the crease. No width for Kaur to play that square cut, she adjusts nicely to block it
+length ball, angling back into off stump, having been delivered from wider of the crease. No width for Kaur to play that square cut, she adjusts nicely to block it
 
 
 Balls faced: 84
 Bowler: Khaka
 Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on off stump, pushed to backward point"}]length ball on off stump, pushed to backward point
+length ball on off stump, pushed to backward point
 
 
 Balls faced: 85
 Bowler: Khaka
 Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling into the body, calmly flicked away to deep square leg"}]length ball angling into the body, calmly flicked away to deep square leg
+length ball angling into the body, calmly flicked away to deep square leg
 
 
 Balls faced: 86
 Bowler: Klaas
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle stump, pulled away to fine leg"}]length ball on middle stump, pulled away to fine leg
+length ball on middle stump, pulled away to fine leg
 
 
 Balls faced: 87
 Bowler: Klaas
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "I believe the technical term is adding salt to wounds. Full ball on off stump, Kaur gets across and mows this into the gap between mid-on and midwicket"}]I believe the technical term is adding salt to wounds. Full ball on off stump, Kaur gets across and mows this into the gap between mid-on and midwicket
+I believe the technical term is adding salt to wounds. Full ball on off stump, Kaur gets across and mows this into the gap between mid-on and midwicket
 
 
 Balls faced: 88
 Bowler: Klaas
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Klaas puts it down! South Africa go from bad to worse on the field!</strong> Cross seam delivery, on a length on off stump. Kaur is too early into the drive, it pops straight up to Klaas at head height. She gets there in time but lets the ball burst through the fingers."}]<strong>Klaas puts it down! South Africa go from bad to worse on the field!</strong> Cross seam delivery, on a length on off stump. Kaur is too early into the drive, it pops straight up to Klaas at head height. She gets there in time but lets the ball burst through the fingers.
+<strong>Klaas puts it down! South Africa go from bad to worse on the field!</strong> Cross seam delivery, on a length on off stump. Kaur is too early into the drive, it pops straight up to Klaas at head height. She gets there in time but lets the ball burst through the fingers.
 
 
 Balls faced: 89
 Bowler: Klaas
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on middle and off stump, steered away to backward point"}]length ball on middle and off stump, steered away to backward point
+length ball on middle and off stump, steered away to backward point
 
 
 Balls faced: 90
 Bowler: Klaas
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Srinidhi from the Chinnaswamy says some rain clouds are hovering around the ground now"}]Srinidhi from the Chinnaswamy says some rain clouds are hovering around the ground now
+Srinidhi from the Chinnaswamy says some rain clouds are hovering around the ground now
 
-[{"type": "HTML", "html": "length ball on off stump, Kaur pushes it extra cover's left and they set off for a quick run, which they make comfortably"}]length ball on off stump, Kaur pushes it extra cover's left and they set off for a quick run, which they make comfortably
+length ball on off stump, Kaur pushes it extra cover's left and they set off for a quick run, which they make comfortably
 
 
 Balls faced: 91
 Bowler: Luus
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "dances down again, but this time Luus shortens the length and slows it down, Kaur waits on it and pushes it back towards the bowler's right. A misfield allows a single"}]dances down again, but this time Luus shortens the length and slows it down, Kaur waits on it and pushes it back towards the bowler's right. A misfield allows a single
+dances down again, but this time Luus shortens the length and slows it down, Kaur waits on it and pushes it back towards the bowler's right. A misfield allows a single
 
 
 Balls faced: 92
 Bowler: Luus
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "another rank high full toss! Kaur advances and takes it really at chest height and belts it into the gap between deep square leg and deep midwicket"}]another rank high full toss! Kaur advances and takes it really at chest height and belts it into the gap between deep square leg and deep midwicket
+another rank high full toss! Kaur advances and takes it really at chest height and belts it into the gap between deep square leg and deep midwicket
 
 
 Balls faced: 93
 Bowler: Luus
 Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and off stump, worked away through midwicket"}]length ball on middle and off stump, worked away through midwicket
+length ball on middle and off stump, worked away through midwicket
 
 
 Balls faced: 94
 Bowler: Luus
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on off stump, turned to midwicket"}]length ball on off stump, turned to midwicket
-[{"type": "HTML", "html": "Venkat: \"What are the minimum overs to be bowled for a result.\" --- 20 overs in the second innings"}]Venkat: "What are the minimum overs to be bowled for a result." --- 20 overs in the second innings
+length ball on off stump, turned to midwicket
+Venkat: "What are the minimum overs to be bowled for a result." --- 20 overs in the second innings
 
 Balls faced: 95
 Bowler: Luus
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length delivery on off and middle, Kaur gets forward and whips it nicely to mid-on"}]full length delivery on off and middle, Kaur gets forward and whips it nicely to mid-on
+full length delivery on off and middle, Kaur gets forward and whips it nicely to mid-on
 
 
 Balls faced: 96
 Bowler: Luus
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slows this one down completely, pitches short of a length around off stump, Kaur pushes it to long-on"}]slows this one down completely, pitches short of a length around off stump, Kaur pushes it to long-on
-[{"type": "HTML", "html": "The single off the last ball of the last over brought up the century partnership between these two, by the way"}]The single off the last ball of the last over brought up the century partnership between these two, by the way
+slows this one down completely, pitches short of a length around off stump, Kaur pushes it to long-on
+The single off the last ball of the last over brought up the century partnership between these two, by the way
 
 Balls faced: 97
 Bowler: Klaas
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle stump, pulled away to fine leg"}]length ball on middle stump, pulled away to fine leg
+length ball on middle stump, pulled away to fine leg
 
 
 Balls faced: 98
 Bowler: Klaas
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "I believe the technical term is adding salt to wounds. Full ball on off stump, Kaur gets across and mows this into the gap between mid-on and midwicket"}]I believe the technical term is adding salt to wounds. Full ball on off stump, Kaur gets across and mows this into the gap between mid-on and midwicket
+I believe the technical term is adding salt to wounds. Full ball on off stump, Kaur gets across and mows this into the gap between mid-on and midwicket
 
 
 Balls faced: 99
 Bowler: Klaas
 Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>Klaas puts it down! South Africa go from bad to worse on the field!</strong> Cross seam delivery, on a length on off stump. Kaur is too early into the drive, it pops straight up to Klaas at head height. She gets there in time but lets the ball burst through the fingers."}]<strong>Klaas puts it down! South Africa go from bad to worse on the field!</strong> Cross seam delivery, on a length on off stump. Kaur is too early into the drive, it pops straight up to Klaas at head height. She gets there in time but lets the ball burst through the fingers.
+<strong>Klaas puts it down! South Africa go from bad to worse on the field!</strong> Cross seam delivery, on a length on off stump. Kaur is too early into the drive, it pops straight up to Klaas at head height. She gets there in time but lets the ball burst through the fingers.
 
 
 Balls faced: 100
 Bowler: Klaas
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on middle and off stump, steered away to backward point"}]length ball on middle and off stump, steered away to backward point
+length ball on middle and off stump, steered away to backward point
 
 
 Balls faced: 101
 Bowler: Klaas
 Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
-[{"type": "HTML", "html": "Srinidhi from the Chinnaswamy says some rain clouds are hovering around the ground now"}]Srinidhi from the Chinnaswamy says some rain clouds are hovering around the ground now
+Srinidhi from the Chinnaswamy says some rain clouds are hovering around the ground now
 
-[{"type": "HTML", "html": "length ball on off stump, Kaur pushes it extra cover's left and they set off for a quick run, which they make comfortably"}]length ball on off stump, Kaur pushes it extra cover's left and they set off for a quick run, which they make comfortably
+length ball on off stump, Kaur pushes it extra cover's left and they set off for a quick run, which they make comfortably
 
 
 Balls faced: 102
 Bowler: Klaas
 Over: 40
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Brings up her 50 with a nice drive to the right of sweeper cover. Kapp does the fielding well in the deep to stop the boundary. But that doesn't stop a welcome return to form for the skipper, who's largely batted superbly today."}]Brings up her 50 with a nice drive to the right of sweeper cover. Kapp does the fielding well in the deep to stop the boundary. But that doesn't stop a welcome return to form for the skipper, who's largely batted superbly today.
+Brings up her 50 with a nice drive to the right of sweeper cover. Kapp does the fielding well in the deep to stop the boundary. But that doesn't stop a welcome return to form for the skipper, who's largely batted superbly today.
 
 
 Balls faced: 103
 Bowler: Klaas
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on middle and off, solidly defended off the front foot"}]length ball on middle and off, solidly defended off the front foot
+length ball on middle and off, solidly defended off the front foot
 
 
 Balls faced: 104
 Bowler: Klaas
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "From our stats man Sampath: Mandhana became the first Indian to score <a href=\"https://www.espncricinfo.com/records/hundreds-in-consecutive-innings-284153\">back-to-back centuries in women's ODIs. </a>"}]From our stats man Sampath: Mandhana became the first Indian to score <a href="https://www.espncricinfo.com/records/hundreds-in-consecutive-innings-284153">back-to-back centuries in women's ODIs. </a>
+From our stats man Sampath: Mandhana became the first Indian to score <a href="https://www.espncricinfo.com/records/hundreds-in-consecutive-innings-284153">back-to-back centuries in women's ODIs. </a>
 
-[{"type": "HTML", "html": "short and slightly wide, Kaur gets beaten on the cut. She's lost her timing in these last few balls here. Milestone playing on her mind after a period of bad form?"}]short and slightly wide, Kaur gets beaten on the cut. She's lost her timing in these last few balls here. Milestone playing on her mind after a period of bad form?
+short and slightly wide, Kaur gets beaten on the cut. She's lost her timing in these last few balls here. Milestone playing on her mind after a period of bad form?
 
 
 Balls faced: 105
 Bowler: Klaas
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full toss, Kaur will be annoyed at not getting that away. She just tamely drives it to extra cover"}]full toss, Kaur will be annoyed at not getting that away. She just tamely drives it to extra cover
+full toss, Kaur will be annoyed at not getting that away. She just tamely drives it to extra cover
 
 
 Balls faced: 106
 Bowler: Klaas
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball around off again, she once again pushes it back out on to the offside"}]length ball around off again, she once again pushes it back out on to the offside
+length ball around off again, she once again pushes it back out on to the offside
 
 
 Balls faced: 107
 Bowler: Klaas
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on middle and leg, Kaur defends off the front foot"}]length ball on middle and leg, Kaur defends off the front foot
+length ball on middle and leg, Kaur defends off the front foot
 
 
 Balls faced: 108
 Bowler: Luus
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on off stump, turned to midwicket"}]length ball on off stump, turned to midwicket
-[{"type": "HTML", "html": "Venkat: \"What are the minimum overs to be bowled for a result.\" --- 20 overs in the second innings"}]Venkat: "What are the minimum overs to be bowled for a result." --- 20 overs in the second innings
+length ball on off stump, turned to midwicket
+Venkat: "What are the minimum overs to be bowled for a result." --- 20 overs in the second innings
 
 Balls faced: 109
 Bowler: Luus
 Over: 39
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length delivery on off and middle, Kaur gets forward and whips it nicely to mid-on"}]full length delivery on off and middle, Kaur gets forward and whips it nicely to mid-on
+full length delivery on off and middle, Kaur gets forward and whips it nicely to mid-on
 
 
 Balls faced: 110
 Bowler: Luus
 Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slows this one down completely, pitches short of a length around off stump, Kaur pushes it to long-on"}]slows this one down completely, pitches short of a length around off stump, Kaur pushes it to long-on
-[{"type": "HTML", "html": "The single off the last ball of the last over brought up the century partnership between these two, by the way"}]The single off the last ball of the last over brought up the century partnership between these two, by the way
+slows this one down completely, pitches short of a length around off stump, Kaur pushes it to long-on
+The single off the last ball of the last over brought up the century partnership between these two, by the way
 
 Balls faced: 111
 Bowler: Luus
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and leg, turned away to long-on"}]length ball on middle and leg, turned away to long-on
+length ball on middle and leg, turned away to long-on
 
 
 Balls faced: 112
 Bowler: Klaas
 Over: 40
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Brings up her 50 with a nice drive to the right of sweeper cover. Kapp does the fielding well in the deep to stop the boundary. But that doesn't stop a welcome return to form for the skipper, who's largely batted superbly today."}]Brings up her 50 with a nice drive to the right of sweeper cover. Kapp does the fielding well in the deep to stop the boundary. But that doesn't stop a welcome return to form for the skipper, who's largely batted superbly today.
+Brings up her 50 with a nice drive to the right of sweeper cover. Kapp does the fielding well in the deep to stop the boundary. But that doesn't stop a welcome return to form for the skipper, who's largely batted superbly today.
 
 
 Balls faced: 113
 Bowler: Klaas
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on middle and off, solidly defended off the front foot"}]length ball on middle and off, solidly defended off the front foot
+length ball on middle and off, solidly defended off the front foot
 
 
 Balls faced: 114
 Bowler: Klaas
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "From our stats man Sampath: Mandhana became the first Indian to score <a href=\"https://www.espncricinfo.com/records/hundreds-in-consecutive-innings-284153\">back-to-back centuries in women's ODIs. </a>"}]From our stats man Sampath: Mandhana became the first Indian to score <a href="https://www.espncricinfo.com/records/hundreds-in-consecutive-innings-284153">back-to-back centuries in women's ODIs. </a>
+From our stats man Sampath: Mandhana became the first Indian to score <a href="https://www.espncricinfo.com/records/hundreds-in-consecutive-innings-284153">back-to-back centuries in women's ODIs. </a>
 
-[{"type": "HTML", "html": "short and slightly wide, Kaur gets beaten on the cut. She's lost her timing in these last few balls here. Milestone playing on her mind after a period of bad form?"}]short and slightly wide, Kaur gets beaten on the cut. She's lost her timing in these last few balls here. Milestone playing on her mind after a period of bad form?
+short and slightly wide, Kaur gets beaten on the cut. She's lost her timing in these last few balls here. Milestone playing on her mind after a period of bad form?
 
 
 Balls faced: 115
 Bowler: Klaas
 Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full toss, Kaur will be annoyed at not getting that away. She just tamely drives it to extra cover"}]full toss, Kaur will be annoyed at not getting that away. She just tamely drives it to extra cover
+full toss, Kaur will be annoyed at not getting that away. She just tamely drives it to extra cover
 
 
 Balls faced: 116
 Bowler: Klaas
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball around off again, she once again pushes it back out on to the offside"}]length ball around off again, she once again pushes it back out on to the offside
+length ball around off again, she once again pushes it back out on to the offside
 
 
 Balls faced: 117
 Bowler: Klaas
 Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball on middle and leg, Kaur defends off the front foot"}]length ball on middle and leg, Kaur defends off the front foot
+length ball on middle and leg, Kaur defends off the front foot
 
 
 Balls faced: 118
 Bowler: Shangase
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on leg stump, pulled away to deep square leg"}]short of a length on leg stump, pulled away to deep square leg
+short of a length on leg stump, pulled away to deep square leg
 
 
 Balls faced: 119
 Bowler: Shangase
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and off, driven to long-on"}]length ball on middle and off, driven to long-on
+length ball on middle and off, driven to long-on
 
 
 Balls faced: 120
 Bowler: Shangase
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and slightly wide again, goes for the cut but doesn't get the timing right at all"}]short and slightly wide again, goes for the cut but doesn't get the timing right at all
+short and slightly wide again, goes for the cut but doesn't get the timing right at all
 
 
 Balls faced: 121
 Bowler: Shangase
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, shorter and wider, Kaur danced down too early and then had to adjust in steering it to short third"}]flatter, shorter and wider, Kaur danced down too early and then had to adjust in steering it to short third
+flatter, shorter and wider, Kaur danced down too early and then had to adjust in steering it to short third
 
 
 Balls faced: 122
 Bowler: Luus
 Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and leg, turned away to long-on"}]length ball on middle and leg, turned away to long-on
+length ball on middle and leg, turned away to long-on
 
 
 Balls faced: 123
 Bowler: de Klerk
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker length on off stump, Kaur digs this one out to extra cover"}]yorker length on off stump, Kaur digs this one out to extra cover
+yorker length on off stump, Kaur digs this one out to extra cover
 
 
 Balls faced: 124
 Bowler: de Klerk
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>stunning fielding from Luus!</strong> Length ball from de Klerk, Kaur looks to smash this over the square leg boundary again, Luus jumps up at deep square leg, catches it, but then pops it back in play as she dives into the boundary cushions"}]<strong>stunning fielding from Luus!</strong> Length ball from de Klerk, Kaur looks to smash this over the square leg boundary again, Luus jumps up at deep square leg, catches it, but then pops it back in play as she dives into the boundary cushions
+<strong>stunning fielding from Luus!</strong> Length ball from de Klerk, Kaur looks to smash this over the square leg boundary again, Luus jumps up at deep square leg, catches it, but then pops it back in play as she dives into the boundary cushions
 
 
 Balls faced: 125
 Bowler: de Klerk
 Over: 43
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on pace this time, but angling too far down leg"}]on pace this time, but angling too far down leg
+on pace this time, but angling too far down leg
 
 Wide: 1
 Balls faced: 126
 Bowler: de Klerk
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slower ball again, right in the slot, Kaur slogs that towards cow corner, and gets a one-bounce four"}]slower ball again, right in the slot, Kaur slogs that towards cow corner, and gets a one-bounce four
+slower ball again, right in the slot, Kaur slogs that towards cow corner, and gets a one-bounce four
 
 
 Balls faced: 127
 Bowler: de Klerk
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball again, Kaur looks to hit it into next week and gets beaten as she loses her shape completely"}]slower ball again, Kaur looks to hit it into next week and gets beaten as she loses her shape completely
+slower ball again, Kaur looks to hit it into next week and gets beaten as she loses her shape completely
 
 
 Balls faced: 128
 Bowler: de Klerk
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 2
-[{"type": "HTML", "html": "Nadine de Klerk comes back in"}]Nadine de Klerk comes back in
+Nadine de Klerk comes back in
 
-[{"type": "HTML", "html": "Kaur's intentions are clear, her timing isn't her friend on this occasion. Slower ball from de Klerk, Kaur advances and looks to smash it over long-off, she gets only elevation on it, but just enough distance to clear mid-off who was running back"}]Kaur's intentions are clear, her timing isn't her friend on this occasion. Slower ball from de Klerk, Kaur advances and looks to smash it over long-off, she gets only elevation on it, but just enough distance to clear mid-off who was running back
+Kaur's intentions are clear, her timing isn't her friend on this occasion. Slower ball from de Klerk, Kaur advances and looks to smash it over long-off, she gets only elevation on it, but just enough distance to clear mid-off who was running back
 
 
 Balls faced: 129
 Bowler: Shangase
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short of a length on leg stump, pulled away to deep square leg"}]short of a length on leg stump, pulled away to deep square leg
+short of a length on leg stump, pulled away to deep square leg
 
 
 Balls faced: 130
 Bowler: Shangase
 Over: 42
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball on middle and off, driven to long-on"}]length ball on middle and off, driven to long-on
+length ball on middle and off, driven to long-on
 
 
 Balls faced: 131
 Bowler: Shangase
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and slightly wide again, goes for the cut but doesn't get the timing right at all"}]short and slightly wide again, goes for the cut but doesn't get the timing right at all
+short and slightly wide again, goes for the cut but doesn't get the timing right at all
 
 
 Balls faced: 132
 Bowler: Shangase
 Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LATE_CUT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flatter, shorter and wider, Kaur danced down too early and then had to adjust in steering it to short third"}]flatter, shorter and wider, Kaur danced down too early and then had to adjust in steering it to short third
+flatter, shorter and wider, Kaur danced down too early and then had to adjust in steering it to short third
 
 
 Balls faced: 133
 Bowler: Klaas
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball, much shorter length, Kaur dances down to create some momentum, but is way too early on the stroke. Wears it on the upper body and then runs across for a leg bye"}]slower ball, much shorter length, Kaur dances down to create some momentum, but is way too early on the stroke. Wears it on the upper body and then runs across for a leg bye
+slower ball, much shorter length, Kaur dances down to create some momentum, but is way too early on the stroke. Wears it on the upper body and then runs across for a leg bye
 
 Legbyes: 1
 Balls faced: 134
 Bowler: Klaas
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>that's a Harmanpreet Kaur special!</strong> Slot ball, straight line, she winds up that massive backlift and brutes it over cow corner for her first six of the day"}]<strong>that's a Harmanpreet Kaur special!</strong> Slot ball, straight line, she winds up that massive backlift and brutes it over cow corner for her first six of the day
+<strong>that's a Harmanpreet Kaur special!</strong> Slot ball, straight line, she winds up that massive backlift and brutes it over cow corner for her first six of the day
 
 
 Balls faced: 135
 Bowler: Klaas
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "The clouds seem to have passed us by at the Chinnaswamy without causing any damage. Glorious Bengaluru evening sunshine now. But anyone who's been in the city for any length of time would know to never trust the weather for too long"}]The clouds seem to have passed us by at the Chinnaswamy without causing any damage. Glorious Bengaluru evening sunshine now. But anyone who's been in the city for any length of time would know to never trust the weather for too long
+The clouds seem to have passed us by at the Chinnaswamy without causing any damage. Glorious Bengaluru evening sunshine now. But anyone who's been in the city for any length of time would know to never trust the weather for too long
 
-[{"type": "HTML", "html": "slower ball, right in the slot even though the line was wide outside off. Kaur waited on it and then banged it over extra cover"}]slower ball, right in the slot even though the line was wide outside off. Kaur waited on it and then banged it over extra cover
+slower ball, right in the slot even though the line was wide outside off. Kaur waited on it and then banged it over extra cover
 
 
 Balls faced: 136
 Bowler: de Klerk
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker length on off stump, Kaur digs this one out to extra cover"}]yorker length on off stump, Kaur digs this one out to extra cover
+yorker length on off stump, Kaur digs this one out to extra cover
 
 
 Balls faced: 137
 Bowler: de Klerk
 Over: 43
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>stunning fielding from Luus!</strong> Length ball from de Klerk, Kaur looks to smash this over the square leg boundary again, Luus jumps up at deep square leg, catches it, but then pops it back in play as she dives into the boundary cushions"}]<strong>stunning fielding from Luus!</strong> Length ball from de Klerk, Kaur looks to smash this over the square leg boundary again, Luus jumps up at deep square leg, catches it, but then pops it back in play as she dives into the boundary cushions
+<strong>stunning fielding from Luus!</strong> Length ball from de Klerk, Kaur looks to smash this over the square leg boundary again, Luus jumps up at deep square leg, catches it, but then pops it back in play as she dives into the boundary cushions
 
 
 Balls faced: 138
 Bowler: de Klerk
 Over: 43
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "on pace this time, but angling too far down leg"}]on pace this time, but angling too far down leg
+on pace this time, but angling too far down leg
 
 Wide: 1
 Balls faced: 139
 Bowler: de Klerk
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slower ball again, right in the slot, Kaur slogs that towards cow corner, and gets a one-bounce four"}]slower ball again, right in the slot, Kaur slogs that towards cow corner, and gets a one-bounce four
+slower ball again, right in the slot, Kaur slogs that towards cow corner, and gets a one-bounce four
 
 
 Balls faced: 140
 Bowler: de Klerk
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball again, Kaur looks to hit it into next week and gets beaten as she loses her shape completely"}]slower ball again, Kaur looks to hit it into next week and gets beaten as she loses her shape completely
+slower ball again, Kaur looks to hit it into next week and gets beaten as she loses her shape completely
 
 
 Balls faced: 141
 Bowler: de Klerk
 Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 2
-[{"type": "HTML", "html": "Nadine de Klerk comes back in"}]Nadine de Klerk comes back in
+Nadine de Klerk comes back in
 
-[{"type": "HTML", "html": "Kaur's intentions are clear, her timing isn't her friend on this occasion. Slower ball from de Klerk, Kaur advances and looks to smash it over long-off, she gets only elevation on it, but just enough distance to clear mid-off who was running back"}]Kaur's intentions are clear, her timing isn't her friend on this occasion. Slower ball from de Klerk, Kaur advances and looks to smash it over long-off, she gets only elevation on it, but just enough distance to clear mid-off who was running back
+Kaur's intentions are clear, her timing isn't her friend on this occasion. Slower ball from de Klerk, Kaur advances and looks to smash it over long-off, she gets only elevation on it, but just enough distance to clear mid-off who was running back
 
 
 Balls faced: 142
 Bowler: Khaka
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full an dstraight, whipped away to deep midwicket"}]full an dstraight, whipped away to deep midwicket
+full an dstraight, whipped away to deep midwicket
 
 
 Balls faced: 143
 Bowler: Khaka
 Over: 45
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Khaka is back"}]Khaka is back
+Khaka is back
 
-[{"type": "HTML", "html": "full ball on the pads, worked away to short fine for a single <b>to bring up the 150 partnership</b>"}]full ball on the pads, worked away to short fine for a single <b>to bring up the 150 partnership</b>
+full ball on the pads, worked away to short fine for a single <b>to bring up the 150 partnership</b>
 
 
 Balls faced: 144
 Bowler: Klaas
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball, much shorter length, Kaur dances down to create some momentum, but is way too early on the stroke. Wears it on the upper body and then runs across for a leg bye"}]slower ball, much shorter length, Kaur dances down to create some momentum, but is way too early on the stroke. Wears it on the upper body and then runs across for a leg bye
+slower ball, much shorter length, Kaur dances down to create some momentum, but is way too early on the stroke. Wears it on the upper body and then runs across for a leg bye
 
 Legbyes: 1
 Balls faced: 145
 Bowler: Klaas
 Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>that's a Harmanpreet Kaur special!</strong> Slot ball, straight line, she winds up that massive backlift and brutes it over cow corner for her first six of the day"}]<strong>that's a Harmanpreet Kaur special!</strong> Slot ball, straight line, she winds up that massive backlift and brutes it over cow corner for her first six of the day
+<strong>that's a Harmanpreet Kaur special!</strong> Slot ball, straight line, she winds up that massive backlift and brutes it over cow corner for her first six of the day
 
 
 Balls faced: 146
 Bowler: Klaas
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 4
-[{"type": "HTML", "html": "The clouds seem to have passed us by at the Chinnaswamy without causing any damage. Glorious Bengaluru evening sunshine now. But anyone who's been in the city for any length of time would know to never trust the weather for too long"}]The clouds seem to have passed us by at the Chinnaswamy without causing any damage. Glorious Bengaluru evening sunshine now. But anyone who's been in the city for any length of time would know to never trust the weather for too long
+The clouds seem to have passed us by at the Chinnaswamy without causing any damage. Glorious Bengaluru evening sunshine now. But anyone who's been in the city for any length of time would know to never trust the weather for too long
 
-[{"type": "HTML", "html": "slower ball, right in the slot even though the line was wide outside off. Kaur waited on it and then banged it over extra cover"}]slower ball, right in the slot even though the line was wide outside off. Kaur waited on it and then banged it over extra cover
+slower ball, right in the slot even though the line was wide outside off. Kaur waited on it and then banged it over extra cover
 
 
 Balls faced: 147
 Bowler: Mlaba
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide, Kaur can't find the gap, she's cut another straight to cover point"}]short and wide, Kaur can't find the gap, she's cut another straight to cover point
+short and wide, Kaur can't find the gap, she's cut another straight to cover point
 
 
 Balls faced: 148
 Bowler: Mlaba
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker length on middle and leg, Kaur works it to deep midwicket"}]yorker length on middle and leg, Kaur works it to deep midwicket
+yorker length on middle and leg, Kaur works it to deep midwicket
 
 
 Balls faced: 149
 Bowler: Mlaba
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Mlaba now"}]Mlaba now
+Mlaba now
 
-[{"type": "HTML", "html": "short of a length, just outside off, jabbed to backward point"}]short of a length, just outside off, jabbed to backward point
+short of a length, just outside off, jabbed to backward point
 
 
 Balls faced: 150
 Bowler: Khaka
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full an dstraight, whipped away to deep midwicket"}]full an dstraight, whipped away to deep midwicket
+full an dstraight, whipped away to deep midwicket
 
 
 Balls faced: 151
 Bowler: Khaka
 Over: 45
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Khaka is back"}]Khaka is back
+Khaka is back
 
-[{"type": "HTML", "html": "full ball on the pads, worked away to short fine for a single <b>to bring up the 150 partnership</b>"}]full ball on the pads, worked away to short fine for a single <b>to bring up the 150 partnership</b>
+full ball on the pads, worked away to short fine for a single <b>to bring up the 150 partnership</b>
 
 
 Balls faced: 152
 Bowler: de Klerk
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Kaur moves to the 80s with a monstrous hit down the ground!</b> It was in the slot, so she wound up again and swung hard through the line to send the ball soaring into the sightscreen"}]<b>Kaur moves to the 80s with a monstrous hit down the ground!</b> It was in the slot, so she wound up again and swung hard through the line to send the ball soaring into the sightscreen
+<b>Kaur moves to the 80s with a monstrous hit down the ground!</b> It was in the slot, so she wound up again and swung hard through the line to send the ball soaring into the sightscreen
 
 
 Balls faced: 153
 Bowler: de Klerk
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length on off stump, Kaur dances down and drills it towards long-on, where Shangase rushes to her left and fields it well"}]full length on off stump, Kaur dances down and drills it towards long-on, where Shangase rushes to her left and fields it well
+full length on off stump, Kaur dances down and drills it towards long-on, where Shangase rushes to her left and fields it well
 
 
 Balls faced: 154
 Bowler: de Klerk
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good ball, dipping yorker on middle and off stump, dug out towards cover"}]good ball, dipping yorker on middle and off stump, dug out towards cover
+good ball, dipping yorker on middle and off stump, dug out towards cover
 
 
 Balls faced: 155
 Bowler: Mlaba
 Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide, Kaur can't find the gap, she's cut another straight to cover point"}]short and wide, Kaur can't find the gap, she's cut another straight to cover point
+short and wide, Kaur can't find the gap, she's cut another straight to cover point
 
 
 Balls faced: 156
 Bowler: Mlaba
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker length on middle and leg, Kaur works it to deep midwicket"}]yorker length on middle and leg, Kaur works it to deep midwicket
+yorker length on middle and leg, Kaur works it to deep midwicket
 
 
 Balls faced: 157
 Bowler: Mlaba
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Mlaba now"}]Mlaba now
+Mlaba now
 
-[{"type": "HTML", "html": "short of a length, just outside off, jabbed to backward point"}]short of a length, just outside off, jabbed to backward point
+short of a length, just outside off, jabbed to backward point
 
 
 Balls faced: 158
 Bowler: Klaas
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball again, doesn't time it as she looks to pull it, it dribbles through to square leg"}]slower ball again, doesn't time it as she looks to pull it, it dribbles through to square leg
+slower ball again, doesn't time it as she looks to pull it, it dribbles through to square leg
 
 
 Balls faced: 159
 Bowler: Klaas
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slightly fortunate this time for Kaur, but <strong>brings up the 300 for India</strong>! Slower ball outside off, Kaur is early into the shot as she looked to drive over extra cover, but a thick outside edge goes over backward point and races to the fence"}]slightly fortunate this time for Kaur, but <strong>brings up the 300 for India</strong>! Slower ball outside off, Kaur is early into the shot as she looked to drive over extra cover, but a thick outside edge goes over backward point and races to the fence
+slightly fortunate this time for Kaur, but <strong>brings up the 300 for India</strong>! Slower ball outside off, Kaur is early into the shot as she looked to drive over extra cover, but a thick outside edge goes over backward point and races to the fence
 
 
 Balls faced: 160
 Bowler: de Klerk
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>Kaur moves to the 80s with a monstrous hit down the ground!</b> It was in the slot, so she wound up again and swung hard through the line to send the ball soaring into the sightscreen"}]<b>Kaur moves to the 80s with a monstrous hit down the ground!</b> It was in the slot, so she wound up again and swung hard through the line to send the ball soaring into the sightscreen
+<b>Kaur moves to the 80s with a monstrous hit down the ground!</b> It was in the slot, so she wound up again and swung hard through the line to send the ball soaring into the sightscreen
 
 
 Balls faced: 161
 Bowler: de Klerk
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length on off stump, Kaur dances down and drills it towards long-on, where Shangase rushes to her left and fields it well"}]full length on off stump, Kaur dances down and drills it towards long-on, where Shangase rushes to her left and fields it well
+full length on off stump, Kaur dances down and drills it towards long-on, where Shangase rushes to her left and fields it well
 
 
 Balls faced: 162
 Bowler: de Klerk
 Over: 47
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good ball, dipping yorker on middle and off stump, dug out towards cover"}]good ball, dipping yorker on middle and off stump, dug out towards cover
+good ball, dipping yorker on middle and off stump, dug out towards cover
 
 
 Balls faced: 163
 Bowler: Khaka
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide outside off, Kaur gives herself room, but moves too far away from the line of the ball and gets beaten"}]full and wide outside off, Kaur gives herself room, but moves too far away from the line of the ball and gets beaten
+full and wide outside off, Kaur gives herself room, but moves too far away from the line of the ball and gets beaten
 
 
 Balls faced: 164
 Bowler: Khaka
 Over: 49
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length delivery speared into the pads, flicked away to deep square leg"}]full length delivery speared into the pads, flicked away to deep square leg
+full length delivery speared into the pads, flicked away to deep square leg
 
 
 Balls faced: 165
 Bowler: Klaas
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball again, doesn't time it as she looks to pull it, it dribbles through to square leg"}]slower ball again, doesn't time it as she looks to pull it, it dribbles through to square leg
+slower ball again, doesn't time it as she looks to pull it, it dribbles through to square leg
 
 
 Balls faced: 166
 Bowler: Klaas
 Over: 48
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slightly fortunate this time for Kaur, but <strong>brings up the 300 for India</strong>! Slower ball outside off, Kaur is early into the shot as she looked to drive over extra cover, but a thick outside edge goes over backward point and races to the fence"}]slightly fortunate this time for Kaur, but <strong>brings up the 300 for India</strong>! Slower ball outside off, Kaur is early into the shot as she looked to drive over extra cover, but a thick outside edge goes over backward point and races to the fence
+slightly fortunate this time for Kaur, but <strong>brings up the 300 for India</strong>! Slower ball outside off, Kaur is early into the shot as she looked to drive over extra cover, but a thick outside edge goes over backward point and races to the fence
 
 
 Balls faced: 167
 Bowler: Mlaba
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "really really slow, length ball on off stump, Kaur wanted to send that to Cubbon Park, but is too early into the shot, and only manages to drag it to short fine"}]really really slow, length ball on off stump, Kaur wanted to send that to Cubbon Park, but is too early into the shot, and only manages to drag it to short fine
-[{"type": "HTML", "html": "<b>4.49pm: </b>Well, after that powerplay, who'd have thought India would get near 300, let alone cross it as emphatically as they have? It was a welcome return to form for their skipper, who scored a brilliant sixth ODI century. That followed another sensational knock from Bengaluru's favourite Smriti Mandhana, who made it back-to-back hundreds at the Chinnaswamy! South Africa will have to bat out of their skins to get this total - which Sampath informs was the <a href = \"https://www.espncricinfo.com/ask/cricket-qna/highest-total-for-India-in-India&tournament=wodi\" target = \"_blank\">first time India have crossed 300 in a home ODI.</a>"}, {"type": "TWITTER", "url": "https://twitter.com/ESPNcricinfo/status/1803391154538553429"}, {"type": "HTML", "html": "<b>Smriti Mandhana</b>: Cricket has taught us to take nothing for granted. You start from zero. Was important to come out fresh today and do the job for the team. They bowled brilliantly in the first 10-15 overs. I had to change the way I had planned the innings. A lot of seam movement happened, but later the wicket eased out. Maybe something more could happen under the lights. There are a lot of cracks on the wicket, so I'm sure the spinners will get a lot of turn. We'll have to bowl in the right areas and let them make mistakes."}, {"type": "HTML", "html": "Here's more from Sampath: This is India's third-highest total in ODIs. Their EIGHT sixes today is the most they've hit in a single ODI innings."}, {"type": "HTML", "html": "A rather crazy innings split for India as well:"}, {"type": "HTML", "html": "First 15 overs - 47/1, 5 fours"}, {"type": "HTML", "html": "Next 15 overs - 98/1, 8 fours and 3 sixes"}, {"type": "HTML", "html": "31-40 overs - 62/0, 7 fours"}, {"type": "HTML", "html": "Last 10 overs - 118/1, 14 fours and 5 sixes"}]<b>4.49pm: </b>Well, after that powerplay, who'd have thought India would get near 300, let alone cross it as emphatically as they have? It was a welcome return to form for their skipper, who scored a brilliant sixth ODI century. That followed another sensational knock from Bengaluru's favourite Smriti Mandhana, who made it back-to-back hundreds at the Chinnaswamy! South Africa will have to bat out of their skins to get this total - which Sampath informs was the <a href = "https://www.espncricinfo.com/ask/cricket-qna/highest-total-for-India-in-India&tournament=wodi" target = "_blank">first time India have crossed 300 in a home ODI.</a> <b>Smriti Mandhana</b>: Cricket has taught us to take nothing for granted. You start from zero. Was important to come out fresh today and do the job for the team. They bowled brilliantly in the first 10-15 overs. I had to change the way I had planned the innings. A lot of seam movement happened, but later the wicket eased out. Maybe something more could happen under the lights. There are a lot of cracks on the wicket, so I'm sure the spinners will get a lot of turn. We'll have to bowl in the right areas and let them make mistakes. Here's more from Sampath: This is India's third-highest total in ODIs. Their EIGHT sixes today is the most they've hit in a single ODI innings. A rather crazy innings split for India as well: First 15 overs - 47/1, 5 fours Next 15 overs - 98/1, 8 fours and 3 sixes 31-40 overs - 62/0, 7 fours Last 10 overs - 118/1, 14 fours and 5 sixes
+really really slow, length ball on off stump, Kaur wanted to send that to Cubbon Park, but is too early into the shot, and only manages to drag it to short fine
+<b>4.49pm: </b>Well, after that powerplay, who'd have thought India would get near 300, let alone cross it as emphatically as they have? It was a welcome return to form for their skipper, who scored a brilliant sixth ODI century. That followed another sensational knock from Bengaluru's favourite Smriti Mandhana, who made it back-to-back hundreds at the Chinnaswamy! South Africa will have to bat out of their skins to get this total - which Sampath informs was the <a href = "https://www.espncricinfo.com/ask/cricket-qna/highest-total-for-India-in-India&tournament=wodi" target = "_blank">first time India have crossed 300 in a home ODI.</a> <b>Smriti Mandhana</b>: Cricket has taught us to take nothing for granted. You start from zero. Was important to come out fresh today and do the job for the team. They bowled brilliantly in the first 10-15 overs. I had to change the way I had planned the innings. A lot of seam movement happened, but later the wicket eased out. Maybe something more could happen under the lights. There are a lot of cracks on the wicket, so I'm sure the spinners will get a lot of turn. We'll have to bowl in the right areas and let them make mistakes. Here's more from Sampath: This is India's third-highest total in ODIs. Their EIGHT sixes today is the most they've hit in a single ODI innings. A rather crazy innings split for India as well: First 15 overs - 47/1, 5 fours Next 15 overs - 98/1, 8 fours and 3 sixes 31-40 overs - 62/0, 7 fours Last 10 overs - 118/1, 14 fours and 5 sixes
 
 Balls faced: 168
 Bowler: Mlaba
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>There it is! The skipper follows the vice captain to another ODI century, her sixth!</b> Short and wide again, she smashes it away in front of square on the offside"}]<b>There it is! The skipper follows the vice captain to another ODI century, her sixth!</b> Short and wide again, she smashes it away in front of square on the offside
+<b>There it is! The skipper follows the vice captain to another ODI century, her sixth!</b> Short and wide again, she smashes it away in front of square on the offside
 
 
 Balls faced: 169
 Bowler: Mlaba
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>gets closer to the ton in emphatic fashion!</b> That's in the slot, she slams a slong sweep over midwicket"}]<b>gets closer to the ton in emphatic fashion!</b> That's in the slot, she slams a slong sweep over midwicket
+<b>gets closer to the ton in emphatic fashion!</b> That's in the slot, she slams a slong sweep over midwicket
 
 
 Balls faced: 170
 Bowler: Mlaba
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short and wide, cut away behind square to move into the 90s"}]short and wide, cut away behind square to move into the 90s
+short and wide, cut away behind square to move into the 90s
 
 
 Balls faced: 171
 Bowler: Mlaba
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<b>missed stumping this time!</b> Bowled full and a bit wide, Kaur dances down looking to slam it straight but misses it, and then de Ridder doesn't collect it cleanly"}]<b>missed stumping this time!</b> Bowled full and a bit wide, Kaur dances down looking to slam it straight but misses it, and then de Ridder doesn't collect it cleanly
+<b>missed stumping this time!</b> Bowled full and a bit wide, Kaur dances down looking to slam it straight but misses it, and then de Ridder doesn't collect it cleanly
 
 
 Balls faced: 172
 Bowler: Khaka
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full and wide outside off, Kaur gives herself room, but moves too far away from the line of the ball and gets beaten"}]full and wide outside off, Kaur gives herself room, but moves too far away from the line of the ball and gets beaten
+full and wide outside off, Kaur gives herself room, but moves too far away from the line of the ball and gets beaten
 
 
 Balls faced: 173
 Bowler: Khaka
 Over: 49
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full length delivery speared into the pads, flicked away to deep square leg"}]full length delivery speared into the pads, flicked away to deep square leg
+full length delivery speared into the pads, flicked away to deep square leg

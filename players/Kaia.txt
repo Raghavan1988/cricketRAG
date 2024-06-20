@@ -2,821 +2,907 @@ Match: all_games_1377745_1377762.json
 Balls faced: 1
 Bowler: Kenjige
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fourth stump, punched to long-off for one."}]full on fourth stump, punched to long-off for one.
+full on fourth stump, punched to long-off for one.
 
 
 Balls faced: 2
 Bowler: Kenjige
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on middle, defended."}]good length ball on middle, defended.
+good length ball on middle, defended.
 
 
 Balls faced: 3
 Bowler: Paradkar
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fifth stump, drives at this and pokes a thick edge to deep third for one."}]full on fifth stump, drives at this and pokes a thick edge to deep third for one.
+full on fifth stump, drives at this and pokes a thick edge to deep third for one.
 
 
 Balls faced: 4
 Bowler: Paradkar
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>nearly a wicket!</strong> Fullish length on fourth stump shapes in late and beats a drive between bat and pad but somehow doesn't clip off stump."}]<strong>nearly a wicket!</strong> Fullish length on fourth stump shapes in late and beats a drive between bat and pad but somehow doesn't clip off stump.
+<strong>nearly a wicket!</strong> Fullish length on fourth stump shapes in late and beats a drive between bat and pad but somehow doesn't clip off stump.
 
 
 Balls faced: 5
 Bowler: Paradkar
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Abhishek Paradkar opening with new ball left-arm swing in place of left-armer Netravalkar who is out ill. First ODI for Paradkar since 2021. He's currently a student at Leeds University in England trying to further his cricket development there."}]Abhishek Paradkar opening with new ball left-arm swing in place of left-armer Netravalkar who is out ill. First ODI for Paradkar since 2021. He's currently a student at Leeds University in England trying to further his cricket development there.
+Abhishek Paradkar opening with new ball left-arm swing in place of left-armer Netravalkar who is out ill. First ODI for Paradkar since 2021. He's currently a student at Leeds University in England trying to further his cricket development there.
 
-[{"type": "HTML", "html": "good length ball on middle, defended."}]good length ball on middle, defended.
+good length ball on middle, defended.
 
 
 Balls faced: 6
 Bowler: Kenjige
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fourth stump, punched to long-off for one."}]full on fourth stump, punched to long-off for one.
+full on fourth stump, punched to long-off for one.
 
 
 Balls faced: 7
 Bowler: Kenjige
 Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on middle, defended."}]good length ball on middle, defended.
+good length ball on middle, defended.
 
 
 Balls faced: 8
 Bowler: Kenjige
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on seventh stump, driven to long-off for one."}]full on seventh stump, driven to long-off for one.
+full on seventh stump, driven to long-off for one.
 
 
 Balls faced: 9
 Bowler: Paradkar
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fifth stump, drives at this and pokes a thick edge to deep third for one."}]full on fifth stump, drives at this and pokes a thick edge to deep third for one.
+full on fifth stump, drives at this and pokes a thick edge to deep third for one.
 
 
 Balls faced: 10
 Bowler: Paradkar
 Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>nearly a wicket!</strong> Fullish length on fourth stump shapes in late and beats a drive between bat and pad but somehow doesn't clip off stump."}]<strong>nearly a wicket!</strong> Fullish length on fourth stump shapes in late and beats a drive between bat and pad but somehow doesn't clip off stump.
+<strong>nearly a wicket!</strong> Fullish length on fourth stump shapes in late and beats a drive between bat and pad but somehow doesn't clip off stump.
 
 
 Balls faced: 11
 Bowler: Paradkar
 Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Abhishek Paradkar opening with new ball left-arm swing in place of left-armer Netravalkar who is out ill. First ODI for Paradkar since 2021. He's currently a student at Leeds University in England trying to further his cricket development there."}]Abhishek Paradkar opening with new ball left-arm swing in place of left-armer Netravalkar who is out ill. First ODI for Paradkar since 2021. He's currently a student at Leeds University in England trying to further his cricket development there.
+Abhishek Paradkar opening with new ball left-arm swing in place of left-armer Netravalkar who is out ill. First ODI for Paradkar since 2021. He's currently a student at Leeds University in England trying to further his cricket development there.
 
-[{"type": "HTML", "html": "good length ball on middle, defended."}]good length ball on middle, defended.
+good length ball on middle, defended.
 
 
 Balls faced: 12
 Bowler: Paradkar
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>streaky!</strong> Full on fifth stump to encourage a drive, it flies off a thick edge but finds the gap between gully and backward point at head height and carries to deep third for one."}]<strong>streaky!</strong> Full on fifth stump to encourage a drive, it flies off a thick edge but finds the gap between gully and backward point at head height and carries to deep third for one.
+<strong>streaky!</strong> Full on fifth stump to encourage a drive, it flies off a thick edge but finds the gap between gully and backward point at head height and carries to deep third for one.
 
 
 Balls faced: 13
 Bowler: Paradkar
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish length on fourth stump, defended to cover."}]fullish length on fourth stump, defended to cover.
+fullish length on fourth stump, defended to cover.
 
 
 Balls faced: 14
 Bowler: Paradkar
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "charge down the pitch is telegraphed and Paradkar drags the length back on fifth stump to beat a wild heave for midwicket."}]charge down the pitch is telegraphed and Paradkar drags the length back on fifth stump to beat a wild heave for midwicket.
+charge down the pitch is telegraphed and Paradkar drags the length back on fifth stump to beat a wild heave for midwicket.
 
 
 Balls faced: 15
 Bowler: Paradkar
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short on sixth stump, goes to cut but miscues it into the ground."}]short on sixth stump, goes to cut but miscues it into the ground.
+short on sixth stump, goes to cut but miscues it into the ground.
 
 
 Balls faced: 16
 Bowler: Kenjige
 Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on seventh stump, driven to long-off for one."}]full on seventh stump, driven to long-off for one.
+full on seventh stump, driven to long-off for one.
 
 
 Balls faced: 17
 Bowler: Kenjige
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fifth stump, pushed back to Kenjige's left for none."}]full on fifth stump, pushed back to Kenjige's left for none.
-[{"type": "HTML", "html": "Djoker: \"Why have Zim made these changes when ultimately this could all boil down to NRR. They should now try not just to win but to win handsomely as well.\" The points and/or net run rate from today's result will not carry forward. Only the points and margin/net run rate from the wins over West Indies and Netherlands carry forward because those are the teams also going to the Super Sixes. So today's result is totally meaningless for Super Sixes/net run rate."}]Djoker: "Why have Zim made these changes when ultimately this could all boil down to NRR. They should now try not just to win but to win handsomely as well." The points and/or net run rate from today's result will not carry forward. Only the points and margin/net run rate from the wins over West Indies and Netherlands carry forward because those are the teams also going to the Super Sixes. So today's result is totally meaningless for Super Sixes/net run rate.
+full on fifth stump, pushed back to Kenjige's left for none.
+Djoker: "Why have Zim made these changes when ultimately this could all boil down to NRR. They should now try not just to win but to win handsomely as well." The points and/or net run rate from today's result will not carry forward. Only the points and margin/net run rate from the wins over West Indies and Netherlands carry forward because those are the teams also going to the Super Sixes. So today's result is totally meaningless for Super Sixes/net run rate.
 
 Balls faced: 18
 Bowler: Kenjige
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fifth stump, driven to long-off for one."}]full on fifth stump, driven to long-off for one.
+full on fifth stump, driven to long-off for one.
 
 
 Balls faced: 19
 Bowler: Kenjige
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball on the legs, flicked wide of short fine leg for one."}]good length ball on the legs, flicked wide of short fine leg for one.
+good length ball on the legs, flicked wide of short fine leg for one.
 
 
 Balls faced: 20
 Bowler: Paradkar
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "<strong>streaky!</strong> Full on fifth stump to encourage a drive, it flies off a thick edge but finds the gap between gully and backward point at head height and carries to deep third for one."}]<strong>streaky!</strong> Full on fifth stump to encourage a drive, it flies off a thick edge but finds the gap between gully and backward point at head height and carries to deep third for one.
+<strong>streaky!</strong> Full on fifth stump to encourage a drive, it flies off a thick edge but finds the gap between gully and backward point at head height and carries to deep third for one.
 
 
 Balls faced: 21
 Bowler: Paradkar
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish length on fourth stump, defended to cover."}]fullish length on fourth stump, defended to cover.
+fullish length on fourth stump, defended to cover.
 
 
 Balls faced: 22
 Bowler: Paradkar
 Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "charge down the pitch is telegraphed and Paradkar drags the length back on fifth stump to beat a wild heave for midwicket."}]charge down the pitch is telegraphed and Paradkar drags the length back on fifth stump to beat a wild heave for midwicket.
+charge down the pitch is telegraphed and Paradkar drags the length back on fifth stump to beat a wild heave for midwicket.
 
 
 Balls faced: 23
 Bowler: Paradkar
 Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short on sixth stump, goes to cut but miscues it into the ground."}]short on sixth stump, goes to cut but miscues it into the ground.
+short on sixth stump, goes to cut but miscues it into the ground.
 
 
 Balls faced: 24
 Bowler: Paradkar
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on fourth stump, tap and run into midwicket for one."}]back of a length on fourth stump, tap and run into midwicket for one.
+back of a length on fourth stump, tap and run into midwicket for one.
 
 
 Balls faced: 25
 Bowler: Paradkar
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fifth stump, defended to mid-off."}]full on fifth stump, defended to mid-off.
+full on fifth stump, defended to mid-off.
 
 
 Balls faced: 26
 Bowler: Paradkar
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on fifth stump, goes back to defend to mid-off."}]back of a length on fifth stump, goes back to defend to mid-off.
+back of a length on fifth stump, goes back to defend to mid-off.
 
 
 Balls faced: 27
 Bowler: Kenjige
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fifth stump, pushed back to Kenjige's left for none."}]full on fifth stump, pushed back to Kenjige's left for none.
-[{"type": "HTML", "html": "Djoker: \"Why have Zim made these changes when ultimately this could all boil down to NRR. They should now try not just to win but to win handsomely as well.\" The points and/or net run rate from today's result will not carry forward. Only the points and margin/net run rate from the wins over West Indies and Netherlands carry forward because those are the teams also going to the Super Sixes. So today's result is totally meaningless for Super Sixes/net run rate."}]Djoker: "Why have Zim made these changes when ultimately this could all boil down to NRR. They should now try not just to win but to win handsomely as well." The points and/or net run rate from today's result will not carry forward. Only the points and margin/net run rate from the wins over West Indies and Netherlands carry forward because those are the teams also going to the Super Sixes. So today's result is totally meaningless for Super Sixes/net run rate.
+full on fifth stump, pushed back to Kenjige's left for none.
+Djoker: "Why have Zim made these changes when ultimately this could all boil down to NRR. They should now try not just to win but to win handsomely as well." The points and/or net run rate from today's result will not carry forward. Only the points and margin/net run rate from the wins over West Indies and Netherlands carry forward because those are the teams also going to the Super Sixes. So today's result is totally meaningless for Super Sixes/net run rate.
 
 Balls faced: 28
 Bowler: Kenjige
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on fifth stump, driven to long-off for one."}]full on fifth stump, driven to long-off for one.
+full on fifth stump, driven to long-off for one.
 
 
 Balls faced: 29
 Bowler: Kenjige
 Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball on the legs, flicked wide of short fine leg for one."}]good length ball on the legs, flicked wide of short fine leg for one.
+good length ball on the legs, flicked wide of short fine leg for one.
 
 
 Balls faced: 30
 Bowler: Kenjige
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball on middle, flicked into midwicket for one."}]good length ball on middle, flicked into midwicket for one.
+good length ball on middle, flicked into midwicket for one.
 
 
 Balls faced: 31
 Bowler: Kenjige
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, defended to cover."}]full on fourth stump, defended to cover.
+full on fourth stump, defended to cover.
 
 
 Balls faced: 32
 Bowler: Kenjige
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Slip is gone now for Kenjige."}]Slip is gone now for Kenjige.
+Slip is gone now for Kenjige.
 
-[{"type": "HTML", "html": "full on the legs, flicked to square leg for one."}]full on the legs, flicked to square leg for one.
+full on the legs, flicked to square leg for one.
 
 
 Balls faced: 33
 Bowler: Paradkar
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on fourth stump, tap and run into midwicket for one."}]back of a length on fourth stump, tap and run into midwicket for one.
+back of a length on fourth stump, tap and run into midwicket for one.
 
 
 Balls faced: 34
 Bowler: Paradkar
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fifth stump, defended to mid-off."}]full on fifth stump, defended to mid-off.
+full on fifth stump, defended to mid-off.
 
 
 Balls faced: 35
 Bowler: Paradkar
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on fifth stump, goes back to defend to mid-off."}]back of a length on fifth stump, goes back to defend to mid-off.
+back of a length on fifth stump, goes back to defend to mid-off.
 
 
 Balls faced: 36
 Bowler: Kenjige
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball on middle, flicked into midwicket for one."}]good length ball on middle, flicked into midwicket for one.
+good length ball on middle, flicked into midwicket for one.
 
 
 Balls faced: 37
 Bowler: Kenjige
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, defended to cover."}]full on fourth stump, defended to cover.
+full on fourth stump, defended to cover.
 
 
 Balls faced: 38
 Bowler: Kenjige
 Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "Slip is gone now for Kenjige."}]Slip is gone now for Kenjige.
+Slip is gone now for Kenjige.
 
-[{"type": "HTML", "html": "full on the legs, flicked to square leg for one."}]full on the legs, flicked to square leg for one.
+full on the legs, flicked to square leg for one.
 
 
 Balls faced: 39
 Bowler: Kenjige
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on fifth stump, defended to point."}]good length ball on fifth stump, defended to point.
+good length ball on fifth stump, defended to point.
 
 
 Balls faced: 40
 Bowler: Kenjige
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish length on off, defended."}]fullish length on off, defended.
+fullish length on off, defended.
 
 
 Balls faced: 41
 Bowler: Kenjige
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the stumps, flicked to midwicket for none."}]full on the stumps, flicked to midwicket for none.
+full on the stumps, flicked to midwicket for none.
 
 
 Balls faced: 42
 Bowler: Kenjige
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "fullish length on the legs, flicked away through square leg for a well-run two to just beat a relay from Jessy Singh over the stumps to the keeper captain Monank."}]fullish length on the legs, flicked away through square leg for a well-run two to just beat a relay from Jessy Singh over the stumps to the keeper captain Monank.
+fullish length on the legs, flicked away through square leg for a well-run two to just beat a relay from Jessy Singh over the stumps to the keeper captain Monank.
 
 
 Balls faced: 43
 Bowler: Kenjige
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, defended back to Kenjige."}]full on middle, defended back to Kenjige.
+full on middle, defended back to Kenjige.
 
 
 Balls faced: 44
 Bowler: Kenjige
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, defended on the front foot."}]full on fourth stump, defended on the front foot.
+full on fourth stump, defended on the front foot.
 
 
 Balls faced: 45
 Bowler: Jasdeep
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 3
 
 
-[{"type": "HTML", "html": "back of a length on off, goes back and across to flick through wide mid-on where Jahangir gives chase to save it just before the rope and relays in for three."}]back of a length on off, goes back and across to flick through wide mid-on where Jahangir gives chase to save it just before the rope and relays in for three.
+back of a length on off, goes back and across to flick through wide mid-on where Jahangir gives chase to save it just before the rope and relays in for three.
 
 
 Balls faced: 46
 Bowler: Jasdeep
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on fifth stump, goes back to flick into midwicket for one."}]back of a length on fifth stump, goes back to flick into midwicket for one.
+back of a length on fifth stump, goes back to flick into midwicket for one.
 
 
 Balls faced: 47
 Bowler: Jasdeep
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide, slapped to mid-off for none."}]short and wide, slapped to mid-off for none.
+short and wide, slapped to mid-off for none.
 
 
 Balls faced: 48
 Bowler: Kenjige
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on fifth stump, defended to point."}]good length ball on fifth stump, defended to point.
+good length ball on fifth stump, defended to point.
 
 
 Balls faced: 49
 Bowler: Kenjige
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fullish length on off, defended."}]fullish length on off, defended.
+fullish length on off, defended.
 
 
 Balls faced: 50
 Bowler: Kenjige
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on the stumps, flicked to midwicket for none."}]full on the stumps, flicked to midwicket for none.
+full on the stumps, flicked to midwicket for none.
 
 
 Balls faced: 51
 Bowler: Kenjige
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "fullish length on the legs, flicked away through square leg for a well-run two to just beat a relay from Jessy Singh over the stumps to the keeper captain Monank."}]fullish length on the legs, flicked away through square leg for a well-run two to just beat a relay from Jessy Singh over the stumps to the keeper captain Monank.
+fullish length on the legs, flicked away through square leg for a well-run two to just beat a relay from Jessy Singh over the stumps to the keeper captain Monank.
 
 
 Balls faced: 52
 Bowler: Kenjige
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, defended back to Kenjige."}]full on middle, defended back to Kenjige.
+full on middle, defended back to Kenjige.
 
 
 Balls faced: 53
 Bowler: Kenjige
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, defended on the front foot."}]full on fourth stump, defended on the front foot.
+full on fourth stump, defended on the front foot.
 
 
 Balls faced: 54
 Bowler: Patel
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on seventh stump, driven to cover, misfield by Kenjige opens the door for a single."}]full on seventh stump, driven to cover, misfield by Kenjige opens the door for a single.
+full on seventh stump, driven to cover, misfield by Kenjige opens the door for a single.
 
 
 Balls faced: 55
 Bowler: Patel
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, punched to long-on for one."}]full on middle, punched to long-on for one.
+full on middle, punched to long-on for one.
 
 
 Balls faced: 56
 Bowler: Jasdeep
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 3
 
 
-[{"type": "HTML", "html": "back of a length on off, goes back and across to flick through wide mid-on where Jahangir gives chase to save it just before the rope and relays in for three."}]back of a length on off, goes back and across to flick through wide mid-on where Jahangir gives chase to save it just before the rope and relays in for three.
+back of a length on off, goes back and across to flick through wide mid-on where Jahangir gives chase to save it just before the rope and relays in for three.
 
 
 Balls faced: 57
 Bowler: Jasdeep
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on fifth stump, goes back to flick into midwicket for one."}]back of a length on fifth stump, goes back to flick into midwicket for one.
+back of a length on fifth stump, goes back to flick into midwicket for one.
 
 
 Balls faced: 58
 Bowler: Jasdeep
 Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short and wide, slapped to mid-off for none."}]short and wide, slapped to mid-off for none.
+short and wide, slapped to mid-off for none.
 
 
 Balls faced: 59
 Bowler: Jasdeep
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on fifth stump, shuffles across and flicks this through square leg for one."}]back of a length on fifth stump, shuffles across and flicks this through square leg for one.
+back of a length on fifth stump, shuffles across and flicks this through square leg for one.
 
 
 Balls faced: 60
 Bowler: Jasdeep
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on fifth stump, prods at this and is beaten."}]back of a length on fifth stump, prods at this and is beaten.
+back of a length on fifth stump, prods at this and is beaten.
 
 
 Balls faced: 61
 Bowler: Jasdeep
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>on the charge again!</b> Full on off, shuffles forward and launches a drive over mid-off this time, one bounce over the rope. <b>Half-century partnership comes up with that boundary. </b>"}]<b>on the charge again!</b> Full on off, shuffles forward and launches a drive over mid-off this time, one bounce over the rope. <b>Half-century partnership comes up with that boundary. </b>
+<b>on the charge again!</b> Full on off, shuffles forward and launches a drive over mid-off this time, one bounce over the rope. <b>Half-century partnership comes up with that boundary. </b>
 
 
 Balls faced: 62
 Bowler: Jasdeep
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "fullish length on middle, Kaia has finally had enough and charges to slaughter this with a clean pendulum drive high and deep over long-on. Not a slog. But plenty of power."}]fullish length on middle, Kaia has finally had enough and charges to slaughter this with a clean pendulum drive high and deep over long-on. Not a slog. But plenty of power.
+fullish length on middle, Kaia has finally had enough and charges to slaughter this with a clean pendulum drive high and deep over long-on. Not a slog. But plenty of power.
 
 
 Balls faced: 63
 Bowler: Jasdeep
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on fourth stump, goes back to defend."}]back of a length on fourth stump, goes back to defend.
+back of a length on fourth stump, goes back to defend.
 
 
 Balls faced: 64
 Bowler: Patel
 Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on seventh stump, driven to cover, misfield by Kenjige opens the door for a single."}]full on seventh stump, driven to cover, misfield by Kenjige opens the door for a single.
+full on seventh stump, driven to cover, misfield by Kenjige opens the door for a single.
 
 
 Balls faced: 65
 Bowler: Patel
 Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, punched to long-on for one."}]full on middle, punched to long-on for one.
+full on middle, punched to long-on for one.
 
 
 Balls faced: 66
 Bowler: Patel
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, flicked to Gajanand at midwicket in the ring, who misfields to allow a single."}]full on middle, flicked to Gajanand at midwicket in the ring, who misfields to allow a single.
+full on middle, flicked to Gajanand at midwicket in the ring, who misfields to allow a single.
 
 
 Balls faced: 67
 Bowler: Patel
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full on the stumps, flicked wide of long-on for two."}]full on the stumps, flicked wide of long-on for two.
+full on the stumps, flicked wide of long-on for two.
 
 
 Balls faced: 68
 Bowler: Patel
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, defended."}]full on middle, defended.
+full on middle, defended.
 
 
 Balls faced: 69
 Bowler: Patel
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fifth stump, defended to extra cover."}]full on fifth stump, defended to extra cover.
+full on fifth stump, defended to extra cover.
 
 
 Balls faced: 70
 Bowler: Patel
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on the stumps, heaves this across the line to deep midwicket along the ground for one."}]full on the stumps, heaves this across the line to deep midwicket along the ground for one.
+full on the stumps, heaves this across the line to deep midwicket along the ground for one.
 
 
 Balls faced: 71
 Bowler: Jasdeep
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on fifth stump, shuffles across and flicks this through square leg for one."}]back of a length on fifth stump, shuffles across and flicks this through square leg for one.
+back of a length on fifth stump, shuffles across and flicks this through square leg for one.
 
 
 Balls faced: 72
 Bowler: Jasdeep
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on fifth stump, prods at this and is beaten."}]back of a length on fifth stump, prods at this and is beaten.
+back of a length on fifth stump, prods at this and is beaten.
 
 
 Balls faced: 73
 Bowler: Jasdeep
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>on the charge again!</b> Full on off, shuffles forward and launches a drive over mid-off this time, one bounce over the rope. <b>Half-century partnership comes up with that boundary. </b>"}]<b>on the charge again!</b> Full on off, shuffles forward and launches a drive over mid-off this time, one bounce over the rope. <b>Half-century partnership comes up with that boundary. </b>
+<b>on the charge again!</b> Full on off, shuffles forward and launches a drive over mid-off this time, one bounce over the rope. <b>Half-century partnership comes up with that boundary. </b>
 
 
 Balls faced: 74
 Bowler: Jasdeep
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "fullish length on middle, Kaia has finally had enough and charges to slaughter this with a clean pendulum drive high and deep over long-on. Not a slog. But plenty of power."}]fullish length on middle, Kaia has finally had enough and charges to slaughter this with a clean pendulum drive high and deep over long-on. Not a slog. But plenty of power.
+fullish length on middle, Kaia has finally had enough and charges to slaughter this with a clean pendulum drive high and deep over long-on. Not a slog. But plenty of power.
 
 
 Balls faced: 75
 Bowler: Jasdeep
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on fourth stump, goes back to defend."}]back of a length on fourth stump, goes back to defend.
+back of a length on fourth stump, goes back to defend.
 
 
 Balls faced: 76
 Bowler: Jasdeep
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "full on leg stump, slogs this toward Jahangir at deep square leg but it goes straight up rather than going deep distance wise. Jahangir settles under this 15 yards inside the rope looking a touch nervous with all the time in the world to think about it. But he reaches forward and takes it on his knees bending forward."}]full on leg stump, slogs this toward Jahangir at deep square leg but it goes straight up rather than going deep distance wise. Jahangir settles under this 15 yards inside the rope looking a touch nervous with all the time in the world to think about it. But he reaches forward and takes it on his knees bending forward.
+Kaia is OUT! caught
+c Shayan Jahangir b Jasdeep Singh
+Innocent Kaia c Shayan Jahangir b Jasdeep Singh 32 (41b 1x4 1x6 52m) SR: 78.04
+full on leg stump, slogs this toward Jahangir at deep square leg but it goes straight up rather than going deep distance wise. Jahangir settles under this 15 yards inside the rope looking a touch nervous with all the time in the world to think about it. But he reaches forward and takes it on his knees bending forward.
 
 
 Balls faced: 77
 Bowler: Patel
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on middle, flicked to Gajanand at midwicket in the ring, who misfields to allow a single."}]full on middle, flicked to Gajanand at midwicket in the ring, who misfields to allow a single.
+full on middle, flicked to Gajanand at midwicket in the ring, who misfields to allow a single.
 
 
 Balls faced: 78
 Bowler: Patel
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full on the stumps, flicked wide of long-on for two."}]full on the stumps, flicked wide of long-on for two.
+full on the stumps, flicked wide of long-on for two.
 
 
 Balls faced: 79
 Bowler: Patel
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on middle, defended."}]full on middle, defended.
+full on middle, defended.
 
 
 Balls faced: 80
 Bowler: Patel
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fifth stump, defended to extra cover."}]full on fifth stump, defended to extra cover.
+full on fifth stump, defended to extra cover.
 
 
 Balls faced: 81
 Bowler: Patel
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full on the stumps, heaves this across the line to deep midwicket along the ground for one."}]full on the stumps, heaves this across the line to deep midwicket along the ground for one.
+full on the stumps, heaves this across the line to deep midwicket along the ground for one.
 
 
 Balls faced: 82
 Bowler: Jasdeep
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "full on leg stump, slogs this toward Jahangir at deep square leg but it goes straight up rather than going deep distance wise. Jahangir settles under this 15 yards inside the rope looking a touch nervous with all the time in the world to think about it. But he reaches forward and takes it on his knees bending forward."}]full on leg stump, slogs this toward Jahangir at deep square leg but it goes straight up rather than going deep distance wise. Jahangir settles under this 15 yards inside the rope looking a touch nervous with all the time in the world to think about it. But he reaches forward and takes it on his knees bending forward.
+Kaia is OUT! caught
+c Shayan Jahangir b Jasdeep Singh
+Innocent Kaia c Shayan Jahangir b Jasdeep Singh 32 (41b 1x4 1x6 52m) SR: 78.04
+full on leg stump, slogs this toward Jahangir at deep square leg but it goes straight up rather than going deep distance wise. Jahangir settles under this 15 yards inside the rope looking a touch nervous with all the time in the world to think about it. But he reaches forward and takes it on his knees bending forward.
 
 
 
@@ -824,6 +910,7 @@ Match: all_games_1407043_1407107.json
 Balls faced: 1
 Bowler: NM Odhiambo
 Over: 14
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -834,6 +921,7 @@ Run scored: 4
 Balls faced: 2
 Bowler: NM Odhiambo
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -844,6 +932,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Vraj Patel
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -854,6 +943,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Vraj Patel
 Over: 15
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -864,6 +954,7 @@ Run scored: 6
 Balls faced: 5
 Bowler: NM Odhiambo
 Over: 14
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -874,6 +965,7 @@ Run scored: 4
 Balls faced: 6
 Bowler: NM Odhiambo
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -884,6 +976,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Oluoch
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -894,6 +987,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Oluoch
 Over: 16
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -904,6 +998,7 @@ Run scored: 6
 Balls faced: 9
 Bowler: Oluoch
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -914,6 +1009,7 @@ Run scored: 1
 Balls faced: 10
 Bowler: Vraj Patel
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -924,6 +1020,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Vraj Patel
 Over: 15
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -934,16 +1031,20 @@ Run scored: 6
 Balls faced: 12
 Bowler: S Ngoche
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Kaia is OUT! stumped
+st †Karim b Ngoche
+Innocent Kaia st †Karim b Ngoche 18 (8b 1x4 2x6) SR: 225
 
 
 
 Balls faced: 13
 Bowler: Oluoch
 Over: 16
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -954,6 +1055,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Oluoch
 Over: 16
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -964,6 +1066,7 @@ Run scored: 6
 Balls faced: 15
 Bowler: Oluoch
 Over: 16
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -974,10 +1077,13 @@ Run scored: 1
 Balls faced: 16
 Bowler: S Ngoche
 Over: 17
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Kaia is OUT! stumped
+st †Karim b Ngoche
+Innocent Kaia st †Karim b Ngoche 18 (8b 1x4 2x6) SR: 225
 
 
 
@@ -986,321 +1092,357 @@ Match: all_games_1408099_1408106.json
 Balls faced: 1
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "squeezed back to the bowler, got too close to the pitch."}]squeezed back to the bowler, got too close to the pitch.
+squeezed back to the bowler, got too close to the pitch.
 
 
 Balls faced: 2
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beaten on the inside edge as he goes for a loose drive outside off"}]beaten on the inside edge as he goes for a loose drive outside off
+beaten on the inside edge as he goes for a loose drive outside off
 
 
 Balls faced: 3
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off, left alone"}]length outside off, left alone
+length outside off, left alone
 
 
 Balls faced: 4
 Bowler: Hume
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kaia at No. 3"}]Kaia at No. 3
+Kaia at No. 3
 
-[{"type": "HTML", "html": "full on the stumps, defended back"}]full on the stumps, defended back
+full on the stumps, defended back
 
 
 Balls faced: 5
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "squeezed back to the bowler, got too close to the pitch."}]squeezed back to the bowler, got too close to the pitch.
+squeezed back to the bowler, got too close to the pitch.
 
 
 Balls faced: 6
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "beaten on the inside edge as he goes for a loose drive outside off"}]beaten on the inside edge as he goes for a loose drive outside off
+beaten on the inside edge as he goes for a loose drive outside off
 
 
 Balls faced: 7
 Bowler: Hume
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length outside off, left alone"}]length outside off, left alone
+length outside off, left alone
 
 
 Balls faced: 8
 Bowler: Hume
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Kaia at No. 3"}]Kaia at No. 3
+Kaia at No. 3
 
-[{"type": "HTML", "html": "full on the stumps, defended back"}]full on the stumps, defended back
+full on the stumps, defended back
 
 
 Balls faced: 9
 Bowler: Hume
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "driven down to mid-on as they take a quick single"}]driven down to mid-on as they take a quick single
+driven down to mid-on as they take a quick single
 
 
 Balls faced: 10
 Bowler: Hume
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length on the stumps, defended"}]short of length on the stumps, defended
+short of length on the stumps, defended
 
 
 Balls faced: 11
 Bowler: Hume
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "right on top of the bounce as he defends back"}]right on top of the bounce as he defends back
+right on top of the bounce as he defends back
 
 
 Balls faced: 12
 Bowler: Hume
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "driven into the gap at extra cover for a couple"}]driven into the gap at extra cover for a couple
+driven into the gap at extra cover for a couple
 
 
 Balls faced: 13
 Bowler: Young
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "gentle tap into the off side as they dash off before the point fielder comes in to prevent the single"}]gentle tap into the off side as they dash off before the point fielder comes in to prevent the single
+gentle tap into the off side as they dash off before the point fielder comes in to prevent the single
 
 
 Balls faced: 14
 Bowler: Young
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets half-forward and defends to cover"}]gets half-forward and defends to cover
+gets half-forward and defends to cover
 
 
 Balls faced: 15
 Bowler: Young
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length outside off, left alone"}]short of length outside off, left alone
+short of length outside off, left alone
 
 
 Balls faced: 16
 Bowler: Young
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "off the thigh pad, down to fine leg. Was looking to nudge it fine"}]off the thigh pad, down to fine leg. Was looking to nudge it fine
+off the thigh pad, down to fine leg. Was looking to nudge it fine
 
 Legbyes: 2
 Balls faced: 17
 Bowler: Young
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Young for his first over. A wide slip in place"}]Young for his first over. A wide slip in place
+Young for his first over. A wide slip in place
 
-[{"type": "HTML", "html": "bunts one off the back foot to cover"}]bunts one off the back foot to cover
+bunts one off the back foot to cover
 
 
 Balls faced: 18
 Bowler: Hume
 Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "driven down to mid-on as they take a quick single"}]driven down to mid-on as they take a quick single
+driven down to mid-on as they take a quick single
 
 
 Balls faced: 19
 Bowler: Hume
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length on the stumps, defended"}]short of length on the stumps, defended
+short of length on the stumps, defended
 
 
 Balls faced: 20
 Bowler: Hume
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "right on top of the bounce as he defends back"}]right on top of the bounce as he defends back
+right on top of the bounce as he defends back
 
 
 Balls faced: 21
 Bowler: Hume
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "driven into the gap at extra cover for a couple"}]driven into the gap at extra cover for a couple
+driven into the gap at extra cover for a couple
 
 
 Balls faced: 22
 Bowler: Hume
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "plays the short-arm jab towards deep midwicket"}]plays the short-arm jab towards deep midwicket
+plays the short-arm jab towards deep midwicket
 
 
 Balls faced: 23
 Bowler: Hume
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "works it into the leg side for a quick single"}]works it into the leg side for a quick single
-[{"type": "HTML", "html": "Thick clouds rolling in"}]Thick clouds rolling in
+works it into the leg side for a quick single
+Thick clouds rolling in
 
 Balls faced: 24
 Bowler: Young
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "gentle tap into the off side as they dash off before the point fielder comes in to prevent the single"}]gentle tap into the off side as they dash off before the point fielder comes in to prevent the single
+gentle tap into the off side as they dash off before the point fielder comes in to prevent the single
 
 
 Balls faced: 25
 Bowler: Young
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "gets half-forward and defends to cover"}]gets half-forward and defends to cover
+gets half-forward and defends to cover
 
 
 Balls faced: 26
 Bowler: Young
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "short of length outside off, left alone"}]short of length outside off, left alone
+short of length outside off, left alone
 
 
 Balls faced: 27
 Bowler: Young
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "off the thigh pad, down to fine leg. Was looking to nudge it fine"}]off the thigh pad, down to fine leg. Was looking to nudge it fine
+off the thigh pad, down to fine leg. Was looking to nudge it fine
 
 Legbyes: 2
 Balls faced: 28
 Bowler: Young
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Young for his first over. A wide slip in place"}]Young for his first over. A wide slip in place
+Young for his first over. A wide slip in place
 
-[{"type": "HTML", "html": "bunts one off the back foot to cover"}]bunts one off the back foot to cover
+bunts one off the back foot to cover
 
 
 Balls faced: 29
 Bowler: Young
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Thanks, Shashank. Here's Craig Young"}]Thanks, Shashank. Here's Craig Young
-
-[{"type": "HTML", "html": "<b>the short ball does the trick.</b> Kaia went for the pull but was late on the shot. Got a top edge onto the helmet that lobbed towards short extra cover. A doll for Dockrell there"}]<b>the short ball does the trick.</b> Kaia went for the pull but was late on the shot. Got a top edge onto the helmet that lobbed towards short extra cover. A doll for Dockrell there
+Thanks, Shashank. Here's Craig Young
+Kaia is OUT! caught
+c Dockrell b Young
+Innocent Kaia c Dockrell b Young 5 (16b 0x4 0x6 24m) SR: 31.25
+<b>the short ball does the trick.</b> Kaia went for the pull but was late on the shot. Got a top edge onto the helmet that lobbed towards short extra cover. A doll for Dockrell there
 
 
 Balls faced: 30
 Bowler: Hume
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "plays the short-arm jab towards deep midwicket"}]plays the short-arm jab towards deep midwicket
+plays the short-arm jab towards deep midwicket
 
 
 Balls faced: 31
 Bowler: Hume
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "works it into the leg side for a quick single"}]works it into the leg side for a quick single
-[{"type": "HTML", "html": "Thick clouds rolling in"}]Thick clouds rolling in
+works it into the leg side for a quick single
+Thick clouds rolling in
 
 Balls faced: 32
 Bowler: Young
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Thanks, Shashank. Here's Craig Young"}]Thanks, Shashank. Here's Craig Young
-
-[{"type": "HTML", "html": "<b>the short ball does the trick.</b> Kaia went for the pull but was late on the shot. Got a top edge onto the helmet that lobbed towards short extra cover. A doll for Dockrell there"}]<b>the short ball does the trick.</b> Kaia went for the pull but was late on the shot. Got a top edge onto the helmet that lobbed towards short extra cover. A doll for Dockrell there
+Thanks, Shashank. Here's Craig Young
+Kaia is OUT! caught
+c Dockrell b Young
+Innocent Kaia c Dockrell b Young 5 (16b 0x4 0x6 24m) SR: 31.25
+<b>the short ball does the trick.</b> Kaia went for the pull but was late on the shot. Got a top edge onto the helmet that lobbed towards short extra cover. A doll for Dockrell there
 
 
 
@@ -1308,158 +1450,178 @@ Match: all_games_1408099_1408108.json
 Balls faced: 1
 Bowler: Adair
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length just outside off, he gets low and steers to deep third"}]On a length just outside off, he gets low and steers to deep third
+On a length just outside off, he gets low and steers to deep third
 
 
 Balls faced: 2
 Bowler: Adair
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Dug in short and Kaia pulls it away through square leg and gets off the mark with a brace"}]Dug in short and Kaia pulls it away through square leg and gets off the mark with a brace
+Dug in short and Kaia pulls it away through square leg and gets off the mark with a brace
 
 
 Balls faced: 3
 Bowler: Adair
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball stays low and Kaia loses shape as he looks to cut"}]Length ball stays low and Kaia loses shape as he looks to cut
+Length ball stays low and Kaia loses shape as he looks to cut
 
 
 Balls faced: 4
 Bowler: Adair
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Innocent Kaia comes in at No. 4"}]Innocent Kaia comes in at No. 4
+Innocent Kaia comes in at No. 4
 
-[{"type": "HTML", "html": "Dug in back of length on off, Kaia defends"}]Dug in back of length on off, Kaia defends
+Dug in back of length on off, Kaia defends
 
 
 Balls faced: 5
 Bowler: Campher
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Campher traps his man!</strong> It's a length ball on middle and off that straightens after pitching and Kaia can't get bat on it. He is struck in front and Ireland have two quick wickets!"}]<strong>Campher traps his man!</strong> It's a length ball on middle and off that straightens after pitching and Kaia can't get bat on it. He is struck in front and Ireland have two quick wickets!
-[{"type": "HTML", "html": "And with that, it will be <b>drinks</b>. And time to welcome Aaditya back to the comms box!"}]And with that, it will be <b>drinks</b>. And time to welcome Aaditya back to the comms box!
+Kaia is OUT! lbw
+lbw b Campher
+Innocent Kaia lbw b Campher 5 (8b 0x4 0x6 5m) SR: 62.5
+<strong>Campher traps his man!</strong> It's a length ball on middle and off that straightens after pitching and Kaia can't get bat on it. He is struck in front and Ireland have two quick wickets!
+And with that, it will be <b>drinks</b>. And time to welcome Aaditya back to the comms box!
 
 Balls faced: 6
 Bowler: Campher
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Mark: \"A win would do great things for Ireland's morale and, hopefully, indicate better times ahead. For Zim, though, it would be yet another poor result: what can they do to revive their fortunes? One thing, though, that I simply do not understand: why is there no Test match in this tour? Heaven sent opportunity for one between two teams that don't play enough Tests.\" I am in full agreement about the point on slipping in a Test or two!"}]Mark: "A win would do great things for Ireland's morale and, hopefully, indicate better times ahead. For Zim, though, it would be yet another poor result: what can they do to revive their fortunes? One thing, though, that I simply do not understand: why is there no Test match in this tour? Heaven sent opportunity for one between two teams that don't play enough Tests." I am in full agreement about the point on slipping in a Test or two!
+Mark: "A win would do great things for Ireland's morale and, hopefully, indicate better times ahead. For Zim, though, it would be yet another poor result: what can they do to revive their fortunes? One thing, though, that I simply do not understand: why is there no Test match in this tour? Heaven sent opportunity for one between two teams that don't play enough Tests." I am in full agreement about the point on slipping in a Test or two!
 
-[{"type": "HTML", "html": "Full around off, defended to the off side"}]Full around off, defended to the off side
+Full around off, defended to the off side
 
 
 Balls faced: 7
 Bowler: Campher
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, staying low, and Kaia gets low to try and cut, but misses"}]Length ball outside off, staying low, and Kaia gets low to try and cut, but misses
+Length ball outside off, staying low, and Kaia gets low to try and cut, but misses
 
 
 Balls faced: 8
 Bowler: Campher
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Full on middle and off, he flicks it away to deep midwicket and Kaia picks up two more"}]Full on middle and off, he flicks it away to deep midwicket and Kaia picks up two more
+Full on middle and off, he flicks it away to deep midwicket and Kaia picks up two more
 
 
 Balls faced: 9
 Bowler: Adair
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "On a length just outside off, he gets low and steers to deep third"}]On a length just outside off, he gets low and steers to deep third
+On a length just outside off, he gets low and steers to deep third
 
 
 Balls faced: 10
 Bowler: Adair
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Dug in short and Kaia pulls it away through square leg and gets off the mark with a brace"}]Dug in short and Kaia pulls it away through square leg and gets off the mark with a brace
+Dug in short and Kaia pulls it away through square leg and gets off the mark with a brace
 
 
 Balls faced: 11
 Bowler: Adair
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball stays low and Kaia loses shape as he looks to cut"}]Length ball stays low and Kaia loses shape as he looks to cut
+Length ball stays low and Kaia loses shape as he looks to cut
 
 
 Balls faced: 12
 Bowler: Adair
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Innocent Kaia comes in at No. 4"}]Innocent Kaia comes in at No. 4
+Innocent Kaia comes in at No. 4
 
-[{"type": "HTML", "html": "Dug in back of length on off, Kaia defends"}]Dug in back of length on off, Kaia defends
+Dug in back of length on off, Kaia defends
 
 
 Balls faced: 13
 Bowler: Campher
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Campher traps his man!</strong> It's a length ball on middle and off that straightens after pitching and Kaia can't get bat on it. He is struck in front and Ireland have two quick wickets!"}]<strong>Campher traps his man!</strong> It's a length ball on middle and off that straightens after pitching and Kaia can't get bat on it. He is struck in front and Ireland have two quick wickets!
-[{"type": "HTML", "html": "And with that, it will be <b>drinks</b>. And time to welcome Aaditya back to the comms box!"}]And with that, it will be <b>drinks</b>. And time to welcome Aaditya back to the comms box!
+Kaia is OUT! lbw
+lbw b Campher
+Innocent Kaia lbw b Campher 5 (8b 0x4 0x6 5m) SR: 62.5
+<strong>Campher traps his man!</strong> It's a length ball on middle and off that straightens after pitching and Kaia can't get bat on it. He is struck in front and Ireland have two quick wickets!
+And with that, it will be <b>drinks</b>. And time to welcome Aaditya back to the comms box!
 
 Balls faced: 14
 Bowler: Campher
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Mark: \"A win would do great things for Ireland's morale and, hopefully, indicate better times ahead. For Zim, though, it would be yet another poor result: what can they do to revive their fortunes? One thing, though, that I simply do not understand: why is there no Test match in this tour? Heaven sent opportunity for one between two teams that don't play enough Tests.\" I am in full agreement about the point on slipping in a Test or two!"}]Mark: "A win would do great things for Ireland's morale and, hopefully, indicate better times ahead. For Zim, though, it would be yet another poor result: what can they do to revive their fortunes? One thing, though, that I simply do not understand: why is there no Test match in this tour? Heaven sent opportunity for one between two teams that don't play enough Tests." I am in full agreement about the point on slipping in a Test or two!
+Mark: "A win would do great things for Ireland's morale and, hopefully, indicate better times ahead. For Zim, though, it would be yet another poor result: what can they do to revive their fortunes? One thing, though, that I simply do not understand: why is there no Test match in this tour? Heaven sent opportunity for one between two teams that don't play enough Tests." I am in full agreement about the point on slipping in a Test or two!
 
-[{"type": "HTML", "html": "Full around off, defended to the off side"}]Full around off, defended to the off side
+Full around off, defended to the off side
 
 
 Balls faced: 15
 Bowler: Campher
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length ball outside off, staying low, and Kaia gets low to try and cut, but misses"}]Length ball outside off, staying low, and Kaia gets low to try and cut, but misses
+Length ball outside off, staying low, and Kaia gets low to try and cut, but misses
 
 
 Balls faced: 16
 Bowler: Campher
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Full on middle and off, he flicks it away to deep midwicket and Kaia picks up two more"}]Full on middle and off, he flicks it away to deep midwicket and Kaia picks up two more
+Full on middle and off, he flicks it away to deep midwicket and Kaia picks up two more

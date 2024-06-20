@@ -2,6 +2,7 @@ Match: all_games_1383037_1383088.json
 Balls faced: 1
 Bowler: Sharif
 Over: 17
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -12,6 +13,7 @@ Run scored: 2
 Balls faced: 2
 Bowler: Main
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -22,6 +24,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Sharif
 Over: 17
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -32,6 +35,7 @@ Run scored: 2
 Balls faced: 4
 Bowler: Currie
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -42,6 +46,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Currie
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -52,6 +57,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Main
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -62,6 +68,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Sharif
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Sharif
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -82,6 +90,7 @@ Run scored: 1
 Balls faced: 9
 Bowler: Currie
 Over: 19
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Currie
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -102,6 +112,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Sharif
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -112,6 +123,7 @@ Run scored: 1
 Balls faced: 12
 Bowler: Sharif
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -124,261 +136,291 @@ Match: all_games_1411166_1415708.json
 Balls faced: 1
 Bowler: Axar Patel
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Subhashith: \"These pitches might make \"purists\" happy. But, if you want to bring crowds to matches and make cricket popular in USA, these pitches will do more harm than good.\""}]Subhashith: "These pitches might make "purists" happy. But, if you want to bring crowds to matches and make cricket popular in USA, these pitches will do more harm than good."
+Subhashith: "These pitches might make "purists" happy. But, if you want to bring crowds to matches and make cricket popular in USA, these pitches will do more harm than good."
 
-[{"type": "HTML", "html": "dabs it straight to short third"}]dabs it straight to short third
+dabs it straight to short third
 
 
 Balls faced: 2
 Bowler: Axar Patel
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "reverse-swept to deep point, so much risk for a single"}]reverse-swept to deep point, so much risk for a single
+reverse-swept to deep point, so much risk for a single
 
 
 Balls faced: 3
 Bowler: Hardik
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "mistimes a heave, one bounce to mid-on as they scamper a single"}]mistimes a heave, one bounce to mid-on as they scamper a single
+mistimes a heave, one bounce to mid-on as they scamper a single
 
 
 Balls faced: 4
 Bowler: Hardik
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Sunil: \"Why the stadium is not full, when there was such a high demand for tickets?\" -- Really have no answer to that. It is mind-boggling for sure."}]Sunil: "Why the stadium is not full, when there was such a high demand for tickets?" -- Really have no answer to that. It is mind-boggling for sure.
+Sunil: "Why the stadium is not full, when there was such a high demand for tickets?" -- Really have no answer to that. It is mind-boggling for sure.
 
-[{"type": "HTML", "html": "beats him with the short ball as Hardik follows him. Little was backing away to pull, but ended up bailing out of the stroke"}]beats him with the short ball as Hardik follows him. Little was backing away to pull, but ended up bailing out of the stroke
+beats him with the short ball as Hardik follows him. Little was backing away to pull, but ended up bailing out of the stroke
 
 
 Balls faced: 5
 Bowler: Hardik
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "slapped to the right of mid-off this time. Rohit with the chase, manages to pull it back in."}]slapped to the right of mid-off this time. Rohit with the chase, manages to pull it back in.
+slapped to the right of mid-off this time. Rohit with the chase, manages to pull it back in.
 
 
 Balls faced: 6
 Bowler: Hardik
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slapped back past mid-on! Ball made a thumping sound as Josh Little swatted it away."}]slapped back past mid-on! Ball made a thumping sound as Josh Little swatted it away.
+slapped back past mid-on! Ball made a thumping sound as Josh Little swatted it away.
 
 
 Balls faced: 7
 Bowler: Axar Patel
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
-[{"type": "HTML", "html": "Subhashith: \"These pitches might make \"purists\" happy. But, if you want to bring crowds to matches and make cricket popular in USA, these pitches will do more harm than good.\""}]Subhashith: "These pitches might make "purists" happy. But, if you want to bring crowds to matches and make cricket popular in USA, these pitches will do more harm than good."
+Subhashith: "These pitches might make "purists" happy. But, if you want to bring crowds to matches and make cricket popular in USA, these pitches will do more harm than good."
 
-[{"type": "HTML", "html": "dabs it straight to short third"}]dabs it straight to short third
+dabs it straight to short third
 
 
 Balls faced: 8
 Bowler: Axar Patel
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "reverse-swept to deep point, so much risk for a single"}]reverse-swept to deep point, so much risk for a single
+reverse-swept to deep point, so much risk for a single
 
 
 Balls faced: 9
 Bowler: Jadeja
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "gets across the stumps and paddles it neatly past short fine leg."}]gets across the stumps and paddles it neatly past short fine leg.
+gets across the stumps and paddles it neatly past short fine leg.
 
 
 Balls faced: 10
 Bowler: Jadeja
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked wide of short fine for a single"}]tucked wide of short fine for a single
+tucked wide of short fine for a single
 
 
 Balls faced: 11
 Bowler: Jadeja
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "covers the line nicely as he defends"}]covers the line nicely as he defends
-[{"type": "HTML", "html": "Hasan: \"@Subhashith if Americans were interested in a \"run-fest\" baseball wouldn't be popular. All this game has done is show that batters need to learn once again how to accumulate runs when pitches are difficult.\""}]Hasan: "@Subhashith if Americans were interested in a "run-fest" baseball wouldn't be popular. All this game has done is show that batters need to learn once again how to accumulate runs when pitches are difficult."
+covers the line nicely as he defends
+Hasan: "@Subhashith if Americans were interested in a "run-fest" baseball wouldn't be popular. All this game has done is show that batters need to learn once again how to accumulate runs when pitches are difficult."
 
 Balls faced: 12
 Bowler: Jadeja
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "fired in and Little brings out the reverse sweep, makes excellent connection as he beats point."}]fired in and Little brings out the reverse sweep, makes excellent connection as he beats point.
+fired in and Little brings out the reverse sweep, makes excellent connection as he beats point.
 
 
 Balls faced: 13
 Bowler: Jadeja
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hello, Jadeja"}]Hello, Jadeja
+Hello, Jadeja
 
-[{"type": "HTML", "html": "drifts in a quicker one from around the wicket, pushed to point"}]drifts in a quicker one from around the wicket, pushed to point
+drifts in a quicker one from around the wicket, pushed to point
 
 
 Balls faced: 14
 Bowler: Hardik
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "mistimes a heave, one bounce to mid-on as they scamper a single"}]mistimes a heave, one bounce to mid-on as they scamper a single
+mistimes a heave, one bounce to mid-on as they scamper a single
 
 
 Balls faced: 15
 Bowler: Hardik
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Sunil: \"Why the stadium is not full, when there was such a high demand for tickets?\" -- Really have no answer to that. It is mind-boggling for sure."}]Sunil: "Why the stadium is not full, when there was such a high demand for tickets?" -- Really have no answer to that. It is mind-boggling for sure.
+Sunil: "Why the stadium is not full, when there was such a high demand for tickets?" -- Really have no answer to that. It is mind-boggling for sure.
 
-[{"type": "HTML", "html": "beats him with the short ball as Hardik follows him. Little was backing away to pull, but ended up bailing out of the stroke"}]beats him with the short ball as Hardik follows him. Little was backing away to pull, but ended up bailing out of the stroke
+beats him with the short ball as Hardik follows him. Little was backing away to pull, but ended up bailing out of the stroke
 
 
 Balls faced: 16
 Bowler: Hardik
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 2
 
 
-[{"type": "HTML", "html": "slapped to the right of mid-off this time. Rohit with the chase, manages to pull it back in."}]slapped to the right of mid-off this time. Rohit with the chase, manages to pull it back in.
+slapped to the right of mid-off this time. Rohit with the chase, manages to pull it back in.
 
 
 Balls faced: 17
 Bowler: Hardik
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "slapped back past mid-on! Ball made a thumping sound as Josh Little swatted it away."}]slapped back past mid-on! Ball made a thumping sound as Josh Little swatted it away.
+slapped back past mid-on! Ball made a thumping sound as Josh Little swatted it away.
 
 
 Balls faced: 18
 Bowler: Bumrah
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b> 'you miss, I hit stuff.' </b> Bumrah's calling card. A ripper of a yorker angled into the middle of middle at 145kph. Little had exposed all three stumps even before Bumrah delivered the ball, thereby giving him little or no chance to squeeze that out if it was speared in at a furious pace."}]<b> 'you miss, I hit stuff.' </b> Bumrah's calling card. A ripper of a yorker angled into the middle of middle at 145kph. Little had exposed all three stumps even before Bumrah delivered the ball, thereby giving him little or no chance to squeeze that out if it was speared in at a furious pace.
+Little is OUT! bowled
+ b Bumrah
+Josh Little b Bumrah 14 (13b 2x4 0x6) SR: 107.69
+<b> 'you miss, I hit stuff.' </b> Bumrah's calling card. A ripper of a yorker angled into the middle of middle at 145kph. Little had exposed all three stumps even before Bumrah delivered the ball, thereby giving him little or no chance to squeeze that out if it was speared in at a furious pace.
 
 
 Balls faced: 19
 Bowler: Bumrah
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "deflects off the pad and beats Pant behind the stumps for four leg byes. The ball also just bounced over the helmet kept behind. Lucky runs. Bumrah dug it in from wide of the crease to cramp Little"}]deflects off the pad and beats Pant behind the stumps for four leg byes. The ball also just bounced over the helmet kept behind. Lucky runs. Bumrah dug it in from wide of the crease to cramp Little
+deflects off the pad and beats Pant behind the stumps for four leg byes. The ball also just bounced over the helmet kept behind. Lucky runs. Bumrah dug it in from wide of the crease to cramp Little
 
 Legbyes: 4
 Balls faced: 20
 Bowler: Jadeja
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SWEEP_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "gets across the stumps and paddles it neatly past short fine leg."}]gets across the stumps and paddles it neatly past short fine leg.
+gets across the stumps and paddles it neatly past short fine leg.
 
 
 Balls faced: 21
 Bowler: Jadeja
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tucked wide of short fine for a single"}]tucked wide of short fine for a single
+tucked wide of short fine for a single
 
 
 Balls faced: 22
 Bowler: Jadeja
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "covers the line nicely as he defends"}]covers the line nicely as he defends
-[{"type": "HTML", "html": "Hasan: \"@Subhashith if Americans were interested in a \"run-fest\" baseball wouldn't be popular. All this game has done is show that batters need to learn once again how to accumulate runs when pitches are difficult.\""}]Hasan: "@Subhashith if Americans were interested in a "run-fest" baseball wouldn't be popular. All this game has done is show that batters need to learn once again how to accumulate runs when pitches are difficult."
+covers the line nicely as he defends
+Hasan: "@Subhashith if Americans were interested in a "run-fest" baseball wouldn't be popular. All this game has done is show that batters need to learn once again how to accumulate runs when pitches are difficult."
 
 Balls faced: 23
 Bowler: Jadeja
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 4
 
 
-[{"type": "HTML", "html": "fired in and Little brings out the reverse sweep, makes excellent connection as he beats point."}]fired in and Little brings out the reverse sweep, makes excellent connection as he beats point.
+fired in and Little brings out the reverse sweep, makes excellent connection as he beats point.
 
 
 Balls faced: 24
 Bowler: Jadeja
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Hello, Jadeja"}]Hello, Jadeja
+Hello, Jadeja
 
-[{"type": "HTML", "html": "drifts in a quicker one from around the wicket, pushed to point"}]drifts in a quicker one from around the wicket, pushed to point
+drifts in a quicker one from around the wicket, pushed to point
 
 
 Balls faced: 25
 Bowler: Bumrah
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b> 'you miss, I hit stuff.' </b> Bumrah's calling card. A ripper of a yorker angled into the middle of middle at 145kph. Little had exposed all three stumps even before Bumrah delivered the ball, thereby giving him little or no chance to squeeze that out if it was speared in at a furious pace."}]<b> 'you miss, I hit stuff.' </b> Bumrah's calling card. A ripper of a yorker angled into the middle of middle at 145kph. Little had exposed all three stumps even before Bumrah delivered the ball, thereby giving him little or no chance to squeeze that out if it was speared in at a furious pace.
+Little is OUT! bowled
+ b Bumrah
+Josh Little b Bumrah 14 (13b 2x4 0x6) SR: 107.69
+<b> 'you miss, I hit stuff.' </b> Bumrah's calling card. A ripper of a yorker angled into the middle of middle at 145kph. Little had exposed all three stumps even before Bumrah delivered the ball, thereby giving him little or no chance to squeeze that out if it was speared in at a furious pace.
 
 
 Balls faced: 26
 Bowler: Bumrah
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "deflects off the pad and beats Pant behind the stumps for four leg byes. The ball also just bounced over the helmet kept behind. Lucky runs. Bumrah dug it in from wide of the crease to cramp Little"}]deflects off the pad and beats Pant behind the stumps for four leg byes. The ball also just bounced over the helmet kept behind. Lucky runs. Bumrah dug it in from wide of the crease to cramp Little
+deflects off the pad and beats Pant behind the stumps for four leg byes. The ball also just bounced over the helmet kept behind. Lucky runs. Bumrah dug it in from wide of the crease to cramp Little
 
 Legbyes: 4
 
@@ -386,361 +428,397 @@ Match: all_games_1411166_1415736.json
 Balls faced: 1
 Bowler: Imad Wasim
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "angled in, tucked into the leg side"}]angled in, tucked into the leg side
+angled in, tucked into the leg side
 
 
 Balls faced: 2
 Bowler: Imad Wasim
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through, Little is hit on the pads attempting to reverse. Heading down leg, I think"}]pushed through, Little is hit on the pads attempting to reverse. Heading down leg, I think
+pushed through, Little is hit on the pads attempting to reverse. Heading down leg, I think
 
 
 Balls faced: 3
 Bowler: Haris Rauf
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>short ball, moosed through the leg side!</b> Little sits back and clobbers four to the right of mid-on"}]<b>short ball, moosed through the leg side!</b> Little sits back and clobbers four to the right of mid-on
+<b>short ball, moosed through the leg side!</b> Little sits back and clobbers four to the right of mid-on
 
 
 Balls faced: 4
 Bowler: Haris Rauf
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in straight, Little bunts it for one"}]fired in straight, Little bunts it for one
+fired in straight, Little bunts it for one
 
 
 Balls faced: 5
 Bowler: Imad Wasim
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: DEFENDED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "angled in, tucked into the leg side"}]angled in, tucked into the leg side
+angled in, tucked into the leg side
 
 
 Balls faced: 6
 Bowler: Imad Wasim
 Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through, Little is hit on the pads attempting to reverse. Heading down leg, I think"}]pushed through, Little is hit on the pads attempting to reverse. Heading down leg, I think
+pushed through, Little is hit on the pads attempting to reverse. Heading down leg, I think
 
 
 Balls faced: 7
 Bowler: Imad Wasim
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sliced, in the air briefly, runs away wide of the diving Shadab"}]sliced, in the air briefly, runs away wide of the diving Shadab
+sliced, in the air briefly, runs away wide of the diving Shadab
 
 
 Balls faced: 8
 Bowler: Haris Rauf
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>short ball, moosed through the leg side!</b> Little sits back and clobbers four to the right of mid-on"}]<b>short ball, moosed through the leg side!</b> Little sits back and clobbers four to the right of mid-on
+<b>short ball, moosed through the leg side!</b> Little sits back and clobbers four to the right of mid-on
 
 
 Balls faced: 9
 Bowler: Haris Rauf
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fired in straight, Little bunts it for one"}]fired in straight, Little bunts it for one
+fired in straight, Little bunts it for one
 
 
 Balls faced: 10
 Bowler: Imad Wasim
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DAB
 Run scored: 1
 
 
-[{"type": "HTML", "html": "sliced, in the air briefly, runs away wide of the diving Shadab"}]sliced, in the air briefly, runs away wide of the diving Shadab
+sliced, in the air briefly, runs away wide of the diving Shadab
 
 
 Balls faced: 11
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, full length and Little waits for it, punches through the covers"}]slower ball, full length and Little waits for it, punches through the covers
+slower ball, full length and Little waits for it, punches through the covers
 
 
 Balls faced: 12
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>short ball, smeared through midwicket!</b> Makes room and clumps well in front of square as the sweeper attempts unsuccessfully to get around"}]<b>short ball, smeared through midwicket!</b> Makes room and clumps well in front of square as the sweeper attempts unsuccessfully to get around
+<b>short ball, smeared through midwicket!</b> Makes room and clumps well in front of square as the sweeper attempts unsuccessfully to get around
 
 
 Balls faced: 13
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Shaheen Afridi again. Can he finish this?"}]Shaheen Afridi again. Can he finish this?
+Shaheen Afridi again. Can he finish this?
 
-[{"type": "HTML", "html": "goes for the yorker, 134kph/83mph on off stump. Little chops a thickish edge through to Rizwan's left"}]goes for the yorker, 134kph/83mph on off stump. Little chops a thickish edge through to Rizwan's left
+goes for the yorker, 134kph/83mph on off stump. Little chops a thickish edge through to Rizwan's left
 
 
 Balls faced: 14
 Bowler: Abbas Afridi
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "swiped through mid-on for one"}]swiped through mid-on for one
+swiped through mid-on for one
 
 
 Balls faced: 15
 Bowler: Abbas Afridi
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pitched up straight, 135kph and slapped back to the bowler"}]pitched up straight, 135kph and slapped back to the bowler
+pitched up straight, 135kph and slapped back to the bowler
 
 
 Balls faced: 16
 Bowler: Abbas Afridi
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>pace off again, smoked over long-on!</b> Little picks it and launches on to the front foot to batter six down the ground. Brings up the Ireland 100 in the process"}]<b>pace off again, smoked over long-on!</b> Little picks it and launches on to the front foot to batter six down the ground. Brings up the Ireland 100 in the process
+<b>pace off again, smoked over long-on!</b> Little picks it and launches on to the front foot to batter six down the ground. Brings up the Ireland 100 in the process
 
 
 Balls faced: 17
 Bowler: Abbas Afridi
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball, comes out as a full toss. Little clubs into the leg side, wants a no-ball but he isn't getting one. Looks a harsh call on the replay. He also declined a run so as to keep the strike"}]slower ball, comes out as a full toss. Little clubs into the leg side, wants a no-ball but he isn't getting one. Looks a harsh call on the replay. He also declined a run so as to keep the strike
+slower ball, comes out as a full toss. Little clubs into the leg side, wants a no-ball but he isn't getting one. Looks a harsh call on the replay. He also declined a run so as to keep the strike
 
 
 Balls faced: 18
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "slower ball, full length and Little waits for it, punches through the covers"}]slower ball, full length and Little waits for it, punches through the covers
+slower ball, full length and Little waits for it, punches through the covers
 
 
 Balls faced: 19
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>short ball, smeared through midwicket!</b> Makes room and clumps well in front of square as the sweeper attempts unsuccessfully to get around"}]<b>short ball, smeared through midwicket!</b> Makes room and clumps well in front of square as the sweeper attempts unsuccessfully to get around
+<b>short ball, smeared through midwicket!</b> Makes room and clumps well in front of square as the sweeper attempts unsuccessfully to get around
 
 
 Balls faced: 20
 Bowler: Shaheen Shah Afridi
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Shaheen Afridi again. Can he finish this?"}]Shaheen Afridi again. Can he finish this?
+Shaheen Afridi again. Can he finish this?
 
-[{"type": "HTML", "html": "goes for the yorker, 134kph/83mph on off stump. Little chops a thickish edge through to Rizwan's left"}]goes for the yorker, 134kph/83mph on off stump. Little chops a thickish edge through to Rizwan's left
+goes for the yorker, 134kph/83mph on off stump. Little chops a thickish edge through to Rizwan's left
 
 
 Balls faced: 21
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flat on the stumps, 95kph and swatted down to long-on. Little finishes on a T20I CB as Ireland bat out their overs - something that didn't look all that likely at 32 for 6 in the seventh"}]flat on the stumps, 95kph and swatted down to long-on. Little finishes on a T20I CB as Ireland bat out their overs - something that didn't look all that likely at 32 for 6 in the seventh
-[{"type": "HTML", "html": "<b>12.15pm:</b> Pakistan will be happy with their work. Or will they? Always hard to tell with them... Certainly, a chase of 107 to beat Ireland shouldn't daunt their batting order, but the conditions in Lauderhill don't look straightforward. If Ireland's seamers can nibble out a couple early, things could get interesting. Shashank will be back for that shortly"}, {"type": "HTML", "html": "Here's Shaheen Afridi on Pakistan's bowling effort: \"As usual, I'm trying to strike early on, follow my plans and bowl fuller. If you take wickets in the first two overs, your opponents are under pressure. We did a very good job as a bowling unit. [Chase] New ball might be tricky but [we should get there, seems to be the gist].\""}]<b>12.15pm:</b> Pakistan will be happy with their work. Or will they? Always hard to tell with them... Certainly, a chase of 107 to beat Ireland shouldn't daunt their batting order, but the conditions in Lauderhill don't look straightforward. If Ireland's seamers can nibble out a couple early, things could get interesting. Shashank will be back for that shortly Here's Shaheen Afridi on Pakistan's bowling effort: "As usual, I'm trying to strike early on, follow my plans and bowl fuller. If you take wickets in the first two overs, your opponents are under pressure. We did a very good job as a bowling unit. [Chase] New ball might be tricky but [we should get there, seems to be the gist]."
+flat on the stumps, 95kph and swatted down to long-on. Little finishes on a T20I CB as Ireland bat out their overs - something that didn't look all that likely at 32 for 6 in the seventh
+<b>12.15pm:</b> Pakistan will be happy with their work. Or will they? Always hard to tell with them... Certainly, a chase of 107 to beat Ireland shouldn't daunt their batting order, but the conditions in Lauderhill don't look straightforward. If Ireland's seamers can nibble out a couple early, things could get interesting. Shashank will be back for that shortly Here's Shaheen Afridi on Pakistan's bowling effort: "As usual, I'm trying to strike early on, follow my plans and bowl fuller. If you take wickets in the first two overs, your opponents are under pressure. We did a very good job as a bowling unit. [Chase] New ball might be tricky but [we should get there, seems to be the gist]."
 
 Balls faced: 22
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted, turning and bouncing through to Rizwan as Little again looks to launch a slog-sweep, fails to connect"}]flighted, turning and bouncing through to Rizwan as Little again looks to launch a slog-sweep, fails to connect
+flighted, turning and bouncing through to Rizwan as Little again looks to launch a slog-sweep, fails to connect
 
 
 Balls faced: 23
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "darted in and chopped back to the bowler"}]darted in and chopped back to the bowler
+darted in and chopped back to the bowler
 
 
 Balls faced: 24
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up as Little shuffles across and looks to sweep, takes it on the front pad"}]looped up as Little shuffles across and looks to sweep, takes it on the front pad
+looped up as Little shuffles across and looks to sweep, takes it on the front pad
 
 
 Balls faced: 25
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through, attempts to reverse again, hit on the pads. Imad appeals but I think you could see all three stumps as he stepped outside leg"}]pushed through, attempts to reverse again, hit on the pads. Imad appeals but I think you could see all three stumps as he stepped outside leg
+pushed through, attempts to reverse again, hit on the pads. Imad appeals but I think you could see all three stumps as he stepped outside leg
 
 
 Balls faced: 26
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 2
-[{"type": "HTML", "html": "So, Ireland have cobbled together three figures and made it to the final over. Imad Wasim will bowl out"}]So, Ireland have cobbled together three figures and made it to the final over. Imad Wasim will bowl out
+So, Ireland have cobbled together three figures and made it to the final over. Imad Wasim will bowl out
 
-[{"type": "HTML", "html": "tossed up, 82kph on the stumps, <b>Little reverse-swipes it over short third</b>, just enough on his top edge to clear the man in the ring and they hare back for two"}]tossed up, 82kph on the stumps, <b>Little reverse-swipes it over short third</b>, just enough on his top edge to clear the man in the ring and they hare back for two
+tossed up, 82kph on the stumps, <b>Little reverse-swipes it over short third</b>, just enough on his top edge to clear the man in the ring and they hare back for two
 
 
 Balls faced: 27
 Bowler: Abbas Afridi
 Over: 19
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "swiped through mid-on for one"}]swiped through mid-on for one
+swiped through mid-on for one
 
 
 Balls faced: 28
 Bowler: Abbas Afridi
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pitched up straight, 135kph and slapped back to the bowler"}]pitched up straight, 135kph and slapped back to the bowler
+pitched up straight, 135kph and slapped back to the bowler
 
 
 Balls faced: 29
 Bowler: Abbas Afridi
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<b>pace off again, smoked over long-on!</b> Little picks it and launches on to the front foot to batter six down the ground. Brings up the Ireland 100 in the process"}]<b>pace off again, smoked over long-on!</b> Little picks it and launches on to the front foot to batter six down the ground. Brings up the Ireland 100 in the process
+<b>pace off again, smoked over long-on!</b> Little picks it and launches on to the front foot to batter six down the ground. Brings up the Ireland 100 in the process
 
 
 Balls faced: 30
 Bowler: Abbas Afridi
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "slower ball, comes out as a full toss. Little clubs into the leg side, wants a no-ball but he isn't getting one. Looks a harsh call on the replay. He also declined a run so as to keep the strike"}]slower ball, comes out as a full toss. Little clubs into the leg side, wants a no-ball but he isn't getting one. Looks a harsh call on the replay. He also declined a run so as to keep the strike
+slower ball, comes out as a full toss. Little clubs into the leg side, wants a no-ball but he isn't getting one. Looks a harsh call on the replay. He also declined a run so as to keep the strike
 
 
 Balls faced: 31
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flat on the stumps, 95kph and swatted down to long-on. Little finishes on a T20I CB as Ireland bat out their overs - something that didn't look all that likely at 32 for 6 in the seventh"}]flat on the stumps, 95kph and swatted down to long-on. Little finishes on a T20I CB as Ireland bat out their overs - something that didn't look all that likely at 32 for 6 in the seventh
-[{"type": "HTML", "html": "<b>12.15pm:</b> Pakistan will be happy with their work. Or will they? Always hard to tell with them... Certainly, a chase of 107 to beat Ireland shouldn't daunt their batting order, but the conditions in Lauderhill don't look straightforward. If Ireland's seamers can nibble out a couple early, things could get interesting. Shashank will be back for that shortly"}, {"type": "HTML", "html": "Here's Shaheen Afridi on Pakistan's bowling effort: \"As usual, I'm trying to strike early on, follow my plans and bowl fuller. If you take wickets in the first two overs, your opponents are under pressure. We did a very good job as a bowling unit. [Chase] New ball might be tricky but [we should get there, seems to be the gist].\""}]<b>12.15pm:</b> Pakistan will be happy with their work. Or will they? Always hard to tell with them... Certainly, a chase of 107 to beat Ireland shouldn't daunt their batting order, but the conditions in Lauderhill don't look straightforward. If Ireland's seamers can nibble out a couple early, things could get interesting. Shashank will be back for that shortly Here's Shaheen Afridi on Pakistan's bowling effort: "As usual, I'm trying to strike early on, follow my plans and bowl fuller. If you take wickets in the first two overs, your opponents are under pressure. We did a very good job as a bowling unit. [Chase] New ball might be tricky but [we should get there, seems to be the gist]."
+flat on the stumps, 95kph and swatted down to long-on. Little finishes on a T20I CB as Ireland bat out their overs - something that didn't look all that likely at 32 for 6 in the seventh
+<b>12.15pm:</b> Pakistan will be happy with their work. Or will they? Always hard to tell with them... Certainly, a chase of 107 to beat Ireland shouldn't daunt their batting order, but the conditions in Lauderhill don't look straightforward. If Ireland's seamers can nibble out a couple early, things could get interesting. Shashank will be back for that shortly Here's Shaheen Afridi on Pakistan's bowling effort: "As usual, I'm trying to strike early on, follow my plans and bowl fuller. If you take wickets in the first two overs, your opponents are under pressure. We did a very good job as a bowling unit. [Chase] New ball might be tricky but [we should get there, seems to be the gist]."
 
 Balls faced: 32
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "flighted, turning and bouncing through to Rizwan as Little again looks to launch a slog-sweep, fails to connect"}]flighted, turning and bouncing through to Rizwan as Little again looks to launch a slog-sweep, fails to connect
+flighted, turning and bouncing through to Rizwan as Little again looks to launch a slog-sweep, fails to connect
 
 
 Balls faced: 33
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "darted in and chopped back to the bowler"}]darted in and chopped back to the bowler
+darted in and chopped back to the bowler
 
 
 Balls faced: 34
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "looped up as Little shuffles across and looks to sweep, takes it on the front pad"}]looped up as Little shuffles across and looks to sweep, takes it on the front pad
+looped up as Little shuffles across and looks to sweep, takes it on the front pad
 
 
 Balls faced: 35
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "pushed through, attempts to reverse again, hit on the pads. Imad appeals but I think you could see all three stumps as he stepped outside leg"}]pushed through, attempts to reverse again, hit on the pads. Imad appeals but I think you could see all three stumps as he stepped outside leg
+pushed through, attempts to reverse again, hit on the pads. Imad appeals but I think you could see all three stumps as he stepped outside leg
 
 
 Balls faced: 36
 Bowler: Imad Wasim
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: REVERSE_SWEEP
 Run scored: 2
-[{"type": "HTML", "html": "So, Ireland have cobbled together three figures and made it to the final over. Imad Wasim will bowl out"}]So, Ireland have cobbled together three figures and made it to the final over. Imad Wasim will bowl out
+So, Ireland have cobbled together three figures and made it to the final over. Imad Wasim will bowl out
 
-[{"type": "HTML", "html": "tossed up, 82kph on the stumps, <b>Little reverse-swipes it over short third</b>, just enough on his top edge to clear the man in the ring and they hare back for two"}]tossed up, 82kph on the stumps, <b>Little reverse-swipes it over short third</b>, just enough on his top edge to clear the man in the ring and they hare back for two
+tossed up, 82kph on the stumps, <b>Little reverse-swipes it over short third</b>, just enough on his top edge to clear the man in the ring and they hare back for two
 
 
 
@@ -748,81 +826,89 @@ Match: all_games_1416063_1416086.json
 Balls faced: 1
 Bowler: Azmatullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Little"}]Little
+Little
 
-[{"type": "HTML", "html": "short of a length on off, and punched to mid-off"}]short of a length on off, and punched to mid-off
+short of a length on off, and punched to mid-off
 
 
 Balls faced: 2
 Bowler: Rashid Khan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "From around"}]From around
+From around
 
-[{"type": "HTML", "html": "tossed up and dipping on the stumps. Swept towards deep midwicket"}]tossed up and dipping on the stumps. Swept towards deep midwicket
+tossed up and dipping on the stumps. Swept towards deep midwicket
 
 
 Balls faced: 3
 Bowler: Rashid Khan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushed off the inside half of the bat towards deep midwicket"}]pushed off the inside half of the bat towards deep midwicket
+pushed off the inside half of the bat towards deep midwicket
 
 
 Balls faced: 4
 Bowler: Azmatullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
-[{"type": "HTML", "html": "Little"}]Little
+Little
 
-[{"type": "HTML", "html": "short of a length on off, and punched to mid-off"}]short of a length on off, and punched to mid-off
+short of a length on off, and punched to mid-off
 
 
 Balls faced: 5
 Bowler: Naveen-ul-Haq
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "went to pull too early at this short ball outside off, but it went to deep third off his shoulder"}]went to pull too early at this short ball outside off, but it went to deep third off his shoulder
+went to pull too early at this short ball outside off, but it went to deep third off his shoulder
 
 Legbyes: 1
 Balls faced: 6
 Bowler: Rashid Khan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
-[{"type": "HTML", "html": "From around"}]From around
+From around
 
-[{"type": "HTML", "html": "tossed up and dipping on the stumps. Swept towards deep midwicket"}]tossed up and dipping on the stumps. Swept towards deep midwicket
+tossed up and dipping on the stumps. Swept towards deep midwicket
 
 
 Balls faced: 7
 Bowler: Rashid Khan
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "pushed off the inside half of the bat towards deep midwicket"}]pushed off the inside half of the bat towards deep midwicket
+pushed off the inside half of the bat towards deep midwicket
 
 
 Balls faced: 8
 Bowler: Naveen-ul-Haq
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "went to pull too early at this short ball outside off, but it went to deep third off his shoulder"}]went to pull too early at this short ball outside off, but it went to deep third off his shoulder
+went to pull too early at this short ball outside off, but it went to deep third off his shoulder
 
 Legbyes: 1
 
@@ -830,6 +916,7 @@ Match: all_games_1434088_1434103.json
 Balls faced: 1
 Bowler: Pathirana
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -840,6 +927,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Shanaka
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -850,6 +938,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Pathirana
 Over: 18
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -860,5 +949,6 @@ Run scored: 1
 Balls faced: 4
 Bowler: Shanaka
 Over: 19
+ 
 Shot: No Shot
 Run scored: 1

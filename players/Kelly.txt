@@ -2,6 +2,7 @@ Match: all_games_1410505_1410546.json
 Balls faced: 1
 Bowler: Potts
 Over: 2
+ 
 Shot: DROP_AND_RUN
 Run scored: 1
 
@@ -12,6 +13,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Potts
 Over: 2
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Potts
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -32,6 +35,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Arlott
 Over: 3
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -42,6 +46,7 @@ Run scored: 4
 Balls faced: 5
 Bowler: Arlott
 Over: 3
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -52,6 +57,7 @@ Run scored: 4
 Balls faced: 6
 Bowler: Arlott
 Over: 3
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -62,6 +68,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Potts
 Over: 2
+ 
 Shot: DROP_AND_RUN
 Run scored: 1
 
@@ -72,6 +79,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Potts
 Over: 2
+ 
 Shot: FORWARD_DEFENCE
 Run scored: 0
 
@@ -82,6 +90,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Potts
 Over: 2
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -92,6 +101,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Potts
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -102,6 +112,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Potts
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -112,6 +123,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Potts
 Over: 4
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -122,6 +134,7 @@ Run scored: 2
 Balls faced: 13
 Bowler: Arlott
 Over: 3
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -132,6 +145,7 @@ Run scored: 4
 Balls faced: 14
 Bowler: Arlott
 Over: 3
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 4
 
@@ -142,6 +156,7 @@ Run scored: 4
 Balls faced: 15
 Bowler: Arlott
 Over: 3
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -152,6 +167,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Pavely
 Over: 5
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 3
 
@@ -162,6 +178,7 @@ Run scored: 3
 Balls faced: 17
 Bowler: Pavely
 Over: 5
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -172,6 +189,7 @@ Run scored: 0
 Balls faced: 18
 Bowler: Pavely
 Over: 5
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -182,6 +200,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Pavely
 Over: 5
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -192,6 +211,7 @@ Run scored: 4
 Balls faced: 20
 Bowler: Pavely
 Over: 5
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -202,6 +222,7 @@ Run scored: 0
 Balls faced: 21
 Bowler: Potts
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -212,6 +233,7 @@ Run scored: 1
 Balls faced: 22
 Bowler: Potts
 Over: 4
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -222,6 +244,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: Potts
 Over: 4
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 2
 
@@ -232,6 +255,7 @@ Run scored: 2
 Balls faced: 24
 Bowler: Davis
 Over: 6
+ 
 Shot: DROP_AND_RUN
 Run scored: 0
 
@@ -242,6 +266,7 @@ Run scored: 0
 Balls faced: 25
 Bowler: Davis
 Over: 6
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -252,6 +277,7 @@ Run scored: 1
 Balls faced: 26
 Bowler: Davis
 Over: 6
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -262,6 +288,7 @@ Run scored: 2
 Balls faced: 27
 Bowler: Davis
 Over: 6
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -272,6 +299,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Pavely
 Over: 5
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 3
 
@@ -282,6 +310,7 @@ Run scored: 3
 Balls faced: 29
 Bowler: Pavely
 Over: 5
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -292,6 +321,7 @@ Run scored: 0
 Balls faced: 30
 Bowler: Pavely
 Over: 5
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -302,6 +332,7 @@ Run scored: 0
 Balls faced: 31
 Bowler: Pavely
 Over: 5
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -312,6 +343,7 @@ Run scored: 4
 Balls faced: 32
 Bowler: Pavely
 Over: 5
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -322,6 +354,7 @@ Run scored: 0
 Balls faced: 33
 Bowler: Baker
 Over: 7
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -332,6 +365,7 @@ Run scored: 1
 Balls faced: 34
 Bowler: Baker
 Over: 7
+ 
 Shot: REVERSE_SWEEP
 Run scored: 4
 
@@ -342,6 +376,7 @@ Run scored: 4
 Balls faced: 35
 Bowler: Baker
 Over: 7
+ 
 Shot: REVERSE_SWEEP
 Run scored: 1
 
@@ -352,6 +387,7 @@ Run scored: 1
 Balls faced: 36
 Bowler: Davis
 Over: 6
+ 
 Shot: DROP_AND_RUN
 Run scored: 0
 
@@ -362,6 +398,7 @@ Run scored: 0
 Balls faced: 37
 Bowler: Davis
 Over: 6
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -372,6 +409,7 @@ Run scored: 1
 Balls faced: 38
 Bowler: Davis
 Over: 6
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -382,6 +420,7 @@ Run scored: 2
 Balls faced: 39
 Bowler: Davis
 Over: 6
+ 
 Shot: LEG_GLANCE
 Run scored: 0
 
@@ -392,6 +431,7 @@ Run scored: 0
 Balls faced: 40
 Bowler: George
 Over: 8
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -402,6 +442,7 @@ Run scored: 1
 Balls faced: 41
 Bowler: George
 Over: 8
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -412,6 +453,7 @@ Run scored: 4
 Balls faced: 42
 Bowler: George
 Over: 8
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -422,6 +464,7 @@ Run scored: 0
 Balls faced: 43
 Bowler: George
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -432,6 +475,7 @@ Run scored: 2
 Balls faced: 44
 Bowler: George
 Over: 8
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -442,6 +486,7 @@ Run scored: 0
 Balls faced: 45
 Bowler: Baker
 Over: 7
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -452,6 +497,7 @@ Run scored: 1
 Balls faced: 46
 Bowler: Baker
 Over: 7
+ 
 Shot: REVERSE_SWEEP
 Run scored: 4
 
@@ -462,6 +508,7 @@ Run scored: 4
 Balls faced: 47
 Bowler: Baker
 Over: 7
+ 
 Shot: REVERSE_SWEEP
 Run scored: 1
 
@@ -472,6 +519,7 @@ Run scored: 1
 Balls faced: 48
 Bowler: Baker
 Over: 9
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -482,6 +530,7 @@ Run scored: 1
 Balls faced: 49
 Bowler: Baker
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -492,6 +541,7 @@ Run scored: 2
 Balls faced: 50
 Bowler: Baker
 Over: 9
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -502,6 +552,7 @@ Run scored: 1
 Balls faced: 51
 Bowler: Baker
 Over: 9
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -512,6 +563,7 @@ Run scored: 0
 Balls faced: 52
 Bowler: Baker
 Over: 9
+ 
 Shot: LEG_GLANCE
 Run scored: 2
 
@@ -522,6 +574,7 @@ Run scored: 2
 Balls faced: 53
 Bowler: George
 Over: 8
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -532,6 +585,7 @@ Run scored: 1
 Balls faced: 54
 Bowler: George
 Over: 8
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -542,6 +596,7 @@ Run scored: 4
 Balls faced: 55
 Bowler: George
 Over: 8
+ 
 Shot: BACK_DEFENCE
 Run scored: 0
 
@@ -552,6 +607,7 @@ Run scored: 0
 Balls faced: 56
 Bowler: George
 Over: 8
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -562,6 +618,7 @@ Run scored: 2
 Balls faced: 57
 Bowler: George
 Over: 8
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -572,6 +629,7 @@ Run scored: 0
 Balls faced: 58
 Bowler: Davis
 Over: 10
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -582,6 +640,7 @@ Run scored: 1
 Balls faced: 59
 Bowler: Davis
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -592,6 +651,7 @@ Run scored: 4
 Balls faced: 60
 Bowler: Davis
 Over: 10
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -602,6 +662,7 @@ Run scored: 1
 Balls faced: 61
 Bowler: Davis
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -612,6 +673,7 @@ Run scored: 0
 Balls faced: 62
 Bowler: Baker
 Over: 9
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -622,6 +684,7 @@ Run scored: 1
 Balls faced: 63
 Bowler: Baker
 Over: 9
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -632,6 +695,7 @@ Run scored: 2
 Balls faced: 64
 Bowler: Baker
 Over: 9
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -642,6 +706,7 @@ Run scored: 1
 Balls faced: 65
 Bowler: Baker
 Over: 9
+ 
 Shot: PUSH_SHOT
 Run scored: 0
 
@@ -652,6 +717,7 @@ Run scored: 0
 Balls faced: 66
 Bowler: Baker
 Over: 9
+ 
 Shot: LEG_GLANCE
 Run scored: 2
 
@@ -662,6 +728,7 @@ Run scored: 2
 Balls faced: 67
 Bowler: Webb
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -672,6 +739,7 @@ Run scored: 1
 Balls faced: 68
 Bowler: Webb
 Over: 11
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -682,6 +750,7 @@ Run scored: 1
 Balls faced: 69
 Bowler: Webb
 Over: 11
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -692,6 +761,7 @@ Run scored: 2
 Balls faced: 70
 Bowler: Webb
 Over: 11
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -702,6 +772,7 @@ Run scored: 1
 Balls faced: 71
 Bowler: Davis
 Over: 10
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -712,6 +783,7 @@ Run scored: 1
 Balls faced: 72
 Bowler: Davis
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -722,6 +794,7 @@ Run scored: 4
 Balls faced: 73
 Bowler: Davis
 Over: 10
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -732,6 +805,7 @@ Run scored: 1
 Balls faced: 74
 Bowler: Davis
 Over: 10
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -742,6 +816,7 @@ Run scored: 0
 Balls faced: 75
 Bowler: Arlott
 Over: 12
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -752,6 +827,7 @@ Run scored: 1
 Balls faced: 76
 Bowler: Arlott
 Over: 12
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -762,6 +838,7 @@ Run scored: 1
 Balls faced: 77
 Bowler: Arlott
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -772,6 +849,7 @@ Run scored: 2
 Balls faced: 78
 Bowler: Webb
 Over: 11
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -782,6 +860,7 @@ Run scored: 1
 Balls faced: 79
 Bowler: Webb
 Over: 11
+ 
 Shot: LEG_GLANCE
 Run scored: 1
 
@@ -792,6 +871,7 @@ Run scored: 1
 Balls faced: 80
 Bowler: Webb
 Over: 11
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -802,6 +882,7 @@ Run scored: 2
 Balls faced: 81
 Bowler: Webb
 Over: 11
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -812,6 +893,7 @@ Run scored: 1
 Balls faced: 82
 Bowler: Baker
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -822,6 +904,7 @@ Run scored: 1
 Balls faced: 83
 Bowler: Baker
 Over: 13
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -832,6 +915,7 @@ Run scored: 0
 Balls faced: 84
 Bowler: Baker
 Over: 13
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -842,6 +926,7 @@ Run scored: 1
 Balls faced: 85
 Bowler: Baker
 Over: 13
+ 
 Shot: SWEEP
 Run scored: 4
 
@@ -852,6 +937,7 @@ Run scored: 4
 Balls faced: 86
 Bowler: Baker
 Over: 13
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -862,6 +948,7 @@ Run scored: 2
 Balls faced: 87
 Bowler: Arlott
 Over: 12
+ 
 Shot: SWEEP
 Run scored: 1
 
@@ -872,6 +959,7 @@ Run scored: 1
 Balls faced: 88
 Bowler: Arlott
 Over: 12
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -882,6 +970,7 @@ Run scored: 1
 Balls faced: 89
 Bowler: Arlott
 Over: 12
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -892,6 +981,7 @@ Run scored: 2
 Balls faced: 90
 Bowler: Davis
 Over: 14
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -902,6 +992,7 @@ Run scored: 1
 Balls faced: 91
 Bowler: Davis
 Over: 14
+ 
 Shot: LEG_GLANCE
 Run scored: 2
 
@@ -912,6 +1003,7 @@ Run scored: 2
 Balls faced: 92
 Bowler: Davis
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -922,6 +1014,7 @@ Run scored: 4
 Balls faced: 93
 Bowler: Davis
 Over: 14
+ 
 Shot: REVERSE_SWEEP
 Run scored: 1
 
@@ -932,6 +1025,7 @@ Run scored: 1
 Balls faced: 94
 Bowler: Davis
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -942,6 +1036,7 @@ Run scored: 2
 Balls faced: 95
 Bowler: Baker
 Over: 13
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 1
 
@@ -952,6 +1047,7 @@ Run scored: 1
 Balls faced: 96
 Bowler: Baker
 Over: 13
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -962,6 +1058,7 @@ Run scored: 0
 Balls faced: 97
 Bowler: Baker
 Over: 13
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -972,6 +1069,7 @@ Run scored: 1
 Balls faced: 98
 Bowler: Baker
 Over: 13
+ 
 Shot: SWEEP
 Run scored: 4
 
@@ -982,6 +1080,7 @@ Run scored: 4
 Balls faced: 99
 Bowler: Baker
 Over: 13
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -992,6 +1091,7 @@ Run scored: 2
 Balls faced: 100
 Bowler: Potts
 Over: 15
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -1002,6 +1102,7 @@ Run scored: 1
 Balls faced: 101
 Bowler: Potts
 Over: 15
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -1012,6 +1113,7 @@ Run scored: 4
 Balls faced: 102
 Bowler: Davis
 Over: 14
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -1022,6 +1124,7 @@ Run scored: 1
 Balls faced: 103
 Bowler: Davis
 Over: 14
+ 
 Shot: LEG_GLANCE
 Run scored: 2
 
@@ -1032,6 +1135,7 @@ Run scored: 2
 Balls faced: 104
 Bowler: Davis
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 4
 
@@ -1042,6 +1146,7 @@ Run scored: 4
 Balls faced: 105
 Bowler: Davis
 Over: 14
+ 
 Shot: REVERSE_SWEEP
 Run scored: 1
 
@@ -1052,6 +1157,7 @@ Run scored: 1
 Balls faced: 106
 Bowler: Davis
 Over: 14
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -1062,6 +1168,7 @@ Run scored: 2
 Balls faced: 107
 Bowler: George
 Over: 16
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -1072,6 +1179,7 @@ Run scored: 1
 Balls faced: 108
 Bowler: George
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1082,6 +1190,7 @@ Run scored: 0
 Balls faced: 109
 Bowler: George
 Over: 16
+ 
 Shot: SWEEP
 Run scored: 2
 
@@ -1092,6 +1201,7 @@ Run scored: 2
 Balls faced: 110
 Bowler: George
 Over: 16
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -1102,6 +1212,7 @@ Run scored: 0
 Balls faced: 111
 Bowler: George
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -1112,6 +1223,7 @@ Run scored: 2
 Balls faced: 112
 Bowler: Potts
 Over: 15
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -1122,6 +1234,7 @@ Run scored: 1
 Balls faced: 113
 Bowler: Potts
 Over: 15
+ 
 Shot: LEG_GLANCE
 Run scored: 4
 
@@ -1132,6 +1245,7 @@ Run scored: 4
 Balls faced: 114
 Bowler: George
 Over: 16
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -1142,6 +1256,7 @@ Run scored: 1
 Balls faced: 115
 Bowler: George
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 0
 
@@ -1152,6 +1267,7 @@ Run scored: 0
 Balls faced: 116
 Bowler: George
 Over: 16
+ 
 Shot: SWEEP
 Run scored: 2
 
@@ -1162,6 +1278,7 @@ Run scored: 2
 Balls faced: 117
 Bowler: George
 Over: 16
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 0
 
@@ -1172,6 +1289,7 @@ Run scored: 0
 Balls faced: 118
 Bowler: George
 Over: 16
+ 
 Shot: VERTICAL_FORWARD_ATTACK
 Run scored: 2
 
@@ -1182,6 +1300,7 @@ Run scored: 2
 Balls faced: 119
 Bowler: Pavely
 Over: 18
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -1192,6 +1311,7 @@ Run scored: 2
 Balls faced: 120
 Bowler: Pavely
 Over: 18
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -1202,6 +1322,7 @@ Run scored: 1
 Balls faced: 121
 Bowler: Baker
 Over: 19
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -1212,6 +1333,7 @@ Run scored: 1
 Balls faced: 122
 Bowler: Pavely
 Over: 18
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 2
 
@@ -1222,6 +1344,7 @@ Run scored: 2
 Balls faced: 123
 Bowler: Pavely
 Over: 18
+ 
 Shot: PULL_HOOK_ON_BACK_FOOT
 Run scored: 1
 
@@ -1232,6 +1355,7 @@ Run scored: 1
 Balls faced: 124
 Bowler: Arlott
 Over: 20
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1
 
@@ -1242,6 +1366,7 @@ Run scored: 1
 Balls faced: 125
 Bowler: Baker
 Over: 19
+ 
 Shot: PUSH_SHOT
 Run scored: 1
 
@@ -1252,5 +1377,6 @@ Run scored: 1
 Balls faced: 126
 Bowler: Arlott
 Over: 20
+ 
 Shot: CUT_SHOT_ON_BACK_FOOT
 Run scored: 1

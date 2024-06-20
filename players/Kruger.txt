@@ -2,161 +2,181 @@ Match: all_games_1411166_1415712.json
 Balls faced: 1
 Bowler: Sole
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Big appeal as Sole angles one into the pads of Kruger from wide of the crease... are they going to review it? Nope, they decide not to. An eventful over!"}]Big appeal as Sole angles one into the pads of Kruger from wide of the crease... are they going to review it? Nope, they decide not to. An eventful over!
+Big appeal as Sole angles one into the pads of Kruger from wide of the crease... are they going to review it? Nope, they decide not to. An eventful over!
 
 
 Balls faced: 2
 Bowler: Watt
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, cut with an open face but straight to backward point"}]Length outside off, cut with an open face but straight to backward point
+Length outside off, cut with an open face but straight to backward point
 
 
 Balls faced: 3
 Bowler: Watt
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Darted down the leg side, just past leg stump, taken by the keeper but not cleanly"}]Darted down the leg side, just past leg stump, taken by the keeper but not cleanly
+Darted down the leg side, just past leg stump, taken by the keeper but not cleanly
 
 
 Balls faced: 4
 Bowler: Sole
 Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Big appeal as Sole angles one into the pads of Kruger from wide of the crease... are they going to review it? Nope, they decide not to. An eventful over!"}]Big appeal as Sole angles one into the pads of Kruger from wide of the crease... are they going to review it? Nope, they decide not to. An eventful over!
+Big appeal as Sole angles one into the pads of Kruger from wide of the crease... are they going to review it? Nope, they decide not to. An eventful over!
 
 
 Balls faced: 5
 Bowler: Sole
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length again, this one scuttling into the batter off the pitch. Kruger guides from close to his body down to third"}]Length again, this one scuttling into the batter off the pitch. Kruger guides from close to his body down to third
+Length again, this one scuttling into the batter off the pitch. Kruger guides from close to his body down to third
 
 
 Balls faced: 6
 Bowler: Sole
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Kruger steps to leg, Sole sends it down wide of off stump off a length to keep it out of his reach"}]Kruger steps to leg, Sole sends it down wide of off stump off a length to keep it out of his reach
+Kruger steps to leg, Sole sends it down wide of off stump off a length to keep it out of his reach
 
 
 Balls faced: 7
 Bowler: Sole
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Off cutter, from deep in the hand of Sole, Erasmus walks forward and works it out to deep square leg... and the sirens are going! <strong>No ball!</strong>"}]Off cutter, from deep in the hand of Sole, Erasmus walks forward and works it out to deep square leg... and the sirens are going! <strong>No ball!</strong>
+Off cutter, from deep in the hand of Sole, Erasmus walks forward and works it out to deep square leg... and the sirens are going! <strong>No ball!</strong>
 
 No Balls: 1
 Balls faced: 8
 Bowler: Watt
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Length outside off, cut with an open face but straight to backward point"}]Length outside off, cut with an open face but straight to backward point
+Length outside off, cut with an open face but straight to backward point
 
 
 Balls faced: 9
 Bowler: Watt
 Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Darted down the leg side, just past leg stump, taken by the keeper but not cleanly"}]Darted down the leg side, just past leg stump, taken by the keeper but not cleanly
+Darted down the leg side, just past leg stump, taken by the keeper but not cleanly
 
 
 Balls faced: 10
 Bowler: Greaves
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Good length, swung down on the charge and <strong>excellently taken by Michael Jones out at wide long on!</strong> As casual as you like, couple of strides towards the boundary before taking it over his shoulder and ensuring his momentum did not taken him anywhere near the sponge."}]Good length, swung down on the charge and <strong>excellently taken by Michael Jones out at wide long on!</strong> As casual as you like, couple of strides towards the boundary before taking it over his shoulder and ensuring his momentum did not taken him anywhere near the sponge.
+Kruger is OUT! caught
+c Jones b Greaves
+Malan Kruger c Jones b Greaves 2 (8b 0x4 0x6 13m) SR: 25
+Good length, swung down on the charge and <strong>excellently taken by Michael Jones out at wide long on!</strong> As casual as you like, couple of strides towards the boundary before taking it over his shoulder and ensuring his momentum did not taken him anywhere near the sponge.
 
 
 Balls faced: 11
 Bowler: Greaves
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another googly, Kruger tries to dab it off the pitch down to third but doesn't make very good connection"}]Another googly, Kruger tries to dab it off the pitch down to third but doesn't make very good connection
+Another googly, Kruger tries to dab it off the pitch down to third but doesn't make very good connection
 
 
 Balls faced: 12
 Bowler: Sole
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Length again, this one scuttling into the batter off the pitch. Kruger guides from close to his body down to third"}]Length again, this one scuttling into the batter off the pitch. Kruger guides from close to his body down to third
+Length again, this one scuttling into the batter off the pitch. Kruger guides from close to his body down to third
 
 
 Balls faced: 13
 Bowler: Sole
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Kruger steps to leg, Sole sends it down wide of off stump off a length to keep it out of his reach"}]Kruger steps to leg, Sole sends it down wide of off stump off a length to keep it out of his reach
+Kruger steps to leg, Sole sends it down wide of off stump off a length to keep it out of his reach
 
 
 Balls faced: 14
 Bowler: Sole
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "Off cutter, from deep in the hand of Sole, Erasmus walks forward and works it out to deep square leg... and the sirens are going! <strong>No ball!</strong>"}]Off cutter, from deep in the hand of Sole, Erasmus walks forward and works it out to deep square leg... and the sirens are going! <strong>No ball!</strong>
+Off cutter, from deep in the hand of Sole, Erasmus walks forward and works it out to deep square leg... and the sirens are going! <strong>No ball!</strong>
 
 No Balls: 1
 Balls faced: 15
 Bowler: Greaves
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "Good length, swung down on the charge and <strong>excellently taken by Michael Jones out at wide long on!</strong> As casual as you like, couple of strides towards the boundary before taking it over his shoulder and ensuring his momentum did not taken him anywhere near the sponge."}]Good length, swung down on the charge and <strong>excellently taken by Michael Jones out at wide long on!</strong> As casual as you like, couple of strides towards the boundary before taking it over his shoulder and ensuring his momentum did not taken him anywhere near the sponge.
+Kruger is OUT! caught
+c Jones b Greaves
+Malan Kruger c Jones b Greaves 2 (8b 0x4 0x6 13m) SR: 25
+Good length, swung down on the charge and <strong>excellently taken by Michael Jones out at wide long on!</strong> As casual as you like, couple of strides towards the boundary before taking it over his shoulder and ensuring his momentum did not taken him anywhere near the sponge.
 
 
 Balls faced: 16
 Bowler: Greaves
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Another googly, Kruger tries to dab it off the pitch down to third but doesn't make very good connection"}]Another googly, Kruger tries to dab it off the pitch down to third but doesn't make very good connection
+Another googly, Kruger tries to dab it off the pitch down to third but doesn't make very good connection
 
 
 
@@ -164,281 +184,309 @@ Match: all_games_1433350_1433364.json
 Balls faced: 1
 Bowler: McCoy
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball wide outside off stump and driven with the bat's open face to deep point"}]full ball wide outside off stump and driven with the bat's open face to deep point
+full ball wide outside off stump and driven with the bat's open face to deep point
 
 
 Balls faced: 2
 Bowler: McCoy
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball around off stump, and slapped to deep point"}]good length ball around off stump, and slapped to deep point
+good length ball around off stump, and slapped to deep point
 
 
 Balls faced: 3
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker attempted on middle, very nearly there. Bunted to cover for a quick single expertly"}]yorker attempted on middle, very nearly there. Bunted to cover for a quick single expertly
+yorker attempted on middle, very nearly there. Bunted to cover for a quick single expertly
 
 
 Balls faced: 4
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball outside off. Pace off. Kruger swings across the line wildly and misses"}]good length ball outside off. Pace off. Kruger swings across the line wildly and misses
+good length ball outside off. Pace off. Kruger swings across the line wildly and misses
 
 
 Balls faced: 5
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "overpitched ball angling down the leg side with the batter missing the flick too"}]overpitched ball angling down the leg side with the batter missing the flick too
+overpitched ball angling down the leg side with the batter missing the flick too
 
 Wide: 1
 Balls faced: 6
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball around off and dragged to deep square leg again"}]good length ball around off and dragged to deep square leg again
+good length ball around off and dragged to deep square leg again
 
 
 Balls faced: 7
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball, pace off to start his spell. Drags a leg-side swipe to deep square leg"}]good length ball, pace off to start his spell. Drags a leg-side swipe to deep square leg
-[{"type": "HTML", "html": "SUJAL: \"RvD in this condition is pure GOLD. Sad to see that he is not gonna feature in the upcoming T20Wc.\""}]SUJAL: "RvD in this condition is pure GOLD. Sad to see that he is not gonna feature in the upcoming T20Wc."
+good length ball, pace off to start his spell. Drags a leg-side swipe to deep square leg
+SUJAL: "RvD in this condition is pure GOLD. Sad to see that he is not gonna feature in the upcoming T20Wc."
 
 Balls faced: 8
 Bowler: McCoy
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball wide outside off stump and driven with the bat's open face to deep point"}]full ball wide outside off stump and driven with the bat's open face to deep point
+full ball wide outside off stump and driven with the bat's open face to deep point
 
 
 Balls faced: 9
 Bowler: McCoy
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball around off stump, and slapped to deep point"}]good length ball around off stump, and slapped to deep point
+good length ball around off stump, and slapped to deep point
 
 
 Balls faced: 10
 Bowler: McCoy
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball just outside off stump. Tries to hammer it through midwicket but gets an inside edge to short fine leg instead"}]full ball just outside off stump. Tries to hammer it through midwicket but gets an inside edge to short fine leg instead
+full ball just outside off stump. Tries to hammer it through midwicket but gets an inside edge to short fine leg instead
 
 
 Balls faced: 11
 Bowler: McCoy
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball wide outside off. Kruger reaches out with the bat's face to guide a shot to deep third but misses out"}]full ball wide outside off. Kruger reaches out with the bat's face to guide a shot to deep third but misses out
+full ball wide outside off. Kruger reaches out with the bat's face to guide a shot to deep third but misses out
 
 
 Balls faced: 12
 Bowler: McCoy
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: No Shot
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>fabulous innovation!</b> Kruger moves across outside off stump and McCoy bowls a full ball right there. Kruger goes tumbling while playing a Devilliers-style scoop over fine leg"}]<B>fabulous innovation!</b> Kruger moves across outside off stump and McCoy bowls a full ball right there. Kruger goes tumbling while playing a Devilliers-style scoop over fine leg
+<B>fabulous innovation!</b> Kruger moves across outside off stump and McCoy bowls a full ball right there. Kruger goes tumbling while playing a Devilliers-style scoop over fine leg
 
 
 Balls faced: 13
 Bowler: McCoy
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball around off. Tries to hit it through the leg side but the ball stays a shade low and goes through to the keeper"}]length ball around off. Tries to hit it through the leg side but the ball stays a shade low and goes through to the keeper
-[{"type": "HTML", "html": "MUJ: \"@Sujal Yeah I agree, atleast he need to be there in the squad if not in first 11.\""}]MUJ: "@Sujal Yeah I agree, atleast he need to be there in the squad if not in first 11."
+length ball around off. Tries to hit it through the leg side but the ball stays a shade low and goes through to the keeper
+MUJ: "@Sujal Yeah I agree, atleast he need to be there in the squad if not in first 11."
 
 Balls faced: 14
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker attempted on middle, very nearly there. Bunted to cover for a quick single expertly"}]yorker attempted on middle, very nearly there. Bunted to cover for a quick single expertly
+yorker attempted on middle, very nearly there. Bunted to cover for a quick single expertly
 
 
 Balls faced: 15
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball outside off. Pace off. Kruger swings across the line wildly and misses"}]good length ball outside off. Pace off. Kruger swings across the line wildly and misses
+good length ball outside off. Pace off. Kruger swings across the line wildly and misses
 
 
 Balls faced: 16
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "overpitched ball angling down the leg side with the batter missing the flick too"}]overpitched ball angling down the leg side with the batter missing the flick too
+overpitched ball angling down the leg side with the batter missing the flick too
 
 Wide: 1
 Balls faced: 17
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball around off and dragged to deep square leg again"}]good length ball around off and dragged to deep square leg again
+good length ball around off and dragged to deep square leg again
 
 
 Balls faced: 18
 Bowler: Shamar Joseph
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length ball, pace off to start his spell. Drags a leg-side swipe to deep square leg"}]good length ball, pace off to start his spell. Drags a leg-side swipe to deep square leg
-[{"type": "HTML", "html": "SUJAL: \"RvD in this condition is pure GOLD. Sad to see that he is not gonna feature in the upcoming T20Wc.\""}]SUJAL: "RvD in this condition is pure GOLD. Sad to see that he is not gonna feature in the upcoming T20Wc."
+good length ball, pace off to start his spell. Drags a leg-side swipe to deep square leg
+SUJAL: "RvD in this condition is pure GOLD. Sad to see that he is not gonna feature in the upcoming T20Wc."
 
 Balls faced: 19
 Bowler: Shamar Joseph
 Over: 20
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Kruger gets this away to deep fine leg where two fielders run around the boundary line to intercept. But a bit of miscommunication means they are late to react, and the ball is deemed a four. <B>South Africa finish on 161 for 7</b>"}]Kruger gets this away to deep fine leg where two fielders run around the boundary line to intercept. But a bit of miscommunication means they are late to react, and the ball is deemed a four. <B>South Africa finish on 161 for 7</b>
-[{"type": "POLL", "poll": {"id": 2243, "objectId": 1435494, "title": "Will West Indies do a 3-0 clean sweep?", "modifiedAt": "2024-05-26T20:25:25.000Z", "generatedAt": "2024-06-20T00:42:02.459Z", "options": [{"id": 7813, "title": "Yes, target won't not enough", "votes": 1162}, {"id": 7814, "title": "No, good score on a tough pitch", "votes": 524}]}}, {"type": "HTML", "html": "When we return, it will be Himanshu once again to call the first half of the chase."}, {"type": "HTML", "html": "<B>3.31pm</b> Joseph bowls the tough overs and finishes with 2 for 24. Motie's 2 for 21 was solid too. A strong comeback from West Indies in the back end to keep South Africa down to 161 after Rassie van der Dussen and co. threatened to post a bigger total. Rassie's half-century and Mulder's 36 aside, South Africa were ordinary with the bat for most of the innings. West Indies kept control for most of the 90 minutes."}, {"type": "HTML", "html": "<B>Obed McCoy:</b> \"Pretty good, especially from the last game where I didn't do very good. I didn't get the lengths right last time. (lack of back of the hand slower balls) I use it based on the pitch. Here cutters work. (Catches) I got a bruise from the King catch!\""}]When we return, it will be Himanshu once again to call the first half of the chase. <B>3.31pm</b> Joseph bowls the tough overs and finishes with 2 for 24. Motie's 2 for 21 was solid too. A strong comeback from West Indies in the back end to keep South Africa down to 161 after Rassie van der Dussen and co. threatened to post a bigger total. Rassie's half-century and Mulder's 36 aside, South Africa were ordinary with the bat for most of the innings. West Indies kept control for most of the 90 minutes. <B>Obed McCoy:</b> "Pretty good, especially from the last game where I didn't do very good. I didn't get the lengths right last time. (lack of back of the hand slower balls) I use it based on the pitch. Here cutters work. (Catches) I got a bruise from the King catch!"
+Kruger gets this away to deep fine leg where two fielders run around the boundary line to intercept. But a bit of miscommunication means they are late to react, and the ball is deemed a four. <B>South Africa finish on 161 for 7</b>
+When we return, it will be Himanshu once again to call the first half of the chase. <B>3.31pm</b> Joseph bowls the tough overs and finishes with 2 for 24. Motie's 2 for 21 was solid too. A strong comeback from West Indies in the back end to keep South Africa down to 161 after Rassie van der Dussen and co. threatened to post a bigger total. Rassie's half-century and Mulder's 36 aside, South Africa were ordinary with the bat for most of the innings. West Indies kept control for most of the 90 minutes. <B>Obed McCoy:</b> "Pretty good, especially from the last game where I didn't do very good. I didn't get the lengths right last time. (lack of back of the hand slower balls) I use it based on the pitch. Here cutters work. (Catches) I got a bruise from the King catch!"
 
 Balls faced: 20
 Bowler: Shamar Joseph
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: RAMP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a slower one from Joseph. Kruger prepped himself to play a reverse-sweep ramp over conventional short third but he mistimes a shot to the keeper's right after being deceived by the lack of pace"}]a slower one from Joseph. Kruger prepped himself to play a reverse-sweep ramp over conventional short third but he mistimes a shot to the keeper's right after being deceived by the lack of pace
+a slower one from Joseph. Kruger prepped himself to play a reverse-sweep ramp over conventional short third but he mistimes a shot to the keeper's right after being deceived by the lack of pace
 
 Legbyes: 1
 Balls faced: 21
 Bowler: Shamar Joseph
 Over: 20
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Yorker length ball just outside leg and Kruger is totally nutmegged with his feet spread trying to protect himself. Fletcher can't take it cleanly, and that's a bye run"}]Yorker length ball just outside leg and Kruger is totally nutmegged with his feet spread trying to protect himself. Fletcher can't take it cleanly, and that's a bye run
+Yorker length ball just outside leg and Kruger is totally nutmegged with his feet spread trying to protect himself. Fletcher can't take it cleanly, and that's a bye run
 
 Byes: 1
 Balls faced: 22
 Bowler: McCoy
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full ball just outside off stump. Tries to hammer it through midwicket but gets an inside edge to short fine leg instead"}]full ball just outside off stump. Tries to hammer it through midwicket but gets an inside edge to short fine leg instead
+full ball just outside off stump. Tries to hammer it through midwicket but gets an inside edge to short fine leg instead
 
 
 Balls faced: 23
 Bowler: McCoy
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
 Shot: STEERED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full ball wide outside off. Kruger reaches out with the bat's face to guide a shot to deep third but misses out"}]full ball wide outside off. Kruger reaches out with the bat's face to guide a shot to deep third but misses out
+full ball wide outside off. Kruger reaches out with the bat's face to guide a shot to deep third but misses out
 
 
 Balls faced: 24
 Bowler: McCoy
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: No Shot
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>fabulous innovation!</b> Kruger moves across outside off stump and McCoy bowls a full ball right there. Kruger goes tumbling while playing a Devilliers-style scoop over fine leg"}]<B>fabulous innovation!</b> Kruger moves across outside off stump and McCoy bowls a full ball right there. Kruger goes tumbling while playing a Devilliers-style scoop over fine leg
+<B>fabulous innovation!</b> Kruger moves across outside off stump and McCoy bowls a full ball right there. Kruger goes tumbling while playing a Devilliers-style scoop over fine leg
 
 
 Balls faced: 25
 Bowler: McCoy
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length ball around off. Tries to hit it through the leg side but the ball stays a shade low and goes through to the keeper"}]length ball around off. Tries to hit it through the leg side but the ball stays a shade low and goes through to the keeper
-[{"type": "HTML", "html": "MUJ: \"@Sujal Yeah I agree, atleast he need to be there in the squad if not in first 11.\""}]MUJ: "@Sujal Yeah I agree, atleast he need to be there in the squad if not in first 11."
+length ball around off. Tries to hit it through the leg side but the ball stays a shade low and goes through to the keeper
+MUJ: "@Sujal Yeah I agree, atleast he need to be there in the squad if not in first 11."
 
 Balls faced: 26
 Bowler: Shamar Joseph
 Over: 20
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 4
 
 
-[{"type": "HTML", "html": "Kruger gets this away to deep fine leg where two fielders run around the boundary line to intercept. But a bit of miscommunication means they are late to react, and the ball is deemed a four. <B>South Africa finish on 161 for 7</b>"}]Kruger gets this away to deep fine leg where two fielders run around the boundary line to intercept. But a bit of miscommunication means they are late to react, and the ball is deemed a four. <B>South Africa finish on 161 for 7</b>
-[{"type": "POLL", "poll": {"id": 2243, "objectId": 1435494, "title": "Will West Indies do a 3-0 clean sweep?", "modifiedAt": "2024-05-26T20:25:25.000Z", "generatedAt": "2024-06-20T00:42:02.459Z", "options": [{"id": 7813, "title": "Yes, target won't not enough", "votes": 1162}, {"id": 7814, "title": "No, good score on a tough pitch", "votes": 524}]}}, {"type": "HTML", "html": "When we return, it will be Himanshu once again to call the first half of the chase."}, {"type": "HTML", "html": "<B>3.31pm</b> Joseph bowls the tough overs and finishes with 2 for 24. Motie's 2 for 21 was solid too. A strong comeback from West Indies in the back end to keep South Africa down to 161 after Rassie van der Dussen and co. threatened to post a bigger total. Rassie's half-century and Mulder's 36 aside, South Africa were ordinary with the bat for most of the innings. West Indies kept control for most of the 90 minutes."}, {"type": "HTML", "html": "<B>Obed McCoy:</b> \"Pretty good, especially from the last game where I didn't do very good. I didn't get the lengths right last time. (lack of back of the hand slower balls) I use it based on the pitch. Here cutters work. (Catches) I got a bruise from the King catch!\""}]When we return, it will be Himanshu once again to call the first half of the chase. <B>3.31pm</b> Joseph bowls the tough overs and finishes with 2 for 24. Motie's 2 for 21 was solid too. A strong comeback from West Indies in the back end to keep South Africa down to 161 after Rassie van der Dussen and co. threatened to post a bigger total. Rassie's half-century and Mulder's 36 aside, South Africa were ordinary with the bat for most of the innings. West Indies kept control for most of the 90 minutes. <B>Obed McCoy:</b> "Pretty good, especially from the last game where I didn't do very good. I didn't get the lengths right last time. (lack of back of the hand slower balls) I use it based on the pitch. Here cutters work. (Catches) I got a bruise from the King catch!"
+Kruger gets this away to deep fine leg where two fielders run around the boundary line to intercept. But a bit of miscommunication means they are late to react, and the ball is deemed a four. <B>South Africa finish on 161 for 7</b>
+When we return, it will be Himanshu once again to call the first half of the chase. <B>3.31pm</b> Joseph bowls the tough overs and finishes with 2 for 24. Motie's 2 for 21 was solid too. A strong comeback from West Indies in the back end to keep South Africa down to 161 after Rassie van der Dussen and co. threatened to post a bigger total. Rassie's half-century and Mulder's 36 aside, South Africa were ordinary with the bat for most of the innings. West Indies kept control for most of the 90 minutes. <B>Obed McCoy:</b> "Pretty good, especially from the last game where I didn't do very good. I didn't get the lengths right last time. (lack of back of the hand slower balls) I use it based on the pitch. Here cutters work. (Catches) I got a bruise from the King catch!"
 
 Balls faced: 27
 Bowler: Shamar Joseph
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: RAMP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "a slower one from Joseph. Kruger prepped himself to play a reverse-sweep ramp over conventional short third but he mistimes a shot to the keeper's right after being deceived by the lack of pace"}]a slower one from Joseph. Kruger prepped himself to play a reverse-sweep ramp over conventional short third but he mistimes a shot to the keeper's right after being deceived by the lack of pace
+a slower one from Joseph. Kruger prepped himself to play a reverse-sweep ramp over conventional short third but he mistimes a shot to the keeper's right after being deceived by the lack of pace
 
 Legbyes: 1
 Balls faced: 28
 Bowler: Shamar Joseph
 Over: 20
+Pitch Line: DOWN_LEG Length: YORKER
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Yorker length ball just outside leg and Kruger is totally nutmegged with his feet spread trying to protect himself. Fletcher can't take it cleanly, and that's a bye run"}]Yorker length ball just outside leg and Kruger is totally nutmegged with his feet spread trying to protect himself. Fletcher can't take it cleanly, and that's a bye run
+Yorker length ball just outside leg and Kruger is totally nutmegged with his feet spread trying to protect himself. Fletcher can't take it cleanly, and that's a bye run
 
 Byes: 1
 
@@ -446,6 +494,7 @@ Match: all_games_1434088_1434095.json
 Balls faced: 1
 Bowler: Zampa
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -456,6 +505,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Agar
 Over: 13
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -466,6 +516,7 @@ Run scored: 2
 Balls faced: 3
 Bowler: Agar
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -476,6 +527,7 @@ Run scored: 1
 Balls faced: 4
 Bowler: Agar
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -486,6 +538,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Agar
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -496,6 +549,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Zampa
 Over: 12
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -506,6 +560,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -516,6 +571,7 @@ Run scored: 4
 Balls faced: 8
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -526,6 +582,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -536,6 +593,7 @@ Run scored: 6
 Balls faced: 10
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -546,6 +604,7 @@ Run scored: 1
 Balls faced: 11
 Bowler: Agar
 Over: 13
+ 
 Shot: No Shot
 Run scored: 2
 
@@ -556,6 +615,7 @@ Run scored: 2
 Balls faced: 12
 Bowler: Agar
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -566,6 +626,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Agar
 Over: 13
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -576,6 +637,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Agar
 Over: 13
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -586,6 +648,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Hazlewood
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -596,6 +659,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Hazlewood
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -606,6 +670,7 @@ Run scored: 1
 Balls faced: 17
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 4
 
@@ -616,6 +681,7 @@ Run scored: 4
 Balls faced: 18
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 0
 
@@ -626,6 +692,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 6
 
@@ -636,6 +703,7 @@ Run scored: 6
 Balls faced: 20
 Bowler: Zampa
 Over: 14
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -646,6 +714,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Hazlewood
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -656,5 +725,6 @@ Run scored: 1
 Balls faced: 22
 Bowler: Hazlewood
 Over: 15
+ 
 Shot: No Shot
 Run scored: 1

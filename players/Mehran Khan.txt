@@ -2,321 +2,353 @@ Match: all_games_1411166_1415710.json
 Balls faced: 1
 Bowler: Hazlewood
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Hello!</b> This time Mehran gets a solid connection, as he picks up this slightly overpitched delivery and belts it straight back down the ground"}]<B>Hello!</b> This time Mehran gets a solid connection, as he picks up this slightly overpitched delivery and belts it straight back down the ground
+<B>Hello!</b> This time Mehran gets a solid connection, as he picks up this slightly overpitched delivery and belts it straight back down the ground
 
 
 Balls faced: 2
 Bowler: Hazlewood
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length nips back in and catches Mehran on the back thigh as he looks to work this onside"}]hard length nips back in and catches Mehran on the back thigh as he looks to work this onside
+hard length nips back in and catches Mehran on the back thigh as he looks to work this onside
 
 
 Balls faced: 3
 Bowler: Hazlewood
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Full on middle and leg, looks to loft this down the ground but catches this inside half of the bat as this loops over midwicket for a couple"}]Full on middle and leg, looks to loft this down the ground but catches this inside half of the bat as this loops over midwicket for a couple
+Full on middle and leg, looks to loft this down the ground but catches this inside half of the bat as this loops over midwicket for a couple
 
 
 Balls faced: 4
 Bowler: Hazlewood
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "over the wicket"}]over the wicket
+over the wicket
 
-[{"type": "HTML", "html": "short on off, breezy pull down towards deep square leg"}]short on off, breezy pull down towards deep square leg
+short on off, breezy pull down towards deep square leg
 
 
 Balls faced: 5
 Bowler: Maxwell
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "over the wicket"}]over the wicket
+over the wicket
 
-[{"type": "HTML", "html": "good length outside off, chopped towards cover point for a single"}]good length outside off, chopped towards cover point for a single
+good length outside off, chopped towards cover point for a single
 
 
 Balls faced: 6
 Bowler: Maxwell
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flatter outside off, goes back and across to work this down to long-on"}]flatter outside off, goes back and across to work this down to long-on
+flatter outside off, goes back and across to work this down to long-on
 
 
 Balls faced: 7
 Bowler: Hazlewood
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SHOT
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Hello!</b> This time Mehran gets a solid connection, as he picks up this slightly overpitched delivery and belts it straight back down the ground"}]<B>Hello!</b> This time Mehran gets a solid connection, as he picks up this slightly overpitched delivery and belts it straight back down the ground
+<B>Hello!</b> This time Mehran gets a solid connection, as he picks up this slightly overpitched delivery and belts it straight back down the ground
 
 
 Balls faced: 8
 Bowler: Hazlewood
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length nips back in and catches Mehran on the back thigh as he looks to work this onside"}]hard length nips back in and catches Mehran on the back thigh as he looks to work this onside
+hard length nips back in and catches Mehran on the back thigh as he looks to work this onside
 
 
 Balls faced: 9
 Bowler: Hazlewood
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "Full on middle and leg, looks to loft this down the ground but catches this inside half of the bat as this loops over midwicket for a couple"}]Full on middle and leg, looks to loft this down the ground but catches this inside half of the bat as this loops over midwicket for a couple
+Full on middle and leg, looks to loft this down the ground but catches this inside half of the bat as this loops over midwicket for a couple
 
 
 Balls faced: 10
 Bowler: Hazlewood
 Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
-[{"type": "HTML", "html": "over the wicket"}]over the wicket
+over the wicket
 
-[{"type": "HTML", "html": "short on off, breezy pull down towards deep square leg"}]short on off, breezy pull down towards deep square leg
+short on off, breezy pull down towards deep square leg
 
 
 Balls faced: 11
 Bowler: Zampa
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full outside off, looks to heave this leg side but only manages an inside edge towards backward square leg"}]full outside off, looks to heave this leg side but only manages an inside edge towards backward square leg
+full outside off, looks to heave this leg side but only manages an inside edge towards backward square leg
 
 
 Balls faced: 12
 Bowler: Maxwell
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "over the wicket"}]over the wicket
+over the wicket
 
-[{"type": "HTML", "html": "good length outside off, chopped towards cover point for a single"}]good length outside off, chopped towards cover point for a single
+good length outside off, chopped towards cover point for a single
 
 
 Balls faced: 13
 Bowler: Maxwell
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "flatter outside off, goes back and across to work this down to long-on"}]flatter outside off, goes back and across to work this down to long-on
+flatter outside off, goes back and across to work this down to long-on
 
 
 Balls faced: 14
 Bowler: Hazlewood
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker just outside off, dug out towards point"}]yorker just outside off, dug out towards point
+yorker just outside off, dug out towards point
 
 
 Balls faced: 15
 Bowler: Hazlewood
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short again, pace-off. Ducks into this in attempting the pull as the ball loops up off the batter's helmet through to Wade"}]Short again, pace-off. Ducks into this in attempting the pull as the ball loops up off the batter's helmet through to Wade
-[{"type": "HTML", "html": "Quick concussion check, but he looks to be clear."}]Quick concussion check, but he looks to be clear.
+Short again, pace-off. Ducks into this in attempting the pull as the ball loops up off the batter's helmet through to Wade
+Quick concussion check, but he looks to be clear.
 
 Balls faced: 16
 Bowler: Hazlewood
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller and angled in, strikes the front pad as he looks to heave this onside. They run the leg bye"}]fuller and angled in, strikes the front pad as he looks to heave this onside. They run the leg bye
+fuller and angled in, strikes the front pad as he looks to heave this onside. They run the leg bye
 
 Legbyes: 1
 Balls faced: 17
 Bowler: Hazlewood
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Controlled pull for four!</b> This was slightly short and it sits up in the surface. Mehran doesn't try to over play this, just guides it past the man at deep backward square"}]<B>Controlled pull for four!</b> This was slightly short and it sits up in the surface. Mehran doesn't try to over play this, just guides it past the man at deep backward square
+<B>Controlled pull for four!</b> This was slightly short and it sits up in the surface. Mehran doesn't try to over play this, just guides it past the man at deep backward square
 
 
 Balls faced: 18
 Bowler: Zampa
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full outside off, looks to heave this leg side but only manages an inside edge towards backward square leg"}]full outside off, looks to heave this leg side but only manages an inside edge towards backward square leg
+full outside off, looks to heave this leg side but only manages an inside edge towards backward square leg
 
 
 Balls faced: 19
 Bowler: Ellis
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full and wide once more, squeezed in the air through cover for a couple"}]full and wide once more, squeezed in the air through cover for a couple
+full and wide once more, squeezed in the air through cover for a couple
 
 
 Balls faced: 20
 Bowler: Ellis
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide yorker, but too wide says the umpire"}]wide yorker, but too wide says the umpire
+wide yorker, but too wide says the umpire
 
 Wide: 1
 Balls faced: 21
 Bowler: Ellis
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clears deep midwicket!</b> Short and pace-off outside off, but Mehran waits for it and pulls it cleanly and all the way"}]<B>Clears deep midwicket!</b> Short and pace-off outside off, but Mehran waits for it and pulls it cleanly and all the way
+<B>Clears deep midwicket!</b> Short and pace-off outside off, but Mehran waits for it and pulls it cleanly and all the way
 
 
 Balls faced: 22
 Bowler: Ellis
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length on the stumps, leans back and swings through the line. Over the bowler, but while it was timed relatively well there are two men in the V to mop up"}]good length on the stumps, leans back and swings through the line. Over the bowler, but while it was timed relatively well there are two men in the V to mop up
+good length on the stumps, leans back and swings through the line. Over the bowler, but while it was timed relatively well there are two men in the V to mop up
 
 
 Balls faced: 23
 Bowler: Ellis
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Here's Ellis"}, {"type": "HTML", "html": "Max: \"Stoinis player of the match surely - 67 off 36 and equal most wickets (2) with the second lowest econ of the Aus bowlers at 3.5\" --- Yeah not really in any doubt at this point."}]Here's Ellis Max: "Stoinis player of the match surely - 67 off 36 and equal most wickets (2) with the second lowest econ of the Aus bowlers at 3.5" --- Yeah not really in any doubt at this point.
+Here's Ellis Max: "Stoinis player of the match surely - 67 off 36 and equal most wickets (2) with the second lowest econ of the Aus bowlers at 3.5" --- Yeah not really in any doubt at this point.
 
-[{"type": "HTML", "html": "length outside off, dragged on one knee towards wide long-on"}]length outside off, dragged on one knee towards wide long-on
+length outside off, dragged on one knee towards wide long-on
 
 
 Balls faced: 24
 Bowler: Hazlewood
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "yorker just outside off, dug out towards point"}]yorker just outside off, dug out towards point
+yorker just outside off, dug out towards point
 
 
 Balls faced: 25
 Bowler: Hazlewood
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Short again, pace-off. Ducks into this in attempting the pull as the ball loops up off the batter's helmet through to Wade"}]Short again, pace-off. Ducks into this in attempting the pull as the ball loops up off the batter's helmet through to Wade
-[{"type": "HTML", "html": "Quick concussion check, but he looks to be clear."}]Quick concussion check, but he looks to be clear.
+Short again, pace-off. Ducks into this in attempting the pull as the ball loops up off the batter's helmet through to Wade
+Quick concussion check, but he looks to be clear.
 
 Balls faced: 26
 Bowler: Hazlewood
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "fuller and angled in, strikes the front pad as he looks to heave this onside. They run the leg bye"}]fuller and angled in, strikes the front pad as he looks to heave this onside. They run the leg bye
+fuller and angled in, strikes the front pad as he looks to heave this onside. They run the leg bye
 
 Legbyes: 1
 Balls faced: 27
 Bowler: Hazlewood
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<B>Controlled pull for four!</b> This was slightly short and it sits up in the surface. Mehran doesn't try to over play this, just guides it past the man at deep backward square"}]<B>Controlled pull for four!</b> This was slightly short and it sits up in the surface. Mehran doesn't try to over play this, just guides it past the man at deep backward square
+<B>Controlled pull for four!</b> This was slightly short and it sits up in the surface. Mehran doesn't try to over play this, just guides it past the man at deep backward square
 
 
 Balls faced: 28
 Bowler: Ellis
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full and wide once more, squeezed in the air through cover for a couple"}]full and wide once more, squeezed in the air through cover for a couple
+full and wide once more, squeezed in the air through cover for a couple
 
 
 Balls faced: 29
 Bowler: Ellis
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: SQUARE_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "wide yorker, but too wide says the umpire"}]wide yorker, but too wide says the umpire
+wide yorker, but too wide says the umpire
 
 Wide: 1
 Balls faced: 30
 Bowler: Ellis
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<B>Clears deep midwicket!</b> Short and pace-off outside off, but Mehran waits for it and pulls it cleanly and all the way"}]<B>Clears deep midwicket!</b> Short and pace-off outside off, but Mehran waits for it and pulls it cleanly and all the way
+<B>Clears deep midwicket!</b> Short and pace-off outside off, but Mehran waits for it and pulls it cleanly and all the way
 
 
 Balls faced: 31
 Bowler: Ellis
 Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: STRAIGHT_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "good length on the stumps, leans back and swings through the line. Over the bowler, but while it was timed relatively well there are two men in the V to mop up"}]good length on the stumps, leans back and swings through the line. Over the bowler, but while it was timed relatively well there are two men in the V to mop up
+good length on the stumps, leans back and swings through the line. Over the bowler, but while it was timed relatively well there are two men in the V to mop up
 
 
 Balls faced: 32
 Bowler: Ellis
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Here's Ellis"}, {"type": "HTML", "html": "Max: \"Stoinis player of the match surely - 67 off 36 and equal most wickets (2) with the second lowest econ of the Aus bowlers at 3.5\" --- Yeah not really in any doubt at this point."}]Here's Ellis Max: "Stoinis player of the match surely - 67 off 36 and equal most wickets (2) with the second lowest econ of the Aus bowlers at 3.5" --- Yeah not really in any doubt at this point.
+Here's Ellis Max: "Stoinis player of the match surely - 67 off 36 and equal most wickets (2) with the second lowest econ of the Aus bowlers at 3.5" --- Yeah not really in any doubt at this point.
 
-[{"type": "HTML", "html": "length outside off, dragged on one knee towards wide long-on"}]length outside off, dragged on one knee towards wide long-on
+length outside off, dragged on one knee towards wide long-on
 
 
 
@@ -324,240 +356,272 @@ Match: all_games_1411166_1415720.json
 Balls faced: 1
 Bowler: Greaves
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up a bit slower and Mehran gets off the mark but bundling one into the leg side"}]tossed up a bit slower and Mehran gets off the mark but bundling one into the leg side
+tossed up a bit slower and Mehran gets off the mark but bundling one into the leg side
 
 
 Balls faced: 2
 Bowler: Greaves
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Mehran Khan is the new man"}]Mehran Khan is the new man
+Mehran Khan is the new man
 
-[{"type": "HTML", "html": "length ball, 96kph and skidding into the pads"}]length ball, 96kph and skidding into the pads
+length ball, 96kph and skidding into the pads
 
 
 Balls faced: 3
 Bowler: Sole
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full, straight, pace off again, flicked out to deep backward square leg"}]full, straight, pace off again, flicked out to deep backward square leg
+full, straight, pace off again, flicked out to deep backward square leg
 
 
 Balls faced: 4
 Bowler: Sole
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>some tonkage for the Oman cause!</b> Goes deep in the crease and picks the change-up, battering it back over the head of mid-on"}]<b>some tonkage for the Oman cause!</b> Goes deep in the crease and picks the change-up, battering it back over the head of mid-on
+<b>some tonkage for the Oman cause!</b> Goes deep in the crease and picks the change-up, battering it back over the head of mid-on
 
 
 Balls faced: 5
 Bowler: Sole
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling into the right-hander, deflected up and away to the left of the keeper"}]length ball angling into the right-hander, deflected up and away to the left of the keeper
+length ball angling into the right-hander, deflected up and away to the left of the keeper
 
 
 Balls faced: 6
 Bowler: Sole
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Last four, Sole is back. What can Oman get up to?"}]Last four, Sole is back. What can Oman get up to?
+Last four, Sole is back. What can Oman get up to?
 
-[{"type": "HTML", "html": "short outside off, 130kph and sliced rumbustiously down to deep third"}]short outside off, 130kph and sliced rumbustiously down to deep third
+short outside off, 130kph and sliced rumbustiously down to deep third
 
 
 Balls faced: 7
 Bowler: Greaves
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "tossed up a bit slower and Mehran gets off the mark but bundling one into the leg side"}]tossed up a bit slower and Mehran gets off the mark but bundling one into the leg side
+tossed up a bit slower and Mehran gets off the mark but bundling one into the leg side
 
 
 Balls faced: 8
 Bowler: Greaves
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
-[{"type": "HTML", "html": "Mehran Khan is the new man"}]Mehran Khan is the new man
+Mehran Khan is the new man
 
-[{"type": "HTML", "html": "length ball, 96kph and skidding into the pads"}]length ball, 96kph and skidding into the pads
+length ball, 96kph and skidding into the pads
 
 
 Balls faced: 9
 Bowler: Sharif
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>short ball, tickled behind!</b> Sharif hits the deck outside off, Mehran aims a swing across the line but can only manage a faint top edge through to Cross. Scotland chip out another at the death"}]<b>short ball, tickled behind!</b> Sharif hits the deck outside off, Mehran aims a swing across the line but can only manage a faint top edge through to Cross. Scotland chip out another at the death
+Mehran Khan is OUT! caught
+c †Cross b Sharif
+Mehran Khan c †Cross b Sharif 13 (10b 2x4 0x6 10m) SR: 130
+<b>short ball, tickled behind!</b> Sharif hits the deck outside off, Mehran aims a swing across the line but can only manage a faint top edge through to Cross. Scotland chip out another at the death
 
 
 Balls faced: 10
 Bowler: Sharif
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short ball with pace off, 109kph. Swatted away to deep square leg"}]short ball with pace off, 109kph. Swatted away to deep square leg
+short ball with pace off, 109kph. Swatted away to deep square leg
 
 
 Balls faced: 11
 Bowler: Sharif
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>low full toss, pumped down the ground!</b> Sharif misses his yorker and Mehran connects with a lofted straight drive"}]<b>low full toss, pumped down the ground!</b> Sharif misses his yorker and Mehran connects with a lofted straight drive
+<b>low full toss, pumped down the ground!</b> Sharif misses his yorker and Mehran connects with a lofted straight drive
 
 
 Balls faced: 12
 Bowler: Sharif
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Sharif is back"}]Sharif is back
+Sharif is back
 
-[{"type": "HTML", "html": "over the wicket, pace off outside off, the ball sits up but Mehran can't time his pull across the line"}]over the wicket, pace off outside off, the ball sits up but Mehran can't time his pull across the line
-[{"type": "HTML", "html": "\"All these wicket chances missed for Scotland and they still have Oman restricted to a low total. This is one impressive bowling unit.\" That's certainly the glass half full view, Charles"}]"All these wicket chances missed for Scotland and they still have Oman restricted to a low total. This is one impressive bowling unit." That's certainly the glass half full view, Charles
+over the wicket, pace off outside off, the ball sits up but Mehran can't time his pull across the line
+"All these wicket chances missed for Scotland and they still have Oman restricted to a low total. This is one impressive bowling unit." That's certainly the glass half full view, Charles
 Legbyes: 1
 Balls faced: 13
 Bowler: Sole
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "full, straight, pace off again, flicked out to deep backward square leg"}]full, straight, pace off again, flicked out to deep backward square leg
+full, straight, pace off again, flicked out to deep backward square leg
 
 
 Balls faced: 14
 Bowler: Sole
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>some tonkage for the Oman cause!</b> Goes deep in the crease and picks the change-up, battering it back over the head of mid-on"}]<b>some tonkage for the Oman cause!</b> Goes deep in the crease and picks the change-up, battering it back over the head of mid-on
+<b>some tonkage for the Oman cause!</b> Goes deep in the crease and picks the change-up, battering it back over the head of mid-on
 
 
 Balls faced: 15
 Bowler: Sole
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length ball angling into the right-hander, deflected up and away to the left of the keeper"}]length ball angling into the right-hander, deflected up and away to the left of the keeper
+length ball angling into the right-hander, deflected up and away to the left of the keeper
 
 
 Balls faced: 16
 Bowler: Sole
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
-[{"type": "HTML", "html": "Last four, Sole is back. What can Oman get up to?"}]Last four, Sole is back. What can Oman get up to?
+Last four, Sole is back. What can Oman get up to?
 
-[{"type": "HTML", "html": "short outside off, 130kph and sliced rumbustiously down to deep third"}]short outside off, 130kph and sliced rumbustiously down to deep third
+short outside off, 130kph and sliced rumbustiously down to deep third
 
 
 Balls faced: 17
 Bowler: Sharif
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>short ball, tickled behind!</b> Sharif hits the deck outside off, Mehran aims a swing across the line but can only manage a faint top edge through to Cross. Scotland chip out another at the death"}]<b>short ball, tickled behind!</b> Sharif hits the deck outside off, Mehran aims a swing across the line but can only manage a faint top edge through to Cross. Scotland chip out another at the death
+Mehran Khan is OUT! caught
+c †Cross b Sharif
+Mehran Khan c †Cross b Sharif 13 (10b 2x4 0x6 10m) SR: 130
+<b>short ball, tickled behind!</b> Sharif hits the deck outside off, Mehran aims a swing across the line but can only manage a faint top edge through to Cross. Scotland chip out another at the death
 
 
 Balls faced: 18
 Bowler: Sharif
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short ball with pace off, 109kph. Swatted away to deep square leg"}]short ball with pace off, 109kph. Swatted away to deep square leg
+short ball with pace off, 109kph. Swatted away to deep square leg
 
 
 Balls faced: 19
 Bowler: Sharif
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
 Shot: STRAIGHT_DRIVE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<b>low full toss, pumped down the ground!</b> Sharif misses his yorker and Mehran connects with a lofted straight drive"}]<b>low full toss, pumped down the ground!</b> Sharif misses his yorker and Mehran connects with a lofted straight drive
+<b>low full toss, pumped down the ground!</b> Sharif misses his yorker and Mehran connects with a lofted straight drive
 
 
 Balls faced: 20
 Bowler: Sharif
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Sharif is back"}]Sharif is back
+Sharif is back
 
-[{"type": "HTML", "html": "over the wicket, pace off outside off, the ball sits up but Mehran can't time his pull across the line"}]over the wicket, pace off outside off, the ball sits up but Mehran can't time his pull across the line
-[{"type": "HTML", "html": "\"All these wicket chances missed for Scotland and they still have Oman restricted to a low total. This is one impressive bowling unit.\" That's certainly the glass half full view, Charles"}]"All these wicket chances missed for Scotland and they still have Oman restricted to a low total. This is one impressive bowling unit." That's certainly the glass half full view, Charles
+over the wicket, pace off outside off, the ball sits up but Mehran can't time his pull across the line
+"All these wicket chances missed for Scotland and they still have Oman restricted to a low total. This is one impressive bowling unit." That's certainly the glass half full view, Charles
 Legbyes: 1
 
 Match: all_games_1411166_1415728.json
 Balls faced: 1
 Bowler: Rashid
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Moeen holds this one!</strong> Big leg spinner, drifting onto a full length just outside off, enticing the drive and finding the edge to a wide first slip."}]<strong>Moeen holds this one!</strong> Big leg spinner, drifting onto a full length just outside off, enticing the drive and finding the edge to a wide first slip.
+Mehran Khan is OUT! caught
+c Ali b Rashid
+Mehran Khan c Ali b Rashid 0 (2b 0x4 0x6 2m) SR: 0
+<strong>Moeen holds this one!</strong> Big leg spinner, drifting onto a full length just outside off, enticing the drive and finding the edge to a wide first slip.
 
 
 Balls faced: 2
 Bowler: Rashid
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Top-spinner? Maybe. Either way, left alone outside off stump"}]Top-spinner? Maybe. Either way, left alone outside off stump
+Top-spinner? Maybe. Either way, left alone outside off stump
 
 
 Balls faced: 3
 Bowler: Rashid
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Moeen holds this one!</strong> Big leg spinner, drifting onto a full length just outside off, enticing the drive and finding the edge to a wide first slip."}]<strong>Moeen holds this one!</strong> Big leg spinner, drifting onto a full length just outside off, enticing the drive and finding the edge to a wide first slip.
+Mehran Khan is OUT! caught
+c Ali b Rashid
+Mehran Khan c Ali b Rashid 0 (2b 0x4 0x6 2m) SR: 0
+<strong>Moeen holds this one!</strong> Big leg spinner, drifting onto a full length just outside off, enticing the drive and finding the edge to a wide first slip.
 
 
 Balls faced: 4
 Bowler: Rashid
 Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Top-spinner? Maybe. Either way, left alone outside off stump"}]Top-spinner? Maybe. Either way, left alone outside off stump
+Top-spinner? Maybe. Either way, left alone outside off stump

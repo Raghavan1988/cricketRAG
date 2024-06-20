@@ -2,301 +2,335 @@ Match: all_games_1377745_1377751.json
 Balls faced: 1
 Bowler: Patel
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Malla makes the most of the enforced final legal ball. Nisarg floats this up on a full length on sixth stump and annihilates this straight over Nisarg's head clearing the sightscreen by some distance."}]Malla makes the most of the enforced final legal ball. Nisarg floats this up on a full length on sixth stump and annihilates this straight over Nisarg's head clearing the sightscreen by some distance.
+Malla makes the most of the enforced final legal ball. Nisarg floats this up on a full length on sixth stump and annihilates this straight over Nisarg's head clearing the sightscreen by some distance.
 
 
 Balls faced: 2
 Bowler: Patel
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball hugging the wide guideline, darts this wide outside off and is left alone."}]good length ball hugging the wide guideline, darts this wide outside off and is left alone.
-[{"type": "HTML", "html": "The players start running to their positions for the next over thinking it is complete but there's still a legal ball left after the two wides."}]The players start running to their positions for the next over thinking it is complete but there's still a legal ball left after the two wides.
+good length ball hugging the wide guideline, darts this wide outside off and is left alone.
+The players start running to their positions for the next over thinking it is complete but there's still a legal ball left after the two wides.
 
 Balls faced: 3
 Bowler: Patel
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short on seventh stump, slices a cut to the cover sweeper Modani for one."}]short on seventh stump, slices a cut to the cover sweeper Modani for one.
+short on seventh stump, slices a cut to the cover sweeper Modani for one.
 
 
 Balls faced: 4
 Bowler: Patel
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drag down from Nisarg way down the leg side. Left alone and wide called."}]drag down from Nisarg way down the leg side. Left alone and wide called.
+drag down from Nisarg way down the leg side. Left alone and wide called.
 
 Wide: 1
 Balls faced: 5
 Bowler: Patel
 Over: 27
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball wide outside off, left alone and wide called."}]good length ball wide outside off, left alone and wide called.
+good length ball wide outside off, left alone and wide called.
 
 Wide: 1
 Balls faced: 6
 Bowler: Patel
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Kushal Malla enters. He scored a 50 on his ODI debut against USA as a 16-year-old back in February 2020."}]Kushal Malla enters. He scored a 50 on his ODI debut against USA as a 16-year-old back in February 2020.
+Kushal Malla enters. He scored a 50 on his ODI debut against USA as a 16-year-old back in February 2020.
 
-[{"type": "HTML", "html": "good length ball on fifth stump, defended to cover."}]good length ball on fifth stump, defended to cover.
+good length ball on fifth stump, defended to cover.
 
 
 Balls faced: 7
 Bowler: Patel
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: STRAIGHT_DRIVE
 Run scored: 6
 
 
-[{"type": "HTML", "html": "Malla makes the most of the enforced final legal ball. Nisarg floats this up on a full length on sixth stump and annihilates this straight over Nisarg's head clearing the sightscreen by some distance."}]Malla makes the most of the enforced final legal ball. Nisarg floats this up on a full length on sixth stump and annihilates this straight over Nisarg's head clearing the sightscreen by some distance.
+Malla makes the most of the enforced final legal ball. Nisarg floats this up on a full length on sixth stump and annihilates this straight over Nisarg's head clearing the sightscreen by some distance.
 
 
 Balls faced: 8
 Bowler: Patel
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball hugging the wide guideline, darts this wide outside off and is left alone."}]good length ball hugging the wide guideline, darts this wide outside off and is left alone.
-[{"type": "HTML", "html": "The players start running to their positions for the next over thinking it is complete but there's still a legal ball left after the two wides."}]The players start running to their positions for the next over thinking it is complete but there's still a legal ball left after the two wides.
+good length ball hugging the wide guideline, darts this wide outside off and is left alone.
+The players start running to their positions for the next over thinking it is complete but there's still a legal ball left after the two wides.
 
 Balls faced: 9
 Bowler: Patel
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short on seventh stump, slices a cut to the cover sweeper Modani for one."}]short on seventh stump, slices a cut to the cover sweeper Modani for one.
+short on seventh stump, slices a cut to the cover sweeper Modani for one.
 
 
 Balls faced: 10
 Bowler: Patel
 Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "drag down from Nisarg way down the leg side. Left alone and wide called."}]drag down from Nisarg way down the leg side. Left alone and wide called.
+drag down from Nisarg way down the leg side. Left alone and wide called.
 
 Wide: 1
 Balls faced: 11
 Bowler: Patel
 Over: 27
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball wide outside off, left alone and wide called."}]good length ball wide outside off, left alone and wide called.
+good length ball wide outside off, left alone and wide called.
 
 Wide: 1
 Balls faced: 12
 Bowler: Patel
 Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Kushal Malla enters. He scored a 50 on his ODI debut against USA as a 16-year-old back in February 2020."}]Kushal Malla enters. He scored a 50 on his ODI debut against USA as a 16-year-old back in February 2020.
+Kushal Malla enters. He scored a 50 on his ODI debut against USA as a 16-year-old back in February 2020.
 
-[{"type": "HTML", "html": "good length ball on fifth stump, defended to cover."}]good length ball on fifth stump, defended to cover.
+good length ball on fifth stump, defended to cover.
 
 
 Balls faced: 13
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on fifth stump, defended to mid-off for none."}]good length ball on fifth stump, defended to mid-off for none.
+good length ball on fifth stump, defended to mid-off for none.
 
 
 Balls faced: 14
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, guided behind point for none."}]full on fourth stump, guided behind point for none.
+full on fourth stump, guided behind point for none.
 
 
 Balls faced: 15
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short on fifth stump, Malla swats this with disdain over midwicket, two bounces to the rope."}]short on fifth stump, Malla swats this with disdain over midwicket, two bounces to the rope.
+short on fifth stump, Malla swats this with disdain over midwicket, two bounces to the rope.
 
 
 Balls faced: 16
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on middle, defended to extra cover for none."}]back of a length on middle, defended to extra cover for none.
+back of a length on middle, defended to extra cover for none.
 
 
 Balls faced: 17
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, chipped uppishly to mid-off for none."}]full on fourth stump, chipped uppishly to mid-off for none.
+full on fourth stump, chipped uppishly to mid-off for none.
 
 
 Balls faced: 18
 Bowler: Taylor
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Taylor about to bowl his first ball to the lefty Malla now. No slip."}]Taylor about to bowl his first ball to the lefty Malla now. No slip.
+Taylor about to bowl his first ball to the lefty Malla now. No slip.
 
-[{"type": "HTML", "html": "good length ball grips and turns sharply on fifth stump, Malla dangles his bat and taps this through extra cover for one."}]good length ball grips and turns sharply on fifth stump, Malla dangles his bat and taps this through extra cover for one.
+good length ball grips and turns sharply on fifth stump, Malla dangles his bat and taps this through extra cover for one.
 
 
 Balls faced: 19
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "good length ball on fifth stump, defended to mid-off for none."}]good length ball on fifth stump, defended to mid-off for none.
+good length ball on fifth stump, defended to mid-off for none.
 
 
 Balls faced: 20
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, guided behind point for none."}]full on fourth stump, guided behind point for none.
+full on fourth stump, guided behind point for none.
 
 
 Balls faced: 21
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 4
 
 
-[{"type": "HTML", "html": "short on fifth stump, Malla swats this with disdain over midwicket, two bounces to the rope."}]short on fifth stump, Malla swats this with disdain over midwicket, two bounces to the rope.
+short on fifth stump, Malla swats this with disdain over midwicket, two bounces to the rope.
 
 
 Balls faced: 22
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on middle, defended to extra cover for none."}]back of a length on middle, defended to extra cover for none.
+back of a length on middle, defended to extra cover for none.
 
 
 Balls faced: 23
 Bowler: Phillip
 Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full on fourth stump, chipped uppishly to mid-off for none."}]full on fourth stump, chipped uppishly to mid-off for none.
+full on fourth stump, chipped uppishly to mid-off for none.
 
 
 Balls faced: 24
 Bowler: Jasdeep
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on fourth stump, tapped through cover for one."}]back of a length on fourth stump, tapped through cover for one.
-[{"type": "HTML", "html": "Eli: \"USA fan checking in, although waking up an hour into Nepal's innings has caused me to spend the time since trying to wrap my mind around how we could start 18/4 :-(\" Well Eli, you made a wise decision to sleep through that new-ball carnage courtesy of Karan KC."}, {"type": "HTML", "html": "Drinks break. Nepal continue to cruise here. Their match to lose. USA trying to stretch this out as long as possible to limit the net run rate damage. Here comes Ashish Pant back in the commentary box to see you through to the finish."}]Eli: "USA fan checking in, although waking up an hour into Nepal's innings has caused me to spend the time since trying to wrap my mind around how we could start 18/4 :-(" Well Eli, you made a wise decision to sleep through that new-ball carnage courtesy of Karan KC. Drinks break. Nepal continue to cruise here. Their match to lose. USA trying to stretch this out as long as possible to limit the net run rate damage. Here comes Ashish Pant back in the commentary box to see you through to the finish.
+back of a length on fourth stump, tapped through cover for one.
+Eli: "USA fan checking in, although waking up an hour into Nepal's innings has caused me to spend the time since trying to wrap my mind around how we could start 18/4 :-(" Well Eli, you made a wise decision to sleep through that new-ball carnage courtesy of Karan KC. Drinks break. Nepal continue to cruise here. Their match to lose. USA trying to stretch this out as long as possible to limit the net run rate damage. Here comes Ashish Pant back in the commentary box to see you through to the finish.
 
 Balls faced: 25
 Bowler: Taylor
 Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Taylor about to bowl his first ball to the lefty Malla now. No slip."}]Taylor about to bowl his first ball to the lefty Malla now. No slip.
+Taylor about to bowl his first ball to the lefty Malla now. No slip.
 
-[{"type": "HTML", "html": "good length ball grips and turns sharply on fifth stump, Malla dangles his bat and taps this through extra cover for one."}]good length ball grips and turns sharply on fifth stump, Malla dangles his bat and taps this through extra cover for one.
+good length ball grips and turns sharply on fifth stump, Malla dangles his bat and taps this through extra cover for one.
 
 
 Balls faced: 26
 Bowler: Taylor
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Nailed, but straight down long-off's throat!</strong> Oh, has the tide turned again? Innocuous tossed up delivery outside off. Malla gets under it and gets it off the middle of the blade. But he couldn't find the elevation and Gajanand at long-off juggled but importantly, held on"}]<strong>Nailed, but straight down long-off's throat!</strong> Oh, has the tide turned again? Innocuous tossed up delivery outside off. Malla gets under it and gets it off the middle of the blade. But he couldn't find the elevation and Gajanand at long-off juggled but importantly, held on
+Kushal Malla is OUT! caught
+c Singh b Taylor
+Kushal Malla c Singh b Taylor 13 (13b 1x4 1x6 29m) SR: 100
+<strong>Nailed, but straight down long-off's throat!</strong> Oh, has the tide turned again? Innocuous tossed up delivery outside off. Malla gets under it and gets it off the middle of the blade. But he couldn't find the elevation and Gajanand at long-off juggled but importantly, held on
 
 
 Balls faced: 27
 Bowler: Taylor
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Quicker outside off, he pushes to cover"}]Quicker outside off, he pushes to cover
+Quicker outside off, he pushes to cover
 
 
 Balls faced: 28
 Bowler: Jasdeep
 Over: 32
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on fourth stump, tapped through cover for one."}]back of a length on fourth stump, tapped through cover for one.
-[{"type": "HTML", "html": "Eli: \"USA fan checking in, although waking up an hour into Nepal's innings has caused me to spend the time since trying to wrap my mind around how we could start 18/4 :-(\" Well Eli, you made a wise decision to sleep through that new-ball carnage courtesy of Karan KC."}, {"type": "HTML", "html": "Drinks break. Nepal continue to cruise here. Their match to lose. USA trying to stretch this out as long as possible to limit the net run rate damage. Here comes Ashish Pant back in the commentary box to see you through to the finish."}]Eli: "USA fan checking in, although waking up an hour into Nepal's innings has caused me to spend the time since trying to wrap my mind around how we could start 18/4 :-(" Well Eli, you made a wise decision to sleep through that new-ball carnage courtesy of Karan KC. Drinks break. Nepal continue to cruise here. Their match to lose. USA trying to stretch this out as long as possible to limit the net run rate damage. Here comes Ashish Pant back in the commentary box to see you through to the finish.
+back of a length on fourth stump, tapped through cover for one.
+Eli: "USA fan checking in, although waking up an hour into Nepal's innings has caused me to spend the time since trying to wrap my mind around how we could start 18/4 :-(" Well Eli, you made a wise decision to sleep through that new-ball carnage courtesy of Karan KC. Drinks break. Nepal continue to cruise here. Their match to lose. USA trying to stretch this out as long as possible to limit the net run rate damage. Here comes Ashish Pant back in the commentary box to see you through to the finish.
 
 Balls faced: 29
 Bowler: Taylor
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>Nailed, but straight down long-off's throat!</strong> Oh, has the tide turned again? Innocuous tossed up delivery outside off. Malla gets under it and gets it off the middle of the blade. But he couldn't find the elevation and Gajanand at long-off juggled but importantly, held on"}]<strong>Nailed, but straight down long-off's throat!</strong> Oh, has the tide turned again? Innocuous tossed up delivery outside off. Malla gets under it and gets it off the middle of the blade. But he couldn't find the elevation and Gajanand at long-off juggled but importantly, held on
+Kushal Malla is OUT! caught
+c Singh b Taylor
+Kushal Malla c Singh b Taylor 13 (13b 1x4 1x6 29m) SR: 100
+<strong>Nailed, but straight down long-off's throat!</strong> Oh, has the tide turned again? Innocuous tossed up delivery outside off. Malla gets under it and gets it off the middle of the blade. But he couldn't find the elevation and Gajanand at long-off juggled but importantly, held on
 
 
 Balls faced: 30
 Bowler: Taylor
 Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "Quicker outside off, he pushes to cover"}]Quicker outside off, he pushes to cover
+Quicker outside off, he pushes to cover
 
 
 
@@ -304,61 +338,71 @@ Match: all_games_1411166_1415731.json
 Balls faced: 1
 Bowler: Shamsi
 Over: 18
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "The required rate is back above 6. Nepal are four wickets down. Can South Africa pull another game back from the brink in this World Cup? Or will Nepal make history?"}]The required rate is back above 6. Nepal are four wickets down. Can South Africa pull another game back from the brink in this World Cup? Or will Nepal make history?
+The required rate is back above 6. Nepal are four wickets down. Can South Africa pull another game back from the brink in this World Cup? Or will Nepal make history?
 
-[{"type": "HTML", "html": "Full on leg, clipped square through leg side and they get a single and 100 comes up for Nepal"}]Full on leg, clipped square through leg side and they get a single and 100 comes up for Nepal
+Full on leg, clipped square through leg side and they get a single and 100 comes up for Nepal
 
 
 Balls faced: 2
 Bowler: Nortje
 Over: 19
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Bowled 'im!</b> First wicket for a fast bowler in this game. Nortje digs it in on a length around leg, Malla looks to swing across the line and misses completely and that hits top of off! South Africa's leading wicket-taker in this World Cup has got a big one right now!"}]<b>Bowled 'im!</b> First wicket for a fast bowler in this game. Nortje digs it in on a length around leg, Malla looks to swing across the line and misses completely and that hits top of off! South Africa's leading wicket-taker in this World Cup has got a big one right now!
+Kushal Malla is OUT! bowled
+ b Nortje
+Kushal Malla b Nortje 1 (3b 0x4 0x6 4m) SR: 33.33
+<b>Bowled 'im!</b> First wicket for a fast bowler in this game. Nortje digs it in on a length around leg, Malla looks to swing across the line and misses completely and that hits top of off! South Africa's leading wicket-taker in this World Cup has got a big one right now!
 
 
 Balls faced: 3
 Bowler: Nortje
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Nortje to bowl the penultimate over"}]Nortje to bowl the penultimate over
+Nortje to bowl the penultimate over
 
-[{"type": "HTML", "html": "Length ball outside off, punched to cover"}]Length ball outside off, punched to cover
+Length ball outside off, punched to cover
 
 
 Balls faced: 4
 Bowler: Shamsi
 Over: 18
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
-[{"type": "HTML", "html": "The required rate is back above 6. Nepal are four wickets down. Can South Africa pull another game back from the brink in this World Cup? Or will Nepal make history?"}]The required rate is back above 6. Nepal are four wickets down. Can South Africa pull another game back from the brink in this World Cup? Or will Nepal make history?
+The required rate is back above 6. Nepal are four wickets down. Can South Africa pull another game back from the brink in this World Cup? Or will Nepal make history?
 
-[{"type": "HTML", "html": "Full on leg, clipped square through leg side and they get a single and 100 comes up for Nepal"}]Full on leg, clipped square through leg side and they get a single and 100 comes up for Nepal
+Full on leg, clipped square through leg side and they get a single and 100 comes up for Nepal
 
 
 Balls faced: 5
 Bowler: Nortje
 Over: 19
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<b>Bowled 'im!</b> First wicket for a fast bowler in this game. Nortje digs it in on a length around leg, Malla looks to swing across the line and misses completely and that hits top of off! South Africa's leading wicket-taker in this World Cup has got a big one right now!"}]<b>Bowled 'im!</b> First wicket for a fast bowler in this game. Nortje digs it in on a length around leg, Malla looks to swing across the line and misses completely and that hits top of off! South Africa's leading wicket-taker in this World Cup has got a big one right now!
+Kushal Malla is OUT! bowled
+ b Nortje
+Kushal Malla b Nortje 1 (3b 0x4 0x6 4m) SR: 33.33
+<b>Bowled 'im!</b> First wicket for a fast bowler in this game. Nortje digs it in on a length around leg, Malla looks to swing across the line and misses completely and that hits top of off! South Africa's leading wicket-taker in this World Cup has got a big one right now!
 
 
 Balls faced: 6
 Bowler: Nortje
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT
 Shot: PULL
 Run scored: 0
-[{"type": "HTML", "html": "Nortje to bowl the penultimate over"}]Nortje to bowl the penultimate over
+Nortje to bowl the penultimate over
 
-[{"type": "HTML", "html": "Length ball outside off, punched to cover"}]Length ball outside off, punched to cover
+Length ball outside off, punched to cover
 
 
 
@@ -366,818 +410,904 @@ Match: all_games_1411166_1415737.json
 Balls faced: 1
 Bowler: Mustafizur
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length in the channel outside off. Malla comes half forward and dabs it towards backward point"}]length in the channel outside off. Malla comes half forward and dabs it towards backward point
+length in the channel outside off. Malla comes half forward and dabs it towards backward point
 
 
 Balls faced: 2
 Bowler: Mustafizur
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Malla is the new batter in"}]Malla is the new batter in
+Malla is the new batter in
 
-[{"type": "HTML", "html": "back of a length outside off. Malla stays in his crease and defends"}]back of a length outside off. Malla stays in his crease and defends
+back of a length outside off. Malla stays in his crease and defends
 
 
 Balls faced: 3
 Bowler: Tanzim Hasan Sakib
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "20th dot ball Tanzim has bowled this innings (out of 22)"}]20th dot ball Tanzim has bowled this innings (out of 22)
+20th dot ball Tanzim has bowled this innings (out of 22)
 
-[{"type": "HTML", "html": "full and wide outside off. Malla goes searching for it and chunks it off the inside half of the bat into the on side"}]full and wide outside off. Malla goes searching for it and chunks it off the inside half of the bat into the on side
+full and wide outside off. Malla goes searching for it and chunks it off the inside half of the bat into the on side
 
 
 Balls faced: 4
 Bowler: Tanzim Hasan Sakib
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket now"}]Around the wicket now
+Around the wicket now
 
-[{"type": "HTML", "html": "fullish just outside off. Malla comes forward and plonks it towards backward point"}]fullish just outside off. Malla comes forward and plonks it towards backward point
+fullish just outside off. Malla comes forward and plonks it towards backward point
 
 
 Balls faced: 5
 Bowler: Mustafizur
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length in the channel outside off. Malla comes half forward and dabs it towards backward point"}]length in the channel outside off. Malla comes half forward and dabs it towards backward point
+length in the channel outside off. Malla comes half forward and dabs it towards backward point
 
 
 Balls faced: 6
 Bowler: Mustafizur
 Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Malla is the new batter in"}]Malla is the new batter in
+Malla is the new batter in
 
-[{"type": "HTML", "html": "back of a length outside off. Malla stays in his crease and defends"}]back of a length outside off. Malla stays in his crease and defends
+back of a length outside off. Malla stays in his crease and defends
 
 
 Balls faced: 7
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short outside off again. Malla goes back and cuts it towards deep cover point"}]short outside off again. Malla goes back and cuts it towards deep cover point
+short outside off again. Malla goes back and cuts it towards deep cover point
 
 
 Balls faced: 8
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket now"}]Around the wicket now
+Around the wicket now
 
-[{"type": "HTML", "html": "googly on a shortish length outside off. Malla looks for the cut but misses it completely"}]googly on a shortish length outside off. Malla looks for the cut but misses it completely
+googly on a shortish length outside off. Malla looks for the cut but misses it completely
 
 
 Balls faced: 9
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Leg slip remains"}]Leg slip remains
+Leg slip remains
 
-[{"type": "HTML", "html": "back of a length outside off. Malla gets right behind the line and meets it under his eyes"}]back of a length outside off. Malla gets right behind the line and meets it under his eyes
+back of a length outside off. Malla gets right behind the line and meets it under his eyes
 
 
 Balls faced: 10
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
-[{"type": "HTML", "html": "Here's Sampath: <a href=\"https://www.espncricinfo.com/ask/cricket-qna/most-dot-balls-by-a-bowler-in-an-innings&tournament=mt20wc\">Tanzim Hasan Sakib's 21 dot balls are the most by any bowler in a men's T20 World Cup game.</a>"}]Here's Sampath: <a href="https://www.espncricinfo.com/ask/cricket-qna/most-dot-balls-by-a-bowler-in-an-innings&tournament=mt20wc">Tanzim Hasan Sakib's 21 dot balls are the most by any bowler in a men's T20 World Cup game.</a>
+Here's Sampath: <a href="https://www.espncricinfo.com/ask/cricket-qna/most-dot-balls-by-a-bowler-in-an-innings&tournament=mt20wc">Tanzim Hasan Sakib's 21 dot balls are the most by any bowler in a men's T20 World Cup game.</a>
 
-[{"type": "HTML", "html": "shortish outside off. Malla waits for it and guides it behind point for a couple of runs"}]shortish outside off. Malla waits for it and guides it behind point for a couple of runs
+shortish outside off. Malla waits for it and guides it behind point for a couple of runs
 
 
 Balls faced: 11
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Airee walks in, with Nepal on the ropes. Rishad into the attack now. He could be a handful on this surface"}]Airee walks in, with Nepal on the ropes. Rishad into the attack now. He could be a handful on this surface
+Airee walks in, with Nepal on the ropes. Rishad into the attack now. He could be a handful on this surface
 
-[{"type": "HTML", "html": "<strong>oh dear, what has happened here?!</strong> Pitches on a shortish length outside off and spins back a mile to go down leg. The batter lets it go and Litton cannot get around to it either"}]<strong>oh dear, what has happened here?!</strong> Pitches on a shortish length outside off and spins back a mile to go down leg. The batter lets it go and Litton cannot get around to it either
+<strong>oh dear, what has happened here?!</strong> Pitches on a shortish length outside off and spins back a mile to go down leg. The batter lets it go and Litton cannot get around to it either
 
 Wide: 5
 Balls faced: 12
 Bowler: Tanzim Hasan Sakib
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "20th dot ball Tanzim has bowled this innings (out of 22)"}]20th dot ball Tanzim has bowled this innings (out of 22)
+20th dot ball Tanzim has bowled this innings (out of 22)
 
-[{"type": "HTML", "html": "full and wide outside off. Malla goes searching for it and chunks it off the inside half of the bat into the on side"}]full and wide outside off. Malla goes searching for it and chunks it off the inside half of the bat into the on side
+full and wide outside off. Malla goes searching for it and chunks it off the inside half of the bat into the on side
 
 
 Balls faced: 13
 Bowler: Tanzim Hasan Sakib
 Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket now"}]Around the wicket now
+Around the wicket now
 
-[{"type": "HTML", "html": "fullish just outside off. Malla comes forward and plonks it towards backward point"}]fullish just outside off. Malla comes forward and plonks it towards backward point
+fullish just outside off. Malla comes forward and plonks it towards backward point
 
 
 Balls faced: 14
 Bowler: Shakib
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off. Malla turns it towards short mid wicket"}]back of a length on off. Malla turns it towards short mid wicket
+back of a length on off. Malla turns it towards short mid wicket
 
 
 Balls faced: 15
 Bowler: Shakib
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla stabs it past the bowler and picks up another run"}]back of a length just outside off. Malla stabs it past the bowler and picks up another run
+back of a length just outside off. Malla stabs it past the bowler and picks up another run
 
 
 Balls faced: 16
 Bowler: Shakib
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on leg stump. Malla goes back and eases it into the square leg region"}]back of a length on leg stump. Malla goes back and eases it into the square leg region
+back of a length on leg stump. Malla goes back and eases it into the square leg region
 
 
 Balls faced: 17
 Bowler: Shakib
 Over: 9
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 2
-[{"type": "HTML", "html": "Spin from both ends now. Here's Shakib. Around the wicket to Malla"}]Spin from both ends now. Here's Shakib. Around the wicket to Malla
+Spin from both ends now. Here's Shakib. Around the wicket to Malla
 
-[{"type": "HTML", "html": "awful delivery to start off. Short and down leg. Malla helps it past short fine leg for a couple of runs"}]awful delivery to start off. Short and down leg. Malla helps it past short fine leg for a couple of runs
+awful delivery to start off. Short and down leg. Malla helps it past short fine leg for a couple of runs
 
 
 Balls faced: 18
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 1
 
 
-[{"type": "HTML", "html": "short outside off again. Malla goes back and cuts it towards deep cover point"}]short outside off again. Malla goes back and cuts it towards deep cover point
+short outside off again. Malla goes back and cuts it towards deep cover point
 
 
 Balls faced: 19
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Around the wicket now"}]Around the wicket now
+Around the wicket now
 
-[{"type": "HTML", "html": "googly on a shortish length outside off. Malla looks for the cut but misses it completely"}]googly on a shortish length outside off. Malla looks for the cut but misses it completely
+googly on a shortish length outside off. Malla looks for the cut but misses it completely
 
 
 Balls faced: 20
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Leg slip remains"}]Leg slip remains
+Leg slip remains
 
-[{"type": "HTML", "html": "back of a length outside off. Malla gets right behind the line and meets it under his eyes"}]back of a length outside off. Malla gets right behind the line and meets it under his eyes
+back of a length outside off. Malla gets right behind the line and meets it under his eyes
 
 
 Balls faced: 21
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
-[{"type": "HTML", "html": "Here's Sampath: <a href=\"https://www.espncricinfo.com/ask/cricket-qna/most-dot-balls-by-a-bowler-in-an-innings&tournament=mt20wc\">Tanzim Hasan Sakib's 21 dot balls are the most by any bowler in a men's T20 World Cup game.</a>"}]Here's Sampath: <a href="https://www.espncricinfo.com/ask/cricket-qna/most-dot-balls-by-a-bowler-in-an-innings&tournament=mt20wc">Tanzim Hasan Sakib's 21 dot balls are the most by any bowler in a men's T20 World Cup game.</a>
+Here's Sampath: <a href="https://www.espncricinfo.com/ask/cricket-qna/most-dot-balls-by-a-bowler-in-an-innings&tournament=mt20wc">Tanzim Hasan Sakib's 21 dot balls are the most by any bowler in a men's T20 World Cup game.</a>
 
-[{"type": "HTML", "html": "shortish outside off. Malla waits for it and guides it behind point for a couple of runs"}]shortish outside off. Malla waits for it and guides it behind point for a couple of runs
+shortish outside off. Malla waits for it and guides it behind point for a couple of runs
 
 
 Balls faced: 22
 Bowler: Rishad Hossain
 Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
-[{"type": "HTML", "html": "Airee walks in, with Nepal on the ropes. Rishad into the attack now. He could be a handful on this surface"}]Airee walks in, with Nepal on the ropes. Rishad into the attack now. He could be a handful on this surface
+Airee walks in, with Nepal on the ropes. Rishad into the attack now. He could be a handful on this surface
 
-[{"type": "HTML", "html": "<strong>oh dear, what has happened here?!</strong> Pitches on a shortish length outside off and spins back a mile to go down leg. The batter lets it go and Litton cannot get around to it either"}]<strong>oh dear, what has happened here?!</strong> Pitches on a shortish length outside off and spins back a mile to go down leg. The batter lets it go and Litton cannot get around to it either
+<strong>oh dear, what has happened here?!</strong> Pitches on a shortish length outside off and spins back a mile to go down leg. The batter lets it go and Litton cannot get around to it either
 
 Wide: 5
 Balls faced: 23
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length just outside off. Malla presses forward and tucks it away towards deep square leg"}]length just outside off. Malla presses forward and tucks it away towards deep square leg
-[{"type": "HTML", "html": "Bangladesh have come roaring back and are perhaps a smidgen ahead at this stage. Nepal will want this partnership to bat deep"}]Bangladesh have come roaring back and are perhaps a smidgen ahead at this stage. Nepal will want this partnership to bat deep
+length just outside off. Malla presses forward and tucks it away towards deep square leg
+Bangladesh have come roaring back and are perhaps a smidgen ahead at this stage. Nepal will want this partnership to bat deep
 
 Balls faced: 24
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off, bowled from very wide of the crease. Malla plays it back to the bowler"}]back of a length on off, bowled from very wide of the crease. Malla plays it back to the bowler
+back of a length on off, bowled from very wide of the crease. Malla plays it back to the bowler
 
 
 Balls faced: 25
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length just outside off. Malla presses half forward and pats it gently towards extra cover"}]length just outside off. Malla presses half forward and pats it gently towards extra cover
+length just outside off. Malla presses half forward and pats it gently towards extra cover
 
 
 Balls faced: 26
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla stays back and defends"}]back of a length just outside off. Malla stays back and defends
+back of a length just outside off. Malla stays back and defends
 
 
 Balls faced: 27
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track outside off. Malla watches it go through to the keeper. Called one bouncer for the over"}]banged into the track outside off. Malla watches it go through to the keeper. Called one bouncer for the over
+banged into the track outside off. Malla watches it go through to the keeper. Called one bouncer for the over
 
 
 Balls faced: 28
 Bowler: Shakib
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off. Malla turns it towards short mid wicket"}]back of a length on off. Malla turns it towards short mid wicket
+back of a length on off. Malla turns it towards short mid wicket
 
 
 Balls faced: 29
 Bowler: Shakib
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla stabs it past the bowler and picks up another run"}]back of a length just outside off. Malla stabs it past the bowler and picks up another run
+back of a length just outside off. Malla stabs it past the bowler and picks up another run
 
 
 Balls faced: 30
 Bowler: Shakib
 Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length on leg stump. Malla goes back and eases it into the square leg region"}]back of a length on leg stump. Malla goes back and eases it into the square leg region
+back of a length on leg stump. Malla goes back and eases it into the square leg region
 
 
 Balls faced: 31
 Bowler: Shakib
 Over: 9
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 2
-[{"type": "HTML", "html": "Spin from both ends now. Here's Shakib. Around the wicket to Malla"}]Spin from both ends now. Here's Shakib. Around the wicket to Malla
+Spin from both ends now. Here's Shakib. Around the wicket to Malla
 
-[{"type": "HTML", "html": "awful delivery to start off. Short and down leg. Malla helps it past short fine leg for a couple of runs"}]awful delivery to start off. Short and down leg. Malla helps it past short fine leg for a couple of runs
+awful delivery to start off. Short and down leg. Malla helps it past short fine leg for a couple of runs
 
 
 Balls faced: 32
 Bowler: Rishad Hossain
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Nepal need 65 off 60. The run-rate is not a problem but the wickets they have lost, are"}]Nepal need 65 off 60. The run-rate is not a problem but the wickets they have lost, are
+Nepal need 65 off 60. The run-rate is not a problem but the wickets they have lost, are
 
-[{"type": "HTML", "html": "short outside off. Spins back into Malla and he guides it towards deep point"}]short outside off. Spins back into Malla and he guides it towards deep point
+short outside off. Spins back into Malla and he guides it towards deep point
 
 
 Balls faced: 33
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
 
-[{"type": "HTML", "html": "length just outside off. Malla presses forward and tucks it away towards deep square leg"}]length just outside off. Malla presses forward and tucks it away towards deep square leg
-[{"type": "HTML", "html": "Bangladesh have come roaring back and are perhaps a smidgen ahead at this stage. Nepal will want this partnership to bat deep"}]Bangladesh have come roaring back and are perhaps a smidgen ahead at this stage. Nepal will want this partnership to bat deep
+length just outside off. Malla presses forward and tucks it away towards deep square leg
+Bangladesh have come roaring back and are perhaps a smidgen ahead at this stage. Nepal will want this partnership to bat deep
 
 Balls faced: 34
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length on off, bowled from very wide of the crease. Malla plays it back to the bowler"}]back of a length on off, bowled from very wide of the crease. Malla plays it back to the bowler
+back of a length on off, bowled from very wide of the crease. Malla plays it back to the bowler
 
 
 Balls faced: 35
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length just outside off. Malla presses half forward and pats it gently towards extra cover"}]length just outside off. Malla presses half forward and pats it gently towards extra cover
+length just outside off. Malla presses half forward and pats it gently towards extra cover
 
 
 Balls faced: 36
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla stays back and defends"}]back of a length just outside off. Malla stays back and defends
+back of a length just outside off. Malla stays back and defends
 
 
 Balls faced: 37
 Bowler: Mustafizur
 Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: LEFT_ALONE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "banged into the track outside off. Malla watches it go through to the keeper. Called one bouncer for the over"}]banged into the track outside off. Malla watches it go through to the keeper. Called one bouncer for the over
+banged into the track outside off. Malla watches it go through to the keeper. Called one bouncer for the over
 
 
 Balls faced: 38
 Bowler: Mahmudullah
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Malla dabs it towards deep point"}]back of a length outside off. Malla dabs it towards deep point
+back of a length outside off. Malla dabs it towards deep point
 
 
 Balls faced: 39
 Bowler: Mahmudullah
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length just outside off. Malla stays back and plays it towards short mid wicket"}]length just outside off. Malla stays back and plays it towards short mid wicket
+length just outside off. Malla stays back and plays it towards short mid wicket
 
 
 Balls faced: 40
 Bowler: Mahmudullah
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Mahmudullah to bowl the 12th. Around the wicket to Malla. Slip in place"}]Mahmudullah to bowl the 12th. Around the wicket to Malla. Slip in place
+Mahmudullah to bowl the 12th. Around the wicket to Malla. Slip in place
 
-[{"type": "HTML", "html": "floated up full on off. Malla comes forward and flicks it to long on"}]floated up full on off. Malla comes forward and flicks it to long on
+floated up full on off. Malla comes forward and flicks it to long on
 
 
 Balls faced: 41
 Bowler: Rishad Hossain
 Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Nepal need 65 off 60. The run-rate is not a problem but the wickets they have lost, are"}]Nepal need 65 off 60. The run-rate is not a problem but the wickets they have lost, are
+Nepal need 65 off 60. The run-rate is not a problem but the wickets they have lost, are
 
-[{"type": "HTML", "html": "short outside off. Spins back into Malla and he guides it towards deep point"}]short outside off. Spins back into Malla and he guides it towards deep point
+short outside off. Spins back into Malla and he guides it towards deep point
 
 
 Balls faced: 42
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>appeal, not given!</strong> Back of a length on middle and leg. Grips and spins into Malla. He plays all around it and gets rapped on the pads but that might have been heading down leg with the turn. Replays indicate the ball would have clipped the top of leg stump, and it would have returned Umpire's Call had Bangladesh gone upstairs"}]<strong>appeal, not given!</strong> Back of a length on middle and leg. Grips and spins into Malla. He plays all around it and gets rapped on the pads but that might have been heading down leg with the turn. Replays indicate the ball would have clipped the top of leg stump, and it would have returned Umpire's Call had Bangladesh gone upstairs
+<strong>appeal, not given!</strong> Back of a length on middle and leg. Grips and spins into Malla. He plays all around it and gets rapped on the pads but that might have been heading down leg with the turn. Replays indicate the ball would have clipped the top of leg stump, and it would have returned Umpire's Call had Bangladesh gone upstairs
 
 
 Balls faced: 43
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>goes through everything!</strong> Tossed up wonderfully on a full length outside off. Malla looks for the drive but watches in disbelief as the ball rips past the inside edge. Litton does not read it either and Nepal get two extras"}]<strong>goes through everything!</strong> Tossed up wonderfully on a full length outside off. Malla looks for the drive but watches in disbelief as the ball rips past the inside edge. Litton does not read it either and Nepal get two extras
+<strong>goes through everything!</strong> Tossed up wonderfully on a full length outside off. Malla looks for the drive but watches in disbelief as the ball rips past the inside edge. Litton does not read it either and Nepal get two extras
 
 Byes: 2
 Balls faced: 44
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla meets it right under his eyes"}]back of a length just outside off. Malla meets it right under his eyes
+back of a length just outside off. Malla meets it right under his eyes
 
 
 Balls faced: 45
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla goes right back and defends"}]back of a length just outside off. Malla goes right back and defends
+back of a length just outside off. Malla goes right back and defends
 
 
 Balls faced: 46
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full on middle and off. Malla gets forward and turns it behind square on the leg side. The throw is wild and Nepal get a buzzer"}]full on middle and off. Malla gets forward and turns it behind square on the leg side. The throw is wild and Nepal get a buzzer
+full on middle and off. Malla gets forward and turns it behind square on the leg side. The throw is wild and Nepal get a buzzer
 
 
 Balls faced: 47
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full just outside off. Malla lunges forward and defends"}]full just outside off. Malla lunges forward and defends
+full just outside off. Malla lunges forward and defends
 
 
 Balls faced: 48
 Bowler: Mahmudullah
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: SQUARE_DRIVE
 Run scored: 1
 
 
-[{"type": "HTML", "html": "back of a length outside off. Malla dabs it towards deep point"}]back of a length outside off. Malla dabs it towards deep point
+back of a length outside off. Malla dabs it towards deep point
 
 
 Balls faced: 49
 Bowler: Mahmudullah
 Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
 
-[{"type": "HTML", "html": "length just outside off. Malla stays back and plays it towards short mid wicket"}]length just outside off. Malla stays back and plays it towards short mid wicket
+length just outside off. Malla stays back and plays it towards short mid wicket
 
 
 Balls faced: 50
 Bowler: Mahmudullah
 Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
-[{"type": "HTML", "html": "Mahmudullah to bowl the 12th. Around the wicket to Malla. Slip in place"}]Mahmudullah to bowl the 12th. Around the wicket to Malla. Slip in place
+Mahmudullah to bowl the 12th. Around the wicket to Malla. Slip in place
 
-[{"type": "HTML", "html": "floated up full on off. Malla comes forward and flicks it to long on"}]floated up full on off. Malla comes forward and flicks it to long on
+floated up full on off. Malla comes forward and flicks it to long on
 
 
 Balls faced: 51
 Bowler: Taskin
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length on middle and off. Malla gets behind the line and blocks"}]hard length on middle and off. Malla gets behind the line and blocks
+hard length on middle and off. Malla gets behind the line and blocks
 
 
 Balls faced: 52
 Bowler: Taskin
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shortish just outside off. Malla hops up onto his toes and glides it down to third man"}]shortish just outside off. Malla hops up onto his toes and glides it down to third man
+shortish just outside off. Malla hops up onto his toes and glides it down to third man
 
 
 Balls faced: 53
 Bowler: Taskin
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla waits in his crease and pokes it into the off side"}]back of a length just outside off. Malla waits in his crease and pokes it into the off side
+back of a length just outside off. Malla waits in his crease and pokes it into the off side
 
 
 Balls faced: 54
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>appeal, not given!</strong> Back of a length on middle and leg. Grips and spins into Malla. He plays all around it and gets rapped on the pads but that might have been heading down leg with the turn. Replays indicate the ball would have clipped the top of leg stump, and it would have returned Umpire's Call had Bangladesh gone upstairs"}]<strong>appeal, not given!</strong> Back of a length on middle and leg. Grips and spins into Malla. He plays all around it and gets rapped on the pads but that might have been heading down leg with the turn. Replays indicate the ball would have clipped the top of leg stump, and it would have returned Umpire's Call had Bangladesh gone upstairs
+<strong>appeal, not given!</strong> Back of a length on middle and leg. Grips and spins into Malla. He plays all around it and gets rapped on the pads but that might have been heading down leg with the turn. Replays indicate the ball would have clipped the top of leg stump, and it would have returned Umpire's Call had Bangladesh gone upstairs
 
 
 Balls faced: 55
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: COVER_DRIVE
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>goes through everything!</strong> Tossed up wonderfully on a full length outside off. Malla looks for the drive but watches in disbelief as the ball rips past the inside edge. Litton does not read it either and Nepal get two extras"}]<strong>goes through everything!</strong> Tossed up wonderfully on a full length outside off. Malla looks for the drive but watches in disbelief as the ball rips past the inside edge. Litton does not read it either and Nepal get two extras
+<strong>goes through everything!</strong> Tossed up wonderfully on a full length outside off. Malla looks for the drive but watches in disbelief as the ball rips past the inside edge. Litton does not read it either and Nepal get two extras
 
 Byes: 2
 Balls faced: 56
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla meets it right under his eyes"}]back of a length just outside off. Malla meets it right under his eyes
+back of a length just outside off. Malla meets it right under his eyes
 
 
 Balls faced: 57
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla goes right back and defends"}]back of a length just outside off. Malla goes right back and defends
+back of a length just outside off. Malla goes right back and defends
 
 
 Balls faced: 58
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
 
-[{"type": "HTML", "html": "full on middle and off. Malla gets forward and turns it behind square on the leg side. The throw is wild and Nepal get a buzzer"}]full on middle and off. Malla gets forward and turns it behind square on the leg side. The throw is wild and Nepal get a buzzer
+full on middle and off. Malla gets forward and turns it behind square on the leg side. The throw is wild and Nepal get a buzzer
 
 
 Balls faced: 59
 Bowler: Rishad Hossain
 Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "full just outside off. Malla lunges forward and defends"}]full just outside off. Malla lunges forward and defends
+full just outside off. Malla lunges forward and defends
 
 
 Balls faced: 60
 Bowler: Shakib
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "shortish on leg stump. Malla has a swing at it but the ball only trickles off the pads towards short fine leg"}]shortish on leg stump. Malla has a swing at it but the ball only trickles off the pads towards short fine leg
+shortish on leg stump. Malla has a swing at it but the ball only trickles off the pads towards short fine leg
 
 Legbyes: 1
 Balls faced: 61
 Bowler: Shakib
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "43 off 32. Nepal effectively need a couple of sixes or three fours to get it back to around a run-a-ball"}]43 off 32. Nepal effectively need a couple of sixes or three fours to get it back to around a run-a-ball
+43 off 32. Nepal effectively need a couple of sixes or three fours to get it back to around a run-a-ball
 
-[{"type": "HTML", "html": "length just outside off. Malla hangs back and defends"}]length just outside off. Malla hangs back and defends
+length just outside off. Malla hangs back and defends
 
 
 Balls faced: 62
 Bowler: Taskin
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length on middle and off. Malla gets behind the line and blocks"}]hard length on middle and off. Malla gets behind the line and blocks
+hard length on middle and off. Malla gets behind the line and blocks
 
 
 Balls faced: 63
 Bowler: Taskin
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
 
-[{"type": "HTML", "html": "shortish just outside off. Malla hops up onto his toes and glides it down to third man"}]shortish just outside off. Malla hops up onto his toes and glides it down to third man
+shortish just outside off. Malla hops up onto his toes and glides it down to third man
 
 
 Balls faced: 64
 Bowler: Taskin
 Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "back of a length just outside off. Malla waits in his crease and pokes it into the off side"}]back of a length just outside off. Malla waits in his crease and pokes it into the off side
+back of a length just outside off. Malla waits in his crease and pokes it into the off side
 
 
 Balls faced: 65
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>well well!</strong> Tossed up full outside off and Malla's eyes light up. He tries to smack it into oblivion and perhaps tries to hit it too hard in the end. Only a fresh-air shot"}]<strong>well well!</strong> Tossed up full outside off and Malla's eyes light up. He tries to smack it into oblivion and perhaps tries to hit it too hard in the end. Only a fresh-air shot
+<strong>well well!</strong> Tossed up full outside off and Malla's eyes light up. He tries to smack it into oblivion and perhaps tries to hit it too hard in the end. Only a fresh-air shot
 
 
 Balls faced: 66
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>four more!</strong> Drifts onto the pads and Mahmudullah pays the price. Malla just uses the pace and glances it past Mustafizur at short fine leg!"}]<strong>four more!</strong> Drifts onto the pads and Mahmudullah pays the price. Malla just uses the pace and glances it past Mustafizur at short fine leg!
+<strong>four more!</strong> Drifts onto the pads and Mahmudullah pays the price. Malla just uses the pace and glances it past Mustafizur at short fine leg!
 
 
 Balls faced: 67
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "slow and short outside off. Malla waits for it and slaps it past extra cover. Jaker misfields on the fence but that does not cost Bangladesh"}]slow and short outside off. Malla waits for it and slaps it past extra cover. Jaker misfields on the fence but that does not cost Bangladesh
+slow and short outside off. Malla waits for it and slaps it past extra cover. Jaker misfields on the fence but that does not cost Bangladesh
 
 
 Balls faced: 68
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Malla goes big!</strong> Given a bit of air on a length outside off, and Malla climbs into it. Gets into position for the slog sweep and smears it over wide long on!"}]<strong>Malla goes big!</strong> Given a bit of air on a length outside off, and Malla climbs into it. Gets into position for the slog sweep and smears it over wide long on!
+<strong>Malla goes big!</strong> Given a bit of air on a length outside off, and Malla climbs into it. Gets into position for the slog sweep and smears it over wide long on!
 
 
 Balls faced: 69
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Nepal might be feeling the pinch now. Something could be about to give soon"}]Nepal might be feeling the pinch now. Something could be about to give soon
+Nepal might be feeling the pinch now. Something could be about to give soon
 
-[{"type": "HTML", "html": "<strong>almost a run-out!</strong> Shortish outside off. Malla cuts it towards backward point. Airee wants the single but is sent back by his ball-watching partner. Airee has to bring out the dive and might have still been in trouble had Mahmudullah gathered and taken off the bails"}]<strong>almost a run-out!</strong> Shortish outside off. Malla cuts it towards backward point. Airee wants the single but is sent back by his ball-watching partner. Airee has to bring out the dive and might have still been in trouble had Mahmudullah gathered and taken off the bails
+<strong>almost a run-out!</strong> Shortish outside off. Malla cuts it towards backward point. Airee wants the single but is sent back by his ball-watching partner. Airee has to bring out the dive and might have still been in trouble had Mahmudullah gathered and taken off the bails
 
 
 Balls faced: 70
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Nepal need 42 off 30. They needed a lot fewer against SA and had more wickets in hand too. Can they turn things around tonight? Mahmudullah to bowl the 16th. Around the wicket to Malla"}]Nepal need 42 off 30. They needed a lot fewer against SA and had more wickets in hand too. Can they turn things around tonight? Mahmudullah to bowl the 16th. Around the wicket to Malla
+Nepal need 42 off 30. They needed a lot fewer against SA and had more wickets in hand too. Can they turn things around tonight? Mahmudullah to bowl the 16th. Around the wicket to Malla
 
-[{"type": "HTML", "html": "back of a length on off. Malla goes back and stabs it towards short mid wicket, who puts in a dive to his right and stops the single"}]back of a length on off. Malla goes back and stabs it towards short mid wicket, who puts in a dive to his right and stops the single
+back of a length on off. Malla goes back and stabs it towards short mid wicket, who puts in a dive to his right and stops the single
 
 
 Balls faced: 71
 Bowler: Shakib
 Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: SWEEP_SHOT
 Run scored: 0
 
 
-[{"type": "HTML", "html": "shortish on leg stump. Malla has a swing at it but the ball only trickles off the pads towards short fine leg"}]shortish on leg stump. Malla has a swing at it but the ball only trickles off the pads towards short fine leg
+shortish on leg stump. Malla has a swing at it but the ball only trickles off the pads towards short fine leg
 
 Legbyes: 1
 Balls faced: 72
 Bowler: Shakib
 Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "43 off 32. Nepal effectively need a couple of sixes or three fours to get it back to around a run-a-ball"}]43 off 32. Nepal effectively need a couple of sixes or three fours to get it back to around a run-a-ball
+43 off 32. Nepal effectively need a couple of sixes or three fours to get it back to around a run-a-ball
 
-[{"type": "HTML", "html": "length just outside off. Malla hangs back and defends"}]length just outside off. Malla hangs back and defends
+length just outside off. Malla hangs back and defends
 
 
 Balls faced: 73
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>goes straight up, and Shanto holds on!</strong> Excellently-disguised cutter on a back of a length just outside off. Malla looks to go downtown but the lack of pace does for him. Shanks it and Shanto, running back from mid off, gobbles up a smart chance in front of his face. This is a massive moment in the game!"}]<strong>goes straight up, and Shanto holds on!</strong> Excellently-disguised cutter on a back of a length just outside off. Malla looks to go downtown but the lack of pace does for him. Shanks it and Shanto, running back from mid off, gobbles up a smart chance in front of his face. This is a massive moment in the game!
+Kushal Malla is OUT! caught
+c Najmul Hossain Shanto b Mustafizur Rahman
+Kushal Malla c Najmul Hossain Shanto b Mustafizur Rahman 27 (40b 1x4 1x6 48m) SR: 67.5
+<strong>goes straight up, and Shanto holds on!</strong> Excellently-disguised cutter on a back of a length just outside off. Malla looks to go downtown but the lack of pace does for him. Shanks it and Shanto, running back from mid off, gobbles up a smart chance in front of his face. This is a massive moment in the game!
 
 
 Balls faced: 74
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length just outside off. Tucks up Malla and he can only prod it towards extra cover"}]hard length just outside off. Tucks up Malla and he can only prod it towards extra cover
+hard length just outside off. Tucks up Malla and he can only prod it towards extra cover
 
 
 Balls faced: 75
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 0
 
 
-[{"type": "HTML", "html": "<strong>well well!</strong> Tossed up full outside off and Malla's eyes light up. He tries to smack it into oblivion and perhaps tries to hit it too hard in the end. Only a fresh-air shot"}]<strong>well well!</strong> Tossed up full outside off and Malla's eyes light up. He tries to smack it into oblivion and perhaps tries to hit it too hard in the end. Only a fresh-air shot
+<strong>well well!</strong> Tossed up full outside off and Malla's eyes light up. He tries to smack it into oblivion and perhaps tries to hit it too hard in the end. Only a fresh-air shot
 
 
 Balls faced: 76
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: LEG_GLANCE
 Run scored: 4
 
 
-[{"type": "HTML", "html": "<strong>four more!</strong> Drifts onto the pads and Mahmudullah pays the price. Malla just uses the pace and glances it past Mustafizur at short fine leg!"}]<strong>four more!</strong> Drifts onto the pads and Mahmudullah pays the price. Malla just uses the pace and glances it past Mustafizur at short fine leg!
+<strong>four more!</strong> Drifts onto the pads and Mahmudullah pays the price. Malla just uses the pace and glances it past Mustafizur at short fine leg!
 
 
 Balls faced: 77
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 2
 
 
-[{"type": "HTML", "html": "slow and short outside off. Malla waits for it and slaps it past extra cover. Jaker misfields on the fence but that does not cost Bangladesh"}]slow and short outside off. Malla waits for it and slaps it past extra cover. Jaker misfields on the fence but that does not cost Bangladesh
+slow and short outside off. Malla waits for it and slaps it past extra cover. Jaker misfields on the fence but that does not cost Bangladesh
 
 
 Balls faced: 78
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: SLOG_SWEEP
 Run scored: 6
 
 
-[{"type": "HTML", "html": "<strong>Malla goes big!</strong> Given a bit of air on a length outside off, and Malla climbs into it. Gets into position for the slog sweep and smears it over wide long on!"}]<strong>Malla goes big!</strong> Given a bit of air on a length outside off, and Malla climbs into it. Gets into position for the slog sweep and smears it over wide long on!
+<strong>Malla goes big!</strong> Given a bit of air on a length outside off, and Malla climbs into it. Gets into position for the slog sweep and smears it over wide long on!
 
 
 Balls faced: 79
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
-[{"type": "HTML", "html": "Nepal might be feeling the pinch now. Something could be about to give soon"}]Nepal might be feeling the pinch now. Something could be about to give soon
+Nepal might be feeling the pinch now. Something could be about to give soon
 
-[{"type": "HTML", "html": "<strong>almost a run-out!</strong> Shortish outside off. Malla cuts it towards backward point. Airee wants the single but is sent back by his ball-watching partner. Airee has to bring out the dive and might have still been in trouble had Mahmudullah gathered and taken off the bails"}]<strong>almost a run-out!</strong> Shortish outside off. Malla cuts it towards backward point. Airee wants the single but is sent back by his ball-watching partner. Airee has to bring out the dive and might have still been in trouble had Mahmudullah gathered and taken off the bails
+<strong>almost a run-out!</strong> Shortish outside off. Malla cuts it towards backward point. Airee wants the single but is sent back by his ball-watching partner. Airee has to bring out the dive and might have still been in trouble had Mahmudullah gathered and taken off the bails
 
 
 Balls faced: 80
 Bowler: Mahmudullah
 Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
-[{"type": "HTML", "html": "Nepal need 42 off 30. They needed a lot fewer against SA and had more wickets in hand too. Can they turn things around tonight? Mahmudullah to bowl the 16th. Around the wicket to Malla"}]Nepal need 42 off 30. They needed a lot fewer against SA and had more wickets in hand too. Can they turn things around tonight? Mahmudullah to bowl the 16th. Around the wicket to Malla
+Nepal need 42 off 30. They needed a lot fewer against SA and had more wickets in hand too. Can they turn things around tonight? Mahmudullah to bowl the 16th. Around the wicket to Malla
 
-[{"type": "HTML", "html": "back of a length on off. Malla goes back and stabs it towards short mid wicket, who puts in a dive to his right and stops the single"}]back of a length on off. Malla goes back and stabs it towards short mid wicket, who puts in a dive to his right and stops the single
+back of a length on off. Malla goes back and stabs it towards short mid wicket, who puts in a dive to his right and stops the single
 
 
 Balls faced: 81
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
-
-[{"type": "HTML", "html": "<strong>goes straight up, and Shanto holds on!</strong> Excellently-disguised cutter on a back of a length just outside off. Malla looks to go downtown but the lack of pace does for him. Shanks it and Shanto, running back from mid off, gobbles up a smart chance in front of his face. This is a massive moment in the game!"}]<strong>goes straight up, and Shanto holds on!</strong> Excellently-disguised cutter on a back of a length just outside off. Malla looks to go downtown but the lack of pace does for him. Shanks it and Shanto, running back from mid off, gobbles up a smart chance in front of his face. This is a massive moment in the game!
+Kushal Malla is OUT! caught
+c Najmul Hossain Shanto b Mustafizur Rahman
+Kushal Malla c Najmul Hossain Shanto b Mustafizur Rahman 27 (40b 1x4 1x6 48m) SR: 67.5
+<strong>goes straight up, and Shanto holds on!</strong> Excellently-disguised cutter on a back of a length just outside off. Malla looks to go downtown but the lack of pace does for him. Shanks it and Shanto, running back from mid off, gobbles up a smart chance in front of his face. This is a massive moment in the game!
 
 
 Balls faced: 82
 Bowler: Mustafizur
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
 
-[{"type": "HTML", "html": "hard length just outside off. Tucks up Malla and he can only prod it towards extra cover"}]hard length just outside off. Tucks up Malla and he can only prod it towards extra cover
+hard length just outside off. Tucks up Malla and he can only prod it towards extra cover

@@ -2,21 +2,23 @@ Match: all_games_1411166_1415738.json
 Balls faced: 1
 Bowler: Thushara
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish outside off, just pushed into the offside, wide enough of the point fielder"}]fullish outside off, just pushed into the offside, wide enough of the point fielder
+fullish outside off, just pushed into the offside, wide enough of the point fielder
 
 
 Balls faced: 2
 Bowler: Thushara
 Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: PUSH
 Run scored: 1
 
 
-[{"type": "HTML", "html": "fullish outside off, just pushed into the offside, wide enough of the point fielder"}]fullish outside off, just pushed into the offside, wide enough of the point fielder
+fullish outside off, just pushed into the offside, wide enough of the point fielder
 
 
 
@@ -24,15 +26,23 @@ Match: all_games_1428145_1428154.json
 Balls faced: 1
 Bowler: Watt
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
 
-
+Kingma is OUT! lbw
+lbw b Watt
+Vivian Kingma lbw b Watt 0 (1b 0x4 0x6 1m) SR: 0
 
 
 
 Balls faced: 2
 Bowler: Watt
 Over: 15
+ 
 Shot: No Shot
 Run scored: 0
+
+Kingma is OUT! lbw
+lbw b Watt
+Vivian Kingma lbw b Watt 0 (1b 0x4 0x6 1m) SR: 0
