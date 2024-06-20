@@ -2,6 +2,7 @@ Match: all_games_1420525_1421070.json
 Balls faced: 1
 Bowler: Kaleem Sana
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -12,6 +13,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Kaleem Sana
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -22,6 +24,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Kaleem Sana
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -32,16 +35,20 @@ Run scored: 0
 Balls faced: 4
 Bowler: Ammar Khalid
 Over: 50
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: FLICK
 Run scored: 1
 
-
+Currie is OUT! run out
+run out (Kirton/†Wijeyeratne)
+Scott Currie run out (Kirton/†Wijeyeratne) 5 (8b 0x4 0x6 8m) SR: 62.5
 
 
 
 Balls faced: 5
 Bowler: Ammar Khalid
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: SLOG_SHOT
 Run scored: 2
 
@@ -52,6 +59,7 @@ Run scored: 2
 Balls faced: 6
 Bowler: Ammar Khalid
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -62,6 +70,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: Ammar Khalid
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -72,6 +81,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Ammar Khalid
 Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 0
 
@@ -82,6 +92,7 @@ Wide: 1
 Balls faced: 9
 Bowler: Ammar Khalid
 Over: 50
+Pitch Line: DOWN_LEG Length: FULL
 Shot: FLICK
 Run scored: 0
 
@@ -92,6 +103,7 @@ Legbyes: 2
 Balls faced: 10
 Bowler: Kaleem Sana
 Over: 49
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -102,6 +114,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Kaleem Sana
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -112,6 +125,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Kaleem Sana
 Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -124,6 +138,7 @@ Match: all_games_1420525_1421073.json
 Balls faced: 1
 Bowler: Ammar Khalid
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -134,6 +149,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Ammar Khalid
 Over: 35
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -144,6 +160,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Ammar Khalid
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
@@ -154,6 +171,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Ammar Khalid
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
@@ -164,6 +182,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Ammar Khalid
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -174,6 +193,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Ammar Khalid
 Over: 35
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -184,6 +204,7 @@ Run scored: 0
 Balls faced: 7
 Bowler: Ammar Khalid
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 0
 
@@ -194,6 +215,7 @@ Run scored: 0
 Balls faced: 8
 Bowler: Ammar Khalid
 Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: DEFENDED
 Run scored: 0
 
@@ -204,6 +226,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Saad
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -214,6 +237,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Heyliger
 Over: 42
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PUSH
 Run scored: 0
 
@@ -224,6 +248,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Saad
 Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -234,6 +259,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Saad
 Over: 43
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
@@ -244,6 +270,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Heyliger
 Over: 42
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PUSH
 Run scored: 0
 
@@ -254,6 +281,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Heyliger
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -264,6 +292,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Heyliger
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -274,6 +303,7 @@ Run scored: 0
 Balls faced: 16
 Bowler: Heyliger
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -284,6 +314,7 @@ Run scored: 0
 Balls faced: 17
 Bowler: Saad
 Over: 43
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: STEERED
 Run scored: 1
 
@@ -294,6 +325,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Saad
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -304,6 +336,7 @@ Run scored: 1
 Balls faced: 19
 Bowler: Saad
 Over: 45
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
 
@@ -314,6 +347,7 @@ Run scored: 1
 Balls faced: 20
 Bowler: Heyliger
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -324,6 +358,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Heyliger
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -334,6 +369,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Heyliger
 Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -344,6 +380,7 @@ Run scored: 0
 Balls faced: 23
 Bowler: Heyliger
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -354,6 +391,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: Heyliger
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -364,6 +402,7 @@ Run scored: 1
 Balls faced: 25
 Bowler: Saad
 Over: 45
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -374,6 +413,7 @@ Run scored: 1
 Balls faced: 26
 Bowler: Saad
 Over: 45
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: PUSH
 Run scored: 1
 
@@ -384,6 +424,7 @@ Run scored: 1
 Balls faced: 27
 Bowler: Ammar Khalid
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: PUSH
 Run scored: 0
 
@@ -394,6 +435,7 @@ Run scored: 0
 Balls faced: 28
 Bowler: Ammar Khalid
 Over: 47
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -404,6 +446,7 @@ Wide: 1
 Balls faced: 29
 Bowler: Ammar Khalid
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -414,6 +457,7 @@ Run scored: 1
 Balls faced: 30
 Bowler: Ammar Khalid
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
@@ -424,6 +468,7 @@ Run scored: 1
 Balls faced: 31
 Bowler: Heyliger
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -434,6 +479,7 @@ Run scored: 1
 Balls faced: 32
 Bowler: Heyliger
 Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -444,6 +490,7 @@ Run scored: 1
 Balls faced: 33
 Bowler: Ammar Khalid
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
 Shot: PUSH
 Run scored: 0
 
@@ -454,6 +501,7 @@ Run scored: 0
 Balls faced: 34
 Bowler: Ammar Khalid
 Over: 47
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
 Shot: LEFT_ALONE
 Run scored: 0
 
@@ -464,6 +512,7 @@ Wide: 1
 Balls faced: 35
 Bowler: Ammar Khalid
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -474,6 +523,7 @@ Run scored: 1
 Balls faced: 36
 Bowler: Ammar Khalid
 Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
 Shot: PULL
 Run scored: 1
 
@@ -486,6 +536,7 @@ Match: all_games_1421067_1421080.json
 Balls faced: 1
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -496,6 +547,7 @@ Run scored: 0
 Balls faced: 2
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -506,6 +558,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -516,6 +569,7 @@ Run scored: 0
 Balls faced: 4
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -526,6 +580,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -536,6 +591,7 @@ Run scored: 0
 Balls faced: 6
 Bowler: Akif Raja
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -546,6 +602,7 @@ Run scored: 2
 Balls faced: 7
 Bowler: Akif Raja
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -556,6 +613,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: Akif Raja
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -566,6 +624,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -576,6 +635,7 @@ Run scored: 0
 Balls faced: 10
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -586,6 +646,7 @@ Run scored: 0
 Balls faced: 11
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -596,6 +657,7 @@ Run scored: 0
 Balls faced: 12
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -606,6 +668,7 @@ Run scored: 0
 Balls faced: 13
 Bowler: Junaid Siddique
 Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -616,6 +679,7 @@ Run scored: 0
 Balls faced: 14
 Bowler: Aryan Lakra
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -626,6 +690,7 @@ Run scored: 1
 Balls faced: 15
 Bowler: Aryan Lakra
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
@@ -636,6 +701,7 @@ Run scored: 1
 Balls faced: 16
 Bowler: Akif Raja
 Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 2
 
@@ -646,6 +712,7 @@ Run scored: 2
 Balls faced: 17
 Bowler: Akif Raja
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -656,6 +723,7 @@ Run scored: 1
 Balls faced: 18
 Bowler: Akif Raja
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 0
 
@@ -666,6 +734,7 @@ Run scored: 0
 Balls faced: 19
 Bowler: Junaid Siddique
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: RAMP
 Run scored: 0
 
@@ -676,6 +745,7 @@ Run scored: 0
 Balls faced: 20
 Bowler: Junaid Siddique
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -686,6 +756,7 @@ Run scored: 1
 Balls faced: 21
 Bowler: Junaid Siddique
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -696,6 +767,7 @@ Run scored: 0
 Balls faced: 22
 Bowler: Junaid Siddique
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -706,6 +778,7 @@ Run scored: 1
 Balls faced: 23
 Bowler: Aryan Lakra
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -716,6 +789,7 @@ Run scored: 1
 Balls faced: 24
 Bowler: Aryan Lakra
 Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PULL
 Run scored: 1
 
@@ -726,6 +800,7 @@ Run scored: 1
 Balls faced: 25
 Bowler: Omid Shafi Rahman
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -736,6 +811,7 @@ Run scored: 1
 Balls faced: 26
 Bowler: Junaid Siddique
 Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
 Shot: RAMP
 Run scored: 0
 
@@ -746,6 +822,7 @@ Run scored: 0
 Balls faced: 27
 Bowler: Junaid Siddique
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -756,6 +833,7 @@ Run scored: 1
 Balls faced: 28
 Bowler: Junaid Siddique
 Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 0
 
@@ -766,6 +844,7 @@ Run scored: 0
 Balls faced: 29
 Bowler: Junaid Siddique
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -776,6 +855,7 @@ Run scored: 1
 Balls faced: 30
 Bowler: Omid Shafi Rahman
 Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -788,6 +868,7 @@ Match: all_games_1428145_1428151.json
 Balls faced: 1
 Bowler: van Beek
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -798,6 +879,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: van Beek
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -808,6 +890,7 @@ Run scored: 0
 Balls faced: 3
 Bowler: van Beek
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -818,6 +901,7 @@ Run scored: 2
 Balls faced: 4
 Bowler: van Beek
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -828,6 +912,7 @@ Run scored: 0
 Balls faced: 5
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -838,6 +923,7 @@ Run scored: 1
 Balls faced: 6
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -848,6 +934,7 @@ Run scored: 1
 Balls faced: 7
 Bowler: van Beek
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: ON_DRIVE
 Run scored: 1
 
@@ -858,6 +945,7 @@ Run scored: 1
 Balls faced: 8
 Bowler: van Beek
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: CUT_SHOT
 Run scored: 0
 
@@ -868,6 +956,7 @@ Run scored: 0
 Balls faced: 9
 Bowler: van Beek
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
 Shot: ON_DRIVE
 Run scored: 2
 
@@ -878,6 +967,7 @@ Run scored: 2
 Balls faced: 10
 Bowler: van Beek
 Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: DEFENDED
 Run scored: 0
 
@@ -888,16 +978,20 @@ Run scored: 0
 Balls faced: 11
 Bowler: Kingma
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
+Currie is OUT! lbw
+lbw b Kingma
+Brad Currie lbw b Kingma 5 (7b 0x4 0x6 6m) SR: 71.42
 
 
 
 Balls faced: 12
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 1
 
@@ -908,6 +1002,7 @@ Run scored: 1
 Balls faced: 13
 Bowler: Dutt
 Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: PUSH
 Run scored: 1
 
@@ -918,10 +1013,13 @@ Run scored: 1
 Balls faced: 14
 Bowler: Kingma
 Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
 Shot: FLICK
 Run scored: 0
 
-
+Currie is OUT! lbw
+lbw b Kingma
+Brad Currie lbw b Kingma 5 (7b 0x4 0x6 6m) SR: 71.42
 
 
 
@@ -930,6 +1028,7 @@ Match: all_games_1434088_1434104.json
 Balls faced: 1
 Bowler: Gulbadin
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -940,6 +1039,7 @@ Run scored: 1
 Balls faced: 2
 Bowler: Gulbadin
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -950,6 +1050,7 @@ Run scored: 1
 Balls faced: 3
 Bowler: Gulbadin
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
 
@@ -960,5 +1061,6 @@ Run scored: 1
 Balls faced: 4
 Bowler: Gulbadin
 Over: 20
+ 
 Shot: No Shot
 Run scored: 1
