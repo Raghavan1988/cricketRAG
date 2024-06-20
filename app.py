@@ -30,8 +30,7 @@ def remove_extension(filename):
 BATSMAN_NAME = remove_extension(selected_file)
 
 # Text area for custom prompt
-default_prompt = f"""
-I am a cricket analyst for the Indian National cricket team
+default_prompt = f""" I am a cricket analyst for the Indian National cricket team
 1. Devise a ball-by-ball strategy that the Indian team can execute to get the batsman {BATSMAN_NAME} out in a T20 game
 2. Provide details on bowler names and field placements
 3. Provide evidence for why this strategy will work
@@ -60,12 +59,9 @@ def analyze_player(text):
 if st.button("Go!!"):
     if selected_file and prompt:
         # Read the content of the selected player file
-        player_content = read_file(os.path.join(player_directory, selected_file))
-
-        st.markdown(player_content)
-        
+        player_content = read_file(os.path.join(player_directory, selected_file))        
         # Concatenate player content and custom prompt
-        final_prompt = prompt + "\n" + player_content  
+        final_prompt = prompt + "\n Recent history:\n" + player_content  
         
         # Make API call to OpenAI
         try:
