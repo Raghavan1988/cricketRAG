@@ -62,9 +62,10 @@ def get_commentary_gpt4o(input_json):
     
     prompt = json.dumps(input_json) + "Above is cricket commentary for one over. Understand the json above and generate a textual commentary for each ball with witty comment based one of the following personalities and their styles chosen at random from the list below list = [\"Chuck Norris\", \"Harsha Bhogle\", \"Rameez Raja\", \"Ravi Shastri\", \"Tony Greig\", \"geoffrey boycott\", \"Richie Benaud\", \"David letterman\", \"Michael Holding\"]"
     prompt +=  "Commentary should include <b> over </b> :,  <b> ball number </b>,  who bowled to whom, what shot, what length and line, how many runs scored. "
-    prompt += " In the next line, <random color> <b> a witty comment based on the personality </b>, The personality should also say what could have been different in italics. Put personality in brackets for debugging purpose. Use emojis and different colors, bold the witty comment"
-    prompt += " Mix sarcasm, fun and make it engaging"
+    prompt += " In the next line, Use emojis and different colors, bold the witty comment <random color> <b> a witty comment based on the personality </b>, The personality should also say what could have been different in italics. Put personality in brackets for debugging purpose."
+    prompt += " Mix sarcasm, fun,show emotion and make it engaging with different EMOJIS"
     prompt += " return the commentary as a json list of string objects one for each ball. It should STRICTLY be just JSON LIST of String objects with NO KEY"
+
    
 
     response = client.chat.completions.create(
