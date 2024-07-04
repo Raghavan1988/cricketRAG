@@ -83,9 +83,9 @@ if (st.button("Get Commentary")):
         for item in json_array:
             st.markdown(item)
             time.sleep(2)
-    except:
+    except Exception as e:
         st.markdown(json_array)
-
+        st.markdown(e)
 
 
 
