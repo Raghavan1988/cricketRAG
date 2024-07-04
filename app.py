@@ -77,18 +77,16 @@ def get_commentary_gpt4o(input_json):
 import time
 if (st.button("Get Commentary")):
     content = get_ball_by_ball_commentary(URL)
-    st.markdown(str(type(content)))
     json_array = get_commentary_gpt4o(content)
-    st.markdown(str(type(json_array)))
 
     try:
 
         json_array = json.loads(json_array)
-        st.markdown(str(type(json_array)))
-
+        st.markdown("### commentary for the over one ball after the ball")
 
         for ball in json_array:
-            st.markdown(ball)
+
+            st.markdown(ball, unsafe_allow_html=True)
             time.sleep(2)
     except Exception as e:
         stock_response = "exception occured! retry"
