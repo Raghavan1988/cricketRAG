@@ -60,7 +60,7 @@ def get_ball_by_ball_commentary(URL):
 import json
 def get_commentary_gpt4o(input_json):
     
-    prompt = json.dumps(input_json) + "Above is cricket commentary for one over. Understand the json above and generate a textual commentary for each ball with witty comment based one of the following personalities and their styles chosen at random from the list below list = [\"Chuck Norris\", \"Harsha Bhogle\", \"Rameez Raja\", \"Ravi Shastri\", \"Tony Greig\", \"geoffrey boycott\"] Commentary should include over, who bowled to who, what shot, runs scored and a witty comment based on the personality in bold, personality should also say what could have been different in italics. Put personality in brackets for debugging purpose"
+    prompt = json.dumps(input_json) + "Above is cricket commentary for one over. Understand the json above and generate a textual commentary for each ball with witty comment based one of the following personalities and their styles chosen at random from the list below list = [\"Chuck Norris\", \"Harsha Bhogle\", \"Rameez Raja\", \"Ravi Shastri\", \"Tony Greig\", \"geoffrey boycott\"] Commentary should include over, who bowled to who, what shot, runs scored and a witty comment based on the personality in bold, personality should also say what could have been different in italics. Put personality in brackets for debugging purpose. Use emojis and different colors, bold the witty comment"
     prompt += " return the commentary as a json list of string objects one for each ball. It should STRICTLY be just JSON LIST of String objects with NO KEY"
    
 
@@ -95,7 +95,20 @@ if (st.button("Get Commentary")):
         st.markdown(e)
 
 
+# Define the width and height
+width = 300
+height = 600
 
+# Create an empty container
+space = st.empty()
+
+# Use the empty container to add HTML and CSS for spacing
+space.markdown(
+    f"""
+    <div style="width: {width}px; height: {height}px;"></div>
+    """,
+    unsafe_allow_html=True
+)
 # Text box for custom prompt
 
 prompt = st.text_area("Enter your Custom Prompt (if you want to override)", value=default_prompt,height=200)
