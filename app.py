@@ -53,9 +53,8 @@ def get_ball_by_ball_commentary(URL):
         return response.json()
     except requests.RequestException as e:
         print(f"Error fetching data: {e}")
-        if response:
-            print(f"URL: {response.url}")
-            print(f"Status Code: {response.status_code}")
+        st.markdown(e)
+       
         return e
 
 import json
