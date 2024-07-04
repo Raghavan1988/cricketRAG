@@ -82,12 +82,14 @@ if (st.button("Get Commentary")):
     json_array = get_commentary_gpt4o(content)
     try:
 
-        json_array = json.load(json_array)
-        for item in json_array:
-            st.markdown(item)
+        json_array = json.loads(json_array)
+
+        for ball in json_array["ball"]:
+            st.markdown(ball)
             time.sleep(2)
     except Exception as e:
-        st.markdown(json_array)
+        stock_response = "exception occured! retry"
+        st.markdown(stock_response)
         st.markdown(e)
 
 
