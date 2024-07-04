@@ -83,7 +83,7 @@ if (st.button("Get Commentary")):
 
     try:
 
-        json_array = json.load(json_array)
+        json_array = json.loads(json_array)
         st.markdown(str(type(json_array)))
 
 
