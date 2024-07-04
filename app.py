@@ -97,7 +97,7 @@ if (st.button("Get Commentary")):
 
 # Define the width and height
 width = 300
-height = 600
+height = 800
 
 # Create an empty container
 space = st.empty()
@@ -146,7 +146,19 @@ if st.button("Get Strategy!!"):
     else:
         st.error("Please select a file, enter a prompt, and provide your OpenAI API key.")
 
+width = 300
+height = 800
 
+# Create an empty container
+space = st.empty()
+
+# Use the empty container to add HTML and CSS for spacing
+space.markdown(
+    f"""
+    <div style="width: {width}px; height: {height}px;"></div>
+    """,
+    unsafe_allow_html=True
+)
 st.markdown(f"<br>----------------------------------<br><font color=green> Thanks to Cricinfo</font>", unsafe_allow_html=True)
 
 st.markdown("Scraped cricinfo to develop a dataset based on ball by ball commentary of cricinfo of each batsman's last several matches")
