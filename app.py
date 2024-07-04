@@ -79,7 +79,7 @@ if (st.button("Get Commentary")):
     json_array = get_commentary_gpt4o(content)
     try:
 
-        json_array = json.loads(json_array)
+        json_array = json.load(input_file)
         for item in json_array:
             st.markdown(item)
             time.sleep(2)
