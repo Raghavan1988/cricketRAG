@@ -79,9 +79,13 @@ if (st.button("Get Commentary")):
     content = get_ball_by_ball_commentary(URL)
     st.markdown(str(type(content)))
     json_array = get_commentary_gpt4o(content)
+    st.markdown(str(type(json_array)))
+
     try:
 
         json_array = json.load(json_array)
+        st.markdown(str(type(json_array)))
+
 
         for ball in json_array:
             st.markdown(ball)
