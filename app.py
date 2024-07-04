@@ -14,7 +14,7 @@ def read_file(file_path):
         return file.read()
 
 # Streamlit app
-st.title("Batsman Analysis with GPT-4o")
+st.title("Cricket GPT  - live commentary and develop strategy with GPT-4o")
 
 st.markdown(" Select a batsman from the *left dropdown* list (based on last name eg. kohli.txt)")
 # Directory containing player files
