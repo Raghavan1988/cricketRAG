@@ -89,6 +89,7 @@ if (st.button("Get Commentary")):
             time.sleep(2)
     except Exception as e:
         stock_response = "exception occured! retry"
+        st.markdown(json_array)
         st.markdown(stock_response)
         st.markdown(e)
 
