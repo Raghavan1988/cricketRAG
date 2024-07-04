@@ -37,10 +37,57 @@ default_prompt = f""" I am a cricket analyst for the Indian National cricket tea
 3. Provide evidence for why this strategy will work
 4. Choose a few from the bowlers Jasprit Bumrah, Siraj , Yuzvendra Chahal, Arshdeep Singh, Hardik Pandya, Kuldeep Yadav and Axar Patel
 """
+### Live match commentary
+
+## URL 
+URL = st.text_area("Enter the cricinfo URL to listen to")
+
+import requests
+def get_ball_by_ball_commentary(URL):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    try:
+        response = requests.get(URL, params={}, headers=headers)
+        response.raise_for_status()
+        return response.json()
+    except requests.RequestException as e:
+        print(f"Error fetching data: {e}")
+        if response:
+            print(f"URL: {response.url}")
+            print(f"Status Code: {response.status_code}")
+        return e
+
+import json
+def get_commentary_gpt4o(input_json):
+    prompt = json.dumps(input_json) + "Above is cricket commentary for one over. Understand the json above and generate a textual commentary for each ball with witty comment based one of the following personalities and their styles chosen at random from the list below list = [\"Chuck Norris\", \"Harsha Bhogle\", \"Rameez Raja\", \"Ravi Shastri\", \"Tony Greig\", \"geoffrey boycott\"] Commentary should include over, who bowled to who, what shot, runs scored and a witty comment based on the personality in bold, personality should also say what could have been different in italics. Put personality in brackets for debugging purpose"
+    prompt += " return the commentary in a json list of string objects"
+
+    response = client.chat.completions.create(
+        model = "gpt-4o",
+        messages=[
+            {"role": "system", "content": "You are cricket commentary generator"},
+            {"role": "user", "content": prompt}
+        ]
+    )
+
+    return response.choices[0].message.content
+
+import time
+if (st.button("Get Commentary")):
+    content = get_ball_by_ball_commentary(URL)
+    json_array = get_commentary_gpt4o(content)
+    json_array = json.loads(json_array)
+    for item in json_array:
+        st.markdown(item)
+        time.sleep(2)
+
+
+
 
 # Text box for custom prompt
 
-prompt = st.text_area("Enter your Custom Prompt (if you want to override)", value=default_prompt,height=250)
+prompt = st.text_area("Enter your Custom Prompt (if you want to override)", value=default_prompt,height=200)
 
 
 # Text box for OpenAI API key
@@ -58,7 +105,7 @@ def analyze_player(text):
 
 
 # Button to trigger the analysis
-if st.button("Go!!"):
+if st.button("Get Strategy!!"):
     if selected_file and prompt:
         # Read the content of the selected player file
         player_content = read_file(os.path.join(player_directory, selected_file))        
