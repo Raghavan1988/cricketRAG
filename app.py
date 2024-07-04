@@ -77,10 +77,14 @@ import time
 if (st.button("Get Commentary")):
     content = get_ball_by_ball_commentary(URL)
     json_array = get_commentary_gpt4o(content)
-    json_array = json.loads(json_array)
-    for item in json_array:
-        st.markdown(item)
-        time.sleep(2)
+    try:
+
+        json_array = json.loads(json_array)
+        for item in json_array:
+            st.markdown(item)
+            time.sleep(2)
+    except:
+        st.markdown(json_array)
 
 
 
