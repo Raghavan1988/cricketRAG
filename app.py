@@ -40,7 +40,7 @@ default_prompt = f""" I am a cricket analyst for the Indian National cricket tea
 ### Live match commentary
 
 ## URL 
-URL = st.text_area("Enter the cricinfo URL to listen to")
+URL = st.text_area("Enter the cricinfo URL to listen to", value="https://hs-consumer-api.espncricinfo.com/v1/pages/match/comments?seriesId=1367856&matchId=1384433&inningNumber=1&commentType=ALL&fromInningOver=2")
 
 import requests
 def get_ball_by_ball_commentary(URL):
